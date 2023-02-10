@@ -1,15 +1,15 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 104045,
+  "num_followers": 104075,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMGVhODA2MTc5OWFmZWU2ZDYwMmQ3M2E3NDk5NjUzNmRl",
+  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMGJhZWMyZjFjMWNjNjY1NTYwMjhjMDE3ZTVlNjQzMDUw",
   "tracks": [
     {
-      "added_at": "2023-02-09 01:17:26",
+      "added_at": "2023-02-10 01:22:04",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Pleasure (feat. RINI)",
-        "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 161305,
-      "name": "Pleasure (feat. RINI)",
-      "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Pleasure (feat. RINI)",
+        "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 161305,
+      "name": "Pleasure (feat. RINI)",
+      "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 204327,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        },
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 204327,
-      "name": "Girasol",
-      "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Cabr\u00f3n",
         "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Wild Americanos",
-        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
       "artists": [
         {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
         }
       ],
-      "duration_ms": 245666,
-      "name": "WILD AMERICANOS",
-      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -895,6 +895,22 @@
       "duration_ms": 187266,
       "name": "T\u00edpico",
       "url": "https://open.spotify.com/track/4azwCtiM7Gt2xWHmp0sPeY"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Wild Americanos",
+        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "WILD AMERICANOS",
+      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -935,26 +951,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Conoce",
         "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
       },
@@ -975,6 +971,26 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 183997,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 257233,
       "name": "Jungla de locos",
       "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
-      },
-      "artists": [
-        {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 159052,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
+      },
+      "artists": [
+        {
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
+        }
+      ],
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Del Amor Al Odio",
+        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Del Amor Al Odio",
+      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Alumnos",
         "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Del Amor Al Odio",
-        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
-      },
-      "artists": [
-        {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Del Amor Al Odio",
-      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Quiero (TDH's Version)",
-        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Quiero - TDH's Version",
-      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "esc\u00e1pate",
         "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Quiero (TDH's Version)",
+        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Quiero - TDH's Version",
+      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "DIADREAMER",
         "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Ninf\u00f3manos",
         "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 191706,
       "name": "Ninf\u00f3manos",
       "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2023-01-20 01:55:27",

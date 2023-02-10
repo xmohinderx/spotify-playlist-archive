@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
-126 songs - 6 hr 24 min
+127 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-13 | 2022-09-02 |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-26 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-15 |  |
+| [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-09 |  |
 | [Sans Toi \- Remix](https://open.spotify.com/track/6BnDehrpsY3LQrrrANSEiF) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Ekany](https://open.spotify.com/artist/7GgFXkbjGp2RnA3dnh1Yxq) | [Sans Toi \(Remix\)](https://open.spotify.com/album/15GJTjjpwIxGOvdjxUCaKm) | 4:00 | 2023-01-19 |  |
 | [Searching for chop](https://open.spotify.com/track/3oCoAHSyIv35b05q9UCHdV) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth) | [Searching for chop](https://open.spotify.com/album/5O7aeNeMMa432GbovLsrMS) | 3:08 | 2022-07-13 | 2022-09-15 |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-01-26 |  |

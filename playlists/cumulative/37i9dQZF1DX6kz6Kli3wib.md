@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-251 songs - 12 hr 20 min
+253 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Mistress](https://open.spotify.com/track/06oqnlt9Ay6bgIERsUEmK6) | [VLD](https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu) | [Mistress](https://open.spotify.com/album/2ejpt4QArdN2F7aepoZLO4) | 1:52 | 2022-09-02 |  |
 | [Modest Moon](https://open.spotify.com/track/1Ew8h2eAwWatofEShAvmSd) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Modest Moon](https://open.spotify.com/album/3ioCuXLAFYSnfNdFcnvq91) | 2:16 | 2022-10-07 |  |
 | [mojito](https://open.spotify.com/track/54JmK6z8m7jM2oaDlq7flm) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [mojito](https://open.spotify.com/album/3PK9VIEk2Ni3TB2R7bc3JS) | 2:15 | 2022-05-20 |  |
+| [Moment Of Truth](https://open.spotify.com/track/5UtW7NhfDYUmmLy87YKlat) | [Of An Age](https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le) | [Moment Of Truth](https://open.spotify.com/album/3zgh81HSmMS848FRY1ugqm) | 3:45 | 2023-02-10 |  |
 | [Moot](https://open.spotify.com/track/2l8i114g3bZrpwO9EgFNsH) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Moot](https://open.spotify.com/album/2x00k3LmpeSpfH9GcwwUHP) | 3:05 | 2022-09-02 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2021-11-11 |  |
 | [mountain](https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot) | 1:54 | 2022-07-29 | 2022-10-07 |
@@ -200,6 +201,7 @@
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2021-11-11 |  |
 | [Ses Salines](https://open.spotify.com/track/3XSFQLLzrM1nDWh13A4eci) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Ses Salines](https://open.spotify.com/album/2oGLfb0Nv0cDcyO2FRwEk8) | 2:56 | 2022-06-17 |  |
 | [Shimmer](https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Shimmer](https://open.spotify.com/album/0UPoyslKIHed6kluQUuP7M) | 2:59 | 2021-11-11 | 2022-05-20 |
+| [Shy Papi](https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Shy Papi](https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4) | 2:32 | 2023-02-10 |  |
 | [Signs](https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/46l0p9rQdScWD3CZjMqWtn) | 2:14 | 2022-12-16 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-11-11 | 2022-04-15 |
 | [soft bay](https://open.spotify.com/track/04efmW6Lew9Gtx5Ob1kiwL) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [soft bay](https://open.spotify.com/album/5O3Ki1xAAGOh3mTaXhJFxr) | 2:54 | 2022-09-16 |  |

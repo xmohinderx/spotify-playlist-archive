@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Yoa",
+  "description": "The best French indie tracks right now. Cover: Yelle",
   "name": "Made in France",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 270293,
       "name": "Am I A Fool ?",
       "url": "https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz"
+    },
+    {
+      "album": {
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
       "album": {
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 171061,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy"
@@ -804,7 +822,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 158026,
       "name": "Club de c\u0153ur",
       "url": "https://open.spotify.com/track/4dr17HvQ770Mt1evg83oQd"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 201641,
       "name": "Honey Pot",
       "url": "https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 167358,
       "name": "La Nuit",
       "url": "https://open.spotify.com/track/1R2JKsKJX85iBFxlLJedkp"
@@ -2482,6 +2500,24 @@
       "duration_ms": 190866,
       "name": "Last September",
       "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
+    },
+    {
+      "album": {
+        "name": "Le ciel en \u00e9moi",
+        "url": "https://open.spotify.com/album/047iuW5sevmlbrzXhEta3C"
+      },
+      "artists": [
+        {
+          "name": "Ladylike Lily",
+          "url": "https://open.spotify.com/artist/4c9EbrVVm6nlAgkZbtpoTg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Le ciel en \u00e9moi",
+      "url": "https://open.spotify.com/track/0AlYYfbyDem5tffuPINkiP"
     },
     {
       "album": {
@@ -2902,6 +2938,28 @@
       "duration_ms": 204874,
       "name": "Meguro",
       "url": "https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0"
+    },
+    {
+      "album": {
+        "name": "Mieux",
+        "url": "https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N"
+      },
+      "artists": [
+        {
+          "name": "Louisette",
+          "url": "https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT"
+        },
+        {
+          "name": "Amaury",
+          "url": "https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169151,
+      "name": "Mieux",
+      "url": "https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa"
     },
     {
       "album": {
@@ -3910,6 +3968,28 @@
       "duration_ms": 237653,
       "name": "Shaker de l'amour",
       "url": "https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ"
+    },
+    {
+      "album": {
+        "name": "Shaman In Your Arms",
+        "url": "https://open.spotify.com/album/4UAekpP9bkuag1LJNHphme"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        },
+        {
+          "name": "Jennifer Charles",
+          "url": "https://open.spotify.com/artist/33Y0z7Kdhmj2OInuJHwsDQ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191091,
+      "name": "Shaman In your Arms",
+      "url": "https://open.spotify.com/track/1ohOevUgHkTEAa8ZUTP0HT"
     },
     {
       "album": {

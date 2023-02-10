@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Attachment Styles",
+        "url": "https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139042,
+      "name": "Asking For It",
+      "url": "https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu"
+    },
+    {
+      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 183211,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
@@ -572,6 +590,24 @@
       "duration_ms": 208021,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U"
+    },
+    {
+      "album": {
+        "name": "Deny the Sun",
+        "url": "https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0"
+      },
+      "artists": [
+        {
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194495,
+      "name": "Deny the Sun",
+      "url": "https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj"
     },
     {
       "album": {
@@ -1173,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "just like me (slowed + reverb)",
+        "url": "https://open.spotify.com/album/2Vw8K8NvfZhMj86expwS2O"
+      },
+      "artists": [
+        {
+          "name": "newshapes",
+          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149101,
+      "name": "just like me",
+      "url": "https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h"
+    },
+    {
+      "album": {
         "name": "K.M.B.",
         "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
       },
@@ -1567,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "album": {
         "name": "Paint It In Blood",
         "url": "https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt"
       },
@@ -1618,6 +1690,24 @@
       "duration_ms": 242782,
       "name": "Pessimist",
       "url": "https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia"
+    },
+    {
+      "album": {
+        "name": "Pigs",
+        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Pigs",
+      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     },
     {
       "album": {
@@ -1816,7 +1906,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 213874,
       "name": "September Rain",
       "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"

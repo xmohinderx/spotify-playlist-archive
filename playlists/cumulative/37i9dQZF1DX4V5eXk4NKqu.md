@@ -2,7 +2,7 @@
 
 ### [Ultimate Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> Best Latin Indie tracks right now\. Cover: Carlos Sadness
+> The best Latin Indie tracks right now, featuring Carlos Sadness.
 
 214 songs - 12 hr 17 min
 

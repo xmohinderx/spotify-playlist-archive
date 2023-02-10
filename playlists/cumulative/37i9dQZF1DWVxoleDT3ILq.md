@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico & Goyo Degano
 
-310 songs - 18 hr 54 min
+311 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Caliope](https://open.spotify.com/track/7npPZabH0RxwxDrHyosMmt) | [Solución Violeta](https://open.spotify.com/artist/2OsFVQeJTSaO3BcwFC8GXe) | [Caliope](https://open.spotify.com/album/49t7J5Pe7Lro9n9sN9NRmv) | 3:38 | 2022-04-15 | 2022-07-25 |
 | [Caléndula](https://open.spotify.com/track/7syQvWPFTKzEBqLizRgLGI) | [Pelusa](https://open.spotify.com/artist/1uFuJCsLGA1nzL70bbPMzl) | [Caléndula](https://open.spotify.com/album/18e0PrxVPgcZJAQabYznIX) | 2:45 | 2022-04-15 | 2022-07-26 |
 | [Caminar](https://open.spotify.com/track/3Limp2D3b8AVub68UQSA4i) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [CALMA](https://open.spotify.com/album/2IqLgtGyOuCK8XvtJuBruS) | 3:53 | 2022-10-14 | 2022-10-29 |
-| [Camino](https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL) | [1960](https://open.spotify.com/artist/5bxjtmxLJ6GfSN09zlyFXR) | [Camino](https://open.spotify.com/album/0evvTTjFCewyr3gkHcxs3L) | 3:03 | 2022-06-03 |  |
+| [Camino](https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL) | [1960](https://open.spotify.com/artist/5bxjtmxLJ6GfSN09zlyFXR) | [Camino](https://open.spotify.com/album/0evvTTjFCewyr3gkHcxs3L) | 3:03 | 2022-06-03 | 2023-02-10 |
 | [Casi](https://open.spotify.com/track/1rTb0UaBhqtozVWr8Fn9ZN) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga), [Circuito Nacional](https://open.spotify.com/artist/3gwaNs7RvWYoa0C2XLApBV) | [Planetario en Circuito Nacional](https://open.spotify.com/album/7e29NNM8RxqgVgv99wP0e2) | 3:18 | 2022-04-15 | 2022-10-08 |
 | [Caudal](https://open.spotify.com/track/4whbPbsW4hp8kem7kAOziT) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Pirueta](https://open.spotify.com/album/3Sbf7GZMTahvu2dhHeABe5) | 4:34 | 2022-04-15 | 2022-07-29 |
 | [celebi](https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [celebi](https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z) | 3:10 | 2022-04-15 | 2022-12-10 |
@@ -226,6 +226,7 @@
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-12-31 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 | 2023-01-12 |
 | [Precio y Detalles](https://open.spotify.com/track/6YHU8WZI7eaa1EicKKWX2j) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Mismas Viejas Costumbres](https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO) | 3:02 | 2022-04-15 | 2022-07-26 |
+| [Primera Fila](https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Primera Fila](https://open.spotify.com/album/2EHbgDYcIOZ1b9TwB04I32) | 3:42 | 2023-02-03 |  |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 |  |

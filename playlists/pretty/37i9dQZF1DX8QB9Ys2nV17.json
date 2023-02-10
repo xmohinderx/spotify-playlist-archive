@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 170498,
+  "num_followers": 170513,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGFkOTY1MmM4ZjQ0MTNjYzBlZDcwZDkxZjAxZTgxY2E4",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGFlMDE2ODczYTQ3NjQ1NWEzMzQ0YTFjZjFjZjQwNTA4",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 292353,
       "name": "The Best Thing",
       "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Masters of War",
         "url": "https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
       },
       "artists": [
         {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
         }
       ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -783,6 +767,22 @@
       "duration_ms": 289026,
       "name": "Unintended Consequence Of Love",
       "url": "https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love Spin",
+        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
     },
     {
       "added_at": "2022-03-08 14:01:09",

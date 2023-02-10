@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 246400,
       "name": "^^",
       "url": "https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8"
@@ -4259,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "album": {
         "name": "hunch_A",
         "url": "https://open.spotify.com/album/0DpmjX5wqSs3MHthH7ok7T"
       },
@@ -6765,6 +6783,28 @@
     },
     {
       "album": {
+        "name": "Moon Prison",
+        "url": "https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "Moon Prison",
+      "url": "https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/67SZafGfnC2pos0huaGvOO"
       },
@@ -8196,7 +8236,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 238466,
       "name": "rubble pile",
       "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
@@ -14226,7 +14266,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
@@ -16784,7 +16824,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -19906,6 +19946,50 @@
       "duration_ms": 209620,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
+    },
+    {
+      "album": {
+        "name": "\u900f\u660e\u8272",
+        "url": "https://open.spotify.com/album/3prKWTJabmb8BF2YOiYELu"
+      },
+      "artists": [
+        {
+          "name": "\u7b39\u5ddd\u7f8e\u548c",
+          "url": "https://open.spotify.com/artist/5WNp2mVlvZrupWTT8PEuAY"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320864,
+      "name": "\u900f\u660e\u8272",
+      "url": "https://open.spotify.com/track/4cnjQRgF8sEQzjvBhR5iXD"
+    },
+    {
+      "album": {
+        "name": "Flash Back",
+        "url": "https://open.spotify.com/album/1mlzyp5BtNpCqx5WQrhd58"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Gal",
+          "url": "https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX"
+        },
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202752,
+      "name": "\u9038\u8a71",
+      "url": "https://open.spotify.com/track/469zONXVH5vy8loCFKMWZb"
     },
     {
       "album": {

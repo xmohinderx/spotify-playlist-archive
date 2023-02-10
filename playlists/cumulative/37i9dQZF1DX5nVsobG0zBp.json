@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Andal\u00e9",
+        "url": "https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU"
+      },
+      "artists": [
+        {
+          "name": "Minguito 283",
+          "url": "https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Andal\u00e9",
+      "url": "https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT"
+    },
+    {
+      "album": {
         "name": "AZTECA",
         "url": "https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy"
       },
@@ -325,6 +343,28 @@
     },
     {
       "album": {
+        "name": "Cara Que Engana",
+        "url": "https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179314,
+      "name": "Cara Que Engana",
+      "url": "https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk"
+    },
+    {
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -358,7 +398,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 147820,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
@@ -856,7 +896,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 265631,
       "name": "Hospedeira",
       "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
@@ -1139,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "METE1LIKE",
+        "url": "https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210415,
+      "name": "METE1LIKE",
+      "url": "https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj"
+    },
+    {
+      "album": {
         "name": "Meu Deus",
         "url": "https://open.spotify.com/album/0ypWv4RvWiIL1gRgXQKIvh"
       },
@@ -1226,7 +1288,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 174013,
       "name": "Momma",
       "url": "https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O"
@@ -1266,7 +1328,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
@@ -1976,7 +2038,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 174857,
       "name": "The Cold Room - S2-E10 - Pt.1",
       "url": "https://open.spotify.com/track/1cpiaL8iQnE3BssTcp6DvV"

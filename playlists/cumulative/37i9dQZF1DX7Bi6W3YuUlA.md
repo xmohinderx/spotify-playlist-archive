@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-351 songs - 17 hr 38 min
+352 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-11-18 |  |
 | [Imposters](https://open.spotify.com/track/1DDL6cX5wk9DdF9687YnCL) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Imposters](https://open.spotify.com/album/2R4CT9u5PLqHjSCC7uyFuP) | 2:38 | 2022-03-25 | 2022-11-19 |
 | [In Awe \(Live Performance\)](https://open.spotify.com/track/5goNJmUi7j897rieTFe17d) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [The Last Take](https://open.spotify.com/artist/313pwacN8Wf7ae4iC4JGfv) | [In Awe \(Live Performance\)](https://open.spotify.com/album/5EBP0IA68JttHLCEvmH0fa) | 3:24 | 2021-12-11 | 2022-07-29 |
-| [in my head.](https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [in my head.](https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01) | 3:23 | 2022-11-18 |  |
+| [in my head.](https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [in my head.](https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01) | 3:23 | 2022-11-18 | 2023-02-10 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-05-28 | 2022-11-13 |
 | [Indie](https://open.spotify.com/track/4OU4JK6MhbUYM2ApUOaUVq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Indie](https://open.spotify.com/album/6RyBE5XkSleRPtwsEXk8tA) | 1:44 | 2021-12-11 | 2022-07-27 |
 | [Irresponsible](https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Irresponsible](https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT) | 3:28 | 2021-12-11 | 2022-11-19 |
@@ -248,6 +248,7 @@
 | [Perfect](https://open.spotify.com/track/0q52LXX8XHQdSrm0nbKHxd) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC), [Jay Parker](https://open.spotify.com/artist/3Kqx0JRUCjIKgi09wjceLL) | [Perfect](https://open.spotify.com/album/5KiupqyhTeIG0RIwDSKwbO) | 3:05 | 2022-03-25 | 2022-07-28 |
 | [PLANTED](https://open.spotify.com/track/4xlCdlNoLCiuBPOGMuqVk6) | [jaylen.](https://open.spotify.com/artist/31pB8yW7wQnRzawADVIEKp), [ohsobrkn](https://open.spotify.com/artist/15wE1qOqrPevLWIdBcJCce) | [PLANTED](https://open.spotify.com/album/3ifZDT18U7KH24nM229hgp) | 3:00 | 2022-03-25 | 2022-07-27 |
 | [Popular](https://open.spotify.com/track/2bPSY5fAa2akW6Mu61QpXe) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Popular](https://open.spotify.com/album/7JUlv9LpTB8xGjFQYneZf8) | 4:08 | 2021-12-11 | 2022-07-28 |
+| [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 | 2022-11-18 |  |
 | [PRAISE!](https://open.spotify.com/track/1jZendUOQVhjPxMBPoh86b) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [PRAISE!](https://open.spotify.com/album/5duxSW1GJxNxMmap4GRJlL) | 6:22 | 2022-11-18 |  |
 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 | 2022-11-18 |  |
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-11-18 |  |

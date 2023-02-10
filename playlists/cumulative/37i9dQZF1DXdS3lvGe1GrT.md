@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-411 songs - 1 day 0 hr 58 min
+412 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [dog park](https://open.spotify.com/track/2N0scrG4sYYwWiwc9rShoI) | [Anna Kellam](https://open.spotify.com/artist/5kG2vfaHrnskPlXQXs7rHs) | [dog park](https://open.spotify.com/album/745NZnSvc0ziNbB1NN25OL) | 3:19 | 2023-02-08 |  |
 | [Don’t Feel Right](https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9) | [Steven OH](https://open.spotify.com/artist/0CaLV3kAYhNSWUmci7PGbQ) | [Don’t Feel Right](https://open.spotify.com/album/2wJhrSr43N9bjoT3bsr4bd) | 3:00 | 2022-06-29 | 2022-09-22 |
 | [Dorian Gray](https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Dorian Gray](https://open.spotify.com/album/0jKocMWiAQNEE6a2ZglBjs) | 3:37 | 2023-01-11 |  |
+| [Downplay](https://open.spotify.com/track/3MJjWLDpXDXvHR6ah2HhQx) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Downplay](https://open.spotify.com/album/3EDvgNolsYv2YRya1pw94L) | 3:27 | 2023-02-09 |  |
 | [Draw the Line](https://open.spotify.com/track/4yKBochFf24wBnbCo1qW3d) | [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS) | [Draw the Line](https://open.spotify.com/album/1tcfml2TBuvBOJGQWE2lrs) | 3:36 | 2023-01-25 |  |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2022-11-30 | 2023-01-12 |
 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 | 2022-08-24 | 2022-11-24 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-596 songs - 1 day 6 hr 12 min
+597 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Fırtınadayım](https://open.spotify.com/track/3QopdONAzZHRO1P4UQrNvw) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/1SjI5mOEGsnrfHRR4zY88f) | 4:22 | 2022-11-13 |  |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-11-16 | 2022-10-15 |
+| [Garezi Var](https://open.spotify.com/track/7fff6o1t622eIKOAOcQA8T) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [23](https://open.spotify.com/album/4VHsBoEFAsyVb5HpIxIeFq) | 4:17 | 2023-02-09 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
 | [Gayrimeşru](https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gayrimeşru](https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX) | 1:58 | 2022-05-28 | 2022-06-01 |
 | [Gece Gündüz](https://open.spotify.com/track/032ncNwownsax2RsiC5iCN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1QGVemNszLYbrqYqsdcqRH) | 3:02 | 2021-04-04 | 2021-08-01 |
@@ -523,7 +524,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Taksim](https://open.spotify.com/track/5jIaEzm69OQiXgpJN3MSdo) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Taksim](https://open.spotify.com/album/1QraVWAxVEwY8tD1GcH1im) | 3:11 | 2022-03-22 | 2022-03-24 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2022-12-24 | 2023-02-04 |
-| [TALIBANA](https://open.spotify.com/track/5pItIXivjDrUzI2iIhKIVK) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/6hAD0e4SiI1FQR7K265VrV) | 2:38 | 2023-02-08 |  |
+| [TALIBANA](https://open.spotify.com/track/5pItIXivjDrUzI2iIhKIVK) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/6hAD0e4SiI1FQR7K265VrV) | 2:38 | 2023-02-08 | 2023-02-10 |
 | [Tamam Aşkım](https://open.spotify.com/track/2pqe4vRhVzf6lHN4rzOTiB) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Aramam](https://open.spotify.com/album/2TJGVc8r8FEzYTlUCAGWMO) | 3:38 | 2021-07-01 | 2021-07-16 |
 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 | 2022-11-02 | 2022-11-06 |
 | [Tek Tabanca](https://open.spotify.com/track/3GXsNll1tpH9h9R3ygsEmB) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Tek Tabanca](https://open.spotify.com/album/6IZwq14LBnRItURc1H4r4Y) | 4:23 | 2021-04-18 | 2021-04-19 |

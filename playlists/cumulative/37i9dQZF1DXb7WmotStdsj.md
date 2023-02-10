@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-135 songs - 10 hr 55 min
+136 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Manich Fahem Rouhi](https://open.spotify.com/track/1xNX8gG65KGMxVaJucOHrd) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Manich Fahem Rouhi](https://open.spotify.com/album/3kgJcloeiWGoFKeRVGrIOM) | 6:00 | 2022-09-20 | 2022-12-01 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5dlisfuyJayuJXCDMEeov3) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:45 | 2022-11-14 |  |
 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 | 2021-10-19 |  |
+| [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 | 2023-02-09 |  |
 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 | 2022-09-20 | 2022-12-01 |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 |  |
 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 | 2022-09-20 |  |
@@ -108,7 +109,7 @@
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 | 2022-12-26 |
-| [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 |  |
+| [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 | 2023-02-10 |
 | [Nedabzou Sur Les Nerfs](https://open.spotify.com/track/0lEc7oxWZiZqF6tFvKoalb) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Nedabzou Sur Les Nerfs](https://open.spotify.com/album/0PsBfJV1yrqia6sltrwyu6) | 4:40 | 2023-01-14 |  |
 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 | 2022-09-20 | 2022-12-27 |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 | 2022-12-27 |

@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-142 songs - 11 hr 59 min
+143 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Tzatzìki](https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 6:31 | 2022-10-07 | 2022-11-13 |
 | [Tzatzìki](https://open.spotify.com/track/71as0IomI571JigqGYx76F) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Tzatzìki](https://open.spotify.com/album/4UTpoktqZgI9eOtN2d4eK6) | 6:31 | 2022-09-08 | 2022-09-25 |
 | [Unreal 2](https://open.spotify.com/track/1T0agMrrPJCyxuokcDMC2Y) | [An Pierlé Quartet](https://open.spotify.com/artist/3kQqOgWbhg3EwLNC7rRCum) | [Wiga Waga](https://open.spotify.com/album/2wePFLIhCJ3VsjMOQnRSFS) | 2:54 | 2022-09-08 |  |
+| [Vault\-A](https://open.spotify.com/track/5hnDNWvnvrac1jLVV61dF8) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Vault\-A](https://open.spotify.com/album/5IfkWD6MlAtWUujGVf6RrX) | 3:24 | 2023-02-09 |  |
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 | 2022-12-07 |
 | [Waksi](https://open.spotify.com/track/04UtGDGd2196p3Z0t1DMCv) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Waksi](https://open.spotify.com/album/6KzDyvv51a6uZAKIF0LLvV) | 3:35 | 2022-09-08 | 2022-09-26 |
 | [Waksi](https://open.spotify.com/track/6klvTcqZqEdAU7UvKJmX8C) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:35 | 2022-09-15 |  |

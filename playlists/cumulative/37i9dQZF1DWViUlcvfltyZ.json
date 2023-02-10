@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, gli Yonic South!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Asjatica!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 204258,
       "name": "Bla",
       "url": "https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 226000,
       "name": "Calamite",
       "url": "https://open.spotify.com/track/4rjM6Ju3F5XEqZ5XJEXdKb"
@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Figli dei fiori",
+        "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163894,
+      "name": "Figli dei fiori",
+      "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
+    },
+    {
+      "album": {
         "name": "Fiji",
         "url": "https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI"
       },
@@ -2853,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C"
+      },
+      "artists": [
+        {
+          "name": "Aire",
+          "url": "https://open.spotify.com/artist/1pePhxCgA1MOdEGgYjvNSZ"
+        },
+        {
+          "name": "Stellina Malinconica",
+          "url": "https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159512,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk"
+    },
+    {
+      "album": {
         "name": "dalla terra a marte",
         "url": "https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr"
       },
@@ -3056,7 +3096,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 171736,
       "name": "MATTO",
       "url": "https://open.spotify.com/track/1ESnQ3jsJ1AgmMBgjv3LSy"
@@ -3458,6 +3498,24 @@
       "duration_ms": 353731,
       "name": "Nuvola II",
       "url": "https://open.spotify.com/track/6UobW347K3eotJka699l7a"
+    },
+    {
+      "album": {
+        "name": "Nuvolone",
+        "url": "https://open.spotify.com/album/1ko2CMTLW4iba939mRTago"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e0ra",
+          "url": "https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186374,
+      "name": "Nuvolone",
+      "url": "https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB"
     },
     {
       "album": {
@@ -4144,7 +4202,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 257217,
       "name": "Senza svegliare nessuno",
       "url": "https://open.spotify.com/track/7Mar66ocny6SSA4bQqh4Sm"

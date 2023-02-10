@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Mikush",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: SPOOKYPBL",
   "name": "Raptopia",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 124511,
       "name": "10 MILA",
       "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
+    },
+    {
+      "album": {
+        "name": "1000 TRENI",
+        "url": "https://open.spotify.com/album/2hgrnoSm60XPVf0pPZaHdh"
+      },
+      "artists": [
+        {
+          "name": "hmizo",
+          "url": "https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161424,
+      "name": "1000 TRENI",
+      "url": "https://open.spotify.com/track/5xH2PyUHiLPdCSPOabjWoE"
     },
     {
       "album": {
@@ -762,6 +780,24 @@
       "duration_ms": 128684,
       "name": "Bambine dinamite",
       "url": "https://open.spotify.com/track/4ucrkxUUozcD3olbm3K3D9"
+    },
+    {
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174752,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0"
     },
     {
       "album": {
@@ -2322,7 +2358,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 167829,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj"
@@ -3195,6 +3231,46 @@
     },
     {
       "album": {
+        "name": "Fucking Heroes",
+        "url": "https://open.spotify.com/album/0njKI3DebXUOn2l6VL0RxH"
+      },
+      "artists": [
+        {
+          "name": "Noemi Coozy",
+          "url": "https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx"
+        },
+        {
+          "name": "WVNNV",
+          "url": "https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Fucking Heroes",
+      "url": "https://open.spotify.com/track/3cg0JGCTbQtSTdKtrNcLeX"
+    },
+    {
+      "album": {
+        "name": "Fumo Con Lei",
+        "url": "https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Fumo Con Lei",
+      "url": "https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s"
+    },
+    {
+      "album": {
         "name": "Fuori City",
         "url": "https://open.spotify.com/album/2AdATUIDap0eTSevVvrgSs"
       },
@@ -3320,7 +3396,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 184000,
       "name": "GANGSTAS",
       "url": "https://open.spotify.com/track/5daJAuPhdC5Ezv7EV4EMhD"
@@ -3670,7 +3746,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 181714,
       "name": "HALO MONSIEUR",
       "url": "https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t"
@@ -6372,7 +6448,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 154926,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
@@ -6438,6 +6514,28 @@
       "duration_ms": 195738,
       "name": "Poveri Stronzi",
       "url": "https://open.spotify.com/track/682PD2pANLI15ALgSgiJk2"
+    },
+    {
+      "album": {
+        "name": "PRESIDENTE",
+        "url": "https://open.spotify.com/album/3WNeAHKEEoPP4CA1haOXV0"
+      },
+      "artists": [
+        {
+          "name": "LUCHITOS",
+          "url": "https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX"
+        },
+        {
+          "name": "Draw Ice",
+          "url": "https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89426,
+      "name": "PRESIDENTE",
+      "url": "https://open.spotify.com/track/0hgxvzi32U5hEDY9bgo4KA"
     },
     {
       "album": {
@@ -6828,7 +6926,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 163738,
       "name": "Rick Owens (feat. Drast)",
       "url": "https://open.spotify.com/track/4Znj6S7JGcu4QbCyrs1GBL"
@@ -8777,6 +8875,24 @@
     },
     {
       "album": {
+        "name": "Yamamay",
+        "url": "https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162499,
+      "name": "Yamamay",
+      "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"
+    },
+    {
+      "album": {
         "name": "YO",
         "url": "https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT"
       },
@@ -8832,7 +8948,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 134159,
       "name": "\u00c8 chiaro",
       "url": "https://open.spotify.com/track/6KRdHoJs92lZjd3OAZfCyo"

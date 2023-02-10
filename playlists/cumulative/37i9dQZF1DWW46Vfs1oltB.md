@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Lil Cherry\(릴체리\)\)
 
-797 songs - 1 day 20 hr 19 min
+798 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Hommage \(Feat\. Swings\)](https://open.spotify.com/track/31lSZSQjdmQND10EFjw4pW) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [On the Wheel](https://open.spotify.com/album/1NuyhsJGJlxjqgaqVhuZPa) | 3:37 | 2022-08-27 | 2022-12-20 |
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 |  |
 | [Hopefully \(Feat\. Jung In\) \(Prod\. TOIL\)](https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:26 | 2021-12-29 | 2022-07-01 |
+| [HOW U FEEL? \(feat\. Woo\)](https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3) | [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HOLY](https://open.spotify.com/album/1odIOe9NrMNHlQg5l895Zc) | 2:52 | 2023-02-09 |  |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-08-18 |
 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 | 2022-06-03 | 2022-07-15 |
 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-02 |  |

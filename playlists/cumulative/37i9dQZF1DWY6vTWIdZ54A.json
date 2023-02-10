@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
+    },
+    {
+      "album": {
         "name": "\"Filthy\"",
         "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
       },
@@ -3634,24 +3652,6 @@
       "duration_ms": 156456,
       "name": "Shadow of Your Love",
       "url": "https://open.spotify.com/track/1noSh84nZafwMYvM49ffVd"
-    },
-    {
-      "album": {
-        "name": "Shakin' Off The Rust",
-        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "date_added": "2020-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222936,
-      "name": "Shakin' Off The Rust",
-      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
     },
     {
       "album": {

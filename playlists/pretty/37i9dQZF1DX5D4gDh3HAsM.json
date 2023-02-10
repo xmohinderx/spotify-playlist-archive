@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 516482,
+  "num_followers": 516407,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDA3YjRjNzRiOTc3ZDUzZTA4Y2QyN2ZhNmE5OTkzZWI2",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGJkNmMwM2FkYTYxNDNiY2MxMWExOWMzM2QxMTVmMmY1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
     },
     {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Just Me This Year",
@@ -507,22 +523,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "I Dream Of Christmas",
         "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
     },
     {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Merriest",
@@ -571,22 +587,6 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+        "name": "Three Suites",
+        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
       },
       "artists": [
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+      "duration_ms": 185186,
+      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -655,18 +655,50 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Three Suites",
-        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
-      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas Calling (Jolly Jones)",
+        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -691,22 +723,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Calling (Jolly Jones)",
-        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas in the Rockies",
         "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Show Me The Magic",
-        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+        "name": "Simply Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         }
       ],
-      "duration_ms": 150412,
-      "name": "Show Me The Magic",
-      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
+      "duration_ms": 182852,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -771,22 +787,6 @@
       "duration_ms": 297200,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Simply Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",

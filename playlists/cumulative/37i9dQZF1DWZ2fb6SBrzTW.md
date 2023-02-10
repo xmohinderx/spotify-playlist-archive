@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-204 songs - 10 hr 49 min
+205 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/track/5xF4mGKhhEzQTsyRq0rRa9) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/album/2vZ9iueqO6h60I0X3NHxIX) | 3:57 | 2021-12-02 | 2022-07-26 |
 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-18 | 2023-02-06 |
 | [Cash Out](https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cash Out](https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX) | 3:08 | 2022-10-21 | 2022-11-19 |
-| [Caution](https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl) | 2:25 | 2022-08-12 |  |
+| [Caution](https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl) | 2:25 | 2022-08-12 | 2023-02-10 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
+| [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-10 |  |
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Cho Cho Cho](https://open.spotify.com/track/1quf400g3rYDKzYbjpvyK9) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N) | [Cho Cho Cho](https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu) | 2:57 | 2022-06-23 | 2022-07-23 |

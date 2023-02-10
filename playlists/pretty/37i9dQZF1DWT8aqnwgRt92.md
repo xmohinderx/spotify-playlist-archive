@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,761 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,745 likes - 85 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 75 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 |
 | 76 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 |
 | 77 | [Loud Hailer](https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 3:48 |
-| 78 | [Here is](https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Here is](https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb) | 4:10 |
-| 79 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 |
-| 80 | [Evolution](https://open.spotify.com/track/37Lrq9EI7AYyCp8z8i7wSo) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Evolution](https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa) | 3:51 |
-| 81 | [Paranoid](https://open.spotify.com/track/75fvRZNH5rZ7z99ib3hAHu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Paranoid](https://open.spotify.com/album/6yThhWIqcbhAhxMihzSBUS) | 3:31 |
+| 78 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 |
+| 79 | [Evolution](https://open.spotify.com/track/37Lrq9EI7AYyCp8z8i7wSo) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Evolution](https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa) | 3:51 |
+| 80 | [Paranoid](https://open.spotify.com/track/75fvRZNH5rZ7z99ib3hAHu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Paranoid](https://open.spotify.com/album/6yThhWIqcbhAhxMihzSBUS) | 3:31 |
+| 81 | [愛を知っている](https://open.spotify.com/track/6rkN5ursVvVLzsrbjZLwq1) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l) | [愛を知っている](https://open.spotify.com/album/0T51jMLLQlZvlVJjJkCLkz) | 3:03 |
 | 82 | [Colorful End Epilogue](https://open.spotify.com/track/08l8ahP9ON3IgZlmd2MSq1) | [Aoi Hinami CV:Hisako Kanemoto](https://open.spotify.com/artist/58xCmrfkphazgFOSW23jeB), [Minami Nanami CV:Ikumi Hasegawa](https://open.spotify.com/artist/4jvhiQ48F1GvfkMPi2fmhA), [Fuka Kikuchi CV:Ai Kayano](https://open.spotify.com/artist/3OPQjCACaT1pc3XwLUIMAG), [Hanabi Natsubayashi CV:Ryoko Maekawa](https://open.spotify.com/artist/1Lvy52tFRA7TEngZo43RUS), [Yuzu Izumi CV:Nene Hieda](https://open.spotify.com/artist/7536p0IJ25tvovUuiuCAlE) | [Colorful End Epilogue](https://open.spotify.com/album/0ajaRXvcSFvPyuRprwJECd) | 4:23 |
 | 83 | [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 |
 | 84 | [Maihime](https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime / Around and Around](https://open.spotify.com/album/50w6AeGNRJxIeq9pouT0oY) | 3:30 |
 | 85 | [SEIEN](https://open.spotify.com/track/42o1jncT5EodHI9TP6J3f5) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [SEIEN](https://open.spotify.com/album/0U6PwfdcTKaLaHKyIWGl16) | 3:26 |
 
-Snapshot ID: `MTY3NTc4NTg5MSwwMDAwMDAwMDg2ZTkyMDIzMzk1M2Y0MjMwMDI3YTBlOTVmNjc2Nzky`
+Snapshot ID: `MTY3NTk1NDgwMCwwMDAwMDAwMDI5MzYxZjgwZjRjNmFhYjIzNGEzYjcxY2JhMTFkN2Uz`

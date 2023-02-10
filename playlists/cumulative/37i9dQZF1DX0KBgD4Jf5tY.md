@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2e0HLVyPlF5jP9khNWfV3m">Fata</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG?si=6PutexWfRRWJz6eQmdKSFA">Kuni</a>
 
 567 songs - 1 day 4 hr 34 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=GZYCF3NjTmWkpbhFM2RqRA\" > Jeriq </a> ",
-  "num_followers": 15527,
+  "num_followers": 15542,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNTI3NiwwMDAwMDAwMGE5NTEyZjlmMTM2Mjc1MTI0MDYxMjJiNjliMTE0NDQw",
+  "snapshot_id": "MTY3NTQxNTI3NiwwMDAwMDAwMGQ2ZGVjZTIwYzUxNmQwMzZjODlkNDJmODRhY2UwNTQ1",
   "tracks": [
     {
       "added_at": "2023-01-27 09:16:17",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "YOUNG PREACHER",
+      "url": "https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "E No Fit Be Me",
         "url": "https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 175013,
       "name": "E No Fit Be Me",
       "url": "https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 142921,
-      "name": "YOUNG PREACHER",
-      "url": "https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
     },
     {
+      "added_at": "2023-02-03 09:07:56",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM"
+      },
+      "artists": [
+        {
+          "name": "Thekiddnk",
+          "url": "https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy"
+        }
+      ],
+      "duration_ms": 100736,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t"
+    },
+    {
       "added_at": "2023-01-27 09:16:17",
       "album": {
         "name": "The Guy",
@@ -1187,6 +1203,26 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
         "name": "Your Waist",
         "url": "https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo"
       },
@@ -1211,26 +1247,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 135889,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to"
-    },
-    {
-      "added_at": "2023-02-03 09:07:56",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM"
-      },
-      "artists": [
-        {
-          "name": "Thekiddnk",
-          "url": "https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy"
-        }
-      ],
-      "duration_ms": 100736,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t"
     },
     {
       "added_at": "2023-01-27 09:16:17",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-01-27 09:16:17",
       "album": {
-        "name": "Symbiosis",
-        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
-        }
-      ],
-      "duration_ms": 249286,
-      "name": "Symbiosis",
-      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
-    },
-    {
-      "added_at": "2023-01-27 09:16:17",
-      "album": {
         "name": "Omo X 100",
         "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 126750,
       "name": "Omo X 100",
       "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+    },
+    {
+      "added_at": "2023-01-27 09:16:17",
+      "album": {
+        "name": "Symbiosis",
+        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "duration_ms": 249286,
+      "name": "Symbiosis",
+      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
       "added_at": "2023-01-27 09:16:17",

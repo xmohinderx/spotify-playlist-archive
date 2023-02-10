@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE! MOONLIGHT SUNRISE is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,275 likes - 113 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,762 likes - 113 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
-| 2 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MOMO](https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ), [SANA](https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm), [MINA](https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 |
+| 2 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 |
 | 3 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 4 | [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 |
 | 5 | [Queen of Hearts](https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:06 |

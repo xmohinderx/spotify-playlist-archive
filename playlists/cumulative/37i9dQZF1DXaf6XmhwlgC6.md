@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-148 songs - 8 hr 15 min
+151 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 | 2022-12-19 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
+| [Faint Light](https://open.spotify.com/track/42nScCyHCBqR9HrEjM1iSZ) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Faint Light](https://open.spotify.com/album/5Zc0qHjjZf0Vfuc6DqyDvu) | 2:15 | 2023-02-09 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 | 2022-11-11 |  |
 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |
@@ -54,6 +55,7 @@
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-03-30 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
+| [Homeward](https://open.spotify.com/track/73ezDZrPMOCfrd06ctU2lI) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Homeward](https://open.spotify.com/album/67LC6kwgCHBawwvif4AG6k) | 2:29 | 2023-02-09 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
@@ -106,7 +108,7 @@
 | [Sea Level](https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M) | [Stephane Landgrebe](https://open.spotify.com/artist/5dxvpJIhy9HmkQbasNrqy5) | [Sea Level](https://open.spotify.com/album/7GIdcbJFXgbRf1hORxLV2L) | 1:58 | 2022-06-20 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-03-30 |  |
 | [Seven States Of Bliss](https://open.spotify.com/track/1dZczT24YixYv7YpIbY5eT) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4ZVfELsVXfYfu39mpanZDh) | 4:39 | 2022-03-30 | 2022-11-09 |
-| [Seven States Of Bliss](https://open.spotify.com/track/5nVOrxH8lgo3LF6AEUD2kP) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4cBhiK13JwxofI6s0guLk4) | 4:39 | 2022-10-21 |  |
+| [Seven States Of Bliss](https://open.spotify.com/track/5nVOrxH8lgo3LF6AEUD2kP) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4cBhiK13JwxofI6s0guLk4) | 4:39 | 2022-10-21 | 2023-02-10 |
 | [Silent Relief](https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Silent Relief](https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh) | 2:40 | 2022-06-24 |  |
 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 | 2022-03-30 |  |
 | [Slow Move](https://open.spotify.com/track/3mnAvzGT0DYm0pGxtJp5Yi) | [Amber Fall](https://open.spotify.com/artist/56KiUsVJcleCu44rnYvPh9) | [Slow Move](https://open.spotify.com/album/27jqdgUJaoV4Y6TZc7DOgt) | 2:30 | 2023-02-03 |  |
@@ -114,6 +116,7 @@
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
+| [Swirl](https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Swirl](https://open.spotify.com/album/01Qt1xfREQwMLZVPceyipW) | 2:09 | 2023-02-09 |  |
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 |  |
 | [Tattersail](https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [There, Nearly](https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf) | 2:34 | 2023-01-13 |  |

@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-464 songs - 21 hr 38 min
+465 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Skydive](https://open.spotify.com/track/2aPc786LDXhSEcuVIXaPU6) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf) | [Skydive](https://open.spotify.com/album/2bi745ZJMvRPAuzYRpEF1k) | 2:58 | 2022-07-22 | 2022-09-03 |
 | [SLIIIDE](https://open.spotify.com/track/18z0K3xS9Kp7a3BfY9cPIh) | [Connect Zero](https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH) | [SLIIIDE](https://open.spotify.com/album/6NpUxL3DBHAebXKd1y93rZ) | 4:00 | 2022-09-02 | 2022-10-26 |
 | [Slip 'N Slide](https://open.spotify.com/track/0Sb2l1MT1uRpD5Nm2TAlsj) | [Yung Wolf](https://open.spotify.com/artist/27gPbWnoWp4klWhkPVOA9H) | [All Boys Wear P!NK](https://open.spotify.com/album/1uF6rUKe343ZMHnuFQ1QdC) | 2:08 | 2022-09-30 | 2022-10-26 |
-| [soonish \- remix](https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5) | [Blimes](https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM), [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [soonish \(remix\)](https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp) | 3:13 | 2023-01-13 |  |
+| [soonish \(feat\. Gifted Gab, Gavlyn, Kissflame\) \- remix](https://open.spotify.com/track/67LG6Gt1x65FvVOzhh8mRK) | [Blimes](https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM), [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [soonish \(feat\. Gifted Gab, Gavlyn, Kissflame\) \[remix\]](https://open.spotify.com/album/6dIkui7FFdvqPcKV34NPyK) | 3:13 | 2023-01-13 |  |
+| [soonish \- remix](https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5) | [Blimes](https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM), [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [soonish \(remix\)](https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp) | 3:13 | 2023-01-13 | 2023-02-10 |
 | [sounds](https://open.spotify.com/track/6Adeb7aRSfgqElqnlhkukf) | [Seiji](https://open.spotify.com/artist/7h8BjWoH0TC1Zf2HwAmdEe) | [sounds](https://open.spotify.com/album/10Jjf8RwCE65aw4NJR6CG0) | 1:37 | 2022-09-09 | 2022-12-03 |
 | [SOURCE OF FAITH](https://open.spotify.com/track/5f3VPKQNxmVbLjx6dAeN3O) | [Sol](https://open.spotify.com/artist/5mYS4mPFCpxvQwGU8rT43a), [Richii Racks](https://open.spotify.com/artist/4KbazUCfkr2jKsnAOmQ8ri) | [SUPPLY PACK](https://open.spotify.com/album/4T3MQIou61yojC2OhmvCcZ) | 2:04 | 2023-01-13 |  |
 | [SOUTHERN RAP MUSIC](https://open.spotify.com/track/0QQFtTuepJ8lsjByj2xCL1) | [Max Marz](https://open.spotify.com/artist/4fKDnAyOiVw2oKUD82Cqjb), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52) | [M9](https://open.spotify.com/album/7CXSDCS8Mhpxyd8plyzmRp) | 1:17 | 2022-02-18 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,188 songs - 2 day 14 hr 10 min
+1,189 songs - 2 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-21 | 2021-11-25 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-03 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-24 | 2022-12-27 |
+| [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-02-09 |  |
 | [Hope](https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi) | [STEFAN](https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug) | [Hope](https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK) | 3:03 | 2022-05-16 | 2022-05-29 |
 | [Hosianna](https://open.spotify.com/track/0KNNigu6CljMvKuZGe78vT) | [Adolf Fredriks Ungdomskör](https://open.spotify.com/artist/6ndU5g0BhZSHF1OjYsftlX) | [Jul med Adolf Fredriks](https://open.spotify.com/album/1TeVd6o5yP7nWoIoCxXt8U) | 2:22 | 2022-12-14 | 2022-12-20 |
 | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/track/2TLVUAQzq9FnzSxFYGOF7Y) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H) | 1:36 | 2022-09-24 | 2022-10-23 |
@@ -593,7 +594,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-05 | 2022-10-16 |
 | [Kulor \(Intro\)](https://open.spotify.com/track/5hrDLjhhAHCYOONnAUAAkD) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:38 | 2022-04-30 | 2022-05-08 |
 | [Kyssa dig nu](https://open.spotify.com/track/3MRPAZBKGc7D1KE19TLPBz) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Kyssa dig nu](https://open.spotify.com/album/2biUzX6bacwtB4zgcWFdMx) | 2:23 | 2021-10-10 | 2021-10-11 |
-| [KYSST](https://open.spotify.com/track/1I1M4PUchr3b0aqYFxgtQn) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [KYSST](https://open.spotify.com/album/2GDMn6MYLNrISelMnZvn4g) | 2:47 | 2023-02-07 |  |
+| [KYSST](https://open.spotify.com/track/1I1M4PUchr3b0aqYFxgtQn) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [KYSST](https://open.spotify.com/album/2GDMn6MYLNrISelMnZvn4g) | 2:47 | 2023-02-07 | 2023-02-10 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/0uJkV2PIfImwkOxh09C5wK) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5G8bQMGvwxtTIJGuni3jzL) | 2:46 | 2021-06-13 | 2021-06-27 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2022-08-21 | 2022-08-23 |
 | [Kärlek](https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 3:26 | 2022-10-15 | 2022-10-30 |

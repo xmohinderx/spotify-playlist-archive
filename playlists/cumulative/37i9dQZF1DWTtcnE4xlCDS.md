@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-108 songs - 6 hr 48 min
+109 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cheater](https://open.spotify.com/track/5twtNpFW2opaTy4MbAYdcV) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM) | [Cheater](https://open.spotify.com/album/0ovGFZNkO5iPwGEeiMZp8z) | 3:03 | 2022-12-08 |  |
 | [Chick Chick love♡](https://open.spotify.com/track/5XH6OGHlYOhWtnsOkQ3xr2) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2) | [Chick Chick love♡](https://open.spotify.com/album/1rUW0xUvhO4ewnBKdSBAhM) | 3:36 | 2022-08-24 |  |
 | [Cinderella Magic Stage](https://open.spotify.com/track/4i5Z3kLt4j7wrsp0HdhSVU) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [Cinderella Magic Stage](https://open.spotify.com/album/0RwGN4h39P816HrnYrKhf6) | 4:39 | 2022-10-13 |  |
+| [Crush](https://open.spotify.com/track/5H7FLE6suGxFGiJnAb8N6m) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [SHOW](https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA) | [Crush](https://open.spotify.com/album/0K7lC8wFMvBVyfHtbenEn9) | 3:49 | 2023-02-09 |  |
 | [Dennou Lolipop](https://open.spotify.com/track/5JIXFqgOqSDqQXdwnAxGSG) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [周防パトラ](https://open.spotify.com/artist/3LTPARNH0ELrOz0vG7fS5f), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [Dennou Lolipop](https://open.spotify.com/album/743KLotFR2zs4lqN7TvwI0) | 3:11 | 2022-10-13 | 2022-11-13 |
 | [Dennou Lolipop](https://open.spotify.com/track/1QBi1B7tNpnMoaV9I3qf9F) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [周防パトラ](https://open.spotify.com/artist/3k7moMXUTPj4s7vJ0Z45In) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:11 | 2022-08-24 |  |
 | [Distortion](https://open.spotify.com/track/3ABRb3RKETcTBBMhoig6xs) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Distortion](https://open.spotify.com/album/1MZQjf1v6LY8tBtHquAxYr) | 4:30 | 2022-08-24 |  |

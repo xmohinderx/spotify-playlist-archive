@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
-446 songs - 20 hr 39 min
+447 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-11-16 | 2022-02-26 |
 | [LMAO](https://open.spotify.com/track/4jbX8yMax8x7jTM1ceAARY) | [Bayo](https://open.spotify.com/artist/6tXNDrmc1A4cr3MoipU6YT) | [LMAO](https://open.spotify.com/album/5dhNVdhw4GWClYB9j60iWI) | 2:13 | 2023-02-03 |  |
 | [LMK](https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [LMK](https://open.spotify.com/album/3Xpq6wIvop8j2akHp9fkgp) | 2:07 | 2022-02-04 | 2022-05-20 |
+| [LOOKING FOR A REASON](https://open.spotify.com/track/6T2XnrZJX141DhJdOWFQuM) | [MO](https://open.spotify.com/artist/1m2fmnsuy3S4Hnay7C5O8D) | [LOOKING FOR A REASON](https://open.spotify.com/album/5tmVKEjXtSHFG6rgnttSCp) | 1:39 | 2023-02-09 |  |
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 | 2022-04-29 |
 | [lost my boat](https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [lost my boat](https://open.spotify.com/album/0VuHQGgJuOFPKvFeXSP4AE) | 3:22 | 2022-06-17 | 2022-07-07 |
 | [Love Feels](https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6) | [The Grouch & Eligh](https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ) | [What Would Love Do](https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U) | 3:44 | 2022-04-19 | 2022-05-20 |

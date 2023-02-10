@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43898,
+  "num_followers": 43903,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDA5MDA2MmE1NTJlYjAxNDIxOTdmYjgzZTEyMWMyOGU3",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDllMDc0YWE5YjJlMTQ3NjFjMmM5NDBjMjRhYTNkNGZi",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Come Thou Fount of Every Blessing",
         "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
       },
       "artists": [
         {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
         }
       ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+      "duration_ms": 240630,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -419,22 +435,6 @@
       "duration_ms": 260173,
       "name": "Find My Home",
       "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Waters",
-        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
-      },
-      "artists": [
-        {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
-        }
-      ],
-      "duration_ms": 240630,
-      "name": "Waters",
-      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Loved by You",
         "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 294780,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Worth It All",
         "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 217675,
       "name": "Worth It All",
       "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+      "duration_ms": 244270,
+      "name": "Hiding Lord",
+      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 244270,
-      "name": "Hiding Lord",
-      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 317989,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
     },
     {
       "added_at": "2020-12-18 06:02:14",

@@ -2,7 +2,7 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites!
+> Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
 
 112 songs - 4 hr 43 min
 

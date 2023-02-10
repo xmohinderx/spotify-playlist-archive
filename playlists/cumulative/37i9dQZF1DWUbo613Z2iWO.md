@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Amaria
 
-527 songs - 1 day 3 hr 25 min
+528 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Not Mine](https://open.spotify.com/track/3nTJgNAH9A2oRA9IprpTl1) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Not Mine](https://open.spotify.com/album/2UOCKgxyChxxG7Xfm4RkjE) | 2:14 | 2022-12-02 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 | 2022-10-01 |
 | [nothing](https://open.spotify.com/track/6GTPMiHSRqMTLbTzSAEGBO) | [Nick Acevedo](https://open.spotify.com/artist/5WKiirAZgjX0NyIzKuoX7J) | [nothing](https://open.spotify.com/album/567NzsU7dB8ichKPOoasIj) | 3:13 | 2022-04-01 | 2022-05-14 |
-| [Nowhere](https://open.spotify.com/track/7fKc5MN0uzPj30w0fXgo9l) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Like Girls](https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP) | 3:00 | 2023-01-20 |  |
+| [Nowhere](https://open.spotify.com/track/2oAJrZJ7PBR4LtqZi1cSXL) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Like Girls](https://open.spotify.com/album/7Ah6FjEDAbEYlms3sh1EXu) | 3:00 | 2023-01-20 |  |
+| [Nowhere](https://open.spotify.com/track/7fKc5MN0uzPj30w0fXgo9l) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Like Girls](https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP) | 3:00 | 2023-01-20 | 2023-02-10 |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 | 2022-11-28 |
 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 | 2022-07-15 |  |
 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 | 2022-10-21 | 2023-01-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Rachelle Allison",
+  "description": "Les hits dancehall du moment. Photo : Jahyanai",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "BACKYTOP",
+        "url": "https://open.spotify.com/album/7lIk8csNFDqr6qRFZHyODG"
+      },
+      "artists": [
+        {
+          "name": "WayWay",
+          "url": "https://open.spotify.com/artist/7EziVI64JRuXGUzN8qy1no"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157368,
+      "name": "BACKYTOP",
+      "url": "https://open.spotify.com/track/7nrShg7j8pfL4qOszh8r1H"
+    },
+    {
+      "album": {
         "name": "Bad (Latin Remix)",
         "url": "https://open.spotify.com/album/4RYR5yNVhoYnCes9n949qP"
       },
@@ -444,6 +462,24 @@
       "duration_ms": 134842,
       "name": "Beg Mi Ah Link",
       "url": "https://open.spotify.com/track/7FQb9eUgaoXjnWm6PeP6r0"
+    },
+    {
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139613,
+      "name": "Beleck",
+      "url": "https://open.spotify.com/track/5bf3qVyRtIpk4Ym3JHalWk"
     },
     {
       "album": {
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 190434,
       "name": "drink & smoke",
       "url": "https://open.spotify.com/track/2ELkJexSujeKTkEAJzcKow"
@@ -2121,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "KIMPEMBE",
+        "url": "https://open.spotify.com/album/5EBbXZDMWTfSBCGZL5ETAW"
+      },
+      "artists": [
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "KIMPEMBE",
+      "url": "https://open.spotify.com/track/6qNqMw6bXD4Y8zNMe4epob"
+    },
+    {
+      "album": {
         "name": "KIYOO",
         "url": "https://open.spotify.com/album/5ZHXbA1YKXmyVmivJrxZWu"
       },
@@ -2812,7 +2866,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 172048,
       "name": "No Bedtime Story",
       "url": "https://open.spotify.com/track/2jbkYbbAl9FPCcahuayiuR"
@@ -3472,7 +3526,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 166874,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3KpUxFBQw6540ate80bD8o"
@@ -3512,6 +3566,32 @@
       "duration_ms": 154582,
       "name": "Set It",
       "url": "https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO"
+    },
+    {
+      "album": {
+        "name": "Shatta Twist",
+        "url": "https://open.spotify.com/album/6CqrWIfIYv8gI8aGLlBTP8"
+      },
+      "artists": [
+        {
+          "name": "HURRICAN X",
+          "url": "https://open.spotify.com/artist/3IBHfYxRgEQl6m8StAGjgZ"
+        },
+        {
+          "name": "Lupin",
+          "url": "https://open.spotify.com/artist/7EC9ZWCZa08CJ9QLCJNfrU"
+        },
+        {
+          "name": "70 SHIINE",
+          "url": "https://open.spotify.com/artist/2zXSoBiBJMdV1XjYbVI0op"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Shatta Twist",
+      "url": "https://open.spotify.com/track/290QMvxXhz9mPiOIqFiuTh"
     },
     {
       "album": {
@@ -3866,7 +3946,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 211500,
       "name": "Tek Jam",
       "url": "https://open.spotify.com/track/5Z2XXc8L1j6aXXE3ZMaJVF"

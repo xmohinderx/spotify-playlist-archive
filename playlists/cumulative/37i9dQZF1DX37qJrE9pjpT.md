@@ -2,9 +2,9 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-64 songs - 3 hr 45 min
+65 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [My confession](https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL) | [Innomatix](https://open.spotify.com/artist/2N6seBgLo0Ec074O3v9NZB), [Justin lico](https://open.spotify.com/artist/130wK2o4WKZ5Jad06YoYzz) | [My confession](https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim) | 3:31 | 2022-07-08 |  |
 | [My Life](https://open.spotify.com/track/6qFBaQwUOkyPi4QeFls77X) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [My Life](https://open.spotify.com/album/3TnjNHYeqU1UyYm4MYaToM) | 3:44 | 2022-03-28 |  |
 | [Mzee Mbuzi](https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Kitaaolojia](https://open.spotify.com/album/1UK4Xl5OjQdJZsI52ZBewB) | 3:36 | 2022-03-28 |  |
-| [Nesa Nesa](https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Nesa Nesa](https://open.spotify.com/album/0XeudDQ4NkZPijFWCVEybP) | 3:15 | 2022-03-28 |  |
+| [Nesa Nesa](https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Nesa Nesa](https://open.spotify.com/album/0XeudDQ4NkZPijFWCVEybP) | 3:15 | 2022-03-28 | 2023-02-10 |
 | [O 2 the G Cypher](https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [JawnRaw](https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [Subtex](https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3), [Jonathon Karabekian](https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn), [nem r](https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0), [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM), [Plate Mdaijasho](https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW), [Cody Nash](https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl), [Shazzy B](https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX) | [O 2 the G Cypher](https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH) | 7:51 | 2023-01-13 |  |
 | [OWN BO$$](https://open.spotify.com/track/67oXagPoTbm4XivSJ17MIx) | [Akim Rubi](https://open.spotify.com/artist/2jUNGiVgRjY50lUHQFxWQ8) | [OWN BO$$](https://open.spotify.com/album/6szXz3RCn2BkNhL9C02Fme) | 2:02 | 2022-04-14 | 2023-01-21 |
 | [Penzi La Bando](https://open.spotify.com/track/0SxZTwQeZ8v2o7Y6bH7KEX) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK), [Khadija Kopa](https://open.spotify.com/artist/1s1TIAIKBdvHt03yUuKmqr) | [AIR WEUSI](https://open.spotify.com/album/5nejSaBxg7FugqcXWtOoNr) | 3:45 | 2022-03-28 | 2022-10-22 |
@@ -71,6 +71,7 @@
 | [Tunawaka](https://open.spotify.com/track/5410D9GERkTOPJtAiw1hHH) | [Dj Seven Worldwide](https://open.spotify.com/artist/5L1DjIa8HLvXugMrY6vWzf), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu) | [Tunawaka](https://open.spotify.com/album/2byooUcfvAqeyX6A25c4PX) | 4:15 | 2022-03-28 |  |
 | [Vitu Vingi](https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Vitu Vingi](https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b) | 4:06 | 2022-06-10 |  |
 | [Watatubu](https://open.spotify.com/track/7rBiGPmJUoaVbkRV4g1lXc) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Watatubu](https://open.spotify.com/album/0sqHTy0qJZyhTNnbLKbjtF) | 2:51 | 2022-03-28 | 2022-10-29 |
+| [Wave](https://open.spotify.com/track/29JgTNh9OT8095ohykOeC0) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Wave](https://open.spotify.com/album/19JiTrv2ucRckXR9gyYpws) | 2:20 | 2023-02-09 |  |
 | [WE DID IT](https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc) | [kisanga](https://open.spotify.com/artist/4JjEDrm0ZHeunwcPLwwimR) | [WE DID IT](https://open.spotify.com/album/6zk5eFAcjdMz0dtnbbIkQi) | 3:12 | 2022-06-10 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

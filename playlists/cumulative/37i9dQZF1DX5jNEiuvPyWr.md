@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Moha MMZ
+> Le meilleur du rap français version cloud\. Photo : DTF
 
-145 songs - 7 hr 30 min
+148 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 | 2022-08-26 |
 | [100 ans](https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB) | [Diddi Trix](https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1) | [100 ans](https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al) | 2:01 | 2022-12-15 | 2023-01-27 |
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
-| [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 |  |
+| [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 | 2023-02-10 |
 | [A7](https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM) | [La formule](https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly), [BlackTria](https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs) | [46.96.](https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz) | 2:41 | 2022-09-29 | 2022-10-28 |
 | [Aimons\-nous vivants](https://open.spotify.com/track/6tkYlbsNN6crQj12xjSHdH) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [Aimons\-nous vivants](https://open.spotify.com/album/4BRpzc1UlPvVUwT5OSGBLL) | 3:01 | 2023-01-05 |  |
 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9) | 3:58 | 2022-11-24 |  |
@@ -48,7 +48,7 @@
 | [EAU DE ROSE](https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [EAU DE ROSE](https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY) | 2:22 | 2023-01-19 |  |
 | [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 | 2022-10-14 |
 | [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 | 2022-07-29 |
-| [Entouré](https://open.spotify.com/track/0QCYP1iOuCR01mwtWkmZSd) | [Kevni](https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA) | [Entouré](https://open.spotify.com/album/3yDoo7wmxIX6MRwKSMY2bL) | 3:24 | 2022-12-29 |  |
+| [Entouré](https://open.spotify.com/track/0QCYP1iOuCR01mwtWkmZSd) | [Kevni](https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA) | [Entouré](https://open.spotify.com/album/3yDoo7wmxIX6MRwKSMY2bL) | 3:24 | 2022-12-29 | 2023-02-10 |
 | [Et Toi](https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Et Toi](https://open.spotify.com/album/1fYdxA0MikkymfSFfgkFpt) | 3:26 | 2022-12-01 |  |
 | [Exit \#04 \- Stamina](https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Exit \#04 \- Stamina](https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk) | 3:23 | 2022-09-08 | 2022-11-11 |
 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 | 2022-11-17 | 2023-01-20 |
@@ -78,7 +78,7 @@
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
-| [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 |  |
+| [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 | 2023-02-10 |
 | [LIBRE \- Dysphoria](https://open.spotify.com/track/50gMceCjKprl6DUYnFrWSE) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/0P0fYHITU1W4DMmLw2XtRu) | 2:40 | 2023-01-26 |  |
 | [Life](https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Double Star](https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau) | 3:12 | 2022-07-14 | 2022-10-28 |
 | [Love moi](https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs) | [Dibson](https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk) | [Love moi](https://open.spotify.com/album/7716TsCXcpGPPB4kwttjtN) | 2:55 | 2022-07-28 | 2022-11-04 |
@@ -110,8 +110,10 @@
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 | 2022-12-24 |
 | [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 |  |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 | 2022-12-16 |
+| [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 |  |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [Perdu d'avance](https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v) | [Ramses](https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78) | [Perdu d'avance](https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik) | 2:54 | 2022-09-08 | 2022-11-18 |
+| [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 |  |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
@@ -128,6 +130,7 @@
 | [Rêves](https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Rêves](https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn) | 3:33 | 2022-09-29 | 2022-10-28 |
 | [SAC CHANEL](https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 2:01 | 2022-09-22 | 2022-11-18 |
 | [Sahara](https://open.spotify.com/track/44vdd8Qop7Xa6PxdDCKlXT) | [Norsacce Berlusconi](https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Propaganda](https://open.spotify.com/album/2NNKLT6lCK6i503EqVfkjy) | 3:37 | 2022-12-15 |  |
+| [Samouraï](https://open.spotify.com/track/3LaKrRSIzGwr9onnpLijKG) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 3:30 | 2023-02-09 |  |
 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 | 2023-02-03 |
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 |  |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |

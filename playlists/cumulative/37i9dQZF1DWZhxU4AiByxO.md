@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-279 songs - 14 hr 5 min
+280 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 | 2021-10-22 |  |
 | [Something That I Want](https://open.spotify.com/track/4D5ITfY3HH9JqIbOKsE7da) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Now! Disney 3](https://open.spotify.com/album/1vSuKTEwlEambIFmIZNBxH) | 2:43 | 2021-10-22 | 2022-07-29 |
 | [Something That I Want](https://open.spotify.com/track/19j6HBNWetyzT5rqMoWKpz) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Rapunzel Neu Verföhnt](https://open.spotify.com/album/7Al4Sm2lLi3TxlxKt2KqoO) | 2:43 | 2022-10-25 | 2022-11-14 |
-| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2022-07-28 |  |
+| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2022-07-28 | 2023-02-10 |
+| [Something That I Want \- From "Tangled"](https://open.spotify.com/track/6quQD9FG0GCIqVPjjMiLjs) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [NOW That's What I Call Disney 3](https://open.spotify.com/album/5W902SLKc7njFSdXireqdC) | 2:43 | 2023-02-03 |  |
 | [Sorry](https://open.spotify.com/track/3YvAZjrAq9KhJNU6HZGh5a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Back to School 2022 \- Pop Edition](https://open.spotify.com/album/3PoExk3BVT9y7wC6KavCe3) | 3:02 | 2022-10-25 | 2022-11-13 |
 | [Sorry](https://open.spotify.com/track/1dv3nDyEFjfdfWyfmBTzXl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 31](https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42) | 3:02 | 2022-07-28 |  |
 | [Sorry](https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 31](https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s) | 3:02 | 2021-10-22 | 2022-07-29 |

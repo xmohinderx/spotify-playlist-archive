@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-162 songs - 14 hr 16 min
+163 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 | 2021-12-21 |  |
 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 |  |
 | [Laura](https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r) | [Adam Nussbaum](https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi) | [Lead Belly Reimagined](https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R) | 4:47 | 2021-12-21 |  |
+| [Let Love Be Genuine](https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Let Love Be Genuine](https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi) | 5:18 | 2023-02-07 |  |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |
 | [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 | 2022-11-24 |  |
 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2022-11-24 |  |
@@ -168,7 +169,7 @@
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 | 2022-09-27 |
-| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 |  |
+| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 | 2023-02-10 |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

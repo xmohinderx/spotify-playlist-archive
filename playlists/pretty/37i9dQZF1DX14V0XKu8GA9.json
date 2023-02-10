@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 20550,
+  "num_followers": 20573,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMGFhYWY1YTQwOTlkNGM3NjZkZDQwYTBkNmQzZGFiODlm",
+  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMDNmZDdmY2QzYmZkOTdjY2NhZTY5ZTUzZmI1NmQ3YmJj",
   "tracks": [
     {
       "added_at": "2023-02-03 03:37:52",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "Cost of Loyalty",
+        "url": "https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS"
+      },
+      "artists": [
+        {
+          "name": "xBValentine",
+          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+        },
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "duration_ms": 148286,
+      "name": "Cost of Loyalty",
+      "url": "https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
-        "name": "Cost of Loyalty",
-        "url": "https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS"
-      },
-      "artists": [
-        {
-          "name": "xBValentine",
-          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
-        },
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        }
-      ],
-      "duration_ms": 148286,
-      "name": "Cost of Loyalty",
-      "url": "https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
@@ -451,6 +451,26 @@
       "duration_ms": 160000,
       "name": "Face",
       "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
+        "name": "Gahdamn",
+        "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
+      },
+      "artists": [
+        {
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+        },
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "duration_ms": 153372,
+      "name": "Gahdamn",
+      "url": "https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -475,26 +495,6 @@
       "duration_ms": 265049,
       "name": "One Day Left",
       "url": "https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "Gahdamn",
-        "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
-      },
-      "artists": [
-        {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
-        },
-        {
-          "name": "Rucci",
-          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
-        }
-      ],
-      "duration_ms": 153372,
-      "name": "Gahdamn",
-      "url": "https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "All The Good Die Young",
+        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "All The Good Die Young",
+      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "For Real",
         "url": "https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 219000,
       "name": "For Real",
       "url": "https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "All The Good Die Young",
-        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
-      },
-      "artists": [
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "All The Good Die Young",
-      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
-        "name": "Scared Of My Love",
-        "url": "https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Scared Of My Love",
-      "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
+        "name": "Scared Of My Love",
+        "url": "https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Scared Of My Love",
+      "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

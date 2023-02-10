@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-126 songs - 6 hr 17 min
+127 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Changes](https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Changes](https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol) | 2:41 | 2022-04-08 |  |
 | [Chill Spa Music](https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Guitar Meditation](https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX) | 2:13 | 2022-04-08 |  |
 | [Clermont](https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Clermont](https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku) | 2:11 | 2022-07-08 |  |
+| [Cold Space](https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Cold Space](https://open.spotify.com/album/3k1SxanqNeUuQYV3UD8DT6) | 3:13 | 2023-02-09 |  |
 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 | 2022-12-02 |  |
 | [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 |  |
 | [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 | 2022-11-11 |  |

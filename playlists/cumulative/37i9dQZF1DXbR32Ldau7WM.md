@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: 稲葉浩志
 
-474 songs - 1 day 7 hr 19 min
+475 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2022-10-11 |  |
 | [Dumb](https://open.spotify.com/track/2wHdToVrYPjymTvp2Tm2bN) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs) | 3:18 | 2022-05-12 | 2022-10-12 |
 | [Edge Of The World \(New mastering 2021\)](https://open.spotify.com/track/3vxiGWVotDkIkPYPYzDSU5) | [Lovebites](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [In The Beginning \- The Best Of 2017\-2021](https://open.spotify.com/album/4UrV9uJWU2HaLZVpomztEP) | 6:46 | 2022-05-12 | 2022-06-15 |
-| [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 | 2023-01-24 |  |
+| [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 | 2023-01-24 | 2023-02-10 |
 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 | 2022-09-13 | 2022-09-28 |
 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 | 2022-05-17 | 2022-08-17 |
 | [Enchanted](https://open.spotify.com/track/4Qt59YsDr0umqWYiQ8OowQ) | [ACME](https://open.spotify.com/artist/2TYzphz979sCxQxUStlg2Z) | [Enchanted](https://open.spotify.com/album/2HifaapZH6K97MZvHcVuzU) | 4:33 | 2022-05-17 | 2022-06-14 |
@@ -358,6 +358,7 @@
 | [デジャデジャブーブー](https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [デジャデジャブーブー](https://open.spotify.com/album/4rD8b6svsSV09woMYKQuaz) | 4:48 | 2022-09-13 | 2022-09-28 |
 | [デッドエンド](https://open.spotify.com/track/46o8Fjofhfh4P5r8adkv8l) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [デッドエンド](https://open.spotify.com/album/3qlHymwh2d2i7HIR8ZPgY7) | 3:27 | 2022-06-09 | 2022-07-27 |
 | [トップ・オブ・ザ・ワースト](https://open.spotify.com/track/0un8szvM1BgvjnFr2S7YiL) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [トップ・オブ・ザ・ワースト](https://open.spotify.com/album/5AE3c54Pvf4pm3w6zTuv3V) | 4:03 | 2022-05-17 | 2022-05-19 |
+| [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 |  |
 | [ナカマ](https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:37 | 2022-06-14 | 2022-08-24 |
 | [ナンバー1 \- Remastered Version](https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3) | [Onsoku Line](https://open.spotify.com/artist/6TTEfWEjAdpjbchHYfo62Q) | [風景描写2002](https://open.spotify.com/album/2fN7nYABUDtUmGBuBUbIIk) | 3:12 | 2022-09-06 | 2022-09-15 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 
 > To the world, this is NCT! We are NCT DREAM!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,319 likes - 66 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,581 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 | 65 | [Dream Run](https://open.spotify.com/track/6ByGZGm5Y5VwrQheIUlw1N) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:44 |
 | 66 | [JOY](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [JOY \- SM STATION](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) | 2:58 |
 
-Snapshot ID: `MTY3NTgzOTQzOCwwMDAwMDAwMGY2ZjU2MWM0ODg4Y2UxOTMxNDk4Nzk3NWJhODMwZWM0`
+Snapshot ID: `MTY3NTkxMDMzMiwwMDAwMDAwMDM1Y2Y4NjhkMTcyYTU5NDRhMWQzODFlZjk0MTk3MGQz`

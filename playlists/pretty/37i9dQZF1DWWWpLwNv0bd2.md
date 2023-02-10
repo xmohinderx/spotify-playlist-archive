@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,004 likes - 63 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,075 likes - 63 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

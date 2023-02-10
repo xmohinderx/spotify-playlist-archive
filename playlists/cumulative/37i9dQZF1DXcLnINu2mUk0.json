@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 160000,
       "name": "Acalma a Alma",
       "url": "https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW"
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 175947,
       "name": "AGORA NAW",
       "url": "https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc"
@@ -1463,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "Garrafa",
+        "url": "https://open.spotify.com/album/24KKKh9J99qt15XnnZ1BTN"
+      },
+      "artists": [
+        {
+          "name": "Tieijci",
+          "url": "https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH"
+        },
+        {
+          "name": "BECCAA",
+          "url": "https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179027,
+      "name": "Garrafa",
+      "url": "https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh"
       },
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Hoje \u00c9 Hoje",
       "url": "https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF"
@@ -1587,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Hot Or Fire",
+        "url": "https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW"
+      },
+      "artists": [
+        {
+          "name": "DELOSBOY",
+          "url": "https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35"
+        },
+        {
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230490,
+      "name": "Hot Or Fire",
+      "url": "https://open.spotify.com/track/03ufBsWERNppFLwZedOK70"
+    },
+    {
+      "album": {
         "name": "I Need a Lot",
         "url": "https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw"
       },
@@ -1602,7 +1646,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 232277,
       "name": "I Need a Lot",
       "url": "https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS"
@@ -2032,6 +2076,24 @@
       "duration_ms": 206315,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx"
+      },
+      "artists": [
+        {
+          "name": "B.E.R.A",
+          "url": "https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237533,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
     },
     {
       "album": {
@@ -3055,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/2AjIqnf2M8gc8zcrO5xQht"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI"
+    },
+    {
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho"
       },
@@ -3128,7 +3208,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 235199,
       "name": "Sabe a Pouco",
       "url": "https://open.spotify.com/track/5AN71cVGPu9ZrRow7QIjnU"
@@ -3364,7 +3444,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 149647,
       "name": "SINAIS",
       "url": "https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft"

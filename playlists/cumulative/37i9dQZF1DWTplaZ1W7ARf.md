@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: JayDaYoungan
 
-173 songs - 8 hr 43 min
+174 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/album/25gVtjurDgtCiz6nt0W4ZM) | 3:01 | 2022-10-27 |  |
 | [Bigger Jeans \(feat\. NoCap\)](https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 4:09 | 2022-10-07 |  |
 | [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 | 2022-08-05 | 2022-10-09 |
-| [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 | 2022-08-05 |  |
+| [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 | 2022-08-05 | 2023-02-10 |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-09-16 |  |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 | 2022-12-31 |
 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 | 2022-09-10 |
@@ -42,6 +42,7 @@
 | [crash the party](https://open.spotify.com/track/0WtWtk7D05LELKQk0q8FMC) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:06 | 2021-12-17 | 2022-08-06 |
 | [Da Rant](https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Da Rant](https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw) | 4:02 | 2022-12-16 |  |
 | [Dead Wrong \(feat\. Future\)](https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:53 | 2021-12-17 | 2022-08-06 |
+| [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 | 2023-02-10 |  |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 | 2022-05-20 |
 | [DNA](https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [DNA](https://open.spotify.com/album/1fDgOfcw9Ljo9yXVYcXEFR) | 4:02 | 2022-11-19 | 2022-12-17 |
 | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/album/566YUUlXUHUdv98SJKo0Os) | 2:47 | 2021-11-05 | 2022-04-16 |

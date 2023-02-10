@@ -1212,6 +1212,24 @@
     {
       "album": {
         "name": "Palayo",
+        "url": "https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263103,
+      "name": "Palayo",
+      "url": "https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX"
+    },
+    {
+      "album": {
+        "name": "Palayo",
         "url": "https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA"
       },
       "artists": [
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 263103,
       "name": "Palayo",
       "url": "https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9"

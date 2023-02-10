@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Raissa Anggiani
 
 119 songs - 7 hr 26 min
 

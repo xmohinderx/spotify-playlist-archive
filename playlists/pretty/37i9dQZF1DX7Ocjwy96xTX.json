@@ -1,29 +1,13 @@
 {
   "description": "dark & dreamy for night creatures",
-  "num_followers": 83654,
+  "num_followers": 84194,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1MDg1MywwMDAwMDAwMDBiM2FhMTM2MjA2MjFkNWI4OWZhM2FkMzM5MTBlMGRi",
+  "snapshot_id": "MTY3NTk2OTIyNywwMDAwMDAwMGU0ZjMzYWE5YWE3OGY0M2M3YWFkYmVmOWNjZWZkNjc3",
   "tracks": [
-    {
-      "added_at": "2023-01-19 19:16:17",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2"
-      },
-      "artists": [
-        {
-          "name": "Glare",
-          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
-        }
-      ],
-      "duration_ms": 216089,
-      "name": "Blank",
-      "url": "https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj"
-    },
     {
       "added_at": "2023-01-19 19:16:17",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2023-01-19 19:16:17",
       "album": {
-        "name": "Solitude (Felsmann + Tiley Reinterpretation)",
-        "url": "https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52"
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         }
       ],
-      "duration_ms": 222354,
-      "name": "Solitude - Felsmann + Tiley Reinterpretation",
-      "url": "https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7"
+      "duration_ms": 216089,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj"
     },
     {
       "added_at": "2023-01-19 19:16:17",
@@ -107,6 +91,22 @@
       "duration_ms": 233160,
       "name": "Ivo",
       "url": "https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq"
+    },
+    {
+      "added_at": "2023-01-19 19:16:17",
+      "album": {
+        "name": "Solitude (Felsmann + Tiley Reinterpretation)",
+        "url": "https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "Solitude - Felsmann + Tiley Reinterpretation",
+      "url": "https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7"
     },
     {
       "added_at": "2023-01-19 19:16:17",
@@ -219,6 +219,22 @@
       "duration_ms": 244240,
       "name": "Kinky Love",
       "url": "https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM"
+    },
+    {
+      "added_at": "2023-02-09 19:00:27",
+      "album": {
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
       "added_at": "2023-01-19 19:16:17",
@@ -443,22 +459,6 @@
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
-    },
-    {
-      "added_at": "2023-01-26 16:34:13",
-      "album": {
-        "name": "Nicks and Grazes",
-        "url": "https://open.spotify.com/album/5B7LF61Ey37x7ET7Vnc2pA"
-      },
-      "artists": [
-        {
-          "name": "Palm",
-          "url": "https://open.spotify.com/artist/7tguHMzv83NjmVpNjT4FpS"
-        }
-      ],
-      "duration_ms": 208456,
-      "name": "On The Sly",
-      "url": "https://open.spotify.com/track/7e9Gf8to4zVzk20qvlkipN"
     },
     {
       "added_at": "2023-01-19 19:16:17",

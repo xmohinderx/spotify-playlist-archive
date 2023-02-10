@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Westerman",
+  "description": "The home of the best new alternative music. Cover: Gengahr ",
   "name": "The Other List",
   "tracks": [
     {
@@ -422,6 +422,24 @@
       "duration_ms": 170321,
       "name": "A Crime (By Big Red Machine)",
       "url": "https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu"
+    },
+    {
+      "album": {
+        "name": "A Ladder",
+        "url": "https://open.spotify.com/album/6t3sY5xrpYArZ9Tgh2ovcJ"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "A Ladder",
+      "url": "https://open.spotify.com/track/5b4BWDCpkuY2nVt4td4XLJ"
     },
     {
       "album": {
@@ -1030,6 +1048,24 @@
       "duration_ms": 172066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
+    },
+    {
+      "album": {
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
       "album": {
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 200634,
       "name": "back to me.",
       "url": "https://open.spotify.com/track/0aAdNSg0uBOIxTpInhDRrh"
@@ -2206,7 +2242,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 224517,
       "name": "Big",
       "url": "https://open.spotify.com/track/10DOeEQX4RDjk9XgtYjZ3h"
@@ -2366,7 +2402,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 227286,
       "name": "birdsong on the breeze",
       "url": "https://open.spotify.com/track/37pcP8fWmhkYughTot3ixj"
@@ -3269,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/5uDtmYd30zW7VpjW6l6gpx"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169856,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/7jc3wS97mxIBkodncdVwKN"
+    },
+    {
+      "album": {
         "name": "c.w.u.c",
         "url": "https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C"
       },
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 147692,
       "name": "CHARLES JEFFREY",
       "url": "https://open.spotify.com/track/618BwYUA98PyOVoCbckluW"
@@ -4314,6 +4368,28 @@
       "duration_ms": 206680,
       "name": "Company",
       "url": "https://open.spotify.com/track/6eMknw1c14DlpWrzx31fE6"
+    },
+    {
+      "album": {
+        "name": "Complete Me (feat. Self Esteem)",
+        "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286221,
+      "name": "Complete Me (feat. Self Esteem)",
+      "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
     },
     {
       "album": {
@@ -5252,7 +5328,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 168794,
       "name": "Death in the Family",
       "url": "https://open.spotify.com/track/6BOTun1k0Pw68tabh9FpUm"
@@ -6315,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "emptyhouse",
+        "url": "https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh"
+      },
+      "artists": [
+        {
+          "name": "not dvr",
+          "url": "https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201958,
+      "name": "emptyhouse",
+      "url": "https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -6877,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124768,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/3YDDkfaNN4vIJKccBMSkPq"
       },
@@ -7170,7 +7282,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 247853,
       "name": "Flight from Angkor",
       "url": "https://open.spotify.com/track/1KGPPuM4jbFy5DEWr3bXWg"
@@ -7294,6 +7406,24 @@
       "duration_ms": 194666,
       "name": "For You & I",
       "url": "https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1"
+    },
+    {
+      "album": {
+        "name": "Force 10 From Navarone",
+        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204895,
+      "name": "Force 10 From Navarone",
+      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "album": {
@@ -7896,7 +8026,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 163382,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/5GKhU5qwmkUefsTPqRwDOt"
@@ -8821,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "Green Honda",
+        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166981,
+      "name": "Green Honda",
+      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
+    },
+    {
+      "album": {
         "name": "green screen",
         "url": "https://open.spotify.com/album/3Dg7ksvps3kS1KvmJNX3Kv"
       },
@@ -9362,7 +9510,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 248107,
       "name": "Heaven Is Here - IDLES Remix",
       "url": "https://open.spotify.com/track/7BOeYa25IldbgvOMQCosLt"
@@ -14378,7 +14526,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 193500,
       "name": "Neon Signs",
       "url": "https://open.spotify.com/track/6JZj85Iz5sc4cGKvOefO7G"
@@ -15312,7 +15460,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 224358,
       "name": "Oh, Silly George",
       "url": "https://open.spotify.com/track/7ni3BkEmDi4dFHTil9pO5x"
@@ -16079,6 +16227,24 @@
     },
     {
       "album": {
+        "name": "Placebo Effect",
+        "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Placebo Effect",
+      "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
+    },
+    {
+      "album": {
         "name": "Four\u00b0 In Winter",
         "url": "https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3"
       },
@@ -16126,7 +16292,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 181645,
       "name": "Plastic Man",
       "url": "https://open.spotify.com/track/5NEWcAuYXmKZNPhcZjbF7z"
@@ -17230,6 +17396,24 @@
       "duration_ms": 201564,
       "name": "Right on time - Metronomy x Haich Ber Na",
       "url": "https://open.spotify.com/track/09TRyqEYRtTkhbzjsqrGej"
+    },
+    {
+      "album": {
+        "name": "Risk to my Reward",
+        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
+      },
+      "artists": [
+        {
+          "name": "Tycho Jones",
+          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171415,
+      "name": "Risk to my Reward",
+      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
     },
     {
       "album": {
@@ -19350,7 +19534,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 275306,
       "name": "Spot Thirteen",
       "url": "https://open.spotify.com/track/4jQxhcVxn3mjdOAA9OFfNk"
@@ -20198,6 +20382,24 @@
       "duration_ms": 200000,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/3SZ0yNnQF2DHLf1dCmMwBV"
+    },
+    {
+      "album": {
+        "name": "Swing (In A Dream)",
+        "url": "https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269015,
+      "name": "Swing (In A Dream)",
+      "url": "https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2"
     },
     {
       "album": {
@@ -22552,6 +22754,24 @@
       "duration_ms": 184280,
       "name": "Visions of You",
       "url": "https://open.spotify.com/track/7v1SM98Gag9U97p5etkf2G"
+    },
+    {
+      "album": {
+        "name": "Vista",
+        "url": "https://open.spotify.com/album/3s4PzF5GcMvVH7nftHiPaM"
+      },
+      "artists": [
+        {
+          "name": "the GOLDEN DREGS",
+          "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278232,
+      "name": "Vista",
+      "url": "https://open.spotify.com/track/1RerULp9QIsCQbusc4Bl4U"
     },
     {
       "album": {

@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 165173,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 140527,
       "name": "MACHINEGUN POEM DOLL",
       "url": "https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid"
@@ -6893,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "\u547d\u8f9b\u8f9b",
+        "url": "https://open.spotify.com/album/6hkLdF8Zli5BXtokRXbGEz"
+      },
+      "artists": [
+        {
+          "name": "\u716e\u30eb\u679c\u5b9f",
+          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219708,
+      "name": "\u547d\u8f9b\u8f9b",
+      "url": "https://open.spotify.com/track/7BbI4VpHjLDeUSS1AM81Vl"
+    },
+    {
+      "album": {
         "name": "Cupid Power",
         "url": "https://open.spotify.com/album/2DBjbysv0IIu5xeCBUDbk4"
       },
@@ -8354,6 +8372,24 @@
       "duration_ms": 256866,
       "name": "\u82b1\u304c\u843d\u3061\u305f\u306e\u3067\u3001",
       "url": "https://open.spotify.com/track/20q0R0wiT2p4Wy2ba3kaMN"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u306b\u98a8",
+        "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225748,
+      "name": "\u82b1\u306b\u98a8",
+      "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
     },
     {
       "album": {

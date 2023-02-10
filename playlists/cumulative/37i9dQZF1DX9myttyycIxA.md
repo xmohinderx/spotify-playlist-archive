@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-798 songs - 1 day 21 hr 40 min
+799 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Him](https://open.spotify.com/track/55M24NpVbhdI5k3VW86RKc) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Him](https://open.spotify.com/album/2PtMxHI3ARNRv6fu1b98i1) | 3:27 | 2022-06-17 | 2022-07-23 |
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-07-23 | 2022-07-16 |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
+| [Holly](https://open.spotify.com/track/2JUvDYr4aKfI1Qg1dIefxZ) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Holly](https://open.spotify.com/album/1vUcIP9rKpbAnouzD7UCXW) | 2:47 | 2023-02-03 |  |
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-22 | 2022-04-24 |
 | [Home](https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Home](https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg) | 4:29 | 2021-06-02 | 2022-04-17 |
 | [Home](https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Home](https://open.spotify.com/album/2Atw6gOebFEmz3aOVr3CpR) | 4:22 | 2022-01-28 | 2022-03-18 |
@@ -531,7 +532,7 @@
 | [Orpheus Under the Influence](https://open.spotify.com/track/7KwJrAQMoJyUEBes3evMLv) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Buttertones](https://open.spotify.com/album/6TWlzuPZqA2gR5qkDNa1dx) | 2:14 | 2022-03-26 | 2022-09-03 |
 | [out 4 a breather](https://open.spotify.com/track/73aXl4EIbQsY8ufuopTAaZ) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/0Yyb7bR8VvEfrJ0sBoEhMl) | 3:21 | 2021-03-05 | 2022-04-29 |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2022-11-17 | 2022-12-15 |
-| [Over And Over](https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Over And Over](https://open.spotify.com/album/0uL6OMzCds7OOSRXq72uMo) | 6:12 | 2023-01-20 |  |
+| [Over And Over](https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Over And Over](https://open.spotify.com/album/0uL6OMzCds7OOSRXq72uMo) | 6:12 | 2023-01-20 | 2023-02-10 |
 | [Pantone Karaoke](https://open.spotify.com/track/2AAYWVIMLup59MrD5bKJpk) | [Petite League](https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4) | [Pantone Karaoke](https://open.spotify.com/album/6Y63g5tQrSeolalW7zmWJL) | 2:50 | 2022-04-29 | 2022-07-09 |
 | [Park Lodge](https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Park Lodge](https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5) | 3:23 | 2022-09-02 | 2022-12-15 |
 | [Parking Lots](https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 3:26 | 2022-04-29 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-253 songs - 12 hr 24 min
+254 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,10 +106,11 @@
 | [In een ander leven](https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [In een ander leven](https://open.spotify.com/album/3gDdSpkPuaEvfknYdFW8Db) | 2:56 | 2022-03-03 |  |
 | [In Plain Sight](https://open.spotify.com/track/0gfWmjRdqIWwMzqnyhed0K) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:19 | 2021-12-23 | 2022-07-29 |
 | [In Plain Sight](https://open.spotify.com/track/1Hv0xfiKWyRicMFmV4TYZU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:19 | 2022-07-22 |  |
+| [In The Light Of Hope](https://open.spotify.com/track/6W1g2BdA980139iaKZ8XHx) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [In The Light Of Hope](https://open.spotify.com/album/3pHnYILBlmIHv7MNOXw5iq) | 2:37 | 2023-02-09 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-23 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-23 |  |
 | [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2022-12-02 |  |
-| [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2021-12-23 |  |
+| [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2021-12-23 | 2023-02-10 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-12-23 |  |
 | [Lapis Lazuli](https://open.spotify.com/track/0K4Rz4toClO0a6zcUwWgMi) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 2](https://open.spotify.com/album/6lUMWgJqyiSbJnkPrZGXpA) | 3:17 | 2021-12-23 | 2022-09-03 |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-23 |  |

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d5\u309a\u30ea\u30ad\u30e5\u30a2!\u300d\u4e3b\u984c\u6b4c OP:Alright!\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d5\u309a\u30ea\u30ad\u30e5\u30a2!/ED:\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u2606\u30cf\u309a\u30e9\u30bf\u3099\u30a4\u30b9!",
+        "url": "https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf"
+      },
+      "artists": [
+        {
+          "name": "\u6c60\u7530\u5f69",
+          "url": "https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Alright!\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d5\u309a\u30ea\u30ad\u30e5\u30a2!",
+      "url": "https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d7\u30ea\u30ad\u30e5\u30a2! \u30dc\u30fc\u30ab\u30eb\u30a2\u30eb\u30d0\u30e01 ~\u5927\u5730\u3068\u6d77\u3068\u967d\u3068\u6708\u3068~",
         "url": "https://open.spotify.com/album/4qQOOk8NVhM0WgyPuv7f5x"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 226520,
       "name": "Alright!\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d7\u30ea\u30ad\u30e5\u30a2!",
       "url": "https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy"
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u66f2 DANZEN!\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+        "url": "https://open.spotify.com/album/4FMW9Gby2WLsE0Pqr8yEA4"
+      },
+      "artists": [
+        {
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+      "url": "https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj"
+    },
+    {
+      "album": {
         "name": "\u4e94\u689d\u771f\u7531\u7f8e\u30dc\u30fc\u30ab\u30eb\u30d9\u30b9\u30c8 from \u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
         "url": "https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx"
       },
@@ -800,7 +836,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 215346,
       "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
       "url": "https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO"

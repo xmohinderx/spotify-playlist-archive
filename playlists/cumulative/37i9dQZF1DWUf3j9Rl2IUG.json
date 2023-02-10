@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Kjv_xGURSI-2k9nd0aLBsg\"> L.A.X </a>  ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=wns_0EDXRjW7GxydLzu3HA\"> Young Jonn </a>  and <a href=\"https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=lg3Uh_-eTLC2DqeKp5cmeQ\"> Olamide</a>",
   "name": "Gbedu",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 147504,
       "name": "Back To Sender",
       "url": "https://open.spotify.com/track/4IhkeUUPpPfT3eP0yN4bq7"
@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
+    },
+    {
+      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -650,7 +672,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 141000,
       "name": "Dupe",
       "url": "https://open.spotify.com/track/2fFMt9ZyCKbKu6ykv2VMlD"
@@ -690,7 +712,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 194666,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N"
@@ -1797,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "album": {
         "name": "Shaye",
         "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
       },
@@ -1815,6 +1855,28 @@
     },
     {
       "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "album": {
         "name": "Single To Stupor",
         "url": "https://open.spotify.com/album/0a4kmWZQVoSDEQx8eCqckE"
       },
@@ -1826,7 +1888,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 141428,
       "name": "Single To Stupor",
       "url": "https://open.spotify.com/track/68ss6260J3Ek4vsTQPX4tI"
@@ -2030,6 +2092,28 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+    },
+    {
+      "album": {
+        "name": "Continental Playlist",
+        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Tight Condition",
+      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
     },
     {
       "album": {

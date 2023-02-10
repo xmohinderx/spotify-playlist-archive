@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 253166,
+  "num_followers": 253408,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMGJjMTk4ZGU4YWVkMTgyNjFhNDQzMzVjY2Q4YjAwNmYw",
+  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDg5N2MwNzZiZmNkMTk1NTE3OWMxZmE1MDk1MjA3Njdm",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -643,6 +643,22 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
+        "name": "Hard Normal Daddy",
+        "url": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "Beep Street",
+      "url": "https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
         "name": "Klass of '92 - '95 (Lesson 3)",
         "url": "https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 305613,
       "name": "DJs Take Control",
       "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Hard Normal Daddy",
-        "url": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 397133,
-      "name": "Beep Street",
-      "url": "https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9"
     },
     {
       "added_at": "2020-10-06 12:32:47",

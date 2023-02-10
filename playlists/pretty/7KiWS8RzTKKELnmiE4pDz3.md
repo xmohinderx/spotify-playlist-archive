@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 363 songs - 15 hr 59 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 368 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,5 +371,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 361 | [Lunch Meat](https://open.spotify.com/track/4bWByRIq2LZL7Nw7NWihbO) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 |
 | 362 | [Sick of Slime](https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:19 |
 | 363 | [Crunch Time](https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Crunch Time](https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW) | 3:53 |
+| 364 | [All Kap](https://open.spotify.com/track/22sCCapRrg0KvCajcGFinX) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [All Kap](https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P) | 2:15 |
+| 365 | [tokoyoto](https://open.spotify.com/track/28akW28raGpnoNwTuAHLRH) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [XO](https://open.spotify.com/album/4gQa9eWUzWe6XRYekLxfyD) | 2:10 |
+| 366 | [Wanna Be The Goat](https://open.spotify.com/track/1wYjNgCPqF1Ze5v8MfUtUc) | [Izaya Tiji Archive](https://open.spotify.com/artist/6f84QAdro9etUHHnUWgvAL) | [Wanna Be The Goat](https://open.spotify.com/album/3o6EBePKAZjyr774l0ioC3) | 3:05 |
+| 367 | [Round Here](https://open.spotify.com/track/2jJeoy0Xq8sEtn3upQCXge) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [2wo2imes](https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe) | [2wo Glokks](https://open.spotify.com/album/5CPcnwgYWekR1saI8AxHyj) | 2:34 |
+| 368 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya tiji](https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 |
 
-Snapshot ID: `NjkwNCw0YTBmNmIxYmYxMmUzYmRiZmI3YzE3ODE0MDU0ZDgxMzE0MjY5NDcz`
+Snapshot ID: `NjkwOSw0Y2M2YWIyZjFlMjY5YWJlYzBjNTM1Mzk0ZTdlZDY3ZjI1NDBiYmNi`

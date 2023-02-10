@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "",
+  "description": "The perfect frequency for sleep or study \u2013 science tested, listener approved.",
   "name": "Pink Noise",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 192000,
       "name": "Candy Sky (Pink Noise)",
       "url": "https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 150701,
       "name": "Chill & Sound Bank",
       "url": "https://open.spotify.com/track/2Q0MIEEPzukOhrSXN8KO9b"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 200000,
       "name": "Dark Dry Noise",
       "url": "https://open.spotify.com/track/5qBoffXkLWFwmpGZ9z90wx"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 133574,
       "name": "Deep Blue Noise",
       "url": "https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 192000,
       "name": "Deep Focus Pink Noise",
       "url": "https://open.spotify.com/track/5HIpAcaLbhypkkBrg6Wl1W"
@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Distant Pink",
+        "url": "https://open.spotify.com/album/6EbX4rgjvwbisOOmUM0aCS"
+      },
+      "artists": [
+        {
+          "name": "Pleximo",
+          "url": "https://open.spotify.com/artist/7nbgKAResUGlGTCe2rkzV5"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Distant Pink",
+      "url": "https://open.spotify.com/track/1NN6yXPREDLe3PDekSjqhs"
+    },
+    {
+      "album": {
         "name": "Pink Noise Beauty",
         "url": "https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 145370,
       "name": "Dozy Noise",
       "url": "https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL"
@@ -1683,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Zone Out With Noise",
+        "url": "https://open.spotify.com/album/58wMiCMcTWQU7oc2drG3NO"
+      },
+      "artists": [
+        {
+          "name": "Technical Sleep",
+          "url": "https://open.spotify.com/artist/1ZsuYhFu8JGCi3NBaGL61v"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Hypnotic Pink Noise",
+      "url": "https://open.spotify.com/track/5zI9RizL0alpJ31sc0Go0f"
+    },
+    {
+      "album": {
         "name": "Idyllic Pink Noise",
         "url": "https://open.spotify.com/album/7HGQLHpCTsZKrukEIsKqi6"
       },
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 275038,
       "name": "In Pink Air",
       "url": "https://open.spotify.com/track/24tWDzy6H6g3MpQFFzL7iZ"
@@ -2403,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Pink Aqua",
+        "url": "https://open.spotify.com/album/0OkNLQ7tU9nNRm4wJPicIR"
+      },
+      "artists": [
+        {
+          "name": "Serene Oasis",
+          "url": "https://open.spotify.com/artist/4M9CfKWvkCQVl92BcWf26h"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Pink Aqua",
+      "url": "https://open.spotify.com/track/716Vtwut0hU4zs4TM6hxF7"
+    },
+    {
+      "album": {
         "name": "Pink Atoms",
         "url": "https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap"
       },
@@ -2774,7 +2828,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 188465,
       "name": "Pink Noise - Nex 12",
       "url": "https://open.spotify.com/track/5Nvw37iTs54rYjncE4N0iY"
@@ -2810,7 +2864,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 150099,
       "name": "Pink Noise 10",
       "url": "https://open.spotify.com/track/1kDF24HUvuQNVGLBAUYm8L"
@@ -2918,7 +2972,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 144155,
       "name": "Pink Noise 3",
       "url": "https://open.spotify.com/track/4KT2keJAva0CngYCFW4rsV"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 172405,
       "name": "Pink Noise Airplane",
       "url": "https://open.spotify.com/track/2s4jzqVAU60LXFpkalovq4"
@@ -3656,7 +3710,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 192000,
       "name": "Pink Noise for the Mind",
       "url": "https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO"
@@ -4034,10 +4088,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 237648,
       "name": "Pink Noise on the Mountain",
       "url": "https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW"
+    },
+    {
+      "album": {
+        "name": "The Elevation of Pink Noise",
+        "url": "https://open.spotify.com/album/20trYAiOcxBM8DwLAvaZyW"
+      },
+      "artists": [
+        {
+          "name": "Auplaudios",
+          "url": "https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182804,
+      "name": "Pink Noise Radiance",
+      "url": "https://open.spotify.com/track/380wgRoGVD380J3Vqe1QGq"
     },
     {
       "album": {
@@ -4416,7 +4488,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 137984,
       "name": "Pink Quadra Noise",
       "url": "https://open.spotify.com/track/1PR4uN5RNF7QpTzvMG8PW9"
@@ -4920,7 +4992,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 240240,
       "name": "Sleep Better Pink Noise",
       "url": "https://open.spotify.com/track/58ILtqqwQdWbjkS4LPuM0L"
@@ -5532,10 +5604,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 188500,
       "name": "The Deep White",
       "url": "https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu"
+    },
+    {
+      "album": {
+        "name": "Study better with Pink Noise",
+        "url": "https://open.spotify.com/album/0hglKpPG8d3RThoBUswJCb"
+      },
+      "artists": [
+        {
+          "name": "Xella Machina",
+          "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "The Pink Noise Mind",
+      "url": "https://open.spotify.com/track/5hCNY5t8XAubx72nKJusRT"
     },
     {
       "album": {

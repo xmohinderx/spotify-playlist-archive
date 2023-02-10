@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: The Kid Laroi",
-  "num_followers": 1440649,
+  "num_followers": 1441191,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NTc5MiwwMDAwMDAwMGMwMGI2MTYwNDkwNzRjN2M0Mzc0ZmQ5ZmYyNDdhNTdl",
+  "snapshot_id": "MTY3NTI2NTc5MiwwMDAwMDAwMDUzYWJiZDA5YTU5OGQ5ZTgyODMxNmZhNjE2ZGUxMjJh",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "nothings ever good enough",
         "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 131213,
       "name": "emotions",
       "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
-      "added_at": "2022-12-14 15:14:02",
-      "album": {
-        "name": "The Search",
-        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 269184,
-      "name": "I Miss The Days",
-      "url": "https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
@@ -631,6 +615,22 @@
       "duration_ms": 165029,
       "name": "fools (can't help falling in love) (feat. Sody)",
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
+    },
+    {
+      "added_at": "2022-12-14 15:14:02",
+      "album": {
+        "name": "The Search",
+        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 269184,
+      "name": "I Miss The Days",
+      "url": "https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -675,6 +675,46 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Never Be Alright",
+        "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
+      },
+      "artists": [
+        {
+          "name": "Seon",
+          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+        }
+      ],
+      "duration_ms": 168308,
+      "name": "Never Be Alright",
+      "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -711,46 +751,6 @@
       "duration_ms": 73421,
       "name": "would you be my baby",
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Never Be Alright",
-        "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
-      },
-      "artists": [
-        {
-          "name": "Seon",
-          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
-        }
-      ],
-      "duration_ms": 168308,
-      "name": "Never Be Alright",
-      "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 111506,
       "name": "angeldust",
       "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -951,18 +951,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
         {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
+      "duration_ms": 139040,
+      "name": "FEEL SOMETHING (feat. Marshmello)",
+      "url": "https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -983,22 +987,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
         }
       ],
-      "duration_ms": 139040,
-      "name": "FEEL SOMETHING (feat. Marshmello)",
-      "url": "https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3"
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "The Two of Us Are Dying",
-        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
-      },
-      "artists": [
-        {
-          "name": "Killstation",
-          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
-        }
-      ],
-      "duration_ms": 134209,
-      "name": "Sarcoma",
-      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "It Was Fun While It Lasted",
         "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "The Two of Us Are Dying",
+        "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
+      },
+      "artists": [
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 134209,
+      "name": "Sarcoma",
+      "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Outta Time",
-        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
-      },
-      "artists": [
-        {
-          "name": "KillBunk",
-          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
-        },
-        {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "MIXED EMOTIONS",
         "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 142988,
       "name": "Suicidal",
       "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Outta Time",
+        "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
+      },
+      "artists": [
+        {
+          "name": "KillBunk",
+          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
+        },
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 164154,
-      "name": "BAD NEWS",
-      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Belly of the Beast",
         "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "A SERIES OF UNFORTUNATE EVENTS",
-        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
       },
       "artists": [
         {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
         }
       ],
-      "duration_ms": 215647,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+      "duration_ms": 164154,
+      "name": "BAD NEWS",
+      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 158117,
       "name": "Cold (feat. CADE)",
       "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "A SERIES OF UNFORTUNATE EVENTS",
+        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
       "added_at": "2022-10-07 04:18:00",

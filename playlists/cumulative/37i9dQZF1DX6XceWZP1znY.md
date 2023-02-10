@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-674 songs - 1 day 20 hr 53 min
+675 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,9 +174,10 @@
 | [Kaikai Kitan](https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan](https://open.spotify.com/album/20avoisFInptrZfBRFdCP3) | 3:39 | 2022-08-11 | 2022-11-13 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-06-07 |  |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-06-07 | 2022-08-12 |
+| [KAMIGAMI\-神噛\- \- TV edit](https://open.spotify.com/track/4SNhHffgdvKYyyGcbxqPZ1) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [KAMIGAMI\-神噛\- \(TV edit\)](https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf) | 1:33 | 2023-01-07 |  |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-22 |  |
 | [KANNA](https://open.spotify.com/track/7e075JlKGuMFroDv7xev13) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [KANNA](https://open.spotify.com/album/7mZi1uvCLFg03MFhxoJO90) | 4:48 | 2022-06-07 | 2022-07-20 |
-| [katharsis \(TV edit\)](https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis \(TV edit\)](https://open.spotify.com/album/6rG9k3EIRpWlhqPL9poKh8) | 1:29 | 2022-08-11 |  |
+| [katharsis \(TV edit\)](https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis \(TV edit\)](https://open.spotify.com/album/6rG9k3EIRpWlhqPL9poKh8) | 1:29 | 2022-08-11 | 2023-02-10 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-10-05 | 2022-11-23 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-22 |  |
 | [Kiss Me](https://open.spotify.com/track/3oWLxV0LKV4z2gWUOsX5zJ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [2ND GALAXY](https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6) | 3:38 | 2022-06-07 | 2022-07-29 |
@@ -262,7 +263,7 @@
 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 | 2022-06-07 |  |
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-07 | 2022-07-28 |
 | [Precious My Heroes](https://open.spotify.com/track/7ushnMUNnxdnCYenITjTAB) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [宮本一粋](https://open.spotify.com/artist/4xfWvTxGsQ64S07dogtUjD) | [Precious My Heroes](https://open.spotify.com/album/6dwAUn6nNHo7Od7oCXU3mZ) | 4:49 | 2022-06-07 | 2022-06-12 |
-| [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-10-04 |  |
+| [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-10-04 | 2023-02-10 |
 | [Pride](https://open.spotify.com/track/1AI0jUdrMtoA2UBXf21WqG) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [Pride](https://open.spotify.com/album/2bx5zIIZ0r1jd06uU4vAZh) | 4:35 | 2022-06-07 | 2022-07-14 |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-22 | 2023-01-07 |
 | [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 | 2022-06-07 | 2022-08-01 |
@@ -554,7 +555,7 @@
 | [回夏](https://open.spotify.com/track/5IW6VmYrOkkn7o6L49AEUD) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [回夏](https://open.spotify.com/album/76zhJ0X2tZPg36SYK9XHgI) | 3:34 | 2022-06-07 | 2022-07-29 |
 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2022-08-11 | 2022-10-04 |
 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 | 2022-06-07 |  |
-| [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 | 2023-02-01 |
+| [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 |  |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 | 2023-02-01 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 |  |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2022-06-07 | 2022-07-29 |

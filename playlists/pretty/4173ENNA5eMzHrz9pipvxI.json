@@ -1,15 +1,75 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Sick Individuals x Alle Farben",
-  "num_followers": 119966,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  LUM!X x Gabry Ponte x Alida",
+  "num_followers": 119967,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjQwNiw4YzY3Y2I3ODBjODg1YWMyNDNjODgxNDkxYTU0MDRkZDc1ZmNjMDE4",
+  "snapshot_id": "NjQxMSxmNDE4ZjZjNTIxYTg3ZWNiNmJmNDVlMzhhNGU5NTQwOTQzMjY3ZmFm",
   "tracks": [
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "Forget You (with Gabry Ponte)",
+        "url": "https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 138620,
+      "name": "Forget You (with Gabry Ponte)",
+      "url": "https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/78s2FPRgVCvO7O97S5JAhh"
+      },
+      "artists": [
+        {
+          "name": "Rockefeller",
+          "url": "https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9"
+        }
+      ],
+      "duration_ms": 155415,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4WvuwWrYyjoBUMKSXMqeMQ"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "My Life (feat. The Runaway Club)",
         "url": "https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O"
@@ -33,23 +93,27 @@
       "url": "https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
+        "name": "Somebody's Watching Me (Hi_Tack Remix)",
+        "url": "https://open.spotify.com/album/4eM4jrQtcqN0IPIODVu3Lb"
       },
       "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
         {
           "name": "71 Digits",
           "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
         }
       ],
-      "duration_ms": 150967,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
+      "duration_ms": 150517,
+      "name": "Somebody's Watching Me - Hi_Tack Remix",
+      "url": "https://open.spotify.com/track/4F7zNWrje1QkEINAwU6x0m"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
@@ -73,7 +137,59 @@
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "Banaan Meloen Kiwi & Citroen",
+        "url": "https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 175846,
+      "name": "Banaan Meloen Kiwi & Citroen",
+      "url": "https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6N9ITWVJx76I2La3Q32Wop"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/2O97OMWIHjOF5dqVYQMOX1"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
+    },
+    {
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
@@ -97,7 +213,7 @@
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Takata",
         "url": "https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w"
@@ -113,7 +229,7 @@
       "url": "https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
@@ -129,7 +245,7 @@
       "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Rave All Night",
         "url": "https://open.spotify.com/album/43JAJbPOaZcDmuWfCEPb2z"
@@ -145,7 +261,7 @@
       "url": "https://open.spotify.com/track/2MZZrysYKHi7oz0AbuXrQv"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Sonata",
         "url": "https://open.spotify.com/album/7zW592Ud9i3jRKBMvzxDie"
@@ -161,7 +277,7 @@
       "url": "https://open.spotify.com/track/5fhIk6wCPr0NSR0rwMVQGF"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/3tBXAv3cZpJ7lGFQtZiQua"
@@ -177,7 +293,7 @@
       "url": "https://open.spotify.com/track/7cf2bjFCk73V3WNdnb7dmL"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "S*x Dr*gs and Alcohol (feat. Indox)",
         "url": "https://open.spotify.com/album/5zefRKqVkCbszPv4QhuRWv"
@@ -205,7 +321,7 @@
       "url": "https://open.spotify.com/track/1WEFw9eoOYGRrH9T69C7dg"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Feel Your Love",
         "url": "https://open.spotify.com/album/4Fua9Lwtxb7WtxFwxux3cI"
@@ -225,7 +341,7 @@
       "url": "https://open.spotify.com/track/1yySxSMqnEwNQL9yVB4bge"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Can't Hide (feat. Emma Zander)",
         "url": "https://open.spotify.com/album/2KczYVq6l8Sys9ix4bjZX6"
@@ -249,7 +365,7 @@
       "url": "https://open.spotify.com/track/2iVRhkhzByDj018PP6qFXB"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Lay Low (Nick Strand x Mio Remix)",
         "url": "https://open.spotify.com/album/3trIk2OuY1TMPHENvlMLy3"
@@ -273,7 +389,7 @@
       "url": "https://open.spotify.com/track/2mxBOb8OJa9VaYT454hKvD"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Lay Low (Ti\u00ebsto VIP Mix)",
         "url": "https://open.spotify.com/album/2eoM5rDP2qp7MV5FE7p3wr"
@@ -289,7 +405,7 @@
       "url": "https://open.spotify.com/track/3arD8N1yRHfbNe6kI3vyZF"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Shaman EP",
         "url": "https://open.spotify.com/album/4Kr0R4hyXt1nBrKVyjTHvj"
@@ -305,7 +421,7 @@
       "url": "https://open.spotify.com/track/6bPtNfftPzeFNTTtfiUgD3"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Shadow (Phonk Remix)",
         "url": "https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm"
@@ -321,7 +437,7 @@
       "url": "https://open.spotify.com/track/4MY2EUZIoXyzrhUiUNXFR5"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Elegibo (Uma Historia De Ifa)",
         "url": "https://open.spotify.com/album/0UI7aUhxJM6okLB8P2MYrK"
@@ -345,7 +461,7 @@
       "url": "https://open.spotify.com/track/2Tr1U7YMP4Z9x4ItgHB34o"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Be Somebody (Achilles Club Mix)",
         "url": "https://open.spotify.com/album/0EkXlNBvNWFkp5xDvRnl8k"
@@ -369,7 +485,7 @@
       "url": "https://open.spotify.com/track/6aPyvA6WN4Pt6qW1SAWybY"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Monster (feat. LUM!X, Gabry Ponte) [Slowed Version]",
         "url": "https://open.spotify.com/album/0rDwHNE8nm9Icdgzecewx1"
@@ -385,7 +501,7 @@
       "url": "https://open.spotify.com/track/1USYre3e8uUmpeY9fwKsp2"
     },
     {
-      "added_at": "2023-02-02 23:56:16",
+      "added_at": "2023-02-09 23:56:28",
       "album": {
         "name": "Monster (feat. LUM!X, Gabry Ponte) [Sped Up Version]",
         "url": "https://open.spotify.com/album/5bjLeN6GcZpFMP2hBjMjQ0"
@@ -399,266 +515,6 @@
       "duration_ms": 122409,
       "name": "Monster (feat. LUM!X, Gabry Ponte) - Sped Up Version",
       "url": "https://open.spotify.com/track/3RXqPSEMCXYoLbe4iiKgOj"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Like That!",
-        "url": "https://open.spotify.com/album/7n2uPIxqk2YZoueagzBoqR"
-      },
-      "artists": [
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        },
-        {
-          "name": "KENNY MUSIK",
-          "url": "https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z"
-        }
-      ],
-      "duration_ms": 156048,
-      "name": "Like That!",
-      "url": "https://open.spotify.com/track/4QGXpDkEZzuZ33oniNjAQ0"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Dancing In The Dark (Radio Edit)",
-        "url": "https://open.spotify.com/album/3dh3dgDdlHzkGrFXeYUrL4"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        },
-        {
-          "name": "ManyFew",
-          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Dancing In The Dark - Radio Edit",
-      "url": "https://open.spotify.com/track/3ayN4HDXZ79Nhzl92eAyko"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Behind My Eyes (feat. Heleen)",
-        "url": "https://open.spotify.com/album/1Xhr0ZFXwzFj5BIuZ7dkhZ"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Behind My Eyes (feat. Heleen)",
-      "url": "https://open.spotify.com/track/3P4mnGNvg67iOnqs3Y2tm7"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "I Got Lost In Berlin",
-        "url": "https://open.spotify.com/album/0Vt2P3ghfpMjXLkTGU4DxP"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "I Got Lost In Berlin",
-      "url": "https://open.spotify.com/track/3LpQssJbl7b65Jl4BDDI3d"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Don't Speak (Radio Edit)",
-        "url": "https://open.spotify.com/album/3WVq2UQ67fC71KtK1WCS2Q"
-      },
-      "artists": [
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        },
-        {
-          "name": "Avalan",
-          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
-        }
-      ],
-      "duration_ms": 148203,
-      "name": "Don't Speak - Radio Edit",
-      "url": "https://open.spotify.com/track/4nJmlWaK3lvoglcGfsp1LZ"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Red Light, Green Light (Festival Remix)",
-        "url": "https://open.spotify.com/album/38vHZnuuXFL4tu6pU092wZ"
-      },
-      "artists": [
-        {
-          "name": "Squid Kids",
-          "url": "https://open.spotify.com/artist/0xtNG1XuQ9YaW7aRr4Fog8"
-        }
-      ],
-      "duration_ms": 147153,
-      "name": "Red Light, Green Light (Festival Remix)",
-      "url": "https://open.spotify.com/track/6hSzmYOwZjY5BiUHPGkJww"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Craving You",
-        "url": "https://open.spotify.com/album/4Jka2nzghsBlw4Sri63Wkc"
-      },
-      "artists": [
-        {
-          "name": "H\u00dcMAN",
-          "url": "https://open.spotify.com/artist/5OSFyC4u32V4PI7YoyuMCc"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        }
-      ],
-      "duration_ms": 267217,
-      "name": "Craving You",
-      "url": "https://open.spotify.com/track/5BDXw3ozJ1yXQpM2VKYMDk"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Love Finds A Way (Radio Edit)",
-        "url": "https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7"
-      },
-      "artists": [
-        {
-          "name": "David Herrlich",
-          "url": "https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Love Finds A Way - Radio Edit",
-      "url": "https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Shake Milk (Festival Mix)",
-        "url": "https://open.spotify.com/album/0b9Z0oJhTtFtAQTJwtmfye"
-      },
-      "artists": [
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "Shake Milk (Festival Mix)",
-      "url": "https://open.spotify.com/track/6Qya39WoIJiS1X2T1n9lie"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Internal (Slowed Version)",
-        "url": "https://open.spotify.com/album/1PRGmT60gwH74oRplYBKXq"
-      },
-      "artists": [
-        {
-          "name": "Rogue Dave",
-          "url": "https://open.spotify.com/artist/5rfZwd1LcOIodLysmqlXGK"
-        }
-      ],
-      "duration_ms": 115955,
-      "name": "Internal - Slowed Version",
-      "url": "https://open.spotify.com/track/2dTct3iu5l5K2ZvlxEt3FS"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/66C8ND4Wu3iTb23pLz1cxX"
-      },
-      "artists": [
-        {
-          "name": "ANDROZONE",
-          "url": "https://open.spotify.com/artist/2uNZa3sOY18Nf6n3WHKIg6"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/2y5o0uRMeAXdoEuBARHbLW"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Al Perreo",
-        "url": "https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt"
-      },
-      "artists": [
-        {
-          "name": "FNTZY",
-          "url": "https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5"
-        }
-      ],
-      "duration_ms": 151904,
-      "name": "Al Perreo - Mixed",
-      "url": "https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/7i5c8kx44asZdicG8xGxx2"
-      },
-      "artists": [
-        {
-          "name": "Insira",
-          "url": "https://open.spotify.com/artist/4uR1CUgsicbwL5Pqw1nUJT"
-        }
-      ],
-      "duration_ms": 233258,
-      "name": "Hush - Mixed",
-      "url": "https://open.spotify.com/track/0XxotF2YqnTxJLn5ni4nz2"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "Falling Into Space",
-        "url": "https://open.spotify.com/album/7HQWSqjJQHVLIipyTdL8Y2"
-      },
-      "artists": [
-        {
-          "name": "Matisso",
-          "url": "https://open.spotify.com/artist/3QbWPIt27dS6iv4RrzTyDV"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Falling Into Space",
-      "url": "https://open.spotify.com/track/6Pw6050rVSbborPpRkxOS0"
-    },
-    {
-      "added_at": "2023-02-02 23:56:16",
-      "album": {
-        "name": "PARASAH",
-        "url": "https://open.spotify.com/album/4MaSNhO8ABpTgI6LVufLQo"
-      },
-      "artists": [
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 257073,
-      "name": "PARASAH",
-      "url": "https://open.spotify.com/track/66c1ErtM73vGtrTrp9PmK5"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

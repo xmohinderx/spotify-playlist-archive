@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-104 songs - 4 hr 53 min
+108 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,15 +21,18 @@
 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 | 2022-08-22 | 2023-01-05 |
 | [Bleached](https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu) | [Video Days](https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe) | [sungazing](https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM) | 1:23 | 2023-01-19 |  |
 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 | 2022-08-22 |  |
+| [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 | 2023-02-09 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-08-22 | 2023-02-02 |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 | 2022-09-06 |  |
 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2022-08-22 | 2022-08-24 |
 | [Browser History](https://open.spotify.com/track/71K5XMKY9Q3GWTIVQWrPRj) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 2:19 | 2022-08-22 |  |
 | [Bumblebees Are Out](https://open.spotify.com/track/14jUd8RethwaeDEjfDcVL4) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Micropop](https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k) | 0:32 | 2022-08-22 | 2022-10-17 |
+| [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 | 2023-02-09 |  |
 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 | 2022-08-22 |  |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-08-22 |  |
 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 | 2022-08-22 |  |
 | [Dreamin](https://open.spotify.com/track/5YzYFYZfOwpiHm6UKK9qUh) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Dreamin](https://open.spotify.com/album/27uNgJuKbQzIjvdeh5TVb0) | 2:12 | 2022-08-22 |  |
+| [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-02-09 |  |
 | [Dust Collector](https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l) | [YG Hypnos](https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn) | [Analog Noise](https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e) | 2:48 | 2022-08-22 |  |
 | [Fallen Down](https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w) | [Duncan Cox](https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4) | [Fallen Down](https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz) | 2:21 | 2022-08-22 | 2022-08-27 |
 | [Fallen Down \(Reprise\)](https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:30 | 2022-08-22 |  |
@@ -94,6 +97,7 @@
 | [Still Life](https://open.spotify.com/track/3IRsovEHKu0ZgufFhbPLbu) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/67i2fZfID3xg3seBcLrHXe) | 3:22 | 2022-08-22 | 2022-12-16 |
 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 | 2022-09-06 |  |
 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2023-01-04 |  |
+| [Swimmer](https://open.spotify.com/track/7gZbMIgWT6TWzCTlkGaiIq) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 1:34 | 2023-02-09 |  |
 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 | 2022-08-22 |  |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-08-22 |  |
 | [The Lobotomy](https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf) | [Maebi](https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu) | [The Lobotomy](https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ) | 1:07 | 2023-01-23 |  |

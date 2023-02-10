@@ -840,7 +840,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -1494,6 +1494,24 @@
       "duration_ms": 233887,
       "name": "Sleeping in Waking",
       "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+    },
+    {
+      "album": {
+        "name": "Hanazono",
+        "url": "https://open.spotify.com/album/21Set97cVJ7i7GBmds9YDB"
+      },
+      "artists": [
+        {
+          "name": "Maika Shiratori",
+          "url": "https://open.spotify.com/artist/3bP6MNXpnr8fI2NzIKyc1h"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Sono Hikari ni Tsutsumarete",
+      "url": "https://open.spotify.com/track/4kGsJBRXDrRG0Y6e2Ydk9D"
     },
     {
       "album": {
@@ -2267,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30ec\u30df",
+        "url": "https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247952,
+      "name": "\u30c9\u30ec\u30df",
+      "url": "https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC"
+    },
+    {
+      "album": {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
       },
@@ -2682,7 +2718,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"

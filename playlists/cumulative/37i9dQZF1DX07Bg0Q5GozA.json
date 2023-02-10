@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Amtrac",
+  "description": "New music off the beaten track. Cover: Django Django",
   "name": "OFF POP",
   "tracks": [
     {
@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "A Habit I Can't Break",
+        "url": "https://open.spotify.com/album/5AylJ3SmGL6dZGpygnMEcs"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Zoot Woman",
+          "url": "https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "A Habit I Can't Break",
+      "url": "https://open.spotify.com/track/1lBNeUX94bHDDk1OOjuSfg"
+    },
+    {
+      "album": {
         "name": "A Place To Lie",
         "url": "https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM"
       },
@@ -99,6 +121,24 @@
     },
     {
       "album": {
+        "name": "ALL I WANT",
+        "url": "https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233203,
+      "name": "ALL I WANT",
+      "url": "https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G"
+    },
+    {
+      "album": {
         "name": "Hermetica",
         "url": "https://open.spotify.com/album/7hpMuiN4TsnHWqqndo6IMK"
       },
@@ -114,6 +154,24 @@
       "duration_ms": 367880,
       "name": "Alles",
       "url": "https://open.spotify.com/track/5jzKFezfgLc58sxOYHO7N7"
+    },
+    {
+      "album": {
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
     },
     {
       "album": {
@@ -524,6 +582,28 @@
       "duration_ms": 307142,
       "name": "Colder & Closer - Suzanne Kraft Remix",
       "url": "https://open.spotify.com/track/4znP6MIqYAC4fxTmNNUo7w"
+    },
+    {
+      "album": {
+        "name": "Complete Me (feat. Self Esteem)",
+        "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286221,
+      "name": "Complete Me (feat. Self Esteem)",
+      "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
     },
     {
       "album": {
@@ -1594,7 +1674,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 250649,
       "name": "IT WON\u2019T DO",
       "url": "https://open.spotify.com/track/0JH0HwpTp0U0XCFWlNVTEF"
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 453604,
       "name": "Kiss - Konstantin Sibold & Colyn Alternative Edit",
       "url": "https://open.spotify.com/track/52tHzOpQApOba7kNJ4oc1q"
@@ -2134,7 +2214,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 215626,
       "name": "Mirror - Christian L\u00f6ffler Remix",
       "url": "https://open.spotify.com/track/5dwuKtaVqHaTL9L3E5XIzE"
@@ -2898,7 +2978,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 269446,
       "name": "Sandrail Silhouette",
       "url": "https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ"
@@ -3178,7 +3258,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 265714,
       "name": "Stop Explaining",
       "url": "https://open.spotify.com/track/4uEDKomPhMtis1zYDQMmUO"
@@ -3531,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/3NMmDrvPdvbkqWPZfxsYJv"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/0wdD6gKfjarthX7J6jFUKj"
+    },
+    {
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -3862,7 +3960,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 410410,
       "name": "Your Love - Agents of Time Remix",
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"

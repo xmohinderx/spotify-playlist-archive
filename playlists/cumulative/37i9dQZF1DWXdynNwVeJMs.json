@@ -2547,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Vault-A",
+        "url": "https://open.spotify.com/album/5IfkWD6MlAtWUujGVf6RrX"
+      },
+      "artists": [
+        {
+          "name": "ECHT!",
+          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Vault-A",
+      "url": "https://open.spotify.com/track/5hnDNWvnvrac1jLVV61dF8"
+    },
+    {
+      "album": {
         "name": "Het Verdriet",
         "url": "https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o"
       },

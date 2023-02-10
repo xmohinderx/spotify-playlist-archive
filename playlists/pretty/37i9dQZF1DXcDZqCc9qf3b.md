@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites!
+> Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,095 likes - 79 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,106 likes - 79 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 6 | [Paws Off](https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Román Zaragoza](https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf) | 1:04 |
 | 7 | [Get Along](https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 3:43 |
 | 8 | [Rules R Made 2 B Broken](https://open.spotify.com/track/0mtEUhkt4MwxtNtYOitnCp) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:38 |
-| 9 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
-| 10 | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2) | 1:54 |
+| 9 | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2) | 1:54 |
+| 10 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
 | 11 | [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/0f1rObddzYzuikkqBKF8o3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7kDe7QIbUXeF4FrzIHmX8D) | 4:10 |
 | 12 | [Captain Crow \- from "The Sea Beast" Soundtrack](https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V) | [Nell Benjamin](https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ), [Laurence O'Keefe](https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 1:37 |
 | 13 | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/track/2gDV2v7pECv2jEApJnrjXf) | [The Action Pack Cast](https://open.spotify.com/artist/23QdqFguNBL4XCEIoMDkoq) | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/album/72I8xPCKWrQGcD3qpNmyIv) | 2:01 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 78 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 |
 | 79 | [Grand Finale](https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Bryan Tyree Henry](https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K), [Aneesa Folds](https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P), [Bri Holland](https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol), [Alana de Fonseca](https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R), [Zoe Saldana](https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:06 |
 
-Snapshot ID: `MTY3NTQ1MjQxNywwMDAwMDAwMDE0NjBkNzZkM2I5MmRhNzE4NzcyYmVjNWM4YzE1ODY2`
+Snapshot ID: `MTY3NTkzNjgwMCwwMDAwMDAwMGExMGZjNWIxMjM3NGZiZmIzMDI3ZGRlYjBkZjk2NThl`

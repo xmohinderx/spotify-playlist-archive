@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Dreamville's  JID & Lute, NAV ft\. SoFaygo, and Skillibeng ft\. Nardo Wick is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,300 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,303 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

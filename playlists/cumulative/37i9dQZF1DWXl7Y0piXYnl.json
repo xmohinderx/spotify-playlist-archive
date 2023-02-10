@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Calatea",
+        "url": "https://open.spotify.com/album/2PqEXbczUXs9AqU0AtkW5H"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Urquieta",
+          "url": "https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Calatea",
+      "url": "https://open.spotify.com/track/0Qd1Q9VksJiH0UAfmpauCf"
+    },
+    {
+      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/5Io6ZLxSWT9j6iJvXO2NRk"
       },
@@ -448,6 +466,32 @@
       "duration_ms": 265846,
       "name": "Coffee Time!",
       "url": "https://open.spotify.com/track/4BxeHP8DMn616l32EkF3xj"
+    },
+    {
+      "album": {
+        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
+        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "COPY COPY - Logic1000 & Big Ever Remix",
+      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
     },
     {
       "album": {
@@ -600,7 +644,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 262586,
       "name": "DOLO 20",
       "url": "https://open.spotify.com/track/6HDGvWWRuVroFCyhuIp5b3"
@@ -726,7 +770,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 341717,
       "name": "Everything Falls Into Place",
       "url": "https://open.spotify.com/track/5Jb5NfKOd5iEtEJE0h0jLz"
@@ -806,7 +850,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
@@ -884,6 +928,24 @@
       "duration_ms": 189600,
       "name": "Gelati",
       "url": "https://open.spotify.com/track/6JjRcxvIgtma84WfqZdTcc"
+    },
+    {
+      "album": {
+        "name": "GETOUTOFMYHEAD",
+        "url": "https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376661,
+      "name": "GETOUTOFMYHEAD",
+      "url": "https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5"
     },
     {
       "album": {
@@ -1129,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Look Mum No Hands",
+        "url": "https://open.spotify.com/album/7HgUt8ETh3yNdZK5qaoYS3"
+      },
+      "artists": [
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361483,
+      "name": "Look Mum No Hands",
+      "url": "https://open.spotify.com/track/4vMsZppXXo8BoFDiiHk9nd"
+    },
+    {
+      "album": {
         "name": "Lux 3",
         "url": "https://open.spotify.com/album/2p1XFdGAircrJRoZkmz357"
       },
@@ -1148,6 +1228,24 @@
       "duration_ms": 295725,
       "name": "Lux 3",
       "url": "https://open.spotify.com/track/7tJFgdzIDUuSIBMOcKtgaA"
+    },
+    {
+      "album": {
+        "name": "Bcd",
+        "url": "https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d"
+      },
+      "artists": [
+        {
+          "name": "Basic Channel",
+          "url": "https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388106,
+      "name": "Lyot Remix - Edit",
+      "url": "https://open.spotify.com/track/7LHfXGLdbxAaRJp6Jq0lAn"
     },
     {
       "album": {
@@ -1268,6 +1366,46 @@
       "duration_ms": 292292,
       "name": "Misty Winter",
       "url": "https://open.spotify.com/track/7r3BrzYsLmxLiMmlL3hx5u"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Tzusing Remix)",
+        "url": "https://open.spotify.com/album/2x0cKKk9b9zlBKJLcWyWag"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        },
+        {
+          "name": "Tzusing",
+          "url": "https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Mosquito - Tzusing Remix",
+      "url": "https://open.spotify.com/track/0rb1Ngna2bumcUf4YCUeNv"
+    },
+    {
+      "album": {
+        "name": "Near Disco Dawn",
+        "url": "https://open.spotify.com/album/6OfsfAYZt7qbHXYh3DMwPK"
+      },
+      "artists": [
+        {
+          "name": "Errorsmith",
+          "url": "https://open.spotify.com/artist/0GBfmQlQSoO1OBxO8Y73vB"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288760,
+      "name": "Near Disco Dawn at Wmf",
+      "url": "https://open.spotify.com/track/6sOtAwQpcCsnmX5Ek65K7P"
     },
     {
       "album": {
@@ -1516,7 +1654,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 272978,
       "name": "Relay - Skee Mask Remix",
       "url": "https://open.spotify.com/track/4ikfcc5EYybZY39xeNWUvf"
@@ -1640,7 +1778,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 224446,
       "name": "Soap Cube",
       "url": "https://open.spotify.com/track/12xikjelcZYCxUxT56EQs2"
@@ -1836,7 +1974,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 368640,
       "name": "The Wolf, The Sheep & The Door",
       "url": "https://open.spotify.com/track/3bsC4y8Hm3gj42IcQyrIQC"
@@ -2148,7 +2286,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 185632,
       "name": "You're Untouchable",
       "url": "https://open.spotify.com/track/0btw2yljb0iwuJAkNwJttB"

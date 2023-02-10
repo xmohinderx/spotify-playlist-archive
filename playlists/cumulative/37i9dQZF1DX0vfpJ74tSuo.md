@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-156 songs - 9 hr 36 min
+157 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |
 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 | 2022-07-08 |  |
 | [Devil Is Watching You](https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes](https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV) | 4:00 | 2022-05-25 |  |
-| [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 | 2023-01-27 |  |
+| [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 | 2023-01-27 | 2023-02-10 |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2022-05-25 |  |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-10-14 |  |
 | [Done Changed My Way of Living](https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 7:03 | 2022-05-25 |  |
@@ -90,6 +90,7 @@
 | [If I Could Turn Back the Hands of Time](https://open.spotify.com/track/6Zgl48w4inkO6sh8wpcUbW) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [If I Could Turn Back the Hands of Time](https://open.spotify.com/album/4jBGHqdVtt698akKU9HAPi) | 2:56 | 2022-11-18 | 2022-12-28 |
 | [Isolation Blues](https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE) | [Ben Reel](https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD) | [Isolation Blues](https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho) | 3:12 | 2023-01-20 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-09-20 |  |
+| [I’ve Got Something](https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo) | [Heather Luckhart](https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu) | [Make It Through](https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC) | 3:39 | 2023-02-03 |  |
 | [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY) | 3:53 | 2022-05-25 |  |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 |  |
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |

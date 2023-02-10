@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,663 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,667 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 49 | [Always And Forever \(feat\. Billy Paul\)](https://open.spotify.com/track/0Okw02rqih2NWC7P6BGtNI) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Soulicious The Soul Album](https://open.spotify.com/album/4CmQx74g7z10roxVrd7Ujw) | 4:58 |
 | 50 | [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
 
-Snapshot ID: `Mjc5MzEzOTQsMDAwMDAwMDA2YzgwZTdmYTNkNTQ0MDViYjE0ZTg4ZGEwMmYwNDAxZA==`
+Snapshot ID: `Mjc5MzI2ODAsMDAwMDAwMDBjNTdiZmEzMDdjZGYxOTMzZTA5MjNlZTM4ZWNkMzY3ZA==`

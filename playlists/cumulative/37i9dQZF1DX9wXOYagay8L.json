@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=5fj2DByHS9-EmIcM78mH1w\">Brenda Mtambo</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs?si=7x8x6BUlRoilITy7aQZ18A\">Donald</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -798,7 +798,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 216750,
       "name": "Bhekemehlweni",
       "url": "https://open.spotify.com/track/4GqYUUX01isf7s5YpQk59o"
@@ -838,6 +838,32 @@
       "duration_ms": 328489,
       "name": "Byala",
       "url": "https://open.spotify.com/track/4hmJCqRxK1mzvc8EKyTykO"
+    },
+    {
+      "album": {
+        "name": "TIKI",
+        "url": "https://open.spotify.com/album/6z2QWchinykVMeFclJotQb"
+      },
+      "artists": [
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs"
+        },
+        {
+          "name": "Dr Moruti",
+          "url": "https://open.spotify.com/artist/6WAHtGMWHB0gss7ohbkvp9"
+        },
+        {
+          "name": "Dee Cee",
+          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Cheat",
+      "url": "https://open.spotify.com/track/29AQOU8prFxhc70Omaum13"
     },
     {
       "album": {
@@ -3326,7 +3352,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 290507,
       "name": "MaGear",
       "url": "https://open.spotify.com/track/2ZrY5oRNMOLbmOKNGS9Ypo"
@@ -4969,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Sabela",
+        "url": "https://open.spotify.com/album/7nHrg0Ct3rGCQq9KeMUY6z"
+      },
+      "artists": [
+        {
+          "name": "Vuyina",
+          "url": "https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Sabela",
+      "url": "https://open.spotify.com/track/1BuHQohZdOS9rlGrn313Rk"
+    },
+    {
+      "album": {
         "name": "SAFE SPACE",
         "url": "https://open.spotify.com/album/42sIQEXqN9mAW6KuXsEo3s"
       },
@@ -6044,6 +6088,28 @@
       "duration_ms": 289693,
       "name": "Ubaba",
       "url": "https://open.spotify.com/track/4RAUKdu1tEeeF9sKgfh2jB"
+    },
+    {
+      "album": {
+        "name": "Ubambo Lwam'",
+        "url": "https://open.spotify.com/album/4tYuh7ijwVlMjeTiQgXHTv"
+      },
+      "artists": [
+        {
+          "name": "Fizz Munt",
+          "url": "https://open.spotify.com/artist/14MbN4GVNfAVwaxbYYIuSQ"
+        },
+        {
+          "name": "Spiro Beats",
+          "url": "https://open.spotify.com/artist/2UucDAVCmgqzNq1TAl8EwY"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188294,
+      "name": "Ubambo Lwam'",
+      "url": "https://open.spotify.com/track/6XWZZKtX2mNx2RpQNSriVr"
     },
     {
       "album": {

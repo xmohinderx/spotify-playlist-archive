@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,964 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 2 | [MONEY MANTRA \($$$\)](https://open.spotify.com/track/0AoVzLAfAUGHNE8FMxaWXA) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [UNDERCOVER LOVERGIRL](https://open.spotify.com/album/5ftcgh6Hixp42GIOlB1Fsq) | 2:34 |
 | 3 | [On Time](https://open.spotify.com/track/3ToDN9fnVh1lg8WYifWYEE) | [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u) | [The Return Of The Jedi](https://open.spotify.com/album/5FP4vK7ADFEbK77rghjGoF) | 2:45 |
 | 4 | [Fallin 4 U](https://open.spotify.com/track/6508S7RrqNgFaGkNlcnppp) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [Fallin 4 U](https://open.spotify.com/album/1YJ8tY6VZVWPmpedVPDvsa) | 2:05 |
-| 5 | [soonish \- remix](https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5) | [Blimes](https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM), [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [soonish \(remix\)](https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp) | 3:13 |
+| 5 | [soonish \(feat\. Gifted Gab, Gavlyn, Kissflame\) \- remix](https://open.spotify.com/track/67LG6Gt1x65FvVOzhh8mRK) | [Blimes](https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM), [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [soonish \(feat\. Gifted Gab, Gavlyn, Kissflame\) \[remix\]](https://open.spotify.com/album/6dIkui7FFdvqPcKV34NPyK) | 3:13 |
 | 6 | [To Rico](https://open.spotify.com/track/0ZtJiImDOswMTzeIFX3i0X) | [Julimar](https://open.spotify.com/artist/3hTpXvRBbAKYNQCQrQJS5j), [Karma Rivera](https://open.spotify.com/artist/79rSn0FneG7zsUb6LItVLs), [Lapaushi](https://open.spotify.com/artist/24blHTBtdpGgD93XzjrOL1) | [To Rico](https://open.spotify.com/album/19V5nHozRe1Nf98cZiDFP4) | 2:16 |
 | 7 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
 | 8 | [LaLa](https://open.spotify.com/track/107HaqYTbzmtBkhk1cuLgB) | [swimteam](https://open.spotify.com/artist/206omVtktHmTtNCsSiMMjH), [grxtty](https://open.spotify.com/artist/1FlR4NKUG0ZDEzVZJbEe2E), [KHRIS P](https://open.spotify.com/artist/5kWlBrfLyEaITpIECNy577), [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc) | [Heat 1](https://open.spotify.com/album/1zgVPlpiEfgHEThuvPRRRt) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [BACK](https://open.spotify.com/track/71wgKh5575p381tV48Xfu3) | [Keezy Kay](https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK), [Keysean Devin](https://open.spotify.com/artist/18ZY2bXFIBENyzmHF6Phxv) | [BACK](https://open.spotify.com/album/1whKX00YhmaN20o3KxKUtB) | 2:46 |
 | 50 | [What It Do](https://open.spotify.com/track/70SPaHty8pOp8wqJumA3Xl) | [Lil Boof](https://open.spotify.com/artist/5F0TXqGLk4v8EAe0TZq0XC) | [What It Do](https://open.spotify.com/album/3haXXbUQQmUAFr8XgbX5CV) | 1:41 |
 
-Snapshot ID: `MTY3NTE0MzIwMSwwMDAwMDAwMDNjYWUyN2YzZDViNDYxZjk4MWI4OGE3YzA4ZGYxMWEx`
+Snapshot ID: `MTY3NTE0MzIwMSwwMDAwMDAwMGY1MzgxMGYwZjkxZTVkODFiNTQyYjkzMTY5M2E0ZWE4`

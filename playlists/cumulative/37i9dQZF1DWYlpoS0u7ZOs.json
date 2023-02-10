@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX"
+      },
+      "artists": [
+        {
+          "name": "Passionflower",
+          "url": "https://open.spotify.com/artist/2JDENMXTGFUFtq5sE3Pohr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242218,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2"
+    },
+    {
+      "album": {
         "name": "Anne-Marie",
         "url": "https://open.spotify.com/album/3uq658Scb5P1dZnWWbM500"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 219226,
       "name": "Boots",
       "url": "https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw"
+    },
+    {
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Buck",
+      "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
     },
     {
       "album": {
@@ -214,7 +250,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 237926,
       "name": "die too",
       "url": "https://open.spotify.com/track/3QMtUdoPW6mTsBO4QJ2E2m"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 135107,
       "name": "I Don't Want It",
       "url": "https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd"
@@ -610,7 +646,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 134488,
       "name": "I'm Deranged",
       "url": "https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 240744,
       "name": "Lovedrunk",
       "url": "https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8"
@@ -884,6 +920,24 @@
       "duration_ms": 143576,
       "name": "Meal Deal",
       "url": "https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU"
+    },
+    {
+      "album": {
+        "name": "Micro Aggression",
+        "url": "https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157155,
+      "name": "Micro Aggression",
+      "url": "https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK"
     },
     {
       "album": {
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 291459,
       "name": "Rohmeresse",
       "url": "https://open.spotify.com/track/1fhdNRoxgELg1nTqC4O011"
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 130560,
       "name": "She's So",
       "url": "https://open.spotify.com/track/4tgO5KlvsiW2sMeuqNnUki"
@@ -1392,6 +1446,46 @@
       "duration_ms": 158934,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5wO1dqc1lSpQFFut9auHQC"
+    },
+    {
+      "album": {
+        "name": "This Part of Me",
+        "url": "https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ"
+      },
+      "artists": [
+        {
+          "name": "7xvn",
+          "url": "https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h"
+        },
+        {
+          "name": "ZANDV",
+          "url": "https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "This Part of Me",
+      "url": "https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe"
+    },
+    {
+      "album": {
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196922,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
     },
     {
       "album": {

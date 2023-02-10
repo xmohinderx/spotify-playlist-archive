@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Bo Bundy",
-  "num_followers": 858,
+  "num_followers": 916,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMGQ2ZDNjY2RlN2ZiOTU1NzUyYmM4ODUwNGQzMjE0YTc4",
+  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMDkwMTQ0MzAzMTcwNjQwMjljNDgzZTA2MWYzYmU5NGI4",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
     },
     {
-      "added_at": "2023-02-09 00:38:03",
+      "added_at": "2023-02-10 01:24:05",
       "album": {
         "name": "Make it Norte\u00f1o Vol. 1",
         "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "V\u00e1monos a Marte",
         "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 191851,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
       "added_at": "2023-01-27 05:00:00",

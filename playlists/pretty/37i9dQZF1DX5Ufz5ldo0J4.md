@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,410 likes - 208 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,430 likes - 208 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,22 +18,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 8 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 |
 | 9 | [Cielo](https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE) | [Theo Adagio](https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K) | [Cielo](https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR) | 2:33 |
 | 10 | [A Journey](https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [A Journey](https://open.spotify.com/album/0xpGZx3qwQLBodx6voW3M6) | 2:44 |
-| 11 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 |
-| 12 | [Ferona](https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD) | [Tikos](https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684) | [Where I Belong](https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81) | 2:35 |
-| 13 | [The Middle Place](https://open.spotify.com/track/58uxtIkCAdEocbL6j8Bn7k) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [The Middle Place](https://open.spotify.com/album/0LWutF5RMyqz4KdRrFMQVE) | 3:33 |
-| 14 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 |
-| 15 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 |
-| 16 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 |
-| 17 | [Where Trees Stand Tall](https://open.spotify.com/track/2dfPVbN70gDVrfMHdsfrUC) | [Lesunia](https://open.spotify.com/artist/3rfxxLcf3jUOQN2ptyhIVj) | [Where Trees Stand Tall](https://open.spotify.com/album/1Su8cxJRziavqhZt8NKuYv) | 1:58 |
-| 18 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
-| 19 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
-| 20 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
-| 21 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 |
-| 22 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 |
-| 23 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
-| 24 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
-| 25 | [Oxbow](https://open.spotify.com/track/2f7wOcyVJUtt9Z6jz8txDN) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Oxbow](https://open.spotify.com/album/3p7CeO37NauvlyDA4maAz9) | 2:58 |
-| 26 | [Peaceful](https://open.spotify.com/track/1ouVnpZfILngw8yFH1jOPd) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Peaceful](https://open.spotify.com/album/3vwkHMs6VtSUiqCLUA0aqC) | 2:04 |
+| 11 | [In The Light Of Hope](https://open.spotify.com/track/6W1g2BdA980139iaKZ8XHx) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [In The Light Of Hope](https://open.spotify.com/album/3pHnYILBlmIHv7MNOXw5iq) | 2:37 |
+| 12 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 |
+| 13 | [Ferona](https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD) | [Tikos](https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684) | [Where I Belong](https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81) | 2:35 |
+| 14 | [The Middle Place](https://open.spotify.com/track/58uxtIkCAdEocbL6j8Bn7k) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [The Middle Place](https://open.spotify.com/album/0LWutF5RMyqz4KdRrFMQVE) | 3:33 |
+| 15 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 |
+| 16 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 |
+| 17 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 |
+| 18 | [Where Trees Stand Tall](https://open.spotify.com/track/2dfPVbN70gDVrfMHdsfrUC) | [Lesunia](https://open.spotify.com/artist/3rfxxLcf3jUOQN2ptyhIVj) | [Where Trees Stand Tall](https://open.spotify.com/album/1Su8cxJRziavqhZt8NKuYv) | 1:58 |
+| 19 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
+| 20 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
+| 21 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
+| 22 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 |
+| 23 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 |
+| 24 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
+| 25 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
+| 26 | [Oxbow](https://open.spotify.com/track/2f7wOcyVJUtt9Z6jz8txDN) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Oxbow](https://open.spotify.com/album/3p7CeO37NauvlyDA4maAz9) | 2:58 |
 | 27 | [Memorial](https://open.spotify.com/track/0HjdwMPiT1l7lB26RjQL7M) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Memorial](https://open.spotify.com/album/4IC6MxKrC9UgZy5I3adjP9) | 2:55 |
 | 28 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 |
 | 29 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 207 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 |
 | 208 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 |
 
-Snapshot ID: `MTY3NDgzNjQ2NCwwMDAwMDAwMGNjNzU0NzM2Y2IxM2U4OGVlNTkzMWNiYTYyZGY5MTg3`
+Snapshot ID: `MTY3NTk2MjE1NSwwMDAwMDAwMDlhNzQ5MmU0YzhlMjBkMWE2OGNmNWQ0NjYzODhiMGU4`

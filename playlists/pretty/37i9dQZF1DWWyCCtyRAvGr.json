@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 138625,
+  "num_followers": 138753,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzI0OSwwMDAwMDAwMDM1ZDJkNDdmMmU2N2MxZjJkMjJkMDZkYzJmZTgxYTUx",
+  "snapshot_id": "MTY3NDgzNzI0OSwwMDAwMDAwMGNhYWI0NjljNGJiZmNlMThiZDY5YTlmYmY3YTJjMzc2",
   "tracks": [
     {
       "added_at": "2023-01-20 14:38:55",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
-      "added_at": "2023-02-09 01:06:34",
+      "added_at": "2023-02-10 01:10:32",
       "album": {
         "name": "Rockin' With Reed",
         "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
         "name": "Two Bugs and a Roach",
         "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 312600,
-      "name": "Mississippi - Version 2",
-      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
     },
     {
-      "added_at": "2023-02-09 01:06:34",
+      "added_at": "2023-02-10 01:10:32",
       "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 333989,
       "name": "Whole World's Got The Blues",
       "url": "https://open.spotify.com/track/025MO5zsytvjgjZiuokOyS"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "One Day Closer To Home",
-        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 228832,
-      "name": "One Day Closer To Home",
-      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
+      "duration_ms": 282066,
+      "name": "Finest Lovin' Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+        "name": "One Day Closer To Home",
+        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
         }
       ],
-      "duration_ms": 282066,
-      "name": "Finest Lovin' Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
+      "duration_ms": 228832,
+      "name": "One Day Closer To Home",
+      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
         "name": "Heavy Load Blues (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 280360,
       "name": "This Time I'm Gone For Good",
       "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
+        "name": "Sailin' Shoes",
+        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "A Apolitical Blues",
+      "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
-        "name": "Sailin' Shoes",
-        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "A Apolitical Blues",
-      "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "The Essential Taj Mahal",
-        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 530640,
-      "name": "The Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
         "name": "Contemporary",
         "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+        "name": "The Essential Taj Mahal",
+        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 188697,
-      "name": "Laundromat Blues - Mono Mix",
-      "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+      "duration_ms": 530640,
+      "name": "The Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1403,6 +1387,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 188697,
+      "name": "Laundromat Blues - Mono Mix",
+      "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Lovedog",
-      "url": "https://open.spotify.com/track/5t5Ykftp0tz4DeVCMfFH8A"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 175177,
       "name": "One Step Forward",
       "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Lovedog",
+      "url": "https://open.spotify.com/track/5t5Ykftp0tz4DeVCMfFH8A"
     },
     {
       "added_at": "2023-01-20 14:38:55",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-20 14:38:55",
       "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
-      },
-      "artists": [
-        {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
-    },
-    {
-      "added_at": "2023-01-20 14:38:55",
-      "album": {
         "name": "Two Sides to the Story",
         "url": "https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 365909,
       "name": "The Game",
       "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
+    },
+    {
+      "added_at": "2023-01-20 14:38:55",
+      "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
     },
     {
       "added_at": "2023-01-20 14:38:55",

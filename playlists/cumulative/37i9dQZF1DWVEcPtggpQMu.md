@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=C2ztuwaZTNiqEmPHTxCabQ">Blxckie</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=A6GLJy3jTTC0XrQSe6to6A">A\-Reece</a>
 
-485 songs - 1 day 2 hr 34 min
+486 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc) | 3:42 | 2022-12-12 | 2023-02-02 |
 | [Haibo \(feat\. S1mba & Reason\) \- Remix](https://open.spotify.com/track/5xO9vhE0odRSahw5oQOHwr) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Reason](https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Haibo \(feat\. S1mba & Reason\) \[Remix\]](https://open.spotify.com/album/6y5QE68qjiuXSQ9d0XYpaJ) | 3:18 | 2022-05-19 | 2022-07-15 |
 | [Happy Vibe](https://open.spotify.com/track/3fpJgPREo1bJm4k2viVpcA) | [Aewon Wolf](https://open.spotify.com/artist/2HdJNbpBYMaUSzsmUMILLC) | [VIBES](https://open.spotify.com/album/7kZF3NyxpIXgyyKl72h9KR) | 3:50 | 2022-03-24 | 2022-04-15 |
-| [Helicopter](https://open.spotify.com/track/1vZdToBodozHPhx6nyQFnc) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF) | [Helicopter](https://open.spotify.com/album/0i63OSDIjJM3U5PmdkRVmA) | 2:11 | 2022-12-12 |  |
+| [Helicopter](https://open.spotify.com/track/1vZdToBodozHPhx6nyQFnc) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF) | [Helicopter](https://open.spotify.com/album/0i63OSDIjJM3U5PmdkRVmA) | 2:11 | 2022-12-12 | 2023-02-10 |
 | [HELL OF A NIGHT](https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [SAWFSIDE](https://open.spotify.com/album/6z2Ex1oBEB92LKabY5c99U) | 3:12 | 2023-02-06 |  |
 | [High](https://open.spotify.com/track/4TWaKxVCV9774DMPkxateO) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [INDICA](https://open.spotify.com/album/7BncNIyyruIRxRCtwz5zjY) | 2:15 | 2022-02-24 | 2022-03-18 |
 | [High](https://open.spotify.com/track/3fP36uvgbJ4FkT7JbhzAU1) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [High](https://open.spotify.com/album/15hnm7O3NQyCoYKTVIsxwA) | 3:14 | 2022-03-03 | 2022-04-15 |
@@ -335,6 +335,7 @@
 | [Potion No.9](https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Potion No.9](https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF) | 2:34 | 2022-05-19 | 2022-07-09 |
 | [Pour Mi](https://open.spotify.com/track/1Cy6StltAMUd48nbIFEZZU) | [Ason](https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa) | [Pour Mi](https://open.spotify.com/album/2dOy9S4IW92ClGnTbfoIbn) | 1:41 | 2022-03-03 | 2022-03-25 |
 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 | 2023-01-19 |  |
+| [Pramis, Swuh](https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Pramis, Swuh](https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80) | 2:14 | 2023-02-09 |  |
 | [Pride](https://open.spotify.com/track/4k12ggWuUFQ8wllmREXKTd) | [Slay\_Auto](https://open.spotify.com/artist/5BKzRJw13eXNNrHZ6RYPiI) | [PRIDE](https://open.spotify.com/album/3sUAo42NGTPLOXrMHXeSTa) | 3:46 | 2022-03-10 | 2022-03-25 |
 | [Promised Land](https://open.spotify.com/track/7yLQ5VHxQBoxTODZLMQzaU) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Promised Land](https://open.spotify.com/album/3SnuqY9ZFDqLOPZQU1h70g) | 3:37 | 2022-02-24 | 2022-03-18 |
 | [Purple Heart Smoke Enough](https://open.spotify.com/track/6z9fdl7VvtCTTEGwHe5TRF) | [$till Finesse](https://open.spotify.com/artist/6FeLkA08OwkGuBvEdeWqIA) | [Purple Heart Smoke Enough](https://open.spotify.com/album/4yiaycWEfmNGdlbH4odSD0) | 2:05 | 2022-07-08 | 2022-07-29 |

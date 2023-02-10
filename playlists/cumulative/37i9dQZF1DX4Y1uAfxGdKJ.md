@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-117 songs - 6 hr 36 min
+118 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bells of Home](https://open.spotify.com/track/1m826VTZiW3BmevRJEfuh8) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Bells of Home](https://open.spotify.com/album/0r9SeqcahpJNnBgFtrAhcq) | 2:57 | 2022-11-25 |  |
 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 | 2023-01-06 |  |
 | [Beyond](https://open.spotify.com/track/79cOXogBTBDiF91jhr9ih6) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Beyond](https://open.spotify.com/album/4xbkWiqzlcupDVAWbGb0RA) | 2:40 | 2022-10-28 |  |
-| [Blanket](https://open.spotify.com/track/5OpS0HoEEV6N54WiSH0ibt) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Blanket](https://open.spotify.com/album/5xMmziIduhAQBO3Xzpx4ns) | 2:27 | 2022-12-09 |  |
+| [Blanket](https://open.spotify.com/track/5OpS0HoEEV6N54WiSH0ibt) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Blanket](https://open.spotify.com/album/5xMmziIduhAQBO3Xzpx4ns) | 2:27 | 2022-12-09 | 2023-02-10 |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-23 |  |
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-09-23 |  |
 | [Border](https://open.spotify.com/track/4loHyp6Rhk3aOgdXz1n8Y0) | [8TYL](https://open.spotify.com/artist/0lW3Li71IqwPWQFYBuwVmQ) | [Border](https://open.spotify.com/album/2SQpSGWdyhaTHpTWB7wz84) | 6:02 | 2022-09-23 |  |
@@ -94,6 +94,7 @@
 | [Pós Sol](https://open.spotify.com/track/2bbPnvi0OaViwKNEG0DnPC) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb) | [Pós Sol](https://open.spotify.com/album/7h2mvg8UNNs3TPl0hxgPBj) | 2:30 | 2022-09-23 |  |
 | [Quick Sand](https://open.spotify.com/track/6htTBHUpAE9VFfbCrR5rQH) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Quick Sand](https://open.spotify.com/album/6lEvyBtEpcKbzZUr4ONKBX) | 3:53 | 2022-11-25 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 |  |
+| [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 | 2023-02-10 |  |
 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 | 2022-10-28 |  |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
 | [Roses](https://open.spotify.com/track/5XaXglOKQnMT32dutt3qEU) | [shandr](https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU), [Soft Tide](https://open.spotify.com/artist/3fsqt6QGQnfuQmowwrxOVZ) | [Roses](https://open.spotify.com/album/7iU3cbOW2q9bEfetPu0jXn) | 2:26 | 2022-10-28 |  |

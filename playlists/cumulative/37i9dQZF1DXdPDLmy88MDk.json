@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Unveiled Heart",
+        "url": "https://open.spotify.com/album/4fsaBBklXYGdGgU0lWBzsr"
+      },
+      "artists": [
+        {
+          "name": "Kris Baines",
+          "url": "https://open.spotify.com/artist/0DnefNy8Mz9NsSXV8YjsuO"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Unveiled Heart",
+      "url": "https://open.spotify.com/track/12TZ1udjVPTow1wa2Blz4v"
+    },
+    {
+      "album": {
         "name": "Walk With Us (For Black Lives Matter)",
         "url": "https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu"
       },

@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "All That I Needed",
+        "url": "https://open.spotify.com/album/7pv4846LixpPlzAVEdJ8nc"
+      },
+      "artists": [
+        {
+          "name": "Ruth Garcia",
+          "url": "https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184114,
+      "name": "All That I Needed",
+      "url": "https://open.spotify.com/track/7DBAcbwcjFk3TPnj0mp7ct"
+    },
+    {
+      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -424,7 +446,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 199360,
       "name": "Corner Of My Eye",
       "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
@@ -501,6 +523,24 @@
     },
     {
       "album": {
+        "name": "emptyhouse",
+        "url": "https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh"
+      },
+      "artists": [
+        {
+          "name": "not dvr",
+          "url": "https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201958,
+      "name": "emptyhouse",
+      "url": "https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr"
+    },
+    {
+      "album": {
         "name": "Falling (with Rodrigo Amarante) (From \"Norah Jones is Playing Along\" Podcast)",
         "url": "https://open.spotify.com/album/5DPmBFIPrwoQWEsonYHgiY"
       },
@@ -538,6 +578,24 @@
       "duration_ms": 205778,
       "name": "Father and Daughter",
       "url": "https://open.spotify.com/track/33Y8vzaSKolAZJWc7vwMCU"
+    },
+    {
+      "album": {
+        "name": "Fix'n To Break",
+        "url": "https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232894,
+      "name": "Fix'n To Break",
+      "url": "https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX"
     },
     {
       "album": {
@@ -935,6 +993,24 @@
     },
     {
       "album": {
+        "name": "All Of This Is Chance",
+        "url": "https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE"
+      },
+      "artists": [
+        {
+          "name": "Lisa O'Neill",
+          "url": "https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "If I Was A Painter",
+      "url": "https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6"
+    },
+    {
+      "album": {
         "name": "Architect (Deluxe)",
         "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
       },
@@ -1034,7 +1110,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 103866,
       "name": "It's You I Like",
       "url": "https://open.spotify.com/track/2anSjFkbreeSgWX7NeJtEz"
@@ -1154,6 +1230,24 @@
       "duration_ms": 208510,
       "name": "La La Lost You - Acoustic Version",
       "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
+    },
+    {
+      "album": {
+        "name": "Lemon Cake",
+        "url": "https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323328,
+      "name": "Lemon Cake",
+      "url": "https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS"
     },
     {
       "album": {
@@ -1338,7 +1432,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 158279,
       "name": "Meant to Be - Acoustic",
       "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
@@ -1479,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Oak Hill",
+        "url": "https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257401,
+      "name": "Oak Hill",
+      "url": "https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
@@ -1490,7 +1602,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
@@ -1776,7 +1888,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 202142,
       "name": "Send My Love / Sit Still, Look Pretty (Acoustic Mashup)",
       "url": "https://open.spotify.com/track/55qNvU28lXUg71TKMqiXmM"
@@ -1874,7 +1986,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 221154,
       "name": "Sing It With Me - Acoustic",
       "url": "https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G"
@@ -1910,7 +2022,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 223099,
       "name": "Someday Some Morning",
       "url": "https://open.spotify.com/track/6UZJoEOgjx4aCGD6Oa5R6a"
@@ -2131,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+    },
+    {
+      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -2239,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Valentine's Day",
+        "url": "https://open.spotify.com/album/7qt6DCMXltOD6WoCQHAObN"
+      },
+      "artists": [
+        {
+          "name": "gb",
+          "url": "https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146257,
+      "name": "Valentine's Day",
+      "url": "https://open.spotify.com/track/5EANCDPSkMlnHBU4Eu0Zb7"
+    },
+    {
+      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -2268,7 +2416,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 266466,
       "name": "Wasteland, Baby!",
       "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"

@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Fred Lenix",
+          "url": "https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299047,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2"
+    },
+    {
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
@@ -816,6 +838,28 @@
       "duration_ms": 245533,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ"
+    },
+    {
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186284,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
     },
     {
       "album": {
@@ -906,7 +950,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 228571,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ"
@@ -936,6 +980,24 @@
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337508,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2o2pdKXhWnlDfwLp61koTb"
     },
     {
       "album": {
@@ -997,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Genie's Wish",
+        "url": "https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367741,
+      "name": "Genie's Wish",
+      "url": "https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/7vrFJZ7jrKe9uKclV9gtQs"
       },
@@ -1052,7 +1132,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 200930,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7"
@@ -1264,7 +1344,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 330724,
       "name": "Hypno Therapy",
       "url": "https://open.spotify.com/track/7nRA1ebc541cvTMXzNIz7O"
@@ -1387,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/0kbgja4YAnLwNeGc8THZ75"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415542,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/3cyzzLSYKLoaYv1xt2asZJ"
+    },
+    {
+      "album": {
         "name": "Liquid Fantasy",
         "url": "https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p"
       },
@@ -1402,7 +1500,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 234333,
       "name": "Liquid Fantasy - Edit",
       "url": "https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH"
@@ -1836,6 +1934,24 @@
       "duration_ms": 270243,
       "name": "Otherside - Fideles Remix Edit",
       "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
+    },
+    {
+      "album": {
+        "name": "Out Of Your Comfort Zone",
+        "url": "https://open.spotify.com/album/0HvHEOaBmpRMH2vYHSf6Qt"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414000,
+      "name": "Out Of Your Comfort Zone",
+      "url": "https://open.spotify.com/track/0C8G5YJrDlRJvhLR8mfC98"
     },
     {
       "album": {
@@ -2508,7 +2624,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 469116,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7o8MLzXSTit3eiq5f3A5Vw"
@@ -2552,7 +2668,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 364455,
       "name": "Stream State",
       "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
@@ -2694,6 +2810,24 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "album": {
+        "name": "The First Rebirth",
+        "url": "https://open.spotify.com/album/5WZUYgzp0bkcGosnYBiG10"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421875,
+      "name": "The First Rebirth",
+      "url": "https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe"
     },
     {
       "album": {
@@ -2981,6 +3115,28 @@
     },
     {
       "album": {
+        "name": "Tuvan (AVIRA Remix)",
+        "url": "https://open.spotify.com/album/22KBPlolCAczwX0pWVAVsx"
+      },
+      "artists": [
+        {
+          "name": "GAIA",
+          "url": "https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Tuvan - AVIRA Remix",
+      "url": "https://open.spotify.com/track/1hUPXOdBeK16TJLTn3G3OK"
+    },
+    {
+      "album": {
         "name": "Unconventional Ride",
         "url": "https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq"
       },
@@ -3218,7 +3374,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 412258,
       "name": "Yula",
       "url": "https://open.spotify.com/track/0NL6PYY0tDszmywyDGeZsf"

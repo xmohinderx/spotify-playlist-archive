@@ -445,6 +445,32 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0K7lC8wFMvBVyfHtbenEn9"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "SHOW",
+          "url": "https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/5H7FLE6suGxFGiJnAb8N6m"
+    },
+    {
+      "album": {
         "name": "Dennou Lolipop",
         "url": "https://open.spotify.com/album/743KLotFR2zs4lqN7TvwI0"
       },

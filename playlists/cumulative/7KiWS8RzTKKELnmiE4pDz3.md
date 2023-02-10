@@ -4,7 +4,7 @@
 
 > 
 
-363 songs - 15 hr 59 min
+368 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Akbar](https://open.spotify.com/track/357EwLZfD9vuGTZ7dxqumw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:22 | 2022-06-10 |  |
 | [Akorn](https://open.spotify.com/track/2BSC5k7wf96ofscMZAcFuh) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [La Vibes](https://open.spotify.com/album/021ENWQHYyQsDDdNFuWqYz) | 2:19 | 2022-09-13 |  |
 | [Album Just For You](https://open.spotify.com/track/2ZY8kGlTB6EgRKuTC2yFsv) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:45 | 2023-01-27 |  |
+| [All Kap](https://open.spotify.com/track/22sCCapRrg0KvCajcGFinX) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [All Kap](https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P) | 2:15 | 2023-02-09 |  |
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 |  |
 | [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 |  |
 | [Ampd Up \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [3800 Degrees](https://open.spotify.com/album/1gDwjnGfTH7BSqtc4y7AiL) | 2:45 | 2022-10-07 |  |
@@ -168,6 +169,7 @@
 | [Intro](https://open.spotify.com/track/6unRl88GuLmoZTUwkffkIA) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 1:51 | 2022-08-18 |  |
 | [Intro](https://open.spotify.com/track/22yTSaGkqjJj54MkiCNYOX) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o) | [Up the Score](https://open.spotify.com/album/0qVNSAy5oED9dQvIvIWZmG) | 2:16 | 2022-09-30 |  |
 | [It's Up](https://open.spotify.com/track/4ERg7RV7W0SWkel6mJBiHv) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:16 | 2023-01-07 |  |
+| [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya tiji](https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 | 2023-02-09 |  |
 | [JETLGGD](https://open.spotify.com/track/59U7bktlujuNRW7fBq1VDt) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 1:56 | 2022-08-14 |  |
 | [Juice WRLD DID \(feat\. Juice WRLD\)](https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:27 | 2022-08-26 |  |
 | [Jump In That Water](https://open.spotify.com/track/6YdItJf1ZFGdCzRosuXHTg) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Jump In That Water](https://open.spotify.com/album/0bq3Do1TB6EwyAeNFwDail) | 2:37 | 2023-01-11 |  |
@@ -292,6 +294,7 @@
 | [Rock and Roll](https://open.spotify.com/track/1ghSpHC4nGlqWzbPJiVeDU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:15 | 2022-06-10 |  |
 | [Rock N Roll](https://open.spotify.com/track/1V0jEAE4UreyX8KYxGLnLP) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:28 | 2022-06-09 |  |
 | [Rokstar](https://open.spotify.com/track/34axCSujRVT7YWmDvisjdQ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:13 | 2022-09-12 |  |
+| [Round Here](https://open.spotify.com/track/2jJeoy0Xq8sEtn3upQCXge) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [2wo2imes](https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe) | [2wo Glokks](https://open.spotify.com/album/5CPcnwgYWekR1saI8AxHyj) | 2:34 | 2023-02-09 |  |
 | [Run + Ran](https://open.spotify.com/track/3kB7daTMGpX2hPRXdZww6M) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 4:04 | 2022-03-01 |  |
 | [Salute](https://open.spotify.com/track/1tjpoAROSHmr9QLb7Ibqoq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:45 | 2023-01-10 |  |
 | [Same Thang](https://open.spotify.com/track/19kjy1ka0n0qfr9SeIViwy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:42 | 2023-01-06 |  |
@@ -338,6 +341,7 @@
 | [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 | 2023-02-02 |  |
 | [Till the A M](https://open.spotify.com/track/3Bu1iBXJ5berdiHAY6CPiP) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Dedication](https://open.spotify.com/album/3yCR9McIWtVq4LwJSITQSc) | 2:33 | 2023-01-07 |  |
 | [Time Flow](https://open.spotify.com/track/0bkoFNRkTWZiUP35ZwgnPz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:58 | 2022-12-23 |  |
+| [tokoyoto](https://open.spotify.com/track/28akW28raGpnoNwTuAHLRH) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [XO](https://open.spotify.com/album/4gQa9eWUzWe6XRYekLxfyD) | 2:10 | 2023-02-09 |  |
 | [Too Close](https://open.spotify.com/track/39M4xYPmTywqDjgvUEHJ5q) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 1:44 | 2022-09-20 |  |
 | [Too Much](https://open.spotify.com/track/0KBKmCVWaC6XcQawb7yPbI) | [Kankan 2](https://open.spotify.com/artist/54W7CzHFXNer7Q2ZxeWluq) | [Too Much](https://open.spotify.com/album/2f4dupUwmdv1E9Khq4fADP) | 2:15 | 2022-12-21 |  |
 | [Took That Mask Off](https://open.spotify.com/track/1SeB1axwoRD0RHbWB7W8ZQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took That Mask Off](https://open.spotify.com/album/3R0hQHd7YrGeLGSqsDd11p) | 2:18 | 2022-12-30 |  |
@@ -357,6 +361,7 @@
 | [Von Dont Matter](https://open.spotify.com/track/29HrNL1BTyriF9uAaycgJy) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 3:11 | 2023-01-07 |  |
 | [Waiting On](https://open.spotify.com/track/52G884AKvTAgtfyNxZ4i2F) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Watch My Back](https://open.spotify.com/album/45PaEwQodQtfw2nElzigDl) | 2:21 | 2022-07-31 |  |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-26 |  |
+| [Wanna Be The Goat](https://open.spotify.com/track/1wYjNgCPqF1Ze5v8MfUtUc) | [Izaya Tiji Archive](https://open.spotify.com/artist/6f84QAdro9etUHHnUWgvAL) | [Wanna Be The Goat](https://open.spotify.com/album/3o6EBePKAZjyr774l0ioC3) | 3:05 | 2023-02-09 |  |
 | [WANTS!](https://open.spotify.com/track/2jtvpOlLvGzuNLqOBeAz7q) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Not Much Longer](https://open.spotify.com/album/65q9J3hfP5pJV3NiJJhb3Y) | 1:53 | 2023-01-11 |  |
 | [Way It Go](https://open.spotify.com/track/3XKvJoOD0pjiM36AjlCeyd) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:22 | 2022-12-23 |  |
 | [What You Got \- Radio Edit](https://open.spotify.com/track/73s0ZgbwGPE2f6NrbnPeWR) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [SSGKⲟbe](https://open.spotify.com/artist/3KnFGmNMtL6zcGbpcuYxFH) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:58 | 2022-07-22 |  |

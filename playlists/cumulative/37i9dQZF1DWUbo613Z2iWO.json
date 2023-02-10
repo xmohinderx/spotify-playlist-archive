@@ -6290,7 +6290,7 @@
     {
       "album": {
         "name": "Like Girls",
-        "url": "https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP"
+        "url": "https://open.spotify.com/album/7Ah6FjEDAbEYlms3sh1EXu"
       },
       "artists": [
         {
@@ -6301,6 +6301,24 @@
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180353,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/2oAJrZJ7PBR4LtqZi1cSXL"
+    },
+    {
+      "album": {
+        "name": "Like Girls",
+        "url": "https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP"
+      },
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
       "duration_ms": 180353,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/7fKc5MN0uzPj30w0fXgo9l"

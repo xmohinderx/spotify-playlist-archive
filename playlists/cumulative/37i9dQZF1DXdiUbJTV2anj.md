@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Faetooth
 
-150 songs - 8 hr 40 min
+155 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All Talk](https://open.spotify.com/track/3q7M84onWH32v6oP4oOlP6) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [All Talk](https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo) | 2:55 | 2022-07-29 | 2022-09-10 |
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 | 2022-12-24 |
 | [Anxiety](https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ) | [Anxiety](https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy) | 3:55 | 2022-07-29 | 2022-09-10 |
+| [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-09 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-21 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-09 |  |
 | [Be All End All](https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Be All End All](https://open.spotify.com/album/23Nj8HZZvwGvsPGSvPbz4c) | 1:32 | 2022-07-29 | 2022-08-20 |
@@ -21,7 +22,7 @@
 | [Blacklight](https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Blacklight](https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp) | 3:39 | 2022-12-02 | 2023-01-21 |
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-07-29 | 2022-08-20 |
 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 | 2022-07-29 | 2022-10-15 |
-| [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2023-01-27 |  |
+| [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2023-01-27 | 2023-02-10 |
 | [Braces](https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF) | [Friend](https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq) | [Mister Nice Guy](https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5) | 1:41 | 2022-09-16 | 2022-12-24 |
 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 | 2023-01-13 |  |
 | [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 | 2022-07-29 | 2022-11-09 |
@@ -39,6 +40,7 @@
 | [Dead Man](https://open.spotify.com/track/49HNyY6mvpN3tk76BRgbFa) | [Kronowski](https://open.spotify.com/artist/7dDVspO1I80peFXK0xg610) | [Dead Man](https://open.spotify.com/album/0FHnalaUS1u9Qjw8srp0vC) | 3:36 | 2022-07-29 | 2022-08-20 |
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-08-19 | 2023-01-14 |
 | [Deeper](https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Deeper](https://open.spotify.com/album/72VaQUDx8Yw8Jz5qJW1lLW) | 3:28 | 2023-01-13 |  |
+| [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 | 2023-02-09 |  |
 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 | 2022-09-02 | 2023-01-06 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-07-29 | 2022-08-20 |
 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 | 2022-11-19 |
@@ -72,6 +74,7 @@
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-07-29 | 2022-09-10 |
 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 | 2022-08-19 | 2022-12-24 |
 | [It's Art](https://open.spotify.com/track/4dGunaOmjXIIVbcB3c4RW6) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [It's Art](https://open.spotify.com/album/3HB1H5mkWhIVBA4E5PBGgV) | 2:58 | 2022-07-29 | 2022-08-27 |
+| [just like me](https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [just like me \(slowed + reverb\)](https://open.spotify.com/album/2Vw8K8NvfZhMj86expwS2O) | 2:29 | 2023-02-09 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-07-29 | 2022-08-20 |
 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 | 2023-01-13 |  |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 |  |
@@ -93,9 +96,11 @@
 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 | 2022-12-02 |  |
 | [Odyssey](https://open.spotify.com/track/43198ZeRQtET0J7fkhO595) | [Vilify](https://open.spotify.com/artist/1vcCPOlMYtuwIS7W7fzZno) | [Odyssey](https://open.spotify.com/album/3VFpo1ADsgO5W4qhQyjUKk) | 3:42 | 2022-09-09 | 2023-01-06 |
 | [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 | 2022-07-29 | 2022-12-03 |
+| [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-09 |  |
 | [Paint It In Blood](https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd) | [The Tryals](https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs) | [Paint It In Blood](https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt) | 3:08 | 2023-01-06 |  |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-10-14 |  |
 | [Pessimist](https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia) | [VNDALE](https://open.spotify.com/artist/3fONcYljQ5hkvg95Q0W8Fh) | [Pessimist](https://open.spotify.com/album/4A8w8UM06UdAyEpWAc1Qpu) | 4:02 | 2022-07-29 | 2022-08-20 |
+| [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 | 2023-02-09 |  |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-29 | 2022-08-20 |
 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-07-29 | 2022-08-20 |
 | [RATATATA](https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv) | [RATATATA](https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd) | 3:27 | 2022-09-09 |  |
@@ -106,7 +111,7 @@
 | [SAW](https://open.spotify.com/track/5plHlHptZcNkPaenanRdT1) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:05 | 2023-01-27 |  |
 | [Self\-Hatred](https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Self\-Hatred](https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1) | 2:26 | 2023-01-13 |  |
 | [Separation Souvenir](https://open.spotify.com/track/3TPX2opdVfRSWCnqslFECX) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Separation Souvenir](https://open.spotify.com/album/20d476doG98gErKY6sh38c) | 3:35 | 2022-07-29 | 2022-08-20 |
-| [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-12-16 |  |
+| [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-12-16 | 2023-02-10 |
 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 | 2022-07-29 | 2022-10-01 |
 | [Shallow \(feat\. Mike Perez\) \- Single Edit](https://open.spotify.com/track/1yH6xfN3nET67Ryux09k5s) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/61WbhTzQSPw5CruJreLXQQ) | 3:25 | 2022-07-29 | 2022-09-10 |
 | [Siren's Calling](https://open.spotify.com/track/2Rid5rm3i8pAMWbMFTqFRT) | [Ginevra](https://open.spotify.com/artist/70jOf411lOeFa5k14DufSh) | [Siren's Calling](https://open.spotify.com/album/7BNlbfyuIkCpszLCo1exvi) | 3:40 | 2022-07-29 | 2022-09-03 |

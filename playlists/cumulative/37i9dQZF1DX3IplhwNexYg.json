@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Somebody's Child",
+  "description": "The best in current indie rock. Cover: Ten Tonnes",
   "name": "pulp",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 223703,
       "name": "Blu Shirt Boy",
       "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 269409,
       "name": "Ethel",
       "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
@@ -3953,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "Monday Morning",
+        "url": "https://open.spotify.com/album/0Ft8MU44cbPa1QIOZD93jV"
+      },
+      "artists": [
+        {
+          "name": "Ten Tonnes",
+          "url": "https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215929,
+      "name": "Monday Morning",
+      "url": "https://open.spotify.com/track/17wGCJWUp4XC4kSS1kcoh3"
+    },
+    {
+      "album": {
         "name": "Mood Hoover",
         "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
       },
@@ -5298,6 +5316,32 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "album": {
+        "name": "The WAEVE",
+        "url": "https://open.spotify.com/album/2Pu5xQUV8wjHdUmWJnkA93"
+      },
+      "artists": [
+        {
+          "name": "The WAEVE",
+          "url": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rose Elinor Dougall",
+          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Someone Up There",
+      "url": "https://open.spotify.com/track/2nORt1E3rcZX5CUueWSGgv"
     },
     {
       "album": {

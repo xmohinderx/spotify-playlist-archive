@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-172 songs - 9 hr 6 min
+173 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 | 2022-09-02 | 2023-01-10 |
 | [Manipularme](https://open.spotify.com/track/2Op7HzSKLl73accyggWazg) | [Cozy](https://open.spotify.com/artist/0vb89r7nEo8PCofGZBgJGd) | [Manipularme](https://open.spotify.com/album/6amaoCepJQocebEfEWWf7s) | 2:47 | 2022-05-13 | 2022-07-28 |
 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 | 2022-05-13 | 2022-10-17 |
+| [Maquiavélica](https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Maquiavélica](https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K) | 2:42 | 2023-01-27 |  |
 | [Marbella](https://open.spotify.com/track/4xO41pEVV9wV4oEgM0abX3) | [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Marbella](https://open.spotify.com/album/2ZcdLtTXLjOeD0SqJigZxH) | 3:02 | 2022-05-13 | 2022-07-28 |
 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-05-13 | 2022-07-25 |
 | [MASOQUISTA](https://open.spotify.com/track/7b9OQbIxgbcAx1szYPCWPT) | [Abril Singer](https://open.spotify.com/artist/0wZ9WDL6cOLiD45dj8eHo1) | [MASOQUISTA](https://open.spotify.com/album/1nxeC19wJ5XHqnGw2JVkSV) | 3:01 | 2022-05-13 | 2022-06-04 |
@@ -140,7 +141,7 @@
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2022-05-13 |  |
 | [Si Nos Pillan Perreando](https://open.spotify.com/track/2UQwiZw5k1FVzluoGQejiy) | [David Eron](https://open.spotify.com/artist/3ImTGz60ky9rpAN4oJdmXL), [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r) | [Si Nos Pillan Perreando](https://open.spotify.com/album/32NvtXo7k7FNQzSgGTEMWB) | 3:13 | 2022-05-13 | 2022-07-27 |
 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 | 2022-05-13 |  |
-| [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 | 2022-05-13 |  |
+| [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 | 2022-05-13 | 2023-02-10 |
 | [Sin Maquillaje](https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Sin Maquillaje](https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE) | 2:48 | 2022-05-13 | 2022-08-23 |
 | [Sin Mente](https://open.spotify.com/track/5CNGkCm7jSynYGBZY80aus) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Sin Mente](https://open.spotify.com/album/4V2THb8uH6o2Qy70fBbDhq) | 3:18 | 2022-05-13 | 2022-07-29 |
 | [SIN TI](https://open.spotify.com/track/4GSRxYJqBGCh3rWiPUKM9t) | [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [SIN TI](https://open.spotify.com/album/60Wfysxwju32FvTE0P6r1D) | 2:39 | 2022-05-13 | 2022-06-01 |

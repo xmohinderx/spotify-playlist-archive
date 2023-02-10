@@ -1,50 +1,18 @@
 {
   "description": "Neighborhood Storytellers. Cover: JayDaYoungan",
-  "num_followers": 54911,
+  "num_followers": 54931,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMTMyMywwMDAwMDAwMGRkMGExOTE0ZmQ0MGVlMjk4NThjZmVhZDliNzhmMTk1",
+  "snapshot_id": "MTY3NTk5MDM3NSwwMDAwMDAwMGY3YTE0YzM0YWNkM2MyNTMyYTViYjBmZDFlNGVjMmU2",
   "tracks": [
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2023-02-10 00:52:55",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Green Hearts",
-        "url": "https://open.spotify.com/album/01r6VRmGUlX3zr4WFnzSNP"
-      },
-      "artists": [
-        {
-          "name": "Lil 50",
-          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
-        }
-      ],
-      "duration_ms": 157204,
-      "name": "Green Hearts",
-      "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Went Deaf",
-        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
+        "name": "Deadicated",
+        "url": "https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2"
       },
       "artists": [
         {
@@ -52,25 +20,9 @@
           "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 183047,
-      "name": "Went Deaf",
-      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
-    },
-    {
-      "added_at": "2023-01-06 18:33:32",
-      "album": {
-        "name": "Public Housing, Pt. 2",
-        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 166791,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM"
+      "duration_ms": 201480,
+      "name": "Deadicated",
+      "url": "https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN"
     },
     {
       "added_at": "2023-02-03 05:15:23",
@@ -91,18 +43,50 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "IF I STOP NOW",
-        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
+        "name": "Green Hearts",
+        "url": "https://open.spotify.com/album/01r6VRmGUlX3zr4WFnzSNP"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Lil 50",
+          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
         }
       ],
-      "duration_ms": 177011,
-      "name": "IF I STOP NOW",
-      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
+      "duration_ms": 157204,
+      "name": "Green Hearts",
+      "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
+    },
+    {
+      "added_at": "2023-01-06 18:33:32",
+      "album": {
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 166791,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -119,6 +103,22 @@
       "duration_ms": 141888,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Went Deaf",
+        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 183047,
+      "name": "Went Deaf",
+      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -211,6 +211,22 @@
       "duration_ms": 242800,
       "name": "Da Rant",
       "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "IF I STOP NOW",
+        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "IF I STOP NOW",
+      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 153117,
       "name": "How It Feels (feat. YNW BSlime)",
       "url": "https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ"
-      },
-      "artists": [
-        {
-          "name": "Anti Da Menace",
-          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
-        }
-      ],
-      "duration_ms": 149043,
-      "name": "Blood Boy",
-      "url": "https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3"
     }
   ],
   "unique_name": "Street Soul",

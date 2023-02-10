@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
-  "num_followers": 131812,
+  "num_followers": 131980,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDc2NGM4NzFhYjcwOWEyNzQzZjI0YjY4MjM3Zjc0NzZj",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMGZkZmM4YjRmNDMxMmY5ODUwYzUwMzkzYmQ3NjVjMTgw",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Maggot",
+        "url": "https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S"
+      },
+      "artists": [
+        {
+          "name": "Dazey and the Scouts",
+          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
+        }
+      ],
+      "duration_ms": 171575,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/7yBjQ29XKxHlxuqycHuvmm"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 180266,
       "name": "Becky",
       "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Maggot",
-        "url": "https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S"
-      },
-      "artists": [
-        {
-          "name": "Dazey and the Scouts",
-          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
-        }
-      ],
-      "duration_ms": 171575,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/7yBjQ29XKxHlxuqycHuvmm"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -345,6 +345,38 @@
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
     },
     {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
       "added_at": "2023-01-24 14:00:00",
       "album": {
         "name": "Get Awkward",
@@ -363,22 +395,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
     },
     {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
       "added_at": "2023-01-24 14:00:00",
       "album": {
         "name": "The Royal They",
@@ -487,6 +471,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
-    },
-    {
       "added_at": "2023-01-24 14:00:00",
       "album": {
         "name": "Sorry, Mom",
@@ -699,18 +683,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "High Risk Homosexual Behavior",
-        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
       "artists": [
         {
-          "name": "Dog Park Dissidents",
-          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Rev Your Motor",
-      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 182477,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "High Risk Homosexual Behavior",
+        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
+      },
+      "artists": [
+        {
+          "name": "Dog Park Dissidents",
+          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Rev Your Motor",
+      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Fuck Danny Denial",
-        "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
-      },
-      "artists": [
-        {
-          "name": "Danny Denial",
-          "url": "https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CCCHOKEMEEE",
-      "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Free Bleedin'",
         "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Fuck Danny Denial",
+        "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
+      },
+      "artists": [
+        {
+          "name": "Danny Denial",
+          "url": "https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CCCHOKEMEEE",
+      "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "In Search of Lost Time",
         "url": "https://open.spotify.com/album/1IPEfgp0l3XWsnAm0F30Ax"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 127773,
       "name": "Trophy Wifey",
       "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
-      },
-      "artists": [
-        {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
     },
     {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "They/Them",
-        "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 137781,
-      "name": "They/Them",
-      "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
-    },
-    {
       "added_at": "2023-01-24 14:00:00",
       "album": {
         "name": "All at Once",
@@ -983,6 +967,22 @@
       "duration_ms": 291600,
       "name": "Bird in Space",
       "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "They/Them",
+        "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 137781,
+      "name": "They/Them",
+      "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Big Shouty",
-        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Big Shouty",
-      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 113413,
       "name": "House Party",
       "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Big Shouty",
+        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
+      },
+      "artists": [
+        {
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Big Shouty",
+      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Severed Ties",
-        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
+        "name": "Bad Girls Go to Hell",
+        "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
       },
       "artists": [
         {
-          "name": "Pleasure Venom",
-          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
+          "name": "The Degenerettes",
+          "url": "https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z"
         }
       ],
-      "duration_ms": 224560,
-      "name": "Severed Ties",
-      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
+      "duration_ms": 128880,
+      "name": "Queer For You",
+      "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
     }
   ],
   "unique_name": "Queercore",

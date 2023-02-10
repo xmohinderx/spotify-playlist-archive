@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 9 | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/track/1tQNwQeYxq5FsSm0FALERe) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt) | 2:27 |
 | 10 | [Running](https://open.spotify.com/track/2uIqAH4YQ7oD8rPVujlTZf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Animosity](https://open.spotify.com/album/7wrg3K3lEMEXcIovV4OYB6) | 2:53 |
 | 11 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 |
-| 12 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 |
-| 13 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 |
+| 12 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 |
+| 13 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 |
 | 14 | [Miss You Everyday](https://open.spotify.com/track/2UijtofYLPpDsqJLOXxANZ) | [Trackhead](https://open.spotify.com/artist/5TUQR9SiumLYwagBKWNoEu) | [Miss You Everyday](https://open.spotify.com/album/6A2G528TCQNZMH2VaY0RUS) | 2:40 |
 | 15 | [Cruel](https://open.spotify.com/track/7FNf2WOOaJ1Bx6wrjqhCba) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Cruel](https://open.spotify.com/album/01fIJhjWikBCQ8iMSapF30) | 3:11 |
 | 16 | [Only The Gods \(feat\. Anabel Englund\)](https://open.spotify.com/track/6oSWam6C5d0HyUS4bVNVqN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Only the Gods / Better on My Own \(feat\. Anabel Englund\)](https://open.spotify.com/album/4gaWk8Dxttn5CvKAN5kRYR) | 4:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 77 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 78 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc5MzE2OTcsMDAwMDAwMDA1MGFkOGQ0MTU0MzBlYWRhMzgyMDI0MzQ1NDcyN2QyYQ==`
+Snapshot ID: `Mjc5MzMxMzcsMDAwMDAwMDBhZGY2OTUwNmYwMjg3NWQ3MDVlNjdjMzkwZTk2YTUyMA==`

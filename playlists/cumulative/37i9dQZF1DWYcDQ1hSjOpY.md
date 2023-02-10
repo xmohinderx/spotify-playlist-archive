@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-382 songs - 19 hr 0 min
+383 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Eternal Drift](https://open.spotify.com/track/3F8dD3bpSN4MiQtZJ4TRS1) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Eternal Drift](https://open.spotify.com/album/59Yown2MHetdJBLUXqGdeq) | 1:33 | 2021-11-10 |  |
 | [Eternal Glow](https://open.spotify.com/track/6utIEcZZHk4AbF3fBVIlNM) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Eternal Glow](https://open.spotify.com/album/2sKXwQiIpJjRiUYnKF2OqV) | 2:47 | 2021-11-10 |  |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 |  |
+| [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 | 2023-02-09 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-11-10 |  |
 | [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2022-05-05 |  |
 | [Evanescenza](https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:55 | 2023-01-27 |  |
@@ -249,7 +250,7 @@
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-07 |  |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2022-09-13 |  |
 | [Nära](https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Nära](https://open.spotify.com/album/4fsPZO84anFbq1ZxXLI6FQ) | 3:17 | 2021-11-10 |  |
-| [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2021-11-10 |  |
+| [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2021-11-10 | 2023-02-10 |
 | [Ocean Breeze \- Alpha Sinus 69,2 hz \- 70 hz](https://open.spotify.com/track/45t68mRXi24W94VK0T5ItR) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Alpha Sinus](https://open.spotify.com/album/0yqJYAQaQLdnt10GI0sJCy) | 4:18 | 2021-11-10 |  |
 | [Omnisleep](https://open.spotify.com/track/5FdpUpxs471V28sEhF0VC7) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Omnisleep](https://open.spotify.com/album/46yajoxUp7qjbpysuBzptB) | 3:21 | 2021-11-10 |  |
 | [Once Again](https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Once Again](https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe) | 3:33 | 2023-01-09 |  |

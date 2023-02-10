@@ -4,7 +4,7 @@
 
 > all\-day bops you can always rely on ◡̈
 
-388 songs - 21 hr 48 min
+389 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2022-03-31 | 2022-06-22 |
 | [IDK About You](https://open.spotify.com/track/7Abvdek4ynLb8dewhwrkqD) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [The Sun Won't Stay After Summer](https://open.spotify.com/album/4LqvOUjwO0FrMQQSQ8bJmC) | 2:31 | 2022-03-31 | 2022-07-26 |
 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 | 2022-02-05 | 2022-04-01 |
+| [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 |  |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-10-21 | 2022-11-02 |
 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/5QLG4LB186lFqtZ28Zm7PC) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/album/6LqjK0AZPEVfDJndQLskMT) | 2:49 | 2021-12-22 | 2022-07-29 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 | 2023-01-04 |  |
@@ -224,7 +225,7 @@
 | [Melon and the Coconut](https://open.spotify.com/track/7MAaZgT2QNnITEwOMQq9Ac) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 2:28 | 2022-02-18 | 2022-06-28 |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-02-24 | 2022-06-22 |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-02-04 | 2022-07-13 |
-| [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2022-03-31 |  |
+| [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2022-03-31 | 2023-02-10 |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-12-22 | 2022-07-29 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-07-04 |  |
 | [Moscow](https://open.spotify.com/track/3HbmPWohnWgUgoymNC5ynD) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Moscow](https://open.spotify.com/album/61yNZ0gBmSLT5Qf7pJpHwP) | 3:07 | 2021-12-22 | 2022-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,552 likes - 37 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 37 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 36 | [Two Standing Stones](https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:50 |
 | 37 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 
-Snapshot ID: `Mjc5MzEzOTQsMDAwMDAwMDA5NmMyOTIzOTFmZmMyNzVkYjU3ODIzYjIzYjJhMDYwYQ==`
+Snapshot ID: `Mjc5MzI2ODEsMDAwMDAwMDAwZWRmMzRiMjJlYjlkZTc2YmNlOGZjODQ0Nzc5MDViZA==`

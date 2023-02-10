@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-147 songs - 10 hr 58 min
+148 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-02-03 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-04-04 |  |
-| [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 |  |
+| [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 | 2023-02-10 |
 | [Dark to Light](https://open.spotify.com/track/6OTMqCpaAzJXu8TuR1ou2p) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:44 | 2022-10-08 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-04-04 |  |
 | [Dervish Dream](https://open.spotify.com/track/3hGwUpndi1F8yEISLTJ0oH) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Colors of the East](https://open.spotify.com/album/2txU1Fihy0kyBEZHBYvp16) | 5:54 | 2022-04-04 |  |
@@ -148,6 +148,7 @@
 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 | 2022-07-08 |  |
 | [This Strange Isolation](https://open.spotify.com/track/5xQDDJPpZ5fmRujXZX9HMR) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 1:11 | 2022-04-04 |  |
 | [Tombstone Moondancer](https://open.spotify.com/track/1u5vczu5TwLXBD1Jkv08vp) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Tombstone Moondancer](https://open.spotify.com/album/3ikwIBOPITN3FPGnV2seaR) | 3:21 | 2022-04-04 |  |
+| [Tranquil Moments](https://open.spotify.com/track/6B2ciPj4fYqyE1YMh6GIrA) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Tranquil Moments](https://open.spotify.com/album/3DugmmmHW1mmHl3OegtLWr) | 2:00 | 2023-02-10 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-04-04 |  |
 | [Videsh](https://open.spotify.com/track/45Doom4iSv6Z9NqPRFYAFd) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Shareer aur Aatma](https://open.spotify.com/album/4xykJYaWo23DQ0su2Z0F5t) | 3:45 | 2022-04-04 |  |
 | [Waves of Calm](https://open.spotify.com/track/7zgQw1P7vppFiqXuqlC8m3) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Waves of Calm](https://open.spotify.com/album/74aRdPsxFsBnZZeim5Ypid) | 2:51 | 2023-01-06 |  |

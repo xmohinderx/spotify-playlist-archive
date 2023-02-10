@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Basalto",
+        "url": "https://open.spotify.com/album/6fz2cMoIVavyBSaREORH27"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329329,
+      "name": "Barrag\u00e1n",
+      "url": "https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt"
+    },
+    {
+      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 212553,
       "name": "Dulce Muerte",
       "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"

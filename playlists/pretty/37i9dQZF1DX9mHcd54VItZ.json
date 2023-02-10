@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
-  "num_followers": 12025,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=4mfc_JrrS56ijx63lIbo-A\">Brynn</a>",
+  "num_followers": 12036,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwODkyMCwwMDAwMDAwMDY4ZTJlZDA1NGE2YWNiZjdmMTU4MDE1ZWJlZDIwNjA1",
+  "snapshot_id": "MTY3NTk3OTk0MCwwMDAwMDAwMGU2MGNjNWQwZDlhODIwMWU0NWE4N2IzYjY3NTY4MzYy",
   "tracks": [
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Nameless Days",
+        "url": "https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n"
+      },
+      "artists": [
+        {
+          "name": "Brynn",
+          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
+        }
+      ],
+      "duration_ms": 251189,
+      "name": "Nameless Days",
+      "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
+    },
     {
       "added_at": "2022-12-08 21:59:00",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 191325,
       "name": "Crows Foot",
       "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
+    },
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Jou Skoene",
+        "url": "https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG"
+      },
+      "artists": [
+        {
+          "name": "Arnold Bailie",
+          "url": "https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp"
+        }
+      ],
+      "duration_ms": 216616,
+      "name": "Jou Skoene",
+      "url": "https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM"
     },
     {
       "added_at": "2022-11-21 09:26:29",
@@ -83,6 +115,22 @@
       "duration_ms": 278124,
       "name": "Shallow Waters (25 Year Anniversary)",
       "url": "https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr"
+    },
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n"
+      },
+      "artists": [
+        {
+          "name": "Tailyn",
+          "url": "https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -171,22 +219,6 @@
       "duration_ms": 166834,
       "name": "As Ek Jou Hoor Lag",
       "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr"
-      },
-      "artists": [
-        {
-          "name": "Dream Demon",
-          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7"
     },
     {
       "added_at": "2023-01-19 22:00:00",
@@ -447,38 +479,6 @@
       "duration_ms": 249782,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Ace and the Butternut",
-        "url": "https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP"
-      },
-      "artists": [
-        {
-          "name": "West Coast Wolves",
-          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
-        }
-      ],
-      "duration_ms": 157153,
-      "name": "Ace and the Butternut",
-      "url": "https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Drunk 'n Irate",
-        "url": "https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF"
-      },
-      "artists": [
-        {
-          "name": "Werner Bekker",
-          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Drunk 'n Irate",
-      "url": "https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -831,22 +831,6 @@
       "duration_ms": 606300,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Summer Sunshine",
-        "url": "https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y"
-      },
-      "artists": [
-        {
-          "name": "Howie Combrink",
-          "url": "https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Summer Sunshine",
-      "url": "https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8"
     }
   ],
   "unique_name": "SA Rock ",

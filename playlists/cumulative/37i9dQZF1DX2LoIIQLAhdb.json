@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Imen Es",
   "name": "R&Bae",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 171162,
       "name": "Bloqu\u00e9",
       "url": "https://open.spotify.com/track/6mGwNtvWWyTFtkhPP8AEsX"
@@ -278,6 +278,28 @@
       "duration_ms": 168760,
       "name": "Dernier je t'aime",
       "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
+    },
+    {
+      "album": {
+        "name": "Train de vie",
+        "url": "https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190379,
+      "name": "Derri\u00e8re toi",
+      "url": "https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6"
     },
     {
       "album": {
@@ -661,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Love Story II",
+        "url": "https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103468,
+      "name": "Love Story II",
+      "url": "https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM"
       },
@@ -676,6 +716,24 @@
       "duration_ms": 309907,
       "name": "Love Therapy",
       "url": "https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt"
+    },
+    {
+      "album": {
+        "name": "Ma Lova",
+        "url": "https://open.spotify.com/album/69VpibECOEtYba9gZTn36O"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146066,
+      "name": "Ma Lova",
+      "url": "https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C"
     },
     {
       "album": {
@@ -1004,7 +1062,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 257812,
       "name": "Pervers narcissique",
       "url": "https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs"
@@ -1236,7 +1294,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 197600,
       "name": "TE AMO",
       "url": "https://open.spotify.com/track/1aFQ1KEjMNBb1N0BGmnTUT"

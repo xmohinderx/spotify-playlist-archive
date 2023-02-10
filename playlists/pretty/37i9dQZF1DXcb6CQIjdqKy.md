@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  Cochren & Co.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,599 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513,066 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Now Here \- In Studio](https://open.spotify.com/track/4hgrcAj2dsBf9Nen7IV3kg) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Now Here \(The Collection\)](https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc) | 3:42 |
 | 100 | [See Me Through It](https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 2:29 |
 
-Snapshot ID: `MTY3NTQxODc3NywwMDAwMDAwMGM4OTg2MTA0OTY0ZDE4NzMxMDEyN2QyYjExZTBkMjFk`
+Snapshot ID: `MTY3NTk0NjQxOSwwMDAwMDAwMDhlZTZmMDhjZmFiMjRhNTYwYzYwYjdiNWUxMGJhZDY1`

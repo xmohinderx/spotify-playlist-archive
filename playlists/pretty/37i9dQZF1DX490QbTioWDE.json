@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 568822,
+  "num_followers": 569302,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDQ5ZTE3Zjk3ZGU4ZmI3NmYxMmRiMGNlMjA3NjM1NjIw",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDg1YzcxNzE0ZDk4ZDQwOTQ1ODU3MGQ5NGZmNjJlZWRj",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1059,6 +1059,58 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 248458,
+      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "A Pura Snagre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "No Me Mientas",
+      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1127,58 +1179,6 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "A Pura Snagre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No Me Mientas",
-      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 248458,
-      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
-        }
-      ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Todo de T\u00ed",
         "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Esta de Moda",
         "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Para Rato!",
         "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
       },
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "La Fiesta Es de Primera",
-        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 319280,
-      "name": "Vuela (En Vivo)",
-      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Cuarteto del Bueno",
-        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto del Bueno",
-          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
-        }
-      ],
-      "duration_ms": 229564,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "A Cu\u00e1nto Me Qued\u00e9",
         "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
       },
@@ -1619,6 +1587,22 @@
       "duration_ms": 196970,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "La Fiesta Es de Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 319280,
+      "name": "Vuela (En Vivo)",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "200 Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
+        "name": "Cuarteto del Bueno",
+        "url": "https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Cuarteto del Bueno",
+          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
         }
       ],
-      "duration_ms": 218826,
-      "name": "200 Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+      "duration_ms": 229564,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "200 Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "200 Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Conquistadores",
         "url": "https://open.spotify.com/album/0TtCVFfQ1Wa9NKPKWJO45J"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Tu Peor Enemigo",
-        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+        "name": "Ta' Buenisimo",
+        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
         }
       ],
-      "duration_ms": 201109,
-      "name": "Tu Peor Enemigo",
-      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
+      "duration_ms": 235920,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
     },
     {
       "added_at": "2023-01-27 03:00:00",

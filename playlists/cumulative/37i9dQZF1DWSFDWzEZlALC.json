@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 146092,
       "name": "Aber bei dir",
       "url": "https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa"
@@ -252,6 +252,24 @@
       "duration_ms": 175573,
       "name": "Blumen",
       "url": "https://open.spotify.com/track/4KQlhvy3r7aMWvgdEhgZ7J"
+    },
+    {
+      "album": {
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191847,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
     },
     {
       "album": {
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 223682,
       "name": "Emilie",
       "url": "https://open.spotify.com/track/4RaeEIbC2knAOZLNC8tQRr"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 225604,
       "name": "Goldener Tag",
       "url": "https://open.spotify.com/track/7ae25NOyV3pnNzza9r8t8M"
@@ -1225,6 +1243,42 @@
     },
     {
       "album": {
+        "name": "Songs for a lonely night",
+        "url": "https://open.spotify.com/album/3b2nRMB3mYChP32i5lApzo"
+      },
+      "artists": [
+        {
+          "name": "Ann Can't Talk",
+          "url": "https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175137,
+      "name": "Songs for a lonely night",
+      "url": "https://open.spotify.com/track/2ZXmuWfXTdSQYBdco2DkbK"
+    },
+    {
+      "album": {
+        "name": "sonne",
+        "url": "https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124161,
+      "name": "sonne",
+      "url": "https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x"
+    },
+    {
+      "album": {
         "name": "Strausberger Platz",
         "url": "https://open.spotify.com/album/2dkB7IBPXXVswdgsfWfk86"
       },
@@ -1269,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Technoclubs",
+        "url": "https://open.spotify.com/album/6cF0PwUikGvw2yXbQd6qRk"
+      },
+      "artists": [
+        {
+          "name": "STANOVSKY",
+          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228087,
+      "name": "Technoclubs",
+      "url": "https://open.spotify.com/track/6i2eY2ea3N6HYEp0HGTV2Q"
+    },
+    {
+      "album": {
         "name": "Ticket f\u00fcr die Nacht (feat. ana\u00efs)",
         "url": "https://open.spotify.com/album/6OVMu7IKESwCUfpg5SoiuV"
       },
@@ -1306,7 +1378,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 121451,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/34L1vbjzYUl7UsnaqoJfT4"
@@ -1328,6 +1400,28 @@
       "duration_ms": 162380,
       "name": "Unique",
       "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
+    },
+    {
+      "album": {
+        "name": "Unsere Stadt",
+        "url": "https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6"
+      },
+      "artists": [
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213185,
+      "name": "Unsere Stadt",
+      "url": "https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk"
     },
     {
       "album": {
@@ -1396,7 +1490,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 182280,
       "name": "Weg",
       "url": "https://open.spotify.com/track/0THsOAEYrpm16RmcQOBA4t"

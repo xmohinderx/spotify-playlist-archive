@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 278517,
+  "num_followers": 278564,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGM1OGEzNzUzZTUyNjcxZjFmYTc3MmNmMzc1YzI3MmY4",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGE0MTJiODEzNDNlNjFmN2M4ZjVkZTk0NTNhNjAyZDEw",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Mi Mejor Versi\u00f3n",
         "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 201833,
       "name": "Mi Mejor Versi\u00f3n",
       "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -111,18 +111,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
+        "name": "No me preguntes por qu\u00e9",
+        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 180428,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
+      "duration_ms": 173436,
+      "name": "No me preguntes por qu\u00e9",
+      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -179,22 +183,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "No me preguntes por qu\u00e9",
-        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
       },
       "artists": [
         {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 173436,
-      "name": "No me preguntes por qu\u00e9",
-      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
+      "duration_ms": 180428,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Todo est\u00e1 bien",
-        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 376123,
-      "name": "Todo est\u00e1 bien",
-      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "La Petite Mort",
         "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 291106,
       "name": "La Petite Mort",
       "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Todo est\u00e1 bien",
+        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 376123,
+      "name": "Todo est\u00e1 bien",
+      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 144155,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "\u00bfY C\u00f3mo?",
         "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS"
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
         }
       ],
-      "duration_ms": 144155,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX"
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -599,22 +615,6 @@
       "duration_ms": 228466,
       "name": "EL PUENTE",
       "url": "https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "El mundo no se hizo en dos d\u00edas",
-        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
+        "name": "El Tiempo y la Actitud",
+        "url": "https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R"
       },
       "artists": [
         {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
         }
       ],
-      "duration_ms": 245706,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
+      "duration_ms": 178643,
+      "name": "Quiero Casarme Contigo",
+      "url": "https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "El Tiempo y la Actitud",
-        "url": "https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R"
+        "name": "El mundo no se hizo en dos d\u00edas",
+        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
       },
       "artists": [
         {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 178643,
-      "name": "Quiero Casarme Contigo",
-      "url": "https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv"
+      "duration_ms": 245706,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Recuerdos Desechables",
-        "url": "https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d"
+        "name": "d Bien a MaL",
+        "url": "https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Recuerdos Desechables",
-      "url": "https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml"
+      "duration_ms": 182925,
+      "name": "d Bien a MaL",
+      "url": "https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A"
     }
   ],
   "unique_name": "Rock Total",

@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5dX9TNpjvYtBgdVfyKcSkH"
+    },
+    {
+      "album": {
         "name": "WHY YOU?",
         "url": "https://open.spotify.com/album/29OG07EpYadviilDMVEgd4"
       },

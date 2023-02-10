@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/4DzK9W49A6txvjZYS77MOc"
+      },
+      "artists": [
+        {
+          "name": "Subno",
+          "url": "https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125151,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0FaSKlbK9bwEMOOJHNyMLA"
+    },
+    {
+      "album": {
         "name": "Diverse Path",
         "url": "https://open.spotify.com/album/4rbTijLDdjN3kQvblKmwC7"
       },
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 222728,
       "name": "Spiritual Alignment",
       "url": "https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO"

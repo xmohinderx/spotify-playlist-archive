@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2496749,
+  "num_followers": 2497142,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGVkYWMwNDk2MTU2NDhmMmFmZjc3ZmNhNjgzM2IzYTk1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDA1NWU0ZTNhZDcyYjVmMTkzMjQyNWVmZDc4NDhkM2Yy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Machines",
-        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "The Machines",
-      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Ground Shake",
         "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 185379,
       "name": "Ground Shake",
       "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Machines",
+        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "The Machines",
+      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 316420,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Never Be The Same (feat. Sara Benyo)",
         "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 230425,
       "name": "Never Be The Same (feat. Sara Benyo)",
       "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 316420,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "NECROMANCER EP",
         "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "REDLIGHT (VIP)",
         "url": "https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA"
       },
@@ -947,6 +947,46 @@
       "duration_ms": 199118,
       "name": "REDLIGHT - VIP",
       "url": "https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Gainz",
+        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
+      },
+      "artists": [
+        {
+          "name": "Deadlyft",
+          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Gainz",
+      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -979,46 +1019,6 @@
       "duration_ms": 297620,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Gainz",
-        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
-      },
-      "artists": [
-        {
-          "name": "Deadlyft",
-          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Gainz",
-      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
-      },
-      "artists": [
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        },
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Work That Body",
         "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 165000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "DIABOLICAL",
+        "url": "https://open.spotify.com/album/29atnC5DakNorflRaMOOGQ"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "CAKE SHAKE",
+      "url": "https://open.spotify.com/track/317KO2y39CAzDjpP8djR0k"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Astro Funk",
         "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
       },
@@ -1531,30 +1547,6 @@
       "duration_ms": 195200,
       "name": "Astro Funk",
       "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "AD INFINITUM",
-        "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "SHARPS",
-          "url": "https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8"
-        },
-        {
-          "name": "Hashu",
-          "url": "https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "G.T.F.O.T.W. (feat. Hashu)",
-      "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
     }
   ],
   "unique_name": "Hype",

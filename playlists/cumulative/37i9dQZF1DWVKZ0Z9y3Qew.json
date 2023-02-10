@@ -7525,6 +7525,36 @@
     },
     {
       "album": {
+        "name": "soonish (feat. Gifted Gab, Gavlyn, Kissflame) [remix]",
+        "url": "https://open.spotify.com/album/6dIkui7FFdvqPcKV34NPyK"
+      },
+      "artists": [
+        {
+          "name": "Blimes",
+          "url": "https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM"
+        },
+        {
+          "name": "Gifted Gab",
+          "url": "https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT"
+        },
+        {
+          "name": "Gavlyn",
+          "url": "https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI"
+        },
+        {
+          "name": "Kissflame",
+          "url": "https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "soonish (feat. Gifted Gab, Gavlyn, Kissflame) - remix",
+      "url": "https://open.spotify.com/track/67LG6Gt1x65FvVOzhh8mRK"
+    },
+    {
+      "album": {
         "name": "soonish (remix)",
         "url": "https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp"
       },
@@ -7548,7 +7578,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 193000,
       "name": "soonish - remix",
       "url": "https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5"

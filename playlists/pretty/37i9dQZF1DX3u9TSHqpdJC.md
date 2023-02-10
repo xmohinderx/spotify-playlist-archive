@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Sion
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,853 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,992 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 89 | [love u in the morning](https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [love u in the morning](https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ) | 2:44 |
 | 90 | [weightless](https://open.spotify.com/track/7xxj8W8TfJHhlfVqcA47cc) | [Grand Lotus](https://open.spotify.com/artist/7nrUFVNdRlkAFes9oJaKHb) | [weightless](https://open.spotify.com/album/1boOKlvXmsU3UvDihE0kHJ) | 3:44 |
 
-Snapshot ID: `MTY3NTkwNDk1OSwwMDAwMDAwMDg5YTA0YmM3ZThhYWFjMzNjN2I0ZDQzM2RkY2Q3YjJm`
+Snapshot ID: `MTY3NTk0NDU5NywwMDAwMDAwMGZjYjZkZGRhNGM2NjcyMmQwMWJhZGRlODFjM2U0NjJi`

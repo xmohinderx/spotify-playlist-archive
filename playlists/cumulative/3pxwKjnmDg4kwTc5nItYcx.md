@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-655 songs - 1 day 11 hr 22 min
+657 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 | 2021-09-11 |  |
 | [keep the distance](https://open.spotify.com/track/1bjQ64K1ZtY304Ud2RGqe4) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [keep the distance](https://open.spotify.com/album/061HvG8Oys8QJSf0lQrJIM) | 2:48 | 2020-08-14 | 2021-05-12 |
 | [KILLING TIME \(feat\. Eliott\) \- Acoustic](https://open.spotify.com/track/1AWoVicNcV85I6L3znVhfs) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [KILLING TIME \(feat\. Eliott\) \[Acoustic\]](https://open.spotify.com/album/3mmPNGelVGSS7DBS2dLEnl) | 2:43 | 2019-08-27\* | 2020-02-12 |
+| [knight to E5](https://open.spotify.com/track/79DFcXX6Tz8dulqbA6v1wN) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [knight to E5](https://open.spotify.com/album/4lqIhxI4OG0NZD43q2ka1m) | 2:28 | 2023-02-10 |  |
 | [Konjo](https://open.spotify.com/track/6QDsvVjGVvyapCgrZrNimn) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Konjo](https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q) | 3:17 | 2021-12-03 |  |
 | [L.O.V.E\. Me](https://open.spotify.com/track/645Dfv2sXgswJEVx3uckfm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/75LOazIN9tKRvYQRvHaJjM) | 2:39 | 2019-11-18 | 2021-05-12 |
 | [La La Land \(feat\. YG\)](https://open.spotify.com/track/3TpBefRZ1vFcOH6z57PQRI) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [La La Land \(feat\. YG\)](https://open.spotify.com/album/0uEsmL4LP4fOPwa5ZVXICS) | 2:57 | 2019-08-27\* | 2021-12-04 |
@@ -587,6 +588,7 @@
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2020-12-04 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-10-16 |  |
 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 | 2019-11-22 | 2020-05-19 |
+| [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-02-10 |  |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 |  |
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2020-05-28 | 2021-05-12 |
 | [Think About It](https://open.spotify.com/track/1CkkV6YIEUTfxprPkg86Rh) | [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Think About It](https://open.spotify.com/album/5iTYPTP83OuJ7MfiQ9hhBe) | 3:32 | 2019-08-27\* | 2019-11-11 |

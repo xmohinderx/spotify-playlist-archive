@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-513 songs - 1 day 8 hr 42 min
+514 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 | 2022-10-19 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:05 | 2023-01-10 |  |
 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-31 |  |
-| [Here is](https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Here is](https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb) | 4:10 | 2023-01-17 |  |
+| [Here is](https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Here is](https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb) | 4:10 | 2023-01-17 | 2023-02-10 |
 | [HIGHEST](https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0thfg8QuF1USWyk0XYYqMh) | 3:36 | 2022-10-25 | 2023-01-13 |
 | [HIGHEST](https://open.spotify.com/track/7IptC49keGgOpsfPYd9mXt) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「陰の実力者になりたくて!」オープニングテーマ「HIGHEST」](https://open.spotify.com/album/2yOfQVtm4LE6TdA0Xc7bbG) | 3:36 | 2022-10-25 | 2022-10-27 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/1lW6lfQZszjBQVN5rDLGKj) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [HOLLOW HUNGER](https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2) | 3:43 | 2022-08-23 | 2022-09-02 |
@@ -460,6 +460,7 @@
 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 | 2022-07-12 | 2022-10-19 |
 | [悪魔の子 \- KOHTA YAMAMOTO Remix](https://open.spotify.com/track/3iGgTjzoA6tFUD1KPTbdJQ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Rearrangement Reaction](https://open.spotify.com/album/2vPvV6BqCafISrQFtYQ1gu) | 4:04 | 2022-06-28 | 2022-07-29 |
 | [愛は心の仕事です](https://open.spotify.com/track/3WvRH0s72oqOHQsBuUWotX) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Memories of Romance in Driving](https://open.spotify.com/album/7ItGfR7FpS07xlAeJWhwlC) | 4:20 | 2022-09-27 | 2022-10-28 |
+| [愛を知っている](https://open.spotify.com/track/6rkN5ursVvVLzsrbjZLwq1) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l) | [愛を知っている](https://open.spotify.com/album/0T51jMLLQlZvlVJjJkCLkz) | 3:03 | 2023-02-09 |  |
 | [捕まえて、今夜。](https://open.spotify.com/track/0Tw3GoF2O6XA7DmytMKNLL) | [新浜レオン](https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2) | [捕まえて、今夜。](https://open.spotify.com/album/4D0ZJVYQKa1I0OdY04UtND) | 4:10 | 2022-10-04 | 2022-11-18 |
 | [断罪デモクラシー](https://open.spotify.com/track/1YYhcvF1ejO19vtEgVBzIg) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [断罪デモクラシー](https://open.spotify.com/album/0aCbx2DAWTiKTkVEr206ZB) | 3:14 | 2022-07-07 | 2022-09-28 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-08 | 2022-12-28 |

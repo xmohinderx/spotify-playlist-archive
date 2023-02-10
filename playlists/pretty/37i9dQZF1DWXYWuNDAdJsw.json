@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 818329,
+  "num_followers": 818553,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNTQ4NiwwMDAwMDAwMGRmYTFiNTdiYjhhYmNkZTc1NzRjZGEwMWRiNWIzMDdl",
+  "snapshot_id": "MTY3NDgwNTQ4NiwwMDAwMDAwMDc2MmQxM2RjNjI4MDQ3ZjFlOWRjMGQzNmViZjU3NzRj",
   "tracks": [
     {
       "added_at": "2023-01-27 07:44:46",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-01-27 07:44:46",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "added_at": "2023-01-27 07:44:46",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2023-01-27 07:44:46",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": "2023-01-27 07:44:46",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-27 07:44:46",
       "album": {
-        "name": "Otro Nivel de M\u00fasica",
-        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
-    },
-    {
-      "added_at": "2023-01-27 07:44:46",
-      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
+    },
+    {
+      "added_at": "2023-01-27 07:44:46",
+      "album": {
+        "name": "Otro Nivel de M\u00fasica",
+        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
     },
     {
       "added_at": "2023-01-27 07:44:46",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-01-27 07:44:46",
       "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 211657,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
-    },
-    {
-      "added_at": "2023-01-27 07:44:46",
-      "album": {
         "name": "La Realidad (Remix)",
         "url": "https://open.spotify.com/album/6eOK10Y1cLw4SAQiDfAunM"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 262600,
       "name": "La Realidad (Remix)",
       "url": "https://open.spotify.com/track/2PgsOTPkF25VJ9cZmUjSKE"
+    },
+    {
+      "added_at": "2023-01-27 07:44:46",
+      "album": {
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 211657,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
     },
     {
       "added_at": "2023-01-27 07:44:46",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-01-27 07:44:46",
       "album": {
-        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 220284,
-      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
-    },
-    {
-      "added_at": "2023-01-27 07:44:46",
-      "album": {
         "name": "perreo sad",
         "url": "https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 185136,
       "name": "perreo sad",
       "url": "https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm"
+    },
+    {
+      "added_at": "2023-01-27 07:44:46",
+      "album": {
+        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 220284,
+      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
     },
     {
       "added_at": "2023-01-27 07:44:46",

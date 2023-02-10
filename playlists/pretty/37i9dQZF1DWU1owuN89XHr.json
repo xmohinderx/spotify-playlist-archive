@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 256889,
+  "num_followers": 256949,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDc2MGNmMGQ4YzA0OTFiMDM4OWQ5NDAwYmQwNWQxMDFj",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDQ5NjExYTEyNmIzZTdkZDA0NjA5MzhkMjdmMzEwMmMy",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Hoy Como Ayer",
-        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 272042,
-      "name": "Hoy Como Ayer",
-      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Quiero Cantar",
         "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 234040,
       "name": "Tan Distintos (feat. Edgar Oceransky)",
       "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 272042,
+      "name": "Hoy Como Ayer",
+      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
-      },
-      "artists": [
-        {
-          "name": "Alberto Escobar",
-          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Alfonsina Y El Mar",
         "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 279333,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+      },
+      "artists": [
+        {
+          "name": "Alberto Escobar",
+          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Vicente Feli\u00fa",
-        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Feli\u00fa",
-          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Esther homenaje",
-      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Arde Estocolmo",
         "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 193875,
       "name": "M\u00e1rgenes",
       "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Vicente Feli\u00fa",
+        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Feli\u00fa",
+          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Esther homenaje",
+      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
     },
     {
       "added_at": "2021-07-29 16:46:05",

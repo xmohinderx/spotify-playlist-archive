@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2e0HLVyPlF5jP9khNWfV3m">Fata</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG?si=6PutexWfRRWJz6eQmdKSFA">Kuni</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,475 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 |
-| 2 | [Mikado](https://open.spotify.com/track/6u7wBE4McKSHeCbnRpfzWE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Mikado](https://open.spotify.com/album/6KX5rDPufOywxTe2S9LGkz) | 3:36 |
-| 3 | [ERRORI](https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [ERRORI](https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ) | 3:02 |
-| 4 | [Guardi me](https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64) | [LOU](https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I) | [Guardi me](https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM) | 2:53 |
-| 5 | [lucciole](https://open.spotify.com/track/02Mbc3Phko6FVqCQCRlglb) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [PRISMA](https://open.spotify.com/album/2Iq8SZgrLrNAS8YEcbwhXw) | 2:45 |
-| 6 | [Lusso](https://open.spotify.com/track/0gbIBa5IHQsEfTM2tOFViW) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Lusso](https://open.spotify.com/album/60QDEwfUZ2EcEF3cYdueg7) | 3:44 |
-| 7 | [Grandi](https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI](https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF) | 2:58 |
-| 8 | [Nel mio bosco](https://open.spotify.com/track/0QWP4XCt5QDW9OJqxM7zwM) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Nel mio bosco](https://open.spotify.com/album/7GtFcZ2Y4sxvXcokgZRpYD) | 2:41 |
-| 9 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 |
-| 10 | [Parigi](https://open.spotify.com/track/1QOX3kqLnL5bDxTULhgfir) | [Denoise](https://open.spotify.com/artist/5p8W2If8qwjFGW7peV00Qo) | [E poi in un momento diverso dagli altri](https://open.spotify.com/album/6PnDZLGUuSkZMHevZUgXOt) | 3:18 |
-| 11 | [Home to Me](https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Home to Me](https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11) | 2:43 |
+| 1 | [Home to Me](https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Home to Me](https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11) | 2:43 |
+| 2 | [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 |
+| 3 | [Mikado](https://open.spotify.com/track/6u7wBE4McKSHeCbnRpfzWE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Mikado](https://open.spotify.com/album/6KX5rDPufOywxTe2S9LGkz) | 3:36 |
+| 4 | [ERRORI](https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [ERRORI](https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ) | 3:02 |
+| 5 | [Guardi me](https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64) | [LOU](https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I) | [Guardi me](https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM) | 2:53 |
+| 6 | [lucciole](https://open.spotify.com/track/02Mbc3Phko6FVqCQCRlglb) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [PRISMA](https://open.spotify.com/album/2Iq8SZgrLrNAS8YEcbwhXw) | 2:45 |
+| 7 | [Lusso](https://open.spotify.com/track/0gbIBa5IHQsEfTM2tOFViW) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Lusso](https://open.spotify.com/album/60QDEwfUZ2EcEF3cYdueg7) | 3:44 |
+| 8 | [Grandi](https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI](https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF) | 2:58 |
+| 9 | [Nel mio bosco](https://open.spotify.com/track/0QWP4XCt5QDW9OJqxM7zwM) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Nel mio bosco](https://open.spotify.com/album/7GtFcZ2Y4sxvXcokgZRpYD) | 2:41 |
+| 10 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 |
+| 11 | [Parigi](https://open.spotify.com/track/1QOX3kqLnL5bDxTULhgfir) | [Denoise](https://open.spotify.com/artist/5p8W2If8qwjFGW7peV00Qo) | [E poi in un momento diverso dagli altri](https://open.spotify.com/album/6PnDZLGUuSkZMHevZUgXOt) | 3:18 |
 | 12 | [MAREA](https://open.spotify.com/track/37byGPWlxruY8vVeQlbUWb) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [MAREA](https://open.spotify.com/album/3WPEmt23OmvcsrY2qcALKf) | 2:22 |
 | 13 | [Ma tu ci tieni a me?](https://open.spotify.com/track/0KeF7ceyOpu0Ibo6H0xUD0) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Ma tu ci tieni a me?](https://open.spotify.com/album/7xVTEaPyoS67yHalgjQi8u) | 3:01 |
 | 14 | [giorni nuovi](https://open.spotify.com/track/3skYVVP16FsENJhtPEiQpd) | [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU), [malecontento](https://open.spotify.com/artist/4vhHdnOGg8lZJ2023QM5rw) | [giorni nuovi](https://open.spotify.com/album/36EHvkRly6IlI3egBkIpQL) | 2:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 51 | [motori](https://open.spotify.com/track/7rtne4qSZRCtHShB8yiWeB) | [fefè](https://open.spotify.com/artist/52wYExoftAantCAUjSLWUr) | [motori](https://open.spotify.com/album/4Cr84DvmsMTMRZCdGwtc5C) | 2:55 |
 | 52 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 |
 
-Snapshot ID: `MTY3NTQzMzAxOSwwMDAwMDAwMDhkYWFhYzFkNTBlZTU2NDM2NzlkMjBlZDA5NzYxYzcw`
+Snapshot ID: `MTY3NTk4MzY2MCwwMDAwMDAwMGI5ZTkxM2I2NzdmMzc2ZWYwODAwMWUwNTZkNWNlODY3`

@@ -714,7 +714,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 240801,
       "name": "Come Thou Fount",
       "url": "https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh"
@@ -1036,6 +1036,28 @@
       "duration_ms": 190880,
       "name": "doxology",
       "url": "https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K"
+    },
+    {
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124311,
+      "name": "Doxology (feat. Selah)",
+      "url": "https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP"
     },
     {
       "album": {

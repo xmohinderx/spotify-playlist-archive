@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most innovative and forward thinking metal right now. Cover: Bring Me The Horizon",
+  "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
   "name": "Alternative Metal",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 151911,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 319560,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 235214,
       "name": "Breaks",
       "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241311,
+      "name": "Dead World",
+      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -969,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+    },
+    {
+      "album": {
         "name": "From Voodoo to Zen",
         "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
       },
@@ -1034,7 +1074,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
@@ -1088,7 +1128,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 82926,
       "name": "EUGH!",
       "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
@@ -1160,7 +1200,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 220333,
       "name": "Fight Alone",
       "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
@@ -1419,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "album": {
         "name": "Into The Void",
         "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
       },
@@ -1474,7 +1532,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
@@ -1911,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "REB00T MYSELF (feat. Tired Violence)",
+        "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
+      },
+      "artists": [
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        },
+        {
+          "name": "Tired Violence",
+          "url": "https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "REB00T MYSELF (feat. Tired Violence)",
+      "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
+    },
+    {
+      "album": {
         "name": "Plantgazer",
         "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
       },
@@ -2207,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "Sun Up To Sun Down (Remix)",
+        "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148426,
+      "name": "Sun Up To Sun Down - Remix",
+      "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
+    },
+    {
+      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -2258,6 +2360,24 @@
       "duration_ms": 312453,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/0lAcdXzZbjmun1OFVgw9JW"
+    },
+    {
+      "album": {
+        "name": "Terrible Lie",
+        "url": "https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243343,
+      "name": "Terrible Lie",
+      "url": "https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv"
     },
     {
       "album": {
@@ -2482,6 +2602,24 @@
       "duration_ms": 201349,
       "name": "Virdem",
       "url": "https://open.spotify.com/track/2Siu6od8M6gbjRlNbQkRVM"
+    },
+    {
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "album": {

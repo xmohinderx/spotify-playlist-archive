@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "All Along",
+        "url": "https://open.spotify.com/album/7CRo25Q6dFAeZDTJ4Bgfgq"
+      },
+      "artists": [
+        {
+          "name": "Tegan Riley",
+          "url": "https://open.spotify.com/artist/545YowgDW1BqD0OUeoNP9L"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/4I4fBBEhpLAHvnLhacIwdg"
+    },
+    {
+      "album": {
         "name": "All Rivers",
         "url": "https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91"
       },
@@ -1301,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Opportunities",
+        "url": "https://open.spotify.com/album/5LUXplex6OdoBhPnnwOX6D"
+      },
+      "artists": [
+        {
+          "name": "Alva Adler",
+          "url": "https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222709,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3TWwXtNx8UQR0VbJ1ANKNa"
+    },
+    {
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/09uh7HyYeJdAGy2ybhGvUS"
       },
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 210000,
       "name": "Blank Page",
       "url": "https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 149518,
       "name": "Blume",
       "url": "https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ"
@@ -2039,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u"
+      },
+      "artists": [
+        {
+          "name": "Angelo Garnier",
+          "url": "https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Center of Attention",
+      "url": "https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY"
       },
@@ -2198,6 +2252,24 @@
       "duration_ms": 162000,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG"
+    },
+    {
+      "album": {
+        "name": "Connected By Stars",
+        "url": "https://open.spotify.com/album/5rO4roJQqcHPRcBeUDZ6AB"
+      },
+      "artists": [
+        {
+          "name": "The Nightgate",
+          "url": "https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181614,
+      "name": "Connected By Stars",
+      "url": "https://open.spotify.com/track/3THYxB5RPTXmjAA1dUVAnW"
     },
     {
       "album": {
@@ -2374,7 +2446,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 199969,
       "name": "Cryosleep Emotions",
       "url": "https://open.spotify.com/track/1C8ER2PO8lLxaBaAuEwHXs"
@@ -2482,7 +2554,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 152400,
       "name": "Dans Mes R\u00e8ves",
       "url": "https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7"
@@ -2756,7 +2828,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 142222,
       "name": "Donia",
       "url": "https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV"
@@ -3116,7 +3188,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 153482,
       "name": "Embrace The Dream",
       "url": "https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY"
@@ -3300,6 +3372,24 @@
       "duration_ms": 165274,
       "name": "Envisaged",
       "url": "https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz"
+    },
+    {
+      "album": {
+        "name": "Equality",
+        "url": "https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ"
+      },
+      "artists": [
+        {
+          "name": "Adumbration",
+          "url": "https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214278,
+      "name": "Equality",
+      "url": "https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga"
     },
     {
       "album": {
@@ -3764,7 +3854,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 154237,
       "name": "Firestones",
       "url": "https://open.spotify.com/track/3Qe3YdkyZ4QNSFg4oAoF2Z"
@@ -4466,7 +4556,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 208500,
       "name": "Hope Street",
       "url": "https://open.spotify.com/track/2GW2FdCD7NePDJ4GFaEnpP"
@@ -4502,7 +4592,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 168762,
       "name": "Human Perspective",
       "url": "https://open.spotify.com/track/5c2Z7W7kARLvrvzIO7P18c"
@@ -4628,7 +4718,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 190000,
       "name": "In jouw armen",
       "url": "https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3"
@@ -5114,7 +5204,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 184253,
       "name": "Jokk",
       "url": "https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo"
@@ -5816,7 +5906,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 187218,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u"
@@ -6036,7 +6126,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 204541,
       "name": "Majestic Infinity",
       "url": "https://open.spotify.com/track/4jCPLC0nAElqDXuo7EghO0"
@@ -6216,7 +6306,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 172705,
       "name": "Mezame",
       "url": "https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz"
@@ -6846,7 +6936,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 140829,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
@@ -7674,7 +7764,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 157545,
       "name": "Psalm Of Sleep",
       "url": "https://open.spotify.com/track/17Dp0IXJcJoj4s2zuN7x31"
@@ -9096,7 +9186,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 169574,
       "name": "Skaisti",
       "url": "https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8"
@@ -9510,7 +9600,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 182000,
       "name": "Sono In Bilico",
       "url": "https://open.spotify.com/track/2z2aFGYVDincSjBypjbrTy"
@@ -9838,6 +9928,24 @@
       "duration_ms": 211212,
       "name": "Suaimhneas",
       "url": "https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo"
+    },
+    {
+      "album": {
+        "name": "Subtle Differences",
+        "url": "https://open.spotify.com/album/4K6s5AARQXCadsFXPyTRA4"
+      },
+      "artists": [
+        {
+          "name": "Endemoniada",
+          "url": "https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204135,
+      "name": "Subtle Differences",
+      "url": "https://open.spotify.com/track/69GDy41jbQGozpobU1DIP1"
     },
     {
       "album": {
@@ -10212,7 +10320,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 187200,
       "name": "The Endless Frontier",
       "url": "https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP"
@@ -10536,7 +10644,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 209610,
       "name": "Thisobei",
       "url": "https://open.spotify.com/track/51AXJR78Z0g4o1pdNZqrsX"
@@ -11065,6 +11173,24 @@
     },
     {
       "album": {
+        "name": "Ur Intet",
+        "url": "https://open.spotify.com/album/10GmTICjKdSuH5BGgYK4Br"
+      },
+      "artists": [
+        {
+          "name": "Vera Mejer",
+          "url": "https://open.spotify.com/artist/2aMUpj4kSFl3XEdA3UCEIi"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187185,
+      "name": "Ur Intet",
+      "url": "https://open.spotify.com/track/3j9lwtdDw7ITWVY0eEuznt"
+    },
+    {
+      "album": {
         "name": "Veilless",
         "url": "https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy"
       },
@@ -11166,7 +11292,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 156226,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6"

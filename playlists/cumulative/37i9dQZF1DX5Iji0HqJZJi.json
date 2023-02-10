@@ -756,6 +756,24 @@
     {
       "album": {
         "name": "For the Birds: The Birdsong Project, Vol. III",
+        "url": "https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "Hanover Birds",
+      "url": "https://open.spotify.com/track/0y0v7z8CnX9BgUlU65Ivj6"
+    },
+    {
+      "album": {
+        "name": "For the Birds: The Birdsong Project, Vol. III",
         "url": "https://open.spotify.com/album/3vHDJ2gVHKfBxv417wCBmI"
       },
       "artists": [
@@ -770,28 +788,6 @@
       "duration_ms": 221933,
       "name": "Hanover Birds",
       "url": "https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs"
-    },
-    {
-      "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. III",
-        "url": "https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Elliot Bergman",
-          "url": "https://open.spotify.com/artist/2hGSM00KaHLWcMzgE37QUc"
-        }
-      ],
-      "date_added": "2022-11-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221933,
-      "name": "Hanover Birds",
-      "url": "https://open.spotify.com/track/0y0v7z8CnX9BgUlU65Ivj6"
     },
     {
       "album": {

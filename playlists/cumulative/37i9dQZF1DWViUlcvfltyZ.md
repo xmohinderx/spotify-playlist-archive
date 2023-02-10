@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. In cover, gli Yonic South!
+> La playlist che è come andare ai concerti\. In cover, Asjatica!
 
-294 songs - 16 hr 15 min
+297 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Berserk](https://open.spotify.com/track/6fzsjiqZ38KakK6QcJWZ4q) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Berserk](https://open.spotify.com/album/6UrRKtK69QZKkwui1SZ7ib) | 3:49 | 2022-11-10 | 2022-11-18 |
 | [Better Days](https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [A Life Designed for Fun \(Pastimes Vol\. II\)](https://open.spotify.com/album/645TLVk1UxX0AM8FWFxuQ3) | 3:57 | 2022-07-21 | 2022-08-26 |
 | [Biting My Tongue](https://open.spotify.com/track/7ldjZ1u6RB5E0oecZwWNlO) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Biting My Tongue](https://open.spotify.com/album/6zaLk6KBHat0kBk0Wo7hhN) | 3:14 | 2022-09-15 | 2022-09-23 |
-| [Bla](https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp) | [ESSEHO](https://open.spotify.com/artist/2pVoUbHGWdqQhoaT8rMFsk) | [SANGUE//SALIVA](https://open.spotify.com/album/7s6MkBi98o4lHlyTNudqoQ) | 3:24 | 2022-12-01 |  |
+| [Bla](https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp) | [ESSEHO](https://open.spotify.com/artist/2pVoUbHGWdqQhoaT8rMFsk) | [SANGUE//SALIVA](https://open.spotify.com/album/7s6MkBi98o4lHlyTNudqoQ) | 3:24 | 2022-12-01 | 2023-02-10 |
 | [Blu](https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Blu](https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj) | 2:40 | 2022-05-26 | 2022-07-15 |
 | [Blue Eyes](https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Blue Eyes](https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O) | 3:52 | 2022-06-09 | 2022-06-17 |
 | [Bobby Eroina](https://open.spotify.com/track/5pjGcNO7ByZqoI95De96TG) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Bobby Eroina](https://open.spotify.com/album/3oaqK6gNrIAFVIFNgn53x7) | 3:15 | 2022-12-01 | 2023-01-20 |
@@ -47,7 +47,7 @@
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |
 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 | 2022-05-09 | 2022-05-13 |
 | [Cadetto Lin non ferma su Marte](https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET) | [Lantern](https://open.spotify.com/artist/0oSXdle7wTokdA7ZrVlOXW) | [Cadetto Lin non ferma su Marte](https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx) | 2:15 | 2022-05-09 | 2022-06-24 |
-| [Calamite](https://open.spotify.com/track/4rjM6Ju3F5XEqZ5XJEXdKb) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Canzoni da odiare](https://open.spotify.com/album/4i3LslAd4jo5F3tFCQ7CYd) | 3:46 | 2022-11-10 |  |
+| [Calamite](https://open.spotify.com/track/4rjM6Ju3F5XEqZ5XJEXdKb) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Canzoni da odiare](https://open.spotify.com/album/4i3LslAd4jo5F3tFCQ7CYd) | 3:46 | 2022-11-10 | 2023-02-10 |
 | [Call](https://open.spotify.com/track/494ssgQ5aHdCMcLL6NxuVy) | [You, Nothing.](https://open.spotify.com/artist/2k0ktbWdeA7hJXDFb7eUAe) | [Call](https://open.spotify.com/album/64jSauMBY9bA0g42JIy49Z) | 3:57 | 2022-07-29 | 2022-08-19 |
 | [CALMI](https://open.spotify.com/track/11e830eTMrExk20UCGtLr2) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [SUPER SOFT RESET](https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU) | 2:17 | 2022-05-09 | 2022-05-13 |
 | [canzo/paure](https://open.spotify.com/track/2ZUd2twmaOFOtLtzDtYDe2) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [glicine](https://open.spotify.com/album/3pVyV0QheNbKvAei5uV8lX) | 3:18 | 2022-06-23 | 2022-07-08 |
@@ -108,6 +108,7 @@
 | [Fewdrops](https://open.spotify.com/track/21j9o0fKq37tHikEmRzPAf) | [Wilt/Plvce](https://open.spotify.com/artist/6WgDlmIyHKpjFNSAwGmLAr) | [Fewdrops](https://open.spotify.com/album/2jupIKsTSSejvwI6ip0ADB) | 3:29 | 2022-09-01 | 2022-09-23 |
 | [Fiesta](https://open.spotify.com/track/1PMoaqAqVRQdZuBzACqcPw) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0YVnkqNYaSrz2YFffWz2BG) | 3:06 | 2022-10-20 | 2022-11-11 |
 | [Fiesta](https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp) | 3:06 | 2022-09-29 | 2022-10-21 |
+| [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 | 2023-02-09 |  |
 | [Fiji](https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe) | [Testarossa](https://open.spotify.com/artist/7yVdD1RiPKmVmqjH32EUGS) | [Fiji](https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI) | 3:31 | 2022-05-12 | 2022-06-10 |
 | [Fiori ai mortai](https://open.spotify.com/track/0Lcws78J2icfIs1184tiwY) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Origine](https://open.spotify.com/album/0a8prrTpWDjQ4jhPbiQZAw) | 3:23 | 2022-11-17 | 2023-01-06 |
 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 | 2022-12-15 |  |
@@ -162,6 +163,7 @@
 | [Like I'm Okay](https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Like I'm Okay](https://open.spotify.com/album/1wYkIgcLpMG9DggdMQw62n) | 2:49 | 2022-09-29 | 2022-11-11 |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
 | [Lo Sposo Sulla Torta](https://open.spotify.com/track/1K8eYXS6CJq9mzG9rzKDJV) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Ama il prossimo tuo come te stesso](https://open.spotify.com/album/4K2fWzhQxYSHcchOglHvSj) | 3:41 | 2022-09-29 | 2022-11-25 |
+| [Lontano](https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk) | [Aire](https://open.spotify.com/artist/1pePhxCgA1MOdEGgYjvNSZ), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Lontano](https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C) | 2:39 | 2023-02-09 |  |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 | 2022-12-02 |
 | [Lost In Translation](https://open.spotify.com/track/3JbZvgq27J7sHlzGcBUcuE) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Lost In Translation](https://open.spotify.com/album/2nKEOPy3lV9DpUbSPytjt5) | 2:50 | 2023-01-26 |  |
 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 | 2022-07-07 | 2022-09-16 |
@@ -172,7 +174,7 @@
 | [Matador](https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Matador](https://open.spotify.com/album/2HU1bNOzJU13btY8KjjNIC) | 3:20 | 2022-07-21 | 2022-11-25 |
 | [Matilde](https://open.spotify.com/track/3rNc1D4Jc2N5idptQxURFa) | [Le Larve](https://open.spotify.com/artist/27NQeT6snHm4r7ksireZOI) | [Matilde](https://open.spotify.com/album/1jiH9g4LEdeyBK4eGyXZKa) | 2:55 | 2022-10-20 | 2022-11-18 |
 | [MATTO](https://open.spotify.com/track/1117wyyZAZ1T23x5xCNcVC) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [X Factor Mixtape 2022](https://open.spotify.com/album/5lwA2LkDrpKD5daRu4kvi6) | 2:51 | 2022-11-17 | 2022-11-25 |
-| [MATTO](https://open.spotify.com/track/1ESnQ3jsJ1AgmMBgjv3LSy) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [MATTO](https://open.spotify.com/album/5el7xAia4ALSa1KYSOIxWY) | 2:51 | 2022-11-24 |  |
+| [MATTO](https://open.spotify.com/track/1ESnQ3jsJ1AgmMBgjv3LSy) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [MATTO](https://open.spotify.com/album/5el7xAia4ALSa1KYSOIxWY) | 2:51 | 2022-11-24 | 2023-02-10 |
 | [Meravigliosa \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 3:53 | 2022-05-26 | 2022-07-01 |
 | [Milioni di strade](https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Milioni di strade](https://open.spotify.com/album/5RCjhOxheSBtZ7ezp1R7GM) | 3:12 | 2022-09-08 | 2022-11-18 |
 | [MolossA](https://open.spotify.com/track/2BsGzAlf0G1t9tx5IFULDL) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:06 | 2022-05-09 | 2022-09-02 |
@@ -194,6 +196,7 @@
 | [Nothing](https://open.spotify.com/track/1rnHe2Pi76SGzyoYvXRBcb) | [FREEZ](https://open.spotify.com/artist/28vV7h4PvbAFJGNhkQQOE0) | [Nothing](https://open.spotify.com/album/4gb7fCkDqvfH5Xe5Dex8Md) | 1:33 | 2022-12-15 | 2023-02-03 |
 | [Nubifragio](https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Nubifragio](https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX) | 3:51 | 2022-10-20 | 2022-12-16 |
 | [Nuvola II](https://open.spotify.com/track/6UobW347K3eotJka699l7a) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Nuvola II](https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr) | 5:53 | 2022-12-15 | 2023-01-27 |
+| [Nuvolone](https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Nuvolone](https://open.spotify.com/album/1ko2CMTLW4iba939mRTago) | 3:06 | 2023-02-09 |  |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
 | [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:40 | 2023-01-31 |  |
@@ -230,7 +233,7 @@
 | [Scatolette](https://open.spotify.com/track/5oqLH3w2yG46BZtZSVWC56) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Scatolette](https://open.spotify.com/album/4a9tR3hT1gQ0qTVYAlw8CX) | 3:46 | 2022-05-09 | 2022-06-24 |
 | [Scattaci una foto dai](https://open.spotify.com/track/6rVd9LImuHUlRH4m4jZobg) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Scattaci una foto dai](https://open.spotify.com/album/1B1CLdFA4LmD7aMnH45bTU) | 3:24 | 2022-08-25 | 2022-12-16 |
 | [Senza Fine](https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Senza Fine](https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup) | 3:31 | 2023-02-02 |  |
-| [Senza svegliare nessuno](https://open.spotify.com/track/7Mar66ocny6SSA4bQqh4Sm) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Complicarsi la vita](https://open.spotify.com/album/3TdbgJaDqjkDtOizrUVC4z) | 4:17 | 2022-12-01 |  |
+| [Senza svegliare nessuno](https://open.spotify.com/track/7Mar66ocny6SSA4bQqh4Sm) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Complicarsi la vita](https://open.spotify.com/album/3TdbgJaDqjkDtOizrUVC4z) | 4:17 | 2022-12-01 | 2023-02-10 |
 | [Sereno](https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc) | [Sereno](https://open.spotify.com/album/0TWE0Xja7UMMKQMwzihs3V) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Sesso](https://open.spotify.com/track/1JYHLBAAs6JXuYqWdob7Qy) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Io non sono mai felice](https://open.spotify.com/album/1ING4mdn5P5bVadqjKCEOx) | 2:12 | 2022-12-01 | 2022-12-16 |
 | [SESSO & OPENBAR](https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [SESSO & OPENBAR](https://open.spotify.com/album/4L6iv1xkvjlqmsIzTAh8VC) | 2:34 | 2022-08-04 | 2022-11-25 |

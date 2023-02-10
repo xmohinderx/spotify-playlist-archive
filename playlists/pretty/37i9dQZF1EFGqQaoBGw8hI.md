@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844 likes - 477 songs - 1 day 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844 likes - 477 songs - 1 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 150 | [Ich will jetzt gleich König sein](https://open.spotify.com/track/3TMJAzf14sLrPUNfJqkCTB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Frank Lenart](https://open.spotify.com/artist/5QPbyemwjGhHWgM9fj7Gly), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [Original Ensemble vom "Broadway Musical im Hamburger Hafen"](https://open.spotify.com/artist/4RPg2LA6cDNQe5GLRAvwip) | [Der König der Löwen \(Dt\. Version\) \[Soundtrack\]](https://open.spotify.com/album/5FUKQAJlSG2ogyTmKtRF3s) | 3:04 |
 | 151 | [Teacher I Need You](https://open.spotify.com/track/71nUHAbMKXbFP0pB7jzpYT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:09 |
 | 152 | [Come Down In Time](https://open.spotify.com/track/2Mn2MuyqxbzZwnxRX1p8kY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:25 |
-| 153 | [Too Low For Zero](https://open.spotify.com/track/45pcawfb1hdBjq69krZpMZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:46 |
-| 154 | [El Dorado \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3ScTaxssPMiRO61W9vkafW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:22 |
+| 153 | [El Dorado \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3ScTaxssPMiRO61W9vkafW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:22 |
+| 154 | [Too Low For Zero](https://open.spotify.com/track/45pcawfb1hdBjq69krZpMZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:46 |
 | 155 | [A Town Called Jubilee](https://open.spotify.com/track/57W2BnuNqMEHA8d6StLeVZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:29 |
 | 156 | [Jack Rabbit \- Single Version](https://open.spotify.com/track/2FXtoMPJJkxCcQbFjwuZJa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 1:49 |
 | 157 | [Orbit](https://open.spotify.com/track/48RppFZihmIRUexaZd4Wyl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 |
@@ -478,12 +478,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 468 | [Act Of War \(Part 1\)](https://open.spotify.com/track/6eIheHaFM5KVclLQNuoixP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:43 |
 | 469 | [Lovesick](https://open.spotify.com/track/18s5u73IeszmNilFtAZ27U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:59 |
 | 470 | [Honey Roll \- From “Friends” Soundtrack](https://open.spotify.com/track/3gAZbNS5QMbRvYRFEqyLQE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:07 |
-| 471 | [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 |
-| 472 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
-| 473 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
-| 474 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
-| 475 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
+| 471 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
+| 472 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
+| 473 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
+| 474 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
+| 475 | [Heart In The Right Place \- Remastered 2003](https://open.spotify.com/track/4L4Bs8mRMrjf1RC12ZQ1Lx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:14 |
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5MzE3MDIsMDAwMDAwMDA3MjNiZWYzNmU5NmZkNjMzNWRlNmJhZjkxY2Y5YzM4OQ==`
+Snapshot ID: `Mjc5MzMxNDIsMDAwMDAwMDBiNWY2YTA5NWYyN2U1OWI4OWRlOWZjMDUxNDliNGYyYg==`

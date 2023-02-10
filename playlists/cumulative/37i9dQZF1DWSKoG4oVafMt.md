@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-710 songs - 1 day 14 hr 35 min
+712 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Roz Raat](https://open.spotify.com/track/2KW9XIQSHlxdezn24QiXLG) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Music Mg](https://open.spotify.com/artist/187TniBCUYUBlVTjmtsVi9) | [Roz Raat](https://open.spotify.com/album/0ozU1rhsuUWoAlizWD06Wn) | 3:35 | 2022-03-18 | 2022-04-06 |
 | [RUMORS](https://open.spotify.com/track/5FQABGC0nhpiabjwT8PAH4) | [VICKY KALER](https://open.spotify.com/artist/3K3WQXD8V4Y5M4at9hpnpE) | [RUMORS](https://open.spotify.com/album/4Wz2nPKvABjl3i0oDu8Azz) | 3:39 | 2022-03-31 | 2022-04-06 |
 | [Russeya Na Karr](https://open.spotify.com/track/6K8BU8aWw5lF0yBBDnS4Tk) | [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Russeya Na Karr](https://open.spotify.com/album/1Ugj8Je3twim0jq01RK3qw) | 3:47 | 2022-02-23 | 2022-03-11 |
+| [Rutba](https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi) | 6:44 | 2023-02-09 |  |
 | [Saada Pyaar](https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:33 | 2021-12-02 | 2022-07-06 |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2022-03-07 | 2022-04-06 |
 | [Saah](https://open.spotify.com/track/7HffX1reE0a6KPbiAndrZ4) | [Kevvy Saage](https://open.spotify.com/artist/7lPPioms8qtMrlwBjCVhhi) | [Saah](https://open.spotify.com/album/20S28a9GLuSxQu66IVZ5HE) | 2:46 | 2022-02-18 | 2022-03-11 |
@@ -628,6 +629,7 @@
 | [Tasveer](https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Flamboyant](https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3) | 3:53 | 2023-01-20 | 2023-02-04 |
 | [Tasveeran](https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Tasveeran](https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj) | 2:47 | 2022-08-19 | 2022-09-23 |
 | [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 | 2022-12-16 |
+| [Tera Dil](https://open.spotify.com/track/1q1tHRdOw0lGtbaJtIn8ki) | [Yuvraj](https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw) | [Tera Dil](https://open.spotify.com/album/7aJIUhUPWsE683VyOzcU9R) | 2:48 | 2023-02-09 |  |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Tera Mera Saath](https://open.spotify.com/track/3j0D9A264VbssyLaWvnQ1r) | [Gurwinder Brar](https://open.spotify.com/artist/3WZTmAmQr3PkUbEfctw4u0) | [Tera Mera Saath](https://open.spotify.com/album/3YzyVDXuzW02aJ6Gj8ghg2) | 3:33 | 2022-08-12 | 2023-02-04 |
 | [Tera Pyaar Ve](https://open.spotify.com/track/1E4MAiOaObaDGgpqvRnxva) | [Aman Ghuman](https://open.spotify.com/artist/5F9H8STHJE2bPys4Eh5eLJ) | [Tera Pyaar Ve](https://open.spotify.com/album/35wFZvVX88QtIReBPjZspB) | 3:15 | 2022-07-15 | 2022-08-18 |

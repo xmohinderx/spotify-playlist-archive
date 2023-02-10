@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=Ow5ms3yFToCElCBxfriMRg\">Internet Girl",
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N?si=sUd4scZ1RG65uKU6MhqLog\">Cailyn Shelby",
   "name": "SAlt",
   "tracks": [
+    {
+      "album": {
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/2wF8bjc8BojLDiuWm3DNKN"
+      },
+      "artists": [
+        {
+          "name": "Lenoy Barkai",
+          "url": "https://open.spotify.com/artist/5QFw3kKvmR91Rki5sRRmPP"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230164,
+      "name": "2 Old Dogs",
+      "url": "https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh"
+    },
     {
       "album": {
         "name": "On the way to Beatenberg",
@@ -146,7 +164,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 162626,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
@@ -306,6 +324,24 @@
       "duration_ms": 402500,
       "name": "Before The Sun Comes Up",
       "url": "https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P"
+    },
+    {
+      "album": {
+        "name": "Best Mistake",
+        "url": "https://open.spotify.com/album/4JBnjtHQyc2ZtmW6Y3ZwZ1"
+      },
+      "artists": [
+        {
+          "name": "Cailyn Shelby",
+          "url": "https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Best Mistake",
+      "url": "https://open.spotify.com/track/3jboUfnR6kBPs2tak6KaKb"
     },
     {
       "album": {
@@ -627,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Come In",
+        "url": "https://open.spotify.com/album/4JuDeN418NcqvHFPPE1PtZ"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/34miboJFpjvXcByUVTWGpC"
+    },
+    {
+      "album": {
         "name": "Countryside",
         "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
       },
@@ -642,6 +700,24 @@
       "duration_ms": 217829,
       "name": "Countryside",
       "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
+    },
+    {
+      "album": {
+        "name": "Cyanide",
+        "url": "https://open.spotify.com/album/0Acp8igfR8GcoL2slV5gxi"
+      },
+      "artists": [
+        {
+          "name": "Kileza",
+          "url": "https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327003,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/6bQSb2CjixL7Hh5Kp2zku3"
     },
     {
       "album": {
@@ -844,7 +920,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 193485,
       "name": "F.B.A.",
       "url": "https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc"
@@ -898,7 +974,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
@@ -970,7 +1046,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 207439,
       "name": "ghost in the machine",
       "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
@@ -1028,7 +1104,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 366011,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
@@ -1425,6 +1501,42 @@
     },
     {
       "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/7MJFN5eNvnS74BdUIy3sO2"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120078,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/2bnEKLupfbkcYVG708qmSf"
+    },
+    {
+      "album": {
+        "name": "Leave the City",
+        "url": "https://open.spotify.com/album/0638Pa7KDrtOpSICo4uO3K"
+      },
+      "artists": [
+        {
+          "name": "Jonny and the Fellow Revellers",
+          "url": "https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273075,
+      "name": "Leave the City",
+      "url": "https://open.spotify.com/track/5SZDK5alQmVWzWgvLVoy8u"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT"
       },
@@ -1440,6 +1552,24 @@
       "duration_ms": 177820,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5JIimhIsmOUlP9nAXqmnk9"
+      },
+      "artists": [
+        {
+          "name": "Thara",
+          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4YJZnj5OIzKiMi8MFVyXRv"
     },
     {
       "album": {
@@ -2004,7 +2134,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 217506,
       "name": "Ride The Next One",
       "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
@@ -2026,6 +2156,24 @@
       "duration_ms": 300441,
       "name": "Royalties",
       "url": "https://open.spotify.com/track/2SsLNG25UUof2uiGLn0xlu"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "album": {
@@ -2268,7 +2416,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 235000,
       "name": "Stereoscope",
       "url": "https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB"
@@ -2380,7 +2528,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 170769,
       "name": "The Joke's On You",
       "url": "https://open.spotify.com/track/3E9ZYwjljhnAqGrnQ9lzDQ"
@@ -2420,6 +2568,24 @@
       "duration_ms": 251400,
       "name": "Through The Misty With You - From \u201cThe Score\u201d",
       "url": "https://open.spotify.com/track/2yhH4M2YAc2jzFhOYDQ6K5"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Abudei",
+          "url": "https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "Thunder in My Arms",
+      "url": "https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t"
     },
     {
       "album": {
@@ -2496,7 +2662,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 216764,
       "name": "Turbo Charged",
       "url": "https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa"
@@ -2604,7 +2770,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 263172,
       "name": "Wait for Love",
       "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"

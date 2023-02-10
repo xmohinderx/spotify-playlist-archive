@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : kouz1
+> Les hits du moment sont ici\. Cover : Zaho
 
 146 songs - 8 hr 13 min
 

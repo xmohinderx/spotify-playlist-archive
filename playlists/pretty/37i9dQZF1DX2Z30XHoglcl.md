@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 
 > EDM's ever stable <a href="spotify:artist:0CbeG1224FS58EUx4tPevZ">Timmy Trumpet</a>  spins his favorite summer anthems in his most recent mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,556 likes - 31 songs - 59 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,656 likes - 31 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 | 7 | [Power \- Mixed](https://open.spotify.com/track/76NJGaCcLHVdvmV67ewC03) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Power \(Mixed\)](https://open.spotify.com/album/1LskiLqgQKgNHh2aT0mqck) | 1:26 |
 | 8 | [Pepas \- Mixed](https://open.spotify.com/track/28nbOWxKUQBh2P0RE5xLff) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas \(Mixed\)](https://open.spotify.com/album/2WpHARzM5E1X2ITZg3CKTl) | 1:41 |
 | 9 | [Anita \- Mixed](https://open.spotify.com/track/2VpeEJCZg50mu8WOyPiELV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Anita \(Mixed\)](https://open.spotify.com/album/2LtBwj8sAgWsV9gSmh7Moy) | 2:33 |
-| 10 | [Stay Mine \- Gabry Ponte Remix \- Mixed](https://open.spotify.com/track/5bNK1ScLN9KxPvr0pWWA0Y) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stay Mine \- Gabry Ponte Remix \(Mixed\)](https://open.spotify.com/album/3zh7EoROJxtZZNkxorM1ZP) | 2:48 |
+| 10 | [Stay Mine \- Gabry Ponte Remix \- Mixed](https://open.spotify.com/track/5bNK1ScLN9KxPvr0pWWA0Y) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stay Mine \- Gabry Ponte Remix \(Mixed\)](https://open.spotify.com/album/3zh7EoROJxtZZNkxorM1ZP) | 2:48 |
 | 11 | [Morena \- Mixed](https://open.spotify.com/track/52yFlmSdrMKFki6gyfEeS5) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena \(Mixed\)](https://open.spotify.com/album/76t6w9Ault8goKT5svO9Bx) | 1:16 |
 | 12 | [Move Your Body \- Mixed](https://open.spotify.com/track/5d1zXcg0HzGQbhPuUxOnRd) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Move Your Body \(Mixed\)](https://open.spotify.com/album/6mFZ88GajmhdIDdMaOupFF) | 1:11 |
 | 13 | [Faith \- Mixed](https://open.spotify.com/track/4CRtoITEStxovmhZjtITvv) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Faith \(Mixed\)](https://open.spotify.com/album/3dlogPTuD7XD8nSIE5WkWR) | 2:29 |

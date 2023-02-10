@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Sacky
+> Il meglio dell'R&B italiano\. Cover: Giorgia
 
 268 songs - 13 hr 15 min
 

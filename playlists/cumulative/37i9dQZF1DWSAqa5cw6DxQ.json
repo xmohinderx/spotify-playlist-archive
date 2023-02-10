@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Cold Space",
+        "url": "https://open.spotify.com/album/3k1SxanqNeUuQYV3UD8DT6"
+      },
+      "artists": [
+        {
+          "name": "Jo Quinn",
+          "url": "https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Cold Space",
+      "url": "https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t"
+    },
+    {
+      "album": {
         "name": "Consapevolezza",
         "url": "https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2"
       },

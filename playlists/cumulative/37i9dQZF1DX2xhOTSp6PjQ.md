@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=UghsrDCcQTSrclUbcr7zTA">Sjava</a>
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=NIuQZp6tQg2fGV5NG8l5og">Lwah Ndlunkulu</a>
 
 139 songs - 11 hr 11 min
 

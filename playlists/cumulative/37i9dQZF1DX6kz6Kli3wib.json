@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/3zgh81HSmMS848FRY1ugqm"
+      },
+      "artists": [
+        {
+          "name": "Of An Age",
+          "url": "https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225929,
+      "name": "Moment Of Truth",
+      "url": "https://open.spotify.com/track/5UtW7NhfDYUmmLy87YKlat"
+    },
+    {
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/2x00k3LmpeSpfH9GcwwUHP"
       },
@@ -3458,6 +3476,24 @@
       "duration_ms": 179590,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2"
+    },
+    {
+      "album": {
+        "name": "Shy Papi",
+        "url": "https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4"
+      },
+      "artists": [
+        {
+          "name": "Wibbie Slush",
+          "url": "https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "Shy Papi",
+      "url": "https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY"
     },
     {
       "album": {

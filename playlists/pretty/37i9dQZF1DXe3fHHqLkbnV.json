@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 228165,
+  "num_followers": 228537,
   "original_name": "90s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMGQ0MDVmMDA0NjgxMmU0YmY5NWJlOTdiMDEyZTk5ZmIx",
+  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDY5NGEwYjJkNDBlOGE0OWM1ZmJlMjU3YWVkZjk1MWE0",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 370866,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "added_at": "2023-01-18 22:23:18",

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-498 songs - 21 hr 15 min
+501 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-28 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 | 2022-07-08 |
 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 | 2021-11-10 | 2023-01-13 |
-| [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 |  |
+| [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 | 2023-02-10 |
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-04-15 |  |
 | [Calm Morning](https://open.spotify.com/track/79UTgOcBQ7GBXCXhAacWMl) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Calm Morning](https://open.spotify.com/album/7xfI7LvjjlI7TT2Ebzr5mB) | 1:56 | 2022-07-08 |  |
 | [Calma Tranquilla](https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Calma Tranquilla](https://open.spotify.com/album/2lLmQokjLZK9V3oJ9DQI8o) | 2:05 | 2021-11-10 | 2022-05-20 |
@@ -113,6 +113,7 @@
 | [Divided](https://open.spotify.com/track/1Grh55o5qFjUAX3b5JLCto) | [Atlantis Dove](https://open.spotify.com/artist/4lWGfxuk3gXKG0v4fI4mqi) | [Divided](https://open.spotify.com/album/2unlVS16XkBAqK9TMjYLLN) | 2:47 | 2021-11-10 | 2022-04-15 |
 | [Do you love me back?](https://open.spotify.com/track/52KP1mPnCPEgdJOuWd5qHz) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Do you love me back?](https://open.spotify.com/album/1VRop59KY7vZ3aqGOFDq2x) | 2:20 | 2022-07-08 | 2023-01-20 |
 | [Don't Fall](https://open.spotify.com/track/0JCNrm6tZAnEdAIWQpVevl) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Rubus](https://open.spotify.com/artist/7jaMbya54ZRcqETDqAPv85) | [Don't Fall](https://open.spotify.com/album/76gmo70ondGPTnx14vHymw) | 2:00 | 2022-12-09 |  |
+| [don't worry](https://open.spotify.com/track/2POIuUneUPVgRemmffB4mI) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [don't worry](https://open.spotify.com/album/7yF35ZHUDFD9wHtwAosP2b) | 2:11 | 2023-02-09 |  |
 | [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 | 2023-01-13 |  |
 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 | 2021-11-10 | 2022-07-08 |
 | [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 | 2023-02-03 |  |
@@ -150,7 +151,7 @@
 | [First Date](https://open.spotify.com/track/0f8mD2zPQpyxUhxbCl9mgY) | [LoFi Squad](https://open.spotify.com/artist/7h60BEfYJHccbTPcIDezST) | [First Date](https://open.spotify.com/album/7txJBstVURKH9vL4mZyuoz) | 1:49 | 2021-11-10 | 2022-09-09 |
 | [First Love](https://open.spotify.com/track/4kylI6llFxQAfc6sil0xQS) | [Wun Wun](https://open.spotify.com/artist/6wlXKYrkr9ptqnHPTF8Ew0) | [First Love](https://open.spotify.com/album/6Xb5RWsNIULIaarMzvzMM1) | 2:23 | 2023-01-20 |  |
 | [FLAVOURS](https://open.spotify.com/track/3GCKncswL5O0MZfCuYaJWG) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [FLAVOURS](https://open.spotify.com/album/2kesWSxxpRTAMPSTQDpAiH) | 2:13 | 2022-09-02 |  |
-| [Floating Leaf](https://open.spotify.com/track/6euO9FARa5gss5nCie8pod) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Floating Leaf](https://open.spotify.com/album/1a08Rku0UKWjOmn7KZAz2R) | 4:08 | 2021-11-10 |  |
+| [Floating Leaf](https://open.spotify.com/track/6euO9FARa5gss5nCie8pod) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Floating Leaf](https://open.spotify.com/album/1a08Rku0UKWjOmn7KZAz2R) | 4:08 | 2021-11-10 | 2023-02-10 |
 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 | 2022-10-28 |  |
 | [Flora](https://open.spotify.com/track/0dfmIWOOMbx0rP82IQQnJl) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Flora](https://open.spotify.com/album/4egi10lrnbzOpPciddXwIB) | 2:04 | 2022-10-28 |  |
 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 |  |
@@ -177,6 +178,7 @@
 | [GRASSES](https://open.spotify.com/track/62Aa22KEnGGJt5cxsj0aGC) | [Jasmineflour](https://open.spotify.com/artist/48XxrR0pCyOtiWqWrx8YB9) | [GRASSES](https://open.spotify.com/album/0P8JAlpyFHU8cht9t3Vics) | 2:36 | 2022-10-28 |  |
 | [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 | 2023-01-20 |
 | [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-04-15 | 2023-02-08 |
+| [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 | 2023-02-09 |  |
 | [Happy Lollo](https://open.spotify.com/track/3S2pim1uoTBkPNNIC9nurq) | [Creeti & Pleeti](https://open.spotify.com/artist/3t3fsmwdxmWrQJ1g7rCEkX) | [Happy Lollo](https://open.spotify.com/album/3MZr6N7xSk4VUtQzdX1nag) | 2:00 | 2021-11-10 | 2022-07-29 |
 | [Haze](https://open.spotify.com/track/2eEamAkO1cFzLiUVnMrlGy) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Haze](https://open.spotify.com/album/4KL2OyY3m1qum4FA63ws8l) | 3:26 | 2022-10-28 |  |
 | [Heartbeat](https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Heartbeat](https://open.spotify.com/album/2avjmz9VXH5vcXrjrHy1Yv) | 4:25 | 2021-11-10 | 2022-07-29 |
@@ -471,6 +473,7 @@
 | [tyst](https://open.spotify.com/track/6NuICoSy1ZbYKKUVGukai3) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [tyst](https://open.spotify.com/album/0BaB7mSJ7LoBCpDo3TL7rY) | 2:22 | 2021-11-10 | 2022-07-01 |
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 |  |
 | [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-01-21 |  |
+| [Under The Stars](https://open.spotify.com/track/7JaX10rbsmPiwJANAjAouR) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Under The Stars](https://open.spotify.com/album/7ivCdZwxSn6gvMPPajMOlO) | 1:55 | 2023-02-09 |  |
 | [Under The Weather](https://open.spotify.com/track/3QdRVeDM7SZTX8YV6UtLKh) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Forever](https://open.spotify.com/album/6X13XBbTcWAggczlHX3hNr) | 3:12 | 2022-10-28 |  |
 | [unity](https://open.spotify.com/track/3Jg02v8nQp88GN1TqiAtKT) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 3:24 | 2022-05-20 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-11-10 |  |
@@ -502,7 +505,7 @@
 | [Years Go By](https://open.spotify.com/track/5ypcyyCy6uXaeKrbdpmaY8) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Years Go By](https://open.spotify.com/album/6AnT3tJePFHQAlIFAdpvD5) | 1:57 | 2021-11-10 | 2022-07-01 |
 | [your pillow](https://open.spotify.com/track/5bM9yqaHGpWYLKTJznFZFU) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [your pillow / geodesis](https://open.spotify.com/album/5V6MjlAOq8akXPb7vifrXe) | 2:19 | 2022-05-10 | 2023-01-13 |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
-| [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 |  |
+| [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2023-02-10 |
 | [Zealous](https://open.spotify.com/track/4FIpXfK5Py8emyfmWCTcm1) | [Fast Flux](https://open.spotify.com/artist/3jndf0YYCbrGOLFij8XuFs) | [Zealous](https://open.spotify.com/album/4QsVtR5zmxTXx66KeBnwt0) | 2:21 | 2021-11-10 | 2023-01-13 |
 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 | 2022-12-09 |  |
 | [Zélande](https://open.spotify.com/track/4k109frzLZCYYGLg29VeXK) | [Foxy Fox](https://open.spotify.com/artist/7CvzsutSO2u3R3IaROBw5v) | [Coast Bound](https://open.spotify.com/album/6kZZVZj0BtkukLbrvMVI2z) | 2:07 | 2022-07-08 |  |

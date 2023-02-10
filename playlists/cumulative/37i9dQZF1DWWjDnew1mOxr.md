@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: The Reytons
 
-73 songs - 4 hr 7 min
+76 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,10 @@
 | [Big Fish, Small Pond](https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Big Fish, Small Pond](https://open.spotify.com/album/3Z9XtwBfGd68EAyKBGZDao) | 3:31 | 2023-01-10 |  |
 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 | 2023-02-03 |  |
 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 | 2023-01-10 |  |
-| [Broken Record](https://open.spotify.com/track/4lJGdVwM01Ia6LNb5EKExD) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Broken Record](https://open.spotify.com/album/2OBZGtnZuaTrD3DBNhmlf0) | 3:57 | 2023-01-10 |  |
+| [Broken Record](https://open.spotify.com/track/4lJGdVwM01Ia6LNb5EKExD) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Broken Record](https://open.spotify.com/album/2OBZGtnZuaTrD3DBNhmlf0) | 3:57 | 2023-01-10 | 2023-02-10 |
 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 | 2023-01-10 |  |
+| [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
+| [Changing Trends](https://open.spotify.com/track/14X8VWSbK3ghd2gVgOvf52) | [Lyerr](https://open.spotify.com/artist/15RXcuqShkrQqtCRjKtgss) | [Changing Trends](https://open.spotify.com/album/29NPGoxQMh9TRhciutEl4w) | 2:55 | 2023-02-10 |  |
 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 | 2023-01-10 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 |  |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |
@@ -71,6 +73,7 @@
 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 | 2023-01-10 |  |
 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2023-01-10 |  |
 | [The Sulking Poet](https://open.spotify.com/track/4RpGkjgHNP8DjB6mp7uvsz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/3hf9qJwWDOOjfyNI1esiGG) | 3:34 | 2023-01-10 |  |
+| [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 | 2023-02-10 |  |
 | [Timing](https://open.spotify.com/track/3WySGZnIvL3tw7y66xMqNF) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [Queensway Tunnel](https://open.spotify.com/album/1frN2kEYXx4azuuOI1pqL6) | 3:23 | 2023-01-10 |  |
 | [Tired Minds](https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f) | [Voodoos](https://open.spotify.com/artist/5ya7iEj2gouDgi5aFiA1e8) | [Tired Minds](https://open.spotify.com/album/43Q8naoUbm8TNvGrM3ljFD) | 3:15 | 2023-01-10 |  |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 |  |

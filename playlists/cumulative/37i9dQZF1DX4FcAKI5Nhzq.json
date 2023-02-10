@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BIG Naughty",
+  "description": "Future K-Pop hits! Cover: HA SUNG WOON",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 218306,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
@@ -2439,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Close to You (feat. sunwoojunga)",
+      "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
+    },
+    {
+      "album": {
         "name": "CONTRAST",
         "url": "https://open.spotify.com/album/7ku0nYsGBPFkhwKp7RepI9"
       },
@@ -3478,7 +3500,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 214533,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy"
@@ -5430,7 +5452,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 127612,
       "name": "hug me tight",
       "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
@@ -6644,7 +6666,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 195453,
       "name": "LIT (Prod. Czaer)",
       "url": "https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A"
@@ -7282,6 +7304,24 @@
       "duration_ms": 208266,
       "name": "Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)",
       "url": "https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4"
+    },
+    {
+      "album": {
+        "name": "MAPSI",
+        "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "MAPSI",
+      "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
     },
     {
       "album": {
@@ -7958,6 +7998,24 @@
       "duration_ms": 178346,
       "name": "Nerdy",
       "url": "https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Never Let Me Go (Korean Ver.)",
+      "url": "https://open.spotify.com/track/53qhnJwezZdvrH2wyaG8hb"
     },
     {
       "album": {
@@ -9112,7 +9170,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 222560,
       "name": "PRESENT",
       "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
@@ -10552,6 +10610,24 @@
       "duration_ms": 194520,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/782PCvZRZ6QZ1hAdYPZryr"
+    },
+    {
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "album": {
@@ -12076,6 +12152,24 @@
       "duration_ms": 176986,
       "name": "Trip",
       "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
+    },
+    {
+      "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
     },
     {
       "album": {

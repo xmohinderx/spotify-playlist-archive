@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Real Friends",
+  "description": "The best new music from the wide world of punk. Cover: Sleaford Mods",
   "name": "All New Punk",
   "tracks": [
+    {
+      "album": {
+        "name": "'Til The Anarchy's Restored",
+        "url": "https://open.spotify.com/album/6opDgChO1nua01o7vpuRtC"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258285,
+      "name": "'Til The Anarchy's Restored",
+      "url": "https://open.spotify.com/track/10BhlGuRTi9g9TGESFaxcJ"
+    },
     {
       "album": {
         "name": "0151",
@@ -708,6 +726,24 @@
       "duration_ms": 199466,
       "name": "American Futbol",
       "url": "https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ"
+    },
+    {
+      "album": {
+        "name": "Endocannibalismo",
+        "url": "https://open.spotify.com/album/2ITfAjW0n3Cb0uSnzcl0eT"
+      },
+      "artists": [
+        {
+          "name": "Stormo",
+          "url": "https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "Anabasi",
+      "url": "https://open.spotify.com/track/21FxtfCTHXNc01B7Ep4tQv"
     },
     {
       "album": {
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 202624,
       "name": "BURN THE WITCH",
       "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
@@ -2573,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Coca-Cobra",
+        "url": "https://open.spotify.com/album/5zawlDPDHpIgczwLwWkkRM"
+      },
+      "artists": [
+        {
+          "name": "Svetlanas",
+          "url": "https://open.spotify.com/artist/5Fe1EofQMZ9XilaYmSAKHr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225550,
+      "name": "Coca-Cobra",
+      "url": "https://open.spotify.com/track/2NCEWkFbQzoSoX89j2TKzo"
+    },
+    {
+      "album": {
         "name": "Continuing Growth",
         "url": "https://open.spotify.com/album/7Lcaez86rvpfhWqHUY9fxX"
       },
@@ -2876,6 +2930,24 @@
       "duration_ms": 143597,
       "name": "Crybaby (On the Phone)",
       "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+    },
+    {
+      "album": {
+        "name": "Crystallized",
+        "url": "https://open.spotify.com/album/5VdgnE1P8ehKnn8JpErxGO"
+      },
+      "artists": [
+        {
+          "name": "Samiam",
+          "url": "https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Crystallized",
+      "url": "https://open.spotify.com/track/0oT7cDKEjVGltb1SiibTYO"
     },
     {
       "album": {
@@ -3429,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Appetizer",
+        "url": "https://open.spotify.com/album/7ck067A2SlwQ1XdWP0asrt"
+      },
+      "artists": [
+        {
+          "name": "Bikini Beach",
+          "url": "https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1loBpAh0HuDdKW5EbMT61V"
+    },
+    {
+      "album": {
         "name": "Destroy the World",
         "url": "https://open.spotify.com/album/1MVpiXHpKjEZ9OSbT9AkBM"
       },
@@ -3596,6 +3686,28 @@
       "duration_ms": 199769,
       "name": "distant",
       "url": "https://open.spotify.com/track/1PMcI53mpC5P0FVgSyqvgv"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
     },
     {
       "album": {
@@ -4542,6 +4654,24 @@
       "duration_ms": 243410,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/52TEZQ5bTDa5qhnHD0hLQb"
+    },
+    {
+      "album": {
+        "name": "Force 10 From Navarone",
+        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204895,
+      "name": "Force 10 From Navarone",
+      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "album": {
@@ -6259,6 +6389,24 @@
     },
     {
       "album": {
+        "name": "I Love Myself",
+        "url": "https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145478,
+      "name": "I Love Myself",
+      "url": "https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk"
+    },
+    {
+      "album": {
         "name": "I Raise You (The Price of Your Head)",
         "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
       },
@@ -6331,6 +6479,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD"
+      },
+      "artists": [
+        {
+          "name": "Fucked Up",
+          "url": "https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197819,
+      "name": "I Think I Might Be Weird",
+      "url": "https://open.spotify.com/track/36iHfsPrF4D3pcZJQfXeya"
+    },
+    {
+      "album": {
         "name": "I Think I Might Be Weird",
         "url": "https://open.spotify.com/album/720MWelFChw2pOuBZRgA5Q"
       },
@@ -6342,10 +6508,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 197819,
       "name": "I Think I Might Be Weird",
       "url": "https://open.spotify.com/track/39VxDylYw5rh4n4pDDZgZ0"
+    },
+    {
+      "album": {
+        "name": "I Think I'm in Love",
+        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "I Think I'm in Love",
+      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
     },
     {
       "album": {
@@ -9255,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "Nowhere, Ohio",
+        "url": "https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Nowhere, Ohio",
+      "url": "https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1"
+    },
+    {
+      "album": {
         "name": "NOWT",
         "url": "https://open.spotify.com/album/0BBZcMJGlvsO6NWTTR3Ygl"
       },
@@ -9650,6 +9852,24 @@
       "duration_ms": 196500,
       "name": "Open up My Head",
       "url": "https://open.spotify.com/track/1dXx1NLFcQBCPoGAUNhKTU"
+    },
+    {
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "album": {
@@ -12075,6 +12295,24 @@
     },
     {
       "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/3cxcvmp9UQMM34ycBcTjEN"
+      },
+      "artists": [
+        {
+          "name": "Sessions",
+          "url": "https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234622,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/4aRPf78GfwGoERWOtdO0mO"
+    },
+    {
+      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/3fBe9cbGMGY12wSXTT4qQQ"
       },
@@ -12180,6 +12418,24 @@
       "duration_ms": 158393,
       "name": "Spit It Out",
       "url": "https://open.spotify.com/track/5o8DTXHIC8OZBBBtHpoQvt"
+    },
+    {
+      "album": {
+        "name": "Sports Day",
+        "url": "https://open.spotify.com/album/3OagvOIiDZazspiiEdHs1o"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226184,
+      "name": "Sports Day",
+      "url": "https://open.spotify.com/track/2XnX7KvRqP7fnvfLTSpAuX"
     },
     {
       "album": {
@@ -12646,6 +12902,24 @@
       "duration_ms": 133567,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI"
+    },
+    {
+      "album": {
+        "name": "Swing (In A Dream)",
+        "url": "https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269015,
+      "name": "Swing (In A Dream)",
+      "url": "https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2"
     },
     {
       "album": {
@@ -13549,6 +13823,24 @@
     },
     {
       "album": {
+        "name": "The Voice In My Head",
+        "url": "https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118922,
+      "name": "The Voice In My Head",
+      "url": "https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B"
+    },
+    {
+      "album": {
         "name": "Worst Weekend Ever",
         "url": "https://open.spotify.com/album/3VZqXdo7YxzZCCP6tNP9Mo"
       },
@@ -13600,6 +13892,24 @@
       "duration_ms": 166022,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/5h0mGckYgpxxLozsbbP4bH"
+      },
+      "artists": [
+        {
+          "name": "moshimoshi",
+          "url": "https://open.spotify.com/artist/1Cj1ikpwDx35BF6js8tR3p"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4S2EUbyTv5NMCnRYzAxdya"
     },
     {
       "album": {

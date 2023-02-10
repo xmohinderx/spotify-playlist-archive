@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,441 likes - 352 songs - 17 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,325 likes - 352 songs - 17 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 9 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
 | 10 | [Evanescenza](https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:55 |
 | 11 | [Meteor 5](https://open.spotify.com/track/4x6vhZrC3BNxMtYYb0xa7z) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Story Teller](https://open.spotify.com/album/1CI6TJiLlOC0sbWE5xEIBU) | 2:55 |
-| 12 | [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 |
-| 13 | [Remoteness](https://open.spotify.com/track/6dqHEnPLdVZb5Snm7tGjBZ) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Remoteness](https://open.spotify.com/album/7sqCUhzfBBaI0TtIS77C9G) | 2:55 |
-| 14 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 |
-| 15 | [Moondown](https://open.spotify.com/track/4ezAcgXr3UiaHccxZg08cV) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Moondown](https://open.spotify.com/album/0cSTLGKYpNuzgdDMPez2Yt) | 2:55 |
-| 16 | [Terdiam](https://open.spotify.com/track/2j1IXyTxl3Qhu8orYsj5LP) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Terdiam](https://open.spotify.com/album/1vb8fI3ouZ09XNPv0XW8wM) | 2:22 |
-| 17 | [Harmony](https://open.spotify.com/track/1BDeMV08uNUpETmWGTfQFw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Harmony](https://open.spotify.com/album/03jsme3lLmwGjMm6fbSpzb) | 3:00 |
-| 18 | [Alpha Dreams](https://open.spotify.com/track/3MDDGJM0bnteDQY4vQjxQ5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Alpha Dreams](https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P) | 2:54 |
-| 19 | [Ultraviolet Dream](https://open.spotify.com/track/2RvWqqueP3Qfwqn0s3dWCI) | [Pax Magnolia](https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U) | [Ultraviolet Dream](https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo) | 2:45 |
-| 20 | [Once Again](https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Once Again](https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe) | 3:33 |
-| 21 | [Morning Shimmer](https://open.spotify.com/track/3dvvEgqegvTP8lcPzoGn9N) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Morning Shimmer](https://open.spotify.com/album/1m9g7L2W42FiDXgtXUiQIa) | 2:55 |
-| 22 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 |
-| 23 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 |
+| 12 | [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 |
+| 13 | [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 |
+| 14 | [Remoteness](https://open.spotify.com/track/6dqHEnPLdVZb5Snm7tGjBZ) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Remoteness](https://open.spotify.com/album/7sqCUhzfBBaI0TtIS77C9G) | 2:55 |
+| 15 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 |
+| 16 | [Moondown](https://open.spotify.com/track/4ezAcgXr3UiaHccxZg08cV) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Moondown](https://open.spotify.com/album/0cSTLGKYpNuzgdDMPez2Yt) | 2:55 |
+| 17 | [Terdiam](https://open.spotify.com/track/2j1IXyTxl3Qhu8orYsj5LP) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Terdiam](https://open.spotify.com/album/1vb8fI3ouZ09XNPv0XW8wM) | 2:22 |
+| 18 | [Harmony](https://open.spotify.com/track/1BDeMV08uNUpETmWGTfQFw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Harmony](https://open.spotify.com/album/03jsme3lLmwGjMm6fbSpzb) | 3:00 |
+| 19 | [Alpha Dreams](https://open.spotify.com/track/3MDDGJM0bnteDQY4vQjxQ5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Alpha Dreams](https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P) | 2:54 |
+| 20 | [Ultraviolet Dream](https://open.spotify.com/track/2RvWqqueP3Qfwqn0s3dWCI) | [Pax Magnolia](https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U) | [Ultraviolet Dream](https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo) | 2:45 |
+| 21 | [Once Again](https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Once Again](https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe) | 3:33 |
+| 22 | [Morning Shimmer](https://open.spotify.com/track/3dvvEgqegvTP8lcPzoGn9N) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Morning Shimmer](https://open.spotify.com/album/1m9g7L2W42FiDXgtXUiQIa) | 2:55 |
+| 23 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 |
 | 24 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 |
 | 25 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 |
 | 26 | [Zweck](https://open.spotify.com/track/4izTO69HJBi2zPaOGMc75S) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Zweck](https://open.spotify.com/album/4bHRH3ucZjXAQbZfqes4rj) | 2:52 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 351 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 |
 | 352 | [Magnetic View](https://open.spotify.com/track/6ZF8463e4x5adudYv6VPMp) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Delta Dreams](https://open.spotify.com/album/7FNZSjLNWtEFWfv7FJkaQf) | 3:37 |
 
-Snapshot ID: `MTY3NTQ0MjQ4NiwwMDAwMDAwMDA4ODkyYzExMjMxM2E4NDE3OGE4NzQ4NzdhMDUxZTU4`
+Snapshot ID: `MTY3NTk2MTYxNCwwMDAwMDAwMGNhMGI4MjA4ZmIzYjY1NTdjYWU5MWY0ODBiZDk0ZmM4`

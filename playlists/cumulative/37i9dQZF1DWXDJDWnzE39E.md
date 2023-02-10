@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-251 songs - 16 hr 30 min
+252 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [I Don't Know You](https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd) | 3:41 | 2020-12-07\* | 2022-07-29 |
 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 | 2022-03-11 |  |
 | [I Love Myself For Hating You](https://open.spotify.com/track/10Qt5VgwKIRXK7hZSu9pmX) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [I Love Myself For Hating You](https://open.spotify.com/album/5RuAoYEfSDHtCGOaf28LUB) | 3:03 | 2020-12-07\* | 2022-07-24 |
+| [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-03 |  |
 | [Illuminate](https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Illuminate](https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J) | 4:09 | 2020-12-07\* | 2022-07-28 |
 | [Illusionist](https://open.spotify.com/track/0ntFhFYgGoRTvQsa6qEaUC) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Illusionist](https://open.spotify.com/album/2Uubui4aJ9UG6x5V7R8W1b) | 3:10 | 2020-12-07\* | 2022-07-29 |
 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 | 2021-10-11 | 2021-10-16 |
@@ -142,7 +143,7 @@
 | [Mark Of The Grave](https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering](https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6) | 4:23 | 2022-03-11 | 2022-11-19 |
 | [Mark Of The Grave](https://open.spotify.com/track/53GhI8xreQ3oPRC2Ly5X35) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Mark Of The Grave](https://open.spotify.com/album/2tqiux2PEvRPgiPo1R94KV) | 4:23 | 2021-08-24 | 2022-07-25 |
 | [Masters Of Destiny](https://open.spotify.com/track/7DnrGaloG6hmLPrvePhH0L) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Masters Of Destiny](https://open.spotify.com/album/6FsDilyRf5xsIRMbtyqEfE) | 4:54 | 2020-12-07\* | 2021-02-06 |
-| [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-11 |  |
+| [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-11 | 2023-02-10 |
 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 | 2020-12-07\* | 2022-07-29 |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2020-12-07\* | 2022-07-29 |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 |  |

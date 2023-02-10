@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 221373,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7oHymG8r14Iv9zn5hFTNax"
@@ -4444,6 +4444,24 @@
       "duration_ms": 284640,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/3jaUZhLiZOcgoJiGGd3hFD"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284903,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
     },
     {
       "album": {

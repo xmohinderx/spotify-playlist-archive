@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz"
+    },
+    {
+      "album": {
         "name": "I Love The Drive",
         "url": "https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF"
       },
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 206662,
       "name": "Visionary",
       "url": "https://open.spotify.com/track/1JXAauW28NaabFzWBucAJk"

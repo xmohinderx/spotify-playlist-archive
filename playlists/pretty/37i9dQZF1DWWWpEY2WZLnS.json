@@ -1,12 +1,12 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: El Alfa, Rochy RD",
-  "num_followers": 326848,
+  "num_followers": 327000,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkwMDgwNiwwMDAwMDAwMDg3NzdmZjg3YzdmYWZlODU5MjJhNjY1MTIyZDRiMjc2",
+  "snapshot_id": "MTY3NTkwMDgwNiwwMDAwMDAwMDBhYTJjYjA3NGJmOTRhZDIyYWNkNTQ2NTMxMGExN2U5",
   "tracks": [
     {
       "added_at": "2023-02-09 00:00:06",
@@ -759,18 +759,30 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+        "name": "Los Chingones",
+        "url": "https://open.spotify.com/album/1pjdpYJl4xIOlBkM3hRV1e"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "El Mega",
+          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
+        },
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        },
+        {
+          "name": "Dj Kass",
+          "url": "https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4"
+        },
+        {
+          "name": "Eleven One",
+          "url": "https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR"
         }
       ],
-      "duration_ms": 219402,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
+      "duration_ms": 207150,
+      "name": "Los Chingones",
+      "url": "https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -823,30 +835,18 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Los Chingones",
-        "url": "https://open.spotify.com/album/1pjdpYJl4xIOlBkM3hRV1e"
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
       },
       "artists": [
         {
-          "name": "El Mega",
-          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
-        },
-        {
-          "name": "Don Forty Five",
-          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
-        },
-        {
-          "name": "Dj Kass",
-          "url": "https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4"
-        },
-        {
-          "name": "Eleven One",
-          "url": "https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Los Chingones",
-      "url": "https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b"
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -931,6 +931,30 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Esta Si",
+        "url": "https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Esta Si",
+      "url": "https://open.spotify.com/track/2xjd6t95oEuxTn9vjWkC0n"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Lokisla",
         "url": "https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Esta Si",
-        "url": "https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        },
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Esta Si",
-      "url": "https://open.spotify.com/track/2xjd6t95oEuxTn9vjWkC0n"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1335,38 +1335,26 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Totola",
-        "url": "https://open.spotify.com/album/3yQoqF708rUa8sY5fzLcJ7"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
       },
       "artists": [
         {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Totola",
-      "url": "https://open.spotify.com/track/01obeUENTIoIHFo3bbzUQ7"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "De Manhattan Pa El Bronx",
-        "url": "https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75"
-      },
-      "artists": [
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
         },
         {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
-      "duration_ms": 168418,
-      "name": "De Manhattan Pa El Bronx",
-      "url": "https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4"
+      "duration_ms": 180048,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1395,26 +1383,38 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
+        "name": "De Manhattan Pa El Bronx",
+        "url": "https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75"
       },
       "artists": [
         {
-          "name": "Harryson",
-          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
         },
         {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
         }
       ],
-      "duration_ms": 180048,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
+      "duration_ms": 168418,
+      "name": "De Manhattan Pa El Bronx",
+      "url": "https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Totola",
+        "url": "https://open.spotify.com/album/3yQoqF708rUa8sY5fzLcJ7"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Totola",
+      "url": "https://open.spotify.com/track/01obeUENTIoIHFo3bbzUQ7"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/2JXJ6OFAbYksVKJo5kTkpc"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "EL PERROTE WZ",
+          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/6QTj6gcfI98TUKMK66ku4C"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
         "name": "Eto No Se Sabe Donde Vayas A Parar",
         "url": "https://open.spotify.com/album/6FhcKrdFn09jryQcYvk3hT"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 133347,
       "name": "Discoteca Party",
       "url": "https://open.spotify.com/track/49EiV7BPsFHx2kjRqDBBn2"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/2JXJ6OFAbYksVKJo5kTkpc"
-      },
-      "artists": [
-        {
-          "name": "Wander Love",
-          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
-        },
-        {
-          "name": "EL PERROTE WZ",
-          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/6QTj6gcfI98TUKMK66ku4C"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "Always Dream",
-        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
-      },
-      "artists": [
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 169253,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Baje Con Trenza (Remix)",
         "url": "https://open.spotify.com/album/76q0xgvBOP2O2MZnHy28Vm"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 207804,
       "name": "Baje Con Trenza - Remix",
       "url": "https://open.spotify.com/track/16mjWUaQ4MjErG3LiD4jlD"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "Always Dream",
+        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3"
     },
     {
       "added_at": "2023-02-09 00:00:06",
@@ -3663,22 +3663,6 @@
     {
       "added_at": "2023-02-09 00:00:06",
       "album": {
-        "name": "La 70",
-        "url": "https://open.spotify.com/album/6IVRjLAXXrAZPnH57TomKC"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 150921,
-      "name": "La 70",
-      "url": "https://open.spotify.com/track/2RNixswwiNxaNvL7FgUuYU"
-    },
-    {
-      "added_at": "2023-02-09 00:00:06",
-      "album": {
         "name": "Dame de Eso",
         "url": "https://open.spotify.com/album/3XQnar1V8lDDEFaphE2flD"
       },
@@ -3695,6 +3679,22 @@
       "duration_ms": 168019,
       "name": "Dame de Eso",
       "url": "https://open.spotify.com/track/3T5ekpq47NVNEaCIIGc9Co"
+    },
+    {
+      "added_at": "2023-02-09 00:00:06",
+      "album": {
+        "name": "La 70",
+        "url": "https://open.spotify.com/album/6IVRjLAXXrAZPnH57TomKC"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "duration_ms": 150921,
+      "name": "La 70",
+      "url": "https://open.spotify.com/track/2RNixswwiNxaNvL7FgUuYU"
     },
     {
       "added_at": "2023-02-09 00:00:06",

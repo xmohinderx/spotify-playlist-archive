@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-559 songs - 2 day 1 hr 9 min
+561 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Emergence](https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 8:24 | 2021-10-20 |  |
 | [Emerging from the Depths](https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Lost in Elastic Time](https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh) | 10:38 | 2021-10-20 | 2022-07-29 |
 | [Enchanted Dreams](https://open.spotify.com/track/1CYtN9f8AgIbQpCbzCnMRq) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Enchanted Dreams](https://open.spotify.com/album/0F4QtzeSMQlDquo7Gmp2B3) | 3:17 | 2021-10-20 | 2022-10-01 |
-| [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 |  |
+| [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 | 2023-02-10 |
 | [Episodes](https://open.spotify.com/track/2Yk3u2Hqr4VvUy7ERCwha4) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:01 | 2021-10-20 | 2022-07-29 |
 | [Escalation : Part I](https://open.spotify.com/track/6UFcyZyiznyK5opjpJXG7n) | [L8ER](https://open.spotify.com/artist/0UQ7wrLnus9Ypwyt9174zS) | [Escalation : Part I](https://open.spotify.com/album/6MzbeU9ItSlG4BZbyF4ltD) | 3:19 | 2021-10-20 | 2022-05-20 |
 | [Escape Pod](https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5) | [тпсб](https://open.spotify.com/artist/3Az7iIfwbhNRg8nB6cep4k) | [Laika's Revenge](https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD) | 9:11 | 2021-10-20 | 2022-04-21 |
@@ -196,7 +196,7 @@
 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 |  |
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-20 |  |
 | [First Snow](https://open.spotify.com/track/2tlkgeydIqJnYpXleB9b3i) | [Ripperton](https://open.spotify.com/artist/3fdTyhMVXu3X3zErrj0sNm) | [Contrails](https://open.spotify.com/album/6GafgizmMcSo2OLpOZyz7g) | 5:33 | 2021-10-20 | 2022-07-29 |
-| [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains, Vol\. 1](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-20 |  |
+| [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains, Vol\. 1](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-20 | 2023-02-10 |
 | [Floating, Floating](https://open.spotify.com/track/2FcAtBp8X5Du0uumXpCYGD) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Transfixed](https://open.spotify.com/album/0l7IEfGozsxpUPkBp6wcnh) | 2:00 | 2021-10-20 | 2022-04-19 |
 | [Floating, Floating](https://open.spotify.com/track/6rKP1ZxtPlvnPTlwTr7LRC) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Transfixed](https://open.spotify.com/album/4yww9cxySV4Fpy4VdGqq2y) | 2:00 | 2021-10-20 |  |
 | [Flowered Knife Shadows](https://open.spotify.com/track/11WFSZWpWVd85FzOi1EMil) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 7:14 | 2021-10-20 | 2022-05-20 |
@@ -564,7 +564,9 @@
 | [Yellow Calcite](https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Gold Fiction Loop Garden](https://open.spotify.com/album/1xuprH46uojeEL4YAPx6YG) | 2:30 | 2021-10-20 |  |
 | [You never were](https://open.spotify.com/track/4MDWooXKrn5t77I48DfIEc) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 8:30 | 2021-10-20 | 2022-04-21 |
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2021-10-20 | 2023-02-03 |
+| [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-20 |  |
 | [yyyyyy2222](https://open.spotify.com/track/6qNgUxNscSCV4Oqvo5Eo8T) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 5:30 | 2021-10-20 | 2023-02-05 |
+| [Zamami](https://open.spotify.com/track/07amsNouNxKqPdFWc1C0jF) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Double Figure](https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB) | 4:05 | 2021-10-20 |  |
 | [Zamami](https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:05 | 2021-10-20 | 2023-02-02 |
 | [¡Viva la Fiesta! \(Himno de una Patria Subterránea\)](https://open.spotify.com/track/52phoGkXGRiITMR52awL2U) | [Ezmeralda](https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA) | [Patrimonio Inmaterial de la Nada](https://open.spotify.com/album/1z7yS6GTqHKqG8cKDDMTGQ) | 5:06 | 2021-10-20 | 2022-07-28 |
 

@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "AP",
+        "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "AP",
+      "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
+    },
+    {
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 243706,
       "name": "Flight Away",
       "url": "https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58"
@@ -985,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Los Negritos II",
+        "url": "https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ"
+      },
+      "artists": [
+        {
+          "name": "RK wavy",
+          "url": "https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r"
+        },
+        {
+          "name": "Yung Iverson",
+          "url": "https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux"
+        },
+        {
+          "name": "Oliver Outc",
+          "url": "https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Los Negritos II",
+      "url": "https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1"
+    },
+    {
+      "album": {
         "name": "Ma' G",
         "url": "https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe"
       },
@@ -1342,7 +1386,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 180035,
       "name": "puta otaku",
       "url": "https://open.spotify.com/track/5UZakxsgKAzTTFCNFDbisw"

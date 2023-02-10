@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Matebkich & Madanit Netfarko",
+        "url": "https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Matebkich & Madanit Netfarko",
+      "url": "https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI"
+    },
+    {
+      "album": {
         "name": "Matesem7ech Fi 3ach9ek",
         "url": "https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 312267,
       "name": "Nebki 3la Teswirtek",
       "url": "https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd"

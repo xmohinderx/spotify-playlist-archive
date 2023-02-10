@@ -4,10 +4,11 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-269 songs - 15 hr 47 min
+269 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 0:00 | 2020-12-11 |  |
 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 |  |
 | [A Taste of Silver](https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06) | 3:02 | 2022-10-07 | 2022-11-13 |
@@ -208,7 +209,6 @@
 | [Shadow of Your Love](https://open.spotify.com/track/6SgKK2Lj3kMcX2tqLqJxkP) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Cut Glass Kings](https://open.spotify.com/album/6MH4k3SBJoW4NfaAV03DRD) | 2:35 | 2022-10-07 |  |
 | [Shadow of Your Love](https://open.spotify.com/track/1YCxiooVRFlMwIhbAhapkE) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/1fbixj23On0ICt9AdM0zsN) | 2:36 | 2020-12-11 | 2022-07-29 |
 | [Shadow of Your Love](https://open.spotify.com/track/1noSh84nZafwMYvM49ffVd) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/3dAIbF5s2SBg6Bahdm9ceb) | 2:36 | 2022-10-07 | 2022-11-13 |
-| [Shakin' Off The Rust](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Shakin' Off The Rust](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 3:42 | 2020-12-11 |  |
 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 | 2020-12-11 |  |
 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 | 2020-12-11 |  |
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2021-04-01 |  |

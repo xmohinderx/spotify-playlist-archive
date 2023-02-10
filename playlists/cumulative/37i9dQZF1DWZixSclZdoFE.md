@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-419 songs - 1 day 0 hr 43 min
+420 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [No Stylist \(feat\. Drake\)](https://open.spotify.com/track/04MLEeAMuV9IlHEsD8vF6A) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Stylist](https://open.spotify.com/album/0DMvfJWc1DjSbmnJF1NW1o) | 3:12 | 2021-12-17 | 2022-04-18 |
 | [No Worries](https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Detail](https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:42 | 2022-02-22 | 2022-04-21 |
 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 | 2021-12-17 |  |
+| [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 | 2023-02-01 |  |
 | [Old English](https://open.spotify.com/track/56X1fzloIoGKKOgpLLIGoe) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Old English](https://open.spotify.com/album/7BBgL3XRZ18PWi1v8qs15I) | 3:21 | 2022-01-18 | 2022-01-20 |
 | [Old News](https://open.spotify.com/track/0dSK5SLHr9S9vbD6P1YLbU) | [Jody](https://open.spotify.com/artist/5MgD9TR3HkFylnaZULDGAQ) | [Old News](https://open.spotify.com/album/7GFt6Qu9vxzgEG8nHF2eio) | 2:38 | 2022-04-08 | 2022-04-21 |
 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 | 2022-04-14 | 2022-04-20 |
@@ -408,7 +409,7 @@
 | [When I Grow Up](https://open.spotify.com/track/5rLyYxZNzca00ENADO9m54) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 3:16 | 2022-07-08 |  |
 | [Where Ya At \(feat\. Drake\)](https://open.spotify.com/track/5nN8BwAQDJDguq7Dpd3JQQ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:28 | 2022-03-15 | 2022-04-20 |
 | [Who Do You Love?](https://open.spotify.com/track/1uDjaezEbalGyGnuH80zDK) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life \(Deluxe\)](https://open.spotify.com/album/4F6GGyqtJoF4EOxDgsKzsB) | 3:53 | 2022-01-18 | 2022-04-06 |
-| [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 | 2022-10-26 |  |
+| [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 | 2022-10-26 | 2023-02-10 |
 | [Why We Thugs](https://open.spotify.com/track/5ngSGTy4Tw8cIBCMeIgoc9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/359nWuHm9IGYkdTm5Xlr72) | 3:44 | 2021-12-17 | 2022-04-21 |
 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 2:42 | 2021-12-17 | 2022-01-02 |
 | [Wild Boy](https://open.spotify.com/track/7vicvhgtH7AwJHYGksV5C7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Lace Up](https://open.spotify.com/album/3A9kcRzKS8zQtbQ0JwksuS) | 3:51 | 2022-03-15 | 2022-04-21 |

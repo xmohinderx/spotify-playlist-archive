@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Arayashiki",
+      "url": "https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7"
+    },
+    {
+      "album": {
         "name": "Arch",
         "url": "https://open.spotify.com/album/3ciBE6IkZerQqNGdHQmMuP"
       },
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 130421,
       "name": "CHOP SUMMER",
       "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
@@ -3524,6 +3542,24 @@
       "duration_ms": 160256,
       "name": "Green Hill",
       "url": "https://open.spotify.com/track/749WKwZM8qrjLeMxDahCn1"
+    },
+    {
+      "album": {
+        "name": "Green Hour",
+        "url": "https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151321,
+      "name": "Green Hour",
+      "url": "https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0"
     },
     {
       "album": {
@@ -7571,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "album": {
         "name": "Yaboy Vs One-Verse Instrumental",
         "url": "https://open.spotify.com/album/3OZOr2VHTCPTm1LTZCORYu"
       },
@@ -8732,7 +8786,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -10384,7 +10438,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"

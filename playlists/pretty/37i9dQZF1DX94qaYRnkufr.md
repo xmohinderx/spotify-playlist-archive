@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,298 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,394 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 63 | [Spotless](https://open.spotify.com/track/0HT6YGHjXKNvnTjGGtur3j) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:15 |
 | 64 | [Access](https://open.spotify.com/track/4cBSVGEHvZCPGKq2UnB26P) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:15 |
 | 65 | [Break Through The Silence \- Radio Edit](https://open.spotify.com/track/2eotSKVADMMV6qaY15qDOd) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Break Through The Silence EP](https://open.spotify.com/album/5LntuNK1jvjyn9or76TNQ9) | 3:24 |
-| 66 | [Turn up the Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
+| 66 | [Turn up the Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
 | 67 | [Dragon \- Radio Edit](https://open.spotify.com/track/13yeSbqDD7JSd7EWMOATV1) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Break Through The Silence EP](https://open.spotify.com/album/5LntuNK1jvjyn9or76TNQ9) | 3:16 |
 | 68 | [Can't Feel My Face \- Martin Garrix Remix](https://open.spotify.com/track/22SXyL6pUjwIvGWvgGjLov) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Can't Feel My Face \(Martin Garrix Remix\)](https://open.spotify.com/album/12yYl13Ce7u8LuhtEl75aQ) | 4:12 |
 | 69 | [Happy](https://open.spotify.com/track/4a44Q09IDiwTP2wu7xYmeA) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Happy](https://open.spotify.com/album/1VztFkixxU9hwzzoGxYV7i) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,788 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,808 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 101 | [인생극장\-B형](https://open.spotify.com/track/4WrlrerS2BJ5xNrZOW0FXu) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [REMAKE & MIX No\. 18](https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa) | 3:07 |
 | 102 | [내 세상](https://open.spotify.com/track/1s00ylTPijmJAAWCtXz3yM) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [대물 Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/6cBUK5AI8KxyAgqgKvCmkZ) | 3:17 |
 | 103 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Explicit Version\)](https://open.spotify.com/track/2DTGiVlsMRLRsSexzGtXVz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:25 |
-| 104 | [Gangnam Style \(강남스타일\) \- Afrojack Remix](https://open.spotify.com/track/7nb1X32kkXWkkilN4eS5So) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 6:05 |
+| 104 | [Gangnam Style \(강남스타일\) \- Afrojack Remix](https://open.spotify.com/track/7nb1X32kkXWkkilN4eS5So) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 6:05 |
 | 105 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Instrumental\)](https://open.spotify.com/track/627xBFaO4u6mgNkYakPYfG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:27 |
 | 106 | [Gangnam Style \(강남스타일\) \- Instrumental](https://open.spotify.com/track/7cuBwxBkmy3njuq50Df9x8) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:40 |
 

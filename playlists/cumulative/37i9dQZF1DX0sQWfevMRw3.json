@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "ALICE P\u00c5 EFTERFEST",
+        "url": "https://open.spotify.com/album/6Ju6Hsiuu6bmGRLvpVT3nu"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107708,
+      "name": "ALICE P\u00c5 EFTERFEST",
+      "url": "https://open.spotify.com/track/0x5yiFvnq40yzSsyau58an"
+    },
+    {
+      "album": {
         "name": "All the Small Things",
         "url": "https://open.spotify.com/album/5yAri6Q7WTGKI9g7zIdDQP"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 135360,
       "name": "Bara Bounce",
       "url": "https://open.spotify.com/track/7qWkqFNGrbLYBaUXcIwM8d"
@@ -2463,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "EN STARK\u00d6L I STOCKHOLM \u00c4R BARA EN L\u00c4TT\u00d6L I GRUMS (EPA Remix)",
+        "url": "https://open.spotify.com/album/7KHMzXokB6HkmUBI6qQGz8"
+      },
+      "artists": [
+        {
+          "name": "Transfer",
+          "url": "https://open.spotify.com/artist/6ZSb0PecuZ2Xfbk9qTZGHB"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "EN STARK\u00d6L I STOCKHOLM \u00c4R BARA EN L\u00c4TT\u00d6L I GRUMS - EPA Remix",
+      "url": "https://open.spotify.com/track/2m73OQw9TajGLh2aXh416Z"
+    },
+    {
+      "album": {
         "name": "En till sup",
         "url": "https://open.spotify.com/album/0eWlU3rJ4YMhcf3DPnBMss"
       },
@@ -4120,6 +4156,24 @@
       "duration_ms": 181120,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/1E08Ym6iYOonl5L107Eh5X"
+    },
+    {
+      "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/1Xz7fND55mPZAG5NdAR2ox"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151818,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/5owoMwVuyM1w1qk1NHTTJR"
     },
     {
       "album": {
@@ -8074,7 +8128,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 117691,
       "name": "SIMPER ALLTID F\u00d6R DIG",
       "url": "https://open.spotify.com/track/2FQpk0L3AUMuT53j5x3GDC"
@@ -8166,7 +8220,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 104347,
       "name": "SKJ\u00d8NTE DU",
       "url": "https://open.spotify.com/track/3tDU9jyoHosO3qlE5ryc0Y"
@@ -10106,10 +10160,28 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 159375,
       "name": "Va Sa 'Ru (Russin P\u00e5 Russin Av)",
       "url": "https://open.spotify.com/track/3kP9KGpyBWmss1vKg5riIa"
+    },
+    {
+      "album": {
+        "name": "Valentin",
+        "url": "https://open.spotify.com/album/2z1tSdzMj1Kab0qhvpY69b"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156001,
+      "name": "Valentin",
+      "url": "https://open.spotify.com/track/35smGGBL1lAAtNtYsLIjNC"
     },
     {
       "album": {
@@ -10926,7 +10998,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 147340,
       "name": "\u00d6NSKAR MIG EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/1zUtKOYFyH3Tbob1UDROX9"

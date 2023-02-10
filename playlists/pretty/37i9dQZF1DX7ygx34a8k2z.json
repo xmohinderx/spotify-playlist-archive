@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 110025,
+  "num_followers": 110253,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDhkN2M4YTk4YTNhOGMxMjI0ZjZiMDdiODcxMjk4ZDZh",
+  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDZiZDA2ZTQyODc2OTdhYTU2MjIyOGIxZDRmNzAyN2Uw",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Only Happy When It Rains",
-      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 319970,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 319970,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
         }
       ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+      "duration_ms": 143400,
+      "name": "Heroin Girl",
+      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1323,22 +1323,6 @@
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Heroin Girl",
-      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1375,22 +1359,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Fizzy Fuzzy Big & Buzzy",
-        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
-      },
-      "artists": [
-        {
-          "name": "The Refreshments",
-          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Banditos",
-      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Beautiful Freak",
         "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
@@ -1403,6 +1371,22 @@
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1615,6 +1599,22 @@
       "duration_ms": 208000,
       "name": "Plainclothes Man",
       "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Breadcrumb Trail",
+      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
     }
   ],
   "unique_name": "Thrifted",

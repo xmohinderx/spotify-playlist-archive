@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Izabela Zabielska
 
-92 songs - 5 hr 29 min
+94 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 | 2022-06-01 |  |
 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 | 2022-06-01 |  |
 | [Pocałunek](https://open.spotify.com/track/141Jp2FUxUmyrE3Y5X9rZC) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Pocałunek](https://open.spotify.com/album/1sd80sFziTx0q58IozhGzR) | 3:30 | 2021-06-22 | 2022-06-01 |
-| [Pod Kapturem](https://open.spotify.com/track/6G1l68r9FYheCv5gAFpFDG) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/02e776XtxYIbk1viSjeDqr) | 1:36 | 2022-06-01 |  |
+| [Pod Kapturem](https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV) | 1:36 | 2023-01-24 |  |
+| [Pod Kapturem](https://open.spotify.com/track/6G1l68r9FYheCv5gAFpFDG) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/02e776XtxYIbk1viSjeDqr) | 1:36 | 2022-06-01 | 2023-02-10 |
 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 | 2023-01-24 |  |
 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 | 2022-06-17 |  |
 | [Pole widzenia](https://open.spotify.com/track/2KBI2VONoml1wM1ScD7KMN) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP), [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC) | [Pole widzenia](https://open.spotify.com/album/6bl1FEqOKPWvg6t51xmyP6) | 3:05 | 2021-06-22 | 2022-06-01 |
@@ -98,7 +99,8 @@
 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 | 2023-01-24 |  |
 | [You Don't Understand Me](https://open.spotify.com/track/3Re2nQkNd0r8xruQ2m6aiE) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [You Don't Understand Me](https://open.spotify.com/album/57Z2HxWEMKEMiq39wy1uTK) | 4:25 | 2022-06-01 | 2022-06-11 |
 | [zanim](https://open.spotify.com/track/0ZwMbR7nt66eB1WR0YcHa0) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [CISZA W BLOKU](https://open.spotify.com/album/0fIAR61jSqd4pjpWrsCRbb) | 5:34 | 2021-06-22 | 2022-06-01 |
-| [Zespół Cotarda](https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT) | 2:53 | 2022-06-01 |  |
+| [Zespół Cotarda](https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT) | 2:53 | 2022-06-01 | 2023-02-10 |
+| [Zespół Cotarda](https://open.spotify.com/track/4Rx8hrk2WIIu4mP73X8Ie0) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Zespół Cotarda](https://open.spotify.com/album/5UcgSVyRnjYU7pAbqwbbJZ) | 2:55 | 2023-01-24 |  |
 | [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-06-01 | 2022-06-11 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

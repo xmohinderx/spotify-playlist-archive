@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Sacky
+> Il meglio dell'R&B italiano\. Cover: Giorgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,544 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,550 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Soli Qui](https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Soli Qui](https://open.spotify.com/album/3qbYWZEtCkuxy5bKbb3tPA) | 2:16 |
 | 70 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 |
 
-Snapshot ID: `MTY3NTkwNDQ2MCwwMDAwMDAwMGIzYjMxNTk0ZWU3ODcxZTc4OGMzMDQ4YTY1ZjY4NGVj`
+Snapshot ID: `MTY3NTk4ODYzNywwMDAwMDAwMGRiMTRiNmZmMTcxMWIyYTAwYWM5ZGYzZmY2YjY4OGM2`

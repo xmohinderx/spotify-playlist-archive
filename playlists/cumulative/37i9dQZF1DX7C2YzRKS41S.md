@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-384 songs - 22 hr 48 min
+385 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-07-04 |  |
 | [Kids](https://open.spotify.com/track/3Dy8QVSgVB3qNw9Xtc2Jjw) | [Lady Danville](https://open.spotify.com/artist/4vzLZN7MD9TVnsLK7bR5oF) | [Kids \- Single](https://open.spotify.com/album/43dppTgh3gnnO5oFOspAyv) | 3:55 | 2022-03-25 | 2022-04-04 |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2022-03-25 | 2023-01-28 |
+| [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 | 2023-01-13 |  |
 | [Kudra \(feat\. Amora\)](https://open.spotify.com/track/3808CHJaPqPpBP2VCamiTN) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Amora](https://open.spotify.com/artist/5XluTD7tExrpBELm0mI5Lc) | [Kudra](https://open.spotify.com/album/4yfu7IM77tu5OTrayc7E3w) | 4:47 | 2021-12-24 | 2022-07-29 |
 | [Lariar](https://open.spotify.com/track/0QR8GS6CboYwlUV2RDAY2S) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Lariar](https://open.spotify.com/album/44DCGorkOrPtNXk47fAIOC) | 4:05 | 2021-12-24 | 2022-07-28 |
 | [Laços](https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Laços](https://open.spotify.com/album/51sijugqSA8tgMswbFjupX) | 4:00 | 2021-12-24 | 2022-07-29 |
@@ -303,7 +304,7 @@
 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 | 2022-03-25 | 2022-04-05 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-04 |  |
 | [Risco de Sol](https://open.spotify.com/track/3TV30AcAIHnZGCmlV1M4DJ) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Risco de Sol](https://open.spotify.com/album/6E4V4MB9FvOzHo0ZzyVVLq) | 3:23 | 2022-01-21 | 2022-04-07 |
-| [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 | 2022-03-25 |  |
+| [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 | 2022-03-25 | 2023-02-10 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2022-03-25 |  |
 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 | 2022-04-06 |  |
 | [Saudade](https://open.spotify.com/track/7FEbkkKqbYhzRwi4OeaQcH) | [Marcelo Archetti](https://open.spotify.com/artist/5PbJzWZJVlmAWfCNowFZkm) | [Saudade](https://open.spotify.com/album/2zibX1fS6sawMsvJdEmmKA) | 3:12 | 2021-12-24 | 2022-07-23 |

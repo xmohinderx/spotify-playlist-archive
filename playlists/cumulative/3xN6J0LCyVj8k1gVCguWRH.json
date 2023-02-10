@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "7 Pointed Leaf",
+        "url": "https://open.spotify.com/album/6zKVFUVCAp11mtjLUcnY6H"
+      },
+      "artists": [
+        {
+          "name": "Whitebear",
+          "url": "https://open.spotify.com/artist/6TMrqvGRpt61MHChwy4eL8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178518,
+      "name": "7 Pointed Leaf",
+      "url": "https://open.spotify.com/track/7ka1rqB8zPnFoPFInks1UL"
+    },
+    {
+      "album": {
         "name": "7AM",
         "url": "https://open.spotify.com/album/6aWYOrUckSKZG7qm0EtWGU"
       },
@@ -1137,6 +1155,28 @@
     },
     {
       "album": {
+        "name": "Agathi",
+        "url": "https://open.spotify.com/album/2cL7ZO9sDmRU8MpmVdrl9F"
+      },
+      "artists": [
+        {
+          "name": "Nrg",
+          "url": "https://open.spotify.com/artist/5iEKdAJZyc0lXgW3RUkn3T"
+        },
+        {
+          "name": "Sandie",
+          "url": "https://open.spotify.com/artist/5wcsGcDNilMgLLUsPBbiSg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208781,
+      "name": "Agathi",
+      "url": "https://open.spotify.com/track/3hOwICJtTgTzJODm66BIYL"
+    },
+    {
+      "album": {
         "name": "Age of Innocence",
         "url": "https://open.spotify.com/album/2xEvAe7GrlsVzoNGJXlD6x"
       },
@@ -1664,6 +1704,24 @@
       "duration_ms": 292493,
       "name": "Allure",
       "url": "https://open.spotify.com/track/6Sgm6qofFJPJG1A06mzDIb"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/70duQD09ZAsqGx4beTFCWo"
+      },
+      "artists": [
+        {
+          "name": "Breathe Daniel",
+          "url": "https://open.spotify.com/artist/2vSSYMvek0214taJTHlcHr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218940,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7CLoIXDg5b8SKyn4DKXzkx"
     },
     {
       "album": {
@@ -2648,6 +2706,24 @@
       "duration_ms": 238633,
       "name": "Baby Got Work - DJ Jazzy Jeff & Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/1vvVGGYx3vB2KJ6iAndTfy"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/7JeLJ8eNrsFuA38caxPLUa"
+      },
+      "artists": [
+        {
+          "name": "Colton Waters",
+          "url": "https://open.spotify.com/artist/1nzQtFIBtc7Zg4DTVMs1QH"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176355,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/6N3sXW2QJAvOxB527Sy0xO"
     },
     {
       "album": {
@@ -4677,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4SjEzj8IbG9y9i9sycSMLz"
+      },
+      "artists": [
+        {
+          "name": "Phantom Engine",
+          "url": "https://open.spotify.com/artist/1lNiYfgcI88IDxwjrQLpTb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/4KgwQd1KRNenZgHTRodIxu"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3irsbuhJ1MSDjepNVUi7lC"
       },
@@ -5446,6 +5540,24 @@
       "duration_ms": 466461,
       "name": "Calling Me Back - Coeus Remix",
       "url": "https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1"
+    },
+    {
+      "album": {
+        "name": "Came A Long Way",
+        "url": "https://open.spotify.com/album/5VsT12NOYfDW8aA58pKPaD"
+      },
+      "artists": [
+        {
+          "name": "DD",
+          "url": "https://open.spotify.com/artist/5wZCM8FJXepBLA0GWjyboB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Came A Long Way",
+      "url": "https://open.spotify.com/track/27tauAdh43Ot6c1Lw5Vp9D"
     },
     {
       "album": {
@@ -7478,7 +7590,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Creepin",
       "url": "https://open.spotify.com/track/22OW3x0sdFyrKCU6Jfepmi"
@@ -27423,6 +27535,24 @@
     },
     {
       "album": {
+        "name": "Right Moves",
+        "url": "https://open.spotify.com/album/6XomT1Gyc9Qnz0nglh79Eh"
+      },
+      "artists": [
+        {
+          "name": "ST3VM3LLZ",
+          "url": "https://open.spotify.com/artist/22x0Hc2lJtQWcFPokGIg73"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430080,
+      "name": "Right Moves",
+      "url": "https://open.spotify.com/track/2S0AeGLqJXPJI8kBXHieJH"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5P2whAI7Hm1HKa9vJuUxER"
       },
@@ -34219,6 +34349,24 @@
     },
     {
       "album": {
+        "name": "Ristretto",
+        "url": "https://open.spotify.com/album/6I5JKptxyigh74bILx904l"
+      },
+      "artists": [
+        {
+          "name": "Luego",
+          "url": "https://open.spotify.com/artist/4BbSoSyv1hi5DUIQy8AdnL"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Tulip Girl",
+      "url": "https://open.spotify.com/track/7jdbYJi1X4aGAB0gS3aLiD"
+    },
+    {
+      "album": {
         "name": "Exile On Main Street (2010 Re-Mastered)",
         "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
       },
@@ -35246,6 +35394,24 @@
       "duration_ms": 207096,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4lEYJ78GHHCXMd8aVbRskI"
+    },
+    {
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2DY3mBy8V5Q9AiaNmZxnGK"
+      },
+      "artists": [
+        {
+          "name": "Diego Palace",
+          "url": "https://open.spotify.com/artist/4pgHy8wdwPe8fbnulqFJ0w"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/4pAqgWrsPHvcZfBk85EfHp"
     },
     {
       "album": {

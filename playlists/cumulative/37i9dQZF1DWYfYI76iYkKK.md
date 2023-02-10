@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-210 songs - 14 hr 9 min
+212 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
 | [Wonder \- Radio Edit](https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Wonder \(Radio Edit\)](https://open.spotify.com/album/2BDFbrcws9Fwb0NnXXGVX3) | 2:11 | 2023-01-12 | 2023-01-27 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
-| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
+| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2023-02-10 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/7KAhj1obJrK5Avezca7YVL) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/4q7WSRlVNR02cyiCrCj2bo) | 4:00 | 2022-06-02 | 2022-07-29 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/7xBe5EKRxZk4icCZw91SMM) | 3:41 | 2022-06-02 | 2022-07-29 |
@@ -200,14 +200,16 @@
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2022-07-28 | 2022-11-30 |
 | [遗书](https://open.spotify.com/track/1rCtodIWGCQKD7haPxhiN9) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [遗书](https://open.spotify.com/album/3GttDcIFGvm84f47rpgL7d) | 4:15 | 2022-06-23 | 2022-06-25 |
 | [遗书](https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [我要给世界最悠长的湿吻](https://open.spotify.com/album/2Rc3tGGee3zgEh1VKhXNbL) | 4:15 | 2022-06-16 | 2022-10-07 |
-| [遲疑](https://open.spotify.com/track/4lEApxeewLQEQVyuZl6F7Z) | [O\-Yo](https://open.spotify.com/artist/3kkkg7eXW2AJOIw3NLwKj8), [LEI](https://open.spotify.com/artist/27iJPTbluZyUyoseyHqd0s), [亦橙](https://open.spotify.com/artist/5Yy3myg7iKbHAFztv0hUoU) | [玻璃心](https://open.spotify.com/album/0ats5TgMaZRpgkWcLWYkmd) | 3:50 | 2023-01-26 |  |
+| [遲疑](https://open.spotify.com/track/4lEApxeewLQEQVyuZl6F7Z) | [O\-Yo](https://open.spotify.com/artist/3kkkg7eXW2AJOIw3NLwKj8), [LEI](https://open.spotify.com/artist/27iJPTbluZyUyoseyHqd0s), [亦橙](https://open.spotify.com/artist/5Yy3myg7iKbHAFztv0hUoU) | [玻璃心](https://open.spotify.com/album/0ats5TgMaZRpgkWcLWYkmd) | 3:50 | 2023-01-26 | 2023-02-10 |
 | [還想聽你的故事](https://open.spotify.com/track/6v7jfR8YsuYAR4fQcKByJC) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY), [王碧浪](https://open.spotify.com/artist/43DKOeJ3ywoF37STeX6FcX) | [算雲煙](https://open.spotify.com/album/7bvPsVkvRgL8Amo3g9QAIT) | 4:43 | 2022-06-02 | 2022-07-24 |
 | [還是選擇你](https://open.spotify.com/track/4NIL3PP8rLfjFrHIftHC04) | [菱兒](https://open.spotify.com/artist/169HvpV2Zu4EZR1J3QcEJ9), [有為 Santi](https://open.spotify.com/artist/2rCvQjX4inIuik7bIiGLs4) | [還是選擇你](https://open.spotify.com/album/7FV5SvHU5xl0qQFe3PxxOW) | 5:04 | 2023-01-05 | 2023-01-20 |
+| [那 就是我们吗](https://open.spotify.com/track/0L3FcHK6fmWfV6pu6bE6te) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [外南街1982](https://open.spotify.com/album/5YwEslhuCquUrP6TtSHue4) | 3:29 | 2023-02-09 |  |
 | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/track/5FO9eEyRRtJu972fstMsfS) | [江靜 Jiang Jing](https://open.spotify.com/artist/0NzcQo5gooNhYRtnx4YTQ7), [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/album/2iHjpA5Ih5extOciUm6Fpq) | 3:16 | 2022-06-10 | 2022-07-22 |
 | [釀月光](https://open.spotify.com/track/31tSRRvp34rsk7NBhwImCq) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [釀月光](https://open.spotify.com/album/4c4y64aLqXcbql0vDvg0YI) | 4:26 | 2022-06-10 | 2022-07-10 |
 | [關於你](https://open.spotify.com/track/5PFauYPzYUvlES81qdn7DP) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [關於你](https://open.spotify.com/album/5Xd40gVbrMtNsdzNnxsXb1) | 4:53 | 2022-07-28 | 2022-08-26 |
 | [阿峰今天沒有來](https://open.spotify.com/track/0PMGAHGVSyH5DXuDX7TI3z) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [阿峰今天沒有來](https://open.spotify.com/album/4OJGYzePHdAdjF2bu0EmvJ) | 4:57 | 2022-06-30 | 2022-07-29 |
 | [阿拉斯加海湾](https://open.spotify.com/track/6VYs9NInduwKl1TBLfeSdy) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter](https://open.spotify.com/album/2qViMUzjnHbV7DA09JUZNj) | 4:06 | 2022-06-02 | 2023-02-04 |
+| [阿拉斯加海湾](https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter](https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0) | 4:06 | 2023-02-09 |  |
 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 | 2022-06-02 |  |
 | [雙棲動物](https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [雙棲動物](https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF) | 4:53 | 2022-06-02 | 2023-01-12 |
 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 | 2022-06-02 | 2022-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 9938,
+  "num_followers": 9954,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjgxOCwwMDAwMDAwMDc5MmYyYzNmNTIxZDY3YWE4YmJkOTE1NGQyMmI1NzU1",
+  "snapshot_id": "MTY3NTQwNjgxOCwwMDAwMDAwMDA1ZDM0Y2JhMzBlYmIyOTk2YmJmZTBiNTM0MmJkN2Y3",
   "tracks": [
     {
       "added_at": "2023-02-03 06:46:58",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "Omnibus, Pt. 2: Inside Out",
-        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Lee Daneung",
+          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
         }
       ],
-      "duration_ms": 220933,
-      "name": "My Day Is Full Of You",
-      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+      "duration_ms": 154786,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "Especially For You",
-        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
       "artists": [
         {
-          "name": "Lee Daneung",
-          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
+        }
+      ],
+      "duration_ms": 195206,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "Fling",
-        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
       "artists": [
         {
-          "name": "DIVE",
-          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 174841,
-      "name": "Fling",
-      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -863,34 +879,18 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+        "name": "Fling",
+        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "DIVE",
+          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
         }
       ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
-        }
-      ],
-      "duration_ms": 195206,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
+      "duration_ms": 174841,
+      "name": "Fling",
+      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
+        "name": "Object",
+        "url": "https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "The chair",
+      "url": "https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -971,6 +987,22 @@
     {
       "added_at": "2023-02-03 06:46:58",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
+    },
+    {
+      "added_at": "2023-02-03 06:46:58",
+      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -983,26 +1015,6 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
-        "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
-        "url": "https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o"
-      },
-      "artists": [
-        {
-          "name": "ASEL",
-          "url": "https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy"
-        },
-        {
-          "name": "\uc5d0\uc774\ubbfc",
-          "url": "https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD"
-        }
-      ],
-      "duration_ms": 195749,
-      "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z"
     },
     {
       "added_at": "2023-02-03 06:46:58",
@@ -1023,22 +1035,6 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
-    },
-    {
-      "added_at": "2023-02-03 06:46:58",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O"
-      },
-      "artists": [
-        {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

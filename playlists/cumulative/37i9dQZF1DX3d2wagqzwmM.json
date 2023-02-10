@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/0URvtoYBh6LaOqt72zPAjw"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/2Bopu1tgBNg0xoWlHzsiqK"
+    },
+    {
+      "album": {
         "name": "Bassman",
         "url": "https://open.spotify.com/album/0DqcG0ERIGT3N9R5WtReg9"
       },
@@ -356,7 +378,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 160000,
       "name": "Bassman",
       "url": "https://open.spotify.com/track/0X8PiJHcTFmmUwsGpvtFik"
@@ -2397,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Les Pays Bass",
+        "url": "https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3"
+    },
+    {
+      "album": {
         "name": "Huang",
         "url": "https://open.spotify.com/album/3TAPrHvvmIKCAkzZQrgmpC"
       },
@@ -4416,7 +4456,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 159223,
       "name": "Rollin Up",
       "url": "https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX"
@@ -4596,7 +4636,7 @@
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Afrojack",
+          "name": "AFROJACK",
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],

@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 103072,
+  "num_followers": 103107,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ5NjE2NCwwMDAwMDAwMGY3MWQ2ODhmMzQyZWEzNTJlMzc1ODExMjFlNjc3YTZm",
+  "snapshot_id": "MTY3NDQ5NjE2NCwwMDAwMDAwMGQwZjFkMTNjMmJkNjliMDI0NWM3ZGM1N2VkYzMyNWU3",
   "tracks": [
     {
       "added_at": "2023-01-23 17:49:24",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "01 - EP",
         "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "De Mi Para Ti",
-      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Un Poquito M\u00e1s",
         "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179943,
       "name": "Un Poquito M\u00e1s",
       "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
+      },
+      "artists": [
+        {
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "duration_ms": 207248,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        }
-      ],
-      "duration_ms": 207248,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Venecia (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
+        "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
       },
       "artists": [
         {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
-        },
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+          "name": "Covi Quintana",
+          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
         }
       ],
-      "duration_ms": 239692,
-      "name": "Venecia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ"
+      "duration_ms": 181960,
+      "name": "te echo de menos </3",
+      "url": "https://open.spotify.com/track/7uf1a5JCGKgNoDj5hv1rFM"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1415,6 +1411,26 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
+        "name": "Venecia (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
+      },
+      "artists": [
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        },
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "duration_ms": 239692,
+      "name": "Venecia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
-        "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
-      },
-      "artists": [
-        {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "te echo de menos </3",
-      "url": "https://open.spotify.com/track/7uf1a5JCGKgNoDj5hv1rFM"
     },
     {
       "added_at": "2023-01-23 17:49:24",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-01-23 17:49:24",
       "album": {
-        "name": "Q Tiempos Aquellos",
-        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 109986,
-      "name": "Q Tiempos Aquellos",
-      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
-    },
-    {
-      "added_at": "2023-01-23 17:49:24",
-      "album": {
         "name": "Bailando Lentos",
         "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
+    },
+    {
+      "added_at": "2023-01-23 17:49:24",
+      "album": {
+        "name": "Q Tiempos Aquellos",
+        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 109986,
+      "name": "Q Tiempos Aquellos",
+      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
     }
   ],
   "unique_name": "gris",

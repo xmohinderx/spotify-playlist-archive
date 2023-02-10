@@ -2,16 +2,16 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=4mfc\_JrrS56ijx63lIbo\-A">Brynn</a>
 
-186 songs - 11 hr 3 min
+189 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9\-2\-5](https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [9\-2\-5](https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5) | 3:07 | 2023-01-19 |  |
 | [A New Transition](https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg) | [Sonofold](https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD) | [Ghosts](https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr) | 3:33 | 2022-03-03 | 2022-09-23 |
 | [A week in the life of Rue](https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [A week in the life of Rue](https://open.spotify.com/album/36ZyxfmSrx40YfqLqOkCZE) | 1:46 | 2022-07-21 | 2023-02-03 |
-| [Ace and the Butternut](https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Ace and the Butternut](https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP) | 2:37 | 2022-08-04 |  |
+| [Ace and the Butternut](https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Ace and the Butternut](https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP) | 2:37 | 2022-08-04 | 2023-02-10 |
 | [adolescent energy](https://open.spotify.com/track/1y3Jr4FEgwnr0pm9GwIpQQ) | [Phrazes](https://open.spotify.com/artist/2km9MylO5HEhDyKf5SYl2G) | [adolescent energy](https://open.spotify.com/album/2qQVNCjh9G8IkR3on20S11) | 3:57 | 2023-01-26 |  |
 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 | 2022-09-02 |  |
 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 | 2022-10-06 |  |
@@ -55,8 +55,9 @@
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 |  |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I) | [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Don't Say Goodbye](https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd) | 4:24 | 2022-11-24 | 2022-12-09 |
+| [Down](https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC) | [Tailyn](https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx) | [Down](https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n) | 4:00 | 2023-02-09 |  |
 | [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 | 2022-08-25 | 2023-01-20 |
-| [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 | 2022-08-25 |  |
+| [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 | 2022-08-25 | 2023-02-10 |
 | [Druppels](https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Druppels](https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL) | 3:49 | 2022-03-03 | 2022-09-16 |
 | [Eisbein](https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [Eisbein](https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U) | 5:12 | 2021-11-11 | 2022-08-05 |
 | [Electrosexual](https://open.spotify.com/track/3yLUIXM52P3jEj7AWLr5oz) | [Sulene](https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg) | [Electrosexual](https://open.spotify.com/album/3oOfRxQVNY46FgsNC3BT24) | 3:13 | 2022-03-24 | 2022-11-25 |
@@ -93,6 +94,7 @@
 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 |  |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
+| [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 |  |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 |  |
 | [Kingdom Come](https://open.spotify.com/track/7ufTokV0aHYnSaZ83hfUu0) | [Unbroken Bond](https://open.spotify.com/artist/0vUzzSiZilRpnwSIHutohR), [dark animals](https://open.spotify.com/artist/5s3SvRUomfU0HIezDlDBrq) | [Kingdom Come](https://open.spotify.com/album/0pyfoV80CgnfVIB2sHbwKg) | 3:15 | 2022-01-06 | 2022-07-22 |
@@ -115,6 +117,7 @@
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |
 | [MONSTER](https://open.spotify.com/track/114TXFPWIi2iISkXtGjLCN) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [MONSTER](https://open.spotify.com/album/3IWzdjrJFlVaom1WYTzngo) | 2:38 | 2022-09-15 | 2022-11-18 |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
+| [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 |  |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 |  |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 |  |
 | [Nothing Feels Good Without You](https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [Nothing Feels Good Without You](https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe) | 3:25 | 2022-07-21 | 2023-02-03 |
@@ -162,7 +165,7 @@
 | [Suburban Casualty](https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K) | [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Suburban Casualty](https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI) | 3:54 | 2022-12-08 |  |
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 |  |
-| [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 |  |
+| [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 | 2023-02-10 |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Tattoos](https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Tattoos](https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8) | 3:55 | 2021-11-05 | 2022-03-04 |
 | [Tell the World](https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH) | [Matthew John Duncan](https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA) | [Tell the World](https://open.spotify.com/album/6bfRzJDoHtvx1JNeo6nAUq) | 2:43 | 2022-02-10 | 2022-08-05 |
@@ -186,7 +189,7 @@
 | [Vanilla Sky](https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Vanilla Sky](https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO) | 4:06 | 2022-02-17 | 2022-12-09 |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 | 2022-11-25 |
 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |
-| [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 |  |
+| [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 | 2023-02-10 |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |

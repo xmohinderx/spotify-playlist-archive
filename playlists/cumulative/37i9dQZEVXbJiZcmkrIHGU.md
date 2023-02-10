@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,543 songs - 3 day 4 hr 6 min
+1,544 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Bramfeld Storys](https://open.spotify.com/track/2gPl0OSKeA4HrFnI07Ehmz) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 8:55 | 2021-11-21 | 2021-11-26 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-01 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-04 | 2022-08-07 |
-| [BRODIES](https://open.spotify.com/track/1pGxSl5VmzBtejKSmuAKKU) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [BRODIES](https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc) | 2:30 | 2023-01-21 |  |
+| [BRODIES](https://open.spotify.com/track/1pGxSl5VmzBtejKSmuAKKU) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [BRODIES](https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc) | 2:30 | 2023-01-21 | 2023-02-10 |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2022-11-05 | 2022-11-07 |
 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 | 2021-12-30 | 2023-01-03 |
 | [Bubblegum](https://open.spotify.com/track/7nyIhPrP5qinbs4YXyviiI) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Spirit of Ecstasy](https://open.spotify.com/album/76gWqnRVyizDFTvuxBqIzq) | 2:22 | 2022-05-07 | 2022-05-08 |
@@ -856,6 +856,7 @@
 | [Magia](https://open.spotify.com/track/1zxZ9yi8ddRPghXntx4U5Q) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 3:11 | 2021-07-12 | 2021-07-14 |
 | [Magia](https://open.spotify.com/track/3KJ1QkwWObfuq54pgwTRyW) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK) | 3:12 | 2021-06-14 | 2021-07-01 |
 | [MAHALLE](https://open.spotify.com/track/7eXnaPqRon4nlnRRdaNubB) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [MAHALLE](https://open.spotify.com/album/2L4WMQ4RUasE6fiOiGZT74) | 2:56 | 2021-06-27 | 2021-07-04 |
+| [mailbox \(feat\. Hava\)](https://open.spotify.com/track/7AuMPJMHY3TYeZEZsEy0CF) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [MISTER DARDY](https://open.spotify.com/album/1nnVnDvJNyBSqZf73Lxrl6) | 2:54 | 2023-02-09 |  |
 | [Majestic](https://open.spotify.com/track/1Y2zqkMEu3mJPBBMBdkIsD) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/4CZgcx76lE1b3VIVLiZjCG) | 3:26 | 2022-03-20 | 2022-04-04 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
 | [Mama war der Mann im Haus \(Rheingold Soundtrack\)](https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8), [SAMY](https://open.spotify.com/artist/3m785bWzNnoLuIJP88DUN1) | [Mama war der Mann im Haus \(Rheingold Soundtrack\)](https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or) | 4:03 | 2022-10-31 | 2022-12-04 |

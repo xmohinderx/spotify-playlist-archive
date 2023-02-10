@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-533 songs - 1 day 5 hr 59 min
+538 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Crystal Shores](https://open.spotify.com/track/0gUAGl4nHShy1dzHikQKKU) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Crystal Shores](https://open.spotify.com/album/06r3HcyF5QIGmEafU1R4mW) | 2:50 | 2019-06-19\* |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2019-06-19\* |  |
 | [Curious Morning](https://open.spotify.com/track/5lZyYNi8OfFWKiX1p9zDQP) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Curious Morning](https://open.spotify.com/album/4XJCJP5JB80dwJKDt0rlpN) | 3:02 | 2020-08-07 |  |
+| [daffodils](https://open.spotify.com/track/1t2lWnGFqsejjpEUIoziKU) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [daffodils](https://open.spotify.com/album/2r8Y1qkCtTGvj0KMROPaZt) | 2:25 | 2023-02-10 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2019-06-19\* |  |
 | [Dans i Vindi](https://open.spotify.com/track/57nmWRdN5zPzMAlkCLsuKA) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Fjarlagt Ljus](https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN) | 3:04 | 2019-07-31 | 2021-09-14 |
 | [Dawning](https://open.spotify.com/track/56ag77KIUFvxJhA1gdObsq) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Dawning](https://open.spotify.com/album/4VvHn570mwVivAzfkUOnLG) | 3:26 | 2019-09-14 | 2021-06-24 |
@@ -133,6 +134,7 @@
 | [embraceable](https://open.spotify.com/track/43qHoXJIYjMwJsRNTj9V98) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [embraceable](https://open.spotify.com/album/2IRHiW8GfGY0yZ3BqoWxVG) | 2:40 | 2022-10-15 |  |
 | [Entirety](https://open.spotify.com/track/3nvpVuUE9mO7fvFI6E9WYY) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Entirety](https://open.spotify.com/album/6IFRbKg9C5Uj4NLG6maOsz) | 3:32 | 2019-05-26\* | 2020-08-07 |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2019-07-31 | 2021-09-14 |
+| [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-02-10 |  |
 | [Escape](https://open.spotify.com/track/3B5CmP4afMVgLJeDvc6ivW) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:25 | 2019-06-19\* | 2021-09-03 |
 | [Escaping Time](https://open.spotify.com/track/7JrSIPcfkWhDzxWII8Jz7V) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 3:20 | 2020-01-03 | 2022-10-15 |
 | [Essential Attitudes](https://open.spotify.com/track/0T3UHut7JmCi5jcgYiMawm) | [Peals](https://open.spotify.com/artist/1eOmGaF7cvbx9hw6rgBqYO) | [Honey](https://open.spotify.com/album/2MiSdnbNeUkcQA6i7iyp3v) | 3:37 | 2019-09-14 | 2021-09-04 |
@@ -157,6 +159,7 @@
 | [Father's Land](https://open.spotify.com/track/3gzNYhVi2CZDrihWHxSVzY) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Kingdom](https://open.spotify.com/album/4cXKlWVyQD0xK0yTsg5nwX) | 5:35 | 2019-06-19\* | 2020-08-07 |
 | [Feathers In The Sky](https://open.spotify.com/track/4Bl2bWpteL5TFmqQ22IQXp) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Feathers In The Sky](https://open.spotify.com/album/4OSbMAvfVs5EX8PyJX2yWX) | 2:23 | 2023-01-13 |  |
 | [Feels Like Flying](https://open.spotify.com/track/3mMd2MGvEIDAfMfvcb9wsC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Feels Like Flying](https://open.spotify.com/album/4GnIXsJtxjVMPJvR0O1g2f) | 3:18 | 2020-08-07 |  |
+| [Fill Up The Sky](https://open.spotify.com/track/1UdPbtn1tr1fm1d0FcrgAg) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fill Up The Sky](https://open.spotify.com/album/6q0wfY19Nrwci3Ika8Vehr) | 3:25 | 2023-02-10 |  |
 | [Final Mid](https://open.spotify.com/track/7hQiWMz4Xisr6c5VdBsPKT) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Universo en Miniatura Vol\. 1](https://open.spotify.com/album/52PcfX5Yht7LyNjkuJCROB) | 2:09 | 2019-07-12 |  |
 | [Finding Faith](https://open.spotify.com/track/4RegCU553XuJVRf3eHKvhn) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [The Story Of Us](https://open.spotify.com/album/1wojRG38zTqD3k7q7aRidn) | 2:37 | 2019-06-19\* | 2020-10-08 |
 | [Fire Fly](https://open.spotify.com/track/3Zesy4QTuMHbmA2pTIkfqG) | [Chris Burrink](https://open.spotify.com/artist/5SyNaJHRlKwYxEZU0Z3CrM) | [Fire Fly](https://open.spotify.com/album/0bkRE9uEPpdv4x3NrWj7Gw) | 1:25 | 2021-01-21 | 2022-03-16 |
@@ -287,6 +290,7 @@
 | [Memory Tree](https://open.spotify.com/track/1c8hkUofu0JemA8jKYJHyA) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:54 | 2022-07-27 | 2022-08-16 |
 | [Memory Tree](https://open.spotify.com/track/6X2e0p6D4xOhHqFYFYNHAu) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:54 | 2019-06-19\* | 2022-07-29 |
 | [middle part](https://open.spotify.com/track/2GNEJcmdJuQK97mWea637Y) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [middle part](https://open.spotify.com/album/7a5iuCtOONCEHJgNdgjaHZ) | 2:19 | 2021-09-29 |  |
+| [Midnight Land](https://open.spotify.com/track/1bUiyTithUxLGEMZ2RD8US) | [Akustique](https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A) | [Midnight Land](https://open.spotify.com/album/5cHI2WBSwXtve6PqzmX7DU) | 2:21 | 2023-02-10 |  |
 | [Migration](https://open.spotify.com/track/7r9cNx76cAD4Uce80Lqyig) | [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Migration](https://open.spotify.com/album/4RJuzMFg5iWb33aTkDq34W) | 3:37 | 2019-06-19\* | 2021-09-14 |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2019-12-31 |  |
 | [Mind Of Lust](https://open.spotify.com/track/6WIbkXGyOIdCEbt1aQXN1r) | [Sandomina](https://open.spotify.com/artist/3Zsv8d3ETW95nBQeND8HNk) | [Mind Of Lust](https://open.spotify.com/album/5Qz06nate2QHEMevilhOQa) | 2:15 | 2020-12-24 |  |
@@ -345,6 +349,7 @@
 | [Petrichor](https://open.spotify.com/track/2GKVta6SrAVlOKHD8velxH) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [Everything We See Will Die](https://open.spotify.com/album/6prMVW3OJCHsRwLYTg6SLa) | 3:40 | 2019-05-26\* | 2020-08-07 |
 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2019-06-19\* |  |
 | [Petrichor \(Bonus Digital Track\)](https://open.spotify.com/track/6Hjq9sM2IG8CsqSpApdgYn) | [Set and Setting](https://open.spotify.com/artist/5MDD6ObIICvtWZcMmHrwts) | [Equanimity](https://open.spotify.com/album/6vAkxqVzQUBOIuOo2kHb2z) | 2:10 | 2019-05-26\* | 2019-06-19 |
+| [phosphorescence](https://open.spotify.com/track/2g7oWQYXIurU5x2YtMAC7H) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [phosphorescence](https://open.spotify.com/album/3fVOQDh4IcrWTtoQGB38LL) | 2:26 | 2023-02-10 |  |
 | [Placidity](https://open.spotify.com/track/1XtkmIXg2o5SqOrNI8Szvk) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Placidity](https://open.spotify.com/album/7v2OxlHooP4Plr1HE5pMeE) | 2:45 | 2019-09-14 | 2022-11-18 |
 | [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2019-06-19\* | 2020-01-09 |
 | [Polar Light](https://open.spotify.com/track/5WrEKQ24ErKCUmr85a1t9f) | [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX) | [Tell Me](https://open.spotify.com/album/0jKHMxCcMBVTg7rVkzQzoH) | 5:38 | 2019-05-26\* | 2019-06-19 |

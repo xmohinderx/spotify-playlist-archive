@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Is Ekke Man",
+        "url": "https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119301,
+      "name": "Hi Mitchell",
+      "url": "https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL"
+    },
+    {
+      "album": {
         "name": "Hou Jou Leka",
         "url": "https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 193854,
       "name": "Wesbank Bloei",
       "url": "https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083"

@@ -206,7 +206,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 135971,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/6FhA1HTNcksnvmUX9QLHRO"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 293333,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 180026,
       "name": "KNOW ME (feat. Gallant)",
       "url": "https://open.spotify.com/track/6oHNAWV5sbGtTVCvXhXikt"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 198961,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
@@ -1123,6 +1123,32 @@
     },
     {
       "album": {
+        "name": "Promises (Catching Flies Remix)",
+        "url": "https://open.spotify.com/album/4JouHDQKzd1KijwGvLuWdR"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr"
+        },
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216270,
+      "name": "Promises - Catching Flies Remix",
+      "url": "https://open.spotify.com/track/0KtcZEGkkQpf5bwBKsxz3K"
+    },
+    {
+      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1208,6 +1234,32 @@
       "duration_ms": 206000,
       "name": "Red Lights - EMBRZ Remix",
       "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+    },
+    {
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193344,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
     },
     {
       "album": {

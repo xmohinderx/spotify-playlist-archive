@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 95832,
+  "num_followers": 95961,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDExNzVjMzFmNmM4NjhiZWNjZjcxNDgyMWFjN2NkNzAz",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGZhN2VjMzY1YzI3MTdkNzU0MzE3NGM5MGUzMWZlMWMz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 351400,
       "name": "After Hours (The Antidote)",
       "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+      },
+      "artists": [
+        {
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+        }
+      ],
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 246653,
       "name": "Warm Weather - 12\" Version",
       "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Sunset Bay",
-      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Long Night Out",
         "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 334160,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "Sunset Bay",
+      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
     },
     {
       "added_at": "2020-08-19 00:00:21",

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-314 songs - 1 day 5 hr 15 min
+315 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Down Home Blues](https://open.spotify.com/track/00ekEde0OgVWCkfWYdKQXO) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 5:10 | 2021-08-22 | 2022-05-03 |
 | [Each Dawn](https://open.spotify.com/track/1jSFoUQizDyukyLNUkYdqn) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 4:43 | 2022-03-10 | 2022-10-08 |
 | [Emily](https://open.spotify.com/track/3gleUGWbYMuPc3RfUA1mKd) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 5:28 | 2021-06-13 | 2022-06-09 |
-| [End Music](https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 4:33 | 2023-01-12 |  |
+| [End Music](https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 4:33 | 2023-01-12 | 2023-02-10 |
 | [Ensenada](https://open.spotify.com/track/4KBULZasCMBDKHY8IPUCML) | [Bennie Maupin](https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb) | [The Jewel In The Lotus](https://open.spotify.com/album/1Na5QsavsjOUqtj4f4Bxn1) | 8:15 | 2020-06-12 | 2020-10-27 |
 | [Estate](https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Estate](https://open.spotify.com/album/1fr7A0vA1GCoT0gYVzNxjr) | 5:15 | 2022-09-08 | 2022-11-07 |
 | [Evermore](https://open.spotify.com/track/6m4CKe57wo7iKFqdx4k45B) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Kinds of Love](https://open.spotify.com/album/67gSqihoAVZyWcTzIRpiPR) | 7:29 | 2022-07-21 | 2022-10-08 |
@@ -232,6 +232,7 @@
 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
 | [S.C\. & W.](https://open.spotify.com/track/6RGKS5QJgdJ9bDM7RcZsRd) | [Barre Phillips](https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony) | [Three Day Moon](https://open.spotify.com/album/7oun4UdnI3S05ELHv829TY) | 9:25 | 2020-05-03 | 2020-10-27 |
 | [S3NS \- Duo Version](https://open.spotify.com/track/0MZeV0pYM6hPpwqaI9IGUy) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [40 Melodies](https://open.spotify.com/album/3x1vnezQHOTQG4kDC8nTzl) | 4:41 | 2020-12-04 | 2021-12-17 |
+| [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-09 |  |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-05-02\* |  |
 | [Sekoilu Seestyy \- The Madness Subsides](https://open.spotify.com/track/2O5tzTGzB0StE81ogR3rko) | [Pekka Pohjola](https://open.spotify.com/artist/19ijg5n90fExbOKQd3E0p6) | [Café Mambo, Music for Dreams: The Sunset Sessions, Vol\. 1](https://open.spotify.com/album/2dApocl3L27Wa7y6ZKdyDZ) | 2:50 | 2020-05-04 | 2020-06-06 |
 | [Shadow](https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 4:44 | 2022-01-27 |  |

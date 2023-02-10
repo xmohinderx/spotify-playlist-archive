@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-155 songs - 9 hr 36 min
+156 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-11-19 | 2022-07-29 |
 | [Tröstevisa](https://open.spotify.com/track/68EjEEyGv2FcTVv9wsrJdT) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc) | 3:33 | 2021-11-19 |  |
 | [Two on the Breakwater](https://open.spotify.com/track/73Ip6HpFUPgtatcVxy5noX) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Two on the Breakwater](https://open.spotify.com/album/2SnSZG9Ttz8b16tw3vRGhO) | 5:24 | 2021-11-19 |  |
+| [Unveiled Heart](https://open.spotify.com/track/12TZ1udjVPTow1wa2Blz4v) | [Kris Baines](https://open.spotify.com/artist/0DnefNy8Mz9NsSXV8YjsuO) | [Unveiled Heart](https://open.spotify.com/album/4fsaBBklXYGdGgU0lWBzsr) | 1:57 | 2023-02-09 |  |
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2021-11-19 | 2022-09-20 |
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2021-11-19 |  |
 | [Waterfelt](https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Waterfelt](https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk) | 3:43 | 2021-11-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Michelle Bi",
-  "num_followers": 501900,
+  "num_followers": 501938,
   "original_name": "Mujerones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGRiNzIyZDdiNWNkZjNkMmVkMGFmYjJkOTkzZjhlYjg3",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGQ3ZmM2YzQwNjRlYWVlYTlkNWVjNGMwOGNmNGU4N2Mz",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 238022,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Amante de Lo Ajeno",
-        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Adelante Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1LiFDElPVZgMGrUIbJd55m"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 228146,
       "name": "Mi error, mi fantas\u00eda",
       "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Amante de Lo Ajeno",
+        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Adelante Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1LiFDElPVZgMGrUIbJd55m"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+        "name": "Amante de Lo Ajeno",
+        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
       },
       "artists": [
         {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
         }
       ],
-      "duration_ms": 235572,
-      "name": "Que Ganas de No Verte Nunca Mas",
-      "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
+      "duration_ms": 208600,
+      "name": "No Soy una Se\u00f1ora (Non Sono una Signora)",
+      "url": "https://open.spotify.com/track/6NUh68V6ikd96sTiUCH6ID"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Amante de Lo Ajeno",
-        "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
         }
       ],
-      "duration_ms": 208600,
-      "name": "No Soy una Se\u00f1ora (Non Sono una Signora)",
-      "url": "https://open.spotify.com/track/6NUh68V6ikd96sTiUCH6ID"
+      "duration_ms": 235572,
+      "name": "Que Ganas de No Verte Nunca Mas",
+      "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
+        "name": "Amante de Lo Bueno",
+        "url": "https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv"
       },
       "artists": [
         {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
         }
       ],
-      "duration_ms": 231967,
-      "name": "Mudanzas",
-      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+      "duration_ms": 235253,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -891,18 +891,34 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Amante de Lo Bueno",
-        "url": "https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv"
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
         }
       ],
-      "duration_ms": 235253,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2"
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -1019,6 +1003,38 @@
       "duration_ms": 196853,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/78Enbx43RDUgnAaDixSeGg"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Amar No Es Suficiente",
+        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "No Te Preocupes por M\u00ed",
+      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Amar No Es Suficiente",
-        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "No Te Preocupes por M\u00ed",
-      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Me Siento Tan Sola",
-        "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Con los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 245946,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/36vevDMDx2ArmNViFWn22A"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Me Siento Tan Sola",
+        "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Canciones de mi Padre",
         "url": "https://open.spotify.com/album/78tvOl9RNOpoQ5BQ8NOJPo"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 149866,
       "name": "Los Laureles (The Laurels)",
       "url": "https://open.spotify.com/track/7vi8WVsQGQrzH0fw1hGFOo"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1339,22 +1339,6 @@
       "duration_ms": 224920,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 171461,
-      "name": "No Me Preguntes",
-      "url": "https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 207626,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 171461,
+      "name": "No Me Preguntes",
+      "url": "https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "El Pr\u00f3ximo Viernes - Live Version",
-      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 220133,
       "name": "Por hablarle de ti",
       "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "El Pr\u00f3ximo Viernes - Live Version",
+      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Equivocada - Live Version",
-      "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "La Malquerida",
         "url": "https://open.spotify.com/album/6x9gNY8gVDP8yd6isgj8AL"
       },
@@ -1635,22 +1619,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 195533,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Se Me Va A Quemar El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
     }
   ],
   "unique_name": "Mujerones",

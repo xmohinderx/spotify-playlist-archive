@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5hmeg2ngrrAFbz1Gu05PXi.md) - cumulative - [plain](/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi)
 
-### [Pure Flow](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
+### [Pure Flow Coding](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
 

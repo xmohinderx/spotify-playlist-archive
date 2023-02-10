@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: yun\u00e8 pinku",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Lovejoy",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -380,6 +380,24 @@
       "duration_ms": 183560,
       "name": "Burning",
       "url": "https://open.spotify.com/track/37mG6IjvmVd0bKf83D7ZGt"
+    },
+    {
+      "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226077,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "album": {

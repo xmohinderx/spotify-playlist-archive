@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Paul Carrack",
+  "description": "The best jazz new releases. Photo : Samara Joy",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 185531,
       "name": "A Nightingale Sang in Berkeley Square",
       "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
+    },
+    {
+      "album": {
+        "name": "A World Without Love",
+        "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Eva Mikhailovna",
+          "url": "https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F"
+        },
+        {
+          "name": "Eva and the Vagabond Tales",
+          "url": "https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227846,
+      "name": "A World Without Love",
+      "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
     },
     {
       "album": {
@@ -218,7 +244,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 301440,
       "name": "An Ode",
       "url": "https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1"
@@ -1444,7 +1470,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 264467,
       "name": "Hedwig\u2019s Theme from \"Harry Potter and the Sorcerer\u2019s Stone\"",
       "url": "https://open.spotify.com/track/4GAYD9V2N7i4duF2wDfPDF"
@@ -1654,6 +1680,24 @@
       "duration_ms": 174066,
       "name": "I'm in a Mess (feat. Samara Joy)",
       "url": "https://open.spotify.com/track/0mlPTJtrfFyrm2RZOI4naT"
+    },
+    {
+      "album": {
+        "name": "Sarah Brown Sings Mahalia Jackson",
+        "url": "https://open.spotify.com/album/1sBIYJA6QJMbcV8aGPHspJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brown",
+          "url": "https://open.spotify.com/artist/6qu4iot78uVk1bp65nuQvh"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184177,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
     },
     {
       "album": {
@@ -2243,6 +2287,36 @@
     },
     {
       "album": {
+        "name": "Mat Max",
+        "url": "https://open.spotify.com/album/3MGqkowFXei8xJPfJcO1M2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Sylvain Beuf",
+          "url": "https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz"
+        },
+        {
+          "name": "Thomas Bramerie",
+          "url": "https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq"
+        },
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Mat Max",
+      "url": "https://open.spotify.com/track/50LexdUge0HcHesRocUvGa"
+    },
+    {
+      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/7cUAxy0L0BTYnKtSLdgObX"
       },
@@ -2630,7 +2704,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 377231,
       "name": "Ondes of Chakras",
       "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
@@ -3256,7 +3330,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
@@ -3483,6 +3557,28 @@
     },
     {
       "album": {
+        "name": "Sweet Pumpkin (Duo Version)",
+        "url": "https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
+      "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
+    },
+    {
+      "album": {
         "name": "Swing State",
         "url": "https://open.spotify.com/album/1JqmsqrK13m1nrvFdGIrTX"
       },
@@ -3614,6 +3710,24 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Light Shines Brightest In The Dark (From Marlowe)",
+        "url": "https://open.spotify.com/album/49KNelepray4YxHWWnANnB"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214204,
+      "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
+      "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
     },
     {
       "album": {
@@ -3977,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Twenty Fifteen",
+      "url": "https://open.spotify.com/track/3F4SnqRLateUMs5HpAkhRx"
+    },
+    {
+      "album": {
         "name": "Une Seule Etoile",
         "url": "https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz"
       },
@@ -4060,7 +4192,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 373953,
       "name": "Us - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
@@ -4250,6 +4382,24 @@
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+    },
+    {
+      "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0Hn9iSg0dwEfw7a7o8JjUZ"
     },
     {
       "album": {
@@ -4546,7 +4696,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 245793,
       "name": "You Never Ask - from 'Madame Sean Connery'",
       "url": "https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z"
@@ -4564,7 +4714,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"

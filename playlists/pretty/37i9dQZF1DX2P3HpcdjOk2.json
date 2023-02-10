@@ -1,12 +1,12 @@
 {
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
-  "num_followers": 63811,
+  "num_followers": 63980,
   "original_name": "Glam Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMGE1NjQxMjhhOWIxY2QzMGY3OTI1ZmI4NDQyNzljZDE4",
+  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDliNzRiZGY3NTI3MDJjMDViZGU3NTUyMmYyMTk4NTE2",
   "tracks": [
     {
       "added_at": "2022-11-17 16:01:17",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "In Every Dream Home A Heartache",
-      "url": "https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH"
-    },
-    {
-      "added_at": "2022-11-17 16:01:17",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "In Every Dream Home A Heartache",
+      "url": "https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH"
     },
     {
       "added_at": "2022-11-17 16:01:17",
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 252440,
-      "name": "Jeepster - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd"
+      "duration_ms": 270000,
+      "name": "Cosmic Dancer - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR"
     },
     {
       "added_at": "2022-11-17 16:01:17",
@@ -683,22 +683,6 @@
       "duration_ms": 223760,
       "name": "Adolescent Sex",
       "url": "https://open.spotify.com/track/0IlsQYGSobFtgrW3JZbKJX"
-    },
-    {
-      "added_at": "2022-11-17 16:01:17",
-      "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 412533,
-      "name": "Mother Of Pearl",
-      "url": "https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy"
     },
     {
       "added_at": "2022-11-17 16:01:17",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-11-17 16:01:17",
       "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 412533,
+      "name": "Mother Of Pearl",
+      "url": "https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Cosmic Dancer - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR"
+      "duration_ms": 252440,
+      "name": "Jeepster - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd"
     },
     {
       "added_at": "2022-11-17 16:01:17",

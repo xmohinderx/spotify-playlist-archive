@@ -1881,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "Yung Honi",
+          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
+    },
+    {
+      "album": {
         "name": "Feel Something (With I Prevail)",
         "url": "https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG"
       },
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 229000,
       "name": "Hayloft II (DNMO Mix)",
       "url": "https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP"

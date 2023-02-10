@@ -4,7 +4,7 @@
 
 > jonatan leandoer96 makes anti pop.
 
-1,254 songs - 2 day 12 hr 37 min
+1,255 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,7 @@
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-13 | 2022-03-19 |
 | [plastic door//](https://open.spotify.com/track/0J6rNKi7ge3SMsuMuHfMw4) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [plastic door//](https://open.spotify.com/album/4FfoJ8P0LTi9w7gchTCimW) | 3:30 | 2020-10-13\* | 2020-11-03 |
 | [Play Ball](https://open.spotify.com/track/4AnzLupCec8JbTO8SoHGOQ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Play Ball](https://open.spotify.com/album/0Hxv0nRUqLTCZBKmFm9sqx) | 2:40 | 2021-03-26 | 2021-05-15 |
-| [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 | 2022-07-11 |  |
+| [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 | 2022-07-11 | 2023-02-10 |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2020-10-13\* | 2021-05-03 |
 | [poison](https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [junkie](https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP) | 1:57 | 2022-03-25 | 2022-04-08 |
 | [Politics & Violence](https://open.spotify.com/track/24a9UsAbEK5jB49zZyae58) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Politics & Violence](https://open.spotify.com/album/17PZeiOFJ78sUMsquQYQYR) | 3:17 | 2020-10-13\* | 2021-05-29 |
@@ -940,6 +940,7 @@
 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-21 | 2022-07-01 |
 | [say it twice](https://open.spotify.com/track/6oq3j9MoTRXrphekijMsuw) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [say it twice](https://open.spotify.com/album/29veTNwE4muoyJbL8npEho) | 2:28 | 2022-03-25 | 2022-05-28 |
 | [Say Something](https://open.spotify.com/track/6NduQjYR9ElRhgSOAqdoOV) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Say Something](https://open.spotify.com/album/29got4zSooc6xgknMODGii) | 2:27 | 2022-02-11 | 2022-05-07 |
+| [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 | 2023-02-10 |  |
 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-09-02 |  |
 | [Say What You Mean](https://open.spotify.com/track/6A1BbPDPInXWXEegx7sFg4) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Say What You Mean](https://open.spotify.com/album/4yVGNNKjS0sx8TjgmIOua3) | 3:21 | 2022-11-18 | 2022-12-01 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2022-05-09 | 2022-07-23 |

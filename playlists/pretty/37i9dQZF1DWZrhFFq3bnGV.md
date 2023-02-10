@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Ivan Tangkulung, Gerald Situmorang
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,139 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,158 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 74 | [Would You Be Mine](https://open.spotify.com/track/7pJBJRbkvwHvrsNwss0Z8I) | [Kevin Yosua](https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Elfa Zulham](https://open.spotify.com/artist/48uVjt6LfI2I0yI8QLXG0H), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p) | [Would You Be Mine](https://open.spotify.com/album/7rEKGX1ZcmvYBfrd1ghw8t) | 7:49 |
 | 75 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 
-Snapshot ID: `MTY3NTQwMzQyOCwwMDAwMDAwMDM1YTE0MDQ3MGY0MjE1ODQ0MDJkYmFkZTcwMzViZDU0`
+Snapshot ID: `MTY3NTk0NjI0MywwMDAwMDAwMDZiMWVkOGU3ODYwYzMyYzM5ZDdjZWQyNzkxZTBiNjFi`

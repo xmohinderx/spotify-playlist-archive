@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,363 likes - 44 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,454 likes - 44 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 43 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
 | 44 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 |
 
-Snapshot ID: `Mjc5MzEzOTQsMDAwMDAwMDAyYjQ0MGE0Y2E1MmYyZDUxMGUxYTk5ZTNmODhjNjQ2ZQ==`
+Snapshot ID: `Mjc5MzI2ODAsMDAwMDAwMDA3YTRiNWM0M2ExYjlkMGYwZGZlM2JiOWNmNTlhZjYzNQ==`

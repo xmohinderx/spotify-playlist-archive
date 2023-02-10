@@ -280,6 +280,28 @@
     {
       "album": {
         "name": "Alaska",
+        "url": "https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN"
+      },
+      "artists": [
+        {
+          "name": "Good Scott",
+          "url": "https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141720,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO"
+    },
+    {
+      "album": {
+        "name": "Alaska",
         "url": "https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45"
       },
       "artists": [
@@ -298,28 +320,6 @@
       "duration_ms": 141720,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09"
-    },
-    {
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN"
-      },
-      "artists": [
-        {
-          "name": "Kwassa",
-          "url": "https://open.spotify.com/artist/29ZiI4pYFArKpFQvHtZg7I"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "date_added": "2023-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141720,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO"
     },
     {
       "album": {

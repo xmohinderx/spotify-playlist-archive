@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-332 songs - 15 hr 52 min
+333 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dark Pjanoo](https://open.spotify.com/track/2gPlTBhtFPZqw44wQjlPVc) | [Thode](https://open.spotify.com/artist/0Tvfn3CX378rFEpnUCAcKY) | [1,2,3 Pjanoo](https://open.spotify.com/album/1WfI8R4Jq6OreOU2kIwltM) | 3:14 | 2020-10-20\* |  |
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2020-10-20\* |  |
 | [Daydreaming](https://open.spotify.com/track/3YLOJL7XiGnWHK8bUySote) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 3:20 | 2020-10-20\* |  |
+| [Deep Within](https://open.spotify.com/track/0FaSKlbK9bwEMOOJHNyMLA) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Rivers](https://open.spotify.com/album/4DzK9W49A6txvjZYS77MOc) | 2:05 | 2023-02-09 |  |
 | [Diverse Path](https://open.spotify.com/track/12ueCnX0Agcf6dS5SZbjiw) | [Omotesando](https://open.spotify.com/artist/4Oihxkshz07xUKMgUpsiSk) | [Diverse Path](https://open.spotify.com/album/4rbTijLDdjN3kQvblKmwC7) | 3:45 | 2020-10-20\* |  |
 | [Diversity](https://open.spotify.com/track/6yUBEKkhH5z29iiszOQBSa) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Diversity](https://open.spotify.com/album/6a7zOcwfT2EhRXrIPH7au8) | 3:03 | 2020-10-20\* |  |
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2020-10-20\* |  |
@@ -268,7 +269,7 @@
 | [Somnolence](https://open.spotify.com/track/42l68t0uutO6GH5xGEJLuO) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Somnolence](https://open.spotify.com/album/2I22kCuVqwkvnJ2sfO1huh) | 4:07 | 2020-10-20\* | 2022-02-04 |
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2020-10-20\* | 2022-08-13 |
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-09-24 |  |
-| [Spiritual Alignment](https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Spiritual Alignment](https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4) | 3:42 | 2020-10-20\* |  |
+| [Spiritual Alignment](https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Spiritual Alignment](https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4) | 3:42 | 2020-10-20\* | 2023-02-10 |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-08-27 |  |
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2020-10-20\* |  |
 | [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2020-10-20\* |  |

@@ -2,9 +2,9 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare e in cover fasma ❤️‍🩹
+> canzoni da gridare e in cover sethu ❤️‍🩹
 
-384 songs - 17 hr 43 min
+387 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 | 2022-08-12 |
 | [Carrello di SHEIN](https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY) | [Carrello di SHEIN](https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV) | 2:09 | 2022-10-13 | 2022-11-25 |
 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 | 2023-02-02 |  |
+| [Cause Perse](https://open.spotify.com/track/2KTkK87bVywhsBfgsXOQ0Q) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/7wuqjRiVDHVE2LLO1gAKqf) | 2:21 | 2023-02-09 |  |
 | [Cazzo vuoi?!](https://open.spotify.com/track/47fWFRXXsKLiRU9tiZod01) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Cazzo vuoi?!](https://open.spotify.com/album/4i3MJHgOwvndM23ew1NKHO) | 2:32 | 2022-11-03 | 2022-11-25 |
 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 | 2022-07-14 | 2022-09-30 |
 | [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 | 2022-07-29 |
@@ -116,6 +117,7 @@
 | [Facciamo che](https://open.spotify.com/track/3pCWroOvM7nkbUTGqv0s54) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Facciamo che](https://open.spotify.com/album/2IDAnybvNvHgi3pS141tKp) | 2:37 | 2022-08-25 | 2022-12-09 |
 | [Fammi morire](https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Fammi morire](https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy) | 2:08 | 2022-10-27 |  |
 | [Farmaci in bustine](https://open.spotify.com/track/0QzwyqqXT20TY2cneTmLz3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Farmaci in bustine](https://open.spotify.com/album/4NuSzjkAg3Tu6lLGTS9QdZ) | 2:51 | 2022-12-15 |  |
+| [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 | 2023-02-09 |  |
 | [Figli Di Puttana](https://open.spotify.com/track/6LcCFhsX2QjDD1lILjdBnv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:13 | 2022-06-27 | 2022-08-26 |
 | [FILM](https://open.spotify.com/track/2R2v127dl4wjkbIVbmYg5p) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [FILM](https://open.spotify.com/album/2faTekagaBBlJxmQq1LKRp) | 2:26 | 2022-06-23 | 2022-07-22 |
 | [Finché Non Mi Seppelliscono](https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:48 | 2022-05-06 | 2022-06-03 |
@@ -193,6 +195,7 @@
 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-19 | 2022-06-17 |
 | [Lola](https://open.spotify.com/track/7CwPk4p8ZNbI4oH3cakwUl) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Lola](https://open.spotify.com/album/22dJpy36yuKnUkXXCxC0pC) | 2:51 | 2022-07-07 | 2022-08-05 |
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-01-12 |  |
+| [Lontano](https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk) | [Aire](https://open.spotify.com/artist/1pePhxCgA1MOdEGgYjvNSZ), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Lontano](https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C) | 2:39 | 2023-02-09 |  |
 | [Lontano Da Qui](https://open.spotify.com/track/218oCaHB7IettSt4R7fHNr) | [TerzoGrado](https://open.spotify.com/artist/4LBzpop76F0OCdV1EvPkXd), [Don Marco](https://open.spotify.com/artist/4CdYqWx1aPBlXcXZPPy1ZN) | [Lontano Da Qui](https://open.spotify.com/album/18JrDsRl6IaU6iAV6KJRZn) | 2:12 | 2022-07-21 | 2022-08-26 |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-11 | 2022-08-26 |
@@ -201,7 +204,7 @@
 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 | 2022-05-06 |  |
 | [magari LOVE](https://open.spotify.com/track/498xe80OeNmfWQ7iRMT6AT) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [magari LOVE](https://open.spotify.com/album/1y4YrU81OD9GoWPxeAbXgp) | 2:28 | 2022-07-13 | 2022-09-09 |
 | [Maggio](https://open.spotify.com/track/7BsHgg2kRLHfCUFtvlaL1R) | [Chez Haine](https://open.spotify.com/artist/2Fgm7hO8RPNcXIVCsDI93N), [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [Maggio](https://open.spotify.com/album/0fLpYXYK0Ks5D6aIprsPwU) | 3:26 | 2022-05-12 | 2022-05-27 |
-| [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-05-06 |  |
+| [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-05-06 | 2023-02-10 |
 | [Male e Bene](https://open.spotify.com/track/7tkwRpNRH4l15B070Tdzqi) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Male e Bene](https://open.spotify.com/album/46pTEEeTXZ0Z4ACn6IHjFd) | 2:47 | 2022-09-29 | 2022-11-25 |
 | [Maledetti Ricordi](https://open.spotify.com/track/5WBW0To4RydXpvMxUMGoLb) | [Ciro](https://open.spotify.com/artist/1590xyaAGlLogecEcOPkHx) | [Maledetti Ricordi](https://open.spotify.com/album/4eQaiknBc4CB0V9DKBlGg0) | 2:58 | 2022-06-16 | 2022-07-01 |
 | [MARE](https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [MARE](https://open.spotify.com/album/61kXE5CFFjp7pvWKy35yKu) | 3:11 | 2022-06-02 | 2022-07-01 |

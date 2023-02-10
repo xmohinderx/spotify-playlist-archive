@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-463 songs - 1 day 2 hr 44 min
+465 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [IMAWANOKIWA](https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [ねむるピンクノイズ](https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy) | 4:13 | 2022-06-30 | 2022-07-25 |
 | [Iゆえに](https://open.spotify.com/track/2zEr5CZpgOhjAe54NkYieg) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [Iゆえに](https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo) | 3:32 | 2022-07-05 | 2022-07-07 |
 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 | 2023-01-24 |  |
-| [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 |  |
+| [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 | 2023-02-10 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
 | [Kashika](https://open.spotify.com/track/5fB9g1BgUXcmsRFr0YgePK) | [Ryo Haruka](https://open.spotify.com/artist/7kzVP3eplt8khwLbV5BKev), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Kashika](https://open.spotify.com/album/36xYHE6YjoI0klBipjeG44) | 3:58 | 2023-01-03 |  |
@@ -78,7 +78,7 @@
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 | 2023-01-13 |
 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 | 2022-07-26 |  |
 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 | 2022-07-26 |  |
-| [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 | 2023-01-12 |  |
+| [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 | 2023-01-12 | 2023-02-10 |
 | [Magical Girl and Chocolate](https://open.spotify.com/track/12shJ1oIZnCG5ZZD8HjQVi) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Magical Girl and Chocolate](https://open.spotify.com/album/1zXLavJ8fGLSqPfCc8Z4yG) | 3:07 | 2022-07-26 | 2022-08-10 |
 | [magnet](https://open.spotify.com/track/0xqOk9g0UVJOWhlNc1nX1S) | [minato](https://open.spotify.com/artist/2GtIff7l3cKBRRRM0Dn4tF), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 4:04 | 2022-06-23 | 2022-06-26 |
 | [Marshmary](https://open.spotify.com/track/5dKykKE5h3zapzslkcGDBE) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Marshmary](https://open.spotify.com/album/0D6NbvI5QAXu10qoQxcWRk) | 3:33 | 2022-06-23 | 2022-07-28 |
@@ -374,6 +374,7 @@
 | [君の神様になりたい](https://open.spotify.com/track/0SaFvT8yBgA3d7wJsQbvLT) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [白紙](https://open.spotify.com/album/0XPTOGQ7kNbRvJy2Hv5evk) | 4:15 | 2022-06-14 | 2022-07-10 |
 | [君色に染まる](https://open.spotify.com/track/3ukTSowrOwM3zjXR1BpX7w) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [また同じ夢を見てる](https://open.spotify.com/album/6uusJRVTzkRWHSXk8LkRz0) | 3:12 | 2022-06-14 | 2022-07-10 |
 | [命ばっかり](https://open.spotify.com/track/0yEvK14lJzaw4UcvZh12du) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:12 | 2022-06-14 | 2022-07-27 |
+| [命辛辛](https://open.spotify.com/track/7BbI4VpHjLDeUSS1AM81Vl) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [命辛辛](https://open.spotify.com/album/6hkLdF8Zli5BXtokRXbGEz) | 3:39 | 2023-02-09 |  |
 | [嗤うマネキン](https://open.spotify.com/track/5rlufCxBIuIJEmsfJgYVZ8) | [MI8k](https://open.spotify.com/artist/4AzUadV5RIk4CrjWdxL4Uj), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [Cupid Power](https://open.spotify.com/album/2DBjbysv0IIu5xeCBUDbk4) | 3:30 | 2022-06-09 | 2022-07-17 |
 | [嘘つきベティ](https://open.spotify.com/track/5cCQ9EXju1gOmtUcVTQMTr) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [嘘つきベティ](https://open.spotify.com/album/5hyeYVqEwdkWtK7Dfbt6Dw) | 3:54 | 2022-06-09 | 2022-06-15 |
 | [嘘も本当も君だから \(feat\. 初音ミク\)](https://open.spotify.com/track/4J0ho54JZfwv2VUZREbGAm) | [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow) | [嘘も本当も君だから](https://open.spotify.com/album/4JHIUCsbEzf8S7SpTzwHCj) | 4:27 | 2022-07-14 | 2022-07-16 |
@@ -452,6 +453,7 @@
 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 | 2022-06-28 |  |
 | [腐れ外道とチョコレゐト](https://open.spotify.com/track/07ja6ijB8a5DAsfwKJFoMb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Comic and Cosmic](https://open.spotify.com/album/0rclMLKSwOEJ9I7xauRFbF) | 3:15 | 2022-06-23 | 2022-07-19 |
 | [花が落ちたので、](https://open.spotify.com/track/20q0R0wiT2p4Wy2ba3kaMN) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [独りに花を添え](https://open.spotify.com/album/0q7P45GeBYeAOGm6pa7DDY) | 4:16 | 2022-06-23 | 2022-07-26 |
+| [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 | 2023-02-09 |  |
 | [花を唄う](https://open.spotify.com/track/451LPVp4bGHn37Z5iJ0orZ) | [シノ](https://open.spotify.com/artist/70Zrg9upyRog8b49c4puDd) | [花を唄う](https://open.spotify.com/album/7b53wBBZQyyYZT2FSZxY8C) | 3:26 | 2022-06-14 | 2022-07-25 |
 | [蛍はいなかった](https://open.spotify.com/track/53d7Te0Vp1s4OcQ2W2vmW1) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [蛍はいなかった](https://open.spotify.com/album/5yusmis1jlcSuQGgtTBgzH) | 3:29 | 2022-06-09 | 2022-06-20 |
 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 | 2022-06-09 | 2022-07-26 |

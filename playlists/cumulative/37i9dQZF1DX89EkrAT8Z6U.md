@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-172 songs - 7 hr 42 min
+173 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Flashy \(Tengen Uzui\)](https://open.spotify.com/track/5jyezs0yT1ID8JiSHJQOvR) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Flashy \(Tengen Uzui\)](https://open.spotify.com/album/42r6YTHBs9vzYpm8vY4sOS) | 3:33 | 2022-05-25 | 2022-07-28 |
 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 | 2022-07-08 | 2023-01-06 |
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-05-27 |  |
-| [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 | 2023-01-27 |  |
+| [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 | 2023-01-27 | 2023-02-10 |
 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 |  |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
 | [GODBREAKER](https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP) | [Jamar Rose](https://open.spotify.com/artist/5eRDVS3cobE2WOM8xrjdOw), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PLOT TWIST](https://open.spotify.com/album/4JP8a119U8yQm6ttb0JsAB) | 2:33 | 2022-05-25 | 2022-07-20 |
@@ -123,6 +123,7 @@
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2022-06-10 | 2022-10-27 |
 | [Quota](https://open.spotify.com/track/67RbbxXIv0TBavhIF5hy2N) | [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v) | [Redemption Arc](https://open.spotify.com/album/70uDVTxPIHE5rH2O1utOmc) | 3:01 | 2022-05-25 | 2022-07-27 |
 | [R4C3](https://open.spotify.com/track/3OTh0YjtPMqPmZ1ZOqMN6j) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [Grayicu](https://open.spotify.com/artist/11Nui3qCc6rsGcQ8mqHZDn) | [R4C3](https://open.spotify.com/album/054SOG39uPXb0q4SdOmRS9) | 2:28 | 2022-05-25 | 2022-07-29 |
+| [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq) | 2:20 | 2023-02-09 |  |
 | [Ricks](https://open.spotify.com/track/0JK1R8C88tfTur02kvQWOH) | [Yops](https://open.spotify.com/artist/6oJy64zcjFZGLoQDjVbJrU) | [Ricks](https://open.spotify.com/album/12Dm0ISwMvgApH3YLG9hbA) | 1:16 | 2022-06-21 | 2022-07-09 |
 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 | 2022-05-25 | 2022-07-29 |
 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 | 2022-11-21 |  |

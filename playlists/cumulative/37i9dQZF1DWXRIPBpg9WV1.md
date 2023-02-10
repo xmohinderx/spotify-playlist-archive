@@ -2,9 +2,9 @@
 
 ### [Relaxing Guitar Covers](https://open.spotify.com/playlist/37i9dQZF1DWXRIPBpg9WV1)
 
-> 
+> Relax and unwind with gentle guitar covers.
 
-167 songs - 8 hr 37 min
+171 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 | 2022-07-02 |
 | [Hello](https://open.spotify.com/track/1d34TcAqhMCMCsS2KEZ22E) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Hello](https://open.spotify.com/album/07XgGTzEYfa2YMAOZ6tU5a) | 3:23 | 2022-09-30 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-20 |  |
+| [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-10 |  |
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2022-12-23 |  |
 | [Hold on](https://open.spotify.com/track/0Wv0qxxnHhOiuvVhwNnqDv) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Hold on](https://open.spotify.com/album/6CnnqRJSFe5N2xWyfTaLip) | 3:23 | 2022-05-20 |  |
 | [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-13 |  |
@@ -118,9 +119,11 @@
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-05-20 |  |
 | [Redbone](https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Redbone](https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L) | 2:44 | 2023-02-03 |  |
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 |  |
+| [Rewrite The Stars](https://open.spotify.com/track/6osJpF4LOPQx6Q7XkLoiKr) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Rewrite The Stars](https://open.spotify.com/album/6QcEbkz1ZSWiQ5OR4TS4lw) | 3:50 | 2023-02-10 |  |
 | [Riptide](https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 4:33 | 2022-05-20 | 2022-07-02 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:55 | 2022-12-02 |  |
 | [See You Again](https://open.spotify.com/track/7bnHkXBteAwu9heqPphwvi) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [See You Again](https://open.spotify.com/album/0zFFBkjNYzzO4Z04aRgMz0) | 2:16 | 2022-05-20 |  |
+| [Señorita](https://open.spotify.com/track/7hQV8TNnJhGHkJK8d9dYyR) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Señorita](https://open.spotify.com/album/0a8QJeGo7PcHLE86b5jRDc) | 3:17 | 2023-02-10 |  |
 | [Shallow](https://open.spotify.com/track/4yLMaK0MaKuqLP34Gfc9ai) | [Calminity](https://open.spotify.com/artist/6Vkw54SOR5th9JiZAUyA6A) | [Calminity](https://open.spotify.com/album/21KDImHvF9nLXCnCVbiLis) | 4:10 | 2022-05-20 |  |
 | [She's Always A Woman](https://open.spotify.com/track/7BMfH304KNJNGM5yHZXXEb) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [She's Always A Woman](https://open.spotify.com/album/5bbrn4Oz8s3WnVTBQlA0jd) | 1:59 | 2022-12-02 |  |
 | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/track/5k5nFDMGaG5EZIsGJTqYcL) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/album/4nO8YfywgUOyvYBounouqr) | 3:25 | 2022-05-20 |  |
@@ -130,6 +133,7 @@
 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 |  |
 | [Someone You Loved](https://open.spotify.com/track/6FPbcBmK0Je6EZvmXhHD5k) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:37 | 2022-12-02 |  |
 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-13 |  |
+| [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-10 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-20 |  |
 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 |  |
@@ -139,7 +143,7 @@
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-12-02 |  |
 | [Take Me To Church](https://open.spotify.com/track/7cU8rok575Qhf3SkhMb670) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 3:54 | 2022-05-20 |  |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-20 |  |
-| [Tears in Heaven](https://open.spotify.com/track/55DFjCA1MWnDskroklqtuW) | [Kris Farrow](https://open.spotify.com/artist/74BEyEIkjzt6wrhsnkyAGE) | [Acoustic Guitar Music for Weddings, Vol\. 2](https://open.spotify.com/album/6iEyKKWzQidD3w0P33PUlo) | 4:26 | 2022-05-20 |  |
+| [Tears in Heaven](https://open.spotify.com/track/55DFjCA1MWnDskroklqtuW) | [Kris Farrow](https://open.spotify.com/artist/74BEyEIkjzt6wrhsnkyAGE) | [Acoustic Guitar Music for Weddings, Vol\. 2](https://open.spotify.com/album/6iEyKKWzQidD3w0P33PUlo) | 4:26 | 2022-05-20 | 2023-02-10 |
 | [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 |  |
 | [The Final Countdown](https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [The Final Countdown](https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot) | 3:03 | 2022-12-02 |  |
 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 |  |

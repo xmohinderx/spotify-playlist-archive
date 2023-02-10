@@ -4,7 +4,7 @@
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-77 songs - 3 hr 56 min
+79 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 | 2019-08-21 |  |
 | [Driver](https://open.spotify.com/track/56Msu3B5758ra6pUqbWJku) | [Perfect Pussy](https://open.spotify.com/artist/1xvC1JOx3XYXNk2WqfFLxC) | [Say Yes To Love](https://open.spotify.com/album/0vAWlFqwQXVhsW7SR3rXv1) | 2:16 | 2019-08-21 | 2022-07-29 |
 | [Driver](https://open.spotify.com/track/7gOYD1NhmTnB7nuIqDE1FT) | [Perfect Pussy](https://open.spotify.com/artist/1xvC1JOx3XYXNk2WqfFLxC) | [Say Yes To Love](https://open.spotify.com/album/4uNJjBFW2Wdu8l9rp2AbNj) | 2:16 | 2019-08-21 |  |
-| [Eating Toothpaste](https://open.spotify.com/track/7E5dZVJ6UPlzYi5RyTlxhH) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:26 | 2019-08-21 |  |
+| [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 | 2019-08-21 |  |
+| [Eating Toothpaste](https://open.spotify.com/track/7E5dZVJ6UPlzYi5RyTlxhH) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:26 | 2019-08-21 | 2023-02-10 |
 | [Eunuch Nights](https://open.spotify.com/track/0UBK0OYdgwwr7jw9azONn3) | [Frumpies](https://open.spotify.com/artist/2L60Gs87FBwy77eOckXuIw) | [Jackson's Jukebox](https://open.spotify.com/album/4oZwUHCM3wJqcBiKCacF4d) | 1:48 | 2019-08-21 |  |
 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 | 2019-08-21 |  |
 | [Feels Blind](https://open.spotify.com/track/3VKly1IGagrEfPAAyw96M4) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5TZM8FoHBlbqXBKCllJH8i) | 3:36 | 2019-08-21 |  |
@@ -37,7 +38,8 @@
 | [Fuck the Pain Away](https://open.spotify.com/track/0AAjPLcJQAiEtrdkxA9kHE) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 4:10 | 2019-08-21 | 2022-11-13 |
 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 | 2019-08-21 |  |
 | [Fuck the Pain Away](https://open.spotify.com/track/1XHFob24QklIXtLRopKirJ) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/5sgLqGnrMemtvQ5c4GUhab) | 4:10 | 2019-08-21 | 2022-07-29 |
-| [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 | 2019-08-21 |  |
+| [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 | 2019-08-21 | 2023-02-10 |
+| [Gimme Brains](https://open.spotify.com/track/7tqOiAIzo508J3tlWV7E1c) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:16 | 2019-08-21 |  |
 | [Glass House](https://open.spotify.com/track/3FZzyZKCRyZPKFdyT5BeSD) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/27WCDmHjVFzzdhxjqMKDgD) | 3:44 | 2019-08-21 | 2022-07-29 |
 | [Glass House](https://open.spotify.com/track/65MAh0uBZ9PNlWM1Oay7hA) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 3:44 | 2019-08-21 |  |
 | [Handsome & Gretel](https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 1:50 | 2019-08-21 |  |

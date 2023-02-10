@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-122 songs - 5 hr 46 min
+123 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Fondo](https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:53 | 2022-11-22 |  |
 | [Forever After](https://open.spotify.com/track/0R2ei7TiPZZWqAqlXlbjQ9) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Forever After](https://open.spotify.com/album/737BhS9CjJXHKSz0PbtpVg) | 2:59 | 2022-10-12 |  |
 | [Forgiveness](https://open.spotify.com/track/4JpT0U9BGC5uZtMcSaBUwH) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Forgiveness](https://open.spotify.com/album/2Ucc7Uxkez3QmKEMNqiw1K) | 2:49 | 2022-11-22 |  |
+| [Fragrantia](https://open.spotify.com/track/5JPOfUFWdUW5Vq7gxs8oG2) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Fragrantia](https://open.spotify.com/album/1TuMH1fRQzOmM45LUMIZAc) | 2:31 | 2023-02-09 |  |
 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-10-12 |  |
 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 | 2022-10-12 |  |
 | [Hæden](https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Hæden](https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy) | 2:27 | 2022-10-12 |  |
@@ -83,7 +84,7 @@
 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And Only](https://open.spotify.com/track/5dhf443YVdBpZZOGutxjsx) | [Dragon Wind](https://open.spotify.com/artist/282sN96UnlBm6hhQdpGHMG) | [Deja Vu](https://open.spotify.com/album/47m2jkxUKg7LKwTuAvifdt) | 3:04 | 2022-10-12 | 2022-11-23 |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-10-12 |  |
-| [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 | 2022-10-12 |  |
+| [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 | 2022-10-12 | 2023-02-10 |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-10-12 | 2023-02-09 |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-10-12 |  |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 | 2023-01-21 |

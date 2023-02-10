@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Jason Dhakal
 
-89 songs - 5 hr 26 min
+90 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [PABORITO](https://open.spotify.com/track/3IXhldrCfWEMBu11FLPRZa) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [PABORITO](https://open.spotify.com/album/2OHKhNRixy8JrMDJCHiLuI) | 3:36 | 2022-10-12 |  |
 | [Pahalik](https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Curse One](https://open.spotify.com/artist/6TUcd6yXFC0qQ1xbaycJT4), [Vlync](https://open.spotify.com/artist/46QyyIgyd2KywJPeWAASA2) | [Pahalik](https://open.spotify.com/album/4DTQWoQA46pswKmobyuNd6) | 8:03 | 2022-10-12 |  |
 | [PAHIMAKAS](https://open.spotify.com/track/4a4leAJpcU9fH2sFJs0jgn) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW) | [PAHIMAKAS](https://open.spotify.com/album/0buFGUKfBl1Spvg9oggzo7) | 4:07 | 2022-10-12 |  |
-| [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 |  |
+| [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 |  |
+| [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 |  |
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 |  |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 134280,
+  "num_followers": 134530,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGU2NWQ1OWJkZmUyYjllNmZiMDFhYzBjOTg5YjE4ZWY1",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGNmNjU4ZTI5N2E5MTE4NGNkMDQ4NTNmYmVhMGVmZGE2",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "BLUNTED 5 (Remix)",
-        "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
-      },
-      "artists": [
-        {
-          "name": "Bruno LC",
-          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 141075,
-      "name": "BLUNTED 5 - Remix",
-      "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -1155,6 +1131,30 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "BLUNTED 5 (Remix)",
+        "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
+      },
+      "artists": [
+        {
+          "name": "Bruno LC",
+          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 141075,
+      "name": "BLUNTED 5 - Remix",
+      "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Rata Tan Tan",
-        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 152731,
-      "name": "Rata Tan Tan",
-      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
+      "duration_ms": 173945,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
+        "name": "Rata Tan Tan",
+        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 173945,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
+      "duration_ms": 152731,
+      "name": "Rata Tan Tan",
+      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 168309,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Guayo",
         "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Un AK",
-        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 168309,
-      "name": "Un AK",
-      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Maripilili",
         "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 164693,
       "name": "Maripilili",
       "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2127,6 +2127,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Billetes Azules (with J Balvin)",
+        "url": "https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp"
+      },
+      "artists": [
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Billetes Azules (with J Balvin)",
+      "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Royal Medellin",
         "url": "https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU"
       },
@@ -2155,26 +2175,6 @@
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Billetes Azules (with J Balvin)",
-        "url": "https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp"
-      },
-      "artists": [
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Billetes Azules (with J Balvin)",
-      "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
     }
   ],
   "unique_name": "Rimas y Perreo",

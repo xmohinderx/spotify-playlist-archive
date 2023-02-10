@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from RAYE \(pictured\), Shania Twain, JID ft\. Lute, Lyn Lapid ft\. Ruth B, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,555 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,565 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
 | 64 | [Takin' Off \(feat\. RoRo\)](https://open.spotify.com/track/47kQ19tSeRmmLKfPGL7Oaz) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Takin' Off \(feat\. RoRo\)](https://open.spotify.com/album/2ugSG9ohBXrQyfOl7VEm7S) | 2:48 |
 | 65 | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo) | 2:26 |
-| 66 | [No!](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No!](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 |
+| 66 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 |
 | 67 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 |
 | 68 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 69 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 |

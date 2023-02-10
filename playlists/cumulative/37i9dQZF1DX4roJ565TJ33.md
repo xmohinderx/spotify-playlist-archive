@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-127 songs - 9 hr 38 min
+128 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Childhood](https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 6:41 | 2022-04-07 |  |
 | [Craftsman](https://open.spotify.com/track/0POkWuNjH2Z01YgewPxhsd) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq) | [Craftsman](https://open.spotify.com/album/1QTzNVk2AUJwUdiiHO81mg) | 6:12 | 2021-11-08 |  |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2021-11-08 |  |
+| [Doftvind](https://open.spotify.com/track/7B7SiB5GY2AnJ2PYApueWE) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd), [Emily Mcewan](https://open.spotify.com/artist/2CuBRngWC2XU39yW2X40zQ) | [Det Regnar I Min Stad](https://open.spotify.com/album/1v3Ogh2lD6Qhdx4ASZEP7B) | 3:12 | 2023-02-09 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-11-08 |  |
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-03-31 |  |
 | [Eighthundred Streets by Feet](https://open.spotify.com/track/6WINb6NbMuyVv6GhLhSzAh) | [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR), [Royal Stockholm Philharmonic Orchestra](https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0), [Hans Ek](https://open.spotify.com/artist/446mV2yNk82K3T6TW1j7Ot), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Johan Lindström](https://open.spotify.com/artist/2SUPmAU1yNB7y3LabAOi60) | [E.S.T\. Symphony](https://open.spotify.com/album/3R3reMGgYF90CMbEc6Donr) | 5:16 | 2021-11-08 |  |

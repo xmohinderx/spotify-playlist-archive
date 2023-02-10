@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 156909,
+  "num_followers": 156970,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDM1YmFkZDkwM2Q1MTU4MTVlZGM4ZGIxOTZjMDdkZGEz",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDkzOTJkMjNjODU1OWU5ZDU1YzIxZTRiNTRlNGVkZWYw",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -514,11 +514,19 @@
         {
           "name": "Mercedes Sosa",
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Duerme, Negrito",
-      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
+      "duration_ms": 280920,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -594,19 +602,11 @@
         {
           "name": "Mercedes Sosa",
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Hector Zeoli",
-          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 280920,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
+      "duration_ms": 145321,
+      "name": "Duerme, Negrito",
+      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
-      },
-      "artists": [
-        {
-          "name": "Cuti y Roberto Carabajal",
-          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
-        }
-      ],
-      "duration_ms": 179722,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 511746,
       "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
       "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
+      },
+      "artists": [
+        {
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+        }
+      ],
+      "duration_ms": 179722,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 272986,
-      "name": "Sue\u00f1ero",
-      "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 247786,
       "name": "Con Todo Y Mi Tristeza",
       "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 272986,
+      "name": "Sue\u00f1ero",
+      "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Para Cantar He Nacido",
-        "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Para Cantar He Nacido",
+        "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Nombrador",
-        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
-      },
-      "artists": [
-        {
-          "name": "Daniel Toro",
-          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "El Seclante\u00f1o",
-      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 293186,
       "name": "La Tempranera",
       "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "El Nombrador",
+        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
     }
   ],
   "unique_name": "Folklore de Siempre",

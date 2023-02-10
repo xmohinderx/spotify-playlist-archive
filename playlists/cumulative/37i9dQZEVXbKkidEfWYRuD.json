@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -17508,7 +17526,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 208613,
       "name": "\u0422\u0440\u0438\u043c\u0430\u0439",
       "url": "https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx"
@@ -18566,7 +18584,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 167999,
       "name": "\u0428\u0443\u043a\u0430\u0432 \u0442\u0435\u0431\u0435. \u0417\u043d\u0430\u0439\u0448\u043e\u0432 \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/7uHFrsclJjAhONLcc8grZU"
@@ -19044,6 +19062,24 @@
       "duration_ms": 144705,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u0442\u0435\u0431\u044f \u0442\u0440\u0430\u0445\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/72aOn2zEIaEOOyOVGdpl8Z"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0418\u0427\u0415\u0413\u041e \u041b\u0418\u0427\u041d\u041e\u0413\u041e 2",
+        "url": "https://open.spotify.com/album/5fG4nijljQXhVSaDs87xzP"
+      },
+      "artists": [
+        {
+          "name": "SODA LUV",
+          "url": "https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "\u042f\u041b\u0420\u0421",
+      "url": "https://open.spotify.com/track/5TJmu6WB8JNMNTt8XumcP1"
     },
     {
       "album": {

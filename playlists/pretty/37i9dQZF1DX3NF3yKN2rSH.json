@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53048,
+  "num_followers": 53042,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDI4NzkzYjIzYjIxOWNhNzU2NmVmYjgwOTVlNTRiOThj",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDdkYTIzZWFiYjFiZjBkNjY2YjdlMWFmNGQyMmZjNDJl",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Triumphant",
-        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 369160,
-      "name": "Nobody Greater",
-      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Nicole C. Mullen",
         "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 294533,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 369160,
+      "name": "Nobody Greater",
+      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -547,6 +547,26 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 603749,
       "name": "Blood is Still the Blood (feat. Chandler Moore, Nicole Binion, Ryan Ofei)",
       "url": "https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Live In Detroit II (Video)",
-        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Blood Song",
         "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 334550,
       "name": "The Blood Song",
       "url": "https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Live In Detroit II (Video)",
+        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
     },
     {
       "added_at": "2022-04-17 06:11:04",

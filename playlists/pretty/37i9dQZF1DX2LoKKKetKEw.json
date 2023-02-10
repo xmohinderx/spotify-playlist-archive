@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu",
-  "num_followers": 29449,
+  "num_followers": 29632,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGM5MjA4MzRjN2YwYzRhZmE2NzMyMjA3Zjc1Y2UwMzIw",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDI2ZGQzNjNjMjkxMmNhOWRjYzc3ZjBjZmUzYTBhMmMw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:01:00",
@@ -519,18 +519,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Hallow",
-        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
         }
       ],
-      "duration_ms": 158608,
-      "name": "Hallow",
-      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+      "duration_ms": 175333,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -555,22 +559,18 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
+        "name": "Hallow",
+        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
       },
       "artists": [
         {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
+      "duration_ms": 158608,
+      "name": "Hallow",
+      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 156735,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 160528,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 156735,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -919,22 +919,18 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
       },
       "artists": [
         {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
         }
       ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+      "duration_ms": 193200,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -959,18 +955,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
+        "name": "Unguilty Pleasure",
+        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
       "artists": [
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Standing",
-      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
+      "duration_ms": 193398,
+      "name": "Unguilty Pleasure",
+      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Shalaye",
-        "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Shalaye",
-      "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
@@ -1055,6 +1035,46 @@
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Ike",
+        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 229363,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1087,26 +1107,6 @@
       "duration_ms": 130298,
       "name": "THANK GOD",
       "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Ike",
-        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 229363,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC"
-      },
-      "artists": [
-        {
-          "name": "Sammie Ekpoh",
-          "url": "https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 200280,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC"
+      },
+      "artists": [
+        {
+          "name": "Sammie Ekpoh",
+          "url": "https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
+        "name": "Yakpa",
+        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "Yakpa",
+      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 184111,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Yakpa",
-        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "Yakpa",
-      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1551,18 +1551,26 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
+        "name": "Belongs to You (EDM Remix)",
+        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
       },
       "artists": [
         {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
         }
       ],
-      "duration_ms": 321428,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
+      "duration_ms": 187500,
+      "name": "Belongs to You - EDM Remix",
+      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
     }
   ],
   "unique_name": "AfroGospel",

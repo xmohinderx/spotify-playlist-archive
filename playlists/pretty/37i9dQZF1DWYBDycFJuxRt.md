@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ヨルシカ \*👉<a href="https://spice.eplus.jp/articles/314366?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,823 likes - 61 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,949 likes - 61 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 39 | [Filter](https://open.spotify.com/track/1jy5xQp44OvRvMcm1HIDFr) | [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc) | [Filter](https://open.spotify.com/album/5saKHwxrToGKxjxNfT4pw6) | 3:20 |
 | 40 | [Shoutotsu](https://open.spotify.com/track/37tsLaVlRAeeaYBk1rpOtG) | [KEN THE 390](https://open.spotify.com/artist/1tcHKxlx0TZ6MkHGO4QYv3), [FORK](https://open.spotify.com/artist/5PHbAIFWne88ZNMN8MIP0B), [ZEEBRA](https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54) | [Shoutotsu](https://open.spotify.com/album/4RBWAGSihSVxsFHaufoaS4) | 3:15 |
 | 41 | [NO GRAVITY](https://open.spotify.com/track/0xhBpU4DETSpvWbBYJJqCE) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [ROUND & ROUND](https://open.spotify.com/album/5XEXLtQTUGXRy1tPPkvPAl) | 4:31 |
-| 42 | [TO THE TOP feat\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [TO THE TOP feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 |
+| 42 | [To The Top Ft\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X), [NINO](https://open.spotify.com/artist/5BNxCzxFB3jcXJ2SGwjzEH), [Prong Praison](https://open.spotify.com/artist/3xX9AovnIocwhUP0Npwxyy) | [To The Top feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 |
 | 43 | [Violet](https://open.spotify.com/track/6Z1Z26rgNr1NAiMVb0kkTt) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Violet](https://open.spotify.com/album/4t5i51fqbIgTvH7x2wIEIA) | 3:15 |
 | 44 | [COME TRUE](https://open.spotify.com/track/5GRMDMilJ0xjWJ6doAciR0) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [COME TRUE](https://open.spotify.com/album/571dX6nmt9ZbnCeyFZVZEO) | 2:54 |
 | 45 | [PLAN A](https://open.spotify.com/track/2unPNuaix5J91VWN5ED5pK) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [TEAM2MVCH](https://open.spotify.com/artist/4uT1lXYK6BODZs8UmLyMBn) | [PLAN A](https://open.spotify.com/album/5bDeEYE9ttc3dJZYO9sRqU) | 3:06 |

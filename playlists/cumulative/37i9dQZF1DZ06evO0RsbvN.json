@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 170253,
       "name": "Barrell House Blues",
       "url": "https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 170501,
       "name": "Big Boy Blues",
       "url": "https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 193750,
       "name": "Black Hearse Blues",
       "url": "https://open.spotify.com/track/03NxmhRfUKGZKgqIxH2iX8"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 156413,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/4clNWKuBAxttm9kKNtzu7o"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 163053,
       "name": "Deep Moanin Blues",
       "url": "https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 207080,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 186666,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/4fZa6B2pbUvMq3HvhBwB4t"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 168826,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/1UTphFJdgJ6xrKCUcRulDC"
@@ -1230,6 +1230,24 @@
       "duration_ms": 184093,
       "name": "Little Low Mama Blues",
       "url": "https://open.spotify.com/track/3Ksjkbl552uKeZiVRMAjIm"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "Log Camp Blues",
+      "url": "https://open.spotify.com/track/0Y62q42u7B6g7DSlUcjrRA"
     },
     {
       "album": {
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 168960,
       "name": "Memphis Bound Blues",
       "url": "https://open.spotify.com/track/7LioFKZmoZ4CvdHwgkaHBL"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 174563,
       "name": "Moonshine Blues",
       "url": "https://open.spotify.com/track/04I0CwmlhKD7a6x3pFEDWx"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 156290,
       "name": "Morning Hour",
       "url": "https://open.spotify.com/track/6eZVULNUFoTnZRjoXYpo36"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 195493,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/0zUUGSlU5QbKwsS49EqGge"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 157906,
       "name": "Slave To The Blues",
       "url": "https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 193733,
       "name": "Sleep Talking Blues (Take 1)",
       "url": "https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 191843,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/5sQKy53SE8Vj1noM9tRa0g"

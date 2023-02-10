@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 ### [Red Bull Batalla](https://open.spotify.com/playlist/37i9dQZF1DXe4DdBWbLDpG)
 
-> Aczino con el hat\-trick: campeón internacional 2022\. Mira los clips y descubre las mejores batallas, solo aquí.
+> Aczino con el hat\-trick: campeón internacional 2022\. Descubre las mejores batallas, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,756 likes - 70 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,761 likes - 70 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 69 | [Zasko Master vs Sweet Pain \- Final \- Live](https://open.spotify.com/track/3lLtH2aosR59vrfvDK3iBI) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Zasko Master](https://open.spotify.com/artist/216aT7YZwPgqOmkxOSEAgD), [Sweet Pain](https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm), [C´MON!](https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW) | [Final Nacional Espańa 2019 \(Live\)](https://open.spotify.com/album/4KU0XA2J1wQvWY4c2ZvdYe) | 9:18 |
 | 70 | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/track/0sb3TfCEIZ0mE7BYTlghEe) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/album/6hCgufIEKuVXxOGr9SG48t) | 2:20 |
 
-Snapshot ID: `MTY3MTY1ODY5MSwwMDAwMDAwMDExNThhMzQ5ZGJhOTVkMzIzYTVjODVmZGU2MjkwMGJj`
+Snapshot ID: `MTY3NTk3Mzc1NSwwMDAwMDAwMDBmZDI1Y2Y5NDA4ZTYxOTMwN2QzYTZlNzdlYTUzMDQy`

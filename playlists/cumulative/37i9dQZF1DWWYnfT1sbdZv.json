@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 31\u301c40 GAME VERSION",
+        "url": "https://open.spotify.com/album/4EpZ1UuuRNfNB0gwhger7u"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u6761\u6625\u83dc (CV: \u9577\u5cf6\u5149\u90a3)",
+          "url": "https://open.spotify.com/artist/2kl80iTaH9ybO4WNTuGDHu"
+        },
+        {
+          "name": "\u8352\u6728\u6bd4\u5948 (CV: \u7530\u8fba\u7559\u4f9d)",
+          "url": "https://open.spotify.com/artist/7KfM5bXDPXzq5qsyv5WLQ6"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129744,
+      "name": "Needle Light - GAME VERSION",
+      "url": "https://open.spotify.com/track/40klQjvzTLGMjt2DLTk1sL"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST",
         "url": "https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 314546,
       "name": "You're stars shine on me",
       "url": "https://open.spotify.com/track/6ft8XUnuPqrj43jzhV0zSF"

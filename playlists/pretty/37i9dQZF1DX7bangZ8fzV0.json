@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM?si=tx_3pY7VR3-4Mr_05UHtVQ\">Janie Bay</a> ",
-  "num_followers": 65133,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=ATTRs_VsQYm2Cv5jp3eBXA\">Droomsindroom</a> ",
+  "num_followers": 65178,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3NTE0MCwwMDAwMDAwMDFhOGVhMWIxZmNiM2EwZjhiYTE4NDFhMjQyNzdmMmI1",
+  "snapshot_id": "MTY3NTk3OTk0MCwwMDAwMDAwMGM5M2U4MjBmODZjOTdkMDI5YThhZGE4ZWNkMGEwMWNi",
   "tracks": [
     {
-      "added_at": "2023-02-02 21:59:00",
+      "added_at": "2023-02-09 21:59:00",
       "album": {
-        "name": "Die Dansvloer",
-        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
+        "name": "Ek Ly Aan",
+        "url": "https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8"
       },
       "artists": [
         {
-          "name": "Janie Bay",
-          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
         }
       ],
-      "duration_ms": 184405,
-      "name": "Die Dansvloer",
-      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
+      "duration_ms": 197828,
+      "name": "Ek Ly Aan",
+      "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -73,20 +73,24 @@
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
-      "added_at": "2023-01-05 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Vuur En Vlam",
-        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
+        "name": "Nora Vlok",
+        "url": "https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs"
       },
       "artists": [
         {
-          "name": "VAN WEST",
-          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Vuur En Vlam",
-      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
+      "duration_ms": 187894,
+      "name": "Nora Vlok",
+      "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
     },
     {
       "added_at": "2022-11-03 21:59:00",
@@ -103,6 +107,38 @@
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
+    },
+    {
+      "added_at": "2023-01-05 21:59:00",
+      "album": {
+        "name": "Vuur En Vlam",
+        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Vuur En Vlam",
+      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
       "added_at": "2022-09-14 21:59:00",
@@ -153,26 +189,6 @@
       "url": "https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT"
     },
     {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Nora Vlok",
-        "url": "https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 187894,
-      "name": "Nora Vlok",
-      "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
-    },
-    {
       "added_at": "2022-08-25 21:59:00",
       "album": {
         "name": "Weer",
@@ -207,22 +223,6 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
-    },
-    {
-      "added_at": "2023-01-20 04:37:52",
-      "album": {
-        "name": "Klippe Kou",
-        "url": "https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3"
-      },
-      "artists": [
-        {
-          "name": "Jack and June",
-          "url": "https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq"
-        }
-      ],
-      "duration_ms": 178362,
-      "name": "Klippe Kou",
-      "url": "https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -283,6 +283,22 @@
       "duration_ms": 188124,
       "name": "Kwaaitjie",
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Die Dansvloer",
+        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
+      },
+      "artists": [
+        {
+          "name": "Janie Bay",
+          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Die Dansvloer",
+      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
     },
     {
       "added_at": "2023-02-02 21:59:00",
@@ -421,22 +437,6 @@
       "url": "https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5"
     },
     {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "Ontlaai",
-        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
-      },
-      "artists": [
-        {
-          "name": "Il\u00e1n van Staden",
-          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
-        }
-      ],
-      "duration_ms": 243541,
-      "name": "Ontlaai",
-      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
-    },
-    {
       "added_at": "2022-12-29 21:59:00",
       "album": {
         "name": "Vir Jou Geval",
@@ -451,22 +451,6 @@
       "duration_ms": 242477,
       "name": "Vir Jou Geval",
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
-    },
-    {
-      "added_at": "2022-12-15 21:59:00",
-      "album": {
-        "name": "Plaashond",
-        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
-      },
-      "artists": [
-        {
-          "name": "Jakkie Louw",
-          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
-        }
-      ],
-      "duration_ms": 165898,
-      "name": "Plaashond",
-      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
     },
     {
       "added_at": "2022-07-21 21:59:00",
@@ -499,6 +483,22 @@
       "duration_ms": 197230,
       "name": "My Nannas",
       "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
+    },
+    {
+      "added_at": "2022-12-15 21:59:00",
+      "album": {
+        "name": "Plaashond",
+        "url": "https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "Plaashond",
+      "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
     },
     {
       "added_at": "2022-10-28 03:41:22",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO"
     },
     {
+      "added_at": "2023-01-20 04:37:52",
+      "album": {
+        "name": "Klippe Kou",
+        "url": "https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3"
+      },
+      "artists": [
+        {
+          "name": "Jack and June",
+          "url": "https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Klippe Kou",
+      "url": "https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V"
+    },
+    {
       "added_at": "2022-10-20 21:59:00",
       "album": {
         "name": "O My Vy",
@@ -611,22 +627,6 @@
       "duration_ms": 264933,
       "name": "Sandkasteel",
       "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Drink",
-        "url": "https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx"
-      },
-      "artists": [
-        {
-          "name": "Frikkie Braaibroodjie",
-          "url": "https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Drink",
-      "url": "https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa"
     },
     {
       "added_at": "2021-07-01 21:59:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR"
     },
     {
-      "added_at": "2021-09-23 22:00:00",
-      "album": {
-        "name": "Ploeg Jy",
-        "url": "https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Ploeg Jy?",
-      "url": "https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo"
-    },
-    {
       "added_at": "2022-08-02 09:54:04",
       "album": {
         "name": "Hey Sonneblom",
@@ -795,6 +779,22 @@
       "duration_ms": 206296,
       "name": "Geheueverlies",
       "url": "https://open.spotify.com/track/6uj9EblCmjH3mD68hXYd1J"
+    },
+    {
+      "added_at": "2021-09-23 22:00:00",
+      "album": {
+        "name": "Ploeg Jy",
+        "url": "https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Ploeg Jy?",
+      "url": "https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo"
     },
     {
       "added_at": "2023-01-26 21:59:00",

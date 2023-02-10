@@ -408,7 +408,7 @@
     {
       "album": {
         "name": "AMEIANOITE",
-        "url": "https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX"
+        "url": "https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk"
       },
       "artists": [
         {
@@ -423,6 +423,28 @@
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165996,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL"
+    },
+    {
+      "album": {
+        "name": "AMEIANOITE",
+        "url": "https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
       "duration_ms": 165996,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8"

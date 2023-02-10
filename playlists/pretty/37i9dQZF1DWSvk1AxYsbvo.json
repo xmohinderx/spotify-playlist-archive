@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6943,
+  "num_followers": 6968,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMGUyOTA0NmQwM2RiMDI0NmNiYmMyNjA5NTRiYzZiOWUy",
+  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMDBmY2M5MGU3NDA5OTczOGU4ZmE5ODhkY2UxMmE3ODNm",
   "tracks": [
     {
       "added_at": "2023-01-25 08:03:09",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
+        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
+        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
+      "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
         "name": "Sweet Kiss Like Coffee",
         "url": "https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 234705,
       "name": "Sweet Kiss Like Coffee",
       "url": "https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
-        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
-      "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
@@ -355,6 +355,38 @@
       "duration_ms": 204373,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc740\uc138",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "My",
+        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
+      },
+      "artists": [
+        {
+          "name": "Baek Sun",
+          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
+        }
+      ],
+      "duration_ms": 166961,
+      "name": "My (Prod. Norwegian Wood)",
+      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -391,22 +423,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -423,34 +439,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
       "artists": [
         {
-          "name": "\uc870\uc740\uc138",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "My",
-        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
-      },
-      "artists": [
-        {
-          "name": "Baek Sun",
-          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
-        }
-      ],
-      "duration_ms": 166961,
-      "name": "My (Prod. Norwegian Wood)",
-      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Olive",
-        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
-      },
-      "artists": [
-        {
-          "name": "Artinb",
-          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Olive",
-      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
       "artists": [
         {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
         }
       ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -583,6 +567,22 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Quince Tree",
-        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
       "artists": [
         {
-          "name": "Yozoh",
-          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Quince Tree",
-      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+        "name": "Quince Tree",
+        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "Yozoh",
+          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
         }
       ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+      "duration_ms": 187500,
+      "name": "Quince Tree",
+      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
     },
     {
       "added_at": "2023-01-25 08:03:09",

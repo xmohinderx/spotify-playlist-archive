@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 302840,
       "name": "A Touch Of The Night",
       "url": "https://open.spotify.com/track/3nSxFWML4jKvC6E35XLkcZ"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 303546,
       "name": "Afraid Of Monsters",
       "url": "https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 323333,
       "name": "I Am Back",
       "url": "https://open.spotify.com/track/2XBfQaY3VfrsxuIBXn4h1h"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 300754,
       "name": "Mayflower",
       "url": "https://open.spotify.com/track/0OtAhCQ2qumiYP9NmIJyNA"
@@ -5868,6 +5868,24 @@
       "duration_ms": 241626,
       "name": "Point To B",
       "url": "https://open.spotify.com/track/3GycMdRCf9duLBgpGLXThm"
+    },
+    {
+      "album": {
+        "name": "Vocal Studies and Uprock Narratives",
+        "url": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Point To B",
+      "url": "https://open.spotify.com/track/4r4fw10gkRAg0GW8RMJ5P4"
     },
     {
       "album": {
@@ -8524,6 +8542,24 @@
       "duration_ms": 492293,
       "name": "Utuba",
       "url": "https://open.spotify.com/track/2xKwuAoNOAQ71dRYDT1mhB"
+    },
+    {
+      "album": {
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+      },
+      "artists": [
+        {
+          "name": "Beaumont Hannant",
+          "url": "https://open.spotify.com/artist/6DvcKNW1Fs3B4aAktmpb2S"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492293,
+      "name": "Utuba",
+      "url": "https://open.spotify.com/track/5vMD2TirEeF6CzPwy6Bq3Q"
     },
     {
       "album": {

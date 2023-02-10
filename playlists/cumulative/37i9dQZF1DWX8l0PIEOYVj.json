@@ -5001,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/5qEOQx66MDExxqg92Cv9Tf"
+      },
+      "artists": [
+        {
+          "name": "Somna",
+          "url": "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237637,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/5kqKKun6uZweNkim4zuQwQ"
+    },
+    {
+      "album": {
         "name": "Satin Cash Pt. II",
         "url": "https://open.spotify.com/album/6TVX0FNhrDzAp1LIvNT4sU"
       },
@@ -5568,7 +5590,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 250294,
       "name": "Start Over (feat. Danni Carra)",
       "url": "https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2"
@@ -6208,7 +6230,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 196285,
       "name": "underneath",
       "url": "https://open.spotify.com/track/100ItW5hfY7iax9m74rssm"
@@ -6248,7 +6270,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 200888,
       "name": "UNKNOWN",
       "url": "https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN"

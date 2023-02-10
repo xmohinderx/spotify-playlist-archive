@@ -220,7 +220,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 170629,
       "name": "A Quiet Grace",
       "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 128000,
       "name": "Osmanthus",
       "url": "https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 204058,
       "name": "Quiet Waves",
       "url": "https://open.spotify.com/track/0HmGUT1lfiHEOMyW6HGsjJ"
@@ -3158,6 +3158,24 @@
       "duration_ms": 268366,
       "name": "Shadow Dancer",
       "url": "https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX"
+    },
+    {
+      "album": {
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "album": {
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 198108,
       "name": "The Forever Now - From \"This Is Us: Season 6\"",
       "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"

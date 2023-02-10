@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,061 likes - 514 songs - 19 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,183 likes - 514 songs - 19 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 137 | [Midnight Coffee](https://open.spotify.com/track/4ezxA4ICGNFjYHc81McwHH) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Midnight Coffee](https://open.spotify.com/album/5PNoSA2H4zFJxcbqLQwcWQ) | 2:33 |
 | 138 | [Bundle Up](https://open.spotify.com/track/1f7KyBindCWLpGzRxoQETw) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Bundle Up](https://open.spotify.com/album/58gwIKgrNtHC50Oe7oryL7) | 1:45 |
 | 139 | [tainted titles](https://open.spotify.com/track/4gKXB2JuhurzGDdwNIQIZ9) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [tainted titles](https://open.spotify.com/album/4xCeU2rUS51yjVVR6iYiNf) | 2:23 |
-| 140 | [Night Time](https://open.spotify.com/track/0KayUzHjGFs97poj1WSngo) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/4eyhuIIXY6aEJjjyKhAIgf) | 2:27 |
+| 140 | [Don't Be That Way](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Don't Be That Way](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 3:25 |
 | 141 | [CarniBeat](https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih) | [Missta Wu](https://open.spotify.com/artist/6pgGx9VGAe6QAD0moJPXGM) | [CarniBeat](https://open.spotify.com/album/3ufwlvt6aBH34L7czcacRx) | 2:15 |
 | 142 | [Lotus Tattoo](https://open.spotify.com/track/1yDOMeEbEnvmxrfOIiOdKz) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Lotus Tattoo & Queen's Oak](https://open.spotify.com/album/5E2W2oF70zLFopx7WlgXpU) | 2:50 |
 | 143 | [astronomia](https://open.spotify.com/track/0h5jF5aCGp71sP3hBXZkFV) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [astronomia](https://open.spotify.com/album/5kanGbioWRGF3dbJiKZSj6) | 2:46 |
@@ -523,4 +523,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 513 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 | 514 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 
-Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMDgzYzAwMGE5NzNlOWM2Mzc4MGZkYWY5ZTc2NmU4ZWQ4`
+Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMDk0ZDgzYTc5YjE1M2E0MTBhNDE1MTg0M2Y3ZmNkYjU0`

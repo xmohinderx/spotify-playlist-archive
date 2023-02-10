@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: プリキュア \(Pretty Cure\)
 
-380 songs - 1 day 2 hr 15 min
+382 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 |  |
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2023-01-13 | 2023-01-18 |
 | [ALIVE](https://open.spotify.com/track/5cLEdGMJj860k60T8u31VV) | [渡部恵子](https://open.spotify.com/artist/419949JhPv5FYsGemkudvB) | [ALIVE](https://open.spotify.com/album/54lGEHlJHsgt59WxNVIPg5) | 3:20 | 2022-06-14 | 2022-06-18 |
-| [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [ハートキャッチプリキュア! ボーカルアルバム1 \~大地と海と陽と月と\~](https://open.spotify.com/album/4qQOOk8NVhM0WgyPuv7f5x) | 3:46 | 2023-02-07 |  |
+| [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [「ハートキャッチプリキュア!」主題歌 OP:Alright!ハートキャッチプリキュア!/ED:ハートキャッチ☆パラダイス!](https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf) | 3:46 | 2023-02-09 |  |
+| [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [ハートキャッチプリキュア! ボーカルアルバム1 \~大地と海と陽と月と\~](https://open.spotify.com/album/4qQOOk8NVhM0WgyPuv7f5x) | 3:46 | 2023-02-07 | 2023-02-10 |
 | [anemone](https://open.spotify.com/track/2uVy8hdTxgEyzY0dJQ1Kf7) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Nebula](https://open.spotify.com/album/4LQVlXzxqW7leT6P0jYLnS) | 4:40 | 2022-06-21 | 2022-06-25 |
 | [ANIMA](https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:27 | 2022-06-24 | 2022-07-01 |
 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 | 2022-07-28 |  |
@@ -50,7 +51,8 @@
 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 | 2022-07-28 |  |
 | [Crossing Road](https://open.spotify.com/track/5rZjpjxbgyYJavOU9rf6yh) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [星空](https://open.spotify.com/album/6lNbfCwhR1uygDRts9r2dY) | 5:09 | 2022-06-24 | 2022-07-25 |
 | [Cry for the Moon](https://open.spotify.com/track/4H16CvnP6NOExQYO1DY2of) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [流星列車](https://open.spotify.com/album/43fD05oNZfTmSg6UZWo6UG) | 4:02 | 2022-06-14 | 2022-07-23 |
-| [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 | 2023-02-07 |  |
+| [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [ふたりはプリキュアオープニングテーマ曲 DANZEN!ふたりはプリキュア](https://open.spotify.com/album/4FMW9Gby2WLsE0Pqr8yEA4) | 3:34 | 2023-02-09 |  |
+| [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 | 2023-02-07 | 2023-02-10 |
 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 | 2022-06-12 | 2023-01-07 |
 | [dawn of infinity](https://open.spotify.com/track/6XGW8WSZ2ZFmvR2rUg2aAZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/5uhmrzAYZGmiIxXSClQ9Mk) | 4:53 | 2022-06-12 | 2022-07-20 |
 | [Day of Bright Sunshine](https://open.spotify.com/track/1e1N1EllYYZpMaOffVx2hK) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Day of Bright Sunshine](https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK) | 4:19 | 2022-06-09 | 2022-07-28 |

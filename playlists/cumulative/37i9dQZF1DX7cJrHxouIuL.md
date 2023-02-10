@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-182 songs - 8 hr 44 min
+183 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 | 2022-04-15 |  |
 | [Tiny Dino](https://open.spotify.com/track/5eYOfJIwuKCdBEqTtCVK2f) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Ear Snacks: Songs from the Podcast](https://open.spotify.com/album/1SAuvDHBx9WMa3Vo2c6VTu) | 2:18 | 2022-04-15 |  |
 | [Tiny Telephone](https://open.spotify.com/track/4REqk2P75v9WLRAdbYEBdW) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:14 | 2022-04-15 |  |
-| [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 |  |
+| [Tomorrow](https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:43 | 2023-01-31 |  |
+| [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 | 2023-02-10 |
 | [Up in the Sky](https://open.spotify.com/track/7nFrk76TTg9FJQ8CAoQMWt) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:03 | 2022-04-15 |  |
 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 | 2022-04-15 |  |
 | [Waking Up \(Spring\)](https://open.spotify.com/track/4abEYE7Hj22Y7gdZzn3czq) | [BenAnna Band](https://open.spotify.com/artist/3FL3nqyE8MEoCm4ZLNJfDg) | [Sounds of the Seasons](https://open.spotify.com/album/2nN6I5U7G3P8xDttB8gSIh) | 3:21 | 2022-04-15 |  |

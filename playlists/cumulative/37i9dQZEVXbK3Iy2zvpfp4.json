@@ -1317,6 +1317,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Day (Thank You for Sunshine)",
+        "url": "https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        },
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Beautiful Day (Thank You for Sunshine)",
+      "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
       },
@@ -4502,7 +4528,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 149500,
       "name": "GOLDEN HILL",
       "url": "https://open.spotify.com/track/1pnPWhhKaldm2iSFgGALRJ"
@@ -8046,7 +8072,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 156803,
       "name": "M\u00f4j typ \u017eeny",
       "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
@@ -13564,7 +13590,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 196470,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"

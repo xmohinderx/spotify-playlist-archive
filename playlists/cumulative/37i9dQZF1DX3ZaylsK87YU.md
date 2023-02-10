@@ -4,7 +4,7 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-211 songs - 16 hr 44 min
+212 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Christ the Sure and Steady Anchor](https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Messenger Hymns, Vol\. 2 \- EP](https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w) | 3:54 | 2021-07-30 |  |
 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 | 2021-07-30 |  |
 | [Come Behold the Wondrous Mystery](https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Come Behold the Wondrous Mystery \- Single](https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr) | 3:48 | 2021-07-30 | 2023-01-10 |
-| [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 | 2021-07-30 |  |
+| [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 | 2021-07-30 | 2023-02-10 |
 | [Come Thou Fount](https://open.spotify.com/track/3TjbpRjtWYHFwigdLMr8Zl) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Asaph's Arrows](https://open.spotify.com/album/0Pys5OxfX2iOtIUiFoDDMh) | 4:56 | 2021-07-30 | 2022-07-27 |
 | [Come Thou Fount](https://open.spotify.com/track/4KWqsra7XbtEdZTPYT1ZVJ) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Asaph's Arrows \- EP](https://open.spotify.com/album/1GHtYOjEg073oStqoan99K) | 4:56 | 2021-07-30 |  |
 | [Come Thou Fount](https://open.spotify.com/track/6xm33FNagGQqZAawkJSFkh) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH), [John Rhee](https://open.spotify.com/artist/7kdZdS2FP5Eo3W4Y6H76wr), [Yuris Yoon](https://open.spotify.com/artist/4CJebvyrxoOaB8vFTkPQSh) | [Laus Deo](https://open.spotify.com/album/0Ti83UJsThYXnvVBRBJVAz) | 4:25 | 2021-07-30 | 2022-07-13 |
@@ -63,6 +63,7 @@
 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:33 | 2021-07-30 |  |
 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 | 2021-07-30 |  |
 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 | 2021-07-30 | 2022-07-25 |
+| [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 | 2021-07-30 |  |
 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4) | 2:04 | 2021-07-30 | 2022-11-20 |
 | [Doxology//Amen](https://open.spotify.com/track/6oJlEWCnw9lMejLEYlqH84) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE) | 4:38 | 2021-07-30 | 2022-07-29 |
 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2021-07-30 |  |

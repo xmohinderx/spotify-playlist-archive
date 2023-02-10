@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-135 songs - 8 hr 20 min
+136 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 | 2022-09-14 |  |
 | [Bye Bye](https://open.spotify.com/track/0yIvgtqLRqmJGh8CPpHRnC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 4:09 | 2022-09-14 |  |
 | [Carafe](https://open.spotify.com/track/0K56JS9Kt8IY4h58LyO04g) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 2:48 | 2022-09-19 |  |
-| [Cards](https://open.spotify.com/track/3iw2FiVfOdP5cuX3UFt23u) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/5NssnsFC87qQsCEh6QOcA9) | 3:15 | 2022-09-14 |  |
+| [Cards](https://open.spotify.com/track/3iw2FiVfOdP5cuX3UFt23u) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/5NssnsFC87qQsCEh6QOcA9) | 3:15 | 2022-09-14 | 2023-02-10 |
 | [Centrefold](https://open.spotify.com/track/2120KPNVl3vALmvodMyu83) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:16 | 2022-09-14 |  |
 | [Cherry Lips \(Go Baby Go\)](https://open.spotify.com/track/2fNYai3gXuzpLFm0549Nin) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:11 | 2022-09-14 |  |
 | [Christine](https://open.spotify.com/track/6tNDVXXaYWsBd3Mqhfelvl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/326nKcn9e238BwduPDzld7) | 3:54 | 2022-09-14 |  |
@@ -70,6 +70,7 @@
 | [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-09-14 | 2022-10-13 |
 | [Good Times](https://open.spotify.com/track/7yicVvWnecC6g7POm1mJPb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3sI8iJNJwOWEUXdEZTVtvi) | 2:50 | 2022-09-15 |  |
 | [H.G.S](https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA) | [H.G.S](https://open.spotify.com/album/5znkcA0rAq6SIn0OaqKlhP) | 3:01 | 2022-09-14 |  |
+| [Hancoq \- Cards](https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt) | 3:15 | 2022-09-15 |  |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-09-14 |  |
 | [Horseplay](https://open.spotify.com/track/32NHD872Tc7Mh9upntoWjN) | [The Living Eyes](https://open.spotify.com/artist/4Z4RMwDmV4PnKo93AneaqA) | [Modern Living](https://open.spotify.com/album/6H2WvFXkzTqkTLeCdIjsMf) | 2:05 | 2022-09-14 |  |
 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 | 2022-09-14 |  |

@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Modesty",
+        "url": "https://open.spotify.com/album/1AzdPXvyFisHShDjBLAreU"
+      },
+      "artists": [
+        {
+          "name": "Caius Biel",
+          "url": "https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177065,
+      "name": "Modesty",
+      "url": "https://open.spotify.com/track/77CSFxn9xlZuFJ0lNpexAu"
+    },
+    {
+      "album": {
         "name": "Moment Of Peace",
         "url": "https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB"
       },
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 190000,
       "name": "Nga\u0300y Mai",
       "url": "https://open.spotify.com/track/3ZDiGCemtha740KIO5Ocpy"

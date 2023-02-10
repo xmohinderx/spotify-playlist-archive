@@ -1,13 +1,29 @@
 {
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=uf9dJoJvSKK-Six6oWR6eQ\">Droomsindroom</a>",
-  "num_followers": 5759,
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU?si=FSMsemutQh-O98cd9Kl7qA\">Elizma Theron</a>",
+  "num_followers": 5777,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwODQyMSwwMDAwMDAwMDY2M2Q4Y2FmZmE3MzY0YmUzYjQwMjgwMGZmNDhjY2Qz",
+  "snapshot_id": "MTY3NTk3OTk0MCwwMDAwMDAwMGQyZmMzNmUxNjQyYTM3NjdlNmRlNGQ3ODMzYjMyMGY2",
   "tracks": [
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Man so na my hart",
+        "url": "https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C"
+      },
+      "artists": [
+        {
+          "name": "Elizma Theron",
+          "url": "https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Man so na my hart",
+      "url": "https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL"
+    },
     {
       "added_at": "2023-02-02 21:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 197828,
       "name": "Ek Ly Aan",
       "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -73,36 +105,20 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
-      "added_at": "2023-01-27 07:29:00",
+      "added_at": "2023-02-09 21:59:00",
       "album": {
-        "name": "Beskerm Jou Hart",
-        "url": "https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv"
+        "name": "Kom L\u00ea My Voor Jou",
+        "url": "https://open.spotify.com/album/5sGW2h9GBV07X0i82YJpVO"
       },
       "artists": [
         {
-          "name": "Deidr\u00e9 Barnard",
-          "url": "https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL"
+          "name": "Ray Dylan",
+          "url": "https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Beskerm Jou Hart",
-      "url": "https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ"
-    },
-    {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "Ontlaai",
-        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
-      },
-      "artists": [
-        {
-          "name": "Il\u00e1n van Staden",
-          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
-        }
-      ],
-      "duration_ms": 243541,
-      "name": "Ontlaai",
-      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
+      "duration_ms": 269853,
+      "name": "Kom L\u00ea My Voor Jou",
+      "url": "https://open.spotify.com/track/0V3iFpzRjflG0W9s4175n1"
     },
     {
       "added_at": "2023-01-12 21:59:00",
@@ -119,6 +135,22 @@
       "duration_ms": 192426,
       "name": "Braaf Soos 'n Boerboel",
       "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
+    },
+    {
+      "added_at": "2023-01-27 07:29:00",
+      "album": {
+        "name": "Beskerm Jou Hart",
+        "url": "https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv"
+      },
+      "artists": [
+        {
+          "name": "Deidr\u00e9 Barnard",
+          "url": "https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Beskerm Jou Hart",
+      "url": "https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -175,6 +207,22 @@
       "duration_ms": 165898,
       "name": "Plaashond",
       "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
+    },
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Hou My Vas",
+        "url": "https://open.spotify.com/album/3W8GSwtBVVnpQgG8R6LqVu"
+      },
+      "artists": [
+        {
+          "name": "Natasha van der Merwe",
+          "url": "https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "Hou My Vas",
+      "url": "https://open.spotify.com/track/1ejxcMyaXuWNgdBSHijZug"
     },
     {
       "added_at": "2023-01-19 21:59:00",
@@ -243,6 +291,22 @@
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Drome Skilder",
+        "url": "https://open.spotify.com/album/3pHiFIFFyVeMFMZQgmgCKp"
+      },
+      "artists": [
+        {
+          "name": "Juan Bester",
+          "url": "https://open.spotify.com/artist/4HJKWV58OFtAAGQlkzH1ws"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Drome Skilder",
+      "url": "https://open.spotify.com/track/0eEOuaFWRrm1nd5XBz8TV3"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -349,6 +413,22 @@
       "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
     },
     {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Jou Skoene",
+        "url": "https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG"
+      },
+      "artists": [
+        {
+          "name": "Arnold Bailie",
+          "url": "https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp"
+        }
+      ],
+      "duration_ms": 216616,
+      "name": "Jou Skoene",
+      "url": "https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM"
+    },
+    {
       "added_at": "2023-01-01 21:59:00",
       "album": {
         "name": "My Persoon",
@@ -451,22 +531,6 @@
       "duration_ms": 243893,
       "name": "Dogter",
       "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Alles",
-        "url": "https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43"
-      },
-      "artists": [
-        {
-          "name": "Dani Vill\u00e9",
-          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
-        }
-      ],
-      "duration_ms": 222582,
-      "name": "Alles",
-      "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -707,22 +771,6 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Briefie Vir My Ma",
-        "url": "https://open.spotify.com/album/4gSsJYhoE4Mk4peb6u1glj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Wesley Africa",
-          "url": "https://open.spotify.com/artist/4w3PTTbh4IqNnjzAYgpsoX"
-        }
-      ],
-      "duration_ms": 184121,
-      "name": "Briefie Vir My Ma",
-      "url": "https://open.spotify.com/track/5JB5DPTBSE1jIKlhm900i5"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
         "name": "Sing Hoop Weerklink",
         "url": "https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8"
       },
@@ -771,26 +819,6 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "TOOR",
-        "url": "https://open.spotify.com/album/1LYoIO7nPifDxWeamyiz2b"
-      },
-      "artists": [
-        {
-          "name": "Slamma D",
-          "url": "https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb"
-        },
-        {
-          "name": "Snacci",
-          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "TOOR",
-      "url": "https://open.spotify.com/track/1M7EbSOLldQ5Y5qIlnMEft"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
         "name": "Toe Roep Ek Jou Naam Velvet Blohm",
         "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
       },
@@ -823,38 +851,6 @@
       "duration_ms": 236572,
       "name": "10 Uit 10",
       "url": "https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "My Sonskyn",
-        "url": "https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU"
-      },
-      "artists": [
-        {
-          "name": "Melissa van Jaarsveld",
-          "url": "https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "My Sonskyn",
-      "url": "https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Vonkel",
-        "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
-      },
-      "artists": [
-        {
-          "name": "Mymymy",
-          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
-        }
-      ],
-      "duration_ms": 246095,
-      "name": "Vonkel",
-      "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

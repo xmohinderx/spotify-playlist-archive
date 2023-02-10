@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,844 likes - 224 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,909 likes - 224 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 |
-| 2 | [Feign Life](https://open.spotify.com/track/7rb4YTkWp1r02r1RoLHuDx) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/1sBHzpr8XOICD07hNMSPSU) | 2:52 |
+| 2 | [Sunny Sides](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Sunny Sides](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:41 |
 | 3 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 |
 | 4 | [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 |
 | 5 | [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 223 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 224 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGMwNzdlZTE5NDg1NDljZTc4N2ZlMGNhODExMmUyOWZi`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDZiNjU2YTNiMWFkNjg2ZWIwOWNhY2MwOWIyZDg0YmNi`

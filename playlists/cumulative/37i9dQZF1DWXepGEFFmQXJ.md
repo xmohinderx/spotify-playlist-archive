@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: James Johnston
+> The cream of today's Country crop\. Cover: Kaylee Bell
 
-292 songs - 15 hr 58 min
+294 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +89,10 @@
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-08-25 |  |
 | [Fill It Up](https://open.spotify.com/track/6DeeYasethff4ETRNaHaZh) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Fill It Up](https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC) | 2:55 | 2022-03-31 | 2022-04-22 |
 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 | 2021-12-30 | 2022-09-16 |
+| [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-09 |  |
 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 | 2022-02-15 | 2022-06-24 |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2021-12-30 | 2022-04-01 |
-| [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-08 |  |
+| [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-08 | 2023-02-10 |
 | [For You](https://open.spotify.com/track/612Ys0YTvXm1I1FYqeVkFb) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [For You](https://open.spotify.com/album/55LxFPmn7AbimJXSmetluH) | 3:03 | 2021-12-30 | 2022-01-22 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-20 |
 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-11 | 2022-11-18 |
@@ -166,6 +167,7 @@
 | [Loud](https://open.spotify.com/track/6HbprKptNBhCN1LhN9LGdR) | [Lucy Parle](https://open.spotify.com/artist/27eKSN85oq2n22CKV7grqb) | [Loud](https://open.spotify.com/album/4eELjZmKciGnP1Au7KPw0V) | 3:27 | 2022-05-12 | 2022-07-08 |
 | [Love Doesn't Work Like That](https://open.spotify.com/track/4NnLqBtEQdruA7MV0GMxS6) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [Love Doesn't Work Like That](https://open.spotify.com/album/4oris4TGRNqeGMxmYekJP8) | 3:31 | 2022-03-31 | 2022-06-17 |
 | [LOVE IS A COWBOY](https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [LOVE IS A COWBOY](https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ) | 2:43 | 2022-07-14 | 2023-01-20 |
+| [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-09 |  |
 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 | 2023-01-27 |  |
 | [Making Up For Lost Wine](https://open.spotify.com/track/1KL31CycjUK0ZPzMUBiYyo) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Making Up For Lost Wine](https://open.spotify.com/album/4FSQnscHa5ywBYP3z5r3Xl) | 3:08 | 2022-06-02 | 2022-07-29 |
 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-11 | 2022-10-21 |
@@ -176,7 +178,7 @@
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-30 | 2022-01-28 |
 | [Mr I Don't Care](https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Mr I Don't Care](https://open.spotify.com/album/3YGsyzak046vwihQx3zThq) | 2:49 | 2022-10-06 |  |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
-| [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 | 2022-09-23 |  |
+| [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 | 2022-09-23 | 2023-02-10 |
 | [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 | 2022-09-23 | 2023-01-06 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-30 | 2022-01-07 |
 | [Night Needs You](https://open.spotify.com/track/7z56QYtQNduD3QJY9QEcSn) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Night Needs You](https://open.spotify.com/album/0b0b4BY7NwWDG2XxOA5BkL) | 3:22 | 2022-06-23 | 2022-09-30 |
@@ -187,7 +189,7 @@
 | [Nothing Like Me](https://open.spotify.com/track/5YlyQIOBHGbcd2QTf1bWkD) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Nothing Like Me](https://open.spotify.com/album/5NkZwtpPJD3y2oGPLCZqV9) | 3:26 | 2022-11-24 |  |
 | [Old Skoolin'](https://open.spotify.com/track/2ucaoYoZxD8wrsAHofdEe1) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Old Skoolin'](https://open.spotify.com/album/4uCXNTXiYLHq5fAptVf08p) | 2:41 | 2023-01-19 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-30 | 2022-04-01 |
-| [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 |  |
+| [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 | 2023-02-10 |
 | [Only You](https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:05 | 2021-12-30 | 2022-03-18 |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-23 | 2022-09-16 |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2022-10-20 |  |
@@ -278,7 +280,7 @@
 | [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 | 2022-04-29 |
 | [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 | 2022-09-24 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2023-01-20 |
-| [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-30 |  |
+| [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-30 | 2023-02-10 |
 | [What You Make It](https://open.spotify.com/track/5ruiqSweVb8QjUTYfKlomJ) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:05 | 2021-12-30 | 2022-05-20 |
 | [Whatchawanna](https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [Whatchawanna](https://open.spotify.com/album/4GmKCBn3BCo41XByDKb1Wj) | 3:22 | 2021-12-30 | 2022-02-05 |
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2022-09-15 | 2023-01-27 |

@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. Cover: GEZAN & Million Wish Collective
 
-159 songs - 10 hr 23 min
+161 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [It Is What It Is](https://open.spotify.com/track/68uZVWUH97VOOpelnxhIjN) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [It Is What It Is](https://open.spotify.com/album/4w9Vdz9SzDnqEEWEYN0Kzk) | 2:41 | 2023-01-31 |  |
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2023-01-12 | 2023-01-25 |
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-24 |  |
+| [Landscapes](https://open.spotify.com/track/1kR9fUrtW3ivzHiNKftnkP) | [Cairophenomenons](https://open.spotify.com/artist/4N8yE8e1Fb6NtGKZujp2v8) | [Landscapes](https://open.spotify.com/album/6kWcsa0s3FsfMs6k51rWBL) | 3:41 | 2023-02-09 |  |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 |  |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2023-01-12 | 2023-01-25 |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-01-17 |  |
@@ -103,7 +104,7 @@
 | [sweet vertigo](https://open.spotify.com/track/60YSKrBkxoZGwOtoUKvZm3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [works.ep](https://open.spotify.com/album/1JxwaDeWRXBXqJtYeNC0XK) | 4:31 | 2023-01-24 | 2023-01-26 |
 | [sweet vertigo](https://open.spotify.com/track/6k0QnSV8s0LuQBhWWtB21c) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 4:31 | 2023-01-24 |  |
 | [tea valley street \- feat\. 小林純平](https://open.spotify.com/track/7aTJm3VJgY39IS6oAbGTEc) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [tea valley street \(feat\. 小林純平\)](https://open.spotify.com/album/494FapIqwHmb0dIIrIGxyE) | 5:34 | 2023-01-24 |  |
-| [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 |  |
+| [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 | 2023-02-10 |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-01-31 |  |
 | [Third Summer of Love](https://open.spotify.com/track/1TymUgaexEf5hiZKvSwFIi) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [あのち](https://open.spotify.com/album/4BrADJvd35XV47vZhc4jUi) | 5:05 | 2023-01-31 | 2023-02-02 |
 | [Thousand Visions](https://open.spotify.com/track/6Hk9oRnjWJeau0nZP2WIsi) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Thousand Visions](https://open.spotify.com/album/3R7V41T7GdWWoKN0fhP7Qt) | 3:57 | 2023-01-31 |  |
@@ -115,7 +116,7 @@
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 |  |
 | [UNHINGED](https://open.spotify.com/track/3DUpPdBx1ZndF9UPSCsUc0) | [DAFTY RORN](https://open.spotify.com/artist/0sBSaMn1gyO5qGBx2auD9o), [CVN](https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr), [Killedbykira](https://open.spotify.com/artist/3TsJns4xlwXfwa7CJeTMeG) | [UNHINGED](https://open.spotify.com/album/4uJzHZ7K94kXXfJ257Wsf3) | 2:00 | 2023-01-12 | 2023-01-25 |
 | [Unmeiteki](https://open.spotify.com/track/0Z3ozY5Q4vXCaRZGXmP86N) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:05 | 2023-01-12 | 2023-02-01 |
-| [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2023-01-12 |  |
+| [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2023-01-12 | 2023-02-10 |
 | [VOLCANIC EMOTION](https://open.spotify.com/track/5vsnc9ohLYAHOoC3gv1M2U) | [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [VOLCANIC EMOTION](https://open.spotify.com/album/1jS5O3g73EcVWAeVcbF5QF) | 2:18 | 2023-01-31 |  |
 | [VOLCANIC EMOTION](https://open.spotify.com/track/2COkmpV9zO7TdU3bUyps4s) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [VOLCANIC EMOTION](https://open.spotify.com/album/4Otars2GNjONTfYSCcIXhI) | 2:18 | 2023-01-31 | 2023-02-02 |
 | [White highlights](https://open.spotify.com/track/3JtEQffMAkuPrGzGs9G7fY) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [White highlights](https://open.spotify.com/album/3OfEMtatKlKKJMhw5jliF4) | 3:27 | 2023-01-31 |  |
@@ -133,6 +134,7 @@
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 |  |
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2023-01-12 | 2023-02-01 |
 | [タオルケットは穏やかな](https://open.spotify.com/track/51DmDYJpw2V9ORZUIyL2vD) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 4:11 | 2023-01-24 |  |
+| [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 |  |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-01-31 |  |
 | [ハニーとマスタード](https://open.spotify.com/track/5Old3zhCyVtgPCArANiMNw) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [ハニーとマスタード](https://open.spotify.com/album/5fJw0wUOt9yesE75myJFNV) | 1:56 | 2023-01-31 | 2023-02-02 |
 | [パンデミック](https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [パンデミック](https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo) | 3:29 | 2023-01-12 | 2023-01-25 |

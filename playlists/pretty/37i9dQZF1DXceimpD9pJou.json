@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lizzy Parra",
-  "num_followers": 117264,
+  "num_followers": 117332,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDIyMzg0ZTkxZTcyN2U3ZjQzY2UxYzA5YmZmZGEzMWYx",
+  "snapshot_id": "MTY3NTQxNjU2NCwwMDAwMDAwMDc4NTExMjlhZTE4NGY3MmQ1MTQ4ODI3ZjkxZmQ3NTlm",
   "tracks": [
     {
       "added_at": "2023-02-03 09:29:24",
@@ -415,18 +415,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Te seguir\u00e9",
-        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 302149,
-      "name": "Te seguir\u00e9",
-      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+      "duration_ms": 228645,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -447,22 +451,18 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
+        "name": "Te seguir\u00e9",
+        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
       },
       "artists": [
         {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
         }
       ],
-      "duration_ms": 228645,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
+      "duration_ms": 302149,
+      "name": "Te seguir\u00e9",
+      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Por Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 165681,
-      "name": "Por Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Sublime (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/7EkuHD09hqQ1R7NFCaYTwY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 311296,
       "name": "Sublime (Versi\u00f3n Deluxe)",
       "url": "https://open.spotify.com/track/1VCnvQdxhf9uYwRraCP8nv"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Por Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Por Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
-        "name": "Bendecio",
-        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Bendecio",
-      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
         "name": "Confieso ft. El Leo Pa'",
         "url": "https://open.spotify.com/album/2MGAkl3o8HycOthPj15z2y"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 222000,
       "name": "Confieso ft. El Leo Pa'",
       "url": "https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
+        "name": "Bendecio",
+        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Bendecio",
+      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
     },
     {
       "added_at": "2023-02-03 09:29:24",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-02-03 09:29:24",
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Contigo Es As\u00ed",
+      "url": "https://open.spotify.com/track/3nbv56zG4E6JsT2LTsQfle"
+    },
+    {
+      "added_at": "2023-02-03 09:29:24",
+      "album": {
         "name": "Una Canci\u00f3n para la Comuni\u00f3n",
         "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 234811,
       "name": "Una Canci\u00f3n para la Comuni\u00f3n",
       "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
-    },
-    {
-      "added_at": "2023-02-03 09:29:24",
-      "album": {
-        "name": "1996",
-        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
-      },
-      "artists": [
-        {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Contigo Es As\u00ed",
-      "url": "https://open.spotify.com/track/3nbv56zG4E6JsT2LTsQfle"
     },
     {
       "added_at": "2023-02-03 09:29:24",

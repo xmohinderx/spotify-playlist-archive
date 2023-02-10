@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: TVGUCCI
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,546 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,584 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 7 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 8 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 | 9 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
-| 10 | [No!](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No!](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 |
+| 10 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 |
 | 11 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
 | 12 | [She Thought](https://open.spotify.com/track/2IXFxtFJIyGotqxKjhozX6) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [She Thought](https://open.spotify.com/album/6nSV7FSd6oJnoZte9rzSIs) | 3:17 |
 | 13 | [Good Problems](https://open.spotify.com/track/4jnGElG2yNH6bJRW0i6kIz) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Good Problems](https://open.spotify.com/album/5lnz34byhdPPNG0IaiC88n) | 2:47 |

@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
+    },
+    {
+      "album": {
         "name": "DIMANCHE SOIR",
         "url": "https://open.spotify.com/album/28V0hqyCllvpY2IsksYUhB"
       },
@@ -3121,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6QZnFtNZshIg5PeKFgwNP8"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182664,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/3RH7Vg6mLvxCYmQa9el2tV"
+    },
+    {
+      "album": {
         "name": "Enter Vacant Hall",
         "url": "https://open.spotify.com/album/1NtYyBmuEci39zG27BX2P1"
       },
@@ -3730,7 +3770,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 217666,
       "name": "Friends",
       "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
@@ -5302,7 +5342,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 292066,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
@@ -5576,7 +5616,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 222750,
       "name": "Jump the Turnstile",
       "url": "https://open.spotify.com/track/6EJkSSM4zBJW1AMCLnnXT8"
@@ -10046,7 +10086,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"

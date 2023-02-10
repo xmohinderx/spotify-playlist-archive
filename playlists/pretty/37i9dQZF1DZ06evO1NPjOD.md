@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,395 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 |
 | 50 | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/track/5UtN4XWCmeZWsbu5mRpPSQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lupita Nyong'o](https://open.spotify.com/artist/1tAwjP3FOwCCzqLwz44GsW), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [La La](https://open.spotify.com/artist/1RDWIpR1C3uzTp0ZRtYNKk) | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/album/0PNfF05nd0te0wodwtcvcn) | 4:29 |
 
-Snapshot ID: `Mjc5MzEzOTQsMDAwMDAwMDA1NDY1NWVlZTFhZmYxNDQ3ZmMxYThlNTg0MTI2ZmI2Yw==`
+Snapshot ID: `Mjc5MzI2ODAsMDAwMDAwMDAxMWRmZDQ5NTQyYWM1MTE2N2U4MTdkODM3OGY3NWM1OA==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover:  RADi. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover:  Dominic Chin, aeriqah. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 170624,
       "name": "All With Me",
       "url": "https://open.spotify.com/track/7D23uHGIu3lK2LMGQXPgng"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 207578,
       "name": "BAD BAD",
       "url": "https://open.spotify.com/track/4lVrAXlQJZdATFVAqEIazO"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 243529,
       "name": "beach",
       "url": "https://open.spotify.com/track/3ci7mRfmiBiWXvns6lLmaM"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 238861,
       "name": "Day Before A Monday",
       "url": "https://open.spotify.com/track/5LORh9bIQvxVTaO1oqEVUi"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 166108,
       "name": "dream boy",
       "url": "https://open.spotify.com/track/24tXaX2zJStI0F5lcmVayK"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 266919,
       "name": "Fall (Again)",
       "url": "https://open.spotify.com/track/1Rgrp2kFOCpPIExRVzQN4e"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 286080,
       "name": "Fall Into Place",
       "url": "https://open.spotify.com/track/03gJvMi8jLv06wR1TVLvY8"
@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3Mhovhy9Mgnp53zjwv83sb"
+      },
+      "artists": [
+        {
+          "name": "Toska",
+          "url": "https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0CwV6fbzPFW766DcXzYzDy"
+    },
+    {
+      "album": {
         "name": "Heaven Or Honolulu",
         "url": "https://open.spotify.com/album/3kktxLKeB8ims1EqUAhyVH"
       },
@@ -2260,6 +2278,24 @@
       "duration_ms": 164599,
       "name": "Heaven Or Honolulu",
       "url": "https://open.spotify.com/track/5QcuSJWlK8VkXnlGkFSoTF"
+    },
+    {
+      "album": {
+        "name": "Heavyduty Incandescent Streetlights",
+        "url": "https://open.spotify.com/album/6Bfo1rn40gu0pb2rrXJlUy"
+      },
+      "artists": [
+        {
+          "name": "Count Vernon",
+          "url": "https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245094,
+      "name": "Heavyduty Incandescent Streetlights",
+      "url": "https://open.spotify.com/track/0dlYKbOhasw2KKkUYr6KQe"
     },
     {
       "album": {
@@ -2393,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/4JfEXvklFqLGYUWvAdmqxh"
+      },
+      "artists": [
+        {
+          "name": "AARCADE",
+          "url": "https://open.spotify.com/artist/7FcsmP4uqRlBKh2Y7Q9kd0"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190375,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/7errHb9GcJfFN3XWvd1vpB"
+    },
+    {
+      "album": {
         "name": "hostage",
         "url": "https://open.spotify.com/album/6PhyLVVPnjbiQwGsk6wwlL"
       },
@@ -2422,7 +2476,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 169000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/4KOK9rRVZY9Wp7Buh1oZDj"
@@ -2689,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "ice lemon tea freestyle",
+        "url": "https://open.spotify.com/album/150xerEonlyZpb9WPXSph9"
+      },
+      "artists": [
+        {
+          "name": "TENGY",
+          "url": "https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124745,
+      "name": "ice lemon tea freestyle",
+      "url": "https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR"
+    },
+    {
+      "album": {
         "name": "Blank Canvas",
         "url": "https://open.spotify.com/album/6R7Pcj4kp69W8pjBVXu5if"
       },
@@ -2888,6 +2964,24 @@
       "duration_ms": 190370,
       "name": "JADED",
       "url": "https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn"
+    },
+    {
+      "album": {
+        "name": "JENNIE KIM",
+        "url": "https://open.spotify.com/album/69xE3rrHApo376cqrSUwDS"
+      },
+      "artists": [
+        {
+          "name": "pretty havoc.",
+          "url": "https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "JENNIE KIM",
+      "url": "https://open.spotify.com/track/5UuyPQ1fFEUv9zQcvdAB0S"
     },
     {
       "album": {
@@ -3122,7 +3216,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 196733,
       "name": "life is not boring",
       "url": "https://open.spotify.com/track/2pmVkZoieBMlBgHhM5eHeT"
@@ -3268,7 +3362,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 150511,
       "name": "Love Like You",
       "url": "https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA"
@@ -3782,6 +3876,24 @@
       "duration_ms": 131520,
       "name": "Mysterious Interstellar Matter",
       "url": "https://open.spotify.com/track/2xlHbvu2g7YoGWGBMlr9rJ"
+    },
+    {
+      "album": {
+        "name": "Nadia",
+        "url": "https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf"
+      },
+      "artists": [
+        {
+          "name": "Burmese Bombshells",
+          "url": "https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "Nadia",
+      "url": "https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9"
     },
     {
       "album": {
@@ -4571,6 +4683,28 @@
     },
     {
       "album": {
+        "name": "rain in the summer",
+        "url": "https://open.spotify.com/album/6PQC9SvGNhiySsBnOoOV5t"
+      },
+      "artists": [
+        {
+          "name": "Dominic Chin",
+          "url": "https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ"
+        },
+        {
+          "name": "aeriqah",
+          "url": "https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182935,
+      "name": "rain in the summer",
+      "url": "https://open.spotify.com/track/1GYj88rWEhM0ElpBCdFRxZ"
+    },
+    {
+      "album": {
         "name": "Ready to Breathe",
         "url": "https://open.spotify.com/album/2yWlVmAyQ6E57G1mRArgKC"
       },
@@ -4662,6 +4796,28 @@
       "duration_ms": 178285,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb"
+    },
+    {
+      "album": {
+        "name": "rocketship",
+        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "rocketship",
+      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
     },
     {
       "album": {
@@ -4896,7 +5052,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 129936,
       "name": "She A Rockstar",
       "url": "https://open.spotify.com/track/0tctuDVTPw6WSzfuFnPU9w"
@@ -5008,7 +5164,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 208000,
       "name": "Social Disaster",
       "url": "https://open.spotify.com/track/4HH0dKxiIjkrVzhB8Tcc6M"
@@ -5674,7 +5830,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 180000,
       "name": "TRACK A",
       "url": "https://open.spotify.com/track/0AWnWgw3kp51f9SODPmWxP"
@@ -5768,7 +5924,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 169032,
       "name": "u lose",
       "url": "https://open.spotify.com/track/3HyTBOfVyVLYjJsqYl1JYx"
@@ -5913,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "METADRAMATIC",
+        "url": "https://open.spotify.com/album/2hwcTP5vjAZJfULKrRWGv8"
+      },
+      "artists": [
+        {
+          "name": "St. Humain",
+          "url": "https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "Wanna Talk",
+      "url": "https://open.spotify.com/track/0RA9MuqRHxpjYibbH9sJ1h"
+    },
+    {
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/5gfO3IjaHhkcozPeDvWeLK"
       },
@@ -5950,7 +6124,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 125201,
       "name": "Wanted U So",
       "url": "https://open.spotify.com/track/0GVYSWvmOuTkKtwBkhMgDc"
@@ -6200,7 +6374,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 183000,
       "name": "when it's not okay",
       "url": "https://open.spotify.com/track/4WJbqIU8HC6xaQFXrcWx7E"
@@ -6482,7 +6656,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 120000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/2MFqiHPj4gomxKEF3ivGTK"

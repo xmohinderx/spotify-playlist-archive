@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: En Sokum(\uc740\uc18c\uae08)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 35548,
+  "num_followers": 35592,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5MTQ5NywwMDAwMDAwMDUzZDhlYmMyN2M3M2I2YzcxZjgyZjA5NWZiYjY2Nzk4",
+  "snapshot_id": "MTY3MzU5MTQ5NywwMDAwMDAwMDJjMTllMTcwZWU3ZDY1MTUyYjIyZjMwMTc1YjZiNTIw",
   "tracks": [
     {
       "added_at": "2023-01-13 06:31:37",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
-        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 213480,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
+        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
-      "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "\u90fd\u5e02\u5973\u5b50",
-        "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
       },
       "artists": [
         {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
         }
       ],
-      "duration_ms": 196092,
-      "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
-      "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
+      "duration_ms": 232298,
+      "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
+      "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -475,6 +459,22 @@
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 196092,
+      "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
+      "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "timeabout,",
         "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
-      },
-      "artists": [
-        {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "You and Me Together",
-      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 195973,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "[#]",
-        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 233306,
       "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
       "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "& New",
-        "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
       },
       "artists": [
         {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 248078,
-      "name": "& New",
-      "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
+      "duration_ms": 252798,
+      "name": "Suddenly - Digging Club Seoul Version",
+      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
+        "name": "& New",
+        "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
         }
       ],
-      "duration_ms": 252798,
-      "name": "Suddenly - Digging Club Seoul Version",
-      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
+      "duration_ms": 248078,
+      "name": "& New",
+      "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
-      },
-      "artists": [
-        {
-          "name": "Seoulmoon",
-          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
-        }
-      ],
-      "duration_ms": 194772,
-      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+      },
+      "artists": [
+        {
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+        }
+      ],
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1403,6 +1403,22 @@
       "duration_ms": 200166,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1451,22 +1467,6 @@
       "duration_ms": 191587,
       "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
       "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2023-01-13 06:31:37",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-01-13 06:31:37",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
-    },
-    {
-      "added_at": "2023-01-13 06:31:37",
-      "album": {
         "name": "Myspace",
         "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+    },
+    {
+      "added_at": "2023-01-13 06:31:37",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
     },
     {
       "added_at": "2023-01-13 06:31:37",

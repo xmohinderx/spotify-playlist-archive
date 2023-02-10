@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "In The Light Of Hope",
+        "url": "https://open.spotify.com/album/3pHnYILBlmIHv7MNOXw5iq"
+      },
+      "artists": [
+        {
+          "name": "Phiala",
+          "url": "https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "In The Light Of Hope",
+      "url": "https://open.spotify.com/track/6W1g2BdA980139iaKZ8XHx"
+    },
+    {
+      "album": {
         "name": "Innervate",
         "url": "https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll"
       },
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 166271,
       "name": "L'ambience",
       "url": "https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE"

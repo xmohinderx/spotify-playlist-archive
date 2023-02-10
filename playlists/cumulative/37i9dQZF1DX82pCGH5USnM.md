@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-694 songs - 1 day 16 hr 4 min
+695 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2020-04-03\* | 2021-04-21 |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2021-06-02 |  |
 | [Lust](https://open.spotify.com/track/0j4qFTe4enF6QzswnwSl4D) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/2xSxL6nXIl9RgxhGhnhVUm) | 2:09 | 2023-01-06 |  |
+| [Luz de Noche](https://open.spotify.com/track/6vUNJkirCjWnnLyA6pE1o5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Luz de Noche](https://open.spotify.com/album/6V960Lf98JH8H46LCq0KrT) | 3:34 | 2023-02-10 |  |
 | [Maddox](https://open.spotify.com/track/2sux9kaOsisxDJW6pWKmZw) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Maddox](https://open.spotify.com/album/2XutPFVkCnENyQGz32Mvl2) | 3:05 | 2022-01-21 | 2022-04-06 |
 | [magenta](https://open.spotify.com/track/1zwI0N6UzSBzRP4Q7YApsx) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [magenta](https://open.spotify.com/album/4HO9IaPmZRDwhrj608YTYr) | 3:07 | 2022-09-02 |  |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2021-04-21 | 2021-09-09 |
@@ -510,7 +511,7 @@
 | [Safari](https://open.spotify.com/track/2sVWZpx2SYdy5zsCbNt93g) | [David Bume](https://open.spotify.com/artist/1eqMf09fOHETYtHLfTITCv) | [Safari](https://open.spotify.com/album/6wL1ZfIwEDzrsQGpP5ixXf) | 3:16 | 2020-11-11 | 2021-09-22 |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2021-04-21 | 2021-08-20 |
 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 | 2022-05-10 |  |
-| [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2021-07-08 |  |
+| [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2021-07-08 | 2023-02-10 |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2021-11-08 |  |
 | [Salty Tales](https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Salty Tales](https://open.spotify.com/album/52JSePvlPgJ8YN9sPZK0D5) | 4:50 | 2021-06-02 | 2021-08-20 |
 | [San Blas](https://open.spotify.com/track/7hTxggsd00sOUlXhBMsonM) | [Basic Amaury](https://open.spotify.com/artist/1IJxQCtcWIJ05bXGJHBMwe) | [San Blas](https://open.spotify.com/album/0vV153pcazJCHud3jTvcTH) | 2:00 | 2021-11-08 |  |

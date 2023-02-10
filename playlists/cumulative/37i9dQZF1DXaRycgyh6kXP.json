@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-10",
       "duration_ms": 332121,
       "name": "No Rise",
       "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
@@ -2730,6 +2730,24 @@
       "duration_ms": 486941,
       "name": "Together - Rework",
       "url": "https://open.spotify.com/track/6PBGwNxMnoAxJWzHCeKniV"
+    },
+    {
+      "album": {
+        "name": "Ultravisitor",
+        "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130440,
+      "name": "Tommib Help Buss",
+      "url": "https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge"
     },
     {
       "album": {

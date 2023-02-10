@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-320 songs - 16 hr 30 min
+322 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,8 @@
 | [In Solitude](https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [In Solitude](https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6) | 2:31 | 2022-05-25 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-05-25 | 2022-09-28 |
 | [Incan](https://open.spotify.com/track/5UjkShFEMrLqwajnpkzrL6) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Incan](https://open.spotify.com/album/0CmlUS7MiiPSxfP7qlmwzK) | 3:55 | 2022-05-25 | 2022-09-03 |
+| [Indiglow](https://open.spotify.com/track/5B7jFzHOJsESyrj7gMpwEQ) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [Indiglow](https://open.spotify.com/album/128G2pdIq4B8DDq9S2DMQJ) | 2:27 | 2023-02-09 |  |
+| [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 |  |
 | [Intentions](https://open.spotify.com/track/4V6wywWLT9rFRH4CFtsRxU) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 3](https://open.spotify.com/album/5cwbCf5VPtpZndvubNFKSo) | 2:48 | 2022-05-25 |  |
 | [Irmas](https://open.spotify.com/track/2Wod7pTNsGwJwZDQIt8N4H) | [Sharon Simple](https://open.spotify.com/artist/00tbcOvq709RE1UCBr7uEs) | [Irmas](https://open.spotify.com/album/3WD3qTmaxpHOQU5FL4ygnv) | 3:33 | 2022-05-25 |  |
 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 | 2022-05-25 |  |

@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,396 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,427 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mary Had a Little Lamb](https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2) | [Isa Hopkins](https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz) | [Mary Had a Little Lamb](https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD) | 2:12 |
-| 2 | [Long Ago and Far Away](https://open.spotify.com/track/55m9IfGX0Hf4WWPmZa3JKv) | [Issy Tam](https://open.spotify.com/artist/1A24SZSBVcZbWE8VJ0RkfH) | [Long Ago and Far Away](https://open.spotify.com/album/4WHAAvPCu3ZMMdmxpmky2P) | 1:50 |
+| 1 | [Long Ago and Far Away](https://open.spotify.com/track/55m9IfGX0Hf4WWPmZa3JKv) | [Issy Tam](https://open.spotify.com/artist/1A24SZSBVcZbWE8VJ0RkfH) | [Long Ago and Far Away](https://open.spotify.com/album/4WHAAvPCu3ZMMdmxpmky2P) | 1:50 |
+| 2 | [Rockabye Baby](https://open.spotify.com/track/47qIZmXcHg9kpdTzrrT0ix) | [Helene Holmes](https://open.spotify.com/artist/5iT8AiKFjTAXZqiCRrtKgx) | [Rockabye Baby](https://open.spotify.com/album/6PGMOvcJoMEuBokQmjfyWX) | 2:28 |
 | 3 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 |
-| 4 | [Rockabye Baby](https://open.spotify.com/track/47qIZmXcHg9kpdTzrrT0ix) | [Helene Holmes](https://open.spotify.com/artist/5iT8AiKFjTAXZqiCRrtKgx) | [Rockabye Baby](https://open.spotify.com/album/6PGMOvcJoMEuBokQmjfyWX) | 2:28 |
+| 4 | [Somewhere Over The Rainbow](https://open.spotify.com/track/4wviyo5E8qXmbocgb09fMF) | [Lance Marlone](https://open.spotify.com/artist/291NBS5jNCsTdGUB7bQB89) | [Somewhere Over The Rainbow](https://open.spotify.com/album/64C2Xolt7b6vfEG2qTsIPM) | 3:36 |
 | 5 | [Round Midnight](https://open.spotify.com/track/1MLEDr1iL0GcUyZJIt29rf) | [Danny Flair](https://open.spotify.com/artist/7q6R455q0Gt49HwtNxvKJS) | [Round Midnight](https://open.spotify.com/album/2maqiRfX76TnvNtghpHHBg) | 3:11 |
 | 6 | [Alice In Wonderland](https://open.spotify.com/track/4mJzer8K8AT67EkD3VLTGE) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Alice In Wonderland](https://open.spotify.com/album/2fHP1WQbizUKTyMoNDRPrV) | 2:04 |
-| 7 | [Somewhere Over The Rainbow](https://open.spotify.com/track/4wviyo5E8qXmbocgb09fMF) | [Lance Marlone](https://open.spotify.com/artist/291NBS5jNCsTdGUB7bQB89) | [Somewhere Over The Rainbow](https://open.spotify.com/album/64C2Xolt7b6vfEG2qTsIPM) | 3:36 |
-| 8 | [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:12 |
-| 9 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 |
-| 10 | [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 |
-| 11 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
-| 12 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
-| 13 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 |
-| 14 | [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 |
-| 15 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 |
-| 16 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
-| 17 | [Row Row Row Your Boat](https://open.spotify.com/track/4fPF9NifzPVlYgxAmeEaHF) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Row Row Row Your Boat](https://open.spotify.com/album/4cy0SpuvUs2Hg1OMVfWO0N) | 2:22 |
-| 18 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
-| 19 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
-| 20 | [The Very Thought of You](https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [The Very Thought of You](https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7) | 3:32 |
-| 21 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
+| 7 | [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:12 |
+| 8 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 |
+| 9 | [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 |
+| 10 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
+| 11 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
+| 12 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 |
+| 13 | [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 |
+| 14 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 |
+| 15 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
+| 16 | [Row Row Row Your Boat](https://open.spotify.com/track/4fPF9NifzPVlYgxAmeEaHF) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Row Row Row Your Boat](https://open.spotify.com/album/4cy0SpuvUs2Hg1OMVfWO0N) | 2:22 |
+| 17 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
+| 18 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
+| 19 | [The Very Thought of You](https://open.spotify.com/track/1lObGlX2OlCzecsMJW9LPd) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [The Very Thought of You](https://open.spotify.com/album/5TFDnrSIUBg4JWl3gkKrY7) | 3:32 |
+| 20 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
+| 21 | [Mary Had a Little Lamb](https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2) | [Isa Hopkins](https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz) | [Mary Had a Little Lamb](https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD) | 2:12 |
 | 22 | [Sometimes When You Sleep](https://open.spotify.com/track/15LAuh3deuRHFf07mxhObf) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's All for Love](https://open.spotify.com/album/1R050Wd5VCHL7n3avYpgkz) | 3:06 |
 | 23 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 |
 | 24 | [You Stepped Out of a Dream](https://open.spotify.com/track/5pgOIkYtekGg4F27IH1cgw) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 1:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 79 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
 | 80 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY3NTM3ODgwMCwwMDAwMDAwMGYyMWFlZGNmOTU1OWM3N2FjMjVlYWRmNDcwODhmZTM5`
+Snapshot ID: `MTY3NTkzMzY2MiwwMDAwMDAwMGZhZTE4MzlhZDI3MzJkYjc0MWVhMjBjMGVlNDE0NDc5`

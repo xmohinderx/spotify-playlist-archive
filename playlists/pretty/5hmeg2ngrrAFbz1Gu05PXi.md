@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain](/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi)
 
-### [Pure Flow](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
+### [Pure Flow Coding](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,538 likes - 111 songs - 10 hr 18 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,559 likes - 111 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 110 | [Happy Pills](https://open.spotify.com/track/6eJy88W9HCYzw3NJHRNToU) | [Younger Brother](https://open.spotify.com/artist/4ypPM5MAlxN4nbsiiHtBpu) | [The Last Days Of Gravity](https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd) | 8:48 |
 | 111 | [Know You Don't](https://open.spotify.com/track/1IimA48MOmziyhRZpxDzD5) | [Jel](https://open.spotify.com/artist/1UlLSnpsaY8RdH6W5BRObN) | [Soft Money](https://open.spotify.com/album/0fzOf2tjmaYCptKw3tecMC) | 3:34 |
 
-Snapshot ID: `MTg1LGJkOWE0MzMxZDc5MmFiMzJjZDQ5NWUyNzFkMzdiZGNjNzlmZjQxNzk=`
+Snapshot ID: `MTg2LGI3ZWRjNGVkZDIyM2I0MjQ0ZDM5NTYyZjA0Mjk4ZDVmYjNhZGI5ODY=`

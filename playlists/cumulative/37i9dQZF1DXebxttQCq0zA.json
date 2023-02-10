@@ -2537,6 +2537,42 @@
     },
     {
       "album": {
+        "name": "Indiglow",
+        "url": "https://open.spotify.com/album/128G2pdIq4B8DDq9S2DMQJ"
+      },
+      "artists": [
+        {
+          "name": "Alec Wynter",
+          "url": "https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Indiglow",
+      "url": "https://open.spotify.com/track/5B7jFzHOJsESyrj7gMpwEQ"
+    },
+    {
+      "album": {
+        "name": "Spirituale",
+        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Insieme",
+      "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
+    },
+    {
+      "album": {
         "name": "Calming Piano for Yoga and Meditation Vol 3",
         "url": "https://open.spotify.com/album/5cwbCf5VPtpZndvubNFKSo"
       },

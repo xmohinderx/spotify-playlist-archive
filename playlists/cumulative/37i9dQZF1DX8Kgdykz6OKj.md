@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-315 songs - 18 hr 9 min
+316 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Carefree](https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Carefree](https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA) | 3:10 | 2021-12-16 |  |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2021-12-16 | 2022-11-21 |
 | [Careful](https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Haiku](https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9) | 2:11 | 2022-12-15 |  |
+| [Casa Lopez](https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Casa Lopez](https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9) | 4:03 | 2023-02-09 |  |
 | [Chapter 7 \(feat\. Ty\)](https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Ty](https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj) | [Chapter 7](https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI) | 4:47 | 2022-02-18 |  |
 | [Chicken Soup](https://open.spotify.com/track/7aFOTMJpmDiIjGemA3CkgV) | [Geronimus Brothers](https://open.spotify.com/artist/1l1pcO2W0FwNBFuoJNjtyO) | [Anti\-Capitalist Love Notes](https://open.spotify.com/album/2nDyVLM7bn1BAo51OXF02G) | 2:47 | 2022-04-11 | 2022-04-19 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-20 | 2022-10-13 |
@@ -156,7 +157,7 @@
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-10-13 |  |
 | [It's Alright](https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9) | 2:56 | 2022-07-28 |  |
 | [It's Alright](https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry) | 2:56 | 2021-12-16 | 2022-07-29 |
-| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 |  |
+| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 | 2023-02-10 |
 | [Jay\-Z in 1995](https://open.spotify.com/track/3Sr6QO0oaR0LXAbSNDIU6l) | [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Jay\-Z in 1995](https://open.spotify.com/album/0JHVYb7Qxv0cjM5QTmG2uw) | 1:57 | 2022-01-13 | 2022-07-29 |
 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2021-12-16 | 2022-11-25 |
 | [Jazz Got Me](https://open.spotify.com/track/01UHYCiwhLwlmuWQZg5phl) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [SUGAR LIKE SALT](https://open.spotify.com/album/0eeaR1oyRAFtre0WoxPJSg) | 4:02 | 2022-04-11 | 2022-04-21 |

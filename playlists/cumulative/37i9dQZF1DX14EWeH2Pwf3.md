@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: Rose Villain
+> La playlist urban più grande d'Italia\. Cover: Lazza
 
 226 songs - 11 hr 13 min
 

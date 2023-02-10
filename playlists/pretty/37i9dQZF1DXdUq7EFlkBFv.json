@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 4197,
+  "num_followers": 4228,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGZhNjk3ZjY2MWNlMjE5YTVhZTI4MjAzYTEyYTQ4ODc1",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGIwYTY0Y2I4ZWNkZTAwMzhkYTA4OGIxOTI1MjcxNDBk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -807,30 +807,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
-      },
-      "artists": [
-        {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
-        },
-        {
-          "name": "Bundog",
-          "url": "https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO"
-        },
-        {
-          "name": "Why G",
-          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
-        }
-      ],
-      "duration_ms": 165924,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "It Ain't My Fault",
         "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 206720,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "Bundog",
+          "url": "https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO"
+        },
+        {
+          "name": "Why G",
+          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
+        }
+      ],
+      "duration_ms": 165924,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
     },
     {
       "added_at": "2022-10-01 16:17:17",
