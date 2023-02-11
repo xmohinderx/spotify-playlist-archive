@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Alfa Mist",
+  "description": "New jazz for open minds. Cover: Christian McBride\u2019s New Jawn",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1975,6 +1975,32 @@
     },
     {
       "album": {
+        "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
+    },
+    {
+      "album": {
         "name": "Blue Macaw",
         "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
       },
@@ -2718,6 +2744,24 @@
       "duration_ms": 133780,
       "name": "Consolation Prizes",
       "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
+    },
+    {
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0nzrCEvCwzoIATAolMF3dz"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302546,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/4zcSxhs5fzmXqO2VBblm8h"
     },
     {
       "album": {
@@ -4199,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Faith In Grace",
+        "url": "https://open.spotify.com/album/7M3IKDHdbvFszTGFVQnmUA"
+      },
+      "artists": [
+        {
+          "name": "Tivon Pennicott",
+          "url": "https://open.spotify.com/artist/3LDls2CFYVVqX9BUKnklCa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216526,
+      "name": "Faith in Grace",
+      "url": "https://open.spotify.com/track/1epeS242PWILHdDaZxt4PU"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/307bEMZhweuozTprnDpCoy"
       },
@@ -4653,6 +4715,32 @@
     },
     {
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/6T87ZRG43EaW12n4lkyItO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Zambrini",
+          "url": "https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Martin Maretti Andersen",
+          "url": "https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382122,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/1knF4LfehISZq9CuA6JaSl"
+    },
+    {
+      "album": {
         "name": "Galaxias",
         "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
       },
@@ -4880,7 +4968,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 241183,
       "name": "Glimmerings",
       "url": "https://open.spotify.com/track/5m0UzW27BFvU7DT9pzyr7v"
@@ -4928,6 +5016,24 @@
       "duration_ms": 330680,
       "name": "Gold Dust Black Magic - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/3E2BLsThQ9pYsE5Ir0fcFL"
+    },
+    {
+      "album": {
+        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497200,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/6NJsj8KRnoxAvE0ultDWbn"
     },
     {
       "album": {
@@ -5274,7 +5380,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 347153,
       "name": "Head Bedlam",
       "url": "https://open.spotify.com/track/4LleK0NHwlFzfteTE5TwyL"
@@ -5780,10 +5886,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 254573,
       "name": "I Am The Walrus",
       "url": "https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg"
+    },
+    {
+      "album": {
+        "name": "I Can't Escape from You",
+        "url": "https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278266,
+      "name": "I Can't Escape from You",
+      "url": "https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i"
     },
     {
       "album": {
@@ -6426,7 +6550,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 168674,
       "name": "Is That It?",
       "url": "https://open.spotify.com/track/0L65tAd0stYMgGBfIYeVfe"
@@ -7941,6 +8065,32 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI"
+      },
+      "artists": [
+        {
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Jared Gold",
+          "url": "https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW"
+        },
+        {
+          "name": "McClenty Hunter Jr.",
+          "url": "https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316106,
+      "name": "Mac (feat. Jared Gold & McClenty Hunter Jr.)",
+      "url": "https://open.spotify.com/track/5vAXscu4cOsbjL3VWu7Bc7"
+    },
+    {
+      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/6in6NX24NlcqF94z8lpyfj"
       },
@@ -9200,7 +9350,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 356923,
       "name": "No Words - Laroye Future Jazz Mix",
       "url": "https://open.spotify.com/track/0UDKBckPzMbnfrsuHbWagI"
@@ -9534,7 +9684,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 377231,
       "name": "Ondes of Chakras",
       "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
@@ -10125,6 +10275,28 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/18kgWafJjGMPgn9JUo2o8d"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "New Jawn",
+          "url": "https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449569,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0nIqUmyOuzXEs0l2IFPwIR"
+    },
+    {
+      "album": {
         "name": "Prime (feat. Jared Gold & McClenty Hunter Jr.)",
         "url": "https://open.spotify.com/album/6CrbZ4XivHTUY5jCeSYApo"
       },
@@ -10144,7 +10316,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 384685,
       "name": "Prime (feat. Jared Gold & McClenty Hunter Jr.)",
       "url": "https://open.spotify.com/track/15zayq9UsbCv3mu4mf1xSC"
@@ -11084,6 +11256,24 @@
       "duration_ms": 210895,
       "name": "Sant Esteve",
       "url": "https://open.spotify.com/track/6HnXF5qwBccfcxd8JZvAHu"
+    },
+    {
+      "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
     },
     {
       "album": {
@@ -13188,7 +13378,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 362813,
       "name": "The Gardens",
       "url": "https://open.spotify.com/track/5zcL9e7Dw1DgzUCqGD846y"
@@ -15240,7 +15430,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 330874,
       "name": "Wings",
       "url": "https://open.spotify.com/track/0P0vNFONGtnVFxEEk3k0K2"

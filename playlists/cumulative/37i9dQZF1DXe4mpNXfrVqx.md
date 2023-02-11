@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Hyperanhas, Tammy
 
-122 songs - 5 hr 30 min
+123 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 | 2022-07-29 |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 | 2023-02-04 |
 | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 |  |
-| [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 |  |
+| [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 | 2023-02-11 |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |
 | [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 | 2023-01-20 |  |
@@ -113,6 +113,7 @@
 | [Sem Tempo](https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Sem Tempo](https://open.spotify.com/album/4Av4a7XW2YxfupT4mJDXXh) | 2:44 | 2022-03-18 | 2022-04-23 |
 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 | 2023-02-03 |  |
 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 | 2022-04-22 |  |
+| [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 | 2023-02-10 |  |
 | [Soul](https://open.spotify.com/track/48BbXcPOpPu0XMymrDBi3k) | [Ornellas](https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Soul](https://open.spotify.com/album/2EWAQZhCgfd3oBwpJmoZpq) | 2:19 | 2022-07-08 | 2022-08-06 |
 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 | 2022-03-18 |  |
 | [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 | 2022-04-09 |

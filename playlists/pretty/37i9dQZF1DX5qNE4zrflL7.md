@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,992 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,089 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 34623,
+  "num_followers": 34697,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMDkyYzIwMjg2NGJmZjIyMDczYmY1YTc5MmIxMjAxOWFl",
+  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMDg5OGEzM2E4MmQwZWRmZTFmZTRhYzE1ZjljYjdhZjZk",
   "tracks": [
     {
       "added_at": "2023-01-10 17:33:42",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 194573,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Wish Someone Would Care",
-        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Sufferin' With The Blues",
-      "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "Wish Someone Would Care",
+        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Sufferin' With The Blues",
+      "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-01-10 17:33:42",

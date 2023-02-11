@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e! \u063a\u0644\u0627\u0641: \u0641\u0644\u064a\u0643\u0633\n",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e! \u063a\u0644\u0627\u0641: \u00a0\u0623\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631 \u0648 \u0623\u062d\u0645\u062f \u0633\u0627\u0646\u062a\u0627\n",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -82,6 +82,32 @@
       "duration_ms": 191431,
       "name": "Abales",
       "url": "https://open.spotify.com/track/6miyWg7etuBnEU4opRcR1d"
+    },
+    {
+      "album": {
+        "name": "Abo El Anwar X Ahmed Santa X Lil baba - GG | See you at @INSOMNIAEGYPT",
+        "url": "https://open.spotify.com/album/57IuOz58Aic9351GUeol4V"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Abo El Anwar X Ahmed Santa X Lil baba - GG | See you at @INSOMNIAEGYPT",
+      "url": "https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV"
     },
     {
       "album": {
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 240000,
       "name": "Marassi",
       "url": "https://open.spotify.com/track/0ENJ2buPFODud17reJ1tvI"

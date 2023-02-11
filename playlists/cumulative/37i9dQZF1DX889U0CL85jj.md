@@ -4,7 +4,7 @@
 
 > Just chill.
 
-438 songs - 1 day 1 hr 17 min
+440 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
 | [Flavour](https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Flavour](https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD) | 3:14 | 2022-09-16 | 2022-11-08 |
 | [Flaws](https://open.spotify.com/track/2fORroOyzQE1tlljfDYzwI) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Flaws](https://open.spotify.com/album/1fjLGWXbaN4icCvBD7McNo) | 2:57 | 2020-04-14 | 2022-01-22 |
-| [Fleur Blanche](https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb) | [Orsten](https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI) | [Cutworks](https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW) | 4:12 | 2021-02-27 |  |
+| [Fleur Blanche](https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb) | [Örsten](https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI) | [Cutworks](https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW) | 4:12 | 2021-02-27 |  |
 | [Flight](https://open.spotify.com/track/5UhsZ4o4QLoS5gai0ryUHp) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2p6Um10jegwsmTxQgi6ahw) | 2:21 | 2020-04-24 | 2022-07-29 |
 | [Flight](https://open.spotify.com/track/67pRBaiwhGyMpXXfPVzER3) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2KWqrfdhakTcqwy2nZ2o94) | 2:21 | 2022-06-10 | 2022-09-03 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
@@ -164,6 +164,7 @@
 | [Hate That I Love You](https://open.spotify.com/track/31ShnB0jPGQB2xySyuhtQZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/7Kkj3M3Nq9Rf1ELfTCTcBx) | 3:32 | 2020-02-28 | 2022-07-29 |
 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 | 2022-06-10 | 2022-11-26 |
 | [Haze](https://open.spotify.com/track/5exIfj2rzMhySsDBSrFUih) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Haze](https://open.spotify.com/album/1yIdC4MzIeBaetGPU765Du) | 3:47 | 2019-09-26 | 2022-01-22 |
+| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl in the Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 |  |
 | [Heartache](https://open.spotify.com/track/0u8BOpD24WHSldmmZudHxQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 2:27 | 2022-06-10 | 2022-10-08 |
 | [Heartache](https://open.spotify.com/track/6tP6nwGCCApQUavYO4PFad) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Heartache](https://open.spotify.com/album/0xwb8hxhPBRogt7gG9Pqng) | 2:27 | 2020-07-31 | 2022-07-29 |
 | [Heavenly](https://open.spotify.com/track/6dwNcWigdxPUcqfz2zM6GL) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/7kFz92XFqgJ1mAOlbZT3ky) | 4:48 | 2019-09-06 | 2022-01-22 |
@@ -188,6 +189,7 @@
 | [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 | 2022-06-18 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-05-22 | 2022-07-29 |
 | [I Leave Again](https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 4:00 | 2022-06-10 | 2022-12-21 |
+| [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-02-10 |  |
 | [I Need U](https://open.spotify.com/track/5lbdxt9C6rsELTimTkyMn8) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Need U](https://open.spotify.com/album/3c9n16f0gLbXdpmYYoRZ6O) | 2:22 | 2020-05-29 | 2022-07-29 |
 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 | 2022-06-10 | 2023-01-28 |
 | [I Never Stay In Love](https://open.spotify.com/track/7cgrzmkoIn4t0bMQ5NoatW) | [Stephen](https://open.spotify.com/artist/64N1HzkQEXvjlJBQinWeu2) | [I Never Stay In Love](https://open.spotify.com/album/7kramHTbDhB8FADYJCv2fa) | 4:04 | 2020-05-08 | 2022-01-22 |
@@ -289,7 +291,7 @@
 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 | 2022-06-10 |  |
 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-06-01 |  |
 | [Oyster Bay](https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO) | [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Oyster Bay](https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6) | 5:43 | 2023-01-06 |  |
-| [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 | 2022-04-29 |  |
+| [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 | 2022-04-29 | 2023-02-11 |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-04-05 | 2022-08-06 |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-08-03 | 2023-02-04 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-06-17 |  |
@@ -315,7 +317,7 @@
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-27 |  |
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-09-02 |  |
-| [Running](https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Running](https://open.spotify.com/album/7FV8an2r9aQwCDIS0ItDEz) | 4:10 | 2022-11-11 |  |
+| [Running](https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Running](https://open.spotify.com/album/7FV8an2r9aQwCDIS0ItDEz) | 4:10 | 2022-11-11 | 2023-02-11 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-05 |  |
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 |  |
@@ -426,7 +428,7 @@
 | [When Will I Learn](https://open.spotify.com/track/2ScZesPRtAwvZvajHgxDdQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/57AipIrXqa433GDNRygUsC) | 2:49 | 2021-06-07 | 2022-05-03 |
 | [When Will I Learn](https://open.spotify.com/track/4fhDUKvSmbTtK4yrwV29Q2) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [A Force Majeure](https://open.spotify.com/album/3JQs8Qu80vtIekyP8JIrDH) | 2:49 | 2022-01-21 |  |
 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2022-01-21 | 2022-08-20 |
-| [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2022-04-29 |  |
+| [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2022-04-29 | 2023-02-11 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-07 | 2023-01-06 |
 | [Why Suffer??](https://open.spotify.com/track/0gfimXIWrkA2n23UMXWYUF) | [Carlos Truly](https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8) | [Not Mine](https://open.spotify.com/album/43z1fbbpu0Ja2kDg8t6ZuG) | 3:20 | 2022-08-05 |  |
 | [Wild World](https://open.spotify.com/track/3K5v9paUrw1sDVtZeeBxwt) | [des hume](https://open.spotify.com/artist/0jR4cjFAcy3TmLw06xdKxh) | [Wild World](https://open.spotify.com/album/0N4WAn04Ny96Yge3J75G8U) | 3:14 | 2020-04-24 | 2022-01-22 |

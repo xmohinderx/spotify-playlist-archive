@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: LANNDS\. Artwork by Isu Kim\. Updates every Wednesday.
 
-3,019 songs - 6 day 22 hr 16 min
+3,025 songs - 6 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [Fragile](https://open.spotify.com/track/08P0rCZzo3qjCk6O9p0Gjp) | [Bade](https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz) | [Fragile](https://open.spotify.com/album/4LgNaOfIQ24KSz3SENag21) | 3:01 | 2022-04-13 | 2022-04-28 |
 | [Fragments](https://open.spotify.com/track/2rcBJz7HHMGC2VMON3iZU5) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Fragments EP](https://open.spotify.com/album/2LVd2sUecbXALnezX842ks) | 3:47 | 2022-05-25 | 2022-06-09 |
 | [frame it](https://open.spotify.com/track/00vY0JBNlplMF3fg4aJgRM) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [frame it](https://open.spotify.com/album/0loqTYdnHr3KfNzIok2PkP) | 3:10 | 2022-08-03 | 2022-08-11 |
+| [France](https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [France](https://open.spotify.com/album/6dbddqE1Mc5Mao0hlyUDq9) | 2:14 | 2023-02-10 |  |
 | [Francuski łącznik](https://open.spotify.com/track/3641llTDy8rJ502J8SnKUP) | [Tropiki](https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw) | [Panorama](https://open.spotify.com/album/7zZfUf4jVsH38OvemHiuGP) | 4:15 | 2022-06-08 | 2022-06-16 |
 | [Frangipani](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE) | [Hinterland Rhapsody / Frangipani](https://open.spotify.com/album/7AmGcLQgkmIGfnhfKamEsS) | 4:21 | 2022-05-18 | 2022-05-26 |
 | [Frankenstein](https://open.spotify.com/track/1UaKZDqPvCfFX2kgqOczsB) | [TRAMP](https://open.spotify.com/artist/6ijgEPSDNChOTSh7hmRf7t) | [Frankenstein](https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz) | 3:12 | 2022-04-27 | 2022-05-05 |
@@ -1886,6 +1887,7 @@
 | [Nogueira](https://open.spotify.com/track/2RJItWtvRHnixZvNEeX4yb) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Nogueira](https://open.spotify.com/album/0gNPNf2lNBAy9Q5b1ket5I) | 4:42 | 2022-02-23 | 2022-03-03 |
 | [nosedive](https://open.spotify.com/track/532neynwa0xjqPWziBjSMa) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [nosedive](https://open.spotify.com/album/3o0z53mbwaD2B3cG3M7uPd) | 3:35 | 2022-02-16 | 2022-02-24 |
 | [Not Alone](https://open.spotify.com/track/5fdn7UJ3gArMH0aqVpGJs5) | [Laney Jones](https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS) | [Not Alone](https://open.spotify.com/album/1m17e2WfejAPFUlLA5CVdl) | 2:53 | 2022-03-23 | 2022-03-31 |
+| [Not Done](https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Not Done](https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC) | 2:36 | 2023-02-10 |  |
 | [Not In Love](https://open.spotify.com/track/1fmmgQIiz6i0F44LrgwDs8) | [Lady Dan](https://open.spotify.com/artist/5FflDIlGvj2Mqrptpa1dHF) | [Not In Love](https://open.spotify.com/album/5VpqsXpQ4RjGSTroJAMJbh) | 3:28 | 2022-02-16 | 2022-02-24 |
 | [Not Like Them](https://open.spotify.com/track/2RrPlTxCzDY9PibX4fkFhy) | [Mount Pleasant](https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz) | [Not Like Them](https://open.spotify.com/album/4hmJY5jHikwnnqhhwC7dVw) | 4:30 | 2022-08-03 | 2022-08-11 |
 | [not looking out the window anymore](https://open.spotify.com/track/2vDzZ0Yk7edmhkAfo6EOIF) | [wilter](https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R) | [not looking out the window anymore](https://open.spotify.com/album/2YFR31AesNgeQDdRcwVYDO) | 4:35 | 2022-02-02 | 2022-02-10 |
@@ -2028,6 +2030,7 @@
 | [Paths](https://open.spotify.com/track/4UHUcV7KiI86HGZfCBigdV) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [Paths](https://open.spotify.com/album/106kGoWEDM1BJhus1oiUZt) | 2:26 | 2022-05-04 | 2022-05-12 |
 | [Patience](https://open.spotify.com/track/25nKH6GqJzyrdFnKnJYZcJ) | [Jawan x Tiffany](https://open.spotify.com/artist/7FhN2piwL7x4je3G5JyeEW) | [Patience](https://open.spotify.com/album/5Fn7jOm4tFDBpKL9KeRnO8) | 3:18 | 2022-10-05 | 2022-10-13 |
 | [Patrick Bateman](https://open.spotify.com/track/5joRTYGvgL8bOwcPVdHqHe) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Patrick Bateman](https://open.spotify.com/album/5zafwGrhiXnnHCLJu8nRNZ) | 3:03 | 2022-05-25 | 2022-06-09 |
+| [Pay 2 Play](https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm) | 2:16 | 2023-02-10 |  |
 | [PDA](https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [PDA](https://open.spotify.com/album/4BkL6XR15aQOvDcpyPdWkF) | 3:02 | 2022-08-03 | 2022-08-11 |
 | [PDF](https://open.spotify.com/track/4gQPATYQSZ4BfiW2Csb2f4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:03 | 2022-09-28 | 2022-10-06 |
 | [Peaches In My Ice Cream \- stripped](https://open.spotify.com/track/76108dgESayZKaflIpqEvN) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [Peaches In My Ice Cream \(stripped\)](https://open.spotify.com/album/3ACVeNbbKn48yZWscn3yHg) | 2:04 | 2022-05-04 | 2022-05-12 |
@@ -2641,6 +2644,7 @@
 | [THCR](https://open.spotify.com/track/4zopHhGUF9X2MDyNEUMWEa) | [RSquared](https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2) | [Hey You](https://open.spotify.com/album/33Q3bbhETprTMfewNJMAbW) | 3:33 | 2022-08-24 | 2022-09-01 |
 | [The Afterlove](https://open.spotify.com/track/3sdrR0EFMVYweJi7lZPjez) | [Emily Blue](https://open.spotify.com/artist/31rxF8WiC0tz6yNzgVP5Tf) | [The Afterlove](https://open.spotify.com/album/2ws38qKDWwSpghCht5ojMV) | 3:29 | 2022-01-12 | 2022-01-20 |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-02 | 2022-03-10 |
+| [THE BOOK OF ENOCH](https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR) | [THE BOOK OF ENOCH](https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo) | 2:29 | 2023-02-10 |  |
 | [The Boy Who Cried Love](https://open.spotify.com/track/2NTX4lpTcfl4BnzzX0EHXv) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [The Boy Who Cried Love](https://open.spotify.com/album/4vfxI4Ev5DxHEGHVk2I1ZJ) | 2:40 | 2022-08-24 | 2022-09-01 |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2022-01-12 | 2022-01-20 |
 | [The Case of Bucky Briar](https://open.spotify.com/track/2O7QpyQxRDANQCH8I7rB4r) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [The Case of Bucky Briar](https://open.spotify.com/album/46TyuPwKIlBpe5Y5563DcL) | 4:27 | 2022-10-05 | 2022-10-13 |
@@ -2885,6 +2889,7 @@
 | [We Got This](https://open.spotify.com/track/5jzV13ovjoArYwbVHfn3jk) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f) | [We Got This](https://open.spotify.com/album/5ORoKNQ7nLxBCGKsyOmBY3) | 2:43 | 2022-07-27 | 2022-08-04 |
 | [We Just Wanna Dance](https://open.spotify.com/track/0YLQuErftRnJBXfBPbpnYk) | [Blonde Diamond](https://open.spotify.com/artist/0skYMbISqV2drnQbJopK8Y) | [We Just Wanna Dance](https://open.spotify.com/album/7raU4ZiegrZtpCQjXfL5xW) | 2:56 | 2022-08-24 | 2022-09-01 |
 | [We Move](https://open.spotify.com/track/7ePGTnGVTTRoCYOBDkW5Ta) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [We Move](https://open.spotify.com/album/313n4Ze4YTAr4i6zAomeZl) | 5:31 | 2022-01-26 | 2022-02-03 |
+| [WE UP!](https://open.spotify.com/track/6gkx7beLILfdau11eptyDa) | [crtl](https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6) | [CONCRETE](https://open.spotify.com/album/3vTS0z3hThRgEg0gCqmCBI) | 2:00 | 2023-02-10 |  |
 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 | 2022-09-28 | 2022-10-06 |
 | [Weeknds](https://open.spotify.com/track/57Y8WotV24YRtum09gHvHl) | [G Moore](https://open.spotify.com/artist/0A2wxnCvNf7Pp4WON7YH3Y) | [Weeknds](https://open.spotify.com/album/2D3CUXEtEU7XqzP0BDBXCY) | 2:27 | 2022-08-03 | 2022-08-11 |
 | [WEIGHT](https://open.spotify.com/track/22ho6OA8g33pPqcuqQzWow) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [Worth the Weight](https://open.spotify.com/album/1tn68eJ6MANt5N0m5d3edi) | 2:10 | 2022-09-28 | 2022-10-06 |
@@ -2953,6 +2958,7 @@
 | [WHY! \(Jack's Joint\)](https://open.spotify.com/track/2BwSqHhFOMMHmgo8e5oQ5O) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [SANDBOX](https://open.spotify.com/album/0U9pkYmdYhjcL2K9dQEAQq) | 2:51 | 2022-06-15 | 2022-06-30 |
 | [Wide Awake](https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:48 | 2022-04-06 | 2022-04-14 |
 | [Wide Open](https://open.spotify.com/track/0YShQ5alIoF9aSPUtWUryx) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Wide Open](https://open.spotify.com/album/26t4uVVqQ4noVrMQPt3lAl) | 3:30 | 2022-10-19 | 2022-10-27 |
+| [Wild ASF](https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN) | [Duece Uno](https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Wild ASF](https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ) | 2:30 | 2023-02-10 |  |
 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-08-24 | 2022-09-01 |
 | [Wildside](https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2) | [Yousef](https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF), [Penny F.](https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd) | [Wildside](https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J) | 4:09 | 2022-05-11 | 2022-05-19 |
 | [Will](https://open.spotify.com/track/095yKla5Kd5llODkGjgNze) | [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Will](https://open.spotify.com/album/5r5hUEdm1NE5RzHRaiXZ9Y) | 3:17 | 2022-07-27 | 2022-08-04 |

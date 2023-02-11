@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-111 songs - 9 hr 13 min
+113 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 | 2022-10-28 | 2023-02-04 |
 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 | 2022-09-09 | 2022-12-24 |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2022-09-09 |  |
+| [Estratégia](https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Estratégia](https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr) | 6:04 | 2023-02-11 |  |
 | [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 | 2022-09-09 |  |
-| [Eu Cheguei](https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Eu Cheguei](https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW) | 3:56 | 2023-01-13 |  |
+| [Eu Cheguei](https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Eu Cheguei](https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW) | 3:56 | 2023-01-13 | 2023-02-11 |
 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 | 2022-09-09 |  |
 | [Eu Não Desisto](https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Eu Não Desisto](https://open.spotify.com/album/6D3eEwIDgbIgoqJsBauwRq) | 4:30 | 2022-09-09 |  |
 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 | 2022-11-04 |  |
@@ -80,13 +81,14 @@
 | [Olha Você Aí](https://open.spotify.com/track/3lmKyXR7M4bTrzUWrM90eM) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Olha Você Aí](https://open.spotify.com/album/0hSIqNjbnDJdWlwUpzwKd4) | 5:02 | 2022-09-09 | 2022-10-29 |
 | [Olhando Pra Você](https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Olhando Pra Você](https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s) | 4:08 | 2022-09-09 | 2022-10-29 |
 | [Onde Está Sua Fé?](https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Onde Está Sua Fé?](https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem) | 5:08 | 2022-09-09 |  |
+| [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 | 2023-02-11 |  |
 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 | 2022-09-09 |  |
 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 | 2022-09-09 |  |
 | [Prepare o Culto](https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Prepare o Culto](https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN) | 6:00 | 2023-02-03 |  |
 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 | 2022-09-09 |  |
 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2022-09-09 |  |
 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 | 2022-09-09 |  |
-| [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 | 2022-09-09 |  |
+| [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 | 2022-09-09 | 2023-02-11 |
 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 | 2022-09-09 |  |
 | [Quero\-Quero](https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Quero\-Quero](https://open.spotify.com/album/3sILMSaEy2PrXPhwAwizTf) | 5:37 | 2022-09-09 | 2022-10-08 |
 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-11-26 |  |

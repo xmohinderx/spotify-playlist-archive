@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f). abby sage on the cover.",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f). chiiild on the cover.",
   "name": "indie pop & chill",
   "tracks": [
     {
@@ -878,6 +878,24 @@
       "duration_ms": 171897,
       "name": "Anthony Kiedis",
       "url": "https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     },
     {
       "album": {
@@ -3662,7 +3680,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
@@ -9455,6 +9473,24 @@
     },
     {
       "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145275,
+      "name": "late night thoughts",
+      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO"
       },
@@ -11707,6 +11743,28 @@
     },
     {
       "album": {
+        "name": "off",
+        "url": "https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF"
+      },
+      "artists": [
+        {
+          "name": "harper gordon",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        },
+        {
+          "name": "Good Karma",
+          "url": "https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "off",
+      "url": "https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK"
+    },
+    {
+      "album": {
         "name": "Off the Rails",
         "url": "https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS"
       },
@@ -11824,6 +11882,24 @@
       "duration_ms": 208333,
       "name": "ok on your own (feat. Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/3VPYvUpoIyBTormdQdVAkW"
+    },
+    {
+      "album": {
+        "name": "Old With You",
+        "url": "https://open.spotify.com/album/25IShYtZX8wk1wFgPObY8m"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206956,
+      "name": "Old With You",
+      "url": "https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax"
     },
     {
       "album": {
@@ -13746,7 +13822,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 184377,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q"
@@ -13858,7 +13934,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 157054,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt"
@@ -14006,7 +14082,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 215895,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/2UmrAOZI329X453Z0u1H1K"
@@ -14050,6 +14126,24 @@
       "duration_ms": 151153,
       "name": "Setlist",
       "url": "https://open.spotify.com/track/4E500ArzZSmQdNdWGXXXTx"
+    },
+    {
+      "album": {
+        "name": "Anxious Avoidant Deluxe",
+        "url": "https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208277,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ"
     },
     {
       "album": {
@@ -17078,7 +17172,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"

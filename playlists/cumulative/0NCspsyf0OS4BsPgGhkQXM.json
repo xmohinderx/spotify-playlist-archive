@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop The Feeling",
+        "url": "https://open.spotify.com/album/4mWFs8LRVuZFTcvyBl6rve"
+      },
+      "artists": [
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277200,
+      "name": "Can't Stop The Feeling",
+      "url": "https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z"
       },
@@ -8727,6 +8745,32 @@
     },
     {
       "album": {
+        "name": "Odd Ones Out",
+        "url": "https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225405,
+      "name": "Odd Ones Out",
+      "url": "https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB"
+    },
+    {
+      "album": {
         "name": "On A Dime",
         "url": "https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C"
       },
@@ -11544,6 +11588,28 @@
       "duration_ms": 146400,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/2n117fBCTe4gj22OdvuQcf"
+    },
+    {
+      "album": {
+        "name": "Suffocate (with Medyk)",
+        "url": "https://open.spotify.com/album/1pHm35ouv4EZTRKG16BivY"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214383,
+      "name": "Suffocate (with Medyk)",
+      "url": "https://open.spotify.com/track/4qthHCfI3PqI9dhvblRN8o"
     },
     {
       "album": {

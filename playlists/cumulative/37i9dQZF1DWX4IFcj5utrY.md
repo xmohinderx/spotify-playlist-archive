@@ -2,7 +2,7 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe Cover: <a href="https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE?si=WYFynyVXRua75ZiDP4D2ag">Saint Evo</a>
+> The best dance hits in South Africa and across the globe Cover: <a href="https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt?si=SwBzz0kwT5CI2F2HYKLuMw">TiMO ODV</a>
 
 710 songs - 2 day 19 hr 55 min
 

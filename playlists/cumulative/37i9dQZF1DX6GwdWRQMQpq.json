@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Baby Tate",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: PinkPantheress & Ice Spice",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -108,6 +108,28 @@
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
+    },
+    {
+      "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ"
     },
     {
       "album": {
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 172155,
       "name": "Gift & A Curse",
       "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
@@ -3159,6 +3181,32 @@
     },
     {
       "album": {
+        "name": "No Clappin' Shemix (Throw It)",
+        "url": "https://open.spotify.com/album/10wYFzsg9sNxbdqliDHThs"
+      },
+      "artists": [
+        {
+          "name": "Spiffy The Goat",
+          "url": "https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "No Clappin' Shemix (Throw It)",
+      "url": "https://open.spotify.com/track/382nGMKiFtrip7ZZxAyeZZ"
+    },
+    {
+      "album": {
         "name": "No Effort",
         "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
       },
@@ -3678,7 +3726,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 156073,
       "name": "Pray It Away",
       "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
@@ -4452,7 +4500,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 183687,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
@@ -5268,6 +5316,40 @@
       "duration_ms": 132493,
       "name": "Yeah B*tch (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"
+    },
+    {
+      "album": {
+        "name": "You The Type",
+        "url": "https://open.spotify.com/album/7H6MsLhxLDDNpeymsKNXDH"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "You The Type",
+      "url": "https://open.spotify.com/track/7x5u4be4YDbkD31q3tNj2u"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq"

@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 166778,
       "name": "Asakaa",
       "url": "https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 173934,
       "name": "Bad Guy (feat. Lord Afrixana)",
       "url": "https://open.spotify.com/track/0VqRt3AX9DqM6GbLFx48Dc"
@@ -615,6 +615,52 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Cityboy",
+          "url": "https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw"
+        },
+        {
+          "name": "Thomas the Great",
+          "url": "https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        },
+        {
+          "name": "O\u2019Kenneth",
+          "url": "https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG"
+    },
+    {
+      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
@@ -836,7 +882,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 161833,
       "name": "Doe",
       "url": "https://open.spotify.com/track/3qSMDanw52WJQVDrvzG9zu"
@@ -862,6 +908,32 @@
       "duration_ms": 227399,
       "name": "Don't Judge Me",
       "url": "https://open.spotify.com/track/1y3ZCAnV9zc9phRc90ZimK"
+    },
+    {
+      "album": {
+        "name": "Don't Mind Them",
+        "url": "https://open.spotify.com/album/6OHVWyWyeeTqj641UjwpdS"
+      },
+      "artists": [
+        {
+          "name": "A-swxg",
+          "url": "https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg"
+        },
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        },
+        {
+          "name": "Delis",
+          "url": "https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "Don't Mind Them",
+      "url": "https://open.spotify.com/track/7wv3O2Mc4XX1vHWkJfFej0"
     },
     {
       "album": {
@@ -1211,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "From Osu",
+        "url": "https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z"
+      },
+      "artists": [
+        {
+          "name": "Gasmilla",
+          "url": "https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204980,
+      "name": "From Osu",
+      "url": "https://open.spotify.com/track/6V6uaUFRJD73rWx5bjujan"
+    },
+    {
+      "album": {
         "name": "Gbedu",
         "url": "https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0"
       },
@@ -1400,7 +1490,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 210755,
       "name": "Hmm - Remix",
       "url": "https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU"
@@ -1500,7 +1590,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 168836,
       "name": "Just Wana Live",
       "url": "https://open.spotify.com/track/4KvrTUqzgC6U1ABhep2JJY"
@@ -1518,7 +1608,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 175758,
       "name": "Keep Moving On",
       "url": "https://open.spotify.com/track/0dMffju5HNrl8dAmjvm87F"
@@ -1826,7 +1916,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 156666,
       "name": "MOBB (feat. Le Juiice)",
       "url": "https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY"
@@ -1906,7 +1996,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 258638,
       "name": "My way",
       "url": "https://open.spotify.com/track/74rUf2ON34vk6L9ay6q7cJ"
@@ -2008,7 +2098,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 162500,
       "name": "Nothing Matter",
       "url": "https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO"
@@ -2093,6 +2183,54 @@
     },
     {
       "album": {
+        "name": "Ohemaa",
+        "url": "https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0"
+      },
+      "artists": [
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        },
+        {
+          "name": "Lord Paper",
+          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213843,
+      "name": "Ohemaa",
+      "url": "https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b"
+    },
+    {
+      "album": {
+        "name": "On The Road (Navigating)",
+        "url": "https://open.spotify.com/album/6p4AL7KE86FERbj9lsMqML"
+      },
+      "artists": [
+        {
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
+        },
+        {
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+        },
+        {
+          "name": "Kimati",
+          "url": "https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "On The Road (Navigating)",
+      "url": "https://open.spotify.com/track/4Iiha3otqci5DaCOiepGIU"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1"
       },
@@ -2104,7 +2242,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
@@ -2257,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Rapapam",
+        "url": "https://open.spotify.com/album/1poN8zaH8JCnozsI9QuWhY"
+      },
+      "artists": [
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Rapapam",
+      "url": "https://open.spotify.com/track/5ghsreJSSNB8uqgs67QdFt"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2"
       },
@@ -2316,7 +2472,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 176694,
       "name": "Round 2 (feat. Giggs)",
       "url": "https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG"
@@ -2646,7 +2802,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 175699,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/43tWFsS0ym9fYjWEUWE9Af"
@@ -2758,7 +2914,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 225751,
       "name": "Switch",
       "url": "https://open.spotify.com/track/7yRAFznS8XbA9g8KkCW83X"
@@ -2802,7 +2958,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 189283,
       "name": "That\u2019s Life",
       "url": "https://open.spotify.com/track/7aAcvHu06RUuV4hm7RVRMo"
@@ -2912,10 +3068,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 208968,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
+    },
+    {
+      "album": {
+        "name": "War with Us",
+        "url": "https://open.spotify.com/album/2VZEGAa6Ayif90T8d5K88G"
+      },
+      "artists": [
+        {
+          "name": "BornBhad",
+          "url": "https://open.spotify.com/artist/0YpGY5k114UOgKcxBVDjlX"
+        },
+        {
+          "name": "Larruso",
+          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146677,
+      "name": "War with Us",
+      "url": "https://open.spotify.com/track/55D4ykonla5u5gz8pmvwBx"
     },
     {
       "album": {
@@ -3000,7 +3178,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 208674,
       "name": "Wooi",
       "url": "https://open.spotify.com/track/6L2OD1lRq0KidB47AOZTev"
@@ -3054,7 +3232,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 154723,
       "name": "YARD",
       "url": "https://open.spotify.com/track/1DyEnuuMTy2fh3ZZTd0cUf"

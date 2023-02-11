@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 131591,
+  "num_followers": 131660,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDY3NWYzM2ZhNjVlZThiZGIwMWZiNmRhMzMyNjQ5MzY3",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc0N2Y5NmQ4NTRkZTI3NjgxNzc1ZTA3N2ZjMjkzODE1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Alien Coast",
         "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
-      },
-      "artists": [
-        {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Eno Nothing",
-      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 360946,
       "name": "Juniper Arms",
       "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Eno Nothing",
+      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 140164,
-      "name": "Hippo",
-      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
     },
     {
       "added_at": "2022-07-22 04:00:00",

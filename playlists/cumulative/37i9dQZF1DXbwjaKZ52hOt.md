@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-301 songs - 8 hr 52 min
+302 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bingo \- Sing with Me](https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Your ABCs! Letter Songs and Phonics for Children with LittleBabyBum](https://open.spotify.com/album/1eE8Rnlz8CuBXJ5EwwbFXm) | 1:56 | 2022-02-25 |  |
 | [Bingo \- Sing with Me](https://open.spotify.com/track/3fwTHMM4gvjUwMBwXxSr4d) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Baby Shark & Other Animal Songs! Fun Music for Children with LittleBabyBum](https://open.spotify.com/album/77u8x13BHWehiOtLrLs1Id) | 1:56 | 2022-02-25 | 2022-11-14 |
 | [Bingo Dog Song Nursery Rhyme](https://open.spotify.com/track/0Tt9r7jWnURy3CrJ5fzsxY) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Toddler Songs & Nursery Rhymes for Babies, Vol\. 1 \(US Version\)](https://open.spotify.com/album/2ZKTW5UsFiU4Y9Z38SbY4a) | 2:43 | 2022-02-25 |  |
+| [Boom Chicka Boom](https://open.spotify.com/track/2AqOMwusPmBbi11l8Uq4Oz) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Songs From Caitie's Classroom Vol\. 1](https://open.spotify.com/album/1QzT5b6dybiknccv1tFNy2) | 3:30 | 2023-02-10 |  |
 | [Clap Your Hands](https://open.spotify.com/track/0QAN2I3VggUp43foMTzKOn) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:30 | 2022-02-25 |  |
 | [Curly Locks](https://open.spotify.com/track/0hFVYqoH1SWPlR6YFOmYgT) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:41 | 2022-02-25 |  |
 | [Daisy Bell \(Bicycle Built for Two\)](https://open.spotify.com/track/0MMwvews31GnUzRiGPxnS7) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:20 | 2022-02-25 |  |

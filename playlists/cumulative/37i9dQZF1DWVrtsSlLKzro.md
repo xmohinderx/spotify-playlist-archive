@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-254 songs - 15 hr 20 min
+256 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2021-12-03 | 2022-10-13 |
 | [Gone](https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Not Since When](https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id) | 3:09 | 2023-01-06 |  |
 | [Good Together](https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:57 | 2021-12-03 |  |
+| [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 | 2023-02-11 |  |
 | [Half Way Home](https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Half Way Home](https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh) | 2:57 | 2021-12-03 |  |
 | [Haunt Me V.2](https://open.spotify.com/track/0p1ZGE1Y7OWADp1UNIGTvy) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [EDC Las Vegas 2021](https://open.spotify.com/album/5IBne83Up06sVwVAacqzTc) | 4:58 | 2022-10-28 | 2022-11-13 |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-12-03 | 2022-10-13 |
@@ -247,6 +248,7 @@
 | [Where Did You Go](https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA) | 3:44 | 2022-09-30 |  |
 | [Where Did You Go](https://open.spotify.com/track/2Kv0ZWjR7jiReO1dyEyTDe) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Redux EP 005](https://open.spotify.com/album/4TDpnU6BpjTz7ffghMwgvq) | 3:44 | 2022-10-28 | 2022-11-13 |
 | [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 | 2021-12-03 | 2022-10-14 |
+| [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-02-11 |  |
 | [Where Does Love Go](https://open.spotify.com/track/3VUwjqEHajKn7LXUAbQU4z) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Where Does Love Go](https://open.spotify.com/album/4ZTlaMTm9avp0E2n8TVGwI) | 4:23 | 2021-12-03 |  |
 | [White Lie](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [White Lie](https://open.spotify.com/album/31wVVPpxS9EJFkuWiMvpc8) | 3:56 | 2022-07-08 |  |
 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 | 2021-12-03 |  |

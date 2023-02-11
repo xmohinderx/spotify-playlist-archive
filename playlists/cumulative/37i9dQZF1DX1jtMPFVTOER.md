@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Jonah Yano
 
-389 songs - 23 hr 20 min
+390 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Home](https://open.spotify.com/track/6zxurTaIpnxtpMQeb5gvua) | [Mia LJ](https://open.spotify.com/artist/6pDxZqoS1BAtgXbKaUGLSt) | [Home](https://open.spotify.com/album/0Y6AXld0XCPUsfJNE3GqJq) | 3:26 | 2021-11-12 | 2022-05-14 |
 | [Humble](https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 3:39 | 2022-10-21 |  |
 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 | 2021-11-12 | 2022-05-14 |
+| [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 |  |
 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 | 2022-09-23 |  |
 | [Identity Crisis](https://open.spotify.com/track/2CKJVIBKFkgKcuejpnpc78) | [Shortie No Mass](https://open.spotify.com/artist/2SW5YLY1eOQryID9wt4uHM) | [Identity Crisis](https://open.spotify.com/album/1aveWj0GQHHhovTcz1tpRt) | 4:08 | 2021-11-26 | 2022-02-19 |
 | [If I Pray](https://open.spotify.com/track/6JOzu3tXKj3zj3Ieuz3qgU) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [Wasted Talent](https://open.spotify.com/album/6wth8qkkWxKdmxpXpVs4Oz) | 3:26 | 2022-06-10 | 2022-11-12 |
@@ -339,7 +340,7 @@
 | [The King's Affirmation \- Chill Mix](https://open.spotify.com/track/6IcuqbXDXJn5JXEprL8MEh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY), [Reuel Williams](https://open.spotify.com/artist/5fIxFWu72sN8zOyBMd1VBy) | [The King's Affirmation \- Chill Mix](https://open.spotify.com/album/1KEChekx5ObwwFsyzfzMxE) | 3:06 | 2022-07-15 | 2023-01-06 |
 | [The King’s Affirmation \- Chill Mix](https://open.spotify.com/track/73fsiKPnqoUz3VftCKUvgM) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY), [Reuel Williams](https://open.spotify.com/artist/5fIxFWu72sN8zOyBMd1VBy) | [The King’s Affirmation \(Chill Mix\)](https://open.spotify.com/album/1gvY9QxK2MXieONBehwpD7) | 3:06 | 2022-07-15 | 2022-11-10 |
 | [The Long Juju Slave Route of Arochokwu](https://open.spotify.com/track/2DvCrMyz3oq1xCmBGofrWG) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH), [SANITY](https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U) | [Ibio\-Ibio](https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC) | 4:33 | 2022-09-30 |  |
-| [The Merchant of Flatbush](https://open.spotify.com/track/0WJ9TYoYrjO0SBb13dsHO5) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [The Merchant of Flatbush](https://open.spotify.com/album/4gJbIqbZAFiSZxDbDpEGPW) | 6:46 | 2022-08-19 |  |
+| [The Merchant of Flatbush](https://open.spotify.com/track/0WJ9TYoYrjO0SBb13dsHO5) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [The Merchant of Flatbush](https://open.spotify.com/album/4gJbIqbZAFiSZxDbDpEGPW) | 6:46 | 2022-08-19 | 2023-02-11 |
 | [The Music Is The Magic](https://open.spotify.com/track/6Oyc9RidszDnwTkyWJXZbT) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Y’all Don’t \(Really\) Care About Black Women](https://open.spotify.com/album/746qWwUCILB8ZILy6wkXFZ) | 1:14 | 2021-11-12 | 2022-02-19 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2021-11-12 | 2022-05-14 |
 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 | 2022-10-14 |  |

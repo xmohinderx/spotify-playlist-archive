@@ -1,13 +1,33 @@
 {
   "description": "Featuring that new vintage. Cover: Blessing Offor",
-  "num_followers": 403811,
+  "num_followers": 403808,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDk1YThkYjlkMzNkYWQ4YmY1ZGZmNzhmZWU0MWMxZDMw",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGU1MjRiM2NiNWI5NDlkODk5OTUzMDMxOTJjMWU5MmJk",
   "tracks": [
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe"
+    },
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {
@@ -25,36 +45,20 @@
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+        "name": "The Light Shines Brightest In The Dark (From Marlowe)",
+        "url": "https://open.spotify.com/album/49KNelepray4YxHWWnANnB"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+      "duration_ms": 214204,
+      "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
+      "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -71,6 +75,22 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -93,20 +113,20 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Hard Days Love",
-        "url": "https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X"
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
       },
       "artists": [
         {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 223559,
-      "name": "Hard Days Love",
-      "url": "https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO"
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "added_at": "2022-05-02 20:03:12",
@@ -123,22 +143,6 @@
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -193,38 +197,6 @@
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Getting Older",
-        "url": "https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 264814,
-      "name": "Getting Older",
-      "url": "https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Don't I Make It Look Easy",
-        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154888,
-      "name": "Don't I Make It Look Easy",
-      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "LEGEND",
@@ -259,6 +231,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Don't I Make It Look Easy",
+        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154888,
+      "name": "Don't I Make It Look Easy",
+      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -309,6 +297,22 @@
       "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Maybe We Could Be a Thing",
@@ -349,6 +353,42 @@
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "The Joy of Music",
@@ -381,26 +421,6 @@
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "end credits",
@@ -415,22 +435,6 @@
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -469,22 +473,6 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Songs About You",
@@ -499,6 +487,22 @@
       "duration_ms": 202386,
       "name": "Songs About You",
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -569,6 +573,22 @@
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Hard Days Love",
+        "url": "https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X"
+      },
+      "artists": [
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "duration_ms": 223559,
+      "name": "Hard Days Love",
+      "url": "https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -625,6 +645,22 @@
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Getting Older",
+        "url": "https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 264814,
+      "name": "Getting Older",
+      "url": "https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Sweet",
@@ -673,22 +709,6 @@
       "url": "https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "comfortably in pain",
-        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 153315,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Where the Light Is",
@@ -713,6 +733,22 @@
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
     },
     {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "comfortably in pain",
+        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 153315,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "about time",
@@ -733,22 +769,6 @@
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "WTSDG (with Alessia Cara)",
@@ -767,6 +787,22 @@
       "duration_ms": 244013,
       "name": "Wtsdg (with Alessia Cara)",
       "url": "https://open.spotify.com/track/45Dhc9gFBVFwaxSgzBd7Lo"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -997,22 +1033,6 @@
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Smile",
@@ -1027,6 +1047,22 @@
       "duration_ms": 170720,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "It Will Come In Time",
+        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "It Will Come In Time",
+      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1061,26 +1097,6 @@
       "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sacred Place",
-        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kest",
-          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
-        },
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Turn the Radio Up",
@@ -1099,6 +1115,26 @@
       "duration_ms": 199605,
       "name": "Turn the Radio Up (feat. Jewel)",
       "url": "https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sacred Place",
+        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kest",
+          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
+        },
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1133,22 +1169,6 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Dancing Slow",
@@ -1169,20 +1189,20 @@
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2022-01-07 05:02:00",
       "album": {
-        "name": "Face The River",
-        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
         {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1199,6 +1219,22 @@
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Face The River",
+        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
       "added_at": "2022-05-17 14:55:58",
@@ -1265,22 +1301,6 @@
       "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "How Did You Leave?",
@@ -1295,6 +1315,22 @@
       "duration_ms": 200677,
       "name": "How Did You Leave?",
       "url": "https://open.spotify.com/track/4NlABb46zLMHcaZHnSGyNG"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1365,22 +1401,6 @@
       "url": "https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Party City",
-        "url": "https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 260308,
-      "name": "Party City",
-      "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Perfect Day",
@@ -1401,20 +1421,20 @@
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Drippin' In Love",
-        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+        "name": "Party City",
+        "url": "https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo"
       },
       "artists": [
         {
-          "name": "Frankie Zulferino",
-          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
         }
       ],
-      "duration_ms": 245901,
-      "name": "Drippin' In Love",
-      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+      "duration_ms": 260308,
+      "name": "Party City",
+      "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1431,6 +1451,22 @@
       "duration_ms": 204513,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+      },
+      "artists": [
+        {
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1527,6 +1563,22 @@
     {
       "added_at": "2022-04-15 04:01:00",
       "album": {
+        "name": "downBAD",
+        "url": "https://open.spotify.com/album/0Yb29Jc2wTL7h2S1pKNp13"
+      },
+      "artists": [
+        {
+          "name": "Stop Light Observations",
+          "url": "https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ"
+        }
+      ],
+      "duration_ms": 174762,
+      "name": "downBAD",
+      "url": "https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -1559,22 +1611,6 @@
       "duration_ms": 143504,
       "name": "Grammy",
       "url": "https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "downBAD",
-        "url": "https://open.spotify.com/album/0Yb29Jc2wTL7h2S1pKNp13"
-      },
-      "artists": [
-        {
-          "name": "Stop Light Observations",
-          "url": "https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ"
-        }
-      ],
-      "duration_ms": 174762,
-      "name": "downBAD",
-      "url": "https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1687,38 +1723,6 @@
       "duration_ms": 275586,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Homebody",
-        "url": "https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7"
-      },
-      "artists": [
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Freedom (Johnny's Song)",
-        "url": "https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Freedom (Johnny's Song)",
-      "url": "https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq"
     }
   ],
   "unique_name": "Retro Pop",

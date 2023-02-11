@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
-137 songs - 7 hr 14 min
+140 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aka Plaka](https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1) | [Aka Plaka](https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv) | 2:51 | 2023-01-13 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-08-03 |  |
 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 | 2021-12-13 |  |
+| [Antisocial](https://open.spotify.com/track/7tEsY4EB0tKXDgbv3JLRG4) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Rich Vagos Mixtape, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN) | 3:00 | 2023-02-10 |  |
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 |  |
 | [Autodefensa](https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MARICA](https://open.spotify.com/artist/3uuVC225TxrBKJB1SmnOlq) | [Autodefensa](https://open.spotify.com/album/2vXHHCAjX6a9wf4GmosnoO) | 3:52 | 2023-01-13 |  |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-12-13 | 2023-02-06 |
@@ -60,7 +61,8 @@
 | [Experiencia](https://open.spotify.com/track/2hJtIUSPDlqqCKDt5dSyYO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/0R9wzfqAVBxRvfuRGFQIDs) | 2:13 | 2022-06-27 |  |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 | 2022-07-29 |
 | [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 |  |
-| [Final Fantasy](https://open.spotify.com/track/36wFYnv9kmqepKlE7nAP44) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Final Fantasy](https://open.spotify.com/album/2WZ6YtJNQR2YGJ1ICuqIpt) | 3:13 | 2022-08-16 |  |
+| [Final Fantasy](https://open.spotify.com/track/36wFYnv9kmqepKlE7nAP44) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Final Fantasy](https://open.spotify.com/album/2WZ6YtJNQR2YGJ1ICuqIpt) | 3:13 | 2022-08-16 | 2023-02-11 |
+| [Final Fantasy](https://open.spotify.com/track/5elUiabm5yiaWvGtFzGYQ8) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Final Fantasy](https://open.spotify.com/album/0lxPqr9OfPh6RAT40NhVlF) | 3:13 | 2022-10-16 |  |
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2022-06-27 |  |
@@ -133,6 +135,7 @@
 | [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 | 2021-12-13 | 2022-08-05 |
 | [Te Regalo](https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz) | 4:26 | 2022-08-03 |  |
 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 | 2021-12-13 |  |
+| [Thug Love](https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar) | [Vitz Music](https://open.spotify.com/artist/6dEJkQwezGsQdWJyLGEjDf), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01) | [Thug Love](https://open.spotify.com/album/4i8kWHlG8oMVp9yc7z666C) | 3:14 | 2023-02-10 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 |  |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2021-12-13 | 2022-01-22 |
 | [Traka Tra](https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Traka Tra](https://open.spotify.com/album/295frGzYkpnGmvuT9BxfEA) | 1:58 | 2021-12-13 |  |

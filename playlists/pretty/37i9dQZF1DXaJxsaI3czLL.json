@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 120778,
+  "num_followers": 120821,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3NjA1NiwwMDAwMDAwMDgyNjU2M2VlNzZkYjlmNzUyMjgwODA4NzkzMzE5YTBl",
+  "snapshot_id": "MTY3NTk3NjA1NiwwMDAwMDAwMDc4ZjJhNTBmZWUwZTc3Y2I3Mjk2MzBkNjg1YzM1OTli",
   "tracks": [
     {
       "added_at": "2023-02-09 20:54:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-09 20:54:16",
       "album": {
-        "name": "19\u2103",
-        "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 253722,
-      "name": "19\u2103",
-      "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
-    },
-    {
-      "added_at": "2023-02-09 20:54:16",
-      "album": {
         "name": "eureka",
         "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 210000,
       "name": "eureka",
       "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+    },
+    {
+      "added_at": "2023-02-09 20:54:16",
+      "album": {
+        "name": "19\u2103",
+        "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 253722,
+      "name": "19\u2103",
+      "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
     },
     {
       "added_at": "2023-02-09 20:54:16",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-02-09 20:54:16",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
         }
       ],
-      "duration_ms": 356973,
-      "name": "Lady - 2020",
-      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
       "added_at": "2023-02-09 20:54:16",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-09 20:54:16",
       "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Lady - 2020",
+      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
+    },
+    {
+      "added_at": "2023-02-09 20:54:16",
+      "album": {
         "name": "\u702c\u3068\u702c",
         "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 283149,
       "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2023-02-09 20:54:16",
-      "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
-      },
-      "artists": [
-        {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
       "added_at": "2023-02-09 20:54:16",

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Brit Taylor
 
-387 songs - 23 hr 56 min
+388 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 | 2022-07-22 | 2023-01-14 |
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 | 2022-12-03 |
 | [Ain't a Hard Livin'](https://open.spotify.com/track/3Ndzwn3uw5CcJ4OZALd37H) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Ain't a Hard Livin'](https://open.spotify.com/album/7EUkGDRavvteciSpTp1e9B) | 2:46 | 2023-01-13 |  |
+| [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 |  |
 | [Ain't That Lovin' You](https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Ain't That Lovin' You](https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A) | 2:19 | 2022-04-01 | 2022-08-06 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-04-01 | 2022-06-18 |
 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-12-17 | 2022-10-29 |
@@ -232,7 +233,7 @@
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-17 |  |
 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 | 2022-04-04 |  |
 | [Never Coming Back](https://open.spotify.com/track/4bg1Z7DB1mmqsTxjhoTXxR) | [John Doe](https://open.spotify.com/artist/4uyMcYXJM1rO5fvC9lOKwF) | [Fables in a Foreign Land](https://open.spotify.com/album/4oGR0FeyIITUvlPQ9BWhnE) | 3:25 | 2022-06-24 |  |
-| [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2022-02-22 |  |
+| [Never Leave You](https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:56 | 2022-02-22 | 2023-02-11 |
 | [Nice Things](https://open.spotify.com/track/2KmJNXpDwYWJFYfrWPgf5x) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:48 | 2022-02-22 |  |
 | [Night After Night](https://open.spotify.com/track/5CL6QLlz3pLtZg5T0EeNbS) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Night After Night](https://open.spotify.com/album/0tZTBQyG5GILL8wfv3BseE) | 2:41 | 2022-09-23 |  |
 | [No Cowboys](https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX) | 3:47 | 2023-02-03 |  |

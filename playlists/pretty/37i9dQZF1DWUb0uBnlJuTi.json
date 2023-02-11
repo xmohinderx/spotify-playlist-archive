@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 248044,
+  "num_followers": 248343,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGNiZjRhOGU2N2I3OTM2M2QzZjNiMmU0ODBhMmE0Njgz",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDVhNWY3YTU0NWFjOWNhZDhmZGYyMTdhOWEyZWMwY2Jl",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -89,36 +89,28 @@
       "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "Family Business, Pt. 2 (Instrumental)",
-        "url": "https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI"
       },
       "artists": [
         {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
         },
         {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+          "name": "Jared Gold",
+          "url": "https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW"
         },
         {
-          "name": "Daniel Casares",
-          "url": "https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD"
-        },
-        {
-          "name": "Max Cowan",
-          "url": "https://open.spotify.com/artist/45QRLF7w0KJv3c8Bf4F90H"
-        },
-        {
-          "name": "Jamie Moore",
-          "url": "https://open.spotify.com/artist/2x97nEU3EZS9rDG7nsccQj"
+          "name": "McClenty Hunter Jr.",
+          "url": "https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs"
         }
       ],
-      "duration_ms": 198657,
-      "name": "Stone Cold Lovin' - Instrumental",
-      "url": "https://open.spotify.com/track/3jivAYYsjOYojktybnVC9R"
+      "duration_ms": 316106,
+      "name": "Mac (feat. Jared Gold & McClenty Hunter Jr.)",
+      "url": "https://open.spotify.com/track/5vAXscu4cOsbjL3VWu7Bc7"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -185,10 +177,10 @@
       "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Rock and Clap (Instrumental)",
-        "url": "https://open.spotify.com/album/0Xvzr8Et5NfflTsYLGF7q8"
+        "name": "Family Business, Pt. 2 (Instrumental)",
+        "url": "https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI"
       },
       "artists": [
         {
@@ -200,13 +192,21 @@
           "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
         },
         {
-          "name": "Darian Gray",
-          "url": "https://open.spotify.com/artist/3PPmXLzzOi8bqxo4Mqs4ec"
+          "name": "Daniel Casares",
+          "url": "https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD"
+        },
+        {
+          "name": "Max Cowan",
+          "url": "https://open.spotify.com/artist/45QRLF7w0KJv3c8Bf4F90H"
+        },
+        {
+          "name": "Jamie Moore",
+          "url": "https://open.spotify.com/artist/2x97nEU3EZS9rDG7nsccQj"
         }
       ],
-      "duration_ms": 318660,
-      "name": "Rock and Clap - Instrumental",
-      "url": "https://open.spotify.com/track/3oEgsFby908LnVyx0rbvgc"
+      "duration_ms": 198657,
+      "name": "Stone Cold Lovin' - Instrumental",
+      "url": "https://open.spotify.com/track/3jivAYYsjOYojktybnVC9R"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -275,6 +275,22 @@
       "duration_ms": 187346,
       "name": "The Revolution Will Not Be Televised",
       "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/44QNn43CMkEyzWvbr1lW8v"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "duration_ms": 284148,
+      "name": "Sanchez",
+      "url": "https://open.spotify.com/track/75pHHXVMycJIX961oCotoW"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -517,22 +533,6 @@
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Maria Fuma\u00e7a (Remasterizado)",
-        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
-      },
-      "artists": [
-        {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Mr. Funky samba",
-      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
-    },
-    {
       "added_at": "2021-02-13 05:01:00",
       "album": {
         "name": "Always Let Me Go",
@@ -551,6 +551,22 @@
       "duration_ms": 280463,
       "name": "Always Let Me Go",
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Maria Fuma\u00e7a (Remasterizado)",
+        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
+      },
+      "artists": [
+        {
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Mr. Funky samba",
+      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 299889,
-      "name": "Shuffle Bubble",
-      "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Blacks And Blues",
@@ -615,6 +615,22 @@
       "duration_ms": 470640,
       "name": "Harlem River Drive",
       "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "duration_ms": 299889,
+      "name": "Shuffle Bubble",
+      "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
     },
     {
       "added_at": "2021-08-02 13:59:54",
@@ -727,22 +743,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Satin Doll",
         "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 413893,
       "name": "New York Times - Remastered 2002",
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -787,6 +803,22 @@
       "duration_ms": 456114,
       "name": "Celestial Blues",
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "SOURCE",
+        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 404773,
+      "name": "The Message Continues",
+      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -823,6 +855,38 @@
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Old World Monkeys",
+        "url": "https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM"
+      },
+      "artists": [
+        {
+          "name": "The Seven Ups",
+          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
+        }
+      ],
+      "duration_ms": 283220,
+      "name": "Old World Monkeys",
+      "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -863,54 +927,6 @@
       "duration_ms": 459809,
       "name": "Slow Change",
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "SOURCE",
-        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 404773,
-      "name": "The Message Continues",
-      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Old World Monkeys",
-        "url": "https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM"
-      },
-      "artists": [
-        {
-          "name": "The Seven Ups",
-          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
-        }
-      ],
-      "duration_ms": 283220,
-      "name": "Old World Monkeys",
-      "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -989,22 +1005,6 @@
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1019,6 +1019,22 @@
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2021-12-17 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1145,22 +1161,6 @@
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Music Ruined My Life",
-        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 205829,
-      "name": "The Necessary Change",
-      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Thrust",
@@ -1177,20 +1177,20 @@
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
-      "added_at": "2021-11-26 05:01:00",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Refractions",
-        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
+        "name": "Music Ruined My Life",
+        "url": "https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO"
       },
       "artists": [
         {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
         }
       ],
-      "duration_ms": 217118,
-      "name": "Refractions",
-      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
+      "duration_ms": 205829,
+      "name": "The Necessary Change",
+      "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1211,6 +1211,22 @@
       "duration_ms": 230000,
       "name": "Squid Exit Music - 7\" radio edit",
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
+    },
+    {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Refractions",
+        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 217118,
+      "name": "Refractions",
+      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -1357,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
-    },
-    {
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "Funky Times",
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Step Down / La Fachada",
-        "url": "https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
       "artists": [
         {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 199002,
-      "name": "La Fachada",
-      "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1431,6 +1431,22 @@
       "duration_ms": 317957,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Step Down / La Fachada",
+        "url": "https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        }
+      ],
+      "duration_ms": 199002,
+      "name": "La Fachada",
+      "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1493,22 +1509,6 @@
       "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     },
     {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Pressure Sensitive",
@@ -1539,22 +1555,6 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "New Ammo",
-        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Sure Shot",
-      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     }
   ],
   "unique_name": "Jazz-Funk",

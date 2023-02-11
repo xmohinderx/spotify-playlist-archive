@@ -782,7 +782,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
@@ -3418,6 +3418,28 @@
       "duration_ms": 177560,
       "name": "Shadow Hat",
       "url": "https://open.spotify.com/track/2wvPeKh9udSbiaOhjgFOUO"
+    },
+    {
+      "album": {
+        "name": "Shobeedoo",
+        "url": "https://open.spotify.com/album/42pbEBSanykkM4lh0U7Oyz"
+      },
+      "artists": [
+        {
+          "name": "Deladap",
+          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
+        },
+        {
+          "name": "Melinda Stoika",
+          "url": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202207,
+      "name": "Shobeedoo",
+      "url": "https://open.spotify.com/track/63AMal2hqym3vEXxMniR9f"
     },
     {
       "album": {

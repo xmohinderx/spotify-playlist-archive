@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Brooklyn Sessions 11",
+        "url": "https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY"
+    },
+    {
+      "album": {
         "name": "Higher Love (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk"
       },

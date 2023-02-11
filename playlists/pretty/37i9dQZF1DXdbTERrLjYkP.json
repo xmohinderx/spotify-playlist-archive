@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rowan Drake",
-  "num_followers": 78789,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Devon Gabriella",
+  "num_followers": 78862,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDJiODQwZTI1NTI3ZGUzZmMzYTVkYzk4YzQ5OTQzYmRl",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDJkOGY0YTk1OGIxNTRmYTQzOTIzNWM2ODE5OTVhNDBl",
   "tracks": [
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "get clean",
+        "url": "https://open.spotify.com/album/3f1WstC1D1nSBC0UnYKiyi"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "get clean",
+      "url": "https://open.spotify.com/track/39V3VQLac3aORyPvSqG3fb"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
@@ -25,6 +57,38 @@
       "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
     },
     {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 207489,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Girl Who Comes Next",
+        "url": "https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a"
+      },
+      "artists": [
+        {
+          "name": "Ariana and the Rose",
+          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
+        }
+      ],
+      "duration_ms": 205243,
+      "name": "Girl Who Comes Next",
+      "url": "https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "3 Months",
@@ -39,6 +103,22 @@
       "duration_ms": 270527,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "And Then Some",
+        "url": "https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 189985,
+      "name": "And Then Some",
+      "url": "https://open.spotify.com/track/6s0gFpKKKxd8EDhTCvEbYf"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -71,6 +151,22 @@
       "duration_ms": 165000,
       "name": "How The Story Ends",
       "url": "https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "healing hurts",
+        "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 185321,
+      "name": "you'd never know",
+      "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -203,22 +299,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "healing hurts",
-        "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 185321,
-      "name": "you'd never know",
-      "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Broken English",
         "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
       },
@@ -327,22 +407,6 @@
       "duration_ms": 189672,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Where do we go now?",
-        "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -516,7 +580,7 @@
           "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
         }
       ],
-      "duration_ms": 284370,
+      "duration_ms": 282690,
       "name": "17",
       "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
     },
@@ -623,22 +687,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Bumble Bee",
-        "url": "https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl"
-      },
-      "artists": [
-        {
-          "name": "Mila Degray",
-          "url": "https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu"
-        }
-      ],
-      "duration_ms": 249696,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Skeleton Key",
         "url": "https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q"
       },
@@ -655,22 +703,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "gray",
-        "url": "https://open.spotify.com/album/5wfZA3LL0GrFgjmfqjDWPE"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cirri",
-          "url": "https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr"
-        }
-      ],
-      "duration_ms": 174772,
-      "name": "gray",
-      "url": "https://open.spotify.com/track/0zGBgmHIxDT7nxt7w4hxOE"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "You Might Not Like Her",
         "url": "https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4"
       },
@@ -683,22 +715,6 @@
       "duration_ms": 202066,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 166030,
       "name": "Drunk in the Bathtub",
       "url": "https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "I Wanna Be In Love Again",
-        "url": "https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY"
-      },
-      "artists": [
-        {
-          "name": "Madds Buckley",
-          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
-        }
-      ],
-      "duration_ms": 277498,
-      "name": "I Wanna Be In Love Again",
-      "url": "https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ"
     },
     {
       "added_at": "2023-02-03 05:00:00",

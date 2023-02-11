@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Chapter 5 Letter",
+        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
+    },
+    {
+      "album": {
         "name": "Chapter 5",
         "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 251213,
       "name": "Vision",
       "url": "https://open.spotify.com/track/0ijms7rWvEqB7TIIE3kCbG"

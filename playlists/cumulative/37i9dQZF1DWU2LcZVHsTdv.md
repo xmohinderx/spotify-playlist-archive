@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Luke Bryan
 
-172 songs - 10 hr 33 min
+174 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
 | [Churches and Bars](https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Churches and Bars](https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa) | 3:18 | 2022-09-09 |  |
 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 | 2022-08-26 |  |
+| [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 | 2023-02-10 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-05-06 |  |
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 | 2022-04-15 |  |
@@ -107,6 +108,7 @@
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2022-07-29 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2022-07-15 |  |
+| [No Prayer Like Mama's](https://open.spotify.com/track/4ePJLYgmBBBcUaUEzKpDOk) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Micah Wilshire](https://open.spotify.com/artist/6iEg5PUFTHtRCqbqFirvQO) | [No Prayer Like Mama's](https://open.spotify.com/album/085BMJh3MhylH0fHuet6Fe) | 2:41 | 2023-02-10 |  |
 | [Ol' Church Hymn](https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Ol' Church Hymn](https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA) | 3:31 | 2022-09-30 |  |
 | [One More Hallelujah](https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [One More Hallelujah](https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3) | 4:12 | 2021-12-10 |  |
 | [Outskirts of Heaven](https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Outskirts of Heaven](https://open.spotify.com/album/01h48bHLP7QXPSUcpUdj1z) | 4:04 | 2021-12-10 | 2022-07-29 |

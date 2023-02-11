@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: Savage Ga$p",
-  "num_followers": 431637,
+  "num_followers": 432421,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg4MTM4NCwwMDAwMDAwMDA2N2ZjNGY1MTBjNTlkMDFlZjkxN2E1YjA0OWUzZGQ4",
+  "snapshot_id": "MTY3NjA0NjYzNywwMDAwMDAwMDRiYjU1MzVlOTIzN2NmMTYwZTgwMjczY2FmMGU0NDNj",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -343,6 +343,26 @@
       "duration_ms": 90625,
       "name": "NEXTBOT!",
       "url": "https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr"
+    },
+    {
+      "added_at": "2023-02-10 16:30:37",
+      "album": {
+        "name": "Cyber!",
+        "url": "https://open.spotify.com/album/6jKjmMdTd717UG6SXCOZGI"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "scrot!",
+          "url": "https://open.spotify.com/artist/3kOJVA2xUgMPWClERz2q5M"
+        }
+      ],
+      "duration_ms": 144031,
+      "name": "Cyber!",
+      "url": "https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2"
     },
     {
       "added_at": "2023-01-06 16:11:10",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: 220 KID, Willim, Kang Daniel",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: PimryPie x HYO",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -1444,6 +1444,28 @@
       "duration_ms": 193341,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm"
+    },
+    {
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM"
+      },
+      "artists": [
+        {
+          "name": "PimryPie",
+          "url": "https://open.spotify.com/artist/7z8ogkK79YxSjsssdusjdm"
+        },
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B"
     },
     {
       "album": {

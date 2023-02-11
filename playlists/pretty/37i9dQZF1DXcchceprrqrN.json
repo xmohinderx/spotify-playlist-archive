@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 23085,
+  "num_followers": 23271,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMGZkMWFhZDQxNDI4ZmU1ZmY4ZWU0MDVjNjkyYjU5OGY5",
+  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMDU1NjI1ZmI2OTU0YjVlMDNjZjg2ZmNlZWRlNjc1YmVi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -271,18 +271,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+        "name": "SURVIVORS GUILT: THE MIXTAPE//",
+        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 129119,
-      "name": "SICK OF IT*",
-      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+      "duration_ms": 118733,
+      "name": "estella//",
+      "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "SURVIVORS GUILT: THE MIXTAPE//",
-        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 118733,
-      "name": "estella//",
-      "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "God Is a Circle",
+        "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "God Is a Circle",
+      "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "cyanide (feat. cryogeyser)",
         "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 145920,
       "name": "Biohazard",
       "url": "https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "God Is a Circle",
-        "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "God Is a Circle",
-      "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Wayfinding",
         "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6bKQ8iw83w4iyACgoEzPt4"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
     },
     {
       "added_at": "2023-01-13 05:00:00",

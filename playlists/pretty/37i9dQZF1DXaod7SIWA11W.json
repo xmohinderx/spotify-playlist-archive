@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Kierra Sheard",
-  "num_followers": 38232,
+  "num_followers": 38398,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMwNDcwOSwwMDAwMDAwMDA1YzZkMjkzMDI4MDRmMDMxOWEzYTgxYWVkNzFhOWNj",
+  "snapshot_id": "MTY3NTMwNDcwOSwwMDAwMDAwMGU4ZGI0OTdhMTM0YjllYmI1ODlkOTAzZTI1NGEyYWFh",
   "tracks": [
     {
       "added_at": "2023-02-02 02:25:09",
@@ -31,42 +31,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "El Shaddai",
-        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "El Shaddai",
-      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -87,6 +51,42 @@
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "El Shaddai",
+        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "El Shaddai",
+      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Stand Strong (feat. Sunday Service Choir)",
+        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 182791,
+      "name": "Stand Strong (feat. Sunday Service Choir)",
+      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Transitions (Live)",
         "url": "https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 300653,
       "name": "Every Blessing - Live",
       "url": "https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Give Him Praise",
         "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Ficky Ficky",
         "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 104147,
       "name": "Ficky Ficky",
       "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -779,22 +799,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
       },
       "artists": [
         {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -811,22 +827,6 @@
       "duration_ms": 229053,
       "name": "I Rely",
       "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Not Forgotten",
-        "url": "https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv"
-      },
-      "artists": [
-        {
-          "name": "Be Amplified",
-          "url": "https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W"
-        },
-        {
-          "name": "Anaysha Figueroa-Cooper",
-          "url": "https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Not Forgotten",
-      "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Not Forgotten",
+        "url": "https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv"
+      },
+      "artists": [
+        {
+          "name": "Be Amplified",
+          "url": "https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W"
+        },
+        {
+          "name": "Anaysha Figueroa-Cooper",
+          "url": "https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Not Forgotten",
+      "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 216055,
       "name": "Lift Me Again - Acoustic",
       "url": "https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 384255,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 232849,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Look At You",
-        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 384255,
-      "name": "Look At You",
-      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Journey: Acoustic Sessions",
-        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 322083,
-      "name": "Okay - Acoustic",
-      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Journey: Acoustic Sessions",
+        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 322083,
+      "name": "Okay - Acoustic",
+      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
       "artists": [
         {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+          "name": "Christ Encounter",
+          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
+      "duration_ms": 248057,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
       },
       "artists": [
         {
-          "name": "Christ Encounter",
-          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
         }
       ],
-      "duration_ms": 248057,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+      "duration_ms": 147000,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
     },
     {
       "added_at": "2023-02-02 02:25:09",

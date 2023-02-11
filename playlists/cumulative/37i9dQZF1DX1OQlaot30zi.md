@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Kassimi, Escomar, Paky, Rondodasosa e tanti altri.
 
-1,299 songs - 2 day 11 hr 28 min
+1,302 songs - 2 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ce l'hai](https://open.spotify.com/track/4bgqD4wOAm6XqxnpuvPcj7) | [Attila](https://open.spotify.com/artist/4dLVhtuSzBh5fPam7fNnES), [GuIRIE](https://open.spotify.com/artist/4OqwjGEy8AP6FvRcypvXoR) | [Ce l'hai](https://open.spotify.com/album/12CbyPsnuRD8l2tV6YZsWH) | 2:50 | 2022-07-28 | 2022-08-13 |
 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 | 2023-01-26 |  |
 | [Cellphone \(feat\. Rhove & Bianca Costa\)](https://open.spotify.com/track/4wijO5YHrGBaf49IEQ2oZ3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:32 | 2022-11-25 | 2022-12-16 |
+| [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-02-10 |  |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-09 | 2023-01-13 |
 | [CESENA](https://open.spotify.com/track/1LeLs06rDO7xncbNXvqpJK) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Giordy](https://open.spotify.com/artist/4kJkxmZLk4rfFKTmKbdInO), [Frisio](https://open.spotify.com/artist/5y5Lf6igP3nDIifegEhoNF) | [CESENA](https://open.spotify.com/album/4ZUqbbyQPbk2bCPB07Ksbd) | 2:59 | 2023-01-26 |  |
 | [CHAAANCE](https://open.spotify.com/track/7CrfyZx1NagubkJZpXdBsA) | [YD Kiku](https://open.spotify.com/artist/4VGrVZ7Alhf74EDqM21Qr1) | [CHAAANCE](https://open.spotify.com/album/5OrI3fMDwAiLN6ngZrIUTt) | 1:58 | 2022-12-09 | 2022-12-16 |
@@ -546,6 +547,7 @@
 | [ICONA HIP HOP \(feat\. Emis Killa\)](https://open.spotify.com/track/1RbbYt6bWEFevLft00b4sS) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 2:44 | 2022-06-02 | 2022-06-23 |
 | [Igloo](https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Igloo](https://open.spotify.com/album/5AA5aRX6SDYGP6HbcXvlQz) | 2:35 | 2022-10-06 | 2022-10-28 |
 | [Il ballo dei soldi](https://open.spotify.com/track/2797B0k7KNQNfsv8yS3LWr) | [Cristian Margelia](https://open.spotify.com/artist/5VPQZTf2iiPKyDJNKwuKg5), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [Il ballo dei soldi](https://open.spotify.com/album/1E0UP75s2950CegI1dgSwg) | 2:19 | 2022-05-10 | 2022-05-13 |
+| [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 | 2023-02-10 |  |
 | [Il coraggio di dirti](https://open.spotify.com/track/18FcA4logPoWj73sYqanLU) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 2:46 | 2022-09-15 | 2022-09-30 |
 | [IL DIAVOLO STA NEL DETTAGLIO](https://open.spotify.com/track/0nmFFpmkBHLn7nMwIQ38vf) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [IL DIAVOLO STA NEL DETTAGLIO](https://open.spotify.com/album/6btbLW4VhWY1U02ZibolbT) | 2:33 | 2023-01-12 | 2023-01-20 |
 | [Il Lungo Viaggio](https://open.spotify.com/track/2u4M59kSJu8FgoHOEg4qgB) | [Al Castellana](https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Il Lungo Viaggio](https://open.spotify.com/album/5pBR0lNjj02gNnEpW4m0HL) | 4:02 | 2022-06-16 | 2022-06-24 |
@@ -678,6 +680,7 @@
 | [Lunatico](https://open.spotify.com/track/7tS7fSQ34xZzMkWNNo1Sfm) | [Sparta](https://open.spotify.com/artist/0uxHBhXizaruxZJ58AgOiP) | [Lunatico](https://open.spotify.com/album/0SRb5UQmEezMHYkB4j0rCi) | 2:31 | 2022-07-21 | 2022-08-13 |
 | [Lycamobile](https://open.spotify.com/track/1VFhL47A4eXjEkb8Posmdq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Lycamobile](https://open.spotify.com/album/7CnUxTj8QB1OybIkKwXRBc) | 2:24 | 2022-09-01 | 2022-10-04 |
 | [Ma Belle](https://open.spotify.com/track/2d8Kj0NmBismd5bm9AH0Ob) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Ma Belle](https://open.spotify.com/album/07Cnw6OSvw7eA2iECCRRSD) | 2:26 | 2023-01-12 | 2023-02-03 |
+| [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-02-10 |  |
 | [MADE IN U.E.](https://open.spotify.com/track/1DQ6CRbAAAJAe0l0G9LkBK) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MADE IN U.E.](https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX) | 2:22 | 2022-11-18 | 2022-12-02 |
 | [Mafia](https://open.spotify.com/track/1iszsZnEU4tMN0DcGQ48UL) | [Young Rame](https://open.spotify.com/artist/2Nl7TO1yi0ambHrlfQORgv), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Mafia](https://open.spotify.com/album/6T4uPXZw7oS7mX4fijjNLc) | 2:53 | 2022-12-22 | 2023-01-20 |
 | [Magico \(feat\. Gemitaiz\)](https://open.spotify.com/track/4nUqoQfG391wJtHqSJNCsi) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Magico](https://open.spotify.com/album/5HE1KUe13iWzEpiF0oFmdF) | 3:01 | 2022-10-06 | 2022-10-28 |

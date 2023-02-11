@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-473 songs - 1 day 4 hr 40 min
+474 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Moving On and Getting Over](https://open.spotify.com/track/1CdEcheLJU6SgxnbFEj2WX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave One](https://open.spotify.com/album/5GkyQHN2jO9L05VV0gBnGH) | 4:21 | 2022-03-30 | 2022-04-21 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-03-30 | 2023-01-22 |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-24 | 2022-07-29 |
-| [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 |  |
+| [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 | 2023-02-11 |
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2022-12-25 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
@@ -371,6 +371,7 @@
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 | 2022-10-21 |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
+| [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-02-10 |  |
 | [Spread Lurve \- Original Mix](https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt) | [Pools](https://open.spotify.com/artist/4CVKH0jR8E2EjMGYN2Wi21) | [Innertubes](https://open.spotify.com/album/3ESWPoVJbo3tj9feBOhLD2) | 5:06 | 2021-12-16 | 2022-07-20 |
 | [Still Feel Like Your Man](https://open.spotify.com/track/3pdWCmUno1bWzYIdYwoiMM) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave Two](https://open.spotify.com/album/0i6oIJ53snlnCd7f2J5dJy) | 3:56 | 2022-03-30 | 2022-04-20 |
 | [Strangers \- Midnight Version](https://open.spotify.com/track/64zvm8cPbzOaybJmncO3AV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans \(Midnight Versions\)](https://open.spotify.com/album/6kajeSMu59m5nlALjQrnZU) | 6:04 | 2022-02-23 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-280 songs - 14 hr 8 min
+281 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 | 2021-10-22 |  |
 | [Peppermint Twist](https://open.spotify.com/track/5PpVetS87mgjvmKVF7gv9d) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Peppermint Twist](https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka) | 1:58 | 2022-08-10 |  |
 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-09-27 |  |
+| [Pretty Girl Swag](https://open.spotify.com/track/1Wur9u6PvFCDhu6tFnhvuG) | [Jordan Powers](https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7), [Bekah Novi](https://open.spotify.com/artist/2VYX9FUjUVWqBae89t3RiO) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:59 | 2023-02-10 |  |
 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 | 2021-10-22 |  |
 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 | 2021-10-22 |  |
 | [Ride \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/6KZYD8mbuJJJpXjpDqmmbT) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 4:03 | 2021-10-22 |  |
@@ -221,8 +222,8 @@
 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 | 2021-10-22 |  |
 | [Something That I Want](https://open.spotify.com/track/4D5ITfY3HH9JqIbOKsE7da) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Now! Disney 3](https://open.spotify.com/album/1vSuKTEwlEambIFmIZNBxH) | 2:43 | 2021-10-22 | 2022-07-29 |
 | [Something That I Want](https://open.spotify.com/track/19j6HBNWetyzT5rqMoWKpz) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Rapunzel Neu Verföhnt](https://open.spotify.com/album/7Al4Sm2lLi3TxlxKt2KqoO) | 2:43 | 2022-10-25 | 2022-11-14 |
-| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2022-07-28 | 2023-02-10 |
-| [Something That I Want \- From "Tangled"](https://open.spotify.com/track/6quQD9FG0GCIqVPjjMiLjs) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [NOW That's What I Call Disney 3](https://open.spotify.com/album/5W902SLKc7njFSdXireqdC) | 2:43 | 2023-02-03 |  |
+| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2022-07-28 |  |
+| [Something That I Want \- From "Tangled"](https://open.spotify.com/track/6quQD9FG0GCIqVPjjMiLjs) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [NOW That's What I Call Disney 3](https://open.spotify.com/album/5W902SLKc7njFSdXireqdC) | 2:43 | 2023-02-03 | 2023-02-11 |
 | [Sorry](https://open.spotify.com/track/3YvAZjrAq9KhJNU6HZGh5a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Back to School 2022 \- Pop Edition](https://open.spotify.com/album/3PoExk3BVT9y7wC6KavCe3) | 3:02 | 2022-10-25 | 2022-11-13 |
 | [Sorry](https://open.spotify.com/track/1dv3nDyEFjfdfWyfmBTzXl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 31](https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42) | 3:02 | 2022-07-28 |  |
 | [Sorry](https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 31](https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s) | 3:02 | 2021-10-22 | 2022-07-29 |

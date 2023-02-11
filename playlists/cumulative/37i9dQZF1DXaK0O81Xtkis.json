@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Arden Jones",
+  "description": "make it pop! cover: BoyWithUke",
   "name": "soda",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 205905,
       "name": "Again",
       "url": "https://open.spotify.com/track/0Eef5uHiJVJO0nt4Zo4QCd"
@@ -434,6 +434,24 @@
       "duration_ms": 266527,
       "name": "all about you!",
       "url": "https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu"
+    },
+    {
+      "album": {
+        "name": "All for Nothing",
+        "url": "https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "All for Nothing",
+      "url": "https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX"
     },
     {
       "album": {
@@ -1298,10 +1316,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 189984,
       "name": "Can't Be Lonely",
       "url": "https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206617,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv"
     },
     {
       "album": {
@@ -1334,7 +1370,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 219373,
       "name": "Capsize",
       "url": "https://open.spotify.com/track/3dVM8JotXWlRZ3TmMweoss"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 164242,
       "name": "Come Down Soon",
       "url": "https://open.spotify.com/track/2Cwnxy2iY2CmMt0l2p3hG7"
@@ -1674,7 +1710,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 217470,
       "name": "Congrats",
       "url": "https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD"
@@ -2132,7 +2168,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 158118,
       "name": "dirty white chucks",
       "url": "https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9"
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 218053,
       "name": "Dover Beach",
       "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
@@ -2378,7 +2414,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 198425,
       "name": "Expiration Date",
       "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 197569,
       "name": "FIRST HELLO",
       "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
@@ -3010,6 +3046,24 @@
       "duration_ms": 124705,
       "name": "god of the sunsets",
       "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
+    },
+    {
+      "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/6SV9jJwVtwhTg6sHClkXqi"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156272,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/14hZlv0RnqQGFAhLdEJpWR"
     },
     {
       "album": {
@@ -3580,7 +3634,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 163908,
       "name": "Help (feat. Pheelz)",
       "url": "https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE"
@@ -5463,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "Best Night of My Life",
+        "url": "https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152854,
+      "name": "Live On",
+      "url": "https://open.spotify.com/track/6307yOQg0mupzSlNcCX0LA"
+    },
+    {
+      "album": {
         "name": "Summer Craft",
         "url": "https://open.spotify.com/album/6YaLyPqp8iu5PTekRYruiB"
       },
@@ -6076,6 +6148,24 @@
       "duration_ms": 138703,
       "name": "My Wife & 2 Dogs",
       "url": "https://open.spotify.com/track/5Ofdnu8hv625HP7OXoE2nj"
+    },
+    {
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/17CC61VuUARx8AHynTbmnP"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195104,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/5IyQ3FaPU3EbE9Sbleq59M"
     },
     {
       "album": {
@@ -7167,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193526,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
+    },
+    {
+      "album": {
         "name": "ROLLIN DICE",
         "url": "https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT"
       },
@@ -7654,7 +7762,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 205186,
       "name": "Silver Tongues",
       "url": "https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB"
@@ -9081,6 +9189,24 @@
     },
     {
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
+    },
+    {
+      "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
       },
@@ -9276,7 +9402,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 226884,
       "name": "Trouble With This Bed",
       "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
@@ -9399,6 +9525,24 @@
     },
     {
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132793,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
+    },
+    {
+      "album": {
         "name": "Wait Until Tomorrow",
         "url": "https://open.spotify.com/album/3AmSSmr8GhByvmWa3VYUEF"
       },
@@ -9458,6 +9602,24 @@
       "duration_ms": 186272,
       "name": "Was It Something I Said?",
       "url": "https://open.spotify.com/track/2m01TzKvGrjYtLfkOgSl8A"
+    },
+    {
+      "album": {
+        "name": "Past Selves",
+        "url": "https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7"
+      },
+      "artists": [
+        {
+          "name": "Sub-Radio",
+          "url": "https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Waste Your Time",
+      "url": "https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1"
     },
     {
       "album": {
@@ -9930,7 +10092,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 209893,
       "name": "Wrongside",
       "url": "https://open.spotify.com/track/5rpwJ4cUvE133ExIlX0xTl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Yelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,146 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,268 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [Chifoumi](https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Chifoumi](https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar) | 2:29 |
 | 18 | [Playful](https://open.spotify.com/track/1xyFVADjQ6HQHnrIy9oXyu) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl) | [Carefree Island](https://open.spotify.com/album/2AOSUb0aCVL7jmhyCfha64) | 2:45 |
 | 19 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 |
-| 20 | [Shaman In your Arms](https://open.spotify.com/track/1ohOevUgHkTEAa8ZUTP0HT) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG), [Jennifer Charles](https://open.spotify.com/artist/33Y0z7Kdhmj2OInuJHwsDQ) | [Shaman In Your Arms](https://open.spotify.com/album/4UAekpP9bkuag1LJNHphme) | 3:11 |
+| 20 | [Shaman In Your Arms](https://open.spotify.com/track/1ohOevUgHkTEAa8ZUTP0HT) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG), [Jennifer Charles](https://open.spotify.com/artist/33Y0z7Kdhmj2OInuJHwsDQ) | [Shaman In Your Arms](https://open.spotify.com/album/4UAekpP9bkuag1LJNHphme) | 3:11 |
 | 21 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 |
 | 22 | [Septembre](https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Septembre](https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K) | 2:14 |
 | 23 | [Trust Fall](https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Circle](https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7) | 2:50 |

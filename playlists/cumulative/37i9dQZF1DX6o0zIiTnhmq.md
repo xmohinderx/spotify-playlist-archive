@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-56 songs - 18 hr 47 min
+57 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 |  |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
+| [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 | 2023-02-10 |  |
 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 | 2022-01-24 |  |
 | [Om Mani Padme Hum 1](https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [Yoga Music Collection "Blissfull Mantras & Prayers"](https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T) | 8:24 | 2022-01-24 |  |
 | [Om Namah Shivaay](https://open.spotify.com/track/77BUqblYmGr4k7JAdgiLwt) | [Tochi Raina](https://open.spotify.com/artist/5ygCnHgWewvj077g4Zam9Y) | [Tochi Mantras](https://open.spotify.com/album/3v9tIJ3zIyg7fDwRtUfeGF) | 7:38 | 2022-01-24 |  |

@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 299989,
       "name": "Contratempo / Ainda \u00c9 Cedo Pra Dizer Bye Bye / Duvido - Ao Vivo",
       "url": "https://open.spotify.com/track/5YOrWou8ElTsu0XzaUeuca"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 163339,
       "name": "Quest",
       "url": "https://open.spotify.com/track/2JyzrRWYel4FiB7NbJuH7E"
@@ -5743,6 +5743,32 @@
     },
     {
       "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Sou M\u00e1",
+      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
+    },
+    {
+      "album": {
         "name": "SUV PRATA",
         "url": "https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy"
       },
@@ -5992,6 +6018,36 @@
       "duration_ms": 205128,
       "name": "Travessia - Spotify Singles",
       "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
+    },
+    {
+      "album": {
+        "name": "VAI POR MIM",
+        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
+      },
+      "artists": [
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147645,
+      "name": "VAI POR MIM",
+      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "album": {

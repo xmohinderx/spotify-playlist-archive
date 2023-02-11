@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Ghost on top of the biggest Metal playlist!",
+  "description": "Sleep Token on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 228260,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
@@ -594,6 +594,24 @@
       "duration_ms": 217320,
       "name": "Boltcutter",
       "url": "https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH"
+    },
+    {
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "album": {
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 217606,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L"
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Immolation of Night",
+        "url": "https://open.spotify.com/album/0DumP1DzkNR7b0uIASVDcy"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Immolation of Night",
+      "url": "https://open.spotify.com/track/3OOeWlT6cQYNbdJ4qcBipL"
+    },
+    {
+      "album": {
         "name": "In the Eye of the Storm",
         "url": "https://open.spotify.com/album/2tH0JMPopirEbcf3pbGwA0"
       },
@@ -3536,6 +3572,24 @@
       "duration_ms": 398253,
       "name": "Night Stalkers",
       "url": "https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
       "album": {
@@ -4880,7 +4934,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 339360,
       "name": "SPIRITS",
       "url": "https://open.spotify.com/track/6YbDzTWROe5Jqs75sQZjUO"
@@ -4974,6 +5028,28 @@
       "duration_ms": 238187,
       "name": "State Of Slow Decay",
       "url": "https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB"
+    },
+    {
+      "album": {
+        "name": "State Of Unrest",
+        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "State Of Unrest",
+      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
     },
     {
       "album": {
@@ -5384,7 +5460,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
@@ -5699,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234945,
+      "name": "There\u2019s Fear In Letting Go",
+      "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
+    },
+    {
+      "album": {
         "name": "Thinking in Tongues",
         "url": "https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh"
       },
@@ -6006,7 +6100,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 214028,
       "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"

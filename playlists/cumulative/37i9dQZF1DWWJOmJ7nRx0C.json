@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: The Smashing Pumpkins",
+  "description": "The hardest songs, loud. Very loud. Cover: Linkin Park",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 181447,
       "name": "\"Filthy\"",
       "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
+    {
+      "album": {
+        "name": "#1 Crush",
+        "url": "https://open.spotify.com/album/31kYosAhKU2TJdUqfVttzi"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274468,
+      "name": "#1 Crush",
+      "url": "https://open.spotify.com/track/42dRv0nXStNsBQzOz89X05"
     },
     {
       "album": {
@@ -792,7 +810,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 201266,
       "name": "Behind Your Walls",
       "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 217320,
       "name": "Boltcutter",
       "url": "https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH"
@@ -2365,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222571,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY"
+    },
+    {
+      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -2908,7 +2944,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 208834,
       "name": "Divide",
       "url": "https://open.spotify.com/track/1sp1NrbrCjJ82c5KjelUpr"
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 216844,
       "name": "Halo",
       "url": "https://open.spotify.com/track/79pTRPk4bqz34vh574c3TX"
@@ -5052,7 +5088,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 269666,
       "name": "I EXIST",
       "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
@@ -5256,6 +5292,24 @@
       "duration_ms": 282053,
       "name": "Is It Really You?",
       "url": "https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ"
+    },
+    {
+      "album": {
+        "name": "It Hurts",
+        "url": "https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198499,
+      "name": "It Hurts",
+      "url": "https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs"
     },
     {
       "album": {
@@ -5781,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
+    },
+    {
+      "album": {
         "name": "Left For Dead",
         "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
       },
@@ -6090,7 +6162,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 236653,
       "name": "Live Like This",
       "url": "https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU"
@@ -6148,6 +6220,24 @@
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "album": {
@@ -6548,7 +6638,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 259549,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
@@ -9725,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "Takedown",
+        "url": "https://open.spotify.com/album/6QwEdQOMzEQTAIf9tTW9PV"
+      },
+      "artists": [
+        {
+          "name": "Those Damn Crows",
+          "url": "https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185858,
+      "name": "Takedown",
+      "url": "https://open.spotify.com/track/2B5N3Xfu0fprTGs48KFarh"
+    },
+    {
+      "album": {
         "name": "Talk & Walk",
         "url": "https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE"
       },
@@ -10138,6 +10246,24 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/70Wh31iFIrY4X8pe9HyAJy"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/5DcGna4pyRg04Qc1ySDQco"
     },
     {
       "album": {
@@ -10574,6 +10700,32 @@
       "duration_ms": 224854,
       "name": "This Is Mongol",
       "url": "https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb"
+    },
+    {
+      "album": {
+        "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+        "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "name": "William DuVall",
+          "url": "https://open.spotify.com/artist/69j4GQ0OCPN6gU6okpe8aZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221103,
+      "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+      "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
     },
     {
       "album": {
@@ -11860,7 +12012,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 275622,
       "name": "Wrap Your Head Around",
       "url": "https://open.spotify.com/track/4hxSk3I2h69RF0L3WQdkEZ"

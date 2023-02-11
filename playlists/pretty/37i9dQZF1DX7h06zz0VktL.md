@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain](/playlists/plain/37i9dQZF1DX7h06zz0VktL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7h06zz0VktL)
 
-### [This Is Super Junior](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
+### [This Is SUPER JUNIOR](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 
-> All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
+> All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,498 likes - 138 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,703 likes - 138 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 137 | [Believe](https://open.spotify.com/track/0Il83cLuIAYa4ghaxwLM4F) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 4:54 |
 | 138 | [I'm not over you](https://open.spotify.com/track/0tdMBJmUaobBXpttiycchZ) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Drunk on love \- The 2nd Mini Album](https://open.spotify.com/album/2UUx4fVD3UtiSSvZ4DN119) | 4:37 |
 
-Snapshot ID: `MTY3MjAyMzA3MiwwMDAwMDAwMDU0OTk1ZjM5YzU1OGJkZTc2MTY1YjdhZTVlOWVkMDU0`
+Snapshot ID: `MTY3NjAxNjY5NSwwMDAwMDAwMDFkZjUwZTE5OTE0Mzk2YTU5MzNkNDAzMmRmZGQ4YzNj`

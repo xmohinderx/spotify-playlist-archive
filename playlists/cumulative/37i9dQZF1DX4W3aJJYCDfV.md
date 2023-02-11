@@ -4,7 +4,7 @@
 
 > Brand new music from Ashnikko \(pictured\), Central Cee, Jax Jones and more!
 
-1,773 songs - 4 day 0 hr 26 min
+1,776 songs - 4 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Enough To Drink](https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Enough To Drink](https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf) | 2:18 | 2023-01-13 | 2023-01-20 |
 | [Enter The Chat](https://open.spotify.com/track/5xD8XCicysxqWkUwiNzc8V) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Enter The Chat](https://open.spotify.com/album/6caJ3t8BKprdoftIQqf1ck) | 2:19 | 2023-01-27 | 2023-02-03 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2022-12-02 | 2022-12-09 |
+| [Escape!](https://open.spotify.com/track/47SPO3hXbl1Hauhd0NkDbi) | [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Escape!](https://open.spotify.com/album/0CbkGWLlCjpCh3pqXMih5S) | 2:01 | 2023-02-10 |  |
 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 | 2022-12-16 | 2022-12-24 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-13 | 2023-01-20 |
 | [Eternal](https://open.spotify.com/track/0wKu5WLVVfwANu0GJGSUja) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Eternal](https://open.spotify.com/album/7studplTabJKP4R2wdVs5b) | 2:20 | 2023-02-10 |  |
@@ -848,6 +849,7 @@
 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 | 2023-01-20 | 2023-01-27 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 |  |
 | [Late Now](https://open.spotify.com/track/2g5cVVb13LC19Biu5yIgVJ) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Late Now](https://open.spotify.com/album/4Z4I4iVEz0ROYI8wYdqT8D) | 3:22 | 2023-01-27 | 2023-02-03 |
+| [Lately](https://open.spotify.com/track/46DB28jumopDyMuYhjoydV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lately](https://open.spotify.com/album/7r2z3mRulccCz5XgmAaCcr) | 3:50 | 2023-02-10 |  |
 | [Laura](https://open.spotify.com/track/6isiYNVZowQB4jdsF8erhV) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [The Golden Ass](https://open.spotify.com/album/0mBSoeqW2IBjsLf37Mu5FF) | 3:25 | 2022-10-28 | 2022-11-04 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 | 2023-01-13 |
 | [Lean On Me](https://open.spotify.com/track/4gNkgu3p81TdEt5FzfyqPm) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Lean On Me](https://open.spotify.com/album/4ReuX9xijCkq4OGCC1SkRH) | 3:14 | 2023-02-10 |  |
@@ -1264,7 +1266,8 @@
 | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/track/6g9w2kMmb0SpHY4ADT4z6k) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/album/2mBUGGJbJMNLlTc7YVxzos) | 3:21 | 2022-11-18 | 2022-11-25 |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 |  |
 | [Role Model \(feat\. B\_Real.11\)](https://open.spotify.com/track/5E5c7lw1DkWASkLyiVURWA) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy), [B\_real.11](https://open.spotify.com/artist/6LbjJrL6YC2Fago2NpJVjI) | [Role Model \(feat\. B\_real.11\)](https://open.spotify.com/album/4jog0yDlI2wxGzkahw60tG) | 2:30 | 2022-10-28 | 2022-11-04 |
-| [Roses](https://open.spotify.com/track/06cabBWxFdUjHndDqTKcnz) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Roses](https://open.spotify.com/album/7geo0YmGYJneliQzIdnLBe) | 2:02 | 2023-02-10 |  |
+| [Roses](https://open.spotify.com/track/06cabBWxFdUjHndDqTKcnz) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Roses](https://open.spotify.com/album/7geo0YmGYJneliQzIdnLBe) | 2:02 | 2023-02-10 | 2023-02-11 |
+| [Roses](https://open.spotify.com/track/6p0tf8EXyo2pKFBl0K8RRK) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Not Much To Say](https://open.spotify.com/album/3uPYhoxD0KrEZhnYw4sx37) | 2:02 | 2023-02-10 |  |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 |  |
 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 | 2023-01-06 | 2023-01-13 |
 | [RUDEBOY](https://open.spotify.com/track/6zewICx5nFMLM9GxCr0zNT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [RUDEBOY](https://open.spotify.com/album/0bbIAvjGn9LtCUJNKvwQ0H) | 3:20 | 2023-01-13 | 2023-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156303,
+  "num_followers": 156299,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGE0ZWU1Mzg5NDg1ZjZiZTU0NWRmZDAxYTgwYTE5NDU1",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDdiZWVlZmIwNDUwNDE5N2QyMDlhMjMyZTEyMzk0N2Fh",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "If I Ruled The World",
+        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Mila Josef",
+          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "If I Ruled The World",
+      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "If I Ruled The World",
-        "url": "https://open.spotify.com/album/40jPQGyol5aNMd3eaMIPWB"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Mila Josef",
-          "url": "https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "If I Ruled The World",
-      "url": "https://open.spotify.com/track/4OcwgcBMJmL8hHJ7wUGk09"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Clarence Coffee Jr.",
-          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
-        }
-      ],
-      "duration_ms": 238627,
-      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Never Let Me Down",
         "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 153148,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
+        }
+      ],
+      "duration_ms": 238627,
+      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Release Me (feat. Kalhaader)",
         "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 146893,
       "name": "Release Me (feat. Kalhaader)",
       "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1707,6 +1707,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "How Can I Forget Her",
+        "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        },
+        {
+          "name": "TwoWorldsApart",
+          "url": "https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B"
+        }
+      ],
+      "duration_ms": 168216,
+      "name": "How Can I Forget Her",
+      "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Fast Forward",
         "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 203040,
       "name": "Fingers Crossed - Until Dawn Remix",
       "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "How Can I Forget Her",
-        "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        },
-        {
-          "name": "TwoWorldsApart",
-          "url": "https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B"
-        }
-      ],
-      "duration_ms": 168216,
-      "name": "How Can I Forget Her",
-      "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Something Like That",
-        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Kiss My (Uh Oh) [Billen Ted Remix]",
         "url": "https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 165815,
       "name": "Kiss My (Uh Oh) - Billen Ted Remix",
       "url": "https://open.spotify.com/track/1owq4K5HuyCa3aVYv6Hj4k"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Something Like That",
+        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
     },
     {
       "added_at": "2022-11-10 23:00:00",

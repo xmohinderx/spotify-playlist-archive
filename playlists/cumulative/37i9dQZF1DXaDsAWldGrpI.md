@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-111 songs - 7 hr 55 min
+112 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dust on the Bottle \(with David Lee Murphy\) \- Live](https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 3:41 | 2021-07-22 | 2022-03-26 |
 | [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 |  |
 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 | 2021-07-22 |  |
+| [For What It’s Worth \- Live](https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Live\)](https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6) | 3:01 | 2023-02-10 |  |
 | [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 |  |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 | 2022-07-22 |  |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Live From Europe\)](https://open.spotify.com/album/5vs9YwpFEVlLfxf47rFX7Z) | 4:03 | 2021-07-22 | 2022-07-29 |

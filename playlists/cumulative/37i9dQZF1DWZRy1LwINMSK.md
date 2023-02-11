@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-133 songs - 7 hr 14 min
+134 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Mientras Duermo](https://open.spotify.com/track/2QpGytrXW6IkrOLIYJwCWU) | [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Mientras Duermo](https://open.spotify.com/album/31dwA5ERJVQLSM42nQZ7Fh) | 3:07 | 2022-01-20 | 2022-05-28 |
 | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS) | 3:42 | 2022-01-20 |  |
 | [Mode On, Marcianeke \#05](https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Mode On](https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy) | 2:47 | 2022-01-20 |  |
+| [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 | 2023-02-10 |  |
 | [MOOD](https://open.spotify.com/track/6dFPnK9OTUQoB1VV3TkNFw) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [MOOD](https://open.spotify.com/album/40CmCZdJ1bgAv2BcM8nOGm) | 2:56 | 2022-01-20 | 2022-03-18 |
 | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq) | 4:12 | 2022-01-20 |  |
 | [Nada](https://open.spotify.com/track/6Hh5IIOfVw3T64GhcRSNjc) | [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Nada](https://open.spotify.com/album/69Q7A67244sNGgmjZwwibP) | 3:01 | 2022-01-20 | 2022-05-28 |

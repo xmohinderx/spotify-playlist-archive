@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Zack Dyer, Artwork: Fanélie Muselier
 
-1,211 songs - 2 day 18 hr 15 min
+1,213 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Hung Over You](https://open.spotify.com/track/7hKWkSgbHuExj89lbso7Jq) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Hung Over You](https://open.spotify.com/album/7wLgYkaFVJZ1lVIyvMhHg3) | 2:48 | 2022-06-29 | 2022-07-28 |
 | [Hung up by Now](https://open.spotify.com/track/6U45GwkbB095pLUdT51Joi) | [Page Mackenzie](https://open.spotify.com/artist/1Z0U0IItZx1XhY6ApxiSB2), [Garrett Biggs](https://open.spotify.com/artist/1uAjXKpS4W1YD9PYcFvSj5) | [Hung up by Now](https://open.spotify.com/album/4eQp6dEZILEVj8etEi6LpN) | 3:25 | 2022-01-19 | 2023-01-12 |
 | [Hung Up On You](https://open.spotify.com/track/1bMsJ7rkaCoTBxUtutejYM) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hung Up On You](https://open.spotify.com/album/3we4TOqnn1CAKSEpwDpLjQ) | 3:24 | 2021-12-01 | 2022-01-13 |
+| [Hungover & Heartbroken](https://open.spotify.com/track/3G6Hbw5LTv9DazHPLkNP2o) | [Kade Hoffman](https://open.spotify.com/artist/0R6ixwuTCNnIohSzEU7a2o) | [Hungover & Heartbroken](https://open.spotify.com/album/0EwZyFXzy3EdXfXwnJ8ooS) | 2:25 | 2023-02-10 |  |
 | [Hungover Enough](https://open.spotify.com/track/7w0cnL0bgqz6edtxVUkBZ3) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [Hungover Enough](https://open.spotify.com/album/0H01XYXQ9MAFsXvsqwT2E5) | 3:42 | 2022-05-11 | 2022-06-30 |
 | [Hungover You](https://open.spotify.com/track/6P1vG1UUQNytbGkUTWkytN) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Hungover You](https://open.spotify.com/album/55MUpXVDqwNeKKZgSGRCcy) | 2:45 | 2022-01-12 | 2022-02-17 |
 | [Hush Little Baby](https://open.spotify.com/track/4cjBtjqjURxGPKpnefT1OF) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby](https://open.spotify.com/album/21Kco6snU7yW9SJfYHhsAy) | 2:54 | 2023-02-01 |  |
@@ -764,6 +765,7 @@
 | [No Longer Mine](https://open.spotify.com/track/5udICNQ3qaWVi9MjdD9ASC) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/5ceDVdOYMtW3NVteZmvebk) | 4:35 | 2022-10-12 | 2022-12-01 |
 | [No More](https://open.spotify.com/track/5bCW0YzzjQ4y4EUFBq7xLt) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [No More](https://open.spotify.com/album/6Jbop5sYyxDfwUiVJP9nYs) | 2:58 | 2023-01-11 | 2023-02-09 |
 | [No More of 'Em](https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux) | 3:08 | 2021-12-01 | 2022-01-13 |
+| [No One’s Gonna Love You \(Like I Do\)](https://open.spotify.com/track/77tIVr0Viqh6jUyNdW5XEz) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Awake](https://open.spotify.com/album/0YB1RSn5cL1sMRTzP0UxBX) | 3:03 | 2023-02-10 |  |
 | [No Present Like the Time](https://open.spotify.com/track/4nhgMCXO9BNk2ZlugDtS9H) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [No Present Like the Time](https://open.spotify.com/album/3cZc4SU0qGo8aRcLMPmkal) | 2:35 | 2023-01-11 | 2023-02-09 |
 | [Nobody Told Me](https://open.spotify.com/track/148u2dw0r2am227Xl70lbp) | [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Nobody Told Me](https://open.spotify.com/album/5MZeNEwS1vXjteJQyflpLv) | 3:29 | 2022-04-13 | 2022-05-26 |
 | [Nora Jane](https://open.spotify.com/track/4pyOTDlE9za97tYtq2mc0G) | [Gina Venier](https://open.spotify.com/artist/23NGdzuFttfZ4bMHqnTkwE) | [Nora Jane](https://open.spotify.com/album/2xvffpc9J08e9jqhQT2VnC) | 2:59 | 2022-04-13 | 2022-05-26 |

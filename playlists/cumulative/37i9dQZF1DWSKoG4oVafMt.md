@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Ammy Virk & Tania
+> The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
 712 songs - 1 day 14 hr 45 min
 

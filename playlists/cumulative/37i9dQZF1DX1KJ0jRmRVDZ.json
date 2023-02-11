@@ -3218,6 +3218,24 @@
     {
       "album": {
         "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/3V2uBiNgiyz29NKV4pYjOC"
+      },
+      "artists": [
+        {
+          "name": "Kashitaro Ito",
+          "url": "https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/0It8D8AkMinflbj6R60RKQ"
+    },
+    {
+      "album": {
+        "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/2ghGwpzmyJ03sYKNul4zK2"
       },
       "artists": [
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 181621,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT"

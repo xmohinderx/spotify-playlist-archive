@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6968,
+  "num_followers": 6995,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMDBmY2M5MGU3NDA5OTczOGU4ZmE5ODhkY2UxMmE3ODNm",
+  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMGEyMGI5ZmQyYzhhMGU1OGYyNjg5MDdjMzI0ZDMxY2Jh",
   "tracks": [
     {
       "added_at": "2023-01-25 08:03:09",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc740\uc138",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -343,38 +359,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
-      },
-      "artists": [
-        {
-          "name": "\uc870\uc740\uc138",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
-        }
-      ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "My",
         "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 166961,
       "name": "My (Prod. Norwegian Wood)",
       "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Olive",
-        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
       "artists": [
         {
-          "name": "Artinb",
-          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Olive",
-      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
       "artists": [
         {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
         }
       ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
         "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 178373,
       "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
       "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

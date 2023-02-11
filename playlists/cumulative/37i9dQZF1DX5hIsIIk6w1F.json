@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 164081,
       "name": "Cuchi Cuchi",
       "url": "https://open.spotify.com/track/1Cnj7AYTdXFvIa0Y2PFyOH"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 222631,
       "name": "Fory Fory",
       "url": "https://open.spotify.com/track/1t5BHmDsSJN3IjN2lx0B9m"
@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "Los Diablotes",
+        "url": "https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Los Diablotes",
+      "url": "https://open.spotify.com/track/36ys9pBrC5SLAADHsbsDVF"
+    },
+    {
+      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"
       },
@@ -3252,6 +3274,32 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "album": {
+        "name": "Los Rockstars",
+        "url": "https://open.spotify.com/album/501hrBlOTdpNqjrOWvPflY"
+      },
+      "artists": [
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223367,
+      "name": "Los Rockstars",
+      "url": "https://open.spotify.com/track/5zRPfjD3qUsog7tAcAMpWr"
     },
     {
       "album": {
@@ -4551,6 +4599,40 @@
     },
     {
       "album": {
+        "name": "Pal' Perreo Saliste",
+        "url": "https://open.spotify.com/album/1NXOrpM5wOHmmRsW8a7Zrd"
+      },
+      "artists": [
+        {
+          "name": "Multiverso Music",
+          "url": "https://open.spotify.com/artist/5TRAEcjCnvIdhyeQaFjYpv"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Pal' Perreo Saliste",
+      "url": "https://open.spotify.com/track/3yty4OtcUqgeyJLgaAxWNd"
+    },
+    {
+      "album": {
         "name": "PALOMA",
         "url": "https://open.spotify.com/album/5u9yLF7HfBzZCu2uOmqGWl"
       },
@@ -4588,7 +4670,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 200816,
       "name": "Pantano",
       "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
@@ -4812,7 +4894,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 193043,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
@@ -5464,7 +5546,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 187269,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3rM83BGOnHJEzPZivEwmVL"
@@ -5552,6 +5634,24 @@
       "duration_ms": 159157,
       "name": "SE ENDIABLA",
       "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
+    },
+    {
+      "album": {
+        "name": "Se Puso Mas Bella",
+        "url": "https://open.spotify.com/album/7cVglVlM5tvmJisbn3PeO7"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166739,
+      "name": "Se Puso Mas Bella",
+      "url": "https://open.spotify.com/track/3hQWrvY9DN3LTPy0VwCQBc"
     },
     {
       "album": {
@@ -6314,6 +6414,28 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"
+    },
+    {
+      "album": {
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/1dTkmGes2SGFUe009cB5PJ"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185284,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/7qonOa9EFJ2SVu7aj3W2dn"
     },
     {
       "album": {

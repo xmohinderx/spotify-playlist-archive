@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-621 songs - 1 day 11 hr 36 min
+622 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 | 2022-09-07 |
 | [Someday](https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Someday](https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3) | 5:18 | 2022-06-16 | 2022-06-21 |
-| [STARLIGHT](https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/2ghGwpzmyJ03sYKNul4zK2) | 3:01 | 2023-02-10 |  |
+| [STARLIGHT](https://open.spotify.com/track/0It8D8AkMinflbj6R60RKQ) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/3V2uBiNgiyz29NKV4pYjOC) | 3:01 | 2023-02-11 |  |
+| [STARLIGHT](https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/2ghGwpzmyJ03sYKNul4zK2) | 3:01 | 2023-02-10 | 2023-02-11 |
 | [Stupid Fellows](https://open.spotify.com/track/1NXUWmialdPsB4VGTnlJo8) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [Parade](https://open.spotify.com/album/4xZGmvQe1rpqM9cCK5AJPm) | 3:19 | 2022-09-06 | 2022-09-15 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-06-09 | 2022-06-22 |
 | [Surges](https://open.spotify.com/track/5XhxMq0dQNenKr6eDU79Ka) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT) | 2:00 | 2022-06-09 | 2022-07-29 |

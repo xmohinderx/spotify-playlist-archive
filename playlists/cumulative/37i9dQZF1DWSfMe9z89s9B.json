@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B without boundaries. Cover: Chase Shakur",
+  "description": "R&B without boundaries. Cover: Isaia Huron",
   "name": "Alternative R&B",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 204224,
       "name": "23rd Street",
       "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+    },
+    {
+      "album": {
         "name": "In Praise Of Shadows",
         "url": "https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 240725,
       "name": "Contact",
       "url": "https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm"
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 244026,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY"
@@ -5590,7 +5608,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 163689,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -5958,7 +5976,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 207200,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
@@ -7806,6 +7824,24 @@
       "duration_ms": 126905,
       "name": "Many Times",
       "url": "https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G"
+    },
+    {
+      "album": {
+        "name": "LIBBIE 02",
+        "url": "https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Mary Ellen",
+      "url": "https://open.spotify.com/track/0unygkRAa4Qt4vSZVuBV7C"
     },
     {
       "album": {
@@ -9651,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea"
+      },
+      "artists": [
+        {
+          "name": "Amber-Simone",
+          "url": "https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174819,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms"
       },
@@ -10180,7 +10234,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 265612,
       "name": "reprise",
       "url": "https://open.spotify.com/track/2k53CUO1l6n9IdwYerskQ4"
@@ -10644,7 +10698,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 211307,
       "name": "Selfish (feat. BEAM)",
       "url": "https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB"
@@ -10734,7 +10788,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 174733,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x"
@@ -11074,7 +11128,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 213381,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
@@ -12362,7 +12416,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
@@ -12740,7 +12794,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Top Steppa",
       "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
@@ -13402,7 +13456,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 248669,
       "name": "whelmed",
       "url": "https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl"
@@ -13696,7 +13750,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 174890,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"

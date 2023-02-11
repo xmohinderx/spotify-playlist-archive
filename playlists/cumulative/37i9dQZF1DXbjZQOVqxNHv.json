@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 440064,
       "name": "Auto Pimp",
       "url": "https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 323333,
       "name": "I Am Back",
       "url": "https://open.spotify.com/track/2XBfQaY3VfrsxuIBXn4h1h"
@@ -6110,6 +6110,24 @@
     {
       "album": {
         "name": "Spanners",
+        "url": "https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433813,
+      "name": "Pot Noddle",
+      "url": "https://open.spotify.com/track/0EMwmF7KCvIRPQ6HA5krfG"
+    },
+    {
+      "album": {
+        "name": "Spanners",
         "url": "https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH"
       },
       "artists": [
@@ -7786,6 +7804,24 @@
       "duration_ms": 174573,
       "name": "Ted",
       "url": "https://open.spotify.com/track/3ZdjC8RuAoMxmtBskstYvR"
+    },
+    {
+      "album": {
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/0nFZszbiABmJPifD2zKwna"
+      },
+      "artists": [
+        {
+          "name": "B12",
+          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "Telefone 529",
+      "url": "https://open.spotify.com/track/3VCNpq2U2RtQonaSN2Oofm"
     },
     {
       "album": {

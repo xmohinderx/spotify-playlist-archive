@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-167 songs - 8 hr 51 min
+168 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Affection](https://open.spotify.com/track/6pv0v0OBVkNBtXcrolRyMn) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Affection](https://open.spotify.com/album/1UbC000R3Z1soH3DRSxODB) | 5:23 | 2022-05-18 | 2023-01-11 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2023-01-10 |  |
 | [Back Again](https://open.spotify.com/track/3laNvDHh50EvkBUuXWhFYK) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Back Again](https://open.spotify.com/album/79LsJBss75tTPfS4tgNk0G) | 3:24 | 2021-11-26 | 2022-05-19 |
+| [Balenciaga](https://open.spotify.com/track/5f59qc0hVUXC3sUsHi3F7b) | [rufflws](https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp), [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d), [oktxy](https://open.spotify.com/artist/4s743HjUjTe3b5YwJiEn8D) | [Balenciaga](https://open.spotify.com/album/3vprTslTtdgvd6vppK5JT4) | 2:48 | 2023-01-24 |  |
 | [Balenciaga](https://open.spotify.com/track/0YoHFgsl8GHGD7Vnad0OU8) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/6wReWABPEP4moQCGEyIth2) | 2:48 | 2022-07-22 | 2022-09-15 |
-| [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 | 2022-05-18 |  |
+| [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 | 2022-05-18 | 2023-02-11 |
 | [Balenciaga](https://open.spotify.com/track/7AkaTXiCoyXfUGF1Mzk0Ep) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4ysDej04vod1SPIq4o4m3n) | 2:48 | 2022-07-22 | 2022-10-05 |
 | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-07-22 | 2023-01-11 |
 | [Bappi \- Edit](https://open.spotify.com/track/3oQmoqWlT0HUl0w48CN2Mo) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Bappi](https://open.spotify.com/album/45qi6kZ0LB5kqE8tbmjCy9) | 3:24 | 2022-12-09 | 2023-01-11 |

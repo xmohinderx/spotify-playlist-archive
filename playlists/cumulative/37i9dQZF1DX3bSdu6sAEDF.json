@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 220811,
       "name": "September",
       "url": "https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq"
@@ -4304,6 +4304,24 @@
       "duration_ms": 204747,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/6kOdcd2ZcO5xbeondKttG0"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
     },
     {
       "album": {

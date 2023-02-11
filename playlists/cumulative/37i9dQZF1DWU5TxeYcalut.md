@@ -2,7 +2,7 @@
 
 ### [Jazz Brasileiro](https://open.spotify.com/playlist/37i9dQZF1DWU5TxeYcalut)
 
-> Uma seleção especial do jazz nacional\. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso
+> Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
 112 songs - 9 hr 23 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,183 likes - 514 songs - 19 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,276 likes - 514 songs - 19 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 137 | [Midnight Coffee](https://open.spotify.com/track/4ezxA4ICGNFjYHc81McwHH) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Midnight Coffee](https://open.spotify.com/album/5PNoSA2H4zFJxcbqLQwcWQ) | 2:33 |
 | 138 | [Bundle Up](https://open.spotify.com/track/1f7KyBindCWLpGzRxoQETw) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Bundle Up](https://open.spotify.com/album/58gwIKgrNtHC50Oe7oryL7) | 1:45 |
 | 139 | [tainted titles](https://open.spotify.com/track/4gKXB2JuhurzGDdwNIQIZ9) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [tainted titles](https://open.spotify.com/album/4xCeU2rUS51yjVVR6iYiNf) | 2:23 |
-| 140 | [Don't Be That Way](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Don't Be That Way](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 3:25 |
+| 140 | [Night Time](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 2:27 |
 | 141 | [CarniBeat](https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih) | [Missta Wu](https://open.spotify.com/artist/6pgGx9VGAe6QAD0moJPXGM) | [CarniBeat](https://open.spotify.com/album/3ufwlvt6aBH34L7czcacRx) | 2:15 |
 | 142 | [Lotus Tattoo](https://open.spotify.com/track/1yDOMeEbEnvmxrfOIiOdKz) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Lotus Tattoo & Queen's Oak](https://open.spotify.com/album/5E2W2oF70zLFopx7WlgXpU) | 2:50 |
 | 143 | [astronomia](https://open.spotify.com/track/0h5jF5aCGp71sP3hBXZkFV) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [astronomia](https://open.spotify.com/album/5kanGbioWRGF3dbJiKZSj6) | 2:46 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 155 | [What The Future Holds](https://open.spotify.com/track/2zsp2DlzDqW6hVc1wx6gkc) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [What The Future Holds](https://open.spotify.com/album/2OA4wIuF7wVpdWaSTShtvy) | 2:33 |
 | 156 | [Blue Chamber](https://open.spotify.com/track/3j5SA5i90SCJYWk1oZoXJR) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Blue Chamber](https://open.spotify.com/album/3fwujqbVojJ8V0f7X1lcRK) | 1:54 |
 | 157 | [Snow Horizon](https://open.spotify.com/track/4ltRGBrKpG7I3ZI2uzu7Z1) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Snow Horizon](https://open.spotify.com/album/1x1xiIx0wviK0tMAxEVCFL) | 1:55 |
-| 158 | [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 |
+| 158 | [invisible](https://open.spotify.com/track/10wh7RPmiDo9tLlEanBw8t) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/6By1S4R5WehZI40pM64oKJ) | 3:06 |
 | 159 | [How It Used To Be](https://open.spotify.com/track/3Z5Xq5i6M14fGvF3qsmmCl) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [How It Used To Be](https://open.spotify.com/album/3Vt2YlUeVWP1eWWylg9BcC) | 3:12 |
 | 160 | [Soft Pillows](https://open.spotify.com/track/0CeqaB8bIDeEb2p4qALWOj) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Fuji Fields](https://open.spotify.com/album/2mO2hsdDktSQ3WXFoR1cP6) | 1:53 |
 | 161 | [Hidden](https://open.spotify.com/track/6qPWbkVpGoYpR4M2AemsnZ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hidden](https://open.spotify.com/album/2kdTXfpyFxQfqORc8NK7hg) | 1:52 |
@@ -523,4 +523,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 513 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 | 514 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 
-Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMDk0ZDgzYTc5YjE1M2E0MTBhNDE1MTg0M2Y3ZmNkYjU0`
+Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMGM1YWE2MTZiMjVlZjFhOGI0MTI0MmE5MmUyMWNhMjIy`

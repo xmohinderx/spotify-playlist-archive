@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 38180,
+  "num_followers": 38245,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzNDY3OSwwMDAwMDAwMDZjOTg4MjczNjJlYTdhNzQ0NWE2ZGVhNzRlMjRiMDJh",
+  "snapshot_id": "MTY3NTkzNDY3OSwwMDAwMDAwMDA1Y2ZiNDBkZGNhNGViYmY3YjdlZWJkMTExZTJiMTI4",
   "tracks": [
     {
       "added_at": "2023-02-09 09:24:39",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "Na Via",
         "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 290736,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
-      },
-      "artists": [
-        {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1163,18 +1163,26 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+        "name": "Hospedeira",
+        "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
       },
       "artists": [
         {
           "name": "Julinho Ksd",
           "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+      "duration_ms": 265631,
+      "name": "Hospedeira",
+      "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1267,26 +1275,18 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Hospedeira",
-        "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
       },
       "artists": [
         {
           "name": "Julinho Ksd",
           "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 265631,
-      "name": "Hospedeira",
-      "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-02-09 09:24:39",

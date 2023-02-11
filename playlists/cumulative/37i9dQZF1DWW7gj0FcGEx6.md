@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-225 songs - 11 hr 40 min
+226 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 | 2021-12-20 |  |
 | [Renaissance \(Main Title Theme\) \- from "The White Lotus: Season 2"](https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:38 | 2022-12-16 |  |
 | [Requiem](https://open.spotify.com/track/7hfbjHirvlvlQI2UfF8bGA) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [1883: Season 1, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/24Rwfmdsh4NOwPwtr4EHtb) | 2:53 | 2022-01-28 |  |
+| [Resting \- Short](https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [Resting \(From the Original Motion Picture Soundtrack of "The Fox"\)](https://open.spotify.com/album/3K3H96v89xn21Slj4gdePY) | 1:32 | 2023-02-10 |  |
 | [Retribution](https://open.spotify.com/track/49IUOMngf0Ua7HY5BRQkxi) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Gaslit \(Original Series Soundtrack\)](https://open.spotify.com/album/2n3o7AT9jl2Xe7npt5MmbY) | 3:55 | 2022-04-29 |  |
 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 | 2022-11-11 |  |
 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 | 2022-07-22 |  |

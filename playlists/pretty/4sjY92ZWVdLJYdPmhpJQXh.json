@@ -1,13 +1,185 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 1895,
+  "num_followers": 1894,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NTQzMSw2YzMzN2I0MDI3NDYwODU3MDBjOTU0YTg4NjczZjE4NGUyNDVlZjAw",
+  "snapshot_id": "NTQ1MSxmYjIyNzRmZTg4NDQyMjNiZDEzYjBlMTRlMGIzN2E3OWUxNTg2OWU3",
   "tracks": [
+    {
+      "added_at": "2023-02-10 16:11:53",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+    },
+    {
+      "added_at": "2023-02-10 16:12:01",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 206700,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": "2023-02-10 16:36:45",
+      "album": {
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "added_at": "2023-02-10 16:38:05",
+      "album": {
+        "name": "Saturday/Sunday",
+        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Saturday/Sunday",
+      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
+    },
+    {
+      "added_at": "2023-02-10 16:13:12",
+      "album": {
+        "name": "Luv Scarred / No Luv (Deluxe)",
+        "url": "https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/1NZ2lJxgs1Y1OcKzl0i0s9"
+    },
+    {
+      "added_at": "2023-02-10 16:13:31",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7LVBBkbIJVAT7jJcceFSSJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 210396,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/4xmdiLvEEZ9Oc5i3SS57O4"
+    },
+    {
+      "added_at": "2023-02-10 16:14:00",
+      "album": {
+        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 140877,
+      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
+    },
+    {
+      "added_at": "2023-02-10 16:14:21",
+      "album": {
+        "name": "For What It\u2019s Worth (Live)",
+        "url": "https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For What It\u2019s Worth - Live",
+      "url": "https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg"
+    },
+    {
+      "added_at": "2023-02-10 16:14:44",
+      "album": {
+        "name": "City Girl Summer",
+        "url": "https://open.spotify.com/album/6jh4LJ9L4r6oV1iyiZANEY"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "City Girl Summer",
+      "url": "https://open.spotify.com/track/1DvgD3DOVfuuQWNZIhN7A9"
+    },
+    {
+      "added_at": "2023-02-10 16:16:01",
+      "album": {
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/3EpjXBra8GlehFTyCr1ukQ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 168752,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/2i5WNYutFM7wtpQFmkU1JN"
+    },
     {
       "added_at": "2023-01-27 15:42:30",
       "album": {
@@ -753,7 +925,7 @@
         }
       ],
       "duration_ms": 146571,
-      "name": "rumble",
+      "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
@@ -3160,7 +3332,7 @@
           "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
         }
       ],
-      "duration_ms": 284370,
+      "duration_ms": 282690,
       "name": "17",
       "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
     },

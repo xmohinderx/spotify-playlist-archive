@@ -4,7 +4,7 @@
 
 > Get to know the new wave of rock\. Cover: swim school
 
-95 songs - 5 hr 3 min
+97 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2023-01-13 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-13 |  |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-03 |  |
+| [Detrimental](https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4) | [Suga Knuckle](https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ) | [Detrimental](https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY) | 3:25 | 2023-02-10 |  |
 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2023-01-13 |  |
 | [die too](https://open.spotify.com/track/3QMtUdoPW6mTsBO4QJ2E2m) | [Noah Wu](https://open.spotify.com/artist/3PJ4eAFMJf98I6dFgeSiQK) | [die too](https://open.spotify.com/album/7Ii8lnvDafBOYK0sv5999g) | 3:57 | 2023-01-13 | 2023-02-10 |
 | [fall out](https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [fall out](https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG) | 2:46 | 2023-01-13 |  |
@@ -63,6 +64,7 @@
 | [My Perfect](https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [My Perfect](https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7) | 3:12 | 2023-01-13 |  |
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 |  |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
+| [Past Vibration](https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q) | [Supera Morza](https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5) | [Past Vibration](https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C) | 2:36 | 2023-02-10 |  |
 | [Points of View](https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [Points of View](https://open.spotify.com/album/475DvjXowIrzPg0t6R7Ymk) | 3:37 | 2023-01-13 |  |
 | [Prettier](https://open.spotify.com/track/5GS5Na3mniJLdcD92SFrQd) | [bexx](https://open.spotify.com/artist/6tXuCxJODkifV9zdPsA1G6) | [Prettier](https://open.spotify.com/album/2Evdn2clIwpJ3gj4oLyQI4) | 3:10 | 2023-01-13 |  |
 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 | 2023-01-13 |  |

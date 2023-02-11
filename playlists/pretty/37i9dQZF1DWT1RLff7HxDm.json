@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 149159,
+  "num_followers": 149229,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGJkYTEwZDZkNWM0ZDM0NTM0Nzg0YTI5NWJkNzcxODNh",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDVhYmM2NTI3MTBmODliMjY2NjY3NzQ3ZmY3MjdlMzY0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live Trout Vol. 1",
-        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout and The Free Radicals",
-          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live...With A Little Help From Our Friends",
         "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
       },
@@ -355,42 +339,6 @@
       "duration_ms": 549933,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live North America 2016",
-        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 338226,
-      "name": "The Healing - Live",
-      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Layla Revisited (Live at LOCKN')",
-        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 299863,
-      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -415,6 +363,58 @@
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live Trout Vol. 1",
+        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout and The Free Radicals",
+          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 299863,
+      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -447,22 +447,6 @@
       "duration_ms": 544640,
       "name": "Touch My Blues Away - Live",
       "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Gary Clark Jr. Live",
-        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 369800,
-      "name": "Things Are Changin' - Live",
-      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -513,22 +497,6 @@
       "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live From The Fox Oakland",
-        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 650746,
-      "name": "Keep On Growing - Live",
-      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Reformation",
@@ -545,6 +513,22 @@
       "url": "https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Live In San Diego '74",
@@ -559,6 +543,22 @@
       "duration_ms": 571280,
       "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
       "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Gary Clark Jr. Live",
+        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 369800,
+      "name": "Things Are Changin' - Live",
+      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "This Train (Live)",
-        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 504893,
-      "name": "This Train - Live",
-      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Backstage Pass (Live)",
         "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 268650,
       "name": "Tip of My Hat (Live)",
       "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "This Train (Live)",
+        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 504893,
+      "name": "This Train - Live",
+      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Morning Glory (Live)",
-        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
-      },
-      "artists": [
-        {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
-        }
-      ],
-      "duration_ms": 259584,
-      "name": "Morning Glory - Live",
-      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
-    },
-    {
       "added_at": "2022-02-04 17:00:00",
       "album": {
         "name": "Mississippi Nights (Live)",
@@ -671,6 +655,22 @@
       "duration_ms": 300929,
       "name": "Mississippi Nights - Live",
       "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Morning Glory (Live)",
+        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "duration_ms": 259584,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
     },
     {
       "added_at": "2021-06-11 04:01:00",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Agudo Mágico 3 e os funks mais 🔑 do Brasil\. Foto: MC K.K, Dj TG Beats, Dj Aurélio, MC Lipivox
+> Namora aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,350,267 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,354,273 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:56 |
-| 2 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
+| 1 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
+| 2 | [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:56 |
 | 3 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 |
 | 4 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 |
 | 5 | [Evoque Prata](https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 | 50 | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/track/78g5lnALTioTYBjkyxmvlJ) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd) | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/album/1KfEJhSwMWfx4QpQLuK3IA) | 2:53 |
 
-Snapshot ID: `MTY3NTM5MzM4MCwwMDAwMDAwMDY2ODZhNWZiMTAwNjUyMmZmYjk3OGUzY2U1NmIxYWJi`
+Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMGE4OGI3ZWQyM2NlY2YyMThmNDQ1ZmQ3ZWQxYTc0ZWNk`

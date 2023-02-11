@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-491 songs - 1 day 12 hr 8 min
+492 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Abyssinian Suite, Pt\. 4](https://open.spotify.com/track/3PBZeQmbywJVKdlRBzSg2C) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [The Fundamental Nature of Being, Part One](https://open.spotify.com/album/2dQZmSuAqCRaVvcqJ4Robi) | 4:52 | 2022-09-30 | 2022-12-13 |
 | [Actions and Consequences](https://open.spotify.com/track/3JXrvGKhezDdBxGmz1KXy5) | [Chris Obehi](https://open.spotify.com/artist/34T24CJ5oXL7TMqxkdkDpI) | [Actions and Consequences](https://open.spotify.com/album/4TcfBR8Ns7hwJScmp9Pp43) | 4:56 | 2022-02-25 | 2022-07-24 |
 | [Adará](https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv), [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Adará](https://open.spotify.com/album/3OcEePOxppfqTeK0jmICgo) | 4:27 | 2021-10-06 | 2022-04-19 |
-| [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 |  |
+| [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 | 2023-02-11 |
 | [Africa](https://open.spotify.com/track/3VGK75g0ZC5Gg2hx9QCQVn) | [Gili Yalo](https://open.spotify.com/artist/3DKCqVm3fBealSYfYzVIJk), [Keren Dun](https://open.spotify.com/artist/7CRVu7ml6MhPG6F5d8A0hk) | [Gili Yalo](https://open.spotify.com/album/6ctx4UdkEDI2ehupGrh99V) | 4:57 | 2022-03-16 | 2022-04-23 |
 | [Afro Golden Line](https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE) | 3:59 | 2021-10-06 | 2022-12-01 |
 | [Afro Golden Line \(feat\. Sefi Zisling, Uzi Ramirez & Rejoicer\)](https://open.spotify.com/track/1ijV5N3fvoaTO1BXqKH9Kq) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Afro Golden Line](https://open.spotify.com/album/79bwYwWXiRLGSdPGfRbMo5) | 3:59 | 2021-10-06 | 2022-07-27 |
@@ -400,6 +400,7 @@
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 | 2022-12-08 |
 | [Simé Love](https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Simé Love](https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I) | 3:30 | 2021-10-06 | 2022-07-29 |
 | [Sin Cleopatra](https://open.spotify.com/track/0WlXIfNiJsjoHMOAaLdIfm) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [Nadir](https://open.spotify.com/album/33DHhoyznooKJxCel0INHU) | 5:21 | 2022-02-09 | 2022-05-13 |
+| [Sky High](https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 4:21 | 2021-10-06 |  |
 | [Sky High](https://open.spotify.com/track/3RaajzNOCvM1AHrroBgwOe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/58BNdUoJnX3QjVUDMrCfZL) | 4:21 | 2021-10-06 | 2022-07-21 |
 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 | 2022-03-29 |  |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-06 | 2022-07-29 |

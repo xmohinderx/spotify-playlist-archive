@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Daniela Araújo
 
-99 songs - 7 hr 27 min
+100 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 | 2022-09-02 |  |
 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 | 2022-09-02 |  |
 | [O Tamanho da Tua Dor](https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [O Tamanho da Tua Dor](https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg) | 3:36 | 2022-11-25 |  |
-| [O Tempo Voa](https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [O Tempo Voa](https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8) | 4:37 | 2023-01-14 |  |
+| [O Tempo Voa](https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [O Tempo Voa](https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8) | 4:37 | 2023-01-14 | 2023-02-11 |
 | [Pai](https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Pai](https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT) | 5:21 | 2023-02-03 |  |
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-02 |  |
 | [Pra Sempre \- Acústico](https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:31 | 2022-09-02 |  |
@@ -107,5 +107,6 @@
 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 | 2022-09-02 |  |
 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 | 2022-09-02 |  |
 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 | 2022-09-02 |  |
+| [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 | 2023-02-11 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Swami Sound\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,821 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,853 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 31 | [So Beautiful So Lonely](https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [So Beautiful So Lonely](https://open.spotify.com/album/5zJEROFkoiYL21bgLsz2cK) | 2:08 |
 | 32 | [Endless](https://open.spotify.com/track/3n4exznFpCunrvLV5ePD5f) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Endless](https://open.spotify.com/album/1ig5AkNAuzIpa7R9JdyyjM) | 5:11 |
 | 33 | [NFT](https://open.spotify.com/track/0VUsjrokCYa8zc7bYwbduW) | [GoodMostlyBad](https://open.spotify.com/artist/3tqVoY03kvzqkNxPa1TEi0) | [Shawty 3.0 EP](https://open.spotify.com/album/5iNMPaFNFUXe0LmnNeODjW) | 4:55 |
-| 34 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 |
+| 34 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 35 | [Automatic](https://open.spotify.com/track/44BvbCGUmLqvn01Cxlt0VT) | [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [Automatic](https://open.spotify.com/album/6tP3MUmPTKiqp6vfl1SKT1) | 2:27 |
 | 36 | [Way Back Home](https://open.spotify.com/track/6owBgS7GUtTj9YlqpHnVtl) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Siamese Anthology V \(Part 2/4\)](https://open.spotify.com/album/3FlCFE1Af2qQHwkeenINXy) | 6:25 |
 | 37 | [NECTA\_pholo \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 74 | [Method of Groove](https://open.spotify.com/track/2EzcuZ8rNKwOrTcfOM7VGk) | [Borrowed CS](https://open.spotify.com/artist/0WWzsIwtv8c5thhyBoWtxC) | [Method of Groove](https://open.spotify.com/album/3CFKDNSWSgq69pGwF3OJyP) | 4:48 |
 | 75 | [Still Rushing](https://open.spotify.com/track/18SaC9Z58nrfjkWbSZUjG3) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Still Rushing / System Error](https://open.spotify.com/album/4mxQ6vTBvss4je3abdHWp8) | 3:46 |
 
-Snapshot ID: `MTY3NTg3MzgwMCwwMDAwMDAwMGM3MWM1YmJkODllNzU5ODg5YzI5Y2UwMWZiY2MxNjY5`
+Snapshot ID: `MTY3NTg3MzgwMCwwMDAwMDAwMDRjMzM0NjZmNTQ0MzY5YTRmNGJhZmQzN2MxZGU5M2Q1`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 125,
+  "num_followers": 130,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDlhMmJmMTcwMGQ3ZTc1ZmEzNWM3YzIxNWJlOTFhYWFj",
+  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDFjOTdjMmMwMWUwZDEzMmViYmQzZjllZTBiMzM5OGM2",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 159485,
+      "name": "Talk 2 U",
+      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "U-Digg (feat. 42 Dugg & Veeze)",
         "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 235500,
       "name": "U-Digg (feat. 42 Dugg & Veeze)",
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 159485,
-      "name": "Talk 2 U",
-      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 182723,
+      "name": "Time (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 235263,
       "name": "Ghetto Angels",
       "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 182723,
-      "name": "Time (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162791,
+      "name": "Same Thing",
+      "url": "https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Don't Run From R.A.P.",
         "url": "https://open.spotify.com/album/795r6PaeATNF4GMaVE8Bgd"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 224230,
       "name": "Gotta Love It (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2IcejIU06Q74pu5aQExfMK"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162791,
-      "name": "Same Thing",
-      "url": "https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF"
     },
     {
       "added_at": "2023-01-01 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > if we ever broke up i'd never be sad!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,531 likes - 615 songs - 1 day 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,124 likes - 615 songs - 1 day 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

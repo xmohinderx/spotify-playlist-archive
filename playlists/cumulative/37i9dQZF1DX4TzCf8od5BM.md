@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-174 songs - 4 hr 25 min
+175 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Use Your Senses](https://open.spotify.com/track/5ITmyJuNSVkIZKVN5jbNyN) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective Vol\. 2](https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4) | 1:07 | 2022-03-18 |  |
 | [Vampirina Theme \- From "Vampirina"](https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 0:54 | 2022-03-18 |  |
 | [Wash Your Hands](https://open.spotify.com/track/1jKRZymZPuWQBDLti5afFA) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:44 | 2022-03-18 |  |
+| [Watch Out](https://open.spotify.com/track/5GRdz09Ypyvpzpvwh4Ts3g) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends \- Glow Webs Glow](https://open.spotify.com/album/1N0KSrK5QZBvg2rwu9Asn1) | 1:33 | 2023-02-10 |  |
 | [Way Out \- "Miles From Tomorrowland" Theme](https://open.spotify.com/track/1lMU6VynSYhXb6tfVWHDWm) | [Beau Black](https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco) | [Disney Junior DJ Shuffle 2](https://open.spotify.com/album/7mkN6sP8t2aa9ReN8Ir1oR) | 2:30 | 2022-03-18 |  |
 | [We'll Just Dance](https://open.spotify.com/track/5S6jTxWSVDL8HnZx1rDlCi) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 1:56 | 2022-03-18 |  |
 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 | 2022-03-18 |  |

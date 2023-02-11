@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Adagio For Strings",
+        "url": "https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209998,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN"
+    },
+    {
+      "album": {
         "name": "After The Sting",
         "url": "https://open.spotify.com/album/418TfjAiWtSU6oxKebeI58"
       },
@@ -1192,6 +1214,32 @@
       "duration_ms": 238262,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/0CmfSbkGGv2jH4qGo0vjb3"
+    },
+    {
+      "album": {
+        "name": "Black Hole (Giuseppe Ottaviani + Ferry Tayle Remixes)",
+        "url": "https://open.spotify.com/album/5r4XW6r0Xd3wt8FN2yDonY"
+      },
+      "artists": [
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241739,
+      "name": "Black Hole - Giuseppe Ottaviani Remix",
+      "url": "https://open.spotify.com/track/1l1tWWqQc2lHmbg5r7iknD"
     },
     {
       "album": {
@@ -3320,6 +3368,32 @@
       "duration_ms": 271304,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7ClSlr5TX7brKfEJ51WhFz"
+    },
+    {
+      "album": {
+        "name": "Follow The King (David Forbes Remix)",
+        "url": "https://open.spotify.com/album/5GTLTbA5XjbR5T8QBDBVpq"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Madelyn Monaghan",
+          "url": "https://open.spotify.com/artist/01WxnPgtiqMfOeLe6Psll2"
+        },
+        {
+          "name": "David Forbes",
+          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Follow The King - David Forbes Remix",
+      "url": "https://open.spotify.com/track/7DmCO62KfX9VoYRXV8CwkF"
     },
     {
       "album": {
@@ -6482,7 +6556,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 210004,
       "name": "Mystery Land - Abstract Vision Remix",
       "url": "https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj"
@@ -8420,7 +8494,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 246956,
       "name": "Seasons Will Change",
       "url": "https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1"
@@ -9418,7 +9492,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 236500,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/1UMI25Bx7ZI7gTk2WlSUJ6"

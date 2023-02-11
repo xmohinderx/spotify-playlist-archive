@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain](/playlists/plain/37i9dQZF1DWSNmwgf7Nv11) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSNmwgf7Nv11)
 
-### [Boho + Chill](https://open.spotify.com/playlist/37i9dQZF1DWSNmwgf7Nv11)
+### [Boho & Chill](https://open.spotify.com/playlist/37i9dQZF1DWSNmwgf7Nv11)
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,472 likes - 161 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,662 likes - 161 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 160 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 161 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY3MzkxMjI2NCwwMDAwMDAwMDgxZTM3ZWY3NjQwYWFlNDgyNDAxM2IyZDk2MTM5ZGNj`
+Snapshot ID: `MTY3NjA0NzkyNiwwMDAwMDAwMDk0NjQ4MTQyYWY5ZDg5ZTA5NThkOGY5N2QyZGI4NjNh`

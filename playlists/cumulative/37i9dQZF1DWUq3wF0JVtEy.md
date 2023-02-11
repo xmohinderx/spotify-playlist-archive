@@ -2,7 +2,7 @@
 
 ### [Shuffle Syndrome](https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy)
 
-> 
+> <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
 293 songs - 14 hr 27 min
 

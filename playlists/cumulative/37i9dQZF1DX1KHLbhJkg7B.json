@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 202988,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
@@ -2837,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/5ADQNJnzQw34bJAEL3bjWL"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189255,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0rYXSQ5SztqtP3DfBAHoA6"
+    },
+    {
+      "album": {
         "name": "This Is It (Standard Version)",
         "url": "https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq"
       },
@@ -3048,6 +3066,24 @@
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
+    },
+    {
+      "album": {
+        "name": "Little More Tequila",
+        "url": "https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna"
     },
     {
       "album": {
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"

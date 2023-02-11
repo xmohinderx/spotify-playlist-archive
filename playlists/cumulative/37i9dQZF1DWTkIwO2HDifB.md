@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Agudo Mágico 3 e os funks mais 🔑 do Brasil\. Foto: MC K.K, Dj TG Beats, Dj Aurélio, MC Lipivox
+> Namora aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
 
 137 songs - 7 hr 26 min
 

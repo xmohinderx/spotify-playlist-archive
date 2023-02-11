@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-634 songs - 1 day 9 hr 37 min
+636 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/track/43XDyDwka658kl7tE31LcB) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/album/51PsFFDADd7HpUvffXAKZL) | 3:08 | 2022-03-10 | 2022-05-12 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-07-28 |  |
 | [Breaking Up With A Friend](https://open.spotify.com/track/6Chhg96KqjbU3WU8GDEdsI) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Breaking Up With A Friend](https://open.spotify.com/album/3k8fo6a1vGdL9IVKkkeHRp) | 3:07 | 2022-04-01 | 2022-05-13 |
+| [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 | 2023-02-09 |  |
 | [Brev från botten](https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Brev från botten](https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2) | 3:10 | 2022-09-15 | 2022-10-16 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -355,6 +356,7 @@
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
+| [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 |  |
 | [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 |  |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |
@@ -372,7 +374,7 @@
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 |  |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
-| [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 |  |
+| [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
@@ -635,7 +637,7 @@
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |
 | [Your Number](https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Your Number](https://open.spotify.com/album/0Z6bdj3jiXVtiV3ozBB0zW) | 2:45 | 2022-03-10 | 2022-06-01 |
 | [Yours](https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Yours](https://open.spotify.com/album/1r8WGwm16WpWJX6nvO3IpO) | 3:24 | 2022-05-20 | 2022-07-27 |
-| [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 |  |
+| [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 | 2023-02-11 |
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
 | [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 |  |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |

@@ -6,347 +6,231 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "NzM2LDExMmUxMzRhNDQ3MGQ0ZmMwZjczNzI4Njg0Y2RlNjE0YTVkMjQ5YTk=",
+  "snapshot_id": "NzM5LDQzYTJlMTI5NjNlZjk1MDI0MjcwMWM0OWI0MDE3NjljYzljODJhYWI=",
   "tracks": [
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "Standing In The Shadows",
-        "url": "https://open.spotify.com/album/3r7MMf4MjxrEjQkQmdWAK9"
+        "name": "Endelaus Veg",
+        "url": "https://open.spotify.com/album/4SKTLQongv0eFc3Om0xxec"
       },
       "artists": [
         {
-          "name": "Cliff Wedge",
-          "url": "https://open.spotify.com/artist/2qguL07OSiwQUFvJFA3NBt"
+          "name": "Bootlegs",
+          "url": "https://open.spotify.com/artist/06NpyvDgWUFo5YPdLkRZp3"
+        }
+      ],
+      "duration_ms": 287563,
+      "name": "Endelaus Veg",
+      "url": "https://open.spotify.com/track/3I2s2aMjP6zObtNq4mpuI4"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Serrated Jaws",
+        "url": "https://open.spotify.com/album/7INxnrC3ZAWEO5kLwkDBy7"
+      },
+      "artists": [
+        {
+          "name": "Grand Cadaver",
+          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Serrated Jaws",
+      "url": "https://open.spotify.com/track/0gyOBgNqhNNVUd69XIeXzx"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Terminal Velocity",
+        "url": "https://open.spotify.com/album/5WWHTkPwWc4hDojEuMBdQY"
+      },
+      "artists": [
+        {
+          "name": "Only By Night",
+          "url": "https://open.spotify.com/artist/0oEQuhufOFE2MLw8bW9E4i"
+        }
+      ],
+      "duration_ms": 210431,
+      "name": "Terminal Velocity",
+      "url": "https://open.spotify.com/track/40feYW0541aw32cHHmhXCm"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/5VV7wRhx2WljCEzzuNizkM"
+      },
+      "artists": [
+        {
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2jKPaC2ezYgEFsMBScc1mH"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/2WX93lwyQOS0Cl7lXdJ7uU"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Heaven Is Noise",
+        "url": "https://open.spotify.com/album/2HHAoBXw4HXREWhv6oLmqR"
+      },
+      "artists": [
+        {
+          "name": "Skeleton Shortage",
+          "url": "https://open.spotify.com/artist/2uEb2qRHEXTuLcZPb5l63e"
+        }
+      ],
+      "duration_ms": 281151,
+      "name": "Heaven Is Noise",
+      "url": "https://open.spotify.com/track/78UB6Pj551OsTxqCeFqZXv"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Magic Words",
+        "url": "https://open.spotify.com/album/7aJP5myrQwY2qlxUGpPoPY"
+      },
+      "artists": [
+        {
+          "name": "APG",
+          "url": "https://open.spotify.com/artist/43WWpQzBvWugFPxprqm1Z7"
+        }
+      ],
+      "duration_ms": 168068,
+      "name": "Magic Words",
+      "url": "https://open.spotify.com/track/2X06KZ11o9D08owHs2pO0z"
+    },
+    {
+      "added_at": "2023-02-10 13:19:34",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/7qU3W6roTxZ5KBf5QqTLDK"
+      },
+      "artists": [
+        {
+          "name": "Krissie",
+          "url": "https://open.spotify.com/artist/4H5pk9gnVCiVIXuh6cGNdM"
         },
         {
-          "name": "DJ Pewee",
-          "url": "https://open.spotify.com/artist/5uPtEPabkoGulfS1oXJQPM"
+          "name": "The Lundy Family",
+          "url": "https://open.spotify.com/artist/5bM6pUB6wgmsWaLS9y2ajp"
+        },
+        {
+          "name": "Another Overload",
+          "url": "https://open.spotify.com/artist/2v3S7Ub3u6Zs3hNu8Hq6Yw"
+        },
+        {
+          "name": "Animal Al",
+          "url": "https://open.spotify.com/artist/2V267Zdwe3Wm40XdvY9LQJ"
         }
       ],
-      "duration_ms": 210858,
-      "name": "Standing In The Shadows",
-      "url": "https://open.spotify.com/track/4ILE5MgmUrl0IQ0rBDTeMI"
+      "duration_ms": 164599,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/33LaFP8eNi0hZEwSDVpCLa"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "AUTOMOBIL",
-        "url": "https://open.spotify.com/album/2KQ7MC9pRD1dcZLQYigpxM"
+        "name": "Whami Guam Brad",
+        "url": "https://open.spotify.com/album/2UeqEDbvZaQ1rzfd7UMlu2"
       },
       "artists": [
         {
-          "name": "Robin T",
-          "url": "https://open.spotify.com/artist/3mrrPjnzhf1YQMfIHARaMx"
+          "name": "Uncle Father Oscar",
+          "url": "https://open.spotify.com/artist/6wAfUy9tcrA7MLqAbzCf2h"
         }
       ],
-      "duration_ms": 144583,
-      "name": "AUTOMOBIL",
-      "url": "https://open.spotify.com/track/3UlvQ6XBs54N6Amp2EfNPq"
+      "duration_ms": 171895,
+      "name": "Weed TV",
+      "url": "https://open.spotify.com/track/5LgGDkgCzNzOFBBNwrfMg9"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "Save us from ourselves",
-        "url": "https://open.spotify.com/album/2FAerHdfRS0FcRGXV51o2x"
+        "name": "Chillout Sumatra",
+        "url": "https://open.spotify.com/album/0hFnGELYJ0eENtuH5ooSnU"
       },
       "artists": [
         {
-          "name": "Tears of a fallen hero",
-          "url": "https://open.spotify.com/artist/5odQiXtPk80QB8WbIHEuGQ"
+          "name": "Forest Edge",
+          "url": "https://open.spotify.com/artist/6ID6yxO713Bx1rOmwNjLyI"
         }
       ],
-      "duration_ms": 206844,
-      "name": "We won't let go",
-      "url": "https://open.spotify.com/track/1yk2oR3onUj9KP2KQbWCfN"
+      "duration_ms": 213396,
+      "name": "Chillout Sumatra",
+      "url": "https://open.spotify.com/track/5yLskZtctTfIf0OmDUqsVP"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "Dolda Rum",
-        "url": "https://open.spotify.com/album/3dtDH887aABqAvR1UoDh8I"
+        "name": "While We're On It",
+        "url": "https://open.spotify.com/album/4L753c23ko1Vfnl6Ty2GET"
       },
       "artists": [
         {
-          "name": "Beriwan",
-          "url": "https://open.spotify.com/artist/0Sfo5QYsJT3GHD6biIaJBh"
+          "name": "TILT",
+          "url": "https://open.spotify.com/artist/4ifaahwu79ZwKXA2WmsfMj"
         }
       ],
-      "duration_ms": 129696,
-      "name": "Dolda Rum",
-      "url": "https://open.spotify.com/track/6sPGsNskDveg24vtRVF1CX"
+      "duration_ms": 155000,
+      "name": "While We're On It",
+      "url": "https://open.spotify.com/track/5Ci1oEOBYJx4rbnlCLHZcn"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/1y9l5bv9hdox83mlhteCxn"
+        "name": "ME TENGO QUE IR",
+        "url": "https://open.spotify.com/album/1hkUWyUzkmuEauNuRwKbUV"
       },
       "artists": [
         {
-          "name": "Red Heart",
-          "url": "https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW"
+          "name": "Rodny",
+          "url": "https://open.spotify.com/artist/4wbDY8PL52OgD6HSeiGa6C"
         }
       ],
-      "duration_ms": 205925,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/3VSGW16jahiTscjtBkL42Y"
+      "duration_ms": 196174,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/0QilGvc2ukisHFbG80BlbU"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "Moon Song",
-        "url": "https://open.spotify.com/album/2NIjRZlgzfHBiK9qo5ObA2"
+        "name": "En dr\u00f6m",
+        "url": "https://open.spotify.com/album/1hBo7nqgqXRrzFnMJJnx22"
       },
       "artists": [
         {
-          "name": "nayl",
-          "url": "https://open.spotify.com/artist/7GbWeqkZ1HSS68Tijnp4s7"
+          "name": "Nyxie",
+          "url": "https://open.spotify.com/artist/2oC7B4aRH9IcKyn5ltxRoQ"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Moon Song",
-      "url": "https://open.spotify.com/track/3De72B6N2G0kdoqXdLszWB"
+      "duration_ms": 208192,
+      "name": "En dr\u00f6m",
+      "url": "https://open.spotify.com/track/3Eqc20FVhkUXAh7T70qZZH"
     },
     {
-      "added_at": "2023-02-03 14:54:25",
+      "added_at": "2023-02-10 13:19:34",
       "album": {
-        "name": "When I'm dead",
-        "url": "https://open.spotify.com/album/28oTVwwLd6OPjLWEMX41Gp"
+        "name": "Distant Lands",
+        "url": "https://open.spotify.com/album/6H7lhn9T6mnBqzfeKdA2VG"
       },
       "artists": [
         {
-          "name": "Oakman's Ramble",
-          "url": "https://open.spotify.com/artist/15f5r8qhz2bfSrrFCbckli"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "When I'm dead",
-      "url": "https://open.spotify.com/track/5nPs5F5dt5yvSBKS3DFx7d"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "V\u00e5rskrik",
-        "url": "https://open.spotify.com/album/2jdBSF9sovlOuzQ58Yekfw"
-      },
-      "artists": [
+          "name": "Whiskey's Wake",
+          "url": "https://open.spotify.com/artist/1rNu83JCEN6NnRXmSMZrci"
+        },
         {
-          "name": "Mercedes Moy",
-          "url": "https://open.spotify.com/artist/6EEFsAylqbi74E9zgfr7t9"
+          "name": "Sophie Blair",
+          "url": "https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT"
         }
       ],
-      "duration_ms": 179307,
-      "name": "V\u00e5rskrik",
-      "url": "https://open.spotify.com/track/0Lg2M9TwXFO2hyJGlNd32C"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Crazy As Fuck",
-        "url": "https://open.spotify.com/album/4l2co85KF9ra4cJMQPR0E0"
-      },
-      "artists": [
-        {
-          "name": "Encoded Data",
-          "url": "https://open.spotify.com/artist/1bozxq2U3KEtuM92IPvH8h"
-        }
-      ],
-      "duration_ms": 332807,
-      "name": "Crazy As Fuck",
-      "url": "https://open.spotify.com/track/3LBmZcTOQTMC4fhxgTfjFE"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Unkind Reality",
-        "url": "https://open.spotify.com/album/7xcov6aBJaD1Kx3T0HTqqN"
-      },
-      "artists": [
-        {
-          "name": "Unkind Reality",
-          "url": "https://open.spotify.com/artist/1g8Qsu8Y6kRreKKnjYUBch"
-        }
-      ],
-      "duration_ms": 282697,
-      "name": "Unkind Reality",
-      "url": "https://open.spotify.com/track/3jaNh8gTv9W1UEaa2sqKgh"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Dance Mood",
-        "url": "https://open.spotify.com/album/5mG9pHCORH5u3uphQlPKRD"
-      },
-      "artists": [
-        {
-          "name": "Bob David",
-          "url": "https://open.spotify.com/artist/4GDoJnQKwjcdV34IBkKbzN"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Dance Mood",
-      "url": "https://open.spotify.com/track/5xYhLoy34aZwtM9nvZOrLh"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Yizwa Imithandazo",
-        "url": "https://open.spotify.com/album/3IEXydhIpE2FBr6OyfLdct"
-      },
-      "artists": [
-        {
-          "name": "All Nations Christian Church In Zion",
-          "url": "https://open.spotify.com/artist/1XXJQ2n7HKyBZ0TL7t57kw"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Yizwa Imithandazo",
-      "url": "https://open.spotify.com/track/7xDPPqZSDyDhwAS4WjqRAG"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "All My Words",
-        "url": "https://open.spotify.com/album/09vTDKAM4BULyxev8AwB7F"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Buoy",
-          "url": "https://open.spotify.com/artist/42GCmnQk734uXiccHlfQlm"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "All My Words",
-      "url": "https://open.spotify.com/track/3fSfmhTtLmvQdbnSZNErRU"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Miniature",
-        "url": "https://open.spotify.com/album/781Dw575z5ZgLMCjdhA0vd"
-      },
-      "artists": [
-        {
-          "name": "Paolo Eriani",
-          "url": "https://open.spotify.com/artist/63d0zfcT7PB007jfH5X96O"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Miniatura per Oboe",
-      "url": "https://open.spotify.com/track/51jHQx347dI5ULzGLwnrkN"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "JADA JADA",
-        "url": "https://open.spotify.com/album/1r5Slz61zbehvzETYll6yl"
-      },
-      "artists": [
-        {
-          "name": "Steve Kuling",
-          "url": "https://open.spotify.com/artist/5bUvL6Gqsrjk7puABCbVjk"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "JADA JADA",
-      "url": "https://open.spotify.com/track/7vfQi2kAPXYEERmGNJHzyd"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "ANOTHER VIBES, Pt. 1",
-        "url": "https://open.spotify.com/album/5HgjHTEqb8ktwZGZrd97cj"
-      },
-      "artists": [
-        {
-          "name": "Kasetty",
-          "url": "https://open.spotify.com/artist/3d32pzDPYhfm15wUMxnxu9"
-        }
-      ],
-      "duration_ms": 466000,
-      "name": "Secret Wink",
-      "url": "https://open.spotify.com/track/6Ox6CImLdirf3Mt7DRYFRq"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "The Optimist",
-        "url": "https://open.spotify.com/album/1eVcOWfMGwsHqINwYnhsRi"
-      },
-      "artists": [
-        {
-          "name": "The Santos Connection",
-          "url": "https://open.spotify.com/artist/2QVZRMNzssOIKKDIlngRyc"
-        }
-      ],
-      "duration_ms": 221541,
-      "name": "The Optimist",
-      "url": "https://open.spotify.com/track/4u70udH0iqFpNJY8qz67T3"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Goat-Horned Moon Live",
-        "url": "https://open.spotify.com/album/0UCK6NDx7xigKy60oRB2ZC"
-      },
-      "artists": [
-        {
-          "name": "Jakob Battick",
-          "url": "https://open.spotify.com/artist/0SbDgL1fk4WqAFdtkptcYB"
-        }
-      ],
-      "duration_ms": 389124,
-      "name": "Witch's Piss",
-      "url": "https://open.spotify.com/track/6G9ruIyI9fKIX1C3J0aiA3"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Time Moves A Little Slower Here",
-        "url": "https://open.spotify.com/album/4chQZxqrztrEHhjhu4qKbA"
-      },
-      "artists": [
-        {
-          "name": "Ojay",
-          "url": "https://open.spotify.com/artist/4Ohu0UoFPZKuy5gIEedZtq"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Time Moves A Little Slower Here",
-      "url": "https://open.spotify.com/track/4mYnL0miHdI6GQtRssEwpI"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Maria Ioana",
-        "url": "https://open.spotify.com/album/0skBqYKKvhrN9Cm7uCMrrl"
-      },
-      "artists": [
-        {
-          "name": "Uddi",
-          "url": "https://open.spotify.com/artist/0kTVB7sOMbJRlHprTXc3aI"
-        }
-      ],
-      "duration_ms": 179184,
-      "name": "Maria Ioana",
-      "url": "https://open.spotify.com/track/0JFP3Heq9YuOG4hX1qOQP8"
-    },
-    {
-      "added_at": "2023-02-03 14:54:25",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/4zLRBAdrx0RQmLDeCvGYcx"
-      },
-      "artists": [
-        {
-          "name": "River Crombie",
-          "url": "https://open.spotify.com/artist/6ljktdvg1dws4RtZcJCJ9X"
-        }
-      ],
-      "duration_ms": 184982,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/70IRazNDubJMh4Zw4JN1AL"
+      "duration_ms": 164606,
+      "name": "Keep the Fight Alive",
+      "url": "https://open.spotify.com/track/0GN9C8sjhNj19EbyvcHWoI"
     }
   ],
   "unique_name": "Independent Music Friday",

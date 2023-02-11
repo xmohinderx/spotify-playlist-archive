@@ -1,15 +1,431 @@
 {
-  "description": "Les derni\u00e8res nouveaut\u00e9s francophones avec Benny Adam, Lost et Greg Beaudin.",
-  "num_followers": 35947,
+  "description": "Les derni\u00e8res nouveaut\u00e9s francophones avec Marilyne L\u00e9onard, Les Louanges, Ichon et Isabelle Boulay.",
+  "num_followers": 35969,
   "original_name": "Nouveaut\u00e9s de la semaine Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDdmZjlkMjI0MTM0N2YxYmNiZjBkMWVjZTEwYWFjMTIw",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDMwYjUyZThkMjgwZThhMDhkMjI0NzQ1ODI1MGZkMjJi",
   "tracks": [
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Gants blancs",
+        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 214792,
+      "name": "Gants blancs",
+      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Sur la m\u00e9lodie (feat. Ichon)",
+        "url": "https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        },
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Sur la m\u00e9lodie (feat. Ichon)",
+      "url": "https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Je t'ai manqu\u00e9",
+        "url": "https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Je t'ai manqu\u00e9",
+      "url": "https://open.spotify.com/track/7d8Fk8bxao3O9A3rqgG6GM"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Je danse",
+        "url": "https://open.spotify.com/album/6r6ZkrdjLnjc9uyFzog1Z7"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 193702,
+      "name": "Je danse",
+      "url": "https://open.spotify.com/track/0hcDZ1YCJRMj9HXAFQOWNL"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "(Lot 2) consolation",
+        "url": "https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "tout \u00e7a",
+      "url": "https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6veDfkluTetAypC3SffZwr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "PSO BOP",
+        "url": "https://open.spotify.com/album/2Lg8T1TQw0LqhJbNHZwRfe"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 143048,
+      "name": "PSO BOP",
+      "url": "https://open.spotify.com/track/3baDxVQRIRuhMTMb6nKJbf"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Leansy",
+        "url": "https://open.spotify.com/album/1ceqJneoh9TEfSwqu2NfFx"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Joey G",
+          "url": "https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Leansy",
+      "url": "https://open.spotify.com/track/33tyoDlbRyXPfFj3t9Z3u8"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "FIYAH",
+        "url": "https://open.spotify.com/album/7LhkTAJ8NTMhMbynv8RQav"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Dunk On 'Em",
+      "url": "https://open.spotify.com/track/0u4Q7fpXtrTAHTPYCKcoIA"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Taulier",
+        "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/6XlTKcnoHUtoZ2yQUra9zf"
+      },
+      "artists": [
+        {
+          "name": "Soopafoo",
+          "url": "https://open.spotify.com/artist/5qeGJOaQ09cd31ndQ0M7EN"
+        },
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "TEC",
+      "url": "https://open.spotify.com/track/3HJKrwiplwM14ZN9RowsIc"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Train de vie",
+        "url": "https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "duration_ms": 190379,
+      "name": "Derri\u00e8re toi",
+      "url": "https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "T'aimer assez fort",
+        "url": "https://open.spotify.com/album/7qOoMkhFRlMNxYhJux3PNy"
+      },
+      "artists": [
+        {
+          "name": "Lynda Lemay",
+          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "T'aimer assez fort",
+      "url": "https://open.spotify.com/track/2jCCTO3g5L5XWufCq1vX1p"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Or aux dents",
+        "url": "https://open.spotify.com/album/6L3bXWMfStRQZOzDKOhOcN"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Or aux dents #1",
+      "url": "https://open.spotify.com/track/2W5diySRzth7W1GxXh9aML"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Doudou",
+        "url": "https://open.spotify.com/album/0BpbF8kQVKg165nMZLF6DG"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "duration_ms": 204623,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/7CTP8zjKDI25DGibdzEIS7"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Chiens habill\u00e9s",
+        "url": "https://open.spotify.com/album/7LbJ2LedRWrZA8056mFM52"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Chiens habill\u00e9s",
+      "url": "https://open.spotify.com/track/5riMSZxTduU3bMgr2B26E5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/5CJDFONNgIvOVkScKK16FJ"
+      },
+      "artists": [
+        {
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        }
+      ],
+      "duration_ms": 152509,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5calkLSWjQko2da689PKYo"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Carnage sur la 338",
+        "url": "https://open.spotify.com/album/5eVnBt5j4cMXRr7bgj1JJK"
+      },
+      "artists": [
+        {
+          "name": "Broken Hearts",
+          "url": "https://open.spotify.com/artist/74TBUD0oJZdEOzv1PcOPvy"
+        }
+      ],
+      "duration_ms": 169148,
+      "name": "Carnage sur la 338",
+      "url": "https://open.spotify.com/track/28af0lQABinTAtzoQVYPi2"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Territoiredelours",
+        "url": "https://open.spotify.com/album/4dc7lc9vGkSCogIKIPSXF6"
+      },
+      "artists": [
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "Alchimie",
+      "url": "https://open.spotify.com/track/4LbcM1JxYsuBEqLg8gtwEH"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Police \u00e0 ma porte",
+        "url": "https://open.spotify.com/album/6s1K0Koo24rGmV33PZYyzv"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "duration_ms": 149859,
+      "name": "Police \u00e0 ma porte",
+      "url": "https://open.spotify.com/track/4efHCpCu3cmXSZPcZnemUS"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "vie rapide",
+        "url": "https://open.spotify.com/album/3B4fTEOw0x0ku2woLbPop2"
+      },
+      "artists": [
+        {
+          "name": "White Migz",
+          "url": "https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8"
+        },
+        {
+          "name": "Whitie",
+          "url": "https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID"
+        }
+      ],
+      "duration_ms": 150073,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/5Nr5MNAlmvFw2z7LQV1C6F"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Perdue dans la foule",
+        "url": "https://open.spotify.com/album/6ktUPQ7XXzXTWQBMUTZZAk"
+      },
+      "artists": [
+        {
+          "name": "Laura Gagn\u00e9",
+          "url": "https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA"
+        }
+      ],
+      "duration_ms": 153542,
+      "name": "Perdue dans la foule",
+      "url": "https://open.spotify.com/track/0Lu8eM6yx3iiRd5a7qV2gP"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Fallait Pas",
+        "url": "https://open.spotify.com/album/1zsDuNgLg4YdM4jAIHYquP"
+      },
+      "artists": [
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "Fallait Pas",
+      "url": "https://open.spotify.com/track/3bA5hwXnmbf7ZfleTkQ4cn"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Soleil des loups",
+        "url": "https://open.spotify.com/album/2FwQG8y5MlKSTWayPmqTzG"
+      },
+      "artists": [
+        {
+          "name": "Beau Nectar",
+          "url": "https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH"
+        },
+        {
+          "name": "Marie-Clo",
+          "url": "https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7"
+        },
+        {
+          "name": "\u00e9emi",
+          "url": "https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P"
+        }
+      ],
+      "duration_ms": 202417,
+      "name": "Soleil des loups",
+      "url": "https://open.spotify.com/track/6gkRmf7ppfbNNTXpXSYhwp"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Pigalle",
         "url": "https://open.spotify.com/album/22AW5DN7qVOybGo4JKx2Ku"
@@ -25,7 +441,7 @@
       "url": "https://open.spotify.com/track/61CqSFg78pMYNSJpqHOzQr"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Malsain et sauf",
         "url": "https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN"
@@ -41,7 +457,7 @@
       "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "L'\u00e9norme chien tr\u00e8s gentil",
         "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
@@ -57,7 +473,7 @@
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Tiamat, Mon Amour",
         "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
@@ -77,7 +493,7 @@
       "url": "https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Matrix\u00e9",
         "url": "https://open.spotify.com/album/2aOSlDepFY62KyDrMMONpD"
@@ -97,7 +513,7 @@
       "url": "https://open.spotify.com/track/4wZhBbDiMr4lwYyWv2iRAZ"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Nouvelle administration",
         "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
@@ -113,7 +529,7 @@
       "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "La clairi\u00e8re",
         "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
@@ -129,7 +545,7 @@
       "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/1r7zIgnFzNSLyXCrssQDWe"
@@ -149,7 +565,7 @@
       "url": "https://open.spotify.com/track/0mv5yREt4vSfYnKpENsF0R"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Create 'n' Collaborate",
         "url": "https://open.spotify.com/album/12HsTGaczjkG3lS1AYLkn7"
@@ -165,7 +581,7 @@
       "url": "https://open.spotify.com/track/6SLqm8b5oMS6IqQCQtqS0m"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
         "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
@@ -185,7 +601,7 @@
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ta yeule, toute va ben",
         "url": "https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf"
@@ -201,7 +617,7 @@
       "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ann\u00e9es Sauvages",
         "url": "https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN"
@@ -221,7 +637,7 @@
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lundi normal",
         "url": "https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx"
@@ -237,7 +653,7 @@
       "url": "https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Les immortelles",
         "url": "https://open.spotify.com/album/3nYhirkd6Qr6kkQmYhmYIl"
@@ -253,7 +669,7 @@
       "url": "https://open.spotify.com/track/4x1Fs9ZvBQIDHpyH5Ya3MI"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Un Bum",
         "url": "https://open.spotify.com/album/4pyfgT2L93E6dgNA36iHcz"
@@ -269,7 +685,7 @@
       "url": "https://open.spotify.com/track/5V3yBZFCTUqeNkOoSar5gk"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ast\u00e9rix & Ob\u00e9lix : L'Empire du Milieu (Bande originale du film)",
         "url": "https://open.spotify.com/album/0mpVyFXf7wIKuSxTtZz0zz"
@@ -289,7 +705,7 @@
       "url": "https://open.spotify.com/track/6C7mfquUXYvn6Oc0E5wsPN"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Le Sceptre",
         "url": "https://open.spotify.com/album/4TgcBkfNZV156MPIvENc45"
@@ -309,7 +725,7 @@
       "url": "https://open.spotify.com/track/2P5RfaeihHYD8Wt1Kxslo4"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
@@ -329,7 +745,7 @@
       "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Tout va bien",
         "url": "https://open.spotify.com/album/5QLBWINtANCgkD8sy34Hgt"
@@ -345,7 +761,7 @@
       "url": "https://open.spotify.com/track/4iW2fvVd5p1DmjvBRUITxo"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "golden hour (Version Fran\u00e7aise)",
         "url": "https://open.spotify.com/album/2rVrUrani6tXmWVg3uODg3"
@@ -365,7 +781,7 @@
       "url": "https://open.spotify.com/track/6Y9HP2CDrCISKcvAqY0fBo"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Pas assez",
         "url": "https://open.spotify.com/album/1fR3HHIVEGsWm15GqfMFq9"
@@ -381,7 +797,7 @@
       "url": "https://open.spotify.com/track/38cj3UAVsZJicscLLCEtt1"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Koo Koo Fun (Remixes)",
         "url": "https://open.spotify.com/album/2FHaIfUZWS9PSRqQUU0u48"
@@ -417,7 +833,7 @@
       "url": "https://open.spotify.com/track/0HH4liqntlo3KQmKiRKJsv"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Folking tard",
         "url": "https://open.spotify.com/album/0Yqz3UIq9JRRehQ51gKT4S"
@@ -433,7 +849,7 @@
       "url": "https://open.spotify.com/track/6JkgB8I9NqTGYTOEPAc0X3"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Petit petit moi",
         "url": "https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg"
@@ -449,7 +865,7 @@
       "url": "https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
@@ -465,7 +881,7 @@
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
@@ -483,410 +899,6 @@
       "duration_ms": 197386,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/43eoqH9CIZqy7VXLnwwMnu"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/0ugugzAsk9nLiyf5vyCkqK"
-      },
-      "artists": [
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1fXFzLrvQtqZ4RNGtrO1Lr"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "M\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
-      },
-      "artists": [
-        {
-          "name": "Izzy-S",
-          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 162943,
-      "name": "M\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Chef d'orchestre",
-        "url": "https://open.spotify.com/album/4KIc855v0ohCcMYL2bglFH"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        }
-      ],
-      "duration_ms": 192570,
-      "name": "Chef d'orchestre",
-      "url": "https://open.spotify.com/track/7vPOnxR7AdsashI2Aezl1X"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Cosmologie",
-        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 215284,
-      "name": "T'as peur",
-      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
-        "url": "https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
-      "url": "https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Jour -3",
-        "url": "https://open.spotify.com/album/6Hzi45JNgrCpQZTicloesQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Jour -3",
-      "url": "https://open.spotify.com/track/4JqRoPEBOybW70jDGaWVbe"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Aujourd'hui",
-        "url": "https://open.spotify.com/album/0I2xADY0REmzWzcaY1xcZ3"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 192391,
-      "name": "Aujourd'hui",
-      "url": "https://open.spotify.com/track/5MTqsR5MkKldD4SJW4WuzA"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Top Fan",
-        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 190648,
-      "name": "Top Fan",
-      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Aime-toi comme \u00e7a",
-        "url": "https://open.spotify.com/album/5k9tDcwpT4GITmyCMLUA57"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Aime-toi comme \u00e7a",
-      "url": "https://open.spotify.com/track/5SzGHd14DCHNBwQkIn3sjK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Match",
-        "url": "https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U"
-      },
-      "artists": [
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        },
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Match",
-      "url": "https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Vis ou meurs",
-        "url": "https://open.spotify.com/album/0rEUHdwyYYAEg6u74eev2E"
-      },
-      "artists": [
-        {
-          "name": "Malko",
-          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Vis ou meurs",
-      "url": "https://open.spotify.com/track/1JtaKUwjMC0joaRUJ5eBhS"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Rivi\u00e8re",
-        "url": "https://open.spotify.com/album/77w6LJNsppSLItwYsktRkW"
-      },
-      "artists": [
-        {
-          "name": "Simon Lachance",
-          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Rivi\u00e8re",
-      "url": "https://open.spotify.com/track/3X6OlydrFOqXSRxD9SezR2"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Hasni",
-        "url": "https://open.spotify.com/album/0xOuazxsax4xmnkWfzb8ae"
-      },
-      "artists": [
-        {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
-        }
-      ],
-      "duration_ms": 135501,
-      "name": "Hasni",
-      "url": "https://open.spotify.com/track/6x6QrI8ihtRz4Eme7BiYnG"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Celles que je connais",
-        "url": "https://open.spotify.com/album/2OR45vYrohSgr1fJ8gt3pY"
-      },
-      "artists": [
-        {
-          "name": "Sandrine St-Laurent",
-          "url": "https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1"
-        }
-      ],
-      "duration_ms": 220246,
-      "name": "Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0n7nz5GWirxz09u6JNnxUT"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Trop jeune",
-        "url": "https://open.spotify.com/album/1pHQXlkMkpRlIo6GCIUIV0"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Trop jeune",
-      "url": "https://open.spotify.com/track/6rqWdAwmWsX1rropncpHpT"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4"
-      },
-      "artists": [
-        {
-          "name": "Obia le Chef",
-          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
-        },
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "30 ans",
-        "url": "https://open.spotify.com/album/3WJpoBj6CpthWcog173gpS"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "duration_ms": 255063,
-      "name": "30 ans",
-      "url": "https://open.spotify.com/track/3flkffgRq13s5SlKAgaerg"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "D\u00e9sormais",
-        "url": "https://open.spotify.com/album/1U4Ano5gL9nyv7ujehVfLP"
-      },
-      "artists": [
-        {
-          "name": "David Thibault",
-          "url": "https://open.spotify.com/artist/19x0G0gV8vPa6l6kYNzKPT"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "La nuit nous laisse les \u00e9toiles",
-      "url": "https://open.spotify.com/track/7eDJnQDTDWYu7mMCc0azhN"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "EQUATEUR",
-        "url": "https://open.spotify.com/album/5ir8ufLwVZSypIOeJKXmPu"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 172720,
-      "name": "Dis Moi Tout",
-      "url": "https://open.spotify.com/track/7e4BqVOHZt9tPi44aHkQrZ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Paysage (Radio Edit)",
-        "url": "https://open.spotify.com/album/5wRtJMmrkolt7LJS2T7VTT"
-      },
-      "artists": [
-        {
-          "name": "Joseph Boonen",
-          "url": "https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG"
-        }
-      ],
-      "duration_ms": 162854,
-      "name": "Paysage (Radio Edit)",
-      "url": "https://open.spotify.com/track/2v3VGhnuEOZMzTzNAOtjgT"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "tentacle",
-        "url": "https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Dauphin",
-        "url": "https://open.spotify.com/album/1kOWyINVbOrY1aVqZiKU8Q"
-      },
-      "artists": [
-        {
-          "name": "YUYU",
-          "url": "https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh"
-        }
-      ],
-      "duration_ms": 288630,
-      "name": "Unlock",
-      "url": "https://open.spotify.com/track/1LeljbSErkzy5F2oCggp7e"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Avoir su avant, Vol.1",
-        "url": "https://open.spotify.com/album/1NfF7YsPbQHvRcabtFFXiW"
-      },
-      "artists": [
-        {
-          "name": "Mariko",
-          "url": "https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V"
-        }
-      ],
-      "duration_ms": 214672,
-      "name": "Elz\u00e9ar",
-      "url": "https://open.spotify.com/track/0MgWflZjrIgObmlRkCSoDg"
     }
   ],
   "unique_name": "Nouveaut\u00e9s de la semaine Canada",

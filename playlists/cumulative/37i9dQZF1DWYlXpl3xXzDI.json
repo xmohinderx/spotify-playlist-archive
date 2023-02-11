@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Helen / Hou Me Vast",
+        "url": "https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "Helen",
+      "url": "https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K"
+    },
+    {
+      "album": {
         "name": "Revolver (Remastered)",
         "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L"
       },
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2017-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 224413,
       "name": "She Will Sing",
       "url": "https://open.spotify.com/track/4E8Zv4wFRUsFJtpnsoT01V"
@@ -3234,6 +3252,24 @@
       "duration_ms": 186443,
       "name": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
       "url": "https://open.spotify.com/track/3icbmPGKTsKAa0IinkizCM"
+    },
+    {
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
     },
     {
       "album": {
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2017-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 216693,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx"

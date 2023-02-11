@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94760,
+      "name": "I Believe in Goddess",
+      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
+    },
+    {
+      "album": {
         "name": "First Ditch Effort",
         "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },

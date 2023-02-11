@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: Pabllo Vittar
+> Os grandes hits do momento estão aqui! Foto: Anitta
 
 133 songs - 6 hr 42 min
 

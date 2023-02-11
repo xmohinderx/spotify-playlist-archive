@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe Cover: <a href="https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE?si=WYFynyVXRua75ZiDP4D2ag">Saint Evo</a>
+> The best dance hits in South Africa and across the globe Cover: <a href="https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt?si=SwBzz0kwT5CI2F2HYKLuMw">TiMO ODV</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,765 likes - 49 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,783 likes - 49 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [Darkness](https://open.spotify.com/track/0Hlzlg3TB4AS8sGJM5JqW6) | [Reuxen](https://open.spotify.com/artist/0SAMYnYYWLYROycmJ3gqeq), [Karaph](https://open.spotify.com/artist/4yzblXHoqfJnT21oFv8bQp), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Darkness](https://open.spotify.com/album/3emmvaGfzTchmL48ogkmZv) | 7:38 |
 | 49 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
 
-Snapshot ID: `MTY3NTk4NTM1NywwMDAwMDAwMGE2NjM1MjE0OWQ1Y2QxYzViMTFiZDVkYjhjMzA1Yjli`
+Snapshot ID: `MTY3NjAzNTk5NywwMDAwMDAwMGZhNWY1NWI3NGU0NGVmMTQxYzY4MTcxZDM1NDJmMjlh`

@@ -8454,7 +8454,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 135172,
       "name": "Bye",
       "url": "https://open.spotify.com/track/5xa1WF36hjrxH09WmkNWGo"
@@ -11518,6 +11518,24 @@
       "duration_ms": 171666,
       "name": "Coloring Book",
       "url": "https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/10wOfK2e4M9G4zbwTX8NDG"
+      },
+      "artists": [
+        {
+          "name": "Dolittlebeats",
+          "url": "https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7gUnSShgDIlRQjsPsRKXad"
     },
     {
       "album": {
@@ -25846,6 +25864,24 @@
       "duration_ms": 139746,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/61hOggobh04KVuPBt9UVUN"
+    },
+    {
+      "album": {
+        "name": "Ice Cubes",
+        "url": "https://open.spotify.com/album/0PQRvgoWtUJmbkXwNawC2d"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138876,
+      "name": "Ice Cubes",
+      "url": "https://open.spotify.com/track/7o2M9p2nBQzBBNOXCE1XPL"
     },
     {
       "album": {
@@ -40306,7 +40342,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 125647,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,719 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,744 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 22 | [Too Much \(Feat\. DEAN\)](https://open.spotify.com/track/1uhxMfjhglHoWlNyN3JaGs) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:10 |
 | 23 | [DA DA DA \(Feat\. Hoody\)](https://open.spotify.com/track/4n9FI4iDy6Ecg91LRjGuXX) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:32 |
 | 24 | [MOVIE SHOOT \(Feat\. DPR LIVE\)](https://open.spotify.com/track/0Z2ODxEibVXZ5kX5JMckO2) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 4:12 |
-| 25 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/40pK4HjQnWjle9v0hWbdqV) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Still](https://open.spotify.com/album/61gBfG7BfLc9QvVnsCVRof) | 4:36 |
+| 25 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 4:36 |
 | 26 | [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 |
 | 27 | [A.O.M.G.](https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 2:42 |
 | 28 | [Party Band \(Feat\. PUNCHNELLO, Thur\)](https://open.spotify.com/track/7cf2Dse4od8ogBvmqXxQKI) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Thur](https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:54 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 114 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 115 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMDU0ODdjNTZhYjA2MTA2M2IyNDM1MTgxNjQxNTdhMjQ5`
+Snapshot ID: `MTY3MjYzODkyMCwwMDAwMDAwMDM4MGZjZWU2OGY3MmU5OGMyMTZmMDljYzlhN2MzMjE2`

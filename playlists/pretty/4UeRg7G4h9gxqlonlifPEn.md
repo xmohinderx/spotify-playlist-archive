@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Harold
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,581 likes - 144 songs - 6 hr 56 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,578 likes - 144 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 143 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 |
 | 144 | [Cold Gangsta](https://open.spotify.com/track/61cWj1PJlqhRBlVMj5mcdp) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game \(Side B\)](https://open.spotify.com/album/4x3Rld7KvaO5HH8dJN8eDU) | 3:31 |
 
-Snapshot ID: `MzM5NiwxMTg0Y2RiZWY3YWQzYjk3Njg0ZjFmOWU5ZTkxMGI1MGIzMGVhOWRk`
+Snapshot ID: `MzM5OCwwY2I4Mjg2MDc1NzVjZDg5ZWYzNGE2ODYyN2ViNjMzZjA1YTFjMTEz`

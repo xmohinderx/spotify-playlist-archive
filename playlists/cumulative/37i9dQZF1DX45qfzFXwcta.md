@@ -2,7 +2,7 @@
 
 ### [Golden Era Focus](https://open.spotify.com/playlist/37i9dQZF1DX45qfzFXwcta)
 
-> Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
+> Instrumental beats from \(and influenced by\) Hip\-Hop's hey day; to help you study, work and vibe.
 
 79 songs - 4 hr 8 min
 

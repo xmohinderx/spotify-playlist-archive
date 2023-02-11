@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Manu Gavassi, Liniker
 
-265 songs - 13 hr 21 min
+269 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Como Eu Quero](https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Eu Quero](https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB) | 2:47 | 2022-06-03 | 2022-12-10 |
 | [Como Se O Amanha Não Fosse Chegar \- Ao Vivo](https://open.spotify.com/track/4wxIhBInWQcvbZZMhPt21b) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 3:02 | 2022-10-10 | 2022-10-22 |
 | [Condição](https://open.spotify.com/track/27qcJqjaTfi0kNWLVaTxcH) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Condição](https://open.spotify.com/album/29ZkkYqN1Sy2p1K66HCGaO) | 2:39 | 2022-05-13 | 2022-06-15 |
+| [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 | 2023-02-10 |  |
 | [Corações Psicodélicos \- Ao Vivo](https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Corações Psicodélicos \(Ao Vivo\)](https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m) | 3:27 | 2023-01-27 |  |
 | [Coringa](https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coringa](https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc) | 3:07 | 2022-05-13 | 2022-10-01 |
 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 | 2022-06-03 | 2022-10-11 |
@@ -136,6 +137,7 @@
 | [Intuição \(Envolvidão\) \- Ao Vivo](https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Live Sessions](https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS) | 3:08 | 2022-12-09 |  |
 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 | 2022-09-30 | 2022-12-03 |
 | [JOVEM](https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [JOVEM pt\. 1](https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN) | 3:20 | 2022-11-25 | 2023-01-28 |
+| [Lance ou Romance](https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Lance ou Romance](https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc) | 2:42 | 2023-02-10 |  |
 | [Leve](https://open.spotify.com/track/6lpvsomA1rOjC9Nf1Na4sz) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Leve](https://open.spotify.com/album/55a1xNRpaWDSLBJpcOSvzQ) | 3:04 | 2022-08-05 | 2022-10-01 |
 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 | 2023-02-03 |  |
 | [Longe de Mim](https://open.spotify.com/track/4VQ5sykAzSAcimgu6cRxPj) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [Longe de Mim](https://open.spotify.com/album/06ojZMF5zjFtXX5axLV2JU) | 3:14 | 2023-01-27 | 2023-02-04 |
@@ -211,6 +213,7 @@
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-16 | 2023-01-28 |
 | [Quintal](https://open.spotify.com/track/7fgqc1U6SvDVcyWjcVeFd2) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:55 | 2023-01-27 |  |
 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 | 2022-12-09 |  |
+| [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-10 |  |
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [roda de bamba](https://open.spotify.com/track/3p1sKst6UehseITknM5z1b) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:42 | 2022-11-11 | 2022-11-26 |
 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 | 2022-12-23 |  |
@@ -259,6 +262,7 @@
 | [Vem Meu Amor](https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Vem Meu Amor](https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw) | 2:35 | 2023-02-03 |  |
 | [vem pra perto](https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [vem pra perto](https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE) | 2:49 | 2022-09-09 | 2023-01-28 |
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2022-12-02 |  |
+| [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 | 2023-02-10 |  |
 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 | 2022-06-14 | 2022-08-06 |
 | [Vida Livre](https://open.spotify.com/track/7uzqTJLFkKJd8724zmcmV5) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Aetd+](https://open.spotify.com/album/60UPKT3azkcUp2wc4WxKIz) | 3:27 | 2022-05-13 | 2022-06-04 |
 | [Voa Comigo](https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Voa Comigo](https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C) | 2:49 | 2022-05-13 | 2022-12-03 |

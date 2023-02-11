@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-676 songs - 1 day 16 hr 22 min
+677 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Lean on Me](https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Lean on Me](https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX) | 3:04 | 2022-01-24 |  |
 | [Learn To Be Still](https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:28 | 2022-01-24 | 2023-01-11 |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2021-12-17 | 2022-06-19 |
-| [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 | 2021-12-17 |  |
+| [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 | 2021-12-17 | 2023-02-11 |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2022-01-24 | 2022-04-19 |
 | [Let You Love Me](https://open.spotify.com/track/6w8emJs59a4lKbeyfZekSz) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Let You Love Me](https://open.spotify.com/album/16CSk5ilsmnoOk0qyt4NnI) | 4:39 | 2021-12-17 |  |
 | [Let's Be Still](https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:28 | 2022-07-22 |  |
@@ -445,6 +445,7 @@
 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 | 2021-12-17 |  |
 | [Pennsylvania Skies](https://open.spotify.com/track/3XL7yXLM2GsGLoGVYnCDHp) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Pennsylvania Skies](https://open.spotify.com/album/1sGkIRL1sQeNsT9naD0vZl) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Perfectly Lonely](https://open.spotify.com/track/42dbDZX9bsEGqMZWYmnR7J) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:28 | 2022-01-24 | 2022-04-21 |
+| [Pick and Choose](https://open.spotify.com/track/01BAqbwhOPGJZ6chBlLUOx) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/34nCenbnfykYe9fsnU1I6a) | 2:43 | 2023-02-10 |  |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-02-18 | 2023-02-05 |
 | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0) | 4:21 | 2021-12-17 | 2022-07-16 |
 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 | 2022-06-13 |  |

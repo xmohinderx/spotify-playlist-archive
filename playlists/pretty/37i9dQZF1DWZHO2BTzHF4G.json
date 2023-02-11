@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 25204,
+  "num_followers": 25229,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjA4MiwwMDAwMDAwMDYxZjQyODdmYzhkZDNhNTU2Y2QzZjFmOTZhMjQ1ZTVl",
+  "snapshot_id": "MTY3Mzg3NjA4MiwwMDAwMDAwMGE4MWZhZTk1MmRhNTExZDM3M2I3NTUxZTRlNDA0ODhm",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "Yours Truly, Angry Mob (Deluxe)",
+        "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 345706,
       "name": "City Of Blinding Lights",
       "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Yours Truly, Angry Mob (Deluxe)",
-        "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1283,7 +1283,7 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Weezer (Red Album)",
+        "name": "Weezer",
         "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
       "artists": [

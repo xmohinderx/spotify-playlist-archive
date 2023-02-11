@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-85 songs - 8 hr 5 min
+87 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-12-20 |  |
 | [Never Going Home \- Domenico Torti Remix](https://open.spotify.com/track/1tyYyBx8vCmejG0mOARIKL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Domenico Torti](https://open.spotify.com/artist/1FeMiF3aRrgJz69y01jiwt) | [Never Going Home \(Domenico Torti Remix\)](https://open.spotify.com/album/2ukNeGLr9CC4WNFNPaUGuQ) | 4:13 | 2022-12-20 |  |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-12-20 |  |
+| [Oh Chuva](https://open.spotify.com/track/5P0NU0tX9NJ182ZRm8kxRz) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Oh Chuva](https://open.spotify.com/album/47pRLcTctT7DKGRpyef1lw) | 4:54 | 2023-02-10 |  |
 | [On the Rock \- Synapson Remix](https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR) | [On the Rock \(Synapson Remix\)](https://open.spotify.com/album/2JN96d7IymS6xiEVCckWj7) | 5:12 | 2022-12-20 |  |
 | [Only You \- Frankie Francis Disco Jam Edit](https://open.spotify.com/track/6WKfJyXx0DdOrO570el4nF) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [Frankie Francis](https://open.spotify.com/artist/4v7upfGmNDHTJUgdwbvxDS) | [Steve Monite / Tabu Ley Rochereau Edits](https://open.spotify.com/album/43UiM7bG005PvwsnwpEvGw) | 7:50 | 2022-12-20 |  |
 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 5:01 | 2022-12-20 |  |
@@ -80,7 +81,8 @@
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2022-12-20 |  |
 | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/track/6KuZfqzhbfTU8HEIALDgP2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n) | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/album/1uaxE7yn8s9XPNAJ9icxd1) | 4:16 | 2022-12-20 |  |
 | [The Light](https://open.spotify.com/track/12K1eNac6xyCYkKtvns2k4) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [The Light EP](https://open.spotify.com/album/5DMJxsJyyQLKKuwfW1FBeH) | 8:25 | 2022-12-20 |  |
-| [The Smooth Gardens](https://open.spotify.com/track/1kc63KSnLgfmMlTvdNq5vy) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD) | 9:13 | 2022-12-20 |  |
+| [The Smooth Gardens](https://open.spotify.com/track/1kc63KSnLgfmMlTvdNq5vy) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD) | 9:13 | 2022-12-20 | 2023-02-11 |
+| [The Smooth Gardens](https://open.spotify.com/track/3iX80Yl6jpfp1VqzOty3eU) | [Parallelle](https://open.spotify.com/artist/0vUlarTf6Zl87ewxRbFd9f), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/2KuSDET8iLuZQJllCRQVTA) | 9:13 | 2023-02-10 |  |
 | [This Must Be Home](https://open.spotify.com/track/0yFXCZj2fun1EMDI59bXCz) | [P Sol](https://open.spotify.com/artist/4oPPwY58aaLWGsreDEtL7P) | [Mixed Bag, Vol\. 2](https://open.spotify.com/album/3HpFST1edhuWgScQZcwqDD) | 7:36 | 2022-12-20 |  |
 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 | 2022-12-20 |  |
 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 | 2022-12-20 |  |

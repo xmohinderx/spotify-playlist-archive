@@ -512,7 +512,7 @@
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176000,
@@ -827,6 +827,32 @@
     },
     {
       "album": {
+        "name": "Cool My Stress",
+        "url": "https://open.spotify.com/album/74DYMhCJ8I9RrpHdfv3CdA"
+      },
+      "artists": [
+        {
+          "name": "Gravity Music",
+          "url": "https://open.spotify.com/artist/6W1cBFeam23G6KaL5HV01d"
+        },
+        {
+          "name": "4larin4larin",
+          "url": "https://open.spotify.com/artist/3VNFI74TYLjSLs9eXUdntE"
+        },
+        {
+          "name": "Bizzonthetrack",
+          "url": "https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "Cool My Stress",
+      "url": "https://open.spotify.com/track/5MPzN1YqTKg0qt8McQPgR1"
+    },
+    {
+      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -908,6 +934,24 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "album": {
+        "name": "Dagger",
+        "url": "https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137451,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
     },
     {
       "album": {
@@ -1042,7 +1086,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 214080,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
@@ -1646,7 +1690,7 @@
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176988,
@@ -1722,7 +1766,7 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169822,
@@ -1742,7 +1786,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
@@ -1870,7 +1914,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 154565,
       "name": "Machala",
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
@@ -1964,7 +2008,7 @@
           "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180000,
@@ -1982,7 +2026,7 @@
           "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "date_added": "2023-02-07",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178579,
@@ -2104,7 +2148,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 162720,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
@@ -2416,7 +2460,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 149812,
       "name": "Rora",
       "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
@@ -2438,6 +2482,24 @@
       "duration_ms": 172881,
       "name": "RTID (Rich Till I Die)",
       "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/0DjlHEgLu0UN5n4Ko0XZTh"
+      },
+      "artists": [
+        {
+          "name": "Loye",
+          "url": "https://open.spotify.com/artist/3jmfHrvYENAqFoXzUyPmeN"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0yk4edOBwpxBADFQq6ROzS"
     },
     {
       "album": {
@@ -2481,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "album": {
         "name": "Sankofa (5 Star Remix)",
         "url": "https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K"
       },
@@ -2518,7 +2598,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
@@ -2678,6 +2758,24 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "album": {
+        "name": "Soundtrack",
+        "url": "https://open.spotify.com/album/35yw2Ye9kclVpGDvPthD1C"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137195,
+      "name": "Soundtrack",
+      "url": "https://open.spotify.com/track/7dZC1iCnXYTYvQqdQTUXKL"
     },
     {
       "album": {
@@ -2963,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Continental Playlist",
+        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Tight Condition",
+      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "album": {
         "name": "TOP MAMA",
         "url": "https://open.spotify.com/album/4F5E31UIFV8bhpC6cLNvUl"
       },
@@ -3140,7 +3260,7 @@
           "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160407,

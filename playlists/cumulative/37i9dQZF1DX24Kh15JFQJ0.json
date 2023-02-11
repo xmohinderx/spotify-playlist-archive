@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/7uV1GtfAMIfz1mROOYTgZR"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227249,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/6q91dRcubenCmtWe0tO6ud"
+    },
+    {
+      "album": {
         "name": "And Then Some",
         "url": "https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF"
       },
@@ -2954,6 +2976,24 @@
       "duration_ms": 195186,
       "name": "This is Where the End Starts Feat. Haley Vassar",
       "url": "https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I"
+    },
+    {
+      "album": {
+        "name": "Tiger By The Tail",
+        "url": "https://open.spotify.com/album/5sGRMZXEbHf6lgOp1inAWM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144706,
+      "name": "Tiger By The Tail",
+      "url": "https://open.spotify.com/track/2vDWNjHqsqEKyfMGAtv61J"
     },
     {
       "album": {

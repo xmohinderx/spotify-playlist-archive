@@ -4,7 +4,7 @@
 
 > 150%
 
-164 songs - 7 hr 8 min
+165 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-06-09 |  |
 | [Back That Up To The Beat \- sped up version](https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:12 | 2023-01-03 |  |
 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 | 2022-09-27 |  |
+| [BALENCI FLEECE](https://open.spotify.com/track/5znKhweP1MFPlZLCR4VFFA) | [LUC](https://open.spotify.com/artist/4eO5uWzhurHz9CBH42W2gc), [Mumble](https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb) | [BALENCI FLEECE](https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb) | 1:29 | 2023-02-10 |  |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 |  |
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-06-09 |  |
 | [Cali4nia \(sped up\)](https://open.spotify.com/track/3xswzs1u96atRKqj1ciOpU) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Cali4nia \(alt versions\)](https://open.spotify.com/album/4roCZCqx5Ua1T8xHm6bhJ7) | 2:37 | 2022-12-09 | 2022-12-14 |

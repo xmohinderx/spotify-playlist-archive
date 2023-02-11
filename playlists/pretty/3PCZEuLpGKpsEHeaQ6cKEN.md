@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Tensnake &amp; DRAMA
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,004 likes - 150 songs - 7 hr 52 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,003 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 43 | [Those Eyes](https://open.spotify.com/track/4KqA0GwEKbc96WyfIZn3SV) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Those Eyes](https://open.spotify.com/album/58RPXRvxMszS1tfbeBjht0) | 2:42 |
 | 44 | [Going On](https://open.spotify.com/track/2kZwVd0bmdCIQelHBWiDs6) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Going On](https://open.spotify.com/album/0XMHqRK39lC1ce7Rm0Y4CZ) | 2:26 |
 | 45 | [idk](https://open.spotify.com/track/1PhKKmyFwhnKVLuNpbOtg7) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Warehouse Summer](https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ) | 3:41 |
-| 46 | [rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
+| 46 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 47 | [To The Sun](https://open.spotify.com/track/0D4FgJNbKv34ru9sfM4O26) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [To The Sun](https://open.spotify.com/album/2hJFARaXaTvURrbVJNMrjc) | 3:00 |
 | 48 | [Greece 2000](https://open.spotify.com/track/3LSGAn85pag1Br2gMKyl9T) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Armada Music Year Mix 2022, Vol\. 2](https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6) | 3:27 |
 | 49 | [Let Me Take You](https://open.spotify.com/track/3uFqaLK31Lwck7AgCZl54T) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Armada Music Year Mix 2022, Vol\. 2](https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6) | 2:34 |

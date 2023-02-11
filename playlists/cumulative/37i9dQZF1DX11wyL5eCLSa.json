@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. Insite en portada.",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -382,6 +382,28 @@
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
+    },
+    {
+      "album": {
+        "name": "Comida",
+        "url": "https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219505,
+      "name": "Comida",
+      "url": "https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa"
     },
     {
       "album": {
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 187658,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
@@ -1302,6 +1324,42 @@
       "duration_ms": 219626,
       "name": "Hombre perro de Tlatelolco",
       "url": "https://open.spotify.com/track/1IWvQ1eB8B1mFO0pecAYXo"
+    },
+    {
+      "album": {
+        "name": "Hoy Creo en M\u00ed",
+        "url": "https://open.spotify.com/album/1l0okpo4YMHJ7GNlHZ96qA"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218948,
+      "name": "Hoy Creo en M\u00ed",
+      "url": "https://open.spotify.com/track/6LZH2ZMcWga84SGDCI5vKk"
+    },
+    {
+      "album": {
+        "name": "F\u00e1rmacos",
+        "url": "https://open.spotify.com/album/0Jx3qETWt8OdvYbrO0TnNH"
+      },
+      "artists": [
+        {
+          "name": "The Shelter",
+          "url": "https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/625WlVAJOwUYXt4A6pgQke"
     },
     {
       "album": {
@@ -1608,7 +1666,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
@@ -1871,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Me la Pelas",
+        "url": "https://open.spotify.com/album/6pB4owcjhJldY4FzYcsm7O"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Me la Pelas",
+      "url": "https://open.spotify.com/track/3lSqRMbUmnQqxbLbxj0t5x"
+    },
+    {
+      "album": {
         "name": "Me Sobra la Plata",
         "url": "https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy"
       },
@@ -2078,7 +2154,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 266347,
       "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
       "url": "https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE"
@@ -2642,7 +2718,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"

@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ"
+    },
+    {
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 159510,
       "name": "Gang Gang",
       "url": "https://open.spotify.com/track/5GvAH6Mo6gzottkeclFyCj"
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 192000,
       "name": "GIRLS GONE WILD",
       "url": "https://open.spotify.com/track/15DRX5FNMYOUkk0SYD3RAz"
@@ -2316,6 +2338,24 @@
       "duration_ms": 108413,
       "name": "Here I Come",
       "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
+    },
+    {
+      "album": {
+        "name": "Topic Of Discussion",
+        "url": "https://open.spotify.com/album/2LSPEGg9mB9Pbiy923nHwx"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147641,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/6yDSzYsva8buINy7piNZ0b"
     },
     {
       "album": {
@@ -3733,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Pretty Vibes",
+        "url": "https://open.spotify.com/album/0JJyVE0TOhxn96dp1YgsOY"
+      },
+      "artists": [
+        {
+          "name": "Destinee Lynn",
+          "url": "https://open.spotify.com/artist/7JSfvsQiJjdbYMRDMv1q17"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139651,
+      "name": "Pretty Vibes",
+      "url": "https://open.spotify.com/track/59bRbYnpBFLoX7b3RSMqbq"
+    },
+    {
+      "album": {
         "name": "Like..?",
         "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
       },
@@ -3816,7 +3874,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 121889,
       "name": "Pussycat",
       "url": "https://open.spotify.com/track/30I8Vb4ZQHUVudY4en3cPx"

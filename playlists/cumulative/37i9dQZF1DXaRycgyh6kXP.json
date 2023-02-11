@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "ANTH01",
+        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403080,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "album": {
         "name": "Appeayl 2 U",
         "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 192300,
       "name": "Four Horsemen",
       "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
@@ -1234,6 +1252,28 @@
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/1cz0kAvZ6lKUQHpzbcI8wF"
+    },
+    {
+      "album": {
+        "name": "Not For Threes",
+        "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Bjork",
+          "url": "https://open.spotify.com/artist/6xy8s41CbAZbN6skLwoPYn"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278933,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
     },
     {
       "album": {
@@ -2606,7 +2646,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"

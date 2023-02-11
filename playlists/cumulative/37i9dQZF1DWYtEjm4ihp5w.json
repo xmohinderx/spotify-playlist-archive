@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT V2",
+        "url": "https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211819,
+      "name": "DIFFERENT V2",
+      "url": "https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K"
+    },
+    {
+      "album": {
         "name": "DOUBLEZUKSH",
         "url": "https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 137383,
       "name": "SUPER NANA",
       "url": "https://open.spotify.com/track/5lNiW5yNPQnjWe9CHAMhoe"

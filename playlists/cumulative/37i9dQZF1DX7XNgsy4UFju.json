@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Yves Tumor",
+  "description": "Home to all the latest indie jams. Cover: Andy Shauf",
   "name": "Indie All Stars",
   "tracks": [
+    {
+      "album": {
+        "name": "(You) On My Arm",
+        "url": "https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245845,
+      "name": "(You) On My Arm",
+      "url": "https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL"
+    },
     {
       "album": {
         "name": "10/10",
@@ -821,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Fantasy - Chapter 1",
+        "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
+    },
+    {
+      "album": {
         "name": "Angelica",
         "url": "https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT"
       },
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 244772,
       "name": "Be On Your Way",
       "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
@@ -1649,7 +1685,7 @@
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 268766,
+      "duration_ms": 267500,
       "name": "Blood And Butter",
       "url": "https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn"
     },
@@ -2099,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226077,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "album": {
         "name": "Calling out Your Name",
         "url": "https://open.spotify.com/album/3GYnSkuu7w8waF5sSo5Beb"
       },
@@ -2522,7 +2576,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 363520,
       "name": "Children of the Empire",
       "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
@@ -4098,7 +4152,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
@@ -6115,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "album": {
         "name": "Hamptons City Cowboy",
         "url": "https://open.spotify.com/album/2ykNdEeV01TEjq7inVoNCS"
       },
@@ -6340,6 +6412,24 @@
       "duration_ms": 239040,
       "name": "Height of the Feeling",
       "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+    },
+    {
+      "album": {
+        "name": "Everything You Want",
+        "url": "https://open.spotify.com/album/2G4KIBuJnEqdA1pMmHkIEy"
+      },
+      "artists": [
+        {
+          "name": "Birds of Bellwoods",
+          "url": "https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215437,
+      "name": "Helen",
+      "url": "https://open.spotify.com/track/346NOmo5mIW6qXDzXTbN5Y"
     },
     {
       "album": {
@@ -6748,6 +6838,24 @@
       "duration_ms": 198226,
       "name": "Hoping",
       "url": "https://open.spotify.com/track/6HkIp5X5kfiMTF5RcFrlVn"
+    },
+    {
+      "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Hotel Valet",
+      "url": "https://open.spotify.com/track/3PG8Cjr1Bp8zUZ5xnhkLo5"
     },
     {
       "album": {
@@ -7614,7 +7722,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
@@ -10576,7 +10684,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 271656,
       "name": "Oceans Niagara",
       "url": "https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ"
@@ -10594,7 +10702,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 165746,
       "name": "October Passed Me By",
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
@@ -10886,7 +10994,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 275640,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
@@ -11109,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267994,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
+    },
+    {
+      "album": {
         "name": "Pass Me By",
         "url": "https://open.spotify.com/album/1Njbnx7m3lVlFQWRnRna39"
       },
@@ -11196,6 +11322,24 @@
       "duration_ms": 209643,
       "name": "Peach",
       "url": "https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8"
+    },
+    {
+      "album": {
+        "name": "Pen Pal",
+        "url": "https://open.spotify.com/album/00x78QGmfNFIqwkq7BGSnd"
+      },
+      "artists": [
+        {
+          "name": "Winona Forever",
+          "url": "https://open.spotify.com/artist/3ZwhWiGw3XTJThOjEmuFAT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Pen Pal",
+      "url": "https://open.spotify.com/track/6qPBfBsWoiHOclo2JmWh9q"
     },
     {
       "album": {
@@ -12547,6 +12691,24 @@
     },
     {
       "album": {
+        "name": "Anxious Avoidant Deluxe",
+        "url": "https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208277,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ"
+    },
+    {
+      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/64xacrF8hzbntXHidaScmN"
       },
@@ -12862,7 +13024,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
@@ -13486,7 +13648,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 185650,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5wnr6e51ZFcNt6NJciCKYG"
@@ -13916,7 +14078,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO"
@@ -16616,6 +16778,24 @@
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
+      "album": {
+        "name": "\u200emint \u200econdition",
+        "url": "https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "\u200emint \u200econdition (\u200egood \u200eas \u200enew)",
+      "url": "https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju"

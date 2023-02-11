@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 37 | [무지개나라](https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId) | [승연아빠](https://open.spotify.com/artist/4cEdf85FeV9HB2sxDxzyJg) | [Story 25](https://open.spotify.com/album/08hWM6WLKVBeHqP6vDyLM2) | 2:46 |
 | 38 | [Escape from the city](https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl) | [DOPEY](https://open.spotify.com/artist/1CXyr1fzlKCTjAVfvNGJgM) | [Escape from the city](https://open.spotify.com/album/6SfNyrW3v25cRcdDm7GLks) | 3:57 |
 | 39 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 |
-| 40 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 |
-| 41 | [Like It](https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4) | [Jay kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Like It](https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr) | 3:32 |
+| 40 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 |
+| 41 | [Like It](https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Like It](https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr) | 3:32 |
 | 42 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 |
 | 43 | [Petrichor \- Nature](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 |
 | 44 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 |

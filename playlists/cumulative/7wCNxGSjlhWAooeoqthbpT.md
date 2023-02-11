@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-149 songs - 7 hr 36 min
+150 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ain't My Dog](https://open.spotify.com/track/55yPlote432saxAHYwlqp4) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [Ain't My Dog](https://open.spotify.com/album/3W0OjgFTPdNZJqLUCdcdYT) | 3:44 | 2022-07-22 |  |
 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 | 2021-12-10 | 2022-07-30 |
 | [All Around Me](https://open.spotify.com/track/1fdcacZgERIC8LBCFdtj6A) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [All Around Me](https://open.spotify.com/album/22CKUeAX5q2wef4iwuOiOi) | 3:25 | 2021-12-10 | 2022-08-27 |
+| [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-10 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 |  |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
 | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/track/08S37oejetoPevVixK6iXN) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1) | 3:04 | 2023-01-20 |  |
@@ -110,7 +111,7 @@
 | [Number 10](https://open.spotify.com/track/6rLhmB7EJG9HRbwoqjwN9Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Number 10](https://open.spotify.com/album/78OaE5eiOOrmOg0LtEKqNi) | 3:01 | 2022-06-17 | 2022-07-30 |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 | 2022-09-10 |
 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 | 2022-09-09 |  |
-| [Only You](https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Only You](https://open.spotify.com/album/38mvnqi7nhoyC9UXaOwrJQ) | 2:44 | 2022-06-10 |  |
+| [Only You](https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Only You](https://open.spotify.com/album/38mvnqi7nhoyC9UXaOwrJQ) | 2:44 | 2022-06-10 | 2023-02-11 |
 | [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 | 2023-01-06 |  |
 | [Out Tha Blue \(feat\. G Herbo\)](https://open.spotify.com/track/3DTqMxUmB5LHOanIdadf1j) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [386 Landlord](https://open.spotify.com/album/5i2A4Ubx6GGLYMZh4BWhRn) | 1:44 | 2022-10-28 |  |
 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 | 2021-09-27 | 2022-08-06 |

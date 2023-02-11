@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Year of the Knife",
-  "num_followers": 7607,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Scowl",
+  "num_followers": 7609,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjU0MyxjZGU3ZmY3OWY3NzVjOTQwNmFkM2Q3Zjg5ODQ4MzFiMzZhZTRiYTEz",
+  "snapshot_id": "MjU1MSxmZTc3YzIzNjQzNzc2NjYzNTgyMzg3YjE1YWU5OGZhMjc5MTIyMWYy",
   "tracks": [
+    {
+      "added_at": "2023-02-10 19:46:49",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-02-10 19:46:59",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "added_at": "2023-02-10 19:47:05",
+      "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
+    },
+    {
+      "added_at": "2023-02-10 19:47:15",
+      "album": {
+        "name": "Alone At The Bottom",
+        "url": "https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb"
+      },
+      "artists": [
+        {
+          "name": "Initiate",
+          "url": "https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau"
+        }
+      ],
+      "duration_ms": 142626,
+      "name": "Alone At The Bottom",
+      "url": "https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7"
+    },
+    {
+      "added_at": "2023-02-10 19:47:22",
+      "album": {
+        "name": "Algorithmic",
+        "url": "https://open.spotify.com/album/1CdNaopxtSliDFO9Q7UBIa"
+      },
+      "artists": [
+        {
+          "name": "Spotlights",
+          "url": "https://open.spotify.com/artist/4gTFseNIUKC5dbk6tRps6H"
+        }
+      ],
+      "duration_ms": 301673,
+      "name": "Algorithmic",
+      "url": "https://open.spotify.com/track/4m2bvfftBXmEkiOccSJeb3"
+    },
+    {
+      "added_at": "2023-02-10 19:47:27",
+      "album": {
+        "name": "State Of Unrest",
+        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "State Of Unrest",
+      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
+    },
     {
       "added_at": "2023-02-03 20:41:22",
       "album": {

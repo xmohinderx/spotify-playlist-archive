@@ -4,14 +4,14 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Liniker
 
-533 songs - 1 day 5 hr 1 min
+534 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1440](https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l) | [Public Goods](https://open.spotify.com/artist/4cQuovzAeCxbyJV7EAsh3l), [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov), [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [1440](https://open.spotify.com/album/5i8kFjodwBmEKTTc698oEV) | 3:22 | 2022-06-24 | 2022-07-21 |
 | [1984](https://open.spotify.com/track/0uWi7R2U6HVXOA1NhCAeQU) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [1984](https://open.spotify.com/album/5pKNZm8Ig6HJIN1rZ7vCbp) | 4:32 | 2022-01-21 | 2022-07-15 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-31 | 2022-10-08 |
-| [2 Die 4](https://open.spotify.com/track/71BJVUm9wse1WBFEGHIFsI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:05 | 2023-01-24 |  |
+| [2 Die 4](https://open.spotify.com/track/71BJVUm9wse1WBFEGHIFsI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:05 | 2023-01-24 | 2023-02-11 |
 | [22](https://open.spotify.com/track/2pauY34xHvz0W3asl70y3D) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [22](https://open.spotify.com/album/3WyoEyJ9jxbbzWxPzzeKDj) | 3:45 | 2021-12-24 | 2022-01-04 |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-08 |
 | [3 Purple Hearts](https://open.spotify.com/track/1wsm2fpsZv1qH6fO25PHB2) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [3 Purple Hearts](https://open.spotify.com/album/2P2LTbZvZ9KSV4V95Oeik3) | 3:20 | 2021-12-24 | 2022-01-05 |
@@ -80,6 +80,7 @@
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-20 | 2022-06-23 |
 | [Book Of Our Names](https://open.spotify.com/track/1RJKZ9na1sB3RrUIEeinLg) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Book Of Our Names](https://open.spotify.com/album/2P6xXZdy5Gxn5EhqAGqhTF) | 3:31 | 2022-04-08 | 2022-07-29 |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-10 | 2023-01-25 |
+| [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 |  |
 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2022-04-01 | 2022-07-18 |
 | [Boy In A Bubble](https://open.spotify.com/track/6EmZsNSWJM1JFhiBLlySec) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:11 | 2022-03-11 | 2023-01-25 |
 | [Boy Tears](https://open.spotify.com/track/6wME6kY48HqWBWrKmaY74u) | [Saro](https://open.spotify.com/artist/39kjdm4oUJo40vZgcetOGV) | [Boy Tears](https://open.spotify.com/album/0gNKh8sm2ENSmi4BF28gdl) | 2:13 | 2021-12-17 | 2022-01-18 |

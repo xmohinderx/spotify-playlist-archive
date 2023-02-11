@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-296 songs - 18 hr 38 min
+297 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 | 2023-02-10 |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [Angels We Have Heard On High / Joy Has Dawned \- Medley](https://open.spotify.com/track/5NqDTH4P9n9o68qbiXOwiZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Angels We Have Heard On High / Joy Has Dawned \(Medley\)](https://open.spotify.com/album/3Ne4u2U8eW4qTRc7BSRMky) | 5:08 | 2021-12-24 | 2022-07-28 |
+| [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 | 2022-12-11 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3DuIxCNLv9H0lZX9TNGhbX) | [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Auld Lang Syne](https://open.spotify.com/album/45mEBa1g8I8rsOO2wgk9y2) | 4:20 | 2021-12-24 | 2022-07-27 |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2021-12-24 | 2022-07-29 |
 | [Baby Boy](https://open.spotify.com/track/3ha3nc33NRkZyNAc9BHCar) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \| The EP](https://open.spotify.com/album/1CVBbMq1j6uDcoMtlsuOt8) | 3:39 | 2021-12-24 | 2022-07-23 |
@@ -144,7 +145,7 @@
 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/3Sffhn79iVVjfgogafj3ZY) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [This Is Christmas](https://open.spotify.com/album/7KTrKAVMqIlNV3fVmj47hl) | 3:31 | 2021-12-24 | 2022-07-22 |
 | [It Came Upon A Midnight Clear \(Holy Holy\)](https://open.spotify.com/track/2uIX9lKJrvJjyey5s1k3j9) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:11 | 2021-12-24 | 2022-07-24 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/0mjtSPDx6jMwSsY4sZLBEf) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/1LsZFNhBypbzpUBMC6zCKM) | 2:40 | 2021-12-24 | 2022-07-15 |
-| [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/4uUM42W5IIIGafCW7cQesW) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/6LmDzGBei86ImM49AMFm4G) | 2:40 | 2021-12-24 |  |
+| [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/4uUM42W5IIIGafCW7cQesW) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/6LmDzGBei86ImM49AMFm4G) | 2:40 | 2021-12-24 | 2023-02-11 |
 | [It's Christmastime](https://open.spotify.com/track/3HpjbC0AWdWjXrMDG88SsM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [It's Christmastime](https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ) | 3:02 | 2022-11-26 |  |
 | [Jesus Christ Is Born](https://open.spotify.com/track/7zyzK3nsLKF5uTPmHW4PqO) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Jesus Christ Is Born](https://open.spotify.com/album/6X18ytx6vD93n9mn6uLS8F) | 3:02 | 2021-12-24 | 2022-12-03 |
 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 | 2021-12-24 | 2022-08-19 |

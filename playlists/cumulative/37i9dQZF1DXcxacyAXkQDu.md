@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-838 songs - 2 day 1 hr 48 min
+839 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Fly When I Fall](https://open.spotify.com/track/6lT0DHecA1thspBEZX2X1y) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Fly When I Fall](https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv) | 4:10 | 2021-12-21 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:14 | 2021-12-21 | 2022-07-21 |
 | [Follow My Voice](https://open.spotify.com/track/6J5XDjKMhyWbIBW8JkLXFL) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1fA7zjpDoE4aBNSgGQ7dVa) | 4:02 | 2022-03-24 | 2022-04-21 |
-| [Follow You](https://open.spotify.com/track/6oxF2qekhu413M3g8J8P54) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:17 | 2023-01-27 |  |
+| [Follow You](https://open.spotify.com/track/6oxF2qekhu413M3g8J8P54) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:17 | 2023-01-27 | 2023-02-11 |
 | [Fool For You](https://open.spotify.com/track/4eECaktwFUcoBwdhuukv6d) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 3:16 | 2021-12-21 |  |
 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 | 2022-12-10 |
 | [Fool's Gold](https://open.spotify.com/track/7kAxc7ZfkPiCWSZBD5ed6F) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Fool's Gold](https://open.spotify.com/album/0EaZIiPjCpZoODnTuzSroH) | 4:14 | 2022-03-24 | 2022-04-21 |
@@ -310,6 +310,7 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-12-21 | 2022-02-03 |
 | [Home](https://open.spotify.com/track/3QInQTUTZUDMWr42mGvA0V) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 3:47 | 2021-12-21 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/4fcElESpEHb3iFtOxxBiTZ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 3:47 | 2022-07-08 |  |
+| [Home Movies](https://open.spotify.com/track/7InQwxswyvUtAxfV8KsCrz) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:16 | 2023-02-10 |  |
 | [Homesick](https://open.spotify.com/track/5E5MqaS6eOsbaJibl3YeMZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:50 | 2021-12-21 |  |
 | [Honey Days](https://open.spotify.com/track/0RSqgw6YIu5hZC5CLwoUzy) | [Amber Lewis](https://open.spotify.com/artist/18ybsAEyVT5pl5aBxXQ6BF) | [Lips & Teeth](https://open.spotify.com/album/4v94n0cAPh1gqReAIXKgaN) | 3:50 | 2022-03-31 | 2022-04-06 |
 | [Honey Jars](https://open.spotify.com/track/3fz1cmsAHfr4GMhBh65SyX) | [Bryan John Appleby](https://open.spotify.com/artist/3qPpwz6S0CbgMz9cGtn02l) | [Fire on the Vine](https://open.spotify.com/album/6j965fYYfHI9nBaFqt9sNh) | 4:08 | 2022-03-24 | 2022-04-09 |

@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 95961,
+  "num_followers": 96064,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGZhN2VjMzY1YzI3MTdkNzU0MzE3NGM5MGUzMWZlMWMz",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDFkMzYyMDI2ZjMzMDYwYjAxMzZlZTQ3NTk0MmY2Yzc5",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Classical Soul",
-        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
-      },
-      "artists": [
-        {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "Follow Your Bliss",
-      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 246653,
       "name": "Warm Weather - 12\" Version",
       "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Classical Soul",
+        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
+      },
+      "artists": [
+        {
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "Follow Your Bliss",
+      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
     },
     {
       "added_at": "2020-08-19 00:00:21",

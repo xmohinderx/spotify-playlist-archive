@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1133249,
+  "num_followers": 1137501,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk2OTc4NiwwMDAwMDAwMDBjYTdlMGM5ZWExNmI1MzU5NWM1YjRhZWZhOTE1MWQx",
+  "snapshot_id": "MTY3NjA0OTY3NCwwMDAwMDAwMDMzZmFiM2RlYzUzNzVlNDA1ODU1NGU2Y2M1NDUyNmQ3",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -931,6 +931,26 @@
       "duration_ms": 112022,
       "name": "Self Esteem (Sped Up)",
       "url": "https://open.spotify.com/track/6ftGfCbzzfjgrHtig6lIWS"
+    },
+    {
+      "added_at": "2023-02-10 17:21:14",
+      "album": {
+        "name": "BALENCI FLEECE",
+        "url": "https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb"
+      },
+      "artists": [
+        {
+          "name": "LUC",
+          "url": "https://open.spotify.com/artist/4eO5uWzhurHz9CBH42W2gc"
+        },
+        {
+          "name": "Mumble",
+          "url": "https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb"
+        }
+      ],
+      "duration_ms": 89477,
+      "name": "BALENCI FLEECE",
+      "url": "https://open.spotify.com/track/5znKhweP1MFPlZLCR4VFFA"
     },
     {
       "added_at": "2023-01-18 16:50:46",

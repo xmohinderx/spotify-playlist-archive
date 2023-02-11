@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-553 songs - 1 day 0 hr 43 min
+555 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Grasses](https://open.spotify.com/track/4lb9N5eEBiK5GkTvBSV7L4) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [Mr.PiCture](https://open.spotify.com/album/1ZK9ycZGj6BH9Lxc20v3Wx) | 2:04 | 2022-04-07 | 2022-06-30 |
 | [Gravity](https://open.spotify.com/track/6KH2q2oLgTVy5S4tBXdYJh) | [Blue In Green](https://open.spotify.com/artist/6tkPtKgggRAndEQc47Epms) | [Gravity](https://open.spotify.com/album/7nFmAYnzGaVRnDjNHdzM1q) | 3:36 | 2022-01-06 | 2022-04-20 |
 | [Green Hill](https://open.spotify.com/track/749WKwZM8qrjLeMxDahCn1) | [Matsuyama](https://open.spotify.com/artist/3TgHi7FuyXPEN6IYCU8gvs), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Green Hill](https://open.spotify.com/album/7I9wTS22p2Jj9noURIw9RF) | 2:40 | 2022-02-24 | 2022-04-18 |
-| [Green Hour](https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00) | 2:31 | 2023-02-09 |  |
+| [Green Hour](https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00) | 2:31 | 2023-02-09 | 2023-02-11 |
+| [Green Hour](https://open.spotify.com/track/5sEq6CloKNgOClDlJZemZ4) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/6sYcWXkK18aoNRdKOtiAF6) | 2:31 | 2023-02-09 |  |
 | [Guitar Story](https://open.spotify.com/track/7eS6wcWwGZPFD6mYmDuddd) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Guitar Story](https://open.spotify.com/album/65Gbjz8kLn1nBhKGc0sDTJ) | 4:05 | 2022-01-27 | 2022-04-19 |
 | [Gypsy Woman](https://open.spotify.com/track/615Os9s5deQT7fOQku5grC) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Gypsy Woman](https://open.spotify.com/album/2JZtvbGIkc1Ive8AUU9osf) | 3:44 | 2021-12-23 | 2022-07-29 |
 | [Halo](https://open.spotify.com/track/1a0rqWQEjBPsYwADY6nPDF) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Halo](https://open.spotify.com/album/6nViH3LlPLcZLqfDv2DDWA) | 3:13 | 2022-06-02 | 2022-06-09 |
@@ -403,7 +404,8 @@
 | [Ria](https://open.spotify.com/track/5ySEjcNGL8my5N9rYr52J2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Ria](https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s) | 2:03 | 2022-07-28 |  |
 | [Rivers and Stars](https://open.spotify.com/track/45LcTxCzjRMK6gNXHPwmoV) | [Kowrites](https://open.spotify.com/artist/6R9uA7YU7YjaqNotNJPyCb), [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Rivers and Stars](https://open.spotify.com/album/5ZOl50imMFSKntmmUyrpYQ) | 2:35 | 2021-12-23 | 2022-07-07 |
 | [Roses](https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Roses](https://open.spotify.com/album/2B1rGInAAoirvnJ8Bou7zt) | 2:01 | 2021-12-23 | 2022-10-17 |
-| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-09 |  |
+| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-09 | 2023-02-11 |
+| [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 | 2023-02-09 |  |
 | [Round 8](https://open.spotify.com/track/4F1sAVtqsssL0XvHwrR2yY) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Yaboy Vs One\-Verse Instrumental](https://open.spotify.com/album/3OZOr2VHTCPTm1LTZCORYu) | 2:37 | 2021-12-23 | 2022-07-27 |
 | [Rule of 12ths](https://open.spotify.com/track/757U1banGoAieZrGyaKVgJ) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Rule of 12ths](https://open.spotify.com/album/1nRnj1cc1aJEocrZs5qz3Z) | 2:10 | 2022-04-07 | 2022-04-17 |
 | [Rush Hour](https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [Rush Hour](https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU) | 3:17 | 2021-12-23 | 2022-07-27 |

@@ -2,9 +2,9 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Aoife O'Donovan & Allison Russell
+> Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-235 songs - 14 hr 46 min
+236 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2022-07-29 |
 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 |  |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 |  |
+| [This Time, Last Week](https://open.spotify.com/track/7Hth94P5JfHnyKNRhhN7sH) | [Sprig of That](https://open.spotify.com/artist/53VgTWcTeCcxwCYDS7voMa) | [This Time, Last Week](https://open.spotify.com/album/5CH6yP1XBrLDhIyVvq73o9) | 4:41 | 2023-02-10 |  |
 | [Throw Me in the Thicket \(When I Die\)](https://open.spotify.com/track/1L0yEDWiwrPGmtWOmBGrpn) | [The Local Honeys](https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm) | [The Local Honeys](https://open.spotify.com/album/52832G1sKqnP5kcPigVPVs) | 3:27 | 2023-01-13 |  |
 | [Too Many Places](https://open.spotify.com/track/4fnrm2oUPL2SyOasYm31lQ) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 3:23 | 2022-08-11 |  |
 | [Traveler](https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Traveler](https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr) | 3:36 | 2022-07-08 | 2022-12-03 |

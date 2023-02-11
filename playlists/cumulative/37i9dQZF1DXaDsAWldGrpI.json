@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "For What It\u2019s Worth (Live)",
+        "url": "https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "For What It\u2019s Worth - Live",
+      "url": "https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg"
+    },
+    {
+      "album": {
         "name": "Good as You (Live)",
         "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
       },

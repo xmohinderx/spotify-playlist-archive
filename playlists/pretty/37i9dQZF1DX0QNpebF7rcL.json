@@ -1,28 +1,52 @@
 {
   "description": "The best in blues right now. Cover: Taj Mahal",
-  "num_followers": 43704,
+  "num_followers": 43741,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDJiZjVkZDFmMjYwZDY0YzMzODZlNDM2MGI3MTYyYzM5",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGU0MzUwYjZhYjExMDVmNTZkYjI2M2ZjZDY2OThlOTll",
   "tracks": [
     {
-      "added_at": "2023-01-20 05:01:00",
+      "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "500 Miles",
-        "url": "https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg"
+        "name": "The Ballad of John Howard Griffin",
+        "url": "https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6"
       },
       "artists": [
         {
           "name": "Eric Bibb",
           "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
         }
       ],
-      "duration_ms": 210560,
-      "name": "500 Miles",
-      "url": "https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH"
+      "duration_ms": 316586,
+      "name": "The Ballad of John Howard Griffin",
+      "url": "https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Hey Sweet Mama",
+        "url": "https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Hey Sweet Mama",
+      "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -75,22 +99,6 @@
       "duration_ms": 348760,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Highest Bidder (Acoustic)",
-        "url": "https://open.spotify.com/album/7FB08bB5nHUdT6yvxyrXTo"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Highest Bidder - Acoustic",
-      "url": "https://open.spotify.com/track/1h5ohHc3D1kqp4keFCNfR0"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -305,22 +313,6 @@
       "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "The Weight of the World",
-        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 265045,
-      "name": "The Weight of the World",
-      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Done Come Too Far",
@@ -353,22 +345,6 @@
       "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Just No Getting Over You (Dream Cruise)",
-        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Just No Getting Over You (Dream Cruise)",
-      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Ace Of Spades",
@@ -399,42 +375,6 @@
       "duration_ms": 259306,
       "name": "High Is Low",
       "url": "https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "I Let My Guitar Do The Talking",
-        "url": "https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "I Let My Guitar Do The Talking",
-      "url": "https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "End Of The Line [Feat. Aaron Neville]",
-        "url": "https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        },
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -471,22 +411,6 @@
       "duration_ms": 197388,
       "name": "Blue Blue Water",
       "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Two Steps From The Blues",
-        "url": "https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV"
-      },
-      "artists": [
-        {
-          "name": "Angela Strehli",
-          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
-        }
-      ],
-      "duration_ms": 157853,
-      "name": "Two Steps From The Blues",
-      "url": "https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1341,22 +1265,6 @@
       "url": "https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Never Get out of These Blues Alive",
-        "url": "https://open.spotify.com/album/1u0vvSVEFQhWll188GmMFY"
-      },
-      "artists": [
-        {
-          "name": "J.D. Simo",
-          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
-        }
-      ],
-      "duration_ms": 343789,
-      "name": "Never Get out of These Blues Alive",
-      "url": "https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Love Transcends",
@@ -1423,22 +1331,6 @@
       "duration_ms": 197281,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Dear America",
-        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 227114,
-      "name": "Dear America",
-      "url": "https://open.spotify.com/track/167JkxvuUN2yW8uMZp2zwE"
     },
     {
       "added_at": "2021-10-08 04:01:00",

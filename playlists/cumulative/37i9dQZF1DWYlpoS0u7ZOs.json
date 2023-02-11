@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Detrimental",
+        "url": "https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY"
+      },
+      "artists": [
+        {
+          "name": "Suga Knuckle",
+          "url": "https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205011,
+      "name": "Detrimental",
+      "url": "https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4"
+    },
+    {
+      "album": {
         "name": "Jaws the Shark",
         "url": "https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5"
       },
@@ -992,6 +1010,24 @@
       "duration_ms": 181018,
       "name": "Our Love Is Growing - Single Mix",
       "url": "https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p"
+    },
+    {
+      "album": {
+        "name": "Past Vibration",
+        "url": "https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C"
+      },
+      "artists": [
+        {
+          "name": "Supera Morza",
+          "url": "https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156409,
+      "name": "Past Vibration",
+      "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
     },
     {
       "album": {

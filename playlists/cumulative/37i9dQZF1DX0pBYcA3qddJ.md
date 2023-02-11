@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-255 songs - 16 hr 40 min
+256 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Minamata Piano Theme](https://open.spotify.com/track/5QdtHx0McmGTyOajpBdS1O) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72I6rqsWERvOdFHx7UPKmQ) | 2:50 | 2022-12-01 |  |
 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 | 2022-10-20 | 2022-11-16 |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-10-20 | 2023-01-13 |
+| [Mogwai Fear Satan](https://open.spotify.com/track/5MdseOaiPicPcXWkyyJ3FK) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Mogwai Young Team \(Remastered\)](https://open.spotify.com/album/3THiRbFhRMiosSTWmkJxhx) | 16:19 | 2023-02-09 |  |
 | [Moonflight](https://open.spotify.com/track/59hnscy8vPMKgZ6dHnbf1u) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [MOONFLIGHT](https://open.spotify.com/album/3DSuYudR0wHPy2xKUzCLAp) | 4:50 | 2022-10-20 | 2022-12-02 |
 | [Morceaux de fantaisie, Op\. 3: No\. 1, Elegie in E\-Flat Minor](https://open.spotify.com/track/1m2B3iH1wHcOoeZSC9yuwV) | [Irina Mejoueva](https://open.spotify.com/artist/0jiQYnVYWkQ76bTIgwVTmq) | [Rachmaninov: Piano Sonata No\. 2, Op\. 36, Morceaux de fantaisie, Op\. 3, etc.](https://open.spotify.com/album/0ChyT49ZWkYTOAB6eQdbnN) | 5:38 | 2023-01-31 |  |
 | [Mother's Eyes](https://open.spotify.com/track/7CuGdcQWyyf8ME4vQYSLT8) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/1Tl1nnsj6RgqgS7kWbNRcs) | 3:04 | 2023-02-07 |  |

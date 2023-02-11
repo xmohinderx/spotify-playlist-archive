@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-149 songs - 8 hr 53 min
+150 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-19 | 2022-05-07 |
 | [Halo](https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Halo](https://open.spotify.com/album/5AjALe4ac200zNXQolG3uk) | 4:24 | 2021-11-19 |  |
 | [Hello](https://open.spotify.com/track/4mfzUScqJrZuzL9EvP1jTE) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Hello](https://open.spotify.com/album/0Zu8fh2i6Kl58mDPTgxeRn) | 4:13 | 2021-11-19 | 2022-05-07 |
+| [Here Comes The Sun](https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 11](https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH) | 3:49 | 2023-02-10 |  |
 | [Higher Love \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Higher Love \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk) | 3:23 | 2021-11-19 |  |
 | [How Will I Know \(arr\. piano\)](https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [How Will I Know \(arr\. piano\)](https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F) | 3:38 | 2021-11-19 |  |
 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 | 2022-02-04 |  |

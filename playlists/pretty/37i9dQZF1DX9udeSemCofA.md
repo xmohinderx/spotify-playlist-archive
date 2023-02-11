@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,243 likes - 52 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,270 likes - 52 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 31 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 32 | [Waiting In The Park Dub](https://open.spotify.com/track/5mtj35n4s76W4N03p1x4i0) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Essential Dub 1977](https://open.spotify.com/album/4XCmpOHan0DRPWFVUSxaIN) | 6:38 |
 | 33 | [Jah Shall Reign Dub](https://open.spotify.com/track/4W9vnsbTJuSNFQeSsRWfK5) | [Jah Shaka](https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC), [The Twinkle Brothers](https://open.spotify.com/artist/129UGN7LRFtvMzCf0h2Y8s) | [Dub Salute 5 \(feat\. Twinkle Brothers\)](https://open.spotify.com/album/6cce0CPwVkWV74QuHISSbY) | 3:46 |
-| 34 | [Drum Song Dub](https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 3:42 |
+| 34 | [Drum Song](https://open.spotify.com/track/7qDzu5cRpe4rfM6cePzRel) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 3:44 |
 | 35 | [Burundi Black \- Rusty Egan First Remix](https://open.spotify.com/track/720qeUt7AMzpRC2wMUb1BW) | [Burundi Steiphenson Black](https://open.spotify.com/artist/5MJbGsO1l8G1er1HaygWe0) | [Burundi Black](https://open.spotify.com/album/5wZAX3KJkkV0iCL5a3J7Ew) | 7:09 |
 | 36 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
 | 37 | [Dub Glory](https://open.spotify.com/track/7kA02bY8j1woxuOCfAyvcv) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Sly & Robbie Dub](https://open.spotify.com/album/63ASfPPq6Sdf7z7nNGFw8b) | 3:16 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 39 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 40 | [Conquering Lion](https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs) | 3:21 |
 | 41 | [Sponji Reggae](https://open.spotify.com/track/1NeZjWdwvsEEDpHbuj54we) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Red](https://open.spotify.com/album/3evCEzHbkLPXuMqw9ISd3T) | 4:53 |
-| 42 | [Bad Days Dub](https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 4:16 |
+| 42 | [Bad Days Dub](https://open.spotify.com/track/5fUNBGKzM2Czt9f2Pd5wrM) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 4:16 |
 | 43 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 |
 | 44 | [Zion Gate Dub](https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [From The Palace Of Dub](https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW) | 3:10 |
 | 45 | [White Rice Dub](https://open.spotify.com/track/2cqbNNonGbQE0zfF9HRLan) | [Jah Thomas](https://open.spotify.com/artist/6HlApAOH4X51mkur3KeMGr) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:59 |
-| 46 | [Rocker's Almighty Dub](https://open.spotify.com/track/20XxcYoQx7MrAYcHLLn30x) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocker's Almighty Dub](https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk) | 3:41 |
+| 46 | [Rockers Almighty Dub](https://open.spotify.com/track/7deOMfp7bDjTocSA0oZKLi) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Horace Andy Deluxe Edition](https://open.spotify.com/album/1OHdxeDzAr1MwrjtutQ33i) | 3:43 |
 | 47 | [Natty Dread A Weh She Want](https://open.spotify.com/track/5MXcMl4RWRLXRigOfuFEuT) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Skylarking \- The Best Of Horace Andy](https://open.spotify.com/album/60SXBpogTJ43eoYbCRqgSo) | 3:52 |
 | 48 | [Dub On Fire](https://open.spotify.com/track/0Z2zoo789arqc8VYvCeHzT) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549), [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [The African Brothers Meet King Tubby In Dub](https://open.spotify.com/album/4XDfjZdg3dyVSghKsaoty4) | 2:29 |
 | 49 | [Negus Negast, Pt\. 2](https://open.spotify.com/track/2SUzyAhKsaIC987kD1Ow1K) | [Rootz Dimensionz](https://open.spotify.com/artist/7oOL5gkoBJBXQV7WOxgkC0) | [Negus Negast, Pt\. 2](https://open.spotify.com/album/0NBJDoj7yR2SvnzDVGB2EG) | 3:42 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 51 | [Hit the Road Jack](https://open.spotify.com/track/4EXKqlpnpSamlN1YgFGo0O) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Lov3](https://open.spotify.com/album/2LQ8WI3myWEdXPOsVoCYSb) | 3:10 |
 | 52 | [Dub To Africa](https://open.spotify.com/track/7pf8Z5F8XvsGbxAIC1SRRu) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL), [The Arabs](https://open.spotify.com/artist/0S2viS9F705zYKiMW13XeV) | [Dub To Africa](https://open.spotify.com/album/5SzyrmaXqCRRzTeQQAXi7i) | 3:19 |
 
-Snapshot ID: `MTY3MTQ0Nzc3MywwMDAwMDAwMDNkNDllYTJmNWM2NjdlM2MwYTM3MTBkYjY1YjZlNmYy`
+Snapshot ID: `MTY3NjAzNzQ4MiwwMDAwMDAwMDA3YTEyOTVjZjBlNmI1YTczMDhiNWVhMjc4Y2E5OGU0`

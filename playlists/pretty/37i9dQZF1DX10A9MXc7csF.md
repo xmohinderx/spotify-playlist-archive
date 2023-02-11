@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los de FL
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,444 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,453 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 35 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
 | 36 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
 | 37 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
-| 38 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
-| 39 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
+| 38 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
+| 39 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
 | 40 | [Ya Me Va Mejor](https://open.spotify.com/track/2Se8iSCMXXEd6UD0bI4efk) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Ya Me Va Mejor](https://open.spotify.com/album/3RgShSLXoIuOWKEgziNjEx) | 2:35 |
 | 41 | [Me Saliste Regular](https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Saliste Regular](https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy) | 3:46 |
 | 42 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 58 | [DOLOR](https://open.spotify.com/track/1S4Xk3LEaXrmvQye3viFFa) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [DOLOR](https://open.spotify.com/album/2SiOMpq82Qv1svVMt35sP1) | 3:35 |
 | 59 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 |
 | 60 | [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 |
-| 61 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
-| 62 | [Fvck You](https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Endless Summer](https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6) | 3:10 |
+| 61 | [Fvck You](https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Endless Summer](https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6) | 3:10 |
+| 62 | [Mi Último Adiós](https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9) | [Jayceee](https://open.spotify.com/artist/6AXGyJf6E8sUdWnyGxHsKt) | [Mi Último Adiós](https://open.spotify.com/album/6O1L0u1bhDy2duwIcVwdhH) | 4:41 |
 | 63 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
 | 64 | [Ganas de Amarte](https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Ganas de Amarte](https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt) | 3:23 |
 | 65 | [Estilo Palazuelos](https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Estilo Palazuelos](https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC) | 2:35 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 71 | [Una Ocasión De Verano](https://open.spotify.com/track/3rMfRM6oZDISCraYfSBUND) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Una Ocasión De Verano](https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO) | 2:19 |
 | 72 | [El Pollero](https://open.spotify.com/track/4ThjCHeQomkKoHcCBEenWR) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [El Pollero](https://open.spotify.com/album/5HqTNH8UkhBWWr3H6amZ8C) | 3:05 |
 | 73 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 |
-| 74 | [Traicion](https://open.spotify.com/track/6foLEHQX4yEwLkUwVNLDTF) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Traicion](https://open.spotify.com/album/3fWRVIMs4hZe0qVZbHh1wT) | 2:23 |
-| 75 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 74 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 75 | [Traicion](https://open.spotify.com/track/6foLEHQX4yEwLkUwVNLDTF) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Traicion](https://open.spotify.com/album/3fWRVIMs4hZe0qVZbHh1wT) | 2:23 |
 | 76 | [El Morro De La Cuadra](https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl) | [JR Solis](https://open.spotify.com/artist/2XwuNfW0pS0qb2Mv3iWwrv) | [El Morro De La Cuadra](https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG) | 1:35 |
 | 77 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 78 | [Mas Cabrona Que Bonita](https://open.spotify.com/track/4x40dx1jX4QjuUsIJUrqCX) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [Mas Cabrona Que Bonita](https://open.spotify.com/album/6kZEj6Kq8uCWXTcBxJD9yN) | 2:24 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 84 | [A Mi Modo](https://open.spotify.com/track/5ySVMl1GhcaQ3erDe1PtWj) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [En Proceso](https://open.spotify.com/album/5K0PyG668je3HlQgjCu5yp) | 2:52 |
 | 85 | [Atraido A Ti](https://open.spotify.com/track/3yX2QyAOg06lxR884Z1rCc) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Atraido A Ti](https://open.spotify.com/album/3tVAJYtpVoW46Ey2Tfn22L) | 3:28 |
 | 86 | [Tu Forma](https://open.spotify.com/track/0K6oPQDNwG2rMxRuZzWnrz) | [Jose Payan](https://open.spotify.com/artist/3bu6KHyIXxHN29fYhOmQZd) | [Tu Forma](https://open.spotify.com/album/387B38c0gvCoycIJTWZ3Cb) | 1:55 |
-| 87 | [El Patio del Recreo](https://open.spotify.com/track/57euVTGPIu9ctFHs5PvjNV) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [El Patio del Recreo](https://open.spotify.com/album/3TaL6RfqObbnteKNqTkXxl) | 4:19 |
-| 88 | [Diosa](https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm) | [Elyfer Torres](https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe) | [Diosa](https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF) | 2:40 |
+| 87 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 |
+| 88 | [El Patio del Recreo](https://open.spotify.com/track/57euVTGPIu9ctFHs5PvjNV) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [El Patio del Recreo](https://open.spotify.com/album/3TaL6RfqObbnteKNqTkXxl) | 4:19 |
 | 89 | [20 Gramos](https://open.spotify.com/track/2mHQx7t39bBhoBPbkTugwx) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb), [Junior Valdez](https://open.spotify.com/artist/2EoSDjtzEw6CSyr978QjM3) | [20 Gramos](https://open.spotify.com/album/1XpsPmIm2QVDKA3bY6B8FX) | 2:50 |
-| 90 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 |
+| 90 | [Diosa](https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm) | [Elyfer Torres](https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe) | [Diosa](https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF) | 2:40 |
 | 91 | [Verificado](https://open.spotify.com/track/49P3Ix6GHwKYUR1IQaiYdQ) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Verificado](https://open.spotify.com/album/7qttMMoI0JGaClH0GvE6YA) | 2:50 |
 | 92 | [El Güero Reagan](https://open.spotify.com/track/2NtdZRTrLecERsYqZZv5Av) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Güero Reagan](https://open.spotify.com/album/3z0hSNoK8yEuudWAeuhgct) | 3:12 |
 | 93 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [Poder Sangriento](https://open.spotify.com/track/1ywZ5YvDT4hbGk1Dg31cEf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Poder Sangriento](https://open.spotify.com/album/5JBsJBLvGoQ9m4hnHcMVao) | 3:49 |
 
-Snapshot ID: `MTY3NDc5Njg1NSwwMDAwMDAwMDhjNmE2MWUyNWMwZWJlMDNmMTIyMDA0OWIzNTBlNDVi`
+Snapshot ID: `MTY3NDc5Njg1NSwwMDAwMDAwMDIyZWJmYzE2ZDgyMGE2MzhiMzA5MTVmODg1YmQ1M2Ji`

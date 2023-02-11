@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146557,
+  "num_followers": 146566,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDEyMjkwNTk0NWI5Y2JlMjNkNDMzNzkwZDdlOThkZjdh",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGVlZjIxODczODhmMTBlODRhZjA2MzU3NDM5NTQ0MmE1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -123,18 +123,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp"
+        "name": "Denim",
+        "url": "https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        },
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Danny Boone",
+          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
         }
       ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
+      "duration_ms": 225578,
+      "name": "Way of Life",
+      "url": "https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -159,26 +167,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Denim",
-        "url": "https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo"
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        },
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "Danny Boone",
-          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 225578,
-      "name": "Way of Life",
-      "url": "https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C"
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "STICKS",
-        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
-      },
-      "artists": [
-        {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
-        }
-      ],
-      "duration_ms": 157070,
-      "name": "STICKS",
-      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
         "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
@@ -991,22 +975,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Country or Not",
-        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+        "name": "STICKS",
+        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "DJ Cliffy D",
-          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
         }
       ],
-      "duration_ms": 174600,
-      "name": "Country or Not",
-      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
+      "duration_ms": 157070,
+      "name": "STICKS",
+      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 218786,
       "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
       "url": "https://open.spotify.com/track/4lWeAYtwmyzgDlJp44whZQ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Country or Not",
+        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "DJ Cliffy D",
+          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Country or Not",
+      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
     },
     {
       "added_at": "2023-01-06 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Esta selección musical se te hará agua la boca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,390 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,400 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 62 | [Siento](https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:30 |
 | 63 | [Playa](https://open.spotify.com/track/0ZsEM4hPgGx41KmOVy7b6r) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Playa](https://open.spotify.com/album/1AfieGQZRwcKHLcDnlWcLy) | 3:40 |
 | 64 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
-| 65 | [Mujer Bonita](https://open.spotify.com/track/3WFuo5zjY5KuconAjNUuL7) | [Christian Velez](https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM) | [Mujer Bonita](https://open.spotify.com/album/4Rj1myG2gFhsd3rjRdZzDT) | 3:13 |
+| 65 | [Mujer Bonita](https://open.spotify.com/track/3WFuo5zjY5KuconAjNUuL7) | [Cris Velez](https://open.spotify.com/artist/6CfB1pOaCJfJPeLQYvAT3p) | [Mujer Bonita](https://open.spotify.com/album/4Rj1myG2gFhsd3rjRdZzDT) | 3:13 |
 | 66 | [Flotando](https://open.spotify.com/track/3xKDkBzjqWoHuuHLuiUJjY) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Flotando](https://open.spotify.com/album/4CyIt0V7u0MOWKRcZTOfAg) | 3:12 |
 | 67 | [Te Quiero Olvidar](https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Quiero Olvidar](https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR) | 3:35 |
 | 68 | [Atardecer](https://open.spotify.com/track/45XKflPDG1zNJsils53sPl) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [D E S I E R T O \- El Día](https://open.spotify.com/album/19Kkq8c60PXIfD7ByFmLK2) | 4:22 |

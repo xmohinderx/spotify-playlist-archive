@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Precious Bones",
+        "url": "https://open.spotify.com/album/7K3ct7ITp62x1d05IjRUQi"
+      },
+      "artists": [
+        {
+          "name": "Lakkabrah",
+          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "Precious Bones",
+      "url": "https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1"
+    },
+    {
+      "album": {
         "name": "Psych Thrills",
         "url": "https://open.spotify.com/album/6Q2b3Nv7o0gH7rWikcoD0p"
       },

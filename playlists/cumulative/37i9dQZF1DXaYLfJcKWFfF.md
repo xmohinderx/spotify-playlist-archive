@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=KDheyI8wRUGEcTg6RHfEDA"> Bongeziwe Mabandla</a>
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-77 songs - 4 hr 46 min
+78 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bossi Labome](https://open.spotify.com/track/1jOqAWKpxvfntPNAQMdoEK) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [Bossi Labome](https://open.spotify.com/album/3uLaeWOrhxm2rWqhJ2163b) | 3:32 | 2022-12-08 | 2023-01-28 |
 | [Brother](https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Brother](https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp) | 2:07 | 2023-02-03 |  |
 | [Circus](https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Circus](https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd) | 4:14 | 2022-10-21 | 2023-02-04 |
-| [Countryside](https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Countryside](https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0) | 3:37 | 2023-01-27 |  |
+| [Countryside](https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Countryside](https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0) | 3:37 | 2023-01-27 | 2023-02-11 |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 |  |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 | 2023-02-04 |
@@ -71,6 +71,7 @@
 | [Sun Spot](https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Sun Spot](https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy) | 3:51 | 2021-10-28 |  |
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 |  |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-02-03 |  |
+| [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-10 |  |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-11-26 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-31 |  |
 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 | 2021-12-09 |  |

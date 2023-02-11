@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: <a href="https://open.spotify.com/show/1YP4xy5nGxCxKG2GD9PdCt?si=c1ff94872f7c4b88">Take Me Over\(썸타임즈\)</a>\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,820 likes - 113 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,062 likes - 113 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 39 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 |
 | 40 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
 | 41 | [아낌없이 주고 싶어](https://open.spotify.com/track/2D3o4ROlfkUE4NOBriN97p) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Themselves \(Original Soundtrack\) Chapter\. 3](https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP) | 4:25 |
-| 42 | [Into the Sky](https://open.spotify.com/track/3jzufQFDbdcMc9e2d0XYmN) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Trolley](https://open.spotify.com/album/3BywK3MHmDKj1VGuFklFnX) | 4:00 |
+| 42 | [Into the Sky](https://open.spotify.com/track/3jzufQFDbdcMc9e2d0XYmN) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Trolley \(Original Soundtrack Part.2\)](https://open.spotify.com/album/3BywK3MHmDKj1VGuFklFnX) | 4:00 |
 | 43 | [Tree \(Just Watching You 2\)](https://open.spotify.com/track/4cz9X4VBByOUaivztKq0lY) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Alchemy of Souls: Light and Shadow, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4KcJOnFU1QSSraYkaTV6wX) | 4:03 |
 | 44 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
 | 45 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: MOD SUN, Avril Lavigne",
+  "description": "The hottest tunes in rock. Crank it up! Cover: EKKSTACY",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 149251,
       "name": "C\u2019est Comme \u00c7a",
       "url": "https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb"
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 210630,
       "name": "I Wanna Know You",
       "url": "https://open.spotify.com/track/3ENwOP2kZLbiAAPQmqtZlo"
@@ -5041,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "album": {
         "name": "Lost In The Grandeur",
         "url": "https://open.spotify.com/album/5s4ZVN1095ucWudIEWuiTM"
       },
@@ -5444,6 +5462,24 @@
       "duration_ms": 257906,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED"
+    },
+    {
+      "album": {
+        "name": "Meet Me At The Riot",
+        "url": "https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ"
+      },
+      "artists": [
+        {
+          "name": "Harm & Ease",
+          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176910,
+      "name": "Meet Me At The Riot",
+      "url": "https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc"
     },
     {
       "album": {
@@ -6608,7 +6644,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
@@ -7276,6 +7312,24 @@
       "duration_ms": 177958,
       "name": "Running For The Hills",
       "url": "https://open.spotify.com/track/47jE6cHrtaLp3KIiPXQ3eP"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "album": {
@@ -8546,7 +8600,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 202888,
       "name": "The Drummer",
       "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
@@ -8640,6 +8694,24 @@
       "duration_ms": 195506,
       "name": "The Garden of Eden",
       "url": "https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7"
+    },
+    {
+      "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334430,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94"
     },
     {
       "album": {
@@ -9592,6 +9664,24 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
+    },
+    {
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "album": {

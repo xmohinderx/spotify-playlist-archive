@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,394 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,484 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 46 | [Pizza](https://open.spotify.com/track/5oAgI7Pzg6vxuKrfapg3Pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Pizza](https://open.spotify.com/album/2GNtmwsvrBPWHl8aaOXJMp) | 4:15 |
 | 47 | [Dreamer](https://open.spotify.com/track/0wUxh6XMc698xPCfgBaPRV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mike Yung](https://open.spotify.com/artist/4UffC3o3JiLSg7pa5DpQbp) | [Dreamer](https://open.spotify.com/album/4D13M99kn4kSlPt5ZtYy8R) | 3:13 |
 | 48 | [Game Over](https://open.spotify.com/track/5Zpe48RJ5Vs1YuFRodYdeS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409) | [Game Over](https://open.spotify.com/album/28DX5MHDKHdqLJ4UUHmzve) | 2:35 |
-| 49 | [Byte](https://open.spotify.com/track/20hsdn8oITBsuWNLhzr5eh) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Byte](https://open.spotify.com/album/7bhogovOiLN8d5QEKltWyc) | 4:45 |
+| 49 | [Byte](https://open.spotify.com/track/20hsdn8oITBsuWNLhzr5eh) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/6FhF4CThrHldCUxYWbloJP) | [Byte](https://open.spotify.com/album/7bhogovOiLN8d5QEKltWyc) | 4:45 |
 | 50 | [Spaceships](https://open.spotify.com/track/1Szod3mLKHywl09AOy08Xc) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Spaceships](https://open.spotify.com/album/7FdgB34edYkJcORi7dAXGi) | 2:49 |
 | 51 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
 | 52 | [Sun Is Never Going Down \(feat\. Dawn Golden\)](https://open.spotify.com/track/6x7r0lpyqxBKGq8J7LFMeu) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:24 |

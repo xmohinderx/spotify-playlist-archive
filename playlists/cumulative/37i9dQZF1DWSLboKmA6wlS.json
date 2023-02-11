@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TIGGER. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VYBES. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 245000,
       "name": "don't u even cry?",
       "url": "https://open.spotify.com/track/7ARdtYq12d2dDYgGUUJtmr"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 234597,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/0aCLaRZ5by6co0aM1orMMo"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN"
+      },
+      "artists": [
+        {
+          "name": "Top Piyawat",
+          "url": "https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204725,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK"
+    },
+    {
+      "album": {
         "name": "Tried (Tired)",
         "url": "https://open.spotify.com/album/1Y3AiiJIhJ4LafW4DUB9kS"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 243750,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e02\u0e27\u0e32",
       "url": "https://open.spotify.com/track/4ySoN0XTj2Mv9WluUmZRc1"
@@ -1565,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e14\u0e31\u0e48\u0e07\u0e1d\u0e31\u0e19 (Yellow Moon)",
+        "url": "https://open.spotify.com/album/1rHDRR26hd8N2ulNfYSAC0"
+      },
+      "artists": [
+        {
+          "name": "KETAYA",
+          "url": "https://open.spotify.com/artist/7gfHmil2P4Ypj0KGgscy0M"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "\u0e04\u0e37\u0e19\u0e14\u0e31\u0e48\u0e07\u0e1d\u0e31\u0e19 (Yellow Moon)",
+      "url": "https://open.spotify.com/track/1XjHbpsD54lYWNJ6lzOpQk"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49 (2NITE)",
         "url": "https://open.spotify.com/album/3ztz7kWLujJSzb8tWTsSCu"
       },
@@ -1624,6 +1660,24 @@
       "duration_ms": 213214,
       "name": "\u0e04\u0e38\u0e22\u0e22\u0e31\u0e07\u0e44\u0e07\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e04\u0e1a (How)",
       "url": "https://open.spotify.com/track/0ROsgrhnWlVcGH9zeINTGl"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e39\u0e48\u0e0a\u0e34\u0e1b",
+        "url": "https://open.spotify.com/album/69ryhdIsF9QYb7YQXtx2xh"
+      },
+      "artists": [
+        {
+          "name": "Chippy Sirin",
+          "url": "https://open.spotify.com/artist/4Es60EWNOIuH2esRyDIfwo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241415,
+      "name": "\u0e04\u0e39\u0e48\u0e0a\u0e34\u0e1b",
+      "url": "https://open.spotify.com/track/51Tvycfb8DQIGaWvoW4VkY"
     },
     {
       "album": {
@@ -2027,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e49\u0e25\u0e0a\u0e35\u0e2a\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e2d\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/5ZQAp9WAuj3xQKNHx3l7AA"
+      },
+      "artists": [
+        {
+          "name": "PUENYAI",
+          "url": "https://open.spotify.com/artist/3chg9l9ELbOaldwRtfTKio"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234033,
+      "name": "\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e49\u0e25\u0e0a\u0e35\u0e2a\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e2d\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/7iPTFEhyOdWk83ruRGuy7U"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e25\u0e37\u0e21 (Star)",
         "url": "https://open.spotify.com/album/0Bhn9CuFbXMSVMayuyGNeC"
       },
@@ -2096,6 +2168,24 @@
       "duration_ms": 243000,
       "name": "\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/1utTVHh6vmuV4HAWmpcfRE"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e23\u0e32\u0e1a\u0e19\u0e34\u0e08\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/2Km98bTNYIg1MpnVJfH6Pi"
+      },
+      "artists": [
+        {
+          "name": "DAKOTA",
+          "url": "https://open.spotify.com/artist/34DHAMuFy87C613bkwC9WO"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241894,
+      "name": "\u0e15\u0e23\u0e32\u0e1a\u0e19\u0e34\u0e08\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/1dTddxhDWmOhM1Fqg19FOg"
     },
     {
       "album": {
@@ -2717,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07\u0e1e\u0e25\u0e32\u0e14",
+        "url": "https://open.spotify.com/album/6kQpQuYce2JIod9ImNnaPR"
+      },
+      "artists": [
+        {
+          "name": "Midnight Cereal",
+          "url": "https://open.spotify.com/artist/1J6kNyCyFES2YCyXHVkxME"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251599,
+      "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07\u0e1e\u0e25\u0e32\u0e14",
+      "url": "https://open.spotify.com/track/1eTM2bGEnwHj2UBIBatIny"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e31\u0e01 (Pause)",
         "url": "https://open.spotify.com/album/5TMkTFEYWm3qHSf0bu1CNT"
       },
@@ -2808,6 +2916,24 @@
       "duration_ms": 310636,
       "name": "\u0e1f\u0e49\u0e32\u0e43\u0e2a (Jennida)",
       "url": "https://open.spotify.com/track/2pQTjsZP8mqLCAurVq63Gy"
+    },
+    {
+      "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e17\u0e23\u0e07\u0e08\u0e33 (MEMORY)",
+        "url": "https://open.spotify.com/album/1ul7oMwzsahuKSijldfEGn"
+      },
+      "artists": [
+        {
+          "name": "TRYST",
+          "url": "https://open.spotify.com/artist/71ijNniCKCRsUg7oqvpCKd"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "\u0e20\u0e32\u0e1e\u0e17\u0e23\u0e07\u0e08\u0e33 (MEMORY)",
+      "url": "https://open.spotify.com/track/7pJzYbrhwwItmz5asZMcg3"
     },
     {
       "album": {
@@ -2974,7 +3100,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 318750,
       "name": "\u0e23\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
       "url": "https://open.spotify.com/track/6cfBPTW9jy6hiPeVvDJC1d"
@@ -3068,6 +3194,24 @@
       "duration_ms": 235384,
       "name": "\u0e23\u0e31\u0e1a\u0e23\u0e31\u0e01\u0e17\u0e35 (Say Yes)",
       "url": "https://open.spotify.com/track/53yviWwlIJIEPUdArJnk5G"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e32\u0e04\u0e32\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2hkdCpnA5z0mkYvEfgUeaE"
+      },
+      "artists": [
+        {
+          "name": "PINGx",
+          "url": "https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\u0e23\u0e32\u0e04\u0e32\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/15tO7fohrB5OT09Fi4p0Io"
     },
     {
       "album": {
@@ -3198,7 +3342,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 312000,
       "name": "\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27 (Winter wind)",
       "url": "https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF"
@@ -3238,6 +3382,24 @@
       "duration_ms": 262848,
       "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e23\u0e31\u0e01 - From \"The Cheese Sisters\"",
       "url": "https://open.spotify.com/track/29yHIbCD6K8v9MyqTqXOdd"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e32\u0e17\u0e35\u0e23\u0e32\u0e15\u0e23\u0e35 (GOOD NIGHT)",
+        "url": "https://open.spotify.com/album/3xGgWF5AFngf6CzCtTbRxx"
+      },
+      "artists": [
+        {
+          "name": "VYBES",
+          "url": "https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210257,
+      "name": "\u0e25\u0e32\u0e17\u0e35\u0e23\u0e32\u0e15\u0e23\u0e35 (GOOD NIGHT)",
+      "url": "https://open.spotify.com/track/3wDu41K0k699QCwJMokF6t"
     },
     {
       "album": {
@@ -3923,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e1b\u0e48\u0e32\u0e27 (Only Me)",
+        "url": "https://open.spotify.com/album/3z6ryVQjS4CSMVdZMl9dFV"
+      },
+      "artists": [
+        {
+          "name": "Parkmalody",
+          "url": "https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e1b\u0e48\u0e32\u0e27 (Only Me)",
+      "url": "https://open.spotify.com/track/0K6q5XUjBPk5LwLfpMpzyU"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e1a\u0e2d\u0e01\u0e09\u0e31\u0e19\u0e14\u0e35\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/6q8h8XjMz7aUCb68esXgGh"
       },
@@ -4250,7 +4430,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 276947,
       "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e40\u0e27\u0e17\u0e21\u0e19\u0e15\u0e23\u0e4c\u0e40\u0e25\u0e22\u0e2d\u0e30",
       "url": "https://open.spotify.com/track/51MJ7f4UGlM54fgomimzXP"
@@ -4416,6 +4596,24 @@
       "duration_ms": 238513,
       "name": "\u0e41\u0e21\u0e49\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/6QHWDycOoCH3Ih9YOrJFns"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e21\u0e49\u0e40\u0e18\u0e2d\u0e25\u0e32 (Bye)",
+        "url": "https://open.spotify.com/album/5smkcMoVOpm3YI3zl04mxy"
+      },
+      "artists": [
+        {
+          "name": "Manymoons.",
+          "url": "https://open.spotify.com/artist/0JHNb1uiJSV4iY5KnE55Gx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232577,
+      "name": "\u0e41\u0e21\u0e49\u0e40\u0e18\u0e2d\u0e25\u0e32 (Bye)",
+      "url": "https://open.spotify.com/track/75zNQT6PktcRtkiV7Bgrdo"
     },
     {
       "album": {
@@ -4596,7 +4794,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 202587,
       "name": "\u0e42\u0e2d\u0e40\u0e04\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/7hkcoPu2va4JyDNy7VZ1rj"
@@ -4890,6 +5088,24 @@
       "duration_ms": 258000,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e44\u0e1b\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/6758uqk9RGen4vw2GDW0jD"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e04\u0e19\u0e08\u0e35\u0e19",
+        "url": "https://open.spotify.com/album/1TofX5caKbOiDn6DRl57Rp"
+      },
+      "artists": [
+        {
+          "name": "NONNY9",
+          "url": "https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e04\u0e19\u0e08\u0e35\u0e19",
+      "url": "https://open.spotify.com/track/0ozpnuvi3kAle9vZHRwvs8"
     },
     {
       "album": {

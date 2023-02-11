@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,347 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,365 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 14 | [Way to Fall](https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Love Is Here](https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw) | 4:29 |
 | 15 | [Necessity](https://open.spotify.com/track/2SmDsqV1mfn1dQ658EHpa3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Secret Weapons \(Part 8\)](https://open.spotify.com/album/3GwGewo2ZAnV9Jw9LwpyAd) | 7:49 |
 | 16 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
-| 17 | [My Life Is Going On \(Música Original De La Serie De TV La Casa De Papel / Money Heist\)](https://open.spotify.com/track/5ZEQjTroORCu6uWvZrdeNc) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [My Life Is Going On \(Música Original De La Serie De TV La Casa De Papel / Money Heist\)](https://open.spotify.com/album/3Q4MvKGORSPdwa0OWLWXOA) | 3:34 |
+| 17 | [My Life Is Going On \- Música Original De La Serie De TV La Casa De Papel / Money Heist](https://open.spotify.com/track/5ZEQjTroORCu6uWvZrdeNc) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [My Life Is Going On \(Música Original De La Serie De TV La Casa De Papel / Money Heist\)](https://open.spotify.com/album/3Q4MvKGORSPdwa0OWLWXOA) | 3:34 |
 | 18 | [Bella Ciao \- Música Original de la Serie la Casa de Papel/ Money Heist](https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu) | [Manu Pilas](https://open.spotify.com/artist/2TJHmhbmT7L3gw2NKyDTHh) | [Bella Ciao \(Música Original de la Serie la Casa de Papel/ Money Heist\)](https://open.spotify.com/album/05Ng00IfiS6xeyQX8WtjHU) | 2:19 |
 | 19 | [Bamboo Moon](https://open.spotify.com/track/1Yr7ew77WJ6fCOHP34g6h9) | [The Mutants](https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV), [Chris Constantinou](https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3) | [Tokyo Nights](https://open.spotify.com/album/2vPThJkZW1E75mLySTAwA0) | 3:08 |
 | 20 | [Ave Maria, D.839 \- Arr\. Hazell](https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Members Of The BBC National Orchestra Of Wales](https://open.spotify.com/artist/7MsqdRX56j8HrqSEoLFtrs), [Members of the English Chamber Orchestra](https://open.spotify.com/artist/04zr23ENfpoJoyuoGUeFRK), [Members Of The Philharmonia Orchestra](https://open.spotify.com/artist/4w62fxz0Jcdpcv3pHmFZm8), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [The Royal Wedding \- The Official Album](https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA) | 2:37 |

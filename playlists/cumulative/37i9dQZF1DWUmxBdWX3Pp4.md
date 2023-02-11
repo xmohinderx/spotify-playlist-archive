@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Arcangel.
 
-293 songs - 16 hr 47 min
+294 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 | 2022-05-10 | 2022-06-04 |
 | [fornai](https://open.spotify.com/track/3I2uEeXlZX00Z8TrwYeRo4) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [fornai](https://open.spotify.com/album/6lFiKbfFdxpxTtzAc7yz6B) | 2:48 | 2022-09-16 |  |
 | [Fulete](https://open.spotify.com/track/1vuwe8zD8zY4CrNIsUwdQe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 4:35 | 2022-06-03 | 2022-11-26 |
-| [Givenchy](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Givenchy](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
+| [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:44 | 2022-06-03 |  |
 | [Gracias A Dios](https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:02 | 2022-05-06 | 2022-06-18 |
 | [Gracias X Nada](https://open.spotify.com/track/6qSxJv4uImd95kezpLreq2) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Misael Beatz](https://open.spotify.com/artist/0tvAMN2CoNeuMdIiDaeiOw) | [Gracias X Nada](https://open.spotify.com/album/5yVNjAl6CCJk87tupQ5fYE) | 1:59 | 2022-03-11 | 2022-06-04 |
@@ -239,6 +239,7 @@
 | [RELOJES REVENTADOS](https://open.spotify.com/track/3WHBTuOibN5pPTiz9eyUpA) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:40 | 2022-11-11 |  |
 | [RICO CUANDO MUERA](https://open.spotify.com/track/20xJvceMXPYkZDZwQ9EcFg) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 3:04 | 2022-03-25 | 2022-06-04 |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 |  |
+| [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2023-02-10 |  |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-08-05 | 2022-11-17 |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-04 | 2022-04-16 |
 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 | 2022-06-03 |  |

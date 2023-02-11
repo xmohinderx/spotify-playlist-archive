@@ -4,7 +4,7 @@
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N?si=sUd4scZ1RG65uKU6MhqLog">Cailyn Shelby
 
-162 songs - 9 hr 19 min
+163 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-11-18 |
 | [pink & blue](https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt) | [gerald kent](https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un) | [façade](https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP) | 3:14 | 2023-01-26 |  |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2022-10-07 |
+| [Precious Bones](https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Precious Bones](https://open.spotify.com/album/7K3ct7ITp62x1d05IjRUQi) | 3:07 | 2023-02-09 |  |
 | [Psych Thrills](https://open.spotify.com/track/2Z2EmJ8dW0lyERmOtL2U15) | [Gavin Coetzee](https://open.spotify.com/artist/3aawEcqTNnGPsDDynnrd3J) | [Psych Thrills](https://open.spotify.com/album/6Q2b3Nv7o0gH7rWikcoD0p) | 4:23 | 2022-09-02 | 2022-12-16 |
 | [Purgatory](https://open.spotify.com/track/4Rgzp6jJEQDM5xrU3sC1wK) | [The Stinging Rogers](https://open.spotify.com/artist/56w2pRdYGieoXN5aOBpRTr) | [Purgatory](https://open.spotify.com/album/7dEGL4CXQgGihP18k6C1g5) | 3:30 | 2022-09-22 | 2022-10-21 |
 | [Raise Me Up](https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Raise Me Up](https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp) | 3:01 | 2023-01-12 |  |

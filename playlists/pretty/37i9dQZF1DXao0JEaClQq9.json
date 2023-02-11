@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Kimbra ",
-  "num_followers": 1599685,
+  "num_followers": 1599746,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5Mjg1NywwMDAwMDAwMDcxOGI2NzA5YTg5ODllNWYwOGYzNzVmNWU3MjVlZGZj",
+  "snapshot_id": "MTY3NTE5Mjg1NywwMDAwMDAwMDc3NmY4MmE5YzdiZWNjNTNmMTNkOTlkZjJiODk4NGJl",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -591,18 +591,22 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -623,22 +627,18 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -876,7 +876,7 @@
           "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 163116,
+      "duration_ms": 162909,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
-    },
-    {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 344344,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
     },
     {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "A Quiet Voice",
@@ -1163,6 +1147,22 @@
       "duration_ms": 282812,
       "name": "A Quiet Voice",
       "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "Really Hot",
-        "url": "https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 106994,
-      "name": "Babyyy",
-      "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
-    },
-    {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
         "name": "Just Come Home with Me Tonight",
         "url": "https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ"
       },
@@ -1235,18 +1219,34 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/3UloUmEFb7XcPCinY1XBsX"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
       "artists": [
         {
-          "name": "BONZIE",
-          "url": "https://open.spotify.com/artist/5P7xOLYjahofPTxDa0MOc8"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 189376,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/2J0OyHOLx1IfGN3NspS1VB"
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "Really Hot",
+        "url": "https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 106994,
+      "name": "Babyyy",
+      "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/3UloUmEFb7XcPCinY1XBsX"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "BONZIE",
+          "url": "https://open.spotify.com/artist/5P7xOLYjahofPTxDa0MOc8"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+      "duration_ms": 189376,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/2J0OyHOLx1IfGN3NspS1VB"
     }
   ],
   "unique_name": "Ethereal",

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Cheat Codes
 
-315 songs - 16 hr 3 min
+316 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 |  |
 | [Right Where You Left It](https://open.spotify.com/track/2g9cCY3YTGaHS6EStrTTQE) | [Eric Dodd](https://open.spotify.com/artist/1JhyDAwoxeTdklxjHDcdpe) | [Right Where You Left It](https://open.spotify.com/album/0LHLrtSr2R2mN93q1ehSst) | 2:51 | 2021-12-10 | 2022-04-09 |
 | [RNDS](https://open.spotify.com/track/6vi8rnrpTsqKM88odyNCWQ) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [RNDS](https://open.spotify.com/album/7qrc5PjoWYo86fXw0es1av) | 3:14 | 2022-01-21 | 2022-04-09 |
+| [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 | 2023-02-10 |  |
 | [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 | 2021-12-10 | 2022-08-05 |
 | [Room to Dream](https://open.spotify.com/track/3ZvP5XbLElIdeYVerFZ1U4) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 3:07 | 2022-08-01 | 2023-01-04 |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 |  |

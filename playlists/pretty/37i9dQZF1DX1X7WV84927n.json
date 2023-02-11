@@ -1,35 +1,39 @@
 {
-  "description": "For the Hard Rock and full volume lovers. Cover: Skillet",
-  "num_followers": 299553,
+  "description": "For the Hard Rock and full-volume lovers. Cover: The HU & William DuVall of Alice In Chains",
+  "num_followers": 299788,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGM5MzhlNjE4Mzg5NjdlMDQ1YjJiMjBlZjI5ZGJiYTNk",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDM4MjhhM2FkMDVmOGVmNDUxN2NlYmMxNDkyZmRlYTVk",
   "tracks": [
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+        "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+        "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         },
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "name": "William DuVall",
+          "url": "https://open.spotify.com/artist/69j4GQ0OCPN6gU6okpe8aZ"
         }
       ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+      "duration_ms": 221103,
+      "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+      "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
@@ -45,7 +49,7 @@
       "url": "https://open.spotify.com/track/4Q9zJZBVJRGkiOWaZbEFIK"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Separate Ways (Worlds Apart)",
         "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
@@ -65,7 +69,59 @@
       "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
@@ -81,7 +137,7 @@
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ambulance",
         "url": "https://open.spotify.com/album/4MzAmsn2lpwi0NkYtXlJdZ"
@@ -97,7 +153,7 @@
       "url": "https://open.spotify.com/track/5YWjjonpichJ9BPDjzBwBt"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
@@ -113,7 +169,7 @@
       "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "No More Tears To Cry",
         "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
@@ -129,7 +185,7 @@
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
@@ -145,7 +201,7 @@
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
@@ -161,7 +217,7 @@
       "url": "https://open.spotify.com/track/5fcfRUBheqJ4l8JwzP15gP"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "High on Me",
         "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
@@ -177,7 +233,7 @@
       "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
@@ -197,7 +253,7 @@
       "url": "https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Bone Church",
         "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
@@ -213,7 +269,7 @@
       "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Finish Line (feat. Adam Gontier)",
         "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
@@ -233,7 +289,7 @@
       "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
@@ -253,7 +309,7 @@
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
@@ -269,7 +325,7 @@
       "url": "https://open.spotify.com/track/0BgGgwBhHx7j7IiqShMCj8"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
@@ -285,7 +341,7 @@
       "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Screaming Suicide",
         "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
@@ -301,7 +357,7 @@
       "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Out Of Pocket",
         "url": "https://open.spotify.com/album/5yiRKfYUTtoqgS2ejh7uY2"
@@ -317,7 +373,7 @@
       "url": "https://open.spotify.com/track/5YpxhViiwL5xb68pj2iop3"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/02z1NOuRau4Rv6Z5XlSJd9"
@@ -333,7 +389,7 @@
       "url": "https://open.spotify.com/track/3uCpte70PE6uYZlbByKv7L"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "September Rain",
         "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
@@ -349,7 +405,7 @@
       "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Into the Trap",
         "url": "https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE"
@@ -381,23 +437,7 @@
       "url": "https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Middle Seat Blues",
-        "url": "https://open.spotify.com/album/1CyQE3ghzFgt9RBF1Ga6R4"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 190075,
-      "name": "Middle Seat Blues",
-      "url": "https://open.spotify.com/track/4HJJyFnQKbGwPYpWCuhGqv"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lux \u00c6terna",
         "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
@@ -413,7 +453,7 @@
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
@@ -429,7 +469,7 @@
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3"
@@ -445,7 +485,7 @@
       "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
@@ -461,7 +501,7 @@
       "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Forgotten Songs",
         "url": "https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7"
@@ -477,7 +517,7 @@
       "url": "https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/2hBth24kLXLHhfYrjVNZFH"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/76wqTlNmkXvi4pillNUDry"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Gimme That Boom",
         "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "The Knife",
         "url": "https://open.spotify.com/album/5eHvkUXLmxfWDKzWGmlZ4y"
@@ -557,7 +597,7 @@
       "url": "https://open.spotify.com/track/3dJlIrHwx8RYLjM0wAZD6j"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Back From the Dead (Deluxe)",
         "url": "https://open.spotify.com/album/4o4YBwtC9qWnEUssNaPzuW"
@@ -573,7 +613,7 @@
       "url": "https://open.spotify.com/track/5hJPRHP2VJxJ24Zg1Tlbn3"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Strung Out Johnny",
         "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
@@ -589,7 +629,7 @@
       "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
@@ -605,7 +645,7 @@
       "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
@@ -621,23 +661,7 @@
       "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Emergency Contact",
-        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Beguiled",
         "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
@@ -669,7 +693,7 @@
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "This Is War",
         "url": "https://open.spotify.com/album/0DUICmYXcg9M1N3xaKvtSu"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/4K4budASa3lo3sBlfUT7Ex"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Best at Being the Worst",
         "url": "https://open.spotify.com/album/7bMF7TAiaTukL81wkGq3QB"
@@ -701,7 +725,7 @@
       "url": "https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
@@ -717,7 +741,7 @@
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ego Death (feat. Steve Vai)",
         "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "H8 MY SELF",
         "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Love, Drugs & Misery",
         "url": "https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/2C2EBs0E8Jq9IgiH6eEK4w"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"

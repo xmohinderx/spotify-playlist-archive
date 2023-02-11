@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u7a32\u8449\u6d69\u5fd7",
-  "num_followers": 248918,
+  "num_followers": 249043,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDkzMjc0ZGU5NDkxYmE3MmI2NTJhZWJmMzk1NjBjYjk4",
+  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDAzNjNmMGU4MDQ1MWVjOTQ4ZjM3ZDdiNzhhM2UyNmU2",
   "tracks": [
     {
       "added_at": "2023-02-09 15:00:00",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Hateful Failures",
-        "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
       "artists": [
         {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
         }
       ],
-      "duration_ms": 196573,
-      "name": "Drive Far",
-      "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
+      "duration_ms": 212786,
+      "name": "EL MARIACHI",
+      "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
     }
   ],
   "unique_name": "Big in Japan",

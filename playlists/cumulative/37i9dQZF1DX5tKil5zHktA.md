@@ -2,7 +2,7 @@
 
 ### [Marsh DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX5tKil5zHktA)
 
-> Dive into a melodic journey with Marsh's new DJ Mix!
+> Dive into a melodic journey with <a href="spotify:artist:1eucLGnPT27tdEh6MU29wp">Marsh</a>'s DJ Mix!
 
 14 songs - 59 min 37 sec
 

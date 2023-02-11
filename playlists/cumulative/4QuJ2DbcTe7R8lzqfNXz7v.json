@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Valentine's Day - R&B Love",
+        "url": "https://open.spotify.com/album/6oUTqYPV88CVjpv2H4Noo9"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255053,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3GxciPtRvygyoPQgloRSxO"
+    },
+    {
+      "album": {
         "name": "Lights Down Low - EP",
         "url": "https://open.spotify.com/album/6GIArZJaqTMv2x3xjJTsVl"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jake Shears",
-  "num_followers": 75516,
+  "num_followers": 75664,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDVkYjRmZmFlYjUzNGU1ODUzODU2NTFjYjJmMDMwNzcw",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDc2OTY3MzI2NjkzNjM0ODAzMzQ5OGU3MzliOWFiNTYw",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 278426,
       "name": "Too Much Music",
       "url": "https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Bodytalk",
+        "url": "https://open.spotify.com/album/2X38HpZw3L5kXOq5DrwO2N"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Ninetails",
+          "url": "https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q"
+        }
+      ],
+      "duration_ms": 179003,
+      "name": "Bodytalk",
+      "url": "https://open.spotify.com/track/3pwQ80lVQUEZ7LA9ErKhTh"
     },
     {
       "added_at": "2023-01-20 04:00:00",
@@ -75,6 +111,22 @@
       "duration_ms": 198524,
       "name": "NIKKI",
       "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "I Found Love",
+        "url": "https://open.spotify.com/album/24YwbsdnQ76zJHuUKBDM9t"
+      },
+      "artists": [
+        {
+          "name": "Midnight Magic",
+          "url": "https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le"
+        }
+      ],
+      "duration_ms": 451750,
+      "name": "I Found Love",
+      "url": "https://open.spotify.com/track/4ZABvHWz0DV9YoHEs7s4ha"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1741,22 +1793,6 @@
       "url": "https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Alan Falke",
-        "url": "https://open.spotify.com/album/4ienV82TE2GyrqyA8UZ3SX"
-      },
-      "artists": [
-        {
-          "name": "Disfunktion",
-          "url": "https://open.spotify.com/artist/1sXOD5MDspxw6Me8zHyxYD"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Alan Falke - Radio Edit",
-      "url": "https://open.spotify.com/track/4IdIIXJgYysUJjiDmmy9Bw"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "why don't you come on over?",
@@ -1771,26 +1807,6 @@
       "duration_ms": 156982,
       "name": "why don't you come on over?",
       "url": "https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706"
-      },
-      "artists": [
-        {
-          "name": "Shaqdi",
-          "url": "https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN"
-        },
-        {
-          "name": "Blake Anthony",
-          "url": "https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb"
-        }
-      ],
-      "duration_ms": 208848,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1827,26 +1843,6 @@
       "duration_ms": 175373,
       "name": "Don\u2019t Kill The Groove",
       "url": "https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        },
-        {
-          "name": "Sledgendary",
-          "url": "https://open.spotify.com/artist/5NoEz2x1F5WsQ225GJtvBJ"
-        }
-      ],
-      "duration_ms": 230673,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV"
     },
     {
       "added_at": "2022-01-28 05:01:00",

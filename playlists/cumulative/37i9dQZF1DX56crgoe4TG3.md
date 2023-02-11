@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-187 songs - 11 hr 56 min
+188 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [7 Nation Army](https://open.spotify.com/track/1lEoFZKzfqvuJxap6zUxiJ) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 1](https://open.spotify.com/album/7rshiDjLOz7ID3HsoEUvck) | 2:56 | 2021-08-20 | 2022-01-08 |
 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 | 2021-08-20 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/5zDZO6WqKkGk4oa6fkFLwH) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 2:40 | 2021-08-20 |  |
+| [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 | 2023-02-10 |  |
 | [Africa](https://open.spotify.com/track/4XRQgH9uA2hNcphAjSoPUs) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0uUGpBzLNyLbbHLiKkJcTk) | 4:03 | 2021-08-20 |  |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-05-27 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-08-20 | 2022-07-29 |

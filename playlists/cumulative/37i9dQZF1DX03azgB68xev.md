@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-325 songs - 18 hr 14 min
+326 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 | 2021-10-31 | 2022-07-29 |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2021-10-31 | 2023-01-14 |
 | [Awe!](https://open.spotify.com/track/0kVBFAOf4DqT3zFTNfGdF4) | [Anna Beaden](https://open.spotify.com/artist/2SbluIo4IZVxJvEHnQR8r6) | [Awe!](https://open.spotify.com/album/33lg7H8wGe368kafecZ3hk) | 3:58 | 2021-10-31 | 2022-07-27 |
-| [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 | 2023-01-13 |  |
+| [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 | 2023-01-13 | 2023-02-11 |
 | [Battle Cry](https://open.spotify.com/track/6blYxHNuDNBvT3vtvKUA1B) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi) | [Out of the Darkness](https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1) | 2:56 | 2021-10-31 | 2022-07-27 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2023-01-13 |  |
 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 | 2021-10-31 | 2022-07-01 |
@@ -87,6 +87,7 @@
 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 | 2021-10-31 | 2023-01-14 |
 | [Faith Fall \- dance party](https://open.spotify.com/track/50pQcaZ2w1PVpn5GTiq4OJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:02 | 2023-01-13 | 2023-02-01 |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2023-01-13 |  |
+| [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-01-13 |  |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2023-01-13 |  |
 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-01-13 |  |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2021-10-31 | 2022-07-27 |

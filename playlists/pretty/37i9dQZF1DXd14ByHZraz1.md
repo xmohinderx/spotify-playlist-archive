@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,854 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,855 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 |
-| 2 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 |
-| 3 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 |
-| 4 | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv) | 2:51 |
-| 5 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
-| 6 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
-| 7 | [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 |
+| 1 | [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 |
+| 2 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 |
+| 3 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 |
+| 4 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 |
+| 5 | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv) | 2:51 |
+| 6 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
+| 7 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
 | 8 | [The Upside Down](https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [hollywhaaat](https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ) | [The Upside Down](https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud) | 3:48 |
 | 9 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 |
 | 10 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 |
 | 50 | [Never](https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Never](https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh) | 3:25 |
 
-Snapshot ID: `MTY3NTM5MzM4MCwwMDAwMDAwMDNlNTA4NmVhOWYxNzlmNzJhZGMzMWQ1NTM4ZDFkNzAw`
+Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMGYxMmNiYTk3NDc5ZDg0OGE2OTcyMjg0ODI5NmJhOWI3`

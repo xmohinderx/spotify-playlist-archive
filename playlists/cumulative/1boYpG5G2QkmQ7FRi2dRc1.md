@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-304 songs - 19 hr 27 min
+305 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Church \(with PARISI\)](https://open.spotify.com/track/5p3qi5ayAQhdQe3bVcBmHU) | [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Church](https://open.spotify.com/album/6fqrJG7WfIJXH9w9lErbeO) | 3:53 | 2023-01-06 | 2023-01-14 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Clara \(the night is dark\)](https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g) | 4:38 | 2022-10-31 | 2022-11-05 |
 | [Clouds](https://open.spotify.com/track/3T7PkWJTyhlYCirZiTJsg0) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Clouds](https://open.spotify.com/album/5hthcxMQYM5ARjWPZbRSjO) | 2:46 | 2022-10-15 | 2022-12-03 |
+| [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/0P7toBXcgVgAcArpns3RmH) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/7ITpVarEWNNzTf2pNHBrcl) | 3:22 | 2023-02-10 |  |
 | [Contrast](https://open.spotify.com/track/1qy67HaS9LW75RmoW4nWET) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Contrast](https://open.spotify.com/album/3VDATZeDfj3U1WOoj52aEY) | 3:39 | 2022-11-12 | 2022-11-19 |
 | [Cortez \- Laidback Luke's 1997 Remix](https://open.spotify.com/track/5C3UzRGHb67ghnCnljkXSP) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [10 Seconds Remixes](https://open.spotify.com/album/6hxAERR0OtLntaIWfgeiRG) | 3:53 | 2023-01-06 | 2023-01-14 |
 | [Cosmic Witch \(feat\. Anané\) \- Todd Terry Remix](https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Cosmic Witch \(feat\. Anané\) \[Todd Terry Remix\]](https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV) | 6:17 | 2023-01-06 | 2023-01-14 |

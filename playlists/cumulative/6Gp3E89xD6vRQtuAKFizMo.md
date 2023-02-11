@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-132 songs - 6 hr 34 min
+133 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-21 |  |
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 |  |
 | [Cloud 9](https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Cloud 9](https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B) | 4:21 | 2022-07-27 |  |
+| [Club Chennai](https://open.spotify.com/track/1Tw1ikzex7FQ1Gk2yomtjf) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Club Chennai](https://open.spotify.com/album/6YNdraBe2RbxqWLLSdMHJR) | 2:25 | 2023-02-10 |  |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[OMAS Remix\]](https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu) | 3:55 | 2022-05-06 | 2022-08-06 |
 | [Colors](https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Colors](https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym) | 2:49 | 2022-05-06 | 2022-08-27 |
 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 | 2022-05-06 | 2022-11-12 |
@@ -126,7 +127,7 @@
 | [Traces Of You](https://open.spotify.com/track/1V0mxw6kWF2edrzAE97I4g) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Traces Of You](https://open.spotify.com/album/2sZAcRt2t9zr1X7CO00wZY) | 2:49 | 2023-01-20 |  |
 | [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 |  |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 |  |
-| [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 |  |
+| [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 | 2023-02-11 |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |
 | [Underneath \(feat\. Linney\)](https://open.spotify.com/track/5ENZmalv3TTuZyZpihKyg1) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Better Together](https://open.spotify.com/album/1Ap4fL7irXlphPx9XIMkwq) | 2:41 | 2022-10-07 |  |
 | [Vamos a Beber](https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Vamos a Beber](https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz) | 3:14 | 2022-07-15 |  |

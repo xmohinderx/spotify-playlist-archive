@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-198 songs - 11 hr 43 min
+199 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Fue Difícil](https://open.spotify.com/track/3R6zKiVOHM9WdnL8PvtrKK) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/2I99BEAGEhgr0T0jsNVRzt) | 3:46 | 2022-10-28 | 2022-11-13 |
 | [Fue Solo Piel](https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [Fue Solo Piel](https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr) | 2:39 | 2022-11-25 |  |
 | [Fugitivo / Aca Llega la Banda / Asi Fue \- En Vivo](https://open.spotify.com/track/1FmxDLgWWPGN3gWTD45648) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fugitivo / Aca Llega la Banda / Asi Fue \(En Vivo\)](https://open.spotify.com/album/4adOZCfSCGTRXBiDdS5tRo) | 7:12 | 2021-12-24 |  |
+| [Hey Tu](https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Hey Tu](https://open.spotify.com/album/0qEN49ipLOHVnuAaXZJSNV) | 3:16 | 2023-02-10 |  |
 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 | 2021-12-24 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2021-12-24 |  |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2021-12-24 |  |
@@ -168,7 +169,7 @@
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Soy Favela](https://open.spotify.com/track/0XxzweqYFUrK0bEzrNaQwI) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela](https://open.spotify.com/album/1bNDZciqZaZwZLxB7oi0xn) | 3:13 | 2021-12-24 | 2022-02-19 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2021-12-24 |  |
-| [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 | 2022-01-07 |  |
+| [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 | 2022-01-07 | 2023-02-11 |
 | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/track/5fPwHCqTQMOZmu25WrfRFD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/album/2t64H3SSk5ruWYOzJJap1j) | 3:23 | 2022-02-11 | 2022-06-11 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-27 |
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2021-12-24 |  |

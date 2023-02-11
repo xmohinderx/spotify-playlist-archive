@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-110 songs - 7 hr 30 min
+111 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-15 |  |
 | [Theethiriyaai \(From "Brahmastra \(Tamil\)"\)](https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Theethiriyaai \[From "Brahmastra \(Tamil\)"\]](https://open.spotify.com/album/64zZPIAQB8N3vCPfBvek0x) | 4:38 | 2022-07-17 |  |
 | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/track/7obXTjMlADOJyIB6GjSgDw) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/album/5Kgd1s63hF3ZfzKFT01ifd) | 4:54 | 2021-12-02 |  |
+| [Thiruttu Payale](https://open.spotify.com/track/67SSSZkWcz5135Z20WD3Kw) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/album/4fvDH7dvFtMd6JfS65xZi8) | 3:23 | 2023-02-10 |  |
 | [Thooriga \- From "Navarasa"](https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thooriga \(From "Navarasa"\)](https://open.spotify.com/album/21xzjyEysKTj6xEdceEa2E) | 3:22 | 2021-11-29 | 2022-10-19 |
 | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/track/5JC1RPGBMSiKlA3gniEmCW) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/album/0cxMKNG3gmLPt9dTEBHkEg) | 4:57 | 2022-01-27 |  |
 | [Thumbi Thullal](https://open.spotify.com/track/7tvDj0JY0HBSikV4mR7VE9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 4:43 | 2022-07-14 |  |

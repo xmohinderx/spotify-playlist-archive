@@ -1,12 +1,12 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 101085,
+  "num_followers": 101260,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNjU4NywwMDAwMDAwMDY4YjgwZDZkZWI0MzhlYTUzZTQxYTZhYWVmZmE4MGM0",
+  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMDI1MDg4MDljOWQ5NTlmODgxYmI2YmU2ODJhNDc5NzBl",
   "tracks": [
     {
       "added_at": "2022-01-28 15:52:04",
@@ -23,6 +23,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
+      },
+      "artists": [
+        {
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
+        }
+      ],
+      "duration_ms": 283963,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
     },
     {
       "added_at": "2023-01-27 16:22:56",

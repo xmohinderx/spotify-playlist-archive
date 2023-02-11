@@ -4,30 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,096 likes - 21 songs - 1 hr 18 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,096 likes - 13 songs - 44 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Standing In The Shadows](https://open.spotify.com/track/4ILE5MgmUrl0IQ0rBDTeMI) | [Cliff Wedge](https://open.spotify.com/artist/2qguL07OSiwQUFvJFA3NBt), [DJ Pewee](https://open.spotify.com/artist/5uPtEPabkoGulfS1oXJQPM) | [Standing In The Shadows](https://open.spotify.com/album/3r7MMf4MjxrEjQkQmdWAK9) | 3:30 |
-| 2 | [AUTOMOBIL](https://open.spotify.com/track/3UlvQ6XBs54N6Amp2EfNPq) | [Robin T](https://open.spotify.com/artist/3mrrPjnzhf1YQMfIHARaMx) | [AUTOMOBIL](https://open.spotify.com/album/2KQ7MC9pRD1dcZLQYigpxM) | 2:24 |
-| 3 | [We won't let go](https://open.spotify.com/track/1yk2oR3onUj9KP2KQbWCfN) | [Tears of a fallen hero](https://open.spotify.com/artist/5odQiXtPk80QB8WbIHEuGQ) | [Save us from ourselves](https://open.spotify.com/album/2FAerHdfRS0FcRGXV51o2x) | 3:26 |
-| 4 | [Dolda Rum](https://open.spotify.com/track/6sPGsNskDveg24vtRVF1CX) | [Beriwan](https://open.spotify.com/artist/0Sfo5QYsJT3GHD6biIaJBh) | [Dolda Rum](https://open.spotify.com/album/3dtDH887aABqAvR1UoDh8I) | 2:09 |
-| 5 | [Monochrome](https://open.spotify.com/track/3VSGW16jahiTscjtBkL42Y) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [Monochrome](https://open.spotify.com/album/1y9l5bv9hdox83mlhteCxn) | 3:25 |
-| 6 | [Moon Song](https://open.spotify.com/track/3De72B6N2G0kdoqXdLszWB) | [nayl](https://open.spotify.com/artist/7GbWeqkZ1HSS68Tijnp4s7) | [Moon Song](https://open.spotify.com/album/2NIjRZlgzfHBiK9qo5ObA2) | 2:23 |
-| 7 | [When I'm dead](https://open.spotify.com/track/5nPs5F5dt5yvSBKS3DFx7d) | [Oakman's Ramble](https://open.spotify.com/artist/15f5r8qhz2bfSrrFCbckli) | [When I'm dead](https://open.spotify.com/album/28oTVwwLd6OPjLWEMX41Gp) | 3:33 |
-| 8 | [Vårskrik](https://open.spotify.com/track/0Lg2M9TwXFO2hyJGlNd32C) | [Mercedes Moy](https://open.spotify.com/artist/6EEFsAylqbi74E9zgfr7t9) | [Vårskrik](https://open.spotify.com/album/2jdBSF9sovlOuzQ58Yekfw) | 2:59 |
-| 9 | [Crazy As Fuck](https://open.spotify.com/track/3LBmZcTOQTMC4fhxgTfjFE) | [Encoded Data](https://open.spotify.com/artist/1bozxq2U3KEtuM92IPvH8h) | [Crazy As Fuck](https://open.spotify.com/album/4l2co85KF9ra4cJMQPR0E0) | 5:32 |
-| 10 | [Unkind Reality](https://open.spotify.com/track/3jaNh8gTv9W1UEaa2sqKgh) | [Unkind Reality](https://open.spotify.com/artist/1g8Qsu8Y6kRreKKnjYUBch) | [Unkind Reality](https://open.spotify.com/album/7xcov6aBJaD1Kx3T0HTqqN) | 4:42 |
-| 11 | [Dance Mood](https://open.spotify.com/track/5xYhLoy34aZwtM9nvZOrLh) | [Bob David](https://open.spotify.com/artist/4GDoJnQKwjcdV34IBkKbzN) | [Dance Mood](https://open.spotify.com/album/5mG9pHCORH5u3uphQlPKRD) | 2:20 |
-| 12 | [Yizwa Imithandazo](https://open.spotify.com/track/7xDPPqZSDyDhwAS4WjqRAG) | [All Nations Christian Church In Zion](https://open.spotify.com/artist/1XXJQ2n7HKyBZ0TL7t57kw) | [Yizwa Imithandazo](https://open.spotify.com/album/3IEXydhIpE2FBr6OyfLdct) | 3:53 |
-| 13 | [All My Words](https://open.spotify.com/track/3fSfmhTtLmvQdbnSZNErRU) | [Jupiter Buoy](https://open.spotify.com/artist/42GCmnQk734uXiccHlfQlm) | [All My Words](https://open.spotify.com/album/09vTDKAM4BULyxev8AwB7F) | 4:04 |
-| 14 | [Miniatura per Oboe](https://open.spotify.com/track/51jHQx347dI5ULzGLwnrkN) | [Paolo Eriani](https://open.spotify.com/artist/63d0zfcT7PB007jfH5X96O) | [Miniature](https://open.spotify.com/album/781Dw575z5ZgLMCjdhA0vd) | 4:16 |
-| 15 | [JADA JADA](https://open.spotify.com/track/7vfQi2kAPXYEERmGNJHzyd) | [Steve Kuling](https://open.spotify.com/artist/5bUvL6Gqsrjk7puABCbVjk) | [JADA JADA](https://open.spotify.com/album/1r5Slz61zbehvzETYll6yl) | 3:00 |
-| 16 | [Secret Wink](https://open.spotify.com/track/6Ox6CImLdirf3Mt7DRYFRq) | [Kasetty](https://open.spotify.com/artist/3d32pzDPYhfm15wUMxnxu9) | [ANOTHER VIBES, Pt\. 1](https://open.spotify.com/album/5HgjHTEqb8ktwZGZrd97cj) | 7:46 |
-| 17 | [The Optimist](https://open.spotify.com/track/4u70udH0iqFpNJY8qz67T3) | [The Santos Connection](https://open.spotify.com/artist/2QVZRMNzssOIKKDIlngRyc) | [The Optimist](https://open.spotify.com/album/1eVcOWfMGwsHqINwYnhsRi) | 3:41 |
-| 18 | [Witch's Piss](https://open.spotify.com/track/6G9ruIyI9fKIX1C3J0aiA3) | [Jakob Battick](https://open.spotify.com/artist/0SbDgL1fk4WqAFdtkptcYB) | [Goat\-Horned Moon Live](https://open.spotify.com/album/0UCK6NDx7xigKy60oRB2ZC) | 6:29 |
-| 19 | [Time Moves A Little Slower Here](https://open.spotify.com/track/4mYnL0miHdI6GQtRssEwpI) | [Ojay](https://open.spotify.com/artist/4Ohu0UoFPZKuy5gIEedZtq) | [Time Moves A Little Slower Here](https://open.spotify.com/album/4chQZxqrztrEHhjhu4qKbA) | 2:51 |
-| 20 | [Maria Ioana](https://open.spotify.com/track/0JFP3Heq9YuOG4hX1qOQP8) | [Uddi](https://open.spotify.com/artist/0kTVB7sOMbJRlHprTXc3aI) | [Maria Ioana](https://open.spotify.com/album/0skBqYKKvhrN9Cm7uCMrrl) | 2:59 |
-| 21 | [Horizons](https://open.spotify.com/track/70IRazNDubJMh4Zw4JN1AL) | [River Crombie](https://open.spotify.com/artist/6ljktdvg1dws4RtZcJCJ9X) | [Horizons](https://open.spotify.com/album/4zLRBAdrx0RQmLDeCvGYcx) | 3:04 |
+| 1 | [Endelaus Veg](https://open.spotify.com/track/3I2s2aMjP6zObtNq4mpuI4) | [Bootlegs](https://open.spotify.com/artist/06NpyvDgWUFo5YPdLkRZp3) | [Endelaus Veg](https://open.spotify.com/album/4SKTLQongv0eFc3Om0xxec) | 4:47 |
+| 2 | [Serrated Jaws](https://open.spotify.com/track/0gyOBgNqhNNVUd69XIeXzx) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [Serrated Jaws](https://open.spotify.com/album/7INxnrC3ZAWEO5kLwkDBy7) | 4:20 |
+| 3 | [Terminal Velocity](https://open.spotify.com/track/40feYW0541aw32cHHmhXCm) | [Only By Night](https://open.spotify.com/artist/0oEQuhufOFE2MLw8bW9E4i) | [Terminal Velocity](https://open.spotify.com/album/5WWHTkPwWc4hDojEuMBdQY) | 3:30 |
+| 4 | [Reminiscing](https://open.spotify.com/track/2WX93lwyQOS0Cl7lXdJ7uU) | [Tanaka](https://open.spotify.com/artist/2jKPaC2ezYgEFsMBScc1mH) | [Reminiscing](https://open.spotify.com/album/5VV7wRhx2WljCEzzuNizkM) | 3:30 |
+| 5 | [Heaven Is Noise](https://open.spotify.com/track/78UB6Pj551OsTxqCeFqZXv) | [Skeleton Shortage](https://open.spotify.com/artist/2uEb2qRHEXTuLcZPb5l63e) | [Heaven Is Noise](https://open.spotify.com/album/2HHAoBXw4HXREWhv6oLmqR) | 4:41 |
+| 6 | [Magic Words](https://open.spotify.com/track/2X06KZ11o9D08owHs2pO0z) | [APG](https://open.spotify.com/artist/43WWpQzBvWugFPxprqm1Z7) | [Magic Words](https://open.spotify.com/album/7aJP5myrQwY2qlxUGpPoPY) | 2:48 |
+| 7 | [Stand By Me](https://open.spotify.com/track/33LaFP8eNi0hZEwSDVpCLa) | [Krissie](https://open.spotify.com/artist/4H5pk9gnVCiVIXuh6cGNdM), [The Lundy Family](https://open.spotify.com/artist/5bM6pUB6wgmsWaLS9y2ajp), [Another Overload](https://open.spotify.com/artist/2v3S7Ub3u6Zs3hNu8Hq6Yw), [Animal Al](https://open.spotify.com/artist/2V267Zdwe3Wm40XdvY9LQJ) | [Stand By Me](https://open.spotify.com/album/7qU3W6roTxZ5KBf5QqTLDK) | 2:44 |
+| 8 | [Weed TV](https://open.spotify.com/track/5LgGDkgCzNzOFBBNwrfMg9) | [Uncle Father Oscar](https://open.spotify.com/artist/6wAfUy9tcrA7MLqAbzCf2h) | [Whami Guam Brad](https://open.spotify.com/album/2UeqEDbvZaQ1rzfd7UMlu2) | 2:51 |
+| 9 | [Chillout Sumatra](https://open.spotify.com/track/5yLskZtctTfIf0OmDUqsVP) | [Forest Edge](https://open.spotify.com/artist/6ID6yxO713Bx1rOmwNjLyI) | [Chillout Sumatra](https://open.spotify.com/album/0hFnGELYJ0eENtuH5ooSnU) | 3:33 |
+| 10 | [While We're On It](https://open.spotify.com/track/5Ci1oEOBYJx4rbnlCLHZcn) | [TILT](https://open.spotify.com/artist/4ifaahwu79ZwKXA2WmsfMj) | [While We're On It](https://open.spotify.com/album/4L753c23ko1Vfnl6Ty2GET) | 2:35 |
+| 11 | [ME TENGO QUE IR](https://open.spotify.com/track/0QilGvc2ukisHFbG80BlbU) | [Rodny](https://open.spotify.com/artist/4wbDY8PL52OgD6HSeiGa6C) | [ME TENGO QUE IR](https://open.spotify.com/album/1hkUWyUzkmuEauNuRwKbUV) | 3:16 |
+| 12 | [En dröm](https://open.spotify.com/track/3Eqc20FVhkUXAh7T70qZZH) | [Nyxie](https://open.spotify.com/artist/2oC7B4aRH9IcKyn5ltxRoQ) | [En dröm](https://open.spotify.com/album/1hBo7nqgqXRrzFnMJJnx22) | 3:28 |
+| 13 | [Keep the Fight Alive](https://open.spotify.com/track/0GN9C8sjhNj19EbyvcHWoI) | [Whiskey's Wake](https://open.spotify.com/artist/1rNu83JCEN6NnRXmSMZrci), [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [Distant Lands](https://open.spotify.com/album/6H7lhn9T6mnBqzfeKdA2VG) | 2:44 |
 
-Snapshot ID: `NzM2LDExMmUxMzRhNDQ3MGQ0ZmMwZjczNzI4Njg0Y2RlNjE0YTVkMjQ5YTk=`
+Snapshot ID: `NzM5LDQzYTJlMTI5NjNlZjk1MDI0MjcwMWM0OWI0MDE3NjljYzljODJhYWI=`

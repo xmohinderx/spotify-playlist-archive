@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-336 songs - 1 day 1 hr 21 min
+337 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 |  |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |
 | [Galahad](https://open.spotify.com/track/65KIaxjBVPTsEsfdIcaJGb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Only You](https://open.spotify.com/album/7JobxIfMxmbEvbbcuYMniN) | 3:29 | 2021-05-07 | 2022-06-17 |
-| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 |  |
+| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 | 2023-02-11 |
 | [Gazer \(Through the Night\)](https://open.spotify.com/track/1LsSPm7nkGgUbukmxS8DUa) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/064SqNWBOnEHRMyg8wj6HC) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Gemini Bridges](https://open.spotify.com/track/21DZqG3jg7YQexOzd6vqig) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Gemini Bridges / Room 4242](https://open.spotify.com/album/6kPzVQCpntz3pvsS5pIyHu) | 4:45 | 2021-05-07 | 2022-07-29 |
 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 | 2021-05-07 | 2022-07-21 |
@@ -221,6 +221,7 @@
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-04 |  |
 | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe) | 3:52 | 2021-05-07 | 2022-11-13 |
 | [Peace Of Mind](https://open.spotify.com/track/1hyfS51nwrYQOCSEVEIfOi) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Peace Of Mind](https://open.spotify.com/album/7HuaK77m1azcfrtBCIpE97) | 2:46 | 2021-05-28 | 2022-07-29 |
+| [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 | 2023-02-10 |  |
 | [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 | 2022-08-12 |  |
 | [Poison](https://open.spotify.com/track/5KBZtEhzSiFyKNjtRSqTpJ) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Poison](https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n) | 3:27 | 2021-05-07 | 2022-07-19 |
 | [Power](https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Power](https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL) | 3:18 | 2021-10-25 |  |

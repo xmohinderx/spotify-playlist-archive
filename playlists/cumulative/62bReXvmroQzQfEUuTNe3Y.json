@@ -2899,6 +2899,36 @@
     },
     {
       "album": {
+        "name": "Infected",
+        "url": "https://open.spotify.com/album/6EfJ5wbalgnQY12ABXCKXF"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        },
+        {
+          "name": "Thando1988",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        },
+        {
+          "name": "Anton Karskiy",
+          "url": "https://open.spotify.com/artist/2oD2lrsJ6SWbNJI2XiMV0n"
+        },
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157969,
+      "name": "Infected",
+      "url": "https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP"
+    },
+    {
+      "album": {
         "name": "Infinity (PRETTY YOUNG Remix)",
         "url": "https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti"
       },

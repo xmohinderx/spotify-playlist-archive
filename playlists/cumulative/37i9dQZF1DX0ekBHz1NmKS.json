@@ -1253,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153783,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+    },
+    {
+      "album": {
         "name": "Brev fr\u00e5n botten",
         "url": "https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2"
       },
@@ -6535,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "album": {
         "name": "Medborgare av ingenstans",
         "url": "https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg"
       },
@@ -6856,7 +6896,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 228346,
       "name": "Musik Non Stop - Spotify Singles",
       "url": "https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA"
@@ -11790,7 +11830,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 200986,
       "name": "\u00c4ndstation",
       "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"

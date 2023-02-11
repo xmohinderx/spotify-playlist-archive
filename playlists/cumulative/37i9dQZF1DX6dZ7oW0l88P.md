@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-104 songs - 5 hr 14 min
+106 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Gentle Harp](https://open.spotify.com/track/5EYufxyMiiHlqLseq5lq6g) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 3:25 | 2022-05-11 |  |
 | [Gentle Thoughts](https://open.spotify.com/track/1FxioajcNOU6zzMTbzXDbx) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [Contemplation](https://open.spotify.com/album/4515RLJJF5yZL5yPyOosoc) | 2:04 | 2022-05-11 |  |
 | [Gently and Without Force](https://open.spotify.com/track/3uUilJuJcEVKO4oSNn6js4) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Minimalist Harp](https://open.spotify.com/album/1hsI9VAl3NA6xGRG68wz36) | 3:07 | 2022-05-11 |  |
+| [Golden Hour](https://open.spotify.com/track/1Y6etopu2UuvnkKJuhpVEt) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj), [Sacred Suara](https://open.spotify.com/artist/22QB9pvPmOCihSJB0wbyOJ) | [Golden Hour](https://open.spotify.com/album/6CuTxoC71a6UJHNahcLpSD) | 4:10 | 2023-02-10 |  |
 | [Harp Carrousel](https://open.spotify.com/track/3zBRhaiUrQ0ou91oZGCafb) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Harp Carrousel](https://open.spotify.com/album/15Ou36d03Km5mgOd75d7WZ) | 2:25 | 2022-05-11 |  |
 | [Harp Cocoon](https://open.spotify.com/track/12orMw5oRxzeJoFum2fw4J) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Harp Eclectic](https://open.spotify.com/album/7mBQkFc71dtaYwzHGmnZ69) | 3:02 | 2022-05-11 |  |
 | [Harp Lullaby](https://open.spotify.com/track/7H5vKsjiKOJHCejokRXTTn) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Harp Lullaby](https://open.spotify.com/album/4dNCOJKuAbXc7hlFnQYOn3) | 3:11 | 2022-05-11 |  |
@@ -112,5 +113,6 @@
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2022-05-11 |  |
 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2022-05-11 |  |
 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 | 2022-05-11 |  |
+| [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

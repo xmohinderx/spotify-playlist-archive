@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tKil5zHktA.md) - [plain]
 
 ### [Marsh DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX5tKil5zHktA)
 
-> Dive into a melodic journey with Marsh's new DJ Mix!
+> Dive into a melodic journey with <a href="spotify:artist:1eucLGnPT27tdEh6MU29wp">Marsh</a>'s DJ Mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,714 likes - 14 songs - 59 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,718 likes - 14 songs - 59 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tKil5zHktA.md) - [plain]
 | 13 | [Surrender \- Mixed](https://open.spotify.com/track/2P4fntH9aqBYmkZoCX6EO9) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Surrender \(Mixed\)](https://open.spotify.com/album/5y0lj1dNVFK8ViupsnFvsk) | 4:10 |
 | 14 | [Dreaming Home \- Sebastian Sellares Remix \- Mixed](https://open.spotify.com/track/083gCyHDpqVoAR0m7j5gX2) | [Eric Lune](https://open.spotify.com/artist/1QDcgezTmQK5OWItcjj7BJ) | [Dreaming Home \- Sebastian Sellares Remix \(Mixed\)](https://open.spotify.com/album/777zpX2MghKyTjhPsKhlai) | 4:37 |
 
-Snapshot ID: `MTY1MjQ1MzU5NSwwMDAwMDAwMDllZWYyMTZjNmIxNDUxZGQyNTczMzExMmYwNjdkNGY3`
+Snapshot ID: `MTY3NjA1OTg1MCwwMDAwMDAwMGZlMzFkYmE3ODhmYjZjOGY5OTFiNDc3ZGRmYTRiZjdj`

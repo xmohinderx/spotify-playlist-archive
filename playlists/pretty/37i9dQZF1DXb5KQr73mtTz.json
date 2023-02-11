@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 8600,
+  "num_followers": 8622,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjg5MywwMDAwMDAwMDJkNGYzM2I0MWQ2MTYzMmNjMjEyYTU5ZWRiNWUzNDY2",
+  "snapshot_id": "MTY3NTQwNjg5MywwMDAwMDAwMDI5Y2U5YzdjNzYyNzgwZDg0YzQ2MDQ5MmU0OTM5MzQw",
   "tracks": [
     {
       "added_at": "2023-01-13 04:01:06",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
-        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+        "name": "Encounter (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 246106,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+      "duration_ms": 199577,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -583,18 +583,34 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 199577,
-      "name": "Into My Heart",
-      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+    },
+    {
+      "added_at": "2023-02-11 01:00:50",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -611,22 +627,6 @@
       "duration_ms": 252000,
       "name": "The last stop of our pain",
       "url": "https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS"
-    },
-    {
-      "added_at": "2023-02-10 01:39:26",
-      "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+    },
+    {
+      "added_at": "2023-01-13 04:01:06",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-01-13 04:01:06",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 178666,
-      "name": "How You Been",
-      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -711,22 +727,6 @@
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
-    },
-    {
-      "added_at": "2023-01-13 04:01:06",
-      "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-01-13 04:01:06",
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
     },
     {
-      "added_at": "2023-02-10 01:39:26",
+      "added_at": "2023-02-11 01:00:50",
       "album": {
         "name": "How many nights should far away more",
         "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
-      "added_at": "2023-02-10 01:39:26",
+      "added_at": "2023-02-11 01:00:50",
       "album": {
         "name": "goodbye",
         "url": "https://open.spotify.com/album/6nQkkGEfNQHwuRiB765rlt"

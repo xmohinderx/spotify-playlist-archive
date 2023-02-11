@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-171 songs - 10 hr 22 min
+172 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 | 2021-08-17 |  |
 | [Incantation](https://open.spotify.com/track/2fMqo7Mcq0jdGV6KIFeR9P) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 3:17 | 2021-08-17 |  |
 | [Incantation](https://open.spotify.com/track/6Lm75tQUmvL4PEftcxRaSr) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/1uRvTjf8Cy9srhYYR9EGsR) | 3:17 | 2021-08-17 | 2022-07-29 |
-| [International Colouring Contest](https://open.spotify.com/track/0R1J6J85Dn19me4bGcsJFf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 3:47 | 2021-08-17 |  |
+| [International Colouring Contest](https://open.spotify.com/track/0R1J6J85Dn19me4bGcsJFf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 3:47 | 2021-08-17 | 2023-02-11 |
+| [International Colouring Contest](https://open.spotify.com/track/3QQ4qGAeBH7925w1YnOuu5) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet \(Expanded Edition\)](https://open.spotify.com/album/4jqRIRi6aTObueLwb2DaVp) | 3:55 | 2021-08-17 |  |
 | [Jacaranda](https://open.spotify.com/track/1Y27u5V3FN4IBK23blaDWG) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 2:54 | 2021-08-17 | 2022-10-14 |
 | [Jacaranda \- Remastered](https://open.spotify.com/track/0Bpy8hsCBvG6nwF3pL8Ri7) | [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 2:54 | 2021-08-17 |  |
 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 | 2021-08-17 |  |

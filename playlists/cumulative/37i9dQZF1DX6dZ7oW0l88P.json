@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/6CuTxoC71a6UJHNahcLpSD"
+      },
+      "artists": [
+        {
+          "name": "Laura Lotti",
+          "url": "https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj"
+        },
+        {
+          "name": "Sacred Suara",
+          "url": "https://open.spotify.com/artist/22QB9pvPmOCihSJB0wbyOJ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/1Y6etopu2UuvnkKJuhpVEt"
+    },
+    {
+      "album": {
         "name": "Harp Carrousel",
         "url": "https://open.spotify.com/album/15Ou36d03Km5mgOd75d7WZ"
       },
@@ -1914,6 +1936,24 @@
       "duration_ms": 115804,
       "name": "Without me",
       "url": "https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb"
+    },
+    {
+      "album": {
+        "name": "Written on the Sky",
+        "url": "https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122362,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dZ7oW0l88P"

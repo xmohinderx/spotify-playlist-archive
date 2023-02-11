@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-470 songs - 1 day 5 hr 9 min
+471 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-02-02 |  |
 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 | 2022-01-27 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:45 | 2022-07-08 |  |
+| [Home Movies](https://open.spotify.com/track/7InQwxswyvUtAxfV8KsCrz) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:16 | 2023-02-10 |  |
 | [Honey](https://open.spotify.com/track/78x5EmgSFz6SJV8x2Q8hqx) | [The Motel Brothers](https://open.spotify.com/artist/5X9R8y9jEZmlwLa3RatW6X), [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [Honey](https://open.spotify.com/album/3g2Th7irgqA9U2XZVpomtK) | 3:31 | 2022-01-27 |  |
 | [Hope](https://open.spotify.com/track/31cJXFKjz60KHVFbgNPE2D) | [Ludvig Isacsson](https://open.spotify.com/artist/1avku2Cmise3sJpGwiYytg) | [Hope](https://open.spotify.com/album/2UdPebxReKIGg9XZ5gl0nj) | 4:21 | 2022-01-27 | 2022-11-13 |
 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 | 2022-01-27 | 2022-07-29 |
@@ -353,7 +354,7 @@
 | [Should I Stay Or Should I Go](https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay Or Should I Go](https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz) | 2:37 | 2022-10-28 | 2022-11-13 |
 | [Sideways](https://open.spotify.com/track/5sS5BZGWxx2sUYuIDh7Pup) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Sideways](https://open.spotify.com/album/3WuOPpw8Wvwi5WXtncYoHZ) | 3:24 | 2022-01-27 | 2022-07-29 |
 | [Since I Fell For You](https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 2:58 | 2022-01-27 | 2022-07-29 |
-| [Since I Fell For You](https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 2:58 | 2022-12-23 |  |
+| [Since I Fell For You](https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 2:58 | 2022-12-23 | 2023-02-11 |
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2022-11-08 |  |
 | [Slow Burn](https://open.spotify.com/track/1JgSGfLxgwJ76ht70nWNuu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/0bGwtulR9pGiuo7vES9dqp) | 4:06 | 2022-01-27 | 2022-07-29 |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,086 likes - 112 songs - 6 hr 10 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,088 likes - 112 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 2 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 |
 | 3 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA) | 2:24 |
 | 4 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
-| 5 | [Valerie \- Acoustic](https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Valerie \(Acoustic\)](https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM) | 2:40 |
+| 5 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 |
 | 6 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
 | 7 | [Go Your Own Way \- Acoustic](https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM) | 3:01 |
 | 8 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 14 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 15 | [What's Love Got to Do With It \- Acoustic](https://open.spotify.com/track/3MvFb6pDujgveRaMlTJQ8A) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [What's Love Got to Do With It \(Acoustic\)](https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X) | 2:41 |
 | 16 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 |
-| 17 | [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE) | 2:43 |
+| 17 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 |
 | 18 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 |
-| 19 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 |
+| 19 | [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 |
 | 20 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
 | 21 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 |
 | 22 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 111 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 | 112 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 |
 
-Snapshot ID: `OTE1LDhjOTFjZmUxMGZkM2YwOTE3YzQ2MDkzMGEzNTgzZWYxNGIwOGNkOGQ=`
+Snapshot ID: `OTIxLDc1ZWEzNDU1YWJkMmY5NmUyZDY3NGY5ZmY4ZjdhM2IyZDFmZmJhNGQ=`

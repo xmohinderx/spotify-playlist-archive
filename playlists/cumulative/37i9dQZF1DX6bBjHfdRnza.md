@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Swami Sound\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-991 songs - 2 day 21 hr 52 min
+992 songs - 2 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Closer](https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Closer](https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF) | 5:28 | 2022-10-05 | 2022-10-20 |
 | [Closer](https://open.spotify.com/track/4XyGAs12c8xGMzhELYAXg0) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Closer](https://open.spotify.com/album/5giLm1Jh5sHD7WWAw68dpx) | 6:59 | 2022-02-03 | 2022-03-03 |
 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 | 2022-03-09 | 2022-04-28 |
-| [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-18 |  |
+| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-01-18 |  |
+| [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-18 | 2023-02-11 |
 | [Coco Drum](https://open.spotify.com/track/0MTWz4d0YPCaYkLvfHh0Pn) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Coco Drum](https://open.spotify.com/album/1tT7taiEKrOrwSVdpXYe9l) | 4:28 | 2021-12-01 | 2022-01-13 |
 | [Cold](https://open.spotify.com/track/0hEu8UPEbuRgsyQGmPuBHQ) | [Druu](https://open.spotify.com/artist/4lusIEYtKWWxjZAOUuYDhz), [MiNDTRiX](https://open.spotify.com/artist/1e8QoqLWgTYpOEGAXdYtEr), [VIGIL](https://open.spotify.com/artist/5woKrwqEi876LodaTkTCi1) | [Cold](https://open.spotify.com/album/5b0TQ4LbxtAnnugsPlkDbE) | 2:51 | 2022-11-09 | 2022-12-01 |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-02-16 | 2022-04-08 |

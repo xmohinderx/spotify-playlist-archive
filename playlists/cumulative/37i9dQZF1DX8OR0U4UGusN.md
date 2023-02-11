@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-215 songs - 11 hr 52 min
+215 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2022-12-15 |  |
 | [Brand New Phone](https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Recollection Prospective](https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd) | 3:17 | 2022-03-25 | 2023-01-27 |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-12 | 2022-07-28 |
-| [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2022-05-03 |  |
+| [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2022-05-03 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-03-31 | 2022-07-02 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2023-01-27 |
 | [Bus Line 200](https://open.spotify.com/track/3M9yRhgrIHDa9SsKOHct9y) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Bus Line 200](https://open.spotify.com/album/3JlpbHB7MYn6VCZjerM9bk) | 2:47 | 2022-05-03 | 2022-07-29 |

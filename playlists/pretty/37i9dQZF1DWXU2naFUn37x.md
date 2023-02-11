@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,419 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,515 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 27 | [Problèmes](https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Problèmes](https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6) | 2:19 |
 | 28 | [Pochi Pochi](https://open.spotify.com/track/34wBFYmnw1sBcHyrhoYAS0) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Pochi Pochi](https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc) | 3:45 |
 | 29 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 |
-| 30 | [Rollie AP \(feat\. Pyrex & Slings\)](https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:59 |
+| 30 | [Rollie AP \(feat\. Pyrex & Slings\)](https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:59 |
 | 31 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 |
 | 32 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 |
 | 33 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 222842,
+  "num_followers": 223132,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDI4NmY3YzNkODQ1NjdlYWI0YWVjNzIwNmUzODUxZWY1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDE1Yjk5Njc0MGYxNWNkMmZlMTVhNWNmYzM2YWRkM2Iy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "duration_ms": 500804,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Only for the Weak",
         "url": "https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 276571,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
-      },
-      "artists": [
-        {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
-        }
-      ],
-      "duration_ms": 500804,
-      "name": "Roundabout",
-      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
     },
     {
       "added_at": "2022-12-16 05:00:00",

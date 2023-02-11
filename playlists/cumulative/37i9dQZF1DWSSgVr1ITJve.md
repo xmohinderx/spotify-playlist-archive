@@ -2,19 +2,20 @@
 
 ### [Afro Arab](https://open.spotify.com/playlist/37i9dQZF1DWSSgVr1ITJve)
 
-> Afro culture mixed with Arab vibes\. Cover: kouz1
+> Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-73 songs - 3 hr 57 min
+74 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2022-06-29 |  |
+| [3enek](https://open.spotify.com/track/6AaTlM8DYO8iT3DEeciiqh) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [3enek](https://open.spotify.com/album/7GeYslOHKhXrGf9rBwDnbf) | 3:33 | 2023-02-10 |  |
 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 | 2022-06-29 |  |
 | [A Ya Lil](https://open.spotify.com/track/1nRjVOFLduo55lFamOinIy) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/6HyMqrphwTj72BhRE91Wmg) | 2:29 | 2022-06-29 |  |
 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 | 2022-06-29 |  |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2022-06-29 |  |
 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 | 2022-06-29 |  |
-| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-15 |  |
+| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-15 | 2023-02-11 |
 | [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 | 2022-10-03 |
 | [Bambina](https://open.spotify.com/track/0lOLxwEXLME2ErktCMPCqM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/4X7dvnMEgl6DU8K3QW3IYT) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 | 2022-07-29 |  |

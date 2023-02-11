@@ -2464,7 +2464,7 @@
       },
       "artists": [
         {
-          "name": "Orsten",
+          "name": "\u00d6rsten",
           "url": "https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI"
         }
       ],
@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Girl in the Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140880,
+      "name": "Heart Break Escape",
+      "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
+    },
+    {
+      "album": {
         "name": "Behind the Clouds",
         "url": "https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh"
       },
@@ -3486,6 +3504,24 @@
       "duration_ms": 240893,
       "name": "I Leave Again",
       "url": "https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL"
+    },
+    {
+      "album": {
+        "name": "I Love Being Invisible",
+        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181227,
+      "name": "I Love Being Invisible",
+      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
     },
     {
       "album": {
@@ -5430,7 +5466,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 226306,
       "name": "peas",
       "url": "https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00"
@@ -5918,7 +5954,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 250032,
       "name": "Running",
       "url": "https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l"
@@ -8028,7 +8064,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"

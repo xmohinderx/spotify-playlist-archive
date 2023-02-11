@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "CHRONIC",
+        "url": "https://open.spotify.com/album/3su7kmZwN25Xh2q5JY7cQT"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194084,
+      "name": "CHRONIC",
+      "url": "https://open.spotify.com/track/4pi3XWPdc9T1NjiGcTaltO"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA"
       },

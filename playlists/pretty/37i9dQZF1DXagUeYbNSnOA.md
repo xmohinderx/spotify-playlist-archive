@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Menino Gutto\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,820 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,839 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,24 +33,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 23 | [Majalca](https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V) | [Charlie Gahu](https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs) | [Majalca](https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O) | 2:58 |
 | 24 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 25 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
-| 26 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
-| 27 | [Olvidarte Para Qué](https://open.spotify.com/track/6ZBsNz0WOrJi4GsJTABdvg) | [Astrid Celeste](https://open.spotify.com/artist/17bJlJD5HIrXLGykmaXUwy) | [Olvidarte Para Qué](https://open.spotify.com/album/5QhqosoqUtQTODvmT5Qwji) | 3:31 |
+| 26 | [Olvidarte Para Qué](https://open.spotify.com/track/6ZBsNz0WOrJi4GsJTABdvg) | [Astrid Celeste](https://open.spotify.com/artist/17bJlJD5HIrXLGykmaXUwy) | [Olvidarte Para Qué](https://open.spotify.com/album/5QhqosoqUtQTODvmT5Qwji) | 3:31 |
+| 27 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
 | 28 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
-| 29 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
-| 30 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
+| 29 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
+| 30 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
 | 31 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
 | 32 | [Sé que duda](https://open.spotify.com/track/7iO76oGRAbCesh40vWU2kx) | [AKA Matador](https://open.spotify.com/artist/1QoUyBQnfHKfv9S80S2UjE) | [Sé que duda](https://open.spotify.com/album/3sRovFMDNmMggT6Fc4s1q8) | 3:04 |
-| 33 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
-| 34 | [María José](https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [María José](https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM) | 3:15 |
-| 35 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
+| 33 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
+| 34 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
+| 35 | [María José](https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [María José](https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM) | 3:15 |
 | 36 | [Frágiles](https://open.spotify.com/track/78cThT12MMt9H6sL2p1Ts6) | [Danitse](https://open.spotify.com/artist/3gJg7mODMZPv34flayrK4I) | [Frágiles](https://open.spotify.com/album/03uLAF7ijDA4k6Qwi5gtUl) | 3:42 |
 | 37 | [PERDEDOR](https://open.spotify.com/track/07pDSqLfNTRcdw8evYuXHY) | [Ferrante](https://open.spotify.com/artist/7m1bGGPbNJSegEliGuHbHt) | [PERDEDOR](https://open.spotify.com/album/6sljmJ6fEmqiQFe6EhA10t) | 2:45 |
 | 38 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
 | 39 | [Yo No Te Creo](https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL) | [Melissa Ciani](https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u) | [Yo No Te Creo](https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp) | 3:08 |
 | 40 | [Tu Tatuaje \- Acoustic](https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR) | [La Ganga Calé](https://open.spotify.com/artist/6rSMOnbJFs8grTn6sfRJXZ), [Basik Sessions](https://open.spotify.com/artist/2VmMZYJ2K1XXvWiBZCuaJ3) | [Tu Tatuaje \(Acoustic\)](https://open.spotify.com/album/5xFeccb974udUGNqfbDedN) | 3:08 |
 | 41 | [anti\-love](https://open.spotify.com/track/0ZcsaOLKAD6qzDa6CUMhuv) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [anti\-love](https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh) | 2:49 |
-| 42 | [u da one](https://open.spotify.com/track/3vou92sb4ezJ5XP8J3Ar6L) | [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9), [Hitalot](https://open.spotify.com/artist/1CEtMW7FUysM7Le5wdNwSA), [Michaela Fano](https://open.spotify.com/artist/7HRqGghJV95hgMIuRligBR) | [u da one](https://open.spotify.com/album/3Hk7hHLZE2DNfihJheOcHT) | 3:45 |
-| 43 | [Vuelvo a comenzar](https://open.spotify.com/track/5ze9kEBqLwuHzxooCuqQB4) | [Olaf\-O](https://open.spotify.com/artist/0NwymclSZLMHfpImTbLTj8), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Vuelvo a comenzar](https://open.spotify.com/album/0t2JSeC8p79qVLNXZ4yLpH) | 4:08 |
+| 42 | [Vuelvo a comenzar](https://open.spotify.com/track/5ze9kEBqLwuHzxooCuqQB4) | [Olaf\-O](https://open.spotify.com/artist/0NwymclSZLMHfpImTbLTj8), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Vuelvo a comenzar](https://open.spotify.com/album/0t2JSeC8p79qVLNXZ4yLpH) | 4:08 |
+| 43 | [u da one](https://open.spotify.com/track/3vou92sb4ezJ5XP8J3Ar6L) | [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9), [Hitalot](https://open.spotify.com/artist/1CEtMW7FUysM7Le5wdNwSA), [Michaela Fano](https://open.spotify.com/artist/7HRqGghJV95hgMIuRligBR) | [u da one](https://open.spotify.com/album/3Hk7hHLZE2DNfihJheOcHT) | 3:45 |
 | 44 | [Como Tú](https://open.spotify.com/track/4gaC3jGd5fLaodTP8GSlDy) | [Sol Makena](https://open.spotify.com/artist/7tfxg0TmkcYyzq87WwcPL3) | [Como Tú](https://open.spotify.com/album/1DVkLElUfsqWWop0zRNLRc) | 2:30 |
 | 45 | [Fluye](https://open.spotify.com/track/08cB5cxAoEP2odvWjOFSA6) | [SilverPoppy](https://open.spotify.com/artist/1vk28RZoUjlCNwJlirsJXv), [Shaeta](https://open.spotify.com/artist/0CG9eef9JqksLsgNjcdC8h), [Insert Soul](https://open.spotify.com/artist/1881wAudoT8hotL7FS4zIH) | [Fluye](https://open.spotify.com/album/5qHsbok31cDhHmiL9EFF3D) | 3:47 |
 | 46 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [C\-408](https://open.spotify.com/track/7CeShaWbO4GyGt5Ykl0yuT) | [Aurel Luna](https://open.spotify.com/artist/0FOr9PBT5SuqNPS2C3mLgk) | [C\-408](https://open.spotify.com/album/78c1wvr9ZYQrt3BNY1qZU9) | 3:54 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NTg3NTYwMCwwMDAwMDAwMGUxYmFmMTEyYzFhNDMxYmZjNzBlZTIxMzQxOWVkMDNm`
+Snapshot ID: `MTY3NTg3NTYwMCwwMDAwMDAwMGZiNDlmYjkwYjZmZTdiNTM5YTEwNDYwYzM3MTdhMDBk`

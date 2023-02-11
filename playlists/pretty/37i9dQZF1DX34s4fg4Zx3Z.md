@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: GPG msmy; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,294 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,306 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 14 | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:48 |
 | 15 | [Dòng Trạng Thái](https://open.spotify.com/track/2Rkvl9xG0kOTzl02dgqXUl) | [Dưa Hấu](https://open.spotify.com/artist/0qC7JEr3nCeTF2SqXE0lEl), [Phạm Nhật Quyên](https://open.spotify.com/artist/74GBbWRinAwdui1NVtTg7c), [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Dòng Trạng Thái](https://open.spotify.com/album/3lsqf5u5IjTrXDqnMfuW19) | 4:26 |
 | 16 | [Em Có Yêu Anh Không](https://open.spotify.com/track/6XOvB3hUTXcI3I4RZtzvwp) | [BILLTRUYEN](https://open.spotify.com/artist/5RkLanqnO2E3doaYEFJDNx) | [Em Có Yêu Anh Không](https://open.spotify.com/album/7nOL07PHoUC3X1VEK8zq7M) | 3:08 |
-| 17 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [TheAnh28 Media](https://open.spotify.com/artist/5MZLLM6L8mr7emUrwcf45i), [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
+| 17 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
 | 18 | [Bầu Trời Năm Ấy \(feat\. Hast & Anfang\)](https://open.spotify.com/track/00ycwfeLGXsbvrRNl9mYOy) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [Anfang](https://open.spotify.com/artist/2dS7UBhWnNulqF6vSUzKpA) | [Bầu Trời Năm Ấy \(feat\. Hast & Anfang\)](https://open.spotify.com/album/2f6J28a7bK3Cx7XUJd0TYl) | 4:11 |
 | 19 | [Của em mà không phải của em](https://open.spotify.com/track/0mcllzLn6unF1NcU8Da5XF) | [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu) | [Của em mà không phải của em](https://open.spotify.com/album/5eGK5ugbBBsIc6DRd9vn7Q) | 3:21 |
 | 20 | [Chưa từng lớn](https://open.spotify.com/track/3BhplNaW7h0iQmxYnZYq5W) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Chưa từng lớn](https://open.spotify.com/album/098phzLpy6PyGhoaR2Af19) | 3:25 |

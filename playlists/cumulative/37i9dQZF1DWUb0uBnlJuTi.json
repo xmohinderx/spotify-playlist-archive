@@ -2387,6 +2387,32 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI"
+      },
+      "artists": [
+        {
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Jared Gold",
+          "url": "https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW"
+        },
+        {
+          "name": "McClenty Hunter Jr.",
+          "url": "https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316106,
+      "name": "Mac (feat. Jared Gold & McClenty Hunter Jr.)",
+      "url": "https://open.spotify.com/track/5vAXscu4cOsbjL3VWu7Bc7"
+    },
+    {
+      "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
         "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
       },
@@ -3508,7 +3534,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 318660,
       "name": "Rock and Clap - Instrumental",
       "url": "https://open.spotify.com/track/3oEgsFby908LnVyx0rbvgc"
@@ -3646,6 +3672,24 @@
       "duration_ms": 192527,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/4ttyuisGzPrVAAfAeTmbXC"
+    },
+    {
+      "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/44QNn43CMkEyzWvbr1lW8v"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284148,
+      "name": "Sanchez",
+      "url": "https://open.spotify.com/track/75pHHXVMycJIX961oCotoW"
     },
     {
       "album": {
@@ -4212,7 +4256,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"

@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 20573,
+  "num_followers": 20590,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMDNmZDdmY2QzYmZkOTdjY2NhZTY5ZTUzZmI1NmQ3YmJj",
+  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMDdlZjVkYzk5YzJlYzc5YzViNDEyZDlkYTdiMzk4YzQ4",
   "tracks": [
     {
       "added_at": "2023-02-03 03:37:52",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "Ain't Feelin Us",
+        "url": "https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 153025,
+      "name": "Ain't Feelin Us",
+      "url": "https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 154536,
       "name": "Little Homie",
       "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "Ain't Feelin Us",
-        "url": "https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 153025,
-      "name": "Ain't Feelin Us",
-      "url": "https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/7DqVpahFrtFI1cFHBvMdXr"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "El Cantante",
+        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
       },
       "artists": [
         {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+          "name": "CRIMEAPPLE",
+          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
         }
       ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+      "duration_ms": 207000,
+      "name": "Cosos",
+      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
     },
     {
       "added_at": "2023-02-03 03:37:52",
@@ -355,22 +371,6 @@
       "duration_ms": 141240,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
-        "name": "El Cantante",
-        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
-      },
-      "artists": [
-        {
-          "name": "CRIMEAPPLE",
-          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cosos",
-      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
     },
     {
       "added_at": "2023-02-03 03:37:52",

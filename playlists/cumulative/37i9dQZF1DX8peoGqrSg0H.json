@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BELL WARISARA",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NANON",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "My Angel (The Original Soundtrack \u201dBoyband The Series\u201d)",
+        "url": "https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd"
+      },
+      "artists": [
+        {
+          "name": "XI",
+          "url": "https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274871,
+      "name": "My Angel (The Original Soundtrack \u201dBoyband The Series\u201d)",
+      "url": "https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0"
+    },
+    {
+      "album": {
         "name": "My Ecstasy (feat. D GERRARD)",
         "url": "https://open.spotify.com/album/4Nfh20acMhUJd6pXWursAY"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 217600,
       "name": "My Ecstasy",
       "url": "https://open.spotify.com/track/1adZCcp1Zd0hCLwh6X2Oym"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 201200,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 207840,
       "name": "TOUCHDOWN (\u0e43\u0e01\u0e25\u0e49\u0e14\u0e32\u0e27)",
       "url": "https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC"
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 199756,
       "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d - Original soundtrack from \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9"
@@ -2843,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e21\u0e35 (DADD)",
+        "url": "https://open.spotify.com/album/3VU3OpwYZ5zpqE74jPzTcy"
+      },
+      "artists": [
+        {
+          "name": "KiRANA",
+          "url": "https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "\u0e1e\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e21\u0e35 (DADD)",
+      "url": "https://open.spotify.com/track/51XcWthCJU8nY22ARPHav8"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e01\u0e47\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1"
       },
@@ -3591,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a (Unidentified Wonder)",
+        "url": "https://open.spotify.com/album/3QLkXLzews4QBigdlowr9L"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228270,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a (Unidentified Wonder)",
+      "url": "https://open.spotify.com/track/6Y0JFB2V1spM9fKRsXWn07"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
         "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
@@ -4010,6 +4064,24 @@
       "duration_ms": 221917,
       "name": "\u0e2d\u0e35\u0e01\u0e19\u0e34\u0e14\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23 \u0e52\u0e54\u0e51\u0e50",
+        "url": "https://open.spotify.com/album/5zDrzXuzn43wPVBHP1RgWz"
+      },
+      "artists": [
+        {
+          "name": "LAZ1",
+          "url": "https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "\u0e2d\u0e38\u0e4a\u0e22 \u0e04\u0e38\u0e13\u0e1e\u0e23\u0e30! (OMG) - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23 \u0e52\u0e54\u0e51\u0e50",
+      "url": "https://open.spotify.com/track/7lot4QSMg4UH0xXRwAov6S"
     },
     {
       "album": {

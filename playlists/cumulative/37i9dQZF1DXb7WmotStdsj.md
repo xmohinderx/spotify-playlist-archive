@@ -4,17 +4,18 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-136 songs - 10 hr 59 min
+137 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3adyani Bel Gros \- Remix Master T](https://open.spotify.com/track/1Z3UznHCGkclMLMOBRxeHN) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Master T](https://open.spotify.com/artist/6zNY7V2iBFiUfOXTSNwA15) | [3adyani Bel Gros \(Remix Master T\)](https://open.spotify.com/album/0RdUojL9QBTuDHECRDrGFt) | 3:46 | 2021-10-19 | 2022-12-07 |
 | [3inehom Mesawsa](https://open.spotify.com/track/4oPwHrcH1bhl2lOqNobnCY) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 3:50 | 2021-10-19 | 2022-07-29 |
 | [3inehom Mesawsa](https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 3:50 | 2022-05-11 |  |
-| [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 |  |
+| [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 | 2023-02-11 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 | 2022-08-25 |
 | [Alach ana manansach](https://open.spotify.com/track/65rxGidLak2RsVEl2vkMAM) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Alach ana manansach](https://open.spotify.com/album/2bOKrFNEjE5BZUaba94RyW) | 6:40 | 2022-09-20 | 2022-10-24 |
+| [Allah Ghaleb](https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Allah Ghaleb](https://open.spotify.com/album/5tz0bhi47zfLWciF35NHsW) | 5:11 | 2023-02-10 |  |
 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 | 2022-11-02 |
 | [Allo Gatli Nsani](https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Allo Gatli Nsani](https://open.spotify.com/album/1USeU5Fjj3Z5NPIVyOukQS) | 5:33 | 2022-10-30 |  |
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |

@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Cheo
+> Lo nuevo del mundo tropical\. Cover: Maffio & Luis Figueroa
 
-209 songs - 12 hr 43 min
+211 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,9 @@
 | [Fátima](https://open.spotify.com/track/75B7zCDMdOHkhUwrI4XZzm) | [Alméstica](https://open.spotify.com/artist/4cIhymlEkd4afP2e1rJ6oJ) | [Fátima](https://open.spotify.com/album/1LsGoVW1Tx1388Y3lysP3Z) | 4:38 | 2022-01-01 | 2022-06-30 |
 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 | 2022-08-12 |  |
 | [Goza Pelota](https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Goza Pelota](https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva) | 3:17 | 2022-01-01 | 2022-03-26 |
+| [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 | 2023-02-10 |  |
 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 | 2022-03-04 | 2022-06-30 |
+| [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 |  |
 | [inexplorado](https://open.spotify.com/track/2fXu56oDbvq1DWP6ZFlHVI) | [Savi](https://open.spotify.com/artist/1Evvp2uRCiq188dEeyUvpP) | [TUNES](https://open.spotify.com/album/72kTLeYTpvRgwJxUYUb8t8) | 2:48 | 2022-03-04 | 2022-06-30 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-29 |  |
 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 | 2022-01-01 | 2022-06-30 |
@@ -168,7 +170,7 @@
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/5c5iWSKvsgGj74RF0ofhsX) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 3:19 | 2022-06-29 | 2022-07-20 |
 | [Se Va a Beber](https://open.spotify.com/track/7nthB8BE4K8aTYJcw1M1iV) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Se Va a Beber](https://open.spotify.com/album/5aZmDgnv8aUx5B2Ir7VYYT) | 3:39 | 2022-01-28 | 2022-06-30 |
 | [Ser Feliz](https://open.spotify.com/track/6yCl5sFcpDHT22TePqnBQ9) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Aymee Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY) | [Ser Feliz](https://open.spotify.com/album/1350bThlLzMSZak6rzX2ZM) | 4:49 | 2022-01-01 | 2022-01-29 |
-| [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 | 2022-07-19 |  |
+| [SexToy](https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [SexToy](https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB) | 3:53 | 2022-07-19 | 2023-02-11 |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-01-01 | 2022-06-30 |
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-09 | 2023-01-28 |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-11-28 |  |
@@ -192,7 +194,7 @@
 | [Te Supe Amar](https://open.spotify.com/track/2EGuSoq0VeRdczcg3KqsDz) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Agonía](https://open.spotify.com/album/029vCRAUGLv5z6IqivwXRI) | 2:57 | 2022-01-01 | 2022-01-29 |
 | [Tengo Ganas](https://open.spotify.com/track/5Ihw9hDRGBDxS39ASUXg5v) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Tengo Ganas](https://open.spotify.com/album/4aTjVjqLbli8O4DNSn85Ce) | 5:20 | 2022-01-01 | 2022-06-30 |
 | [Tu](https://open.spotify.com/track/2bsqxGvy8NZUspOL9rRazN) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Bachata Queen](https://open.spotify.com/album/43RLdTuJFdB1AdlJQ9xI7m) | 4:55 | 2022-01-01 | 2022-01-29 |
-| [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 | 2022-06-29 |  |
+| [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 | 2022-06-29 | 2023-02-11 |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-02-11 | 2022-06-30 |
 | [Tu y Yo](https://open.spotify.com/track/06hD30iJU6ZumfH0k4YyIi) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Tu y Yo](https://open.spotify.com/album/1iftc4u0mOHPH5cdkZb9eO) | 4:32 | 2022-01-01 | 2022-04-29 |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-01-01 | 2022-06-30 |

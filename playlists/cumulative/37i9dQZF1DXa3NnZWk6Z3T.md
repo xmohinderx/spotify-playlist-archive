@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-311 songs - 17 hr 57 min
+312 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2021-12-09 | 2022-10-28 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
-| [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 |  |
+| [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2023-02-11 |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-12-31 |
 | [Ay De Mi](https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR) | 2:49 | 2022-05-14 | 2022-10-28 |
 | [Ay de Mi!](https://open.spotify.com/track/4wI84MgkVbVyP9VQ8A8xIU) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/02j0e4gNaEeGdo4qK6fgfD) | 2:49 | 2022-04-07 | 2022-07-07 |
@@ -49,6 +49,7 @@
 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 |  |
 | [Bonita](https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:14 | 2021-12-09 |  |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-04-07 | 2022-09-22 |
+| [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 | 2023-02-10 |  |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2022-04-07 | 2022-10-28 |
 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 | 2022-09-21 |  |
 | [Bésame mucho \(Kiss Me a Lot\)](https://open.spotify.com/track/0Vgsuj9b5MdKup4zwaQZIQ) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame Mucho](https://open.spotify.com/album/64vqYa85KJSWGw3sbtcxbG) | 4:04 | 2021-12-09 | 2022-07-29 |

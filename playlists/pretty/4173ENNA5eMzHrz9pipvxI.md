@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X x Gabry Ponte x Alida
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,967 likes - 26 songs - 1 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,989 likes - 26 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 2 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj) | 2:33 |
 | 3 | [Lonely](https://open.spotify.com/track/4WvuwWrYyjoBUMKSXMqeMQ) | [Rockefeller](https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9) | [Lonely](https://open.spotify.com/album/78s2FPRgVCvO7O97S5JAhh) | 2:35 |
 | 4 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 |
-| 5 | [Somebody's Watching Me \- Hi\_Tack Remix](https://open.spotify.com/track/4F7zNWrje1QkEINAwU6x0m) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Somebody's Watching Me \(Hi\_Tack Remix\)](https://open.spotify.com/album/4eM4jrQtcqN0IPIODVu3Lb) | 2:30 |
+| 5 | [Somebody's Watching Me \- Hi\_Tack Remix](https://open.spotify.com/track/4F7zNWrje1QkEINAwU6x0m) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [Somebody's Watching Me \(Hi\_Tack Remix\)](https://open.spotify.com/album/4eM4jrQtcqN0IPIODVu3Lb) | 2:30 |
 | 6 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
 | 7 | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os) | 2:55 |
 | 8 | [Bring It Back](https://open.spotify.com/track/2O97OMWIHjOF5dqVYQMOX1) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Bring It Back](https://open.spotify.com/album/6N9ITWVJx76I2La3Q32Wop) | 3:06 |

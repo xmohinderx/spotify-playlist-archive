@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,089 likes - 212 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,383 likes - 212 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 211 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 |
 | 212 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
 
-Snapshot ID: `MTY3NTk4MzY2MCwwMDAwMDAwMDdmOTQ0MWMwOTJmY2Y3ZGUzYmY3YmUxZDA5ZDYwNGYz`
+Snapshot ID: `MTY3NjAxNjA2MiwwMDAwMDAwMGM3ZDA1YWU2MjE2YTllOGQ2MjNhMDA1NGFlOGExMjA5`

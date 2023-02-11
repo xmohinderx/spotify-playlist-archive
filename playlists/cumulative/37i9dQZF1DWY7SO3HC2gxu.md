@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-72 songs - 5 hr 38 min
+73 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bali](https://open.spotify.com/track/1cCCf8NobUwsf3t9frvVYY) | [DJ Arta](https://open.spotify.com/artist/5LoietQuQuzNohwfgAZj21) | [Bali](https://open.spotify.com/album/6X3DH5J53a5cjpjJXNse0i) | 1:50 | 2022-08-01 |  |
 | [Better Than You](https://open.spotify.com/track/2Me17iXbyoNrTt6DY11RhD) | [Tera Nitric](https://open.spotify.com/artist/2MWRCiYFXzeuFwWAmASsyi) | [Better Than You](https://open.spotify.com/album/6u1pOlol3DFCjcDBMqSimE) | 3:41 | 2022-09-30 |  |
 | [Body Goals](https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Afro Wavy 3](https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ) | 1:52 | 2022-08-19 | 2022-12-10 |
-| [Changilo \- Tayllor Remix](https://open.spotify.com/track/281TWPHivsxPPg1nL4HTn5) | [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Changilo](https://open.spotify.com/album/0Pv3aIvB9sth1JSag2zWrx) | 6:21 | 2022-08-01 |  |
+| [Changilo \- Tayllor Remix](https://open.spotify.com/track/281TWPHivsxPPg1nL4HTn5) | [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Changilo](https://open.spotify.com/album/0Pv3aIvB9sth1JSag2zWrx) | 6:21 | 2022-08-01 | 2023-02-11 |
 | [Chills](https://open.spotify.com/track/2AYPYrXvtLkOzElD28svfr) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Chills](https://open.spotify.com/album/7sae1ej4tsPEHBBj80JWEh) | 2:52 | 2022-12-09 |  |
 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 | 2023-01-12 |  |
 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG), [Azazal](https://open.spotify.com/artist/71LY5vz7tLIHyUvmqQm52e) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 | 2023-01-26 |  |
@@ -41,6 +41,7 @@
 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 | 2022-08-01 |  |
 | [Meremeta \- Original Mix](https://open.spotify.com/track/1RtNC1Fzwk82d0agNBbxu5) | [DJ IC](https://open.spotify.com/artist/5m0mPka5wvWns733bGWIHz), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meremeta](https://open.spotify.com/album/4kF0kWybn8DTeASl6Dt27G) | 5:48 | 2022-08-01 | 2023-01-13 |
 | [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 | 2023-01-12 |  |
+| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-10 |  |
 | [Mohawk Man](https://open.spotify.com/track/3E0T81r9gsMNNdX4BKSRM5) | [Mtsepisto](https://open.spotify.com/artist/7GKJKoCggjyP6C6xclndbF), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mohawk Man](https://open.spotify.com/album/6qsPYcaf7KJNgZ4Lk7KldH) | 8:00 | 2022-08-01 |  |
 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 | 2022-08-19 |  |
 | [Mwizi I](https://open.spotify.com/track/5a63J7bbhFrVvMBra0Gsne) | [Nabalayo](https://open.spotify.com/artist/6VLoIsF1KmrGxa5f2y0Uyz), [NKC](https://open.spotify.com/artist/07SeyItME34CSi1sZ4GYF4) | [Mwizi](https://open.spotify.com/album/2EdL2lTcgDGursdwYZq5t6) | 3:34 | 2022-08-01 | 2022-11-12 |

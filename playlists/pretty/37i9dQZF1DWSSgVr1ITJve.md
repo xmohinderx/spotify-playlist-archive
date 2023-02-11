@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 ### [Afro Arab](https://open.spotify.com/playlist/37i9dQZF1DWSSgVr1ITJve)
 
-> Afro culture mixed with Arab vibes\. Cover: kouz1
+> Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,570 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,576 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
-| 2 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
-| 3 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
-| 4 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
-| 5 | [Man On Fire \- North Africa Remix](https://open.spotify.com/track/416C8Z5XpYe3Bw6ARnFieF) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Man On Fire \(North Africa Remix\)](https://open.spotify.com/album/3IdsPL40Zv0UQfWpCRoPtk) | 2:47 |
-| 6 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 |
-| 7 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 |
-| 8 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
-| 9 | [Malika](https://open.spotify.com/track/5zecrB7Yub6a6tHY3LFQq5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Malika](https://open.spotify.com/album/3uhcblhut5YjsCAt8XJKQ2) | 2:56 |
-| 10 | [Shwaya](https://open.spotify.com/track/5icfspjoebfUNF7gBYY8r0) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Don Fuego](https://open.spotify.com/artist/1yMnbFn2UuiDitvAcvPen5) | [Shwaya](https://open.spotify.com/album/7JiO5q933nOd6of0iMOg55) | 2:13 |
-| 11 | [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 |
-| 12 | [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 |
+| 1 | [3enek](https://open.spotify.com/track/6AaTlM8DYO8iT3DEeciiqh) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [3enek](https://open.spotify.com/album/7GeYslOHKhXrGf9rBwDnbf) | 3:33 |
+| 2 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
+| 3 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
+| 4 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
+| 5 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
+| 6 | [Man On Fire \- North Africa Remix](https://open.spotify.com/track/416C8Z5XpYe3Bw6ARnFieF) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Man On Fire \(North Africa Remix\)](https://open.spotify.com/album/3IdsPL40Zv0UQfWpCRoPtk) | 2:47 |
+| 7 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 |
+| 8 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 |
+| 9 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
+| 10 | [Malika](https://open.spotify.com/track/5zecrB7Yub6a6tHY3LFQq5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Malika](https://open.spotify.com/album/3uhcblhut5YjsCAt8XJKQ2) | 2:56 |
+| 11 | [Shwaya](https://open.spotify.com/track/5icfspjoebfUNF7gBYY8r0) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Don Fuego](https://open.spotify.com/artist/1yMnbFn2UuiDitvAcvPen5) | [Shwaya](https://open.spotify.com/album/7JiO5q933nOd6of0iMOg55) | 2:13 |
+| 12 | [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 |
 | 13 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 |
 | 14 | [Malouf Aloyoon](https://open.spotify.com/track/1iPfE8bCIqQWqkL1Pu6eN7) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Malouf Aloyoon](https://open.spotify.com/album/2Qb6m4mcj9PXwNBf7l0FI2) | 3:09 |
 | 15 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY3NTY2OTUwNiwwMDAwMDAwMGM2MGVkZjBmZWFiYjc1MGVmNDE0NzIxNGUxMmNlZGFh`
+Snapshot ID: `MTY3NjAxODIwMiwwMDAwMDAwMDg3NDQ3ZjI2MjJiZWNhZmYxMmY3YmEyMmIzMDU0ZjY4`

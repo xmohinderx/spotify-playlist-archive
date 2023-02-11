@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,976 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,014 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 10 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 11 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 |
 | 12 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
-| 13 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 |
+| 13 | [Balenciaga](https://open.spotify.com/track/5f59qc0hVUXC3sUsHi3F7b) | [rufflws](https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp), [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d), [oktxy](https://open.spotify.com/artist/4s743HjUjTe3b5YwJiEn8D) | [Balenciaga](https://open.spotify.com/album/3vprTslTtdgvd6vppK5JT4) | 2:48 |
 | 14 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 15 | [Aap Jaisa Koi \(From "An Action Hero"\)](https://open.spotify.com/track/0SONddnho2KyMgAoaVd4Wk) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Aap Jaisa Koi \(From "An Action Hero"\)](https://open.spotify.com/album/6nR97VpgmRofNSX7YeDItC) | 2:58 |
 | 16 | [OOPS \(feat\. Masked Wolf\)](https://open.spotify.com/track/10gKUrPM1XAvLeMtVdmn8w) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [OOPS \(feat\. Masked Wolf\)](https://open.spotify.com/album/5DaEs5QojfHjfVDGJERW3R) | 2:43 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 33 | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM) | 2:47 |
 | 34 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
 
-Snapshot ID: `MTY3NDUzOTEwMiwwMDAwMDAwMGNlMWU2MGZmNDM2NTBiNTIxZDRmMWFmMTg1YTE3NzM3`
+Snapshot ID: `MTY3NDUzOTEwMiwwMDAwMDAwMDcwY2Q0MTc1ZWU3YjIzMzRjNmY0ZTk4MjZmYjQ3N2Fj`

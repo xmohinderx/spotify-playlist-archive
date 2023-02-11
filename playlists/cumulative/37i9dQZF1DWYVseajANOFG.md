@@ -2,9 +2,9 @@
 
 ### [Flow Panamá](https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG)
 
-> Así suena la música urbana de Panamá hoy\. Foto: Jorkan
+> Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-130 songs - 7 hr 47 min
+132 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 | 2022-11-25 |  |
 | [Jockey](https://open.spotify.com/track/01SMtfSbJlcxUdJvOofMOx) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Jockey](https://open.spotify.com/album/5whLdXZ586HK7NyNwItLtT) | 3:41 | 2022-03-11 | 2022-06-25 |
 | [Kiwi Fresa](https://open.spotify.com/track/2sHDyVva4IgO7ETfuhfV3z) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [Kiwi Fresa](https://open.spotify.com/album/53rwtTyWs43mW083vNbrLH) | 2:06 | 2022-07-01 | 2022-07-30 |
+| [LA DUEÑA](https://open.spotify.com/track/2FgTQUokrDl1OsHorgfPyc) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BAD GYAL RIDDIM](https://open.spotify.com/album/0Sl66un5vjC2a2KerGwlJ7) | 1:20 | 2023-02-10 |  |
 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 | 2022-09-09 | 2022-09-24 |
 | [La Junta](https://open.spotify.com/track/28fv6mJMnoJvsJRZd8RlRK) | [Sara Castro](https://open.spotify.com/artist/3VeLYBhffrMkGWzNfNa4os), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [La Junta](https://open.spotify.com/album/4Auwl9DuqJmn4lAZ2CveiI) | 3:06 | 2022-03-11 | 2022-05-20 |
 | [La Sesión \#47](https://open.spotify.com/track/3X8NRejOXJ0gKzDC6qVzn6) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa), [Alberto Sandino](https://open.spotify.com/artist/1g7k0SBYc922yRdRPmFg47), [Directed by Karma](https://open.spotify.com/artist/5bgxAPHQ7LSyVnnxsEKxQR) | [La Sesión \#47](https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm) | 3:03 | 2022-03-11 |  |
@@ -80,6 +81,7 @@
 | [Mi Favorita](https://open.spotify.com/track/31lrCoErt3r4bC5kaIFB03) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:41 | 2022-06-24 | 2022-07-23 |
 | [Mi fren](https://open.spotify.com/track/6kSHlXlrzC3WKPzzXFZGwv) | [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [Mi fren](https://open.spotify.com/album/1X1xgm19Re4UxubGOeSTkZ) | 3:17 | 2022-03-11 |  |
 | [Mi Porno](https://open.spotify.com/track/4jPVERl67DAlRmtq3VmkXr) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Dj Bobby Music](https://open.spotify.com/artist/1BmoSmdCQIfkwMKwBzdRX8) | [Mi Porno](https://open.spotify.com/album/4goZzZxKJf4qO9MJIRfpiM) | 3:24 | 2022-03-11 | 2022-07-09 |
+| [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 | 2023-02-10 |  |
 | [Movie](https://open.spotify.com/track/0yqJp8j8GbUuY5mSKWk3QF) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 3:30 | 2022-03-11 |  |
 | [Movie \(feat\. Yemil & Akim\) \- Remix](https://open.spotify.com/track/1kvfpYpt8omN84qv9vBSFi) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Akim](https://open.spotify.com/artist/0cV5qoQUIKriYkYIGQLJ67), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [Movie \(feat\. Yemil & Akim\) \[Remix\]](https://open.spotify.com/album/7cQAfmeSBbyx4EsMmKgM8v) | 5:32 | 2022-06-24 |  |
 | [Movimiento de Cadera](https://open.spotify.com/track/4mUPNOMJIQgq1XaAORkb0D) | [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa) | [Movimiento de Cadera](https://open.spotify.com/album/7qSqeESRWmdkLEnyRXc5hP) | 3:20 | 2022-03-11 | 2022-11-12 |
@@ -135,8 +137,8 @@
 | [UN BAILECITO](https://open.spotify.com/track/6KucQTkLYN2UPf0vAQnDH0) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [UN BAILECITO](https://open.spotify.com/album/3wcbdEdyOagmzuwzAyp1T1) | 2:17 | 2022-11-11 | 2023-01-14 |
 | [Un Ghetto](https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Un Ghetto](https://open.spotify.com/album/4KcXo9upSBiiaYDeXho5RG) | 3:52 | 2022-03-11 | 2022-07-30 |
 | [UNA VAINA LOKA](https://open.spotify.com/track/5yTkmQFKrr3raDab181y59) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [UNA VAINA LOKA](https://open.spotify.com/album/3t8eLQtAhxczyuHdrSIQeR) | 2:40 | 2022-09-23 | 2022-10-29 |
-| [Van Duro](https://open.spotify.com/track/3rBITsfts82foOS58VKMoj) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Van Duro](https://open.spotify.com/album/6oKY7iRFgtDnSW74ejypiF) | 2:35 | 2023-01-27 |  |
-| [XOXO](https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag) | 4:38 | 2023-01-20 |  |
+| [Van Duro](https://open.spotify.com/track/3rBITsfts82foOS58VKMoj) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Van Duro](https://open.spotify.com/album/6oKY7iRFgtDnSW74ejypiF) | 2:35 | 2023-01-27 | 2023-02-11 |
+| [XOXO](https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag) | 4:38 | 2023-01-20 | 2023-02-11 |
 | [XOXO \(Piso 33\)](https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO \(Piso 33\)](https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F) | 4:35 | 2023-01-27 | 2023-02-03 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

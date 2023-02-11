@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: Nostalgix
+> Real nasty house\. Cover: FETISH
 
-387 songs - 20 hr 41 min
+389 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-04-23 |
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |
+| [DOJA](https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [DOJA](https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL) | 2:37 | 2023-02-11 |  |
 | [Doubt](https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Doubt](https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5) | 3:24 | 2022-11-18 |  |
 | [Downstairs \(feat\. Jaquell\) \- AC Slater Remix](https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Downstairs \(feat\. Jaquell\) \[Remixes\]](https://open.spotify.com/album/6H2fT3UlOqvPog8j9xHnu6) | 3:20 | 2021-10-29 | 2022-01-22 |
 | [Drop The Top](https://open.spotify.com/track/1hYhtilcZAOXEIG4GuolxY) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Drop The Top](https://open.spotify.com/album/0VA36eUPG0iME35swH0PhQ) | 2:45 | 2021-10-29 | 2022-07-30 |
@@ -150,7 +151,7 @@
 | [Get Down](https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Night Bass](https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw) | [Night Bass Freshmen Vol 7](https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 | 2022-11-25 |
-| [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 | 2022-07-22 |  |
+| [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 | 2022-07-22 | 2023-02-11 |
 | [Get Twisted](https://open.spotify.com/track/3fRBE44FFj6EXPtn4gXjXw) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/29xrShNnE0LyzZgDJQsEJF) | 3:45 | 2022-03-18 | 2022-10-13 |
 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 | 2022-01-21 |  |
 | [Girls](https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Girls](https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC) | 3:06 | 2021-10-29 | 2022-05-07 |
@@ -241,7 +242,7 @@
 | [MIRRORS](https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [MIRRORS](https://open.spotify.com/album/05z888GjArijqttcX87svP) | 2:37 | 2022-11-18 |  |
 | [Monseigneur \(feat\. Tony Romera\)](https://open.spotify.com/track/5X0A7PWXS8j0QvA16rxMrl) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:07 | 2021-10-29 | 2022-05-28 |
 | [Mother Nature \(feat\. NOISY\)](https://open.spotify.com/track/45ZOQlyz2XJpQREyKWzhe7) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Mother Nature \(feat\. NOISY\)](https://open.spotify.com/album/5iBuEMy64cJ7iXzuNUAj8l) | 2:35 | 2021-10-29 | 2022-07-30 |
-| [Move](https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Move](https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0) | 4:13 | 2022-08-12 |  |
+| [Move](https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Move](https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0) | 4:13 | 2022-08-12 | 2023-02-11 |
 | [Move It](https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Move It](https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo) | 2:20 | 2022-06-10 | 2022-10-12 |
 | [Move Like Dolphin](https://open.spotify.com/track/5npvPgwC0AuJlneOgS5Uks) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Move Like Dolphin](https://open.spotify.com/album/20sqAzgCvIxBLer9x2qE3f) | 2:14 | 2021-10-29 | 2022-05-07 |
 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 | 2022-02-04 |  |
@@ -381,6 +382,7 @@
 | [What You Want](https://open.spotify.com/track/0O17nRSKj3UHsbrB2YB2Z3) | [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [What You Want](https://open.spotify.com/album/0SBrGz1txEjOj2AScVNo5g) | 2:38 | 2022-09-30 | 2023-01-09 |
 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 | 2021-10-29 |  |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 |  |
+| [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 |  |
 | [Wolf](https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Sad Money](https://open.spotify.com/artist/1jROQOzEAuW47ItjQ5FwCQ), [Cook Thugless](https://open.spotify.com/artist/6nP9APsxfZXjwl4vl3e3DF) | [Wolf](https://open.spotify.com/album/4ffsuX1oMvA5cbSgAyMmIv) | 2:47 | 2021-10-29 |  |
 | [WORD \- Chris Lorenzo Remix](https://open.spotify.com/track/2JB8ohu4iJ5MlFwHa80zQ4) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [WORD \(Chris Lorenzo Remix\)](https://open.spotify.com/album/2uDDeA29GAHbclNjMXx9zZ) | 4:23 | 2021-10-29 | 2022-01-21 |
 | [Work](https://open.spotify.com/track/4M18OdtsLfA8s8EUZBDT3j) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Work](https://open.spotify.com/album/4K4c9BLGYDGmNXdlE1VDdN) | 3:35 | 2021-10-29 | 2022-01-21 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with RUMTUM on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 101330,
+  "num_followers": 101370,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NDI3MywwMDAwMDAwMGVkMDRiYzBlMThkYWIxNTg4ZGExOTFjZTJhOTVhNjcw",
+  "snapshot_id": "MTY3NTk0NDI3MywwMDAwMDAwMDMxOTk0YWUzM2IzZTFiMGQxNWIzNzE0OGQ3NjkwOGQz",
   "tracks": [
     {
       "added_at": "2023-02-01 16:47:43",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Pripyat",
-        "url": "https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE"
-      },
-      "artists": [
-        {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "shaolin mantis",
-      "url": "https://open.spotify.com/track/18W1HggaYRN0PZpEvHrKu6"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "yes/and",
         "url": "https://open.spotify.com/album/0RUFgBFhpc8uiYtgY9KBCk"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4h0b9WP2RCf4araoVaSj3J"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Pripyat",
+        "url": "https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "shaolin mantis",
+      "url": "https://open.spotify.com/track/18W1HggaYRN0PZpEvHrKu6"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Pripyat",
+        "url": "https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 243765,
+      "name": "miu",
+      "url": "https://open.spotify.com/track/0ePxY9h4xNghuW4BqI2dog"
+    },
+    {
       "added_at": "2023-02-01 16:47:43",
       "album": {
         "name": "Tous Ensemble",
@@ -201,38 +217,6 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Pripyat",
-        "url": "https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE"
-      },
-      "artists": [
-        {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
-        }
-      ],
-      "duration_ms": 243765,
-      "name": "miu",
-      "url": "https://open.spotify.com/track/0ePxY9h4xNghuW4BqI2dog"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "In Spring",
-        "url": "https://open.spotify.com/album/5ExOfOHnAdkjM83kB9Ljlw"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 306227,
-      "name": "In Spring",
-      "url": "https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "After Dark 4",
@@ -249,36 +233,20 @@
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Echo Drift",
-        "url": "https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 199894,
-      "name": "Echo Drift",
-      "url": "https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+        "name": "In Spring",
+        "url": "https://open.spotify.com/album/5ExOfOHnAdkjM83kB9Ljlw"
       },
       "artists": [
         {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
         }
       ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+      "duration_ms": 306227,
+      "name": "In Spring",
+      "url": "https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -299,6 +267,38 @@
       "duration_ms": 174994,
       "name": "replicant",
       "url": "https://open.spotify.com/track/51GNtvHhIDxbUgfRXrpbnn"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Echo Drift",
+        "url": "https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/1HCFSICghZJmtEOLOdduqI"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/3Q2xvo5lP4pTq2bar4acux"
+    },
+    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Icons",
@@ -515,38 +531,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Hansel and Gretel",
-        "url": "https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z"
-      },
-      "artists": [
-        {
-          "name": "Mercy Necromancy",
-          "url": "https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Hansel and Gretel",
-      "url": "https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "The Truth Is",
-        "url": "https://open.spotify.com/album/1HCFSICghZJmtEOLOdduqI"
-      },
-      "artists": [
-        {
-          "name": "Cameron Morse",
-          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
-        }
-      ],
-      "duration_ms": 402356,
-      "name": "The Fifty",
-      "url": "https://open.spotify.com/track/3Q2xvo5lP4pTq2bar4acux"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Go Oli Go! / Cartoon Smile",
         "url": "https://open.spotify.com/album/2cr9euqVLH30Y7sWFKLriB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 262770,
       "name": "Go Oli Go!",
       "url": "https://open.spotify.com/track/3MLXwPXiPFTEoGoh9uRp6K"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Hansel and Gretel",
+        "url": "https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z"
+      },
+      "artists": [
+        {
+          "name": "Mercy Necromancy",
+          "url": "https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Hansel and Gretel",
+      "url": "https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/5wEKnz6PAPW37NL5TgzX54"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "caldera",
-        "url": "https://open.spotify.com/album/4wyDYSYCnGstIjNO52WlYB"
-      },
-      "artists": [
-        {
-          "name": "ell!psis",
-          "url": "https://open.spotify.com/artist/7t1UvvGyjeabOYMJzFY5xp"
-        }
-      ],
-      "duration_ms": 131600,
-      "name": "caldera",
-      "url": "https://open.spotify.com/track/1yEiUh040BuVgk26EpVAcd"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Meditation on a Sequence",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-11 14:45:51",
       "album": {
-        "name": "3210",
-        "url": "https://open.spotify.com/album/1IzRhtMPkgJDrgLW4WdW7I"
+        "name": "caldera",
+        "url": "https://open.spotify.com/album/4wyDYSYCnGstIjNO52WlYB"
       },
       "artists": [
         {
-          "name": "Sl8r",
-          "url": "https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR"
+          "name": "ell!psis",
+          "url": "https://open.spotify.com/artist/7t1UvvGyjeabOYMJzFY5xp"
         }
       ],
-      "duration_ms": 290666,
-      "name": "3210",
-      "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
+      "duration_ms": 131600,
+      "name": "caldera",
+      "url": "https://open.spotify.com/track/1yEiUh040BuVgk26EpVAcd"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -727,6 +711,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "3210",
+        "url": "https://open.spotify.com/album/1IzRhtMPkgJDrgLW4WdW7I"
+      },
+      "artists": [
+        {
+          "name": "Sl8r",
+          "url": "https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "3210",
+      "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/4vKeomIq5cLAS6cr1Wvmeb"
     },
     {
-      "added_at": "2022-11-09 13:51:20",
-      "album": {
-        "name": "Burundanger",
-        "url": "https://open.spotify.com/album/0PtH1S5mty6k0ksAVNNlF7"
-      },
-      "artists": [
-        {
-          "name": "Quixosis",
-          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
-        }
-      ],
-      "duration_ms": 251506,
-      "name": "Burundanger 2",
-      "url": "https://open.spotify.com/track/5nNXm40EERTJ7By4wNtIxE"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "SEIM",
@@ -801,20 +785,20 @@
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
+      "added_at": "2022-11-09 13:51:20",
       "album": {
-        "name": "Insomnia EP",
-        "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
+        "name": "Burundanger",
+        "url": "https://open.spotify.com/album/0PtH1S5mty6k0ksAVNNlF7"
       },
       "artists": [
         {
-          "name": "Senchai",
-          "url": "https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0"
+          "name": "Quixosis",
+          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
+      "duration_ms": 251506,
+      "name": "Burundanger 2",
+      "url": "https://open.spotify.com/track/5nNXm40EERTJ7By4wNtIxE"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -865,6 +849,22 @@
       "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Insomnia EP",
+        "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
+      },
+      "artists": [
+        {
+          "name": "Senchai",
+          "url": "https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
+    },
+    {
       "added_at": "2023-02-01 16:47:43",
       "album": {
         "name": "Fatima",
@@ -879,22 +879,6 @@
       "duration_ms": 339500,
       "name": "Fatima's Poplar",
       "url": "https://open.spotify.com/track/0XWldQSPFGe8lZGgfB4xs6"
-    },
-    {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "The Blissful Sounds of Miracula",
-        "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
-      },
-      "artists": [
-        {
-          "name": "oedipus apartment complex",
-          "url": "https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe"
-        }
-      ],
-      "duration_ms": 215257,
-      "name": "The Blissful Sounds (Title Track)",
-      "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
     },
     {
       "added_at": "2022-11-09 13:51:20",
@@ -917,6 +901,22 @@
       "url": "https://open.spotify.com/track/7lCFqlVFKkYQUhvk5oozO3"
     },
     {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "The Blissful Sounds of Miracula",
+        "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
+      },
+      "artists": [
+        {
+          "name": "oedipus apartment complex",
+          "url": "https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe"
+        }
+      ],
+      "duration_ms": 215257,
+      "name": "The Blissful Sounds (Title Track)",
+      "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
+    },
+    {
       "added_at": "2022-11-09 13:51:20",
       "album": {
         "name": "Desire Path",
@@ -935,6 +935,26 @@
       "duration_ms": 187263,
       "name": "Caminos del Deseo",
       "url": "https://open.spotify.com/track/49UKllabcizp6N5fDzxP4D"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Selkie",
+        "url": "https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        },
+        {
+          "name": "Liyv",
+          "url": "https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Selkie",
+      "url": "https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -993,26 +1013,6 @@
       "url": "https://open.spotify.com/track/7d7b263tDNwFYsZpAvFdbq"
     },
     {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Selkie",
-        "url": "https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt"
-      },
-      "artists": [
-        {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
-        },
-        {
-          "name": "Liyv",
-          "url": "https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Selkie",
-      "url": "https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "NON-BACKGROUND MUSIC",
@@ -1043,6 +1043,22 @@
       "duration_ms": 215666,
       "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
       "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Toquei no Sol",
+        "url": "https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb"
+      },
+      "artists": [
+        {
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
+        }
+      ],
+      "duration_ms": 342386,
+      "name": "Toquei no Sol",
+      "url": "https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1105,38 +1121,6 @@
       "url": "https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Weekly Releases 2023",
-        "url": "https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL"
-      },
-      "artists": [
-        {
-          "name": "Mindtality",
-          "url": "https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Crows Nest",
-      "url": "https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Toquei no Sol",
-        "url": "https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb"
-      },
-      "artists": [
-        {
-          "name": "Marlene Ribeiro",
-          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
-        }
-      ],
-      "duration_ms": 342386,
-      "name": "Toquei no Sol",
-      "url": "https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Leidenzwang",
@@ -1151,6 +1135,22 @@
       "duration_ms": 290500,
       "name": "Nabelschnurtanz",
       "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Weekly Releases 2023",
+        "url": "https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL"
+      },
+      "artists": [
+        {
+          "name": "Mindtality",
+          "url": "https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Crows Nest",
+      "url": "https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "imagine naked!",
+        "url": "https://open.spotify.com/album/4lh0aaeNMTfhI5I10edLmb"
+      },
+      "artists": [
+        {
+          "name": "OHYUNG",
+          "url": "https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG"
+        }
+      ],
+      "duration_ms": 319446,
+      "name": "to fill the quiet!",
+      "url": "https://open.spotify.com/track/0ZgWsTr3OuQ79hE88oINvT"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "INTROSPECTIO",
         "url": "https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 307826,
       "name": "CHOREA DUPLEX",
       "url": "https://open.spotify.com/track/4yxbe1sfI9QdPIUihlvCwc"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "imagine naked!",
-        "url": "https://open.spotify.com/album/4lh0aaeNMTfhI5I10edLmb"
-      },
-      "artists": [
-        {
-          "name": "OHYUNG",
-          "url": "https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG"
-        }
-      ],
-      "duration_ms": 319446,
-      "name": "to fill the quiet!",
-      "url": "https://open.spotify.com/track/0ZgWsTr3OuQ79hE88oINvT"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/13NA43NS3lFqwzGOO4Y2nL"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "OUT OF THIS WORLD",
-        "url": "https://open.spotify.com/album/69n01B4dzNMnlZxhQnGrd1"
-      },
-      "artists": [
-        {
-          "name": "Hyas",
-          "url": "https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA"
-        }
-      ],
-      "duration_ms": 272600,
-      "name": "Moonboots",
-      "url": "https://open.spotify.com/track/57VTFuFeCLbpwijqPX6h4m"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Isles in Indigo",
@@ -1299,6 +1283,22 @@
       "duration_ms": 145774,
       "name": "I Can't Die as Well",
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "OUT OF THIS WORLD",
+        "url": "https://open.spotify.com/album/69n01B4dzNMnlZxhQnGrd1"
+      },
+      "artists": [
+        {
+          "name": "Hyas",
+          "url": "https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA"
+        }
+      ],
+      "duration_ms": 272600,
+      "name": "Moonboots",
+      "url": "https://open.spotify.com/track/57VTFuFeCLbpwijqPX6h4m"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -1333,6 +1333,38 @@
       "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Potentials",
+        "url": "https://open.spotify.com/album/2aLyjTjzAkJ9zri7aXVMRF"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Mc Pherson",
+          "url": "https://open.spotify.com/artist/0MVWdtgZhxX5VZFKoCMZjB"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Potentials",
+      "url": "https://open.spotify.com/track/2qRWeJMobkYAllXr9C0W0j"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "duration_ms": 420893,
+      "name": "Amalgamation",
+      "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
+    },
+    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Electric Forest",
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Potentials",
-        "url": "https://open.spotify.com/album/2aLyjTjzAkJ9zri7aXVMRF"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Mc Pherson",
-          "url": "https://open.spotify.com/artist/0MVWdtgZhxX5VZFKoCMZjB"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Potentials",
-      "url": "https://open.spotify.com/track/2qRWeJMobkYAllXr9C0W0j"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
         "name": "sit on the floor and wait for storms",
         "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 196015,
       "name": "sit on the floor and wait for storms",
       "url": "https://open.spotify.com/track/5Na0Vg74YJYuLHu3mb1wg3"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
-      },
-      "artists": [
-        {
-          "name": "DoomCannon",
-          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
-        }
-      ],
-      "duration_ms": 420893,
-      "name": "Amalgamation",
-      "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
     },
     {
       "added_at": "2022-11-30 13:45:00",

@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="hthttps://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=QLyvddz1ReGKK5ntDN5NvA"> Cruel Santino</a>
 
-324 songs - 16 hr 15 min
+325 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 | 2022-09-15 |  |
 | [Culture](https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD) | 3:28 | 2022-09-15 | 2022-12-29 |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-06-24 |
+| [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-10 |  |
 | [Dami Duro \- Spotify Singles](https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dami Duro \- Spotify Singles](https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE) | 3:20 | 2022-10-28 |  |
 | [Daylight](https://open.spotify.com/track/1RbQkmd0Y5kyAM78G86brd) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Daylight](https://open.spotify.com/album/49uRQvXnQht8Wk3mTiGjmw) | 3:30 | 2022-06-23 | 2022-07-08 |
 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-03 | 2022-09-16 |
@@ -121,7 +122,7 @@
 | [Genuine \(ft\. SOLIS\)](https://open.spotify.com/track/46siAqYfYeT5fWHStdXN28) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC), [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh) | [Jellyfish](https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg) | 2:39 | 2022-04-21 | 2022-10-29 |
 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 | 2022-04-21 |  |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 |  |
-| [Ghost](https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Ghost](https://open.spotify.com/album/5M0tWFBo6ItzgyrCmf0Av6) | 3:28 | 2022-12-02 |  |
+| [Ghost](https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Ghost](https://open.spotify.com/album/5M0tWFBo6ItzgyrCmf0Av6) | 3:28 | 2022-12-02 | 2023-02-11 |
 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 | 2022-06-30 | 2022-09-24 |
 | [Gone Girl](https://open.spotify.com/track/1rbHfInkbi8ZLQtds5nfd6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 4:13 | 2022-09-15 | 2022-11-13 |
 | [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 | 2022-06-30 |  |

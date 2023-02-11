@@ -2047,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Rarities - Quartets",
+        "url": "https://open.spotify.com/album/3swTCdwjqX6zpBHUtpJDgB"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153104,
+      "name": "Venerable Dilemma",
+      "url": "https://open.spotify.com/track/7LcLD9Mb1lHmkhMMfB3QXT"
+    },
+    {
+      "album": {
         "name": "Bach: Sei Solo",
         "url": "https://open.spotify.com/album/1SXqT1SWQWW4dXZHIc5VgC"
       },

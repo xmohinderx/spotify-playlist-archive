@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Cheo",
+  "description": "Lo nuevo del mundo tropical. Cover: Maffio & Luis Figueroa",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Herrera",
+        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157268,
+      "name": "Herrera",
+      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
+    },
+    {
+      "album": {
         "name": "Hoy en Dia",
         "url": "https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu"
       },
@@ -1502,6 +1520,32 @@
       "duration_ms": 226777,
       "name": "Hoy en Dia",
       "url": "https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn"
+    },
+    {
+      "album": {
+        "name": "Las Salsas",
+        "url": "https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "El Revul\u00fa",
+          "url": "https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173654,
+      "name": "Incomparable (feat. El Revul\u00fa)",
+      "url": "https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe"
     },
     {
       "album": {
@@ -3228,7 +3272,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 233269,
       "name": "SexToy",
       "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
@@ -3696,7 +3740,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 231500,
       "name": "Tu Juguete",
       "url": "https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke"

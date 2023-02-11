@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Majo y Dan",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Vaes",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -138,7 +138,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 185172,
       "name": "A Puerta Cerrada",
       "url": "https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 231341,
       "name": "Anoche Llegaste Tarde feat. Redimi2",
       "url": "https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3"
@@ -1384,6 +1384,36 @@
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+    },
+    {
+      "album": {
+        "name": "FLUIR 2",
+        "url": "https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ"
+      },
+      "artists": [
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        },
+        {
+          "name": "Raffi Greco",
+          "url": "https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313720,
+      "name": "Cordero y Le\u00f3n",
+      "url": "https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj"
     },
     {
       "album": {
@@ -3080,7 +3110,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 458864,
       "name": "Haz Fluir",
       "url": "https://open.spotify.com/track/0BrTHwpH62e5sxP24u82ur"
@@ -3724,7 +3754,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 743560,
       "name": "Los Brazos De Pap\u00e1 - Live",
       "url": "https://open.spotify.com/track/76S244M8FAxdlfeE2nJLeF"
@@ -4184,7 +4214,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 208473,
       "name": "Mil Preguntas",
       "url": "https://open.spotify.com/track/5hO2AIo9UgfWsBM2YjT6TW"
@@ -4278,6 +4308,28 @@
       "duration_ms": 198786,
       "name": "Mundo Interior",
       "url": "https://open.spotify.com/track/035xvh5YkERQCTqSBUFM96"
+    },
+    {
+      "album": {
+        "name": "M\u00fasika",
+        "url": "https://open.spotify.com/album/61CNQTOiHdHdQm2usALv5m"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "M\u00fasika",
+      "url": "https://open.spotify.com/track/6JpPwFL4nP8Q1gyDh6tu49"
     },
     {
       "album": {
@@ -4666,6 +4718,28 @@
     {
       "album": {
         "name": "No Temas",
+        "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
+      },
+      "artists": [
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "No Temas",
+      "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
+    },
+    {
+      "album": {
+        "name": "No Temas",
         "url": "https://open.spotify.com/album/01d1hlyM9IAE5QxX80N3K9"
       },
       "artists": [
@@ -4804,6 +4878,24 @@
       "duration_ms": 162000,
       "name": "Para La Wifey :)",
       "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
+    },
+    {
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3vgt8y8SCebdyYTGpZfZPL"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154845,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/26Vi1JbqYdFHlolbT61xvX"
     },
     {
       "album": {
@@ -5654,7 +5746,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 337701,
       "name": "Si Tu Presencia Conmigo No Va",
       "url": "https://open.spotify.com/track/18kQ5kU3gninEy9vw4RKOo"
@@ -5988,7 +6080,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 335488,
       "name": "Soy Deudor",
       "url": "https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR"
@@ -6434,6 +6526,28 @@
       "duration_ms": 148988,
       "name": "Todo Por Ti",
       "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "album": {
+        "name": "Tomarte de la Mano",
+        "url": "https://open.spotify.com/album/7sssGhuFAcudjqHI3sUZOn"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Tomarte de la Mano",
+      "url": "https://open.spotify.com/track/1j8xgO0FICUq7wSJZrdHff"
     },
     {
       "album": {
@@ -7109,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3xaYRRK82zdZLh5ZhSFqUv"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240101,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/2IEzDCoA1SwDfxPmxY7eUV"
+    },
+    {
+      "album": {
         "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
         "url": "https://open.spotify.com/album/7H6R1f1I6cz3emRjys6E7V"
       },
@@ -7176,6 +7308,32 @@
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
+    },
+    {
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/5QcQgJd2KjPJJ0IXPBPkOt"
+      },
+      "artists": [
+        {
+          "name": "Celeste Nova",
+          "url": "https://open.spotify.com/artist/1KaJ3etxmMVYOZLMAbHoOK"
+        },
+        {
+          "name": "Daniel Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/19I7BPTeyRKj9Xq41sc35Q"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226519,
+      "name": "Yo Creo",
+      "url": "https://open.spotify.com/track/0CvHQgWdxvSQmdwSeS38qf"
     },
     {
       "album": {

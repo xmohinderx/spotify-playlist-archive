@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Yami Safdie y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,087 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,091 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 18 | [Rápido y Furioso](https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [Rápido y Furioso](https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx) | 2:33 |
 | 19 | [De Fiesta](https://open.spotify.com/track/23wYKiztl4FUFXLiZiIeQh) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [De Fiesta](https://open.spotify.com/album/65xcr6qMi0C0t1EO0NS5Tz) | 3:13 |
 | 20 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
-| 21 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
-| 22 | [Lotería](https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Lotería](https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa) | 2:13 |
+| 21 | [Lotería](https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Lotería](https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa) | 2:13 |
+| 22 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
 | 23 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 24 | [La historia de la sensibilidad](https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [El terciopelo](https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1) | 2:18 |
 | 25 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 42 | [No Tiene Sentido](https://open.spotify.com/track/79C0RSNURD1IoWONaJrVM7) | [CORI](https://open.spotify.com/artist/6FMpGkY0mH4eCFSwAgQesf) | [No Tiene Sentido](https://open.spotify.com/album/6PwmZVsTxJ7VIXb2CCxjgN) | 2:59 |
 | 43 | [La Sorpresa](https://open.spotify.com/track/0Ac8ya3DR0n28GovAAurF7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 2:35 |
 | 44 | [Destilar](https://open.spotify.com/track/6JW1dkSXWbGYMoOPOLijom) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Destilar](https://open.spotify.com/album/7rZi5sZ1CSm1HDd02x1cSY) | 2:50 |
-| 45 | [Secretos](https://open.spotify.com/track/6xV2QrHmIS0yHe1wkPeXZR) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 3:21 |
-| 46 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
+| 45 | [Pedazos](https://open.spotify.com/track/7pe9YKf899xuL7ZSS9V3Hz) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 2:44 |
+| 46 | [Secretos](https://open.spotify.com/track/6xV2QrHmIS0yHe1wkPeXZR) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 3:21 |
 | 47 | [BUENAS NOCHES TERRÍCOLAS](https://open.spotify.com/track/2LU0pjmv79KZ1939RaLOmd) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 0:55 |
 | 48 | [qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 |
 | 49 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 | 50 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/3BeDygN8kF3KTYt1Uk7trO) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/4mAIuhNoyIVljEC1KCKNYd) | 4:13 |
 
-Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDM0ZTQ2ZDQ4OTNiMDdlMzY4Yjg2NGY4NDkzMWViMWRm`
+Snapshot ID: `MTY3NTIyMDQwMCwwMDAwMDAwMDZhMmY4MGM4ZTA4ZDI4N2Y2YTM5NDU0MTY4OGI1N2Nj`

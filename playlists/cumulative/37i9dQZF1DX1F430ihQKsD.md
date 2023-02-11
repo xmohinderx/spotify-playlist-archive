@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Les Louanges
 
-263 songs - 15 hr 16 min
+266 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 | 2022-03-25 | 2022-08-27 |
 | [Breathe](https://open.spotify.com/track/4N0usfFMf97wkIGUF9rlKx) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Breathe](https://open.spotify.com/album/0AMhjMwYoE9K7VHpZM04UL) | 3:59 | 2022-11-11 |  |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2022-09-23 |  |
-| [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2022-10-28 |  |
+| [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2022-10-28 | 2023-02-11 |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-25 | 2022-08-27 |
 | [Carré Saint\-Louis](https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 2:33 | 2022-03-25 | 2022-07-16 |
 | [Cavalier solitaire](https://open.spotify.com/track/6dZoIrZRD5nlpRK7zI4eMA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Cavalier solitaire](https://open.spotify.com/album/3QT0rWa8ozRgt8UKxFkBHe) | 3:44 | 2022-09-16 | 2022-10-22 |
@@ -101,6 +101,7 @@
 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 | 2022-09-16 | 2022-11-26 |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 |  |
 | [Gallows](https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Gallows](https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh) | 3:06 | 2022-11-25 | 2023-01-21 |
+| [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2022-09-24 |
 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 | 2022-10-07 | 2022-12-10 |
 | [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 | 2022-10-13 |
@@ -114,10 +115,11 @@
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 |  |
 | [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 | 2022-09-30 |  |
-| [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 | 2022-04-18 |  |
+| [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 | 2022-04-18 | 2023-02-11 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-25 | 2022-04-19 |
 | [I'M NOT CRAZY](https://open.spotify.com/track/6BED5a6RzUKIhLpFtD7421) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [I'M NOT CRAZY](https://open.spotify.com/album/66Yjy6EWGZrpOLk1NWkUSF) | 3:35 | 2022-03-25 | 2022-04-23 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
+| [Inconnue](https://open.spotify.com/track/5DQ3U33Swr3xLoFvpXMAgj) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime Deluxe](https://open.spotify.com/album/7scx66azACtWTjLEGuPnPo) | 3:02 | 2023-02-10 |  |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 | 2022-12-10 |
 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 | 2022-09-23 |  |
 | [Insulaire](https://open.spotify.com/track/3Ks37fop1NmNBtKbKrSwCL) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [INSULA](https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3) | 4:05 | 2022-03-25 | 2022-07-23 |
@@ -225,6 +227,7 @@
 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 | 2022-09-24 |
 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 | 2022-03-25 | 2023-02-04 |
 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 | 2022-09-30 |  |
+| [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 |  |
 | [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 |  |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 | 2023-01-21 |
@@ -270,6 +273,6 @@
 | [Zombie Cry](https://open.spotify.com/track/1Okam83qB6OKbfoDleeET4) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Zombie Cry](https://open.spotify.com/album/0D9wFrtQuGIXFxfPoAyuS5) | 3:31 | 2022-09-23 |  |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-26 | 2023-01-21 |
 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-26 |  |
-| [À retardement](https://open.spotify.com/track/2fpOejhULp57PrbCXQ1xUG) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [À retardement](https://open.spotify.com/album/5bG6MAUi03dmCmghIAkW9M) | 3:05 | 2022-04-29 |  |
+| [À retardement](https://open.spotify.com/track/2fpOejhULp57PrbCXQ1xUG) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [À retardement](https://open.spotify.com/album/5bG6MAUi03dmCmghIAkW9M) | 3:05 | 2022-04-29 | 2023-02-11 |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

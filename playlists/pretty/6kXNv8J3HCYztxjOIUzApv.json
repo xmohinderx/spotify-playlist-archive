@@ -1,13 +1,37 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 56776,
+  "num_followers": 56770,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTkwNSw3MGNjMTczNDJlNTllOTczNzM0YmExMTk0NmQ2MTY3ODI1MzUyM2Uw",
+  "snapshot_id": "MTkwNyxmZTQzOGI0NGFkMGFjMzAxNWE3OTU4NWZkMjkxYTFmZmZjODE1NjQ3",
   "tracks": [
+    {
+      "added_at": "2023-02-10 15:46:19",
+      "album": {
+        "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+        "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "name": "William DuVall",
+          "url": "https://open.spotify.com/artist/69j4GQ0OCPN6gU6okpe8aZ"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
+      "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
+    },
     {
       "added_at": "2022-06-10 10:45:36",
       "album": {

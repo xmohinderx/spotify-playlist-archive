@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-152 songs - 9 hr 21 min
+153 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-05-25 |  |
 | [I Want to Go](https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 1:39 | 2023-01-27 |  |
 | [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 |  |
-| [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 |  |
+| [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 | 2023-02-11 |
 | [Jolene](https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Jolene](https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG) | 3:57 | 2022-05-25 |  |
 | [Judgement Day](https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu) | [Marc Amacher](https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0) | [Judgement Day](https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR) | 4:12 | 2022-05-25 |  |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 |  |
@@ -141,6 +141,7 @@
 | [That's All Right](https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Presenting Arthur "Big Boy" Crudup](https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ) | 2:24 | 2023-01-20 |  |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mean Ole Frisco](https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr) | 2:20 | 2022-07-08 | 2022-07-29 |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/3WXj55GMw8gu6uxLsWVVHC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:22 | 2023-01-13 | 2023-01-26 |
+| [That's Alright \(feat\. Charlie Musselwhite & Aki Kumar\)](https://open.spotify.com/track/4Xlq1l3ZUfcXd2iCRG3pXI) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 6:33 | 2023-01-27 |  |
 | [The Easy Blues](https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:21 | 2022-05-25 |  |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-05-25 |  |
 | [The Moment](https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc) | 2:34 | 2023-01-20 |  |

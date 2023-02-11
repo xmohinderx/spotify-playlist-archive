@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: LANNDS. Artwork by Isu Kim. Updates every Wednesday.",
-  "num_followers": 1160191,
+  "num_followers": 1160193,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg3NzExNiwwMDAwMDAwMGRkN2VlMDM5YzA2MjY4NzgyMzllZDY4YjRlYjQ2MTI5",
+  "snapshot_id": "MTY3NjA0NTg5NywwMDAwMDAwMGE5ODEyYjc1YjA4YTZjMTY0NDJmNjRiZjYxMThjYjM4",
   "tracks": [
     {
       "added_at": "2023-02-08 17:25:15",
@@ -139,6 +139,38 @@
       "duration_ms": 189652,
       "name": "people grow apart, people let me down",
       "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
+    },
+    {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "4eva In My Bag (Deluxe)",
+        "url": "https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "duration_ms": 136455,
+      "name": "Pay 2 Play",
+      "url": "https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ"
+    },
+    {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "France",
+        "url": "https://open.spotify.com/album/6dbddqE1Mc5Mao0hlyUDq9"
+      },
+      "artists": [
+        {
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+        }
+      ],
+      "duration_ms": 134965,
+      "name": "France",
+      "url": "https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9"
     },
     {
       "added_at": "2023-02-08 17:25:15",
@@ -341,6 +373,38 @@
       "url": "https://open.spotify.com/track/7maIi25fHreumpL9aT9jlE"
     },
     {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "Not Done",
+        "url": "https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Not Done",
+      "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
+    },
+    {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "CONCRETE",
+        "url": "https://open.spotify.com/album/3vTS0z3hThRgEg0gCqmCBI"
+      },
+      "artists": [
+        {
+          "name": "crtl",
+          "url": "https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6"
+        }
+      ],
+      "duration_ms": 120216,
+      "name": "WE UP!",
+      "url": "https://open.spotify.com/track/6gkx7beLILfdau11eptyDa"
+    },
+    {
       "added_at": "2023-02-08 17:25:15",
       "album": {
         "name": "FREYA",
@@ -471,6 +535,42 @@
       "duration_ms": 216106,
       "name": "Daggers",
       "url": "https://open.spotify.com/track/7DMoJXTtrMxHWZJkOnmHm2"
+    },
+    {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "THE BOOK OF ENOCH",
+        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+      },
+      "artists": [
+        {
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "THE BOOK OF ENOCH",
+      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "added_at": "2023-02-10 16:18:17",
+      "album": {
+        "name": "Wild ASF",
+        "url": "https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ"
+      },
+      "artists": [
+        {
+          "name": "Duece Uno",
+          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Wild ASF",
+      "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
     },
     {
       "added_at": "2023-02-08 17:25:15",

@@ -26719,6 +26719,24 @@
     },
     {
       "album": {
+        "name": "Due Vite",
+        "url": "https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm"
+    },
+    {
+      "album": {
         "name": "DUMMY",
         "url": "https://open.spotify.com/album/4uC6kSmQZfnj8Q9QPS07me"
       },
@@ -76473,6 +76491,24 @@
     },
     {
       "album": {
+        "name": "Rote Fade",
+        "url": "https://open.spotify.com/album/7E2qKKCNix41g3xly2cDMD"
+      },
+      "artists": [
+        {
+          "name": "Ritschi",
+          "url": "https://open.spotify.com/artist/2lwhoL7iV7hMYAzKy53U2G"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Rote Fade",
+      "url": "https://open.spotify.com/track/0IqAreQOfyQr8B0Qj6QDoX"
+    },
+    {
+      "album": {
         "name": "Rote Jacke",
         "url": "https://open.spotify.com/album/2MNrhmdgbsQ4EQz4bUWS7V"
       },
@@ -84206,6 +84242,28 @@
       "duration_ms": 156969,
       "name": "Spla",
       "url": "https://open.spotify.com/track/6WucieMjmj7sIBqKkkg5IL"
+    },
+    {
+      "album": {
+        "name": "Splash",
+        "url": "https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t"
+      },
+      "artists": [
+        {
+          "name": "Colapesce",
+          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+        },
+        {
+          "name": "Dimartino",
+          "url": "https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "Splash",
+      "url": "https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU"
     },
     {
       "album": {

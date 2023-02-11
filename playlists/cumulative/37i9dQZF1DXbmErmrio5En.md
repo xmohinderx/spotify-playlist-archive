@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: underscores
 
-85 songs - 3 hr 48 min
+91 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Heavy Jacket](https://open.spotify.com/track/5NxwAYPr4gyc7gLmhZHwAl) | [Peech.](https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk), [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG) | [Heavy Jacket](https://open.spotify.com/album/6hLHsUqzVj6Z4fpzynQckd) | 2:44 | 2023-01-27 |  |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 |  |
+| [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 | 2023-02-10 |  |
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 |  |
 | [I Watched Them Go](https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [I Watched Them Go](https://open.spotify.com/album/5CS8JBzPL6gw4r95U3Ia1d) | 3:19 | 2022-12-04 |  |
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 |  |
@@ -51,17 +52,19 @@
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 |  |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2022-12-04 |  |
+| [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 | 2023-02-10 |  |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 |  |
 | [Muse](https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Muse](https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F) | 1:49 | 2022-12-04 |  |
 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2022-12-04 |  |
 | [offense mechanism](https://open.spotify.com/track/4Rgb4JMqW2WyTkseioLXi7) | [defsharp](https://open.spotify.com/artist/5fUV5J5Y5iGx9loIfKgRom) | [offense mechanism](https://open.spotify.com/album/3GVG5tPERhnalSNGlrxfyD) | 4:19 | 2022-12-04 |  |
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-12-04 |  |
-| [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 |  |
+| [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-02-11 |
 | [Pity Sex](https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Pity Sex](https://open.spotify.com/album/3yDIN8i4A80HKZLhXN5mP4) | 2:39 | 2023-01-27 |  |
 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 | 2022-12-04 |  |
 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 | 2022-12-04 |  |
 | [Punksong](https://open.spotify.com/track/190XbsoF6JNbXk1K3ltQWk) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland](https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF) | 1:33 | 2022-12-04 | 2022-12-10 |
 | [Radio Cuts](https://open.spotify.com/track/4z8Np65HXuFFsikXFLPLfR) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Radio Cuts](https://open.spotify.com/album/1AgoVr8MNQkwPR4z5dohPq) | 1:46 | 2022-12-04 |  |
+| [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 | 2023-02-10 |  |
 | [repeat](https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [repeat](https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f) | 2:42 | 2023-01-26 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 |  |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 |  |
@@ -79,6 +82,7 @@
 | [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-12-04 | 2023-01-12 |
 | [starfruit](https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [starfruit](https://open.spotify.com/album/5AoomEUsHEC37DDjCJvAQu) | 3:21 | 2023-01-13 |  |
 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 | 2023-01-27 |  |
+| [stranded \(feat\. angelus\)](https://open.spotify.com/track/4ybA4RmMlEjU83umFZnTVj) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [stranded \(feat\. angelus\)](https://open.spotify.com/album/4yAZzAMHd6AnEJtN0gglFm) | 1:55 | 2023-02-10 |  |
 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-12-04 | 2022-12-07 |
 | [sydney](https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sydney](https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At) | 2:23 | 2022-12-04 | 2022-12-10 |
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
@@ -92,6 +96,8 @@
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 |  |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-12-04 |  |
 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 | 2022-12-04 |  |
+| [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-02-10 |  |
+| [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 | 2023-02-10 |  |
 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 | 2023-01-04 |  |
 
 \*This playlist was first scraped on 2022-12-06. Prior content cannot be recovered.

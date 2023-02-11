@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,999 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,011 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 29 | [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 |
 | 30 | [With News About Heaven](https://open.spotify.com/track/74QHxzRk23oaNMsMtOw5GE) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/5EZWB44UxQvTllmmOvarXw) | 4:31 |
 | 31 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 |
-| 32 | [The Good, The Bad And The Ugly \- Main Title](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad & The Ugly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 |
+| 32 | [The Good, The Bad And The Ugly \- 2004 Remaster](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 |
 | 33 | [Bowsprit](https://open.spotify.com/track/04Fcjafu59OwzIYYVXJjbU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5nlIENUVFPbOEobbADbJZV) | 5:17 |
 | 34 | [Dark blue \- Single Version](https://open.spotify.com/track/6hJmk78LAXe2HGXeCcHWKF) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Dark blue](https://open.spotify.com/album/2XHf9J09d4af5spwdUWOt6) | 6:41 |
 | 35 | [Sun At 5 In 4161](https://open.spotify.com/track/28X5wrV8PXG4PpbEv7pjUt) | [Andrew Tuttle](https://open.spotify.com/artist/7oyH6DSD42pak09Jzqj9i7) | [Alexandra](https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4) | 5:07 |

@@ -1610,6 +1610,24 @@
     {
       "album": {
         "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245927,
+      "name": "Palace Posy",
+      "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
       "artists": [
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 414160,
       "name": "Somni",
       "url": "https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U"

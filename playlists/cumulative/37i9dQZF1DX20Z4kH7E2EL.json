@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 207874,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/4RqPqt3d3WfooOB0ZTW27h"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 393814,
       "name": "Desire's Calling",
       "url": "https://open.spotify.com/track/16KThd8x2ISOFD9FhHXLYL"
@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Singularity",
+        "url": "https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630240,
+      "name": "Everything Connected",
+      "url": "https://open.spotify.com/track/3oWBMOzkjjkCmV6abncBUd"
+    },
+    {
+      "album": {
         "name": "evol",
         "url": "https://open.spotify.com/album/1O9ecdq5hCTD0IyqYgjVrk"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 261375,
       "name": "Frangipani",
       "url": "https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN"
@@ -662,6 +680,24 @@
       "duration_ms": 376941,
       "name": "Future Life - Extended Mix",
       "url": "https://open.spotify.com/track/1gjiNqZsY9ga0rFfwU5XZz"
+    },
+    {
+      "album": {
+        "name": "Give Me A Reason",
+        "url": "https://open.spotify.com/album/5ZpjoOlW69TEeoMDtWp8Ks"
+      },
+      "artists": [
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356190,
+      "name": "Give Me A Reason",
+      "url": "https://open.spotify.com/track/6ZrkMngeMwqJBv7nZcT1bG"
     },
     {
       "album": {
@@ -992,7 +1028,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 330459,
       "name": "Mind Dimension - Ben Sterling Remix",
       "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free (Extended Mix)",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Set Me Free - Extended Mix",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "album": {
         "name": "Shifty",
         "url": "https://open.spotify.com/album/09eUqNU7UxERiYXh5DQPgd"
       },
@@ -1496,6 +1550,32 @@
       "duration_ms": 201412,
       "name": "Submission",
       "url": "https://open.spotify.com/track/2IrodvaY9StrKS02EfC2S0"
+    },
+    {
+      "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/0Om4E8TRz7Qm7cbC9xScIh"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Johnny Jewel",
+          "url": "https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR"
+        },
+        {
+          "name": "Gl\u00fcme",
+          "url": "https://open.spotify.com/artist/1WyJbOc1Ws2vWLUZu36jla"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371405,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/22aoAzWBmrDlbDLNjTTJ6F"
     },
     {
       "album": {

@@ -3515,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo"
       },
@@ -7414,7 +7432,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 406857,
       "name": "The Merchant of Flatbush",
       "url": "https://open.spotify.com/track/0WJ9TYoYrjO0SBb13dsHO5"

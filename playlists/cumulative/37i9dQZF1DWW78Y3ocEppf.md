@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> The feelings you can't put into words...only songs\. Cover: Tink
+> The feelings you can't put into words...only songs\. Cover: Maeta
 
-410 songs - 21 hr 58 min
+411 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-15 | 2022-04-19 |
 | [Fool 4 U](https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Fool 4 U](https://open.spotify.com/album/3sEhpdjBGFAq5BYPThKgH3) | 3:16 | 2021-12-15 | 2022-01-21 |
 | [FOOL AROUND](https://open.spotify.com/track/4V39issmn4UBsvWqXzxvFz) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [PURPLE.](https://open.spotify.com/album/18ZRlsRqYnGm74QAX9k05N) | 2:03 | 2021-12-15 | 2022-06-24 |
-| [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 |  |
+| [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 | 2023-02-11 |
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 |  |
 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 | 2022-09-16 |  |
 | [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 | 2021-12-15 |  |
@@ -318,6 +318,7 @@
 | [Runaway](https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG) | [Cheyenne Lavene](https://open.spotify.com/artist/6QTh5CJex4f7euCPUavWg0) | [Runaway](https://open.spotify.com/album/4kBzRDlKvKYD7zsWr9MVIR) | 2:25 | 2021-12-15 | 2022-07-20 |
 | [Résumé](https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Résumé](https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n) | 3:00 | 2021-12-15 | 2022-07-29 |
 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 | 2022-07-15 | 2022-09-24 |
+| [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 |  |
 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 | 2022-11-04 | 2022-11-12 |
 | [Same Mistakes](https://open.spotify.com/track/7drQynmcfwZhnAe31RoXgi) | [Ajiona Alexus](https://open.spotify.com/artist/2LST6cTV6yrNH5CWy5kTNK) | [Same Mistakes](https://open.spotify.com/album/20LbAUSSlWkdfTfoHKNf27) | 3:06 | 2021-12-15 | 2022-04-18 |
 | [Same Space? \- Remix](https://open.spotify.com/track/1sVEcxx3au6WWt8WcQO4N9) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Same Space? \(Remix\)](https://open.spotify.com/album/5KTLZx1qToHWZJJp83C3H6) | 4:08 | 2021-12-15 | 2022-07-29 |

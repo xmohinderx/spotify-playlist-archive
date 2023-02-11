@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Mauro Henrique",
-  "num_followers": 112696,
+  "num_followers": 112736,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDUyYTIzMjA5MDQ4YzhjZjk1NTgwNDNjOGU5YTU1OTE1",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGNjMDgyN2E1ZjRmMjEzYWYxODJiMzRmM2U3YTgwYmQ1",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Assume A Responsa",
+      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Luz (Ao Vivo)",
         "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Assume A Responsa",
-      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Jesus \u00e9 o Amigo da Hora",
-        "url": "https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "Jesus \u00e9 o Amigo da Hora",
-      "url": "https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Jesus \u00e9 o Amigo da Hora",
+        "url": "https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "Jesus \u00e9 o Amigo da Hora",
+      "url": "https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Quarantine Session",
-        "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Socorre-Me",
-      "url": "https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Meu Valor",
         "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 279914,
       "name": "\u00danica Paz",
       "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Quarantine Session",
+        "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Socorre-Me",
+      "url": "https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i"
     },
     {
       "added_at": "2023-01-20 03:00:00",

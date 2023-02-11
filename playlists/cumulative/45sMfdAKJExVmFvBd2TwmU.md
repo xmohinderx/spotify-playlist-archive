@@ -4,7 +4,7 @@
 
 > Bollywood Love Songs\-Best Hindi Love Songs\-Top Love Songs\-Romantic \-Love Songs from Hindi Films\-Love Songs\-Romantic Songs\-Hindi Love Songs\-Romantic Hindi Bollywood Songs\-Romantic Songs\-Arijit Singh\-Shahrukh Khan\-Classic love songs
 
-126 songs - 10 hr 1 min
+127 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 | 2021-10-19 |  |
 | [Jashn\-E\-Bahaaraa](https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 5:15 | 2021-10-19 |  |
 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/6h09y5UH6sDRERJALlaJPi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/47BxXUsijYFRSasnmu8M2U) | 3:48 | 2022-05-19 |  |
+| [Jiya Jaaye Na](https://open.spotify.com/track/0nHe03inf3duhGSD7ONjHT) | [Prashant Katheriya](https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr) | [Jiya Jaaye Na](https://open.spotify.com/album/3YhNW21pwZFgF16RpQ9T4z) | 2:00 | 2023-02-10 |  |
 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 | 2022-05-19 |  |
 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-11-18 | 2023-01-05 |
 | [Khamoshiyan](https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 5:35 | 2021-07-28 |  |

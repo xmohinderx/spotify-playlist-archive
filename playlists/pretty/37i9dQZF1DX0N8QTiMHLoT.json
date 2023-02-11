@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 122207,
+  "num_followers": 122314,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDQ2NzcwNjIxMDg4N2Y3NTQ5YjE3YTVjZjVkNzRmZGQ2",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDYxNzQ2YzcyZWQ5OWU5NDQ2NGE5YTU1NGE4NDMzYzFh",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -699,8 +699,8 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Multiple Faces",
-        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
         }
       ],
-      "duration_ms": 413266,
-      "name": "Right After 4",
-      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
+      "duration_ms": 261866,
+      "name": "P.A.C. Man",
+      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -803,26 +803,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Love on the Run",
-        "url": "https://open.spotify.com/album/3W7IrJDw3SFGgv2pyPbBpu"
-      },
-      "artists": [
-        {
-          "name": "Byron Miller",
-          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
-        },
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 240339,
-      "name": "Love on the Run",
-      "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Trust and Faith",
         "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
       },
@@ -843,6 +823,26 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Love on the Run",
+        "url": "https://open.spotify.com/album/3W7IrJDw3SFGgv2pyPbBpu"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        },
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 240339,
+      "name": "Love on the Run",
+      "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "That Was Then",
         "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
       },
@@ -859,8 +859,8 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+        "name": "Multiple Faces",
+        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
         }
       ],
-      "duration_ms": 261866,
-      "name": "P.A.C. Man",
-      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+      "duration_ms": 413266,
+      "name": "Right After 4",
+      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
     },
     {
       "added_at": "2021-05-06 21:09:12",

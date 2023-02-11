@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Year of the Knife
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Scowl
 
-323 songs - 20 hr 44 min
+329 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,9 @@
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 |  |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 |  |
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 |  |
+| [Algorithmic](https://open.spotify.com/track/4m2bvfftBXmEkiOccSJeb3) | [Spotlights](https://open.spotify.com/artist/4gTFseNIUKC5dbk6tRps6H) | [Algorithmic](https://open.spotify.com/album/1CdNaopxtSliDFO9Q7UBIa) | 5:01 | 2023-02-10 |  |
 | [All I've Lost](https://open.spotify.com/track/5NCBRQvPOhILMg7ARKTkt3) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Ashes Lie Still](https://open.spotify.com/album/2ChfG1mtw2bhvNY1tO2hzE) | 5:03 | 2022-11-04 |  |
+| [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-10 |  |
 | [An Offering to the Night](https://open.spotify.com/track/0EVyJFYojg61MfOHChMEhk) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [An Offering to the Night](https://open.spotify.com/album/7FbcDuhf1XenyNKutT6lZP) | 2:13 | 2022-12-09 |  |
 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 |  |
 | [And How They Wept for Eternity](https://open.spotify.com/track/1gP2jBo31MGT9DySTFM4Lb) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [And How They Wept for Eternity](https://open.spotify.com/album/6jSttvdT0rvDv2SH6EftQQ) | 3:54 | 2022-08-19 |  |
@@ -92,6 +94,7 @@
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
+| [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 |  |
 | [Evolving](https://open.spotify.com/track/71GOYiaA8DUE8gflwvKxMT) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K), [Shaolin G](https://open.spotify.com/artist/646EtCZzz835whXJClaWtJ) | [Oni](https://open.spotify.com/album/4aYSMBE7Y3UDLCoxmVw0qH) | 2:56 | 2022-09-30 |  |
 | [Exile](https://open.spotify.com/track/1oRdiP3GvlgYWfUa7n2M9h) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Exile](https://open.spotify.com/album/0U9JvGl6Z0A9wSVXCv4ETj) | 1:22 | 2022-03-25 |  |
 | [Exodus](https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Exodus](https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c) | 4:18 | 2022-11-11 |  |
@@ -161,6 +164,7 @@
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-04-22 |  |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 |  |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 |  |
+| [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 |  |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 |  |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 |  |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 |  |
@@ -194,6 +198,7 @@
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 |  |
 | [One by One](https://open.spotify.com/track/3UEeuZJjE4ftR7zkq7IVaK) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [One by One](https://open.spotify.com/album/3J7NZbEojkhk997nA5UhkD) | 3:05 | 2022-02-18 |  |
 | [One Twenty Two](https://open.spotify.com/track/1YcAT8wzQpk12OOJcBcOT5) | [Botch](https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3) | [One Twenty Two](https://open.spotify.com/album/2F2GdWHz62uzpsgNtF7mfd) | 2:16 | 2022-08-26 |  |
+| [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 |  |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 |  |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 |  |
 | [Overwhelming Power](https://open.spotify.com/track/65iLsX6iV3ON0cOU5bzyYN) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Overwhelming Power](https://open.spotify.com/album/3klZ7YSDDoPjgDhQyux61s) | 4:07 | 2022-02-25 |  |
@@ -246,6 +251,7 @@
 | [Spirit Liberation](https://open.spotify.com/track/4fnNlOmWOoLJtwETdf38bC) | [Mutually Assured Destruction](https://open.spotify.com/artist/674hXtod8wUNvAUKUvElhf), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Spirit Liberation](https://open.spotify.com/album/0QVaj5KVMxrrDg4KAnCWBK) | 2:30 | 2022-04-15 |  |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
 | [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 |  |
+| [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-10 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 |  |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 |  |
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 |  |

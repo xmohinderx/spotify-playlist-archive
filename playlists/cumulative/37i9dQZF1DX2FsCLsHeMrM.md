@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-296 songs - 19 hr 32 min
+297 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 | 2022-09-09 | 2022-10-01 |
 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 | 2023-01-03 |  |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-18 |  |
-| [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 | 2022-02-21 |  |
+| [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 | 2022-02-21 | 2023-02-11 |
 | [Alright](https://open.spotify.com/track/1ip5UdRnR06OUcDapKQBx7) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/0sfW72nWa4oqoqbKhdtrE3) | 5:13 | 2021-11-10 | 2022-07-29 |
 | [Alright](https://open.spotify.com/track/6aoDP6J8OfYlCPasrZqjeS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:13 | 2022-06-03 | 2022-11-14 |
 | [Always](https://open.spotify.com/track/6uRDFTdLRs3XmwPHlDokVu) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [Always](https://open.spotify.com/album/32OunfV72N1urNP2oVl8qH) | 3:42 | 2022-06-10 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Valerie \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/1879aiUSpb1qNoiwtQA2XH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3sCu3TWUbGFOEDm4IHx8Gu) | 3:52 | 2021-11-10 | 2022-07-29 |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-06-03 |  |
 | [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 | 2022-06-03 | 2023-02-05 |
+| [Video](https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:09 | 2023-02-10 |  |
 | [Video](https://open.spotify.com/track/5ewa79Xg31HDefmPUpZX0Y) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/2vc5pjWadm2Q8FxdJ3JSwV) | 4:09 | 2021-11-10 | 2022-07-29 |
 | [Video Girl](https://open.spotify.com/track/1QTwsvMPkxAhMNsuYamqZQ) | [Daniel Price](https://open.spotify.com/artist/7FzTAoAvEVREt2FjsLisDP) | [Video Girl](https://open.spotify.com/album/3CK5KtdXAGu9Cis8X1O5yt) | 2:49 | 2022-06-03 | 2022-08-10 |
 | [Video Girl](https://open.spotify.com/track/7EIKw1M8ByLYq9ISRRmtnE) | [Daniel Price](https://open.spotify.com/artist/7FzTAoAvEVREt2FjsLisDP) | [Video Girl](https://open.spotify.com/album/606mNPrS5IZEyfD8t9YmDk) | 2:50 | 2022-03-28 | 2022-07-29 |

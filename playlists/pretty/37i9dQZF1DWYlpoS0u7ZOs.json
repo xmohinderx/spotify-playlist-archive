@@ -1,12 +1,12 @@
 {
   "description": "Get to know the new wave of rock. Cover: swim school",
-  "num_followers": 5500,
+  "num_followers": 5508,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMDFkNDQ4NjRlZGRhNzNkM2Y1ODNlMTc5ODFlZTAzNGM1",
+  "snapshot_id": "MTY3NjA0NjAyMSwwMDAwMDAwMGYyMjQ1YTVhNTZmMGYwYzc4ZTk2NDRiMmVkMmFmZWQ0",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa"
     },
     {
+      "added_at": "2023-02-10 16:20:21",
+      "album": {
+        "name": "Past Vibration",
+        "url": "https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C"
+      },
+      "artists": [
+        {
+          "name": "Supera Morza",
+          "url": "https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5"
+        }
+      ],
+      "duration_ms": 156409,
+      "name": "Past Vibration",
+      "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
+    },
+    {
       "added_at": "2023-02-10 00:00:00",
       "album": {
         "name": "Like You Do",
@@ -671,6 +687,22 @@
       "duration_ms": 196922,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
+    },
+    {
+      "added_at": "2023-02-10 16:20:21",
+      "album": {
+        "name": "Detrimental",
+        "url": "https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY"
+      },
+      "artists": [
+        {
+          "name": "Suga Knuckle",
+          "url": "https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ"
+        }
+      ],
+      "duration_ms": 205011,
+      "name": "Detrimental",
+      "url": "https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4"
     },
     {
       "added_at": "2023-02-10 00:00:00",

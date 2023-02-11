@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mess With Exes",
+        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207893,
+      "name": "Don\u2019t Mess With Exes",
+      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+    },
+    {
+      "album": {
         "name": "Cody Hibbard",
         "url": "https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K"
       },
@@ -2274,6 +2292,24 @@
       "duration_ms": 246133,
       "name": "Fences",
       "url": "https://open.spotify.com/track/37TQSRXPacyRqVmnLT1QVi"
+    },
+    {
+      "album": {
+        "name": "Fine By Me",
+        "url": "https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187765,
+      "name": "Fine By Me",
+      "url": "https://open.spotify.com/track/4X5GnkmymLagGzBmJRO0tf"
     },
     {
       "album": {
@@ -6596,7 +6632,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 242716,
       "name": "Up to Me",
       "url": "https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W"
@@ -7014,7 +7050,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 211920,
       "name": "Where Cotton Is King",
       "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"

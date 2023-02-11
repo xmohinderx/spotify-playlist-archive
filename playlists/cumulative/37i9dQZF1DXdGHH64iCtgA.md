@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-176 songs - 14 hr 10 min
+177 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2022-05-06 |  |
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 | 2022-07-29 |
 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 | 2022-05-06 |  |
-| [Colourblind](https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia) | [Gold Rush](https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs) | 4:31 | 2022-12-05 |  |
+| [Colourblind](https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia) | [Gold Rush](https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs) | 4:31 | 2022-12-05 | 2023-02-11 |
 | [Colourblind](https://open.spotify.com/track/7ekWSkrWplexjibTqAjJvI) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/2Wk3jBp9txJl8QiQXxY0Tu) | [Gold Rush](https://open.spotify.com/album/5SJk7kSbK1ExlrA06MxMC5) | 4:31 | 2022-05-06 | 2022-07-28 |
 | [Composure](https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Composure](https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj) | 2:29 | 2022-08-12 |  |
 | [Controller](https://open.spotify.com/track/34aM4AadnV3foQ1cadQYr9) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/0nVzRQh8j8RyVhi7qvJzD5) | 3:28 | 2022-05-06 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Planningtochanel](https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ) | 3:29 | 2022-05-06 |  |
 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 | 2022-06-14 |  |
 | [Jardins Aquatics](https://open.spotify.com/track/17LitdKbTWpI71DOqMgogL) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/637jDsZ6Qt8RDvCtZOezAM) | 5:58 | 2022-05-06 | 2022-07-29 |
+| [JESUS IN BERLIN](https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX) | [nullzwei](https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot), [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [JESUS IN BERLIN](https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl) | 2:32 | 2023-02-10 |  |
 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 | 2022-06-14 |  |
 | [Just Us](https://open.spotify.com/track/4k7XbUsvGNWkveNCFjVjbo) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/1ArxpvU1qzHK4WPeFuP7AS) | 6:45 | 2022-05-06 | 2022-07-29 |
 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-192 songs - 9 hr 52 min
+194 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Need U](https://open.spotify.com/track/0JlKZ0W9iPJctsUMNSDMeo) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [Need U](https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b) | 1:57 | 2022-07-19 |  |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 |  |
 | [Need You](https://open.spotify.com/track/2qtyIWqX6LwB5AZwu708wp) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Need You](https://open.spotify.com/album/4WLmLqCxKAIVKGIhHPpEeN) | 2:53 | 2023-01-25 |  |
+| [Need You](https://open.spotify.com/track/2sUAvG1FJX14GCr3LAp73P) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Sam Riley](https://open.spotify.com/artist/7tZsqMkZU0zAdwnGHg2MB5) | [Need You](https://open.spotify.com/album/5YdJ8jI8bEauFCvk9q7hLv) | 2:36 | 2023-02-10 |  |
 | [Need You](https://open.spotify.com/track/6SrzmgeSOjNoSv1BkTPz6A) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr) | [Need You](https://open.spotify.com/album/4DzkeyUJipyGcl8h1kvGuz) | 2:49 | 2023-01-31 |  |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 |  |
 | [Next Level](https://open.spotify.com/track/6ieN1XasQHTd98sCSDmieM) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:21 | 2022-12-07 |  |
@@ -136,6 +137,7 @@
 | [Pray Tonight \- borne Remix](https://open.spotify.com/track/24UiVa4yw52VDpPxGwq3Bw) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Pray Tonight \(borne Remix\)](https://open.spotify.com/album/3ddEoq1V87uYH3IOXxdGg1) | 2:46 | 2022-11-15 |  |
 | [Pressure](https://open.spotify.com/track/2SGKoGK8sRtD3Rr2Rvofvc) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Pressure](https://open.spotify.com/album/6ENSlOPhYtBVrZbud8FtRR) | 3:14 | 2022-05-24 |  |
 | [Pressure](https://open.spotify.com/track/3wHV275mc0xs0fmJt8ITGX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Pressure](https://open.spotify.com/album/2HyVhCsCR2SPMgzi28QNoM) | 2:49 | 2023-02-09 |  |
+| [Psycho](https://open.spotify.com/track/7AZsMkUwu9wgz2yA78a9oU) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Psycho](https://open.spotify.com/album/6N3jKknronDaQoRKwC8Pcd) | 2:51 | 2023-02-10 |  |
 | [Psycho](https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Psycho](https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ) | 2:30 | 2022-12-13 |  |
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 |  |

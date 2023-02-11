@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 110253,
+  "num_followers": 110508,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDZiZDA2ZTQyODc2OTdhYTU2MjIyOGIxZDRmNzAyN2Uw",
+  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDFjMjQwZWEzMjFjOGRlMzBlMTA2NzgyMjEyOTQzMGVh",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "It's A Wonderful Life",
-        "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
-      },
-      "artists": [
-        {
-          "name": "Sparklehorse",
-          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
-        },
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Piano Fire",
-      "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Under the Western Freeway",
         "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "It's A Wonderful Life",
+        "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
+      },
+      "artists": [
+        {
+          "name": "Sparklehorse",
+          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Piano Fire",
+      "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
       "artists": [
         {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
         }
       ],
-      "duration_ms": 355533,
-      "name": "Breadcrumb Trail",
-      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     }
   ],
   "unique_name": "Thrifted",

@@ -2,7 +2,7 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Faetooth
+> Heavy new bands you need to have an eye on\. Cover: Scowl
 
 155 songs - 8 hr 54 min
 

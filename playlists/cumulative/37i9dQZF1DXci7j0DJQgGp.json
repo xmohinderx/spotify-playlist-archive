@@ -4695,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210377,
+      "name": "Rocky Trail",
+      "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "album": {
         "name": "Rocky Trail",
         "url": "https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j"
       },
@@ -6466,7 +6484,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"

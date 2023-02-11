@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "605",
+        "url": "https://open.spotify.com/album/4PAUxxBpqM96GpyyOubGXi"
+      },
+      "artists": [
+        {
+          "name": "ZDX",
+          "url": "https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "605",
+      "url": "https://open.spotify.com/track/7jbZxeSa2OEIyIPiMH2hjZ"
+    },
+    {
+      "album": {
         "name": "A Drug From God (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/3m9iHkgf9wX6fM5ZekvZPZ"
       },
@@ -46,10 +64,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
+    },
+    {
+      "album": {
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "album": {
@@ -72,10 +112,54 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 291840,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/7ntQCOSDaLD1sGVJ1l2N06"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/4AQToCDjVfbTFR2pe1PAhI"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3rtpkOcJpxuOkfkwsO456x"
+    },
+    {
+      "album": {
+        "name": "Around (Solomun Radio Edit)",
+        "url": "https://open.spotify.com/album/454OOiaidl5xtMnkZZYj0b"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/1KV5LxtNsGJYkXkVTxid0d"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209490,
+      "name": "Around - Solomun Radio Edit",
+      "url": "https://open.spotify.com/track/2jMresAoqgCxSPCAyzRA0m"
     },
     {
       "album": {
@@ -130,7 +214,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
@@ -306,7 +390,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 186504,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7"
@@ -382,7 +466,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 152000,
       "name": "Business Baby",
       "url": "https://open.spotify.com/track/5jLw1rHOtF9hmVa6JoR8jr"
@@ -400,7 +484,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 165124,
       "name": "Changes - Acid Radio Mix",
       "url": "https://open.spotify.com/track/60Ypo8vdYPRuJH8QceHmqj"
@@ -422,7 +506,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
@@ -524,7 +608,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 240001,
       "name": "DFCW",
       "url": "https://open.spotify.com/track/3BbAVLfkhtY237ORPUj3wX"
@@ -597,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Prelude EP",
+        "url": "https://open.spotify.com/album/6eqJR65wQWdJzzQF7hfKgp"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216042,
+      "name": "El Pasado",
+      "url": "https://open.spotify.com/track/2HKDGTnQe1bYyFPQrqmIOt"
+    },
+    {
+      "album": {
         "name": "Feel The Vibe",
         "url": "https://open.spotify.com/album/787wxZalYNM08QICMy1W0C"
       },
@@ -612,6 +714,28 @@
       "duration_ms": 232012,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/4tYdBDmk4sUev0awbcO7Ma"
+    },
+    {
+      "album": {
+        "name": "Flash 2016 Remixes",
+        "url": "https://open.spotify.com/album/5qfB6JYMjtz2kbF3nu3Y3P"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410124,
+      "name": "Flash - Eats Everything Remix",
+      "url": "https://open.spotify.com/track/19VopGXSNK7wUyHA7FPKgL"
     },
     {
       "album": {
@@ -644,7 +768,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 173357,
       "name": "For One Night",
       "url": "https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb"
@@ -713,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Garden Of Groove EP",
+        "url": "https://open.spotify.com/album/79stn1sam46epdUA1esrsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433548,
+      "name": "Garden Of Groove",
+      "url": "https://open.spotify.com/track/2JfZEVbCyf1huLq85kKiwj"
+    },
+    {
+      "album": {
         "name": "Gimme Some Keys (Remixes)",
         "url": "https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6"
       },
@@ -757,6 +899,32 @@
     },
     {
       "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
+    },
+    {
+      "album": {
         "name": "Higher Than You",
         "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
       },
@@ -793,6 +961,24 @@
     },
     {
       "album": {
+        "name": "House All The Time",
+        "url": "https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "House All The Time",
+      "url": "https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr"
+    },
+    {
+      "album": {
         "name": "Hypnotized EP",
         "url": "https://open.spotify.com/album/5Fx02RNnBLcFhSaxKyZW9H"
       },
@@ -808,6 +994,36 @@
       "duration_ms": 164526,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0IyYhV3YmH0do8nsRaH919"
+    },
+    {
+      "album": {
+        "name": "I'm Fine (IMANU Remix)",
+        "url": "https://open.spotify.com/album/33VmlVoNGrFC4z2aUBtJAv"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Cherry Lena",
+          "url": "https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "I'm Fine - IMANU Remix",
+      "url": "https://open.spotify.com/track/4DHATlv5A1Gs9pMaWSHDMb"
     },
     {
       "album": {
@@ -862,7 +1078,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 223536,
       "name": "KILL DEM",
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
@@ -1063,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Love Finds A Way (Radio Edit)",
+        "url": "https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7"
+      },
+      "artists": [
+        {
+          "name": "David Herrlich",
+          "url": "https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Love Finds A Way - Radio Edit",
+      "url": "https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj"
+    },
+    {
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/55LisGoTtgPe7c0cyrgFO6"
       },
@@ -1156,7 +1390,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
@@ -1192,7 +1426,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 165714,
       "name": "Oye",
       "url": "https://open.spotify.com/track/7LrNUnWXx7ypK8jdQPH3SN"
@@ -1214,7 +1448,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 167619,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1mgTKabm2LbaTW3TipyFQl"
@@ -1254,7 +1488,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 171180,
       "name": "Peanut Butter",
       "url": "https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S"
@@ -1316,7 +1550,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 215238,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1N6WOpIIxFoMW1xCRruxPY"
@@ -1359,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Rumblah",
+        "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Rumblah",
+      "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
+    },
+    {
+      "album": {
         "name": "Just What The World Needs EP",
         "url": "https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX"
       },
@@ -1374,7 +1626,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 260565,
       "name": "Same Way Down (feat. Mindchatter)",
       "url": "https://open.spotify.com/track/3NDNPhzZ60EV2sK3ryIF4i"
@@ -1634,7 +1886,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 260511,
       "name": "Stereotypes",
       "url": "https://open.spotify.com/track/4ifpL4JeazlBGjvyzWgVzo"
@@ -1784,7 +2036,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 171023,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59"
@@ -1985,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Vamo Pa La Brea",
+        "url": "https://open.spotify.com/album/7fu0kFRFhzdTLjCc2gc6U2"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fuentes",
+          "url": "https://open.spotify.com/artist/1HMFleDucpe8cNSDlx1SY5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Vamo Pa La Brea",
+      "url": "https://open.spotify.com/track/58HrQfsvgpqC0x8OrnWJKM"
+    },
+    {
+      "album": {
         "name": "Where I Want 2 B",
         "url": "https://open.spotify.com/album/31USpiwo0nxCexaClvJYkL"
       },
@@ -2018,6 +2288,32 @@
       "duration_ms": 360500,
       "name": "Work On Me",
       "url": "https://open.spotify.com/track/6pzliypx3qJDJgd3asCb7N"
+    },
+    {
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "album": {

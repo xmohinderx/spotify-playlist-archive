@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ashnikko
 
-446 songs - 21 hr 2 min
+448 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,8 +251,10 @@
 | [Literal Legend](https://open.spotify.com/track/69yvAav3DrSy27zXqJKTIS) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Princess Ayesha](https://open.spotify.com/artist/0Pp9K2XkoY77SjmjT1pKqy) | [Literal Legend](https://open.spotify.com/album/76SjHJD2ba8enBmHCAkZZa) | 2:36 | 2022-03-31 | 2022-04-15 |
 | [Little Idiot](https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Little Idiot](https://open.spotify.com/album/526U6qGZw3OurkTCzxBBNi) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
+| [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 | 2023-02-10 |  |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 | 2022-12-01 |
+| [LOTTO BOY](https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI), [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt) | [LOTTO BOY](https://open.spotify.com/album/3a7bN2cMrozuYGKdVJI20V) | 3:07 | 2023-02-10 |  |
 | [Love Is Dead And We Killed Her](https://open.spotify.com/track/1R0GUadaco9898cWY7pO2O) | [Doll Skin](https://open.spotify.com/artist/7vmwILw7lLaOfDnbGJB3iy) | [Love Is Dead And We Killed Her](https://open.spotify.com/album/35xqb0JcBZm8WHClGfiv7Z) | 3:07 | 2022-08-27 | 2022-09-02 |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-12 | 2022-01-17 |
 | [Love You Better](https://open.spotify.com/track/1nXKFCz88CcR0ACWmyHrDS) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Love You Better](https://open.spotify.com/album/5Rr2SAaepFLbCSI955PEf9) | 3:57 | 2022-09-22 | 2022-10-14 |

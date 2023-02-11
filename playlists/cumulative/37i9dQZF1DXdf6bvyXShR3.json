@@ -117,13 +117,21 @@
     },
     {
       "album": {
-        "name": "Be Where I Am (feat. Daniel Wilson)",
+        "name": "Be Where I Am",
         "url": "https://open.spotify.com/album/10GVWWU5cAKeViqeAhsjpg"
       },
       "artists": [
         {
           "name": "Metroplane",
           "url": "https://open.spotify.com/artist/4NV4qWnRhLrr41zy1IwFGm"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "Aeroplane",
+          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
         },
         {
           "name": "Daniel Wilson",
@@ -134,7 +142,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206854,
-      "name": "Be Where I Am (feat. Daniel Wilson)",
+      "name": "Be Where I Am",
       "url": "https://open.spotify.com/track/4xbckUvPGcKV7QKkr7Fzyd"
     },
     {

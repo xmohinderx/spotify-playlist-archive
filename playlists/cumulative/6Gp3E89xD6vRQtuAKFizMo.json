@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Club Chennai",
+        "url": "https://open.spotify.com/album/6YNdraBe2RbxqWLLSdMHJR"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "Club Chennai",
+      "url": "https://open.spotify.com/track/1Tw1ikzex7FQ1Gk2yomtjf"
+    },
+    {
+      "album": {
         "name": "Cold Comfort (feat. Andrew Paley) [OMAS Remix]",
         "url": "https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu"
       },
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 195200,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n"

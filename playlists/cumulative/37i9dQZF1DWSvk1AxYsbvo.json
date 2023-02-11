@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 245870,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
@@ -2744,6 +2744,24 @@
       "duration_ms": 198999,
       "name": "\uc80a\uc74c\uc744 \uc120\uc0ac\ud574\uc694 Sending My Youth",
       "url": "https://open.spotify.com/track/5Y4tiUkw3QrvW2bMzGI5iO"
+    },
+    {
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo"

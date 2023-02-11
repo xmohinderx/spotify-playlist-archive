@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,573 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 10 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
 | 11 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
 | 12 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
-| 13 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
-| 14 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
+| 13 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
+| 14 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 15 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 |
 | 16 | [All My Life 2.0](https://open.spotify.com/track/1CFmkTFyJU8BsqRIwE7Ut4) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [J.Rob The Chief](https://open.spotify.com/artist/3eFvhpLbVKTlhGWaazeeG6) | [All My Life 2.0](https://open.spotify.com/album/5yBn27YRCXU6ABfchJESB0) | 3:44 |
-| 17 | [Glory](https://open.spotify.com/track/545661gwwNUrfWaRlxGB8z) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [GENYUS MCFLY](https://open.spotify.com/artist/0qCbHriiVyhxnZTpCEHbqA) | [Glory](https://open.spotify.com/album/7DqVpahFrtFI1cFHBvMdXr) | 2:20 |
-| 18 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
-| 19 | [Run It Up](https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Run It Up](https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl) | 2:21 |
-| 20 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
+| 17 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 18 | [Glory](https://open.spotify.com/track/545661gwwNUrfWaRlxGB8z) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [GENYUS MCFLY](https://open.spotify.com/artist/0qCbHriiVyhxnZTpCEHbqA) | [Glory](https://open.spotify.com/album/7DqVpahFrtFI1cFHBvMdXr) | 2:20 |
+| 19 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
+| 20 | [Run It Up](https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Run It Up](https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl) | 2:21 |
 | 21 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
 | 22 | [Cost of Loyalty](https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Cost of Loyalty](https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS) | 2:28 |
 | 23 | [Dangerous](https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF), [Lil Bouncer](https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh) | [Dangerous](https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK) | 2:42 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 | 35 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDNmZDdmY2QzYmZkOTdjY2NhZTY5ZTUzZmI1NmQ3YmJj`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDdlZjVkYzk5YzJlYzc5YzViNDEyZDlkYTdiMzk4YzQ4`

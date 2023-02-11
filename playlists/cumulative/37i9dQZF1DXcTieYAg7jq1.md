@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Blessing Offor
 
-286 songs - 16 hr 50 min
+288 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-12 |  |
 | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/album/7JDhbFzdmdTO3KoBfERYvK) | 3:48 | 2021-12-03 | 2022-10-01 |
 | [Circles](https://open.spotify.com/track/588huYraFuGGksWiCPpuGQ) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Circles](https://open.spotify.com/album/04VlKTXs6Pj31ds3gXDDkg) | 2:47 | 2021-12-03 | 2022-07-29 |
+| [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 | 2023-02-10 |  |
 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-12-03 | 2023-01-28 |
 | [Colors](https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-12-03 | 2022-07-29 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-12-03 | 2023-01-28 |
@@ -89,7 +90,7 @@
 | [Four Moons](https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Four Moons](https://open.spotify.com/album/03Lr0XypP8kCFSauaugvmi) | 3:35 | 2022-04-29 |  |
 | [Freedom](https://open.spotify.com/track/5rPKOVZtsRfdTuLWnnGrrY) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Freedom](https://open.spotify.com/album/44l94qLr2caA4ieB6eDT9W) | 3:55 | 2021-12-03 | 2022-07-29 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2021-12-03 | 2023-01-28 |
-| [Freedom \(Johnny's Song\)](https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Freedom \(Johnny's Song\)](https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw) | 4:12 | 2022-05-13 |  |
+| [Freedom \(Johnny's Song\)](https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Freedom \(Johnny's Song\)](https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw) | 4:12 | 2022-05-13 | 2023-02-11 |
 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 |  |
 | [Girl](https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Girl](https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb) | 2:57 | 2022-03-11 | 2022-04-21 |
@@ -114,7 +115,7 @@
 | [Holding Pattern](https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Boy](https://open.spotify.com/album/1xhTH88GmVGeWkl2R4gB2l) | 3:56 | 2022-04-29 | 2022-07-01 |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2021-12-24 | 2023-01-28 |
 | [Home](https://open.spotify.com/track/1oqv2RGjVEZxJtJTvXg9LD) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [Home](https://open.spotify.com/album/5MglSYFILutKSr7d5ZECeS) | 2:55 | 2022-03-04 | 2022-07-28 |
-| [Homebody](https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Homebody](https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7) | 2:35 | 2022-03-04 |  |
+| [Homebody](https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Homebody](https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7) | 2:35 | 2022-03-04 | 2023-02-11 |
 | [Honey, There's the Door](https://open.spotify.com/track/4s52lp8tyE4uDFZgKQIrPh) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lo\-Fi Soul](https://open.spotify.com/album/4EyTf708dFclXh8ALP4saW) | 3:43 | 2021-12-03 | 2022-04-20 |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2021-12-03 | 2023-01-28 |
 | [House On The Bay \(Nick Waterhouse Remix\)](https://open.spotify.com/track/1PCd39i0krAIzIS9VkuzHW) | [Alex McArtor](https://open.spotify.com/artist/18wxlqChFTwNsoxNMEG6sN), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [House On The Bay \(Nick Waterhouse Remix\)](https://open.spotify.com/album/6FEjEWq9riGQaqSsMG25Vw) | 3:53 | 2021-12-03 | 2022-07-29 |
@@ -263,6 +264,7 @@
 | [The Day](https://open.spotify.com/track/0ke9U2e1M4VU4R6fRBfhcw) | [Sille Trolle](https://open.spotify.com/artist/5RkAoyWwIt8ljO3cTSa4FV) | [The Day](https://open.spotify.com/album/3KnShXEl47Ok7ASlslmFcs) | 2:39 | 2022-03-04 | 2022-07-29 |
 | [The Dust](https://open.spotify.com/track/3Gg5r4GChsrKPOUbtN9PTY) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Air](https://open.spotify.com/album/1xDQ9p2dKLWa8FmcgcAdmm) | 2:45 | 2022-05-20 | 2022-06-26 |
 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 |  |
+| [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-10 |  |
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2022-07-19 |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2021-12-03 | 2022-10-01 |
 | [Then There Was You](https://open.spotify.com/track/4OkgX6DWNd0peWM54Q6gFf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:12 | 2021-12-03 | 2022-07-20 |

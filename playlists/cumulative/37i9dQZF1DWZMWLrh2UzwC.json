@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155143,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN"
+    },
+    {
+      "album": {
         "name": "abyss",
         "url": "https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE"
       },
@@ -16880,19 +16902,19 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         },
         {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
           "name": "Cordae",
           "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         }
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225882,
-      "name": "Curious (feat. Fabolous & Cordae)",
+      "name": "Curious (feat. Fabolous)",
       "url": "https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx"
     },
     {
@@ -52471,6 +52493,24 @@
     },
     {
       "album": {
+        "name": "My Luv",
+        "url": "https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152238,
+      "name": "My Luv",
+      "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
+    },
+    {
+      "album": {
         "name": "My Mind & Me",
         "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },
@@ -56746,7 +56786,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206956,
-      "name": "Old with You",
+      "name": "Old With You",
       "url": "https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax"
     },
     {

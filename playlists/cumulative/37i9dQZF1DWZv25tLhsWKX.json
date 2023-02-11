@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Where Nashville, Memphis & the Shoals meet. Cover: Yola",
+  "description": "Where Nashville, Memphis & the Shoals meet. Cover: The War and Treaty",
   "name": "Country Soul",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 143693,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/1PC5GV3OaoXx5em8ttQOMI"
+    },
+    {
+      "album": {
+        "name": "Ain't No Harmin' Me",
+        "url": "https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "Ain't No Harmin' Me",
+      "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
     },
     {
       "album": {
@@ -760,6 +778,24 @@
       "duration_ms": 199226,
       "name": "No Headstone on My Grave",
       "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/5xftBgxyioSxBqJ8e2yzaV"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275690,
+      "name": "No Longer Mine",
+      "url": "https://open.spotify.com/track/1yFdsXTdIIRG92zmnUIioH"
     },
     {
       "album": {

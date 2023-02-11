@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 2 hr 59 min
+59 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90's Gibson](https://open.spotify.com/track/0K5b1Mllvlhg5vroZjHaik) | [Jordan Roy](https://open.spotify.com/artist/0Xbe5WowYl9OkE5bMMs7vp) | [90's Gibson](https://open.spotify.com/album/1rVN6ndCttiTdkIgBwsm4b) | 2:59 | 2022-05-29 |  |
 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 | 2022-05-29 |  |
 | [All Your Kisses \- Acoustic](https://open.spotify.com/track/1u5jjtVuVOimNEyfmIUzhA) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses \(Acoustic\)](https://open.spotify.com/album/4NI8xIoY0qojBv2fMU46f1) | 2:28 | 2022-08-27 |  |
+| [Alles Om Me Heen](https://open.spotify.com/track/6y60mSvgI9Lld6W2O2p1WT) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg), [Jan van Duikeren](https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL) | [In Balans](https://open.spotify.com/album/2IrMLCRBXv2x69VSXjRJa6) | 3:00 | 2023-02-10 |  |
 | [Amplify](https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Amplify](https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT) | 3:51 | 2022-05-29 | 2022-07-07 |
 | [Amplify](https://open.spotify.com/track/1NPMjz6Dmg5kQZU5FM8hLI) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/2Sn0PHXNQ1Lt50QU8LdIKw) | 4:02 | 2022-07-06 | 2022-08-01 |
 | [Amplify](https://open.spotify.com/track/2fFldkVRbdYP92VA59AgSE) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/7sQxXhdvCjZImo0WsWthAZ) | 4:02 | 2022-07-31 |  |
@@ -36,6 +37,7 @@
 | [Hier bij jou](https://open.spotify.com/track/4ppcWL675MFv1NRVP1SH6A) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Hier bij jou](https://open.spotify.com/album/43dUIyykCYWuvmnia0Ab4t) | 2:51 | 2022-05-29 |  |
 | [High Days \(feat\. Cara Melín\)](https://open.spotify.com/track/2SVFPq7AIQjuFTjHMDgHnP) | [Hoved](https://open.spotify.com/artist/6aH5wUamNyPqimXRBt67k1), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [High Days \(feat\. Cara Melín\)](https://open.spotify.com/album/7I8QZ0ODUcU4jkvQ54Ldd7) | 2:47 | 2022-05-29 |  |
 | [How Would It Feel](https://open.spotify.com/track/5krCHvSTbLRJOVJ3s0xD2d) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:08 | 2022-05-29 |  |
+| [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/track/5ARaZug8wImCAm23KIqvwT) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/album/2HOODjF6x99Icb8BBe62VG) | 3:10 | 2023-02-10 |  |
 | [I'm On My Way](https://open.spotify.com/track/3iXgSRk7u8qcnM5xOsxyVw) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [I'm On My Way](https://open.spotify.com/album/1fuchE5QF91ApbeNXMkt1O) | 2:50 | 2022-05-29 |  |
 | [In Heaven](https://open.spotify.com/track/4uINEnAkWBH93gpB0dyhCd) | [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [In Heaven](https://open.spotify.com/album/4k5Qgmcc24xPOMBb1DCr4f) | 3:18 | 2022-05-29 |  |
 | [Make It Right](https://open.spotify.com/track/2lW49SW32TCCt5qj9LfiKc) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:52 | 2022-05-29 |  |

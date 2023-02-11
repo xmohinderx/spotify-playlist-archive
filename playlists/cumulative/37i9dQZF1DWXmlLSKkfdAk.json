@@ -4537,6 +4537,24 @@
     },
     {
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/2UCnax1zWCQhUq28qmvabX"
+      },
+      "artists": [
+        {
+          "name": "Jake & Shelby",
+          "url": "https://open.spotify.com/artist/0JdBmLuhVC8l8dE7f0rVjS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147140,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6rh3gEWwIDcB9Mxm4d0Gxt"
+    },
+    {
+      "album": {
         "name": "Sweater Weather (Acoustic)",
         "url": "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG"
       },

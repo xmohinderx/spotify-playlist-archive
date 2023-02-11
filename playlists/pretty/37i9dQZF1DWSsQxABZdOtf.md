@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,147 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 22 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 |
 | 23 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 24 | [Dark Spirit](https://open.spotify.com/track/5mpS3icHD2lGVQynVLczbl) | [Killjoy](https://open.spotify.com/artist/53zP3OFS7Ucgw1bcjoi9pH) | [Let's Go](https://open.spotify.com/album/25WMzq9AzJDjeCipOZixTr) | 5:39 |
-| 25 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 |
+| 25 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 |
 | 26 | [Freak](https://open.spotify.com/track/7w7rUZJKHDSB5Naqw3vcxM) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Freak](https://open.spotify.com/album/4az2wznRc4hPHy94DdabI0) | 2:28 |
 | 27 | [Killa Bee](https://open.spotify.com/track/4yQhCDcdotgZStMV6ZEJkh) | [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS), [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Killa Bee](https://open.spotify.com/album/3rL7Z7WNsZPgYQcQe17HG7) | 2:47 |
 | 28 | [TANGA](https://open.spotify.com/track/4nRtVXgY76Ge63RcRFGSwB) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [TANGA](https://open.spotify.com/album/5gBfdrJyldhw4qgWKAvar0) | 2:13 |

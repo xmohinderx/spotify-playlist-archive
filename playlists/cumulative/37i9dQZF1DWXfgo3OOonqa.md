@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: Alawee x Youzie
+> KLASS 2023: BABY MALA x Romeo
 
 811 songs - 1 day 11 hr 58 min
 
@@ -166,7 +166,7 @@
 | [Chocolata](https://open.spotify.com/track/27G9K6OFL17tQc14q5EUEA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-08 | 2023-01-06 |
 | [Chris Rock](https://open.spotify.com/track/3tbV2Cn1pCM4hhFSh70QwY) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Chris Rock](https://open.spotify.com/album/3TcgBgu9kU7jGEJjKXvByQ) | 2:19 | 2023-02-02 |  |
 | [Cirkel](https://open.spotify.com/track/7joU4tyNjJr0QUqAXQVkAX) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Cirkel](https://open.spotify.com/album/3X5YvPFQsyFmi6c6JxmQKw) | 2:23 | 2022-01-13 | 2022-02-04 |
-| [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 | 2023-01-26 |  |
+| [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozz6y](https://open.spotify.com/artist/4wpkcmQdt0QczYmULMLxsN) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 | 2023-01-26 |  |
 | [City](https://open.spotify.com/track/6fAUEo8PA6XrfZkU0pfnmK) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [City](https://open.spotify.com/album/5lgINLDSMBBIKqrSHDWYYq) | 2:22 | 2022-06-09 | 2022-08-16 |
 | [City \(feat\. A36\)](https://open.spotify.com/track/3o3L7pnXxyytOVPYJOm93W) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [City \(feat\. A36\)](https://open.spotify.com/album/1q1NTZmXxIkRSpH8y59Dy8) | 2:36 | 2022-04-07 | 2022-04-15 |
 | [CLAP CLAP](https://open.spotify.com/track/5CrDbsRpo7CqWeP2xjD3kr) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:32 | 2022-09-01 | 2022-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > 
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 178 songs - 10 hr 37 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 179 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 176 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 | 177 | [castle in the sky](https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:56 |
 | 178 | [wallflower](https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:50 |
+| 179 | [優しい恋人](https://open.spotify.com/track/20RdpyzBu94gLDFKYBtjBN) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [優しい恋人](https://open.spotify.com/album/0dpDAp1m2GCI9bZenj8Pb0) | 5:42 |
 
-Snapshot ID: `Mjc3LGU0NTkxMDlmNTQwM2M2ZmQ1NDBlZDAyZTRmNGJjZThkMTA1M2ZjYjQ=`
+Snapshot ID: `Mjc4LGI2NzU4ZTdmNzhkM2M5ZTg0Y2VmMzNkNTdjNTM4ODY5NTMxMTg0MTA=`

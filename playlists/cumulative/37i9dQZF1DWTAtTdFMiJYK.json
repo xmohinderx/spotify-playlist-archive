@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover : Akshath",
+  "description": "Most exciting artists from the Indian Indie scene. Cover : KASYAP",
   "name": "RADAR India",
   "tracks": [
     {
@@ -846,6 +846,24 @@
       "duration_ms": 172584,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo"
+    },
+    {
+      "album": {
+        "name": "Dar Nahi",
+        "url": "https://open.spotify.com/album/2uhMiaprwg9pGyaxAMOhXW"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Dar Nahi",
+      "url": "https://open.spotify.com/track/4xIgWpwTC5nFDXvH6KWCCJ"
     },
     {
       "album": {
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 249845,
       "name": "Mayflower",
       "url": "https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 186640,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8"
@@ -3764,6 +3782,24 @@
     {
       "album": {
         "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172823,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
+    },
+    {
+      "album": {
+        "name": "Tere Bina",
         "url": "https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs"
       },
       "artists": [
@@ -3796,7 +3832,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 211462,
       "name": "Tere Jaane Se",
       "url": "https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E"
@@ -3862,6 +3898,24 @@
       "duration_ms": 333473,
       "name": "Tu Kaun Hai",
       "url": "https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A"
+    },
+    {
+      "album": {
+        "name": "Udd Chala",
+        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286181,
+      "name": "Udd Chala",
+      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
     },
     {
       "album": {

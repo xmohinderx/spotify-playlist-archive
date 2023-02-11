@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 97937,
+  "num_followers": 98012,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMGNkM2FlYzQwOWE4MTY4NGJlNjQ1MmFiYWM0ZTg2NTg1",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMGRkNmY1NmFhNzgyODcyZjg1M2U0MTdiNmVkYzQ5MzVh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Mecano",
         "url": "https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 152600,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 239373,
-      "name": "Ay, qu\u00e9 pesado",
-      "url": "https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 239373,
+      "name": "Ay, qu\u00e9 pesado",
+      "url": "https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV"
     },
     {
       "added_at": "2022-08-31 07:27:49",

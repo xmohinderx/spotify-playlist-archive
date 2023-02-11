@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-110 songs - 5 hr 41 min
+113 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,14 +44,17 @@
 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 | 2022-03-18 |  |
 | [Deja Vu](https://open.spotify.com/track/5zdbfjCVtrAUwWeNFsE54s) | [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Deja Vu](https://open.spotify.com/album/1ZajUXNUXJDN3mhfheC2WB) | 3:33 | 2022-03-18 |  |
 | [Diaba](https://open.spotify.com/track/2pB7B2h6onWgWIfs1M7Q9Y) | [Dujazz](https://open.spotify.com/artist/0RclCtbyB3MrnPJzTwuZ5X), [celiszp](https://open.spotify.com/artist/29GPMUOoSNjZSwMh7YZvmI), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Diaba](https://open.spotify.com/album/2iXy7A5rSBqTbMToGiWb5i) | 3:36 | 2022-08-12 |  |
+| [Dolce](https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:16 | 2023-02-10 |  |
 | [Donna](https://open.spotify.com/track/067KY7gyzPgB2dEOhqlqhT) | [HoodBoy](https://open.spotify.com/artist/0ENK73asIFACBdANsrvSoG), [Guima](https://open.spotify.com/artist/1izfQ33KYdX2ObYH1vq1v1), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Donna](https://open.spotify.com/album/4DrdUrDSHBVUIYPQdfI69r) | 2:55 | 2022-03-18 |  |
 | [Ela](https://open.spotify.com/track/19A90nikDUdfC8DLPSmrPD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [World](https://open.spotify.com/album/5bmAakNQkQTopPnicgwWGf) | 3:04 | 2022-08-05 |  |
+| [Ela Fode](https://open.spotify.com/track/0XABL84VnC1mO7mnzKIhjV) | [PRÓ K](https://open.spotify.com/artist/5okGN1c4ym1LagLidc9cZk), [KIQ](https://open.spotify.com/artist/4o1mfAIDQqc0T605GOTpwp), [DIMVS](https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM), [Nuvin](https://open.spotify.com/artist/3OtSliJORxvXJeUPTNSleI) | [VIDA](https://open.spotify.com/album/56HmvEPJhwmX8LteTwWukY) | 2:24 | 2023-02-10 |  |
 | [Ela Me Liga](https://open.spotify.com/track/5iOFcEjr6SdsHk55KrRzgD) | [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ayo white](https://open.spotify.com/artist/4QqroK2g4AEB3FEnSjutjU) | [Ela Me Liga](https://open.spotify.com/album/22MlfL4ufJwxNAMN84GBYt) | 2:28 | 2022-08-26 |  |
 | [Enquanto](https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Enquanto](https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w) | 3:03 | 2022-03-18 |  |
 | [Eu Presto](https://open.spotify.com/track/2yyG2gtYGsRbkH6BN816ep) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Eu Presto](https://open.spotify.com/album/0NQrQxJXvtaL7goJG29Z3I) | 2:32 | 2022-03-18 |  |
 | [Faz Assim Mozão](https://open.spotify.com/track/5Y9Ovmryvd6AAxRo20UWR3) | [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [Bero Costa DJ](https://open.spotify.com/artist/4m3zOv7q3RCCDkEI506vxD) | [Faz Assim Mozão](https://open.spotify.com/album/5CcgaUjR3LI7WSnwARqJCw) | 2:59 | 2022-12-23 |  |
 | [FDP](https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F) | [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [FDP](https://open.spotify.com/album/1iLSwd1HT54A9EDI3w2F5F) | 2:15 | 2022-12-16 |  |
 | [Fim](https://open.spotify.com/track/1dG2h6cvRGzFPnypA4DDGK) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [GF Gahiji](https://open.spotify.com/artist/3hOtF6DHkFYMUyamsJHJoP), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Fim](https://open.spotify.com/album/7gua9NskGvji2pRWFjSbk1) | 1:43 | 2022-09-30 |  |
+| [Flores em Balneário](https://open.spotify.com/track/1RPSO8eSnGmTb8ukA4xKP5) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Flores em Balneário](https://open.spotify.com/album/4xDK1CoI9S3C7r7A7yadJC) | 2:26 | 2023-02-10 |  |
 | [Flutuar](https://open.spotify.com/track/53vCPvYsEtpvtVYKwuBetB) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Flutuar](https://open.spotify.com/album/1wzPVlNkLaSd2BHYCShNlv) | 2:12 | 2022-05-20 |  |
 | [Focus](https://open.spotify.com/track/162VcBVCZpoBdZ0EHBmIU7) | [Gabriel Zion](https://open.spotify.com/artist/0liLdGtWwe3d7E8AqOTIWX), [Lill Face](https://open.spotify.com/artist/6bDv2tyQdn0SUPpmc4ihgE) | [Focus](https://open.spotify.com/album/1OdkbezkxJqrqNf0ysKYZs) | 2:36 | 2022-06-10 | 2022-07-09 |
 | [Foge Comigo](https://open.spotify.com/track/3jhkAmFUVIA0MuRAaE1gLO) | [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Perotto](https://open.spotify.com/artist/1dVJwFlVYjciAKZF2BqTWx) | [Foge Comigo](https://open.spotify.com/album/33wOP9OMTbFxS2VC7cd2e4) | 2:41 | 2022-08-12 |  |

@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Ain't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        },
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Ain't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR"
+    },
+    {
+      "album": {
         "name": "All I Have to Do Is Dream (Acoustic)",
         "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
       },
@@ -680,7 +702,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 140442,
       "name": "Girls Just Want To Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
@@ -1511,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Marry You (Acoustic)",
+        "url": "https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191969,
+      "name": "Marry You - Acoustic",
+      "url": "https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ"
+    },
+    {
+      "album": {
         "name": "Mercy (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT"
       },
@@ -1634,6 +1674,24 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B"
+    },
+    {
+      "album": {
+        "name": "Never Too Much (Acoustic)",
+        "url": "https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163645,
+      "name": "Never Too Much - Acoustic",
+      "url": "https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn"
     },
     {
       "album": {
@@ -2168,7 +2226,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 163132,
       "name": "Sweet Dreams (Are Made of This) - Acoustic",
       "url": "https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z"
@@ -2370,7 +2428,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 160235,
       "name": "Valerie - Acoustic",
       "url": "https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX"

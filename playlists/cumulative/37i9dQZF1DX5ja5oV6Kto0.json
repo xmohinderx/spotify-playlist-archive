@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Dagger",
+        "url": "https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137451,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
+    },
+    {
+      "album": {
         "name": "Dami Duro - Spotify Singles",
         "url": "https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE"
       },
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 208571,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205"

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: Leony",
-  "num_followers": 863930,
+  "num_followers": 863887,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY3NDAxOSwwMDAwMDAwMGRkMTk1YWIxZDYxMjE1MmJmZjk0ZDAwNmVmZDE4NDcw",
+  "snapshot_id": "MTY3NTY3NDAxOSwwMDAwMDAwMDQ3YzYwNzE3OTdmMDlmNmEwMmQwNzM2YjNjMTQ2MDAz",
   "tracks": [
     {
       "added_at": "2023-02-06 09:00:19",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "Ruin My Life",
-        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "MAPSI",
         "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 160941,
       "name": "MAPSI",
       "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "\u00e7a m'ennuie pas",
-        "url": "https://open.spotify.com/album/78CAyyGUofZpcsX7daKIrc"
-      },
-      "artists": [
-        {
-          "name": "Ch\u00e9rine",
-          "url": "https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM"
-        }
-      ],
-      "duration_ms": 181709,
-      "name": "\u00e7a m'ennuie pas",
-      "url": "https://open.spotify.com/track/7siHCotFdZC5xbITODUm2U"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "Pick Up Your Feelings",
         "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 232096,
       "name": "Pick Up Your Feelings",
       "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "\u00e7a m'ennuie pas",
+        "url": "https://open.spotify.com/album/78CAyyGUofZpcsX7daKIrc"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9rine",
+          "url": "https://open.spotify.com/artist/3O9jaKAXthR1nO4CTCAzRM"
+        }
+      ],
+      "duration_ms": 181709,
+      "name": "\u00e7a m'ennuie pas",
+      "url": "https://open.spotify.com/track/7siHCotFdZC5xbITODUm2U"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
         "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
       },
@@ -371,22 +355,34 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "Child Of Sin",
-        "url": "https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N"
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
       },
       "artists": [
         {
-          "name": "Kovacs",
-          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
-        },
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
         }
       ],
-      "duration_ms": 230462,
-      "name": "Child Of Sin",
-      "url": "https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc"
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -403,6 +399,26 @@
       "duration_ms": 230735,
       "name": "2/10",
       "url": "https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "Child Of Sin",
+        "url": "https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N"
+      },
+      "artists": [
+        {
+          "name": "Kovacs",
+          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
+        },
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 230462,
+      "name": "Child Of Sin",
+      "url": "https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -435,22 +451,6 @@
       "duration_ms": 225333,
       "name": "Gazoza",
       "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "Haramata",
-        "url": "https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W"
-      },
-      "artists": [
-        {
-          "name": "Klavdia",
-          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Haramata",
-      "url": "https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "Break It",
         "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 167626,
       "name": "Break It",
       "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "Haramata",
+        "url": "https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Haramata",
+      "url": "https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "Honey Bun",
-        "url": "https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm"
-      },
-      "artists": [
-        {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "Honey Bun",
-      "url": "https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "Sejuta Maaf",
         "url": "https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232000,
       "name": "Sejuta Maaf",
       "url": "https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "Honey Bun",
+        "url": "https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "Honey Bun",
+      "url": "https://open.spotify.com/track/20f6NKhIFA61Sw4bjYKHu7"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "The One (I Haven't Met)",
-        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Ezmeralda",
-          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "The One (I Haven't Met)",
-      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
         "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 191927,
       "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "The One (I Haven't Met)",
+        "url": "https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Ezmeralda",
+          "url": "https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "The One (I Haven't Met)",
+      "url": "https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
-      },
-      "artists": [
-        {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
-      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "O quarto (fado Pagem)",
         "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 200000,
       "name": "O quarto (fado Pagem)",
       "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
+        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
+      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
     },
     {
       "added_at": "2023-02-06 09:00:19",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-02-06 09:00:19",
       "album": {
-        "name": "la jaula",
-        "url": "https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bain",
-          "url": "https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt"
-        },
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "la jaula",
-      "url": "https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz"
-    },
-    {
-      "added_at": "2023-02-06 09:00:19",
-      "album": {
         "name": "Khud Se Batein",
         "url": "https://open.spotify.com/album/0QfGadwZJANJVKx3ArDdpu"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 212000,
       "name": "Khud Se Batein",
       "url": "https://open.spotify.com/track/24hgCglfhw2iscv3rrze80"
+    },
+    {
+      "added_at": "2023-02-06 09:00:19",
+      "album": {
+        "name": "la jaula",
+        "url": "https://open.spotify.com/album/2q7xnQethPPhteviQSVkZf"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bain",
+          "url": "https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt"
+        },
+        {
+          "name": "Karma C",
+          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "la jaula",
+      "url": "https://open.spotify.com/track/1Be3ou3Z5sBq0qwgR6ymIz"
     },
     {
       "added_at": "2023-02-06 09:00:19",

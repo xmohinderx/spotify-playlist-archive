@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Paula Cendejas",
+  "description": "Fresh Latin pop on the rise. Cover: Mau y Ricky",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 175200,
       "name": "Buscando un Amor",
       "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
@@ -1927,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "Emeyc\u00e9 (feat. Danny Ocean)",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9 (feat. Danny Ocean)",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "album": {
         "name": "En Camara Lenta",
         "url": "https://open.spotify.com/album/4B50gmMfVnHcMyURL9cZiq"
       },
@@ -2124,7 +2146,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 268115,
       "name": "Falsas Promesas",
       "url": "https://open.spotify.com/track/22CiUJfxqy351cndvSdpSE"
@@ -2963,6 +2985,28 @@
     },
     {
       "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
+    },
+    {
+      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -3318,6 +3362,24 @@
       "duration_ms": 219414,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130653,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
       "album": {
@@ -5748,7 +5810,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 166730,
       "name": "Vamos Pa la Playa",
       "url": "https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9"

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-1,019 songs - 2 day 3 hr 57 min
+1,021 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 | 2022-04-28 | 2022-06-03 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-03 | 2022-04-01 |
 | [Heart Ake](https://open.spotify.com/track/6gjzOAOSHzij4hFJUvuDLE) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DJ Pauly Peach](https://open.spotify.com/artist/1gwuIlwXfdJXafbhb2xMrj) | [Heart Ake](https://open.spotify.com/album/7cKUmOWK25W0Xj7que25jF) | 2:21 | 2023-02-02 |  |
+| [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-10 |  |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-04-15 |
 | [Hell Ya Been](https://open.spotify.com/track/2S30XqlJ9Cww6VJEWWp4Oj) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FOREVER FIGUEROA 2](https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc) | 3:13 | 2022-03-31 | 2022-04-08 |
 | [Hell Yahh!](https://open.spotify.com/track/3W4ItoiLq2sq0PUVDN3e90) | [Boysyaka](https://open.spotify.com/artist/20hML6oHWY66gYeTyDFr8R), [Oyami](https://open.spotify.com/artist/2HHbaQyJSBiueJOPiHRfg4) | [Hell Yahh!](https://open.spotify.com/album/6VgIiQE8eo6vHdIjHiMVTu) | 2:52 | 2022-12-29 | 2023-02-10 |
@@ -609,6 +610,7 @@
 | [Night Scenes](https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1) | [Vince The Messenger](https://open.spotify.com/artist/7wKTJPnPgXQ8ENAlfpM0eA), [TNA](https://open.spotify.com/artist/135FZ4psdYk6oVrWcTv0LT) | [Night Scenes](https://open.spotify.com/album/3sWSH52ckbAFt3W2llzGs8) | 3:55 | 2022-02-10 | 2022-03-04 |
 | [NIKE DRIP](https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [NIKE DRIP](https://open.spotify.com/album/17uYQm4gLmpiuwAa3rkyaz) | 2:00 | 2022-09-14 | 2022-10-28 |
 | [no bad vibes](https://open.spotify.com/track/5UGItqf6dcDAsNaoaTuRwY) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [no bad vibes](https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn) | 2:34 | 2022-02-10 | 2022-03-04 |
+| [No Days Off \(feat\. Chris Brown\)](https://open.spotify.com/track/00WrKIo8ouRqOVqRoICMVG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Flowers](https://open.spotify.com/album/7o8DwLov2NtcxsfaO9sfdi) | 3:19 | 2023-02-10 |  |
 | [No Difference](https://open.spotify.com/track/5LtruwKEsXHdOareYrBklX) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [No Difference](https://open.spotify.com/album/1aYRvV3ymnKsWaZKlBaXU2) | 3:32 | 2023-01-12 |  |
 | [No Doubt](https://open.spotify.com/track/1JS6uJeYOerdx7U5y9Tbdc) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:28 | 2022-05-05 | 2022-05-27 |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-04-15 |

@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 425772,
+  "num_followers": 425847,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGEwMmZmNTc1N2ViZmZmMWJhYzhkODQ3MTk1N2NhNzFi",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDA0M2Q1YjNiZDI2MDlkMzYwZmE1ZDEzNzBiMWQ2YTFi",
   "tracks": [
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Ain't No Harmin' Me",
+        "url": "https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Ain't No Harmin' Me",
+      "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
+    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -25,22 +41,6 @@
       "url": "https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Pensive Pop",
-        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Coming Home (Deluxe)",
@@ -55,6 +55,22 @@
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Pensive Pop",
+        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -105,22 +121,6 @@
       "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
-    },
-    {
       "added_at": "2023-02-03 05:01:00",
       "album": {
         "name": "Bayou Blues (Demo Version)",
@@ -137,6 +137,42 @@
       "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "The Kernow Sessions (Live)",
+        "url": "https://open.spotify.com/album/0QjrKDQK2r6QLDHt03byiz"
+      },
+      "artists": [
+        {
+          "name": "Wille and the Bandits",
+          "url": "https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD"
+        },
+        {
+          "name": "Helm DeVegas",
+          "url": "https://open.spotify.com/artist/6q6MksNiBbvkAWaJUvcWTL"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Still Go Marching In (Live)",
+      "url": "https://open.spotify.com/track/3np14vGyPYEnbQU3bHjItw"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "The Dip Delivers",
@@ -151,38 +187,6 @@
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Blank Page",
-        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 335160,
-      "name": "Blank Page",
-      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Forever You and Me",
-        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 175592,
-      "name": "Forever You and Me",
-      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -247,6 +251,22 @@
       "duration_ms": 392800,
       "name": "Soulfight",
       "url": "https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 175592,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -393,6 +413,22 @@
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "stripped back",
+        "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Eastham Prison Farm Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Waiting on a Song",
@@ -423,22 +459,6 @@
       "duration_ms": 195340,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "stripped back",
-        "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Eastham Prison Farm Blues - Stripped Back",
-      "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -693,6 +713,22 @@
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 294933,
+      "name": "The Lengths",
+      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Tin Cups",
@@ -711,22 +747,6 @@
       "duration_ms": 182560,
       "name": "Tin Cups",
       "url": "https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 294933,
-      "name": "The Lengths",
-      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -885,6 +905,22 @@
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "S\u00edminn+Spotify Session",
@@ -915,22 +951,6 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 169569,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1239,22 +1259,6 @@
       "duration_ms": 188869,
       "name": "Shake! Shake! Shake!",
       "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     }
   ],
   "unique_name": "Blues Roots",

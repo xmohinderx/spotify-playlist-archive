@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-583 songs - 1 day 5 hr 11 min
+584 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [LA LA](https://open.spotify.com/track/2f16hnBDWaBDZyngM3USQw) | [Thomas Irwin](https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [LA LA](https://open.spotify.com/album/2jNsFY1USlFFhfiLXq7nFQ) | 2:53 | 2022-03-24 | 2022-12-25 |
 | [La La Light](https://open.spotify.com/track/3mQKWiSQjMKNEgBo20GAOb) | [OLWIK](https://open.spotify.com/artist/7z55f4aJkaPR4EF2BXqsq7), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [La La Light](https://open.spotify.com/album/0xeVTgosVIG2cXAiQWiGLn) | 2:58 | 2021-01-16 | 2022-04-18 |
 | [Lambada](https://open.spotify.com/track/1JyRjcUxnDd0TaR5Sd0V3c) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Manos](https://open.spotify.com/artist/0YpW5IBgyiQVWG7VpiyI62) | [Lambada](https://open.spotify.com/album/5NDn2gTfasa4rJd9QHhCQM) | 3:06 | 2020-08-14\* | 2021-10-16 |
+| [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 | 2023-02-09 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Lay All Your Love On Me](https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T) | 2:35 | 2022-09-08 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-05 |  |
 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 | 2020-08-14\* | 2022-04-20 |

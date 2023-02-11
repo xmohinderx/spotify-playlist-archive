@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO"
+      },
+      "artists": [
+        {
+          "name": "Matt Forbes",
+          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216738,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
+    },
+    {
+      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 184506,
       "name": "Luck Be a Lady",
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"

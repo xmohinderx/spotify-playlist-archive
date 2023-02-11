@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 579,
+  "num_followers": 582,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGJjOWQ5OWJlMDliMDUyZjJlZDgwMDhmOGYxMWZlNmUx",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDgwZWZmNWRmYzQ1MmRjZGNjZTJjN2JkMzY3NzRhNmY2",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Di pain griy\u00e9",
-        "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        },
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Di pain griy\u00e9",
-      "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Nou Sime",
         "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 225375,
       "name": "Kifer to Pale Danse",
       "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Di pain griy\u00e9",
+        "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        },
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Di pain griy\u00e9",
+      "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -311,30 +311,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        }
-      ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "ZENFAN LAKAZ TOL",
         "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 204742,
       "name": "Moris",
       "url": "https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",

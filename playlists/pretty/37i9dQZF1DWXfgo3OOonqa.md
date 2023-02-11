@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: Alawee x Youzie
+> KLASS 2023: BABY MALA x Romeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,459 likes - 79 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,586 likes - 79 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
-| 2 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
+| 1 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
+| 2 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
 | 3 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 4 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 5 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 21 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 |
 | 22 | [Min sida](https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Min sida](https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC) | 2:27 |
 | 23 | [Nordvästra](https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nordvästra](https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2) | 2:35 |
-| 24 | [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 |
+| 24 | [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozz6y](https://open.spotify.com/artist/4wpkcmQdt0QczYmULMLxsN) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 |
 | 25 | [Privjet](https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Privjet](https://open.spotify.com/album/1n1S21npyuvze19FjLdrR4) | 2:22 |
 | 26 | [Trapstar](https://open.spotify.com/track/65EbLNXHsdqXbMN8PR7AnC) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Trapstar](https://open.spotify.com/album/38cssEJR7TZKy0bNaMfZj8) | 2:45 |
 | 27 | [UTE PÅ JAKT](https://open.spotify.com/track/3XDKCULgNxH5s6WdgZge2G) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [UTE PÅ JAKT](https://open.spotify.com/album/1lyWpBbEUphXWN2KmlVFqx) | 2:01 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 78 | [KIOSK FREESTYLE](https://open.spotify.com/track/2DaReD6n8gFbUfH7j4thNt) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6) | [KIOSK FREESTYLE](https://open.spotify.com/album/0Dvp6E2WrPVgmlj4EJBVDw) | 2:36 |
 | 79 | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/track/1OwpLtZ5IeQrGii3q2i9W5) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj) | 3:08 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGIyMGZhYmExZmM1NTcyNTNhNGRhZDZlYTAwMDAzZGNh`
+Snapshot ID: `MTY3NjA3MDAwMCwwMDAwMDAwMDU2NzhjOTFiYzg3OGE3N2U0ZWIwOTBiYjQ0ZDRiYzNl`

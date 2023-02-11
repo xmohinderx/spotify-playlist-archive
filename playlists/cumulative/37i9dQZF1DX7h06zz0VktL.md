@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7h06zz0VktL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7h06zz0VktL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7h06zz0VktL)
 
-### [This Is Super Junior](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
+### [This Is SUPER JUNIOR](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 
-> All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
+> All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!
 
 190 songs - 11 hr 20 min
 

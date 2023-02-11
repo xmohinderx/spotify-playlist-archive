@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Savage Ga$p
 
-376 songs - 14 hr 49 min
+377 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Crooked Smile](https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8) | [Unaverage Gang](https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA) | [Crooked Smile](https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx) | 2:32 | 2022-03-10 |  |
 | [CROWN](https://open.spotify.com/track/712GtX9zzVa02hfTwKA1Ff) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [CROWN](https://open.spotify.com/album/3CGqPpv4c2TRMtoGzOP0UL) | 1:51 | 2022-01-21 | 2022-11-26 |
 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 | 2021-11-12 | 2022-05-08 |
+| [Cyber!](https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [scrot!](https://open.spotify.com/artist/3kOJVA2xUgMPWClERz2q5M) | [Cyber!](https://open.spotify.com/album/6jKjmMdTd717UG6SXCOZGI) | 2:24 | 2023-02-10 |  |
 | [DATAMOSHBLOODDROP](https://open.spotify.com/track/0Wix0CB1XZ3aCVaVZo6mnT) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [DATAMOSHBLOODDROP](https://open.spotify.com/album/5hjfjcqj8IbrY9c4CmlgFf) | 2:55 | 2022-02-18 | 2022-04-19 |
 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 | 2022-04-11 | 2022-05-17 |
 | [Dead Head](https://open.spotify.com/track/3BFSnq39LgVlqsMay7fpbN) | [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Dead Head](https://open.spotify.com/album/3PYsY6kWAlEhpjul4lk8R6) | 1:20 | 2022-10-28 | 2022-11-10 |

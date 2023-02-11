@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AntsLive",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Double Lz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3068,6 +3068,32 @@
       "duration_ms": 215111,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/18SzRv5V3kIVMDtsHiLQnQ"
+    },
+    {
+      "album": {
+        "name": "Beautiful Day (Thank You for Sunshine)",
+        "url": "https://open.spotify.com/album/56ogHhOqlsBAiou1pQWSyB"
+      },
+      "artists": [
+        {
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        },
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110070,
+      "name": "Beautiful Day (Thank You for Sunshine)",
+      "url": "https://open.spotify.com/track/1wNlxeNoKgMK3pAuZCHDcJ"
     },
     {
       "album": {
@@ -14799,6 +14825,24 @@
     },
     {
       "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/4fZ5N0VHK0zb4JIuvft1cO"
       },
@@ -14858,6 +14902,28 @@
       "duration_ms": 206694,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4E6KYlUY2wTVciZz9kwnBG"
+    },
+    {
+      "album": {
+        "name": "Menace II Society",
+        "url": "https://open.spotify.com/album/7hEkvnb4BgSY7yMlxZeC6Y"
+      },
+      "artists": [
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "OFB",
+          "url": "https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Menace II Society",
+      "url": "https://open.spotify.com/track/2hSUMQu3NduxIALm2riTOh"
     },
     {
       "album": {
@@ -23886,7 +23952,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 325333,
       "name": "This Is What I Mean",
       "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"

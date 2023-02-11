@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
 
 117 songs - 5 hr 59 min
 

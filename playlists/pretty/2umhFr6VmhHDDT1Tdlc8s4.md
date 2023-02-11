@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 33 songs - 1 hr 55 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 34 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 31 | [Like Slow Disappearing](https://open.spotify.com/track/2N1ySGeZxPjm0PqTiIkmjJ) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/1v7hBIWUmfhggbxYd9HIW7) | 3:55 |
 | 32 | [Life We've Built](https://open.spotify.com/track/0vyc9xaz0TaDicl4F2AuQQ) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Life We've Built](https://open.spotify.com/album/5kxKNgs6U71Oj9asgDLzvH) | 3:49 |
 | 33 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
+| 34 | [glow](https://open.spotify.com/track/26uy5q3eO6172OcVxogMeu) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [all my boyfriends](https://open.spotify.com/album/1EKtv3hcYWRTBX1kipfaLA) | 3:22 |
 
-Snapshot ID: `NDAsNzQ1MWFhYWM5ZGQyMjVlYzIyMjA1NWE1OWUzNTIyMjEzNTYzMTQ5Yw==`
+Snapshot ID: `NDEsMzE0YmU3ZDFjODBkYjI0YmM3NTAyZGM5YzkxYmFjN2RlY2RiYmZkNg==`

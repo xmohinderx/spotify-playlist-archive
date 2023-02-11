@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 65545,
+  "num_followers": 65778,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDczMDEzNjJiYzhlZWNlNDEzMGQ2YWUyYTk5ZDRmMzNm",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDQ3NGMxYTYzODI3OThiMjI0YzI5NmMxMzFhMjg1Mzlh",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
     },
     {
-      "added_at": "2023-02-10 00:20:11",
+      "added_at": "2023-02-11 00:41:41",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
-      "added_at": "2023-02-10 00:20:11",
+      "added_at": "2023-02-11 00:41:41",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Fascination!",
-        "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Mirror Man",
-      "url": "https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 215346,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Fascination!",
+        "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Mirror Man",
+      "url": "https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4"
     },
     {
       "added_at": "2023-01-25 15:11:28",

@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-204 songs - 11 hr 3 min
+205 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aura](https://open.spotify.com/track/0nzIp8UuHE5UxInOdaHvAy) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Aura](https://open.spotify.com/album/4FTuhl7ay2UEaG0UZ0AVOU) | 2:37 | 2022-08-12 | 2022-08-20 |
 | [Açaí](https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Lipe](https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN) | 2:41 | 2022-06-14 | 2022-07-23 |
 | [Baixinha Marrenta](https://open.spotify.com/track/30mYXNYklxnOvARxXYUkgQ) | [Micael](https://open.spotify.com/artist/6GebSQv9yjXJND5hHIaQfY) | [Baixinha Marrenta](https://open.spotify.com/album/0l1tEXSTHyGjDKiLIrYKl1) | 3:04 | 2022-10-07 | 2022-10-29 |
-| [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 | 2022-12-09 |  |
+| [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 | 2022-12-09 | 2023-02-11 |
 | [Bom Dia](https://open.spotify.com/track/6XHg6HXseoI9JkBT8syZoG) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Bom Dia](https://open.spotify.com/album/77YRQEWttYewhkSOXCHAZJ) | 3:33 | 2022-11-19 | 2022-12-10 |
 | [Brigas](https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Brigas](https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH) | 4:52 | 2022-05-23 | 2022-12-10 |
 | [Calo na Garganta](https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Calo na Garganta](https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv) | 4:28 | 2022-10-14 | 2022-12-03 |
@@ -150,6 +150,7 @@
 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-24 |  |
 | [Posturada](https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Posturada](https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG) | 2:56 | 2022-05-23 |  |
 | [Pra Lá de Bagdá](https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Griml0k](https://open.spotify.com/artist/5nu42SRKx0vVc4wwOTiq7u), [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [Pra Lá de Bagdá](https://open.spotify.com/album/1eJ59THKDjefHpU3k3I325) | 2:31 | 2022-10-28 | 2022-11-12 |
+| [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-10 |  |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 2:20 | 2022-09-20 | 2023-02-06 |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [PRIMEIRA VISTA](https://open.spotify.com/album/47lAPANo6Dr5BKnU7x0RLM) | 2:20 | 2022-05-23 | 2022-09-09 |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-10-14 |  |

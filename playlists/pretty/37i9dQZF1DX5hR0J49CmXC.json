@@ -1,15 +1,59 @@
 {
   "description": "That real hip-hop. Cover: Cordae",
-  "num_followers": 9473,
+  "num_followers": 9588,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MzYwMCwwMDAwMDAwMGMzODYxZDAyY2U0NGIxZDhkYjVhY2MyMjc5ZDYwNDNh",
+  "snapshot_id": "MTY3NjAwNzM4NiwwMDAwMDAwMDQ5NGViNGUwZDYzN2EyMjk3ODRmNDYxMzA2YTM0YjVk",
   "tracks": [
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
+      "album": {
+        "name": "Paradise II (feat. Norah Jones)",
+        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Paradise II (feat. Norah Jones) - Single Version",
+      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
+    },
+    {
+      "added_at": "2023-02-10 05:36:26",
+      "album": {
+        "name": "FAR",
+        "url": "https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        {
+          "name": "Kirk Knight",
+          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
+        },
+        {
+          "name": "Dirty Sanchez 47",
+          "url": "https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ"
+        }
+      ],
+      "duration_ms": 202849,
+      "name": "FAR",
+      "url": "https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz"
+    },
+    {
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
@@ -29,7 +73,27 @@
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
+      "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
+    },
+    {
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Chaos Is My Ladder",
         "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
@@ -53,7 +117,7 @@
       "url": "https://open.spotify.com/track/5ZFtDmpcRHqt3Taf0Ydq05"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Penultimate: A Calm Wolf Is Still A Wolf",
         "url": "https://open.spotify.com/album/1b2b8GpDk1KVl01TgxuFBI"
@@ -73,27 +137,23 @@
       "url": "https://open.spotify.com/track/5mWowhl5lNvvzFd965GNDf"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+        "name": "MOST DANGEROUS",
+        "url": "https://open.spotify.com/album/2lvWkIg8gxm7Tg7xKJ2kDD"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Anoyd",
+          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
+      "duration_ms": 224680,
+      "name": "MOST DANGEROUS",
+      "url": "https://open.spotify.com/track/7DBaTR7rUjFpzmh3xdwt63"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "I Still Don't Cry",
         "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
@@ -109,7 +169,7 @@
       "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Rain Falls",
         "url": "https://open.spotify.com/album/4IU6tIFCwMuHk5f0CYEhSI"
@@ -133,7 +193,7 @@
       "url": "https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Chaos Is My Ladder",
         "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
@@ -157,7 +217,7 @@
       "url": "https://open.spotify.com/track/2ncqpYJvmzIPAajiRzBzn3"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Running From Time",
         "url": "https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7"
@@ -173,7 +233,27 @@
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
+      "album": {
+        "name": "Outsidigan's Anthem",
+        "url": "https://open.spotify.com/album/70wGybjKrutCGGvhXAo388"
+      },
+      "artists": [
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "Foisey",
+          "url": "https://open.spotify.com/artist/5r8QIG7EYHw09UZJm7rsZB"
+        }
+      ],
+      "duration_ms": 197687,
+      "name": "Outsidigan's Anthem",
+      "url": "https://open.spotify.com/track/2n5jf9TOsdm51oCbTLBzbC"
+    },
+    {
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Penultimate: A Calm Wolf Is Still A Wolf",
         "url": "https://open.spotify.com/album/1b2b8GpDk1KVl01TgxuFBI"
@@ -189,7 +269,7 @@
       "url": "https://open.spotify.com/track/3pCVonu1qfrDepmvGRXnfj"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Jackson 5 Freestyle (Remix)",
         "url": "https://open.spotify.com/album/3aXxfzd3tsAV9YVdmd5Up8"
@@ -205,7 +285,7 @@
       "url": "https://open.spotify.com/track/4xhr1cyNekBKc9RtTAuHBY"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Reset Button",
         "url": "https://open.spotify.com/album/7dcpBAKCbSsnLpTAba717O"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/0SHUhh6O4qhuJjOgw1wx0R"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "HEROES (feat. DJ Premier)",
         "url": "https://open.spotify.com/album/35b56rQm3FwWF6wGy03dbI"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/75RQYCt0aVJrk1QXgwOS32"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "MORE BLACK SUPERHEROES (LIMITED EDITION)",
         "url": "https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF"
@@ -261,7 +341,7 @@
       "url": "https://open.spotify.com/track/11gnrvlVKpGudOeoUyUPiL"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "HERBERT",
         "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
@@ -277,7 +357,7 @@
       "url": "https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Chaos Is My Ladder",
         "url": "https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/0UYRaTiNTL5F8tAFQ8Du91"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Indiana Jones",
         "url": "https://open.spotify.com/album/1XO6GVqyUmy3AVOclmVoO3"
@@ -325,7 +405,7 @@
       "url": "https://open.spotify.com/track/27coQy1sDtTU96CY9SMPxm"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Lyrics to GO, Vol. 4",
         "url": "https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3"
@@ -341,7 +421,7 @@
       "url": "https://open.spotify.com/track/5JdUey8Lr6kbSXRKDDWtQy"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -357,7 +437,7 @@
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Nehruvia (Redux)",
         "url": "https://open.spotify.com/album/6VdsJfEWJFVswqKFC1vu4Z"
@@ -373,7 +453,7 @@
       "url": "https://open.spotify.com/track/4qJk0NpRWAlnh9RiDc6uuw"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Be That as It May",
         "url": "https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/05bBn97ouEWSy4rcToF67T"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Lyrics to GO, Vol. 4",
         "url": "https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/4QxxZXnLWDWcU2JVi1Kzv5"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
@@ -437,7 +517,7 @@
       "url": "https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Park Bench Blues (feat. Curren$y)",
         "url": "https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Somebody Up There Loves Me",
         "url": "https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "In The Beginning (Vol. 3)",
         "url": "https://open.spotify.com/album/3TUzdmLEshrvjPw9zsUbtu"
@@ -533,7 +613,7 @@
       "url": "https://open.spotify.com/track/5PAqd79gMDiICGSGaP3rRh"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Flag on the Play",
         "url": "https://open.spotify.com/album/0S2t8ZaN7pKejn2oljIrGA"
@@ -553,7 +633,7 @@
       "url": "https://open.spotify.com/track/5XbnkjcSa8TY535pP633fL"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Rose Gold Rolies",
         "url": "https://open.spotify.com/album/3hGD5PvepQpxtVypyIPaJl"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/5fmAEJamWlGXAVu7K1pLuR"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Ill Minded",
         "url": "https://open.spotify.com/album/0mLsPLDJeEuD8CPK2WtM08"
@@ -593,7 +673,7 @@
       "url": "https://open.spotify.com/track/2bq2G9ItTuirfmd0ZDzEuf"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Moonshooter",
         "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
@@ -609,7 +689,7 @@
       "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -625,7 +705,7 @@
       "url": "https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
@@ -657,7 +737,7 @@
       "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "The Good Times Are Killing Me",
         "url": "https://open.spotify.com/album/27EfRDGVVDFjVr7NjFOqR3"
@@ -673,7 +753,7 @@
       "url": "https://open.spotify.com/track/42EY1OgRiaP4ZwnRAj5B0r"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Beyond Belief",
         "url": "https://open.spotify.com/album/4sUrlfdr2MBqd2RU9hWEBS"
@@ -701,7 +781,7 @@
       "url": "https://open.spotify.com/track/6tyChhfP6Zz6PhCh5FdvRh"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/7mn48TUp1KTgkLvmikp4gG"
@@ -725,7 +805,7 @@
       "url": "https://open.spotify.com/track/3KyCfeOOVemk6c1vF8Qjo7"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "God Flows",
         "url": "https://open.spotify.com/album/7ERW7lfTmuvNvgCLOqjZpY"
@@ -745,7 +825,7 @@
       "url": "https://open.spotify.com/track/14wrStF74l3HwpvgIMyCPU"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Born Hustler",
         "url": "https://open.spotify.com/album/0czvcUdIkXYGeoyETuGeOC"
@@ -769,27 +849,7 @@
       "url": "https://open.spotify.com/track/0Riib1E5Ru66C0RnJSFLcK"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 244250,
-      "name": "Peppas (feat. Black Star)",
-      "url": "https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX"
-    },
-    {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Kool Aid (with Dave B.)",
         "url": "https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR"
@@ -809,7 +869,7 @@
       "url": "https://open.spotify.com/track/1spizWhedqBEs55T7UQghA"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Book of David",
         "url": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
@@ -833,7 +893,7 @@
       "url": "https://open.spotify.com/track/2mx7KsvHjcX60LndPpaP3I"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
@@ -849,7 +909,7 @@
       "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Flowers To Go",
         "url": "https://open.spotify.com/album/0E0MaqO6gmxTYspn86Zszr"
@@ -865,7 +925,7 @@
       "url": "https://open.spotify.com/track/0BE0kQKawB7F8Ok2pOdSvt"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "Book of David",
         "url": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
@@ -889,7 +949,7 @@
       "url": "https://open.spotify.com/track/2J5kZDuqbaefjmiYikVQJH"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -905,47 +965,7 @@
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
-      "added_at": "2023-02-03 17:00:00",
-      "album": {
-        "name": "Speshal (feat. Stove God Cooks)",
-        "url": "https://open.spotify.com/album/311AVHrevLtAs3OQwCYfEp"
-      },
-      "artists": [
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 143027,
-      "name": "Speshal (feat. Stove God Cooks)",
-      "url": "https://open.spotify.com/track/2PhzrOqMV0j6oNbvSNJXKo"
-    },
-    {
-      "added_at": "2023-02-03 17:00:00",
-      "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Still In America",
-      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
-    },
-    {
-      "added_at": "2023-02-03 17:00:00",
+      "added_at": "2023-02-10 05:36:26",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -963,46 +983,6 @@
       "duration_ms": 159935,
       "name": "Dave Chappelle is Wrong (Beef With God)",
       "url": "https://open.spotify.com/track/7F217Uq61qLs6zkM9dmpzX"
-    },
-    {
-      "added_at": "2023-02-03 17:00:00",
-      "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 446822,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9"
-    },
-    {
-      "added_at": "2023-02-03 17:00:00",
-      "album": {
-        "name": "Mr. Ten08",
-        "url": "https://open.spotify.com/album/435IlEi1RnaVcneGSk7UhH"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Futurewave",
-          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
-        },
-        {
-          "name": "2100 Bagz",
-          "url": "https://open.spotify.com/artist/7JPI5DNZY2GkJ4FHmJzBIL"
-        }
-      ],
-      "duration_ms": 168081,
-      "name": "Dormin's (feat. 2100 Bagz)",
-      "url": "https://open.spotify.com/track/44KJ6vZyy2oVzgdAFyUbht"
     }
   ],
   "unique_name": "Mind Right",

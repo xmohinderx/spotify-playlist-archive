@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/568BCeiTG5unRb4O86ntYT"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118748,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/737sPbmwTUCUMT3MygntNd"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 178067,
       "name": "A-Wax & O-Dog",
       "url": "https://open.spotify.com/track/0rM1ApMWW6RRk7Hbme8omR"
@@ -316,6 +334,28 @@
       "duration_ms": 170702,
       "name": "About You",
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6rF7J2uPfRwVlpwxsG7OLc"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147155,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/2Ed3C4ZFO2SK8A4mnJSdMQ"
     },
     {
       "album": {
@@ -456,6 +496,24 @@
       "duration_ms": 130869,
       "name": "Ain't It A Flex",
       "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
+    },
+    {
+      "album": {
+        "name": "The Military",
+        "url": "https://open.spotify.com/album/0moLVF5RdK9o2PGKxjhiZ0"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Ain't Like That",
+      "url": "https://open.spotify.com/track/5sm3g5UwuDnzKN91T5elip"
     },
     {
       "album": {
@@ -4067,6 +4125,40 @@
     },
     {
       "album": {
+        "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) [Trailer Anthem]",
+        "url": "https://open.spotify.com/album/1DfDXWmnmfnqHmPbvgPhWc"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191757,
+      "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
+      "url": "https://open.spotify.com/track/21wkixaulehrFctAvEhvQl"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
       },
@@ -4238,7 +4330,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 147285,
       "name": "Location",
       "url": "https://open.spotify.com/track/7HB2G1F0BE3COMAuThZLmc"
@@ -4748,7 +4840,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 108500,
       "name": "naked freestyle",
       "url": "https://open.spotify.com/track/7wyz8PA0B7oBWvR2P5qTWt"
@@ -4850,7 +4942,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 239073,
       "name": "Never Change (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/028z6THhAbIyaAhfDVDRIQ"
@@ -6874,7 +6966,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 145191,
       "name": "Tada",
       "url": "https://open.spotify.com/track/20BdyrB29mlD1hBp20ZDve"
@@ -6988,6 +7080,28 @@
       "duration_ms": 163166,
       "name": "Tell Your Friends (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
+    },
+    {
+      "album": {
+        "name": "Terry Davis",
+        "url": "https://open.spotify.com/album/3doyvjswVMNHImDkyllMt5"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Terry Davis",
+      "url": "https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1"
     },
     {
       "album": {
@@ -7270,7 +7384,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 213288,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
@@ -7502,7 +7616,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 150865,
       "name": "What's What (feat. BabyTron)",
       "url": "https://open.spotify.com/track/7DWrnxiwVJ87Kdhzg9IxOx"
@@ -7542,6 +7656,24 @@
       "duration_ms": 200930,
       "name": "Woah",
       "url": "https://open.spotify.com/track/5E8MF5ELxfCxRWifMTWRsw"
+    },
+    {
+      "album": {
+        "name": "Wop It",
+        "url": "https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi"
+      },
+      "artists": [
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112953,
+      "name": "Wop It",
+      "url": "https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 329612,
+  "num_followers": 329871,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwMjM4MSwwMDAwMDAwMDA0OTY3YjI3ZjM1NWRhMGRiZWVhMDM1YzYyZGIwMjg3",
+  "snapshot_id": "MTY3NTgwMjM4MSwwMDAwMDAwMGExODAyZWNiNDFhMzU5NTRlMzY1MTk4OGFhZDczZGE3",
   "tracks": [
     {
       "added_at": "2023-01-31 15:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Field of Joy",
-        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Beaujean",
-          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
-        }
-      ],
-      "duration_ms": 196446,
-      "name": "Field of Joy",
-      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "L\u00e9opoldine",
         "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Field of Joy",
+        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Beaujean",
+          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
+        }
+      ],
+      "duration_ms": 196446,
+      "name": "Field of Joy",
+      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 121946,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 176000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 121946,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
-      },
-      "artists": [
-        {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
-        }
-      ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
       "artists": [
         {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
         }
       ],
-      "duration_ms": 144905,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "duration_ms": 144905,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Monte Viso",
         "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
-      },
-      "artists": [
-        {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
-        }
-      ],
-      "duration_ms": 132318,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Meditabundus",
         "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 150000,
       "name": "Meditabundus",
       "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
-      },
-      "artists": [
-        {
-          "name": "Ji\u0159\u00ed Hor\u00e1k",
-          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
-        }
-      ],
-      "duration_ms": 122125,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Chiral",
         "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 147500,
       "name": "Chiral",
       "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
+      },
+      "artists": [
+        {
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+        }
+      ],
+      "duration_ms": 122125,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Mullaghmore",
         "url": "https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Tu as disparu",
-        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
-      },
-      "artists": [
-        {
-          "name": "Laetitia Dostie",
-          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
-        }
-      ],
-      "duration_ms": 115915,
-      "name": "Tu as disparu",
-      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Sans Regrets",
         "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
       },
@@ -1427,34 +1411,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
+        "name": "Tu as disparu",
+        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
       },
       "artists": [
         {
-          "name": "Sabr Alptekin",
-          "url": "https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva"
+          "name": "Laetitia Dostie",
+          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "White Butterfly",
-        "url": "https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Granneman",
-          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "White Butterfly",
-      "url": "https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF"
+      "duration_ms": 115915,
+      "name": "Tu as disparu",
+      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1487,6 +1455,38 @@
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
+      },
+      "artists": [
+        {
+          "name": "Sabr Alptekin",
+          "url": "https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "White Butterfly",
+        "url": "https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "White Butterfly",
+      "url": "https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Valse",
-        "url": "https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 131254,
-      "name": "Valse",
-      "url": "https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Valse",
+        "url": "https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 131254,
+      "name": "Valse",
+      "url": "https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Ikigai",
         "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Returning",
-        "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 140250,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Returning",
+        "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 140250,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
     }
   ],
   "unique_name": "Coffee and Piano",

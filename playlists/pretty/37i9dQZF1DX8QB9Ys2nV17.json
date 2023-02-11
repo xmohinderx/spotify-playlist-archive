@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 170513,
+  "num_followers": 170519,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGFlMDE2ODczYTQ3NjQ1NWEzMzQ0YTFjZjFjZjQwNTA4",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDk5ODQ0M2Y1YWU5OTc5ZGZiYzM0NTI4Mjk4MTM3MzVh",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 292353,
       "name": "The Best Thing",
       "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
       "artists": [
         {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
         }
       ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+      "duration_ms": 180583,
+      "name": "Cry for Me",
+      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     }
   ],
   "unique_name": "EQUAL Blues",

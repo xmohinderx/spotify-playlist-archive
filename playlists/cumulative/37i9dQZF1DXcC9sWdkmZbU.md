@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-63 songs - 3 hr 26 min
+65 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Offering](https://open.spotify.com/track/3RYfCXHMK7eLqV9k1NzDiV) | [iWORSHIP Kids](https://open.spotify.com/artist/44L20SeUJCK6jHUwdNnmoP) | [iWorship Kids 3](https://open.spotify.com/album/0AXeewZ1X95EqTNGy9T92Q) | 3:20 | 2022-04-12 |  |
 | [Oh We Love You \(John 3:16\) \- Live](https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 4:33 | 2022-04-12 |  |
 | [Power \(Acts 1:8 Esv\)](https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power, Vol.15](https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk) | 3:13 | 2022-04-12 |  |
+| [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 | 2023-02-10 |  |
 | [Rise and Shine Give God the Glory](https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Give God the Glory](https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1), [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Rise and Shine Give God the Glory](https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x) | 2:18 | 2022-04-12 |  |
 | [See A Victory](https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 3:58 | 2022-04-12 |  |
 | [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 3:50 | 2022-04-12 |  |
@@ -65,6 +66,7 @@
 | [Trust And Obey \- Live](https://open.spotify.com/track/0Ac4TPAa7Iq7og4xjxAG23) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Follow You \(Live\)](https://open.spotify.com/album/4M3zJtG4vtJLB22AG3ZUGH) | 4:30 | 2022-04-12 |  |
 | [Trust And Obey \- Live In Australia/2009/Ultimate Collection Album Version](https://open.spotify.com/track/3DJUB84XgvyqPKDbtaodK7) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Ultimate Collection \(Live\)](https://open.spotify.com/album/4wTllZ2D5cOHKBkSjFVZL7) | 4:33 | 2022-04-12 | 2022-11-13 |
 | [Whatever You Do \(Colossians 3:17,23\)](https://open.spotify.com/track/1En87DDfDeheilBsDG0V8d) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 4](https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3) | 3:42 | 2022-04-12 |  |
+| [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 | 2023-02-10 |  |
 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 | 2022-04-12 |  |
 | [Who Built The Ark?](https://open.spotify.com/track/0fShOGDZo8zR5IbxWzUPIZ) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:26 | 2022-04-12 |  |
 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 | 2022-04-12 |  |

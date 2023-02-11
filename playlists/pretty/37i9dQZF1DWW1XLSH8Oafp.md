@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,890 likes - 109 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,016 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

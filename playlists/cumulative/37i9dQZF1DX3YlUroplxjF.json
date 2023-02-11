@@ -436,7 +436,7 @@
           "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
         }
       ],
-      "date_added": "2023-02-02",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207720,
@@ -554,6 +554,24 @@
       "duration_ms": 223255,
       "name": "Apertures (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/7wqdCyWXeizsSwiGJnp8Pk"
+    },
+    {
+      "album": {
+        "name": "Attainable",
+        "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103488,
+      "name": "Attainable",
+      "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
     },
     {
       "album": {
@@ -928,7 +946,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
+    },
+    {
+      "album": {
         "name": "Heavy Steps",
         "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
       },
@@ -2456,7 +2492,7 @@
           "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137796,
@@ -2510,7 +2546,7 @@
           "url": "https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240094,
@@ -3992,7 +4028,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 185454,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
@@ -4498,7 +4534,7 @@
           "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "date_added": "2023-01-28",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203813,

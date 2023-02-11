@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 156970,
+  "num_followers": 157034,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDkzOTJkMjNjODU1OWU5ZDU1YzIxZTRiNTRlNGVkZWYw",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGM5ODJmYTNiZmEzZDcxMzQ0OWJkODI4ZTIzMjcyNzMz",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
+        "name": "Para Que Vuelvas",
+        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Criollita Santiague\u00f1a",
+      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
         "name": "Ckayna Cunan, Vol. 2",
         "url": "https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218600,
       "name": "Bajo la Sombra de un \u00c1rbol",
       "url": "https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Para Que Vuelvas",
-        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
-      },
-      "artists": [
-        {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Criollita Santiague\u00f1a",
-      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Si Se Calla el Cantor - En Vivo",
-      "url": "https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Carnaval, Pasi\u00f3n del Norte",
         "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 202053,
       "name": "Canto Nochero",
       "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Si Se Calla el Cantor - En Vivo",
+      "url": "https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "MILENA",
         "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 198234,
       "name": "Florcita Del Monte",
       "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1303,22 +1303,6 @@
       "duration_ms": 227533,
       "name": "C\u00f3rdoba Sin Ti",
       "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Tributo, Sus 20 Mejores Canciones",
-        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "La Oma",
-      "url": "https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1395,6 +1379,22 @@
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Tributo, Sus 20 Mejores Canciones",
+        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "La Oma",
+      "url": "https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl"
     },
     {
       "added_at": "2022-02-21 19:44:42",

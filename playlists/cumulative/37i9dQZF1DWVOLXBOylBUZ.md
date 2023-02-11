@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de KAROL G y Romeo Santos.
 
-461 songs - 1 day 1 hr 16 min
+462 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Anda Decidida](https://open.spotify.com/track/3BcJh8QnyPzPhYoDAZydKc) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:13 | 2023-01-13 |  |
 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 | 2022-08-19 | 2023-02-01 |
 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 | 2022-01-07 | 2022-03-05 |
+| [Anoche llamé](https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Legarda](https://open.spotify.com/artist/3XC7vn6odSKiwiRDloI9Vs) | [Anoche llamé](https://open.spotify.com/album/3BuaUFvRBxVEeRoHvYsG1i) | 2:22 | 2023-02-10 |  |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-10 |  |
 | [APA](https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:19 | 2022-11-04 |  |
 | [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-04-29 | 2022-09-10 |
@@ -260,7 +261,7 @@
 | [Mami Mamacita](https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Viaje](https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH) | 2:49 | 2022-01-07 | 2022-02-19 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-11 | 2022-08-12 |
 | [Mañanero](https://open.spotify.com/track/21U0Wbps9UZrPrjZDxPtYq) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Mañanero](https://open.spotify.com/album/1DrYNadwai9D9rocbIXu2e) | 3:00 | 2022-01-07 | 2022-02-12 |
-| [Mañana](https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mañana](https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK) | 3:12 | 2022-10-07 |  |
+| [Mañana](https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mañana](https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK) | 3:12 | 2022-10-07 | 2023-02-11 |
 | [ME CONFUNDÍ](https://open.spotify.com/track/1zJu4BcvtYqrmAgurFe5hE) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [ME CONFUNDÍ](https://open.spotify.com/album/74dGoM9MUgfpW3YIWnvL4G) | 2:36 | 2023-01-20 |  |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-02-04 | 2022-05-07 |
 | [Me Enseñaste \(Remix\)](https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9) | 4:00 | 2022-01-07 | 2022-03-12 |

@@ -4,7 +4,7 @@
 
 > 
 
-187 songs - 11 hr 8 min
+188 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Zombie \- English Ver.](https://open.spotify.com/track/3h34cQPPddk4x9cluPIAvv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-08-26 |  |
 | [たとえたとえ](https://open.spotify.com/track/1ovMDjMtwyaURodfDtwOgZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [たとえたとえ](https://open.spotify.com/album/7c6EJ31VuDwT3CLHfd6wKh) | 3:58 | 2022-08-26 |  |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 |  |
+| [優しい恋人](https://open.spotify.com/track/20RdpyzBu94gLDFKYBtjBN) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [優しい恋人](https://open.spotify.com/album/0dpDAp1m2GCI9bZenj8Pb0) | 5:42 | 2023-02-10 |  |
 | [思想犯](https://open.spotify.com/track/5o3LSzu8xCMDpbAwm4dZ46) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:11 | 2022-08-26 |  |
 | [群青](https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [群青](https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx) | 4:08 | 2022-08-26 |  |
 | [自主](https://open.spotify.com/track/0gIbjAz4BusevCLxa53YNJ) | [ロス](https://open.spotify.com/artist/1ZJ9RKrUKQB5wEl5Liv4kL) | [自主](https://open.spotify.com/album/4dw87G2DtW3cWLycBHq6oS) | 3:06 | 2023-02-03 |  |

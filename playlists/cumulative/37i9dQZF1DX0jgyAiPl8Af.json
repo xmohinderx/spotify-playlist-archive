@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 224175,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 180836,
       "name": "Bridget",
       "url": "https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u"
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Avery",
+          "url": "https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135027,
+      "name": "Da Capo",
+      "url": "https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC"
+    },
+    {
+      "album": {
         "name": "Daniela's Dance",
         "url": "https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW"
       },
@@ -1760,6 +1778,24 @@
       "duration_ms": 115495,
       "name": "Daniela's Dance",
       "url": "https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym"
+    },
+    {
+      "album": {
+        "name": "Toucher mon coeur",
+        "url": "https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl"
+      },
+      "artists": [
+        {
+          "name": "Bonno Neo",
+          "url": "https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Dans tes mains",
+      "url": "https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6"
     },
     {
       "album": {
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 189812,
       "name": "Die Wanderbiene",
       "url": "https://open.spotify.com/track/45m0JU1iR7C5hJ0kPh86F2"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 154900,
       "name": "Dunmore",
       "url": "https://open.spotify.com/track/1108gLMZC5vp5HQxN7yKrD"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 197478,
       "name": "El Sendero Luminoso",
       "url": "https://open.spotify.com/track/1f3itL6t8wRlLiVYkbjm0L"
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 212803,
       "name": "Fernweh",
       "url": "https://open.spotify.com/track/4jyZ8BAopVzHdBEfZvPsc1"
@@ -3643,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "I Am Her",
+        "url": "https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161070,
+      "name": "I Am Her",
+      "url": "https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE"
+    },
+    {
+      "album": {
         "name": "I Still Believe In You",
         "url": "https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4"
       },
@@ -3762,10 +3816,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 154755,
       "name": "im Schatten",
       "url": "https://open.spotify.com/track/7MdRyEmNfE5pvhw2LFZtmJ"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143758,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7"
     },
     {
       "album": {
@@ -3928,6 +4000,24 @@
       "duration_ms": 164465,
       "name": "Into The Sunset",
       "url": "https://open.spotify.com/track/0rofwovUOSYwNl5aNPwMma"
+    },
+    {
+      "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/2y68AHyHcrTlqtbsAINzbo"
+      },
+      "artists": [
+        {
+          "name": "Ron Well",
+          "url": "https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162568,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/2cZJIUh0N1GkzZr3YjL5zN"
     },
     {
       "album": {
@@ -4454,7 +4544,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 165021,
       "name": "Largo Rv. 443 For Guitar",
       "url": "https://open.spotify.com/track/4Z109P3vVF3jVEOXbrR3wO"
@@ -4598,7 +4688,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 211500,
       "name": "Let Me Reach That Mountain",
       "url": "https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w"
@@ -5282,7 +5372,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 134498,
       "name": "Misty Midnight",
       "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
@@ -6063,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Montevideo",
+        "url": "https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb"
+      },
+      "artists": [
+        {
+          "name": "Vita Alexander",
+          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168936,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z"
+    },
+    {
+      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E"
       },
@@ -6132,6 +6240,24 @@
       "duration_ms": 126062,
       "name": "Omaggio",
       "url": "https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5"
+    },
+    {
+      "album": {
+        "name": "Retrouvailles",
+        "url": "https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161116,
+      "name": "Onirique",
+      "url": "https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N"
     },
     {
       "album": {
@@ -6758,7 +6884,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 143875,
       "name": "Relief",
       "url": "https://open.spotify.com/track/64jQvDKwEQZEaoFVbeCLq1"
@@ -7719,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4aqdhjsTjnolDI7xVKLmBW"
+      },
+      "artists": [
+        {
+          "name": "Mia Cornell",
+          "url": "https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0P8J8xgylxWypbhLv6LPSZ"
+    },
+    {
+      "album": {
         "name": "Solus",
         "url": "https://open.spotify.com/album/05Vck1mdBEKe5cPczGEmcl"
       },
@@ -8000,7 +8144,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 110732,
       "name": "Stilla skymning",
       "url": "https://open.spotify.com/track/36WuY4qGl7hAxof1KlLpFf"
@@ -8202,6 +8346,24 @@
       "duration_ms": 148527,
       "name": "Sweet Sister",
       "url": "https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq"
+    },
+    {
+      "album": {
+        "name": "Syr Darya",
+        "url": "https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Murphy",
+          "url": "https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215694,
+      "name": "Syr Darya",
+      "url": "https://open.spotify.com/track/5aPyQLy7KhxjIqj5CgNF8w"
     },
     {
       "album": {
@@ -8450,7 +8612,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 192513,
       "name": "The Path Forward",
       "url": "https://open.spotify.com/track/5u2Pz05Zs7xVjtJnLuDmTT"
@@ -8670,7 +8832,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 204699,
       "name": "Todo Es Mi Culpa",
       "url": "https://open.spotify.com/track/5YEiLgjWOoWQdmy8ziS42B"
@@ -9066,7 +9228,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 153559,
       "name": "Vorfreude",
       "url": "https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL"
@@ -9415,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "You Never Arrived",
+        "url": "https://open.spotify.com/album/5uFHE8291ozcWVYYwjcnvB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Miller",
+          "url": "https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176844,
+      "name": "You Never Arrived",
+      "url": "https://open.spotify.com/track/78AHmGv11Zs0uXa0Yi0BZS"
+    },
+    {
+      "album": {
         "name": "Zamba Para Ti",
         "url": "https://open.spotify.com/album/659BfmDqHVsR92lBbcJ6OL"
       },
@@ -9462,7 +9642,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 143058,
       "name": "Zitronen Garten",
       "url": "https://open.spotify.com/track/7dsDIENmLdbXdjbkzCMxAT"

@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-61 songs - 3 hr 57 min
+62 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Journey Song](https://open.spotify.com/track/7z8XCViP5KT8O7HqoCsRTV) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Piku](https://open.spotify.com/album/3CUze5uhJuLcEYfgU4x4w1) | 4:12 | 2022-04-11 |  |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-04-11 |  |
 | [Kahaani \(Aankhon Ke Pardon Pe\)](https://open.spotify.com/track/7Ja9xfr9nlVNCfpwTZfx37) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 3:27 | 2022-04-11 |  |
+| [Kal Kahin \- Reprise](https://open.spotify.com/track/7N2e98hdT1mhRCtZBFiX1C) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Kiran + Nivi](https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub) | [Fursat \(\#ShotoniPhone Original Film Soundtrack\)](https://open.spotify.com/album/2bzaOQgJoYrPpzbZGlM3gS) | 1:55 | 2023-02-10 |  |
 | [Kanha Unplugged \(From"Shubh Mangal Saavdhan"\)](https://open.spotify.com/track/2qpFJTOa4km9tZT3s6pDIP) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Kanha Unplugged \(From "Shubh Mangal Saavdhan"\) \- Single](https://open.spotify.com/album/0oELoNHPrO5fvMnPhY0c1Z) | 2:56 | 2022-04-11 | 2022-07-29 |
 | [Kanha Unplugged \(From"Shubh Mangal Saavdhan"\)](https://open.spotify.com/track/4ku6NYRxP29Nvp47AvnGgH) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Kanha Unplugged \(From "Shubh Mangal Saavdhan"\) \- Single](https://open.spotify.com/album/4UztO7rO7ELF1K4JZgNECu) | 2:56 | 2022-07-12 |  |
 | [Kaun Mera](https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Special 26](https://open.spotify.com/album/6EN0NhqSQIYiLqbNkfXkIq) | 2:52 | 2022-04-11 |  |

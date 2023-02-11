@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-381 songs - 23 hr 11 min
+382 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 | 2023-01-20 |  |
 | [Feels Like](https://open.spotify.com/track/1ZALvBSkr37omQAgjK8i0F) | [Dawkins & Dawkins](https://open.spotify.com/artist/2pYO2c16sGAVt3Qtgn58zJ) | [NEVER GETS OLD LOVE & LIGHT VOL.1](https://open.spotify.com/album/07SeBaJVVx3giKRJJCLD35) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [Feels Like Church](https://open.spotify.com/track/6OLSL2Le6FXcqEFQv2AZ8N) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [New Direction](https://open.spotify.com/artist/1TpXFTRji6OtOrX061RT9F) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 2:34 | 2022-02-19 | 2022-06-23 |
+| [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 | 2023-01-20 |  |
 | [Fix It](https://open.spotify.com/track/2lx3XjD1uZuqHdHBTUnWY8) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [Fix It](https://open.spotify.com/album/1i9UrEqkdjiGLRIWAK0QE8) | 4:57 | 2022-02-19 | 2022-06-26 |
 | [Fly](https://open.spotify.com/track/44Iuhn12aVgr99OWyfB1Ri) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Fly](https://open.spotify.com/album/1cpebEGFRv8pX5N4GDH39P) | 2:27 | 2022-02-27 | 2022-06-15 |
 | [Found In You](https://open.spotify.com/track/5rslaXHRbFr8rq9Lnvshy7) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Clarity](https://open.spotify.com/album/64fVuTbjAULFsImYYYXByp) | 4:43 | 2022-02-27 | 2022-06-21 |
@@ -360,7 +361,7 @@
 | [Walk With You](https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV) | 6:22 | 2022-04-01 |  |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2023-01-20 |  |
 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 | 2022-04-01 | 2022-04-20 |
-| [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 | 2022-04-01 |  |
+| [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 | 2022-04-01 | 2023-02-11 |
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-19 | 2022-06-26 |
 | [When Tears Fall](https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [When Tears Fall](https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO) | 2:48 | 2023-01-20 |  |
 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 | 2022-06-25 |  |

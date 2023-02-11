@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-30 songs - 1 hr 42 min
+31 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 | 2023-01-20 |  |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 |  |
 | [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 | 2022-08-17 |  |
-| [Funky Piano](https://open.spotify.com/track/37SfQh73wu3wmOV3jOn2VJ) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Funky Piano](https://open.spotify.com/album/68tmrWsO43Ux4OVnl3PGn3) | 2:51 | 2022-01-14 |  |
+| [Funky Piano](https://open.spotify.com/track/37SfQh73wu3wmOV3jOn2VJ) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Funky Piano](https://open.spotify.com/album/68tmrWsO43Ux4OVnl3PGn3) | 2:51 | 2022-01-14 | 2023-02-11 |
 | [Get My Mind Right](https://open.spotify.com/track/5vDBcy4bP6ZyECZYwziFWJ) | [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Get My Mind Right](https://open.spotify.com/album/0axqQkX4vj2RegEqoZ13q2) | 3:51 | 2023-01-29 |  |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-01-29 |  |
 | [Harena](https://open.spotify.com/track/0onJP8HWjDuN7B9RuEkth3) | [Klaus](https://open.spotify.com/artist/0TtgAlKNutf5UgUpo6z3wT) | [Harena](https://open.spotify.com/album/2iWOKP3PFsJho5vaRV1Acp) | 4:03 | 2023-01-22 |  |
@@ -29,6 +29,7 @@
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 |  |
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 |  |
 | [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 | 2022-05-26 |  |
+| [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 |  |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 |  |
 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 | 2023-01-29 |  |
 | [Roots Of House Music](https://open.spotify.com/track/0yFuwfNxXHerJmBEtMPzyS) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Roots Of House Music](https://open.spotify.com/album/5cTGR5XmPnc60KJm6H0PyG) | 3:08 | 2023-01-29 |  |

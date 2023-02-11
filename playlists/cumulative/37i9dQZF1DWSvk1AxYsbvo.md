@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-147 songs - 8 hr 39 min
+148 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-05-03 |  |
 | [Smile Box](https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:26 | 2022-05-03 | 2022-07-28 |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-03 |  |
-| [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-18 |  |
+| [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-18 | 2023-02-11 |
 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 | 2022-08-19 |
 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 | 2022-06-18 |  |
 | [Starry Night 우리에게 쏟아지는 별들을 \(Feat\. 구원찬\)](https://open.spotify.com/track/53UMUbMpRvAUcRxPWu7pG5) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 3:39 | 2022-05-03 | 2022-07-29 |
@@ -155,5 +155,6 @@
 | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87) | 3:40 | 2022-12-26 | 2023-01-10 |
 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 | 2022-05-03 | 2022-07-16 |
 | [젊음을 선사해요 Sending My Youth](https://open.spotify.com/track/5Y4tiUkw3QrvW2bMzGI5iO) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [스무살의 가을 Autumn](https://open.spotify.com/album/5COe5BZdAtmtdTh9s3jHOI) | 3:18 | 2022-05-03 | 2022-07-26 |
+| [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 | 2023-01-25 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

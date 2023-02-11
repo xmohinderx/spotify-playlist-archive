@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 艾薇 \(Ivy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,203 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,208 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 11 | [甲你攬牢牢](https://open.spotify.com/track/7IKwd3zsC9nGbeP2Z7KXcF) | [Jody Chiang](https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6) | [甲你攬牢牢](https://open.spotify.com/album/5sE6KmHtOwXJ7BKKJ8sjYx) | 4:41 |
 | 12 | [明月光](https://open.spotify.com/track/7BsWm9wrOfjqyV6ojsCilJ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [明月光](https://open.spotify.com/album/6GA4tIWoZVVcs3ZlKi0jnf) | 4:23 |
 | 13 | [短暫的愛過我](https://open.spotify.com/track/3vvbHb4tB1D7AhvRaseaKm) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:32 |
-| 14 | [買你 \- HAVE A NICE :DAY 巡迴演唱會 Live](https://open.spotify.com/track/6NoOxOSBQzeOWYMFk25ZNa) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [買你 \(HAVE A NICE :DAY 巡迴演唱會 Live\)](https://open.spotify.com/album/4PlUS2YgBtwpC8JD5xp509) | 3:55 |
+| 14 | [買你 \- HAVE A NICE :DAY 巡迴演唱會 \(Live\)](https://open.spotify.com/track/6NoOxOSBQzeOWYMFk25ZNa) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [買你 \[HAVE A NICE :DAY 巡迴演唱會 \(Live\)\]](https://open.spotify.com/album/4PlUS2YgBtwpC8JD5xp509) | 3:55 |
 | 15 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
 | 16 | [慷慨](https://open.spotify.com/track/7ui3eV41WHiSJaVD0hMEVx) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 4:34 |
 | 17 | [For Baby \(《愛情發生在三天後》戲劇片頭曲\)](https://open.spotify.com/track/59of7wz95nfPZ259e9I3c7) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [For Baby](https://open.spotify.com/album/7grcqCA5GJq0tyGRH81iIj) | 4:20 |

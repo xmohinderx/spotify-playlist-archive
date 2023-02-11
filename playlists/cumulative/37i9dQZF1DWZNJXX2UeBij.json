@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 315013,
       "name": "Ajj Din Chadheya",
       "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 310080,
       "name": "Dil Chahta Hai",
       "url": "https://open.spotify.com/track/2r1CHpKRDdzHGJScn5UqjX"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 483920,
       "name": "Kabhi Alvida Naa Kehna",
       "url": "https://open.spotify.com/track/4uXShFWajd1PTQzlW3P4jj"
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 310664,
       "name": "Maa",
       "url": "https://open.spotify.com/track/4SuA85PaD8GFTPYwKNYDe1"
@@ -4668,6 +4668,28 @@
       "duration_ms": 282973,
       "name": "Roobaroo",
       "url": "https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr"
+    },
+    {
+      "album": {
+        "name": "Musafir",
+        "url": "https://open.spotify.com/album/4yOCbNcDeF2f1xs1PzLFnT"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "Saaki",
+      "url": "https://open.spotify.com/track/3zEkqnyPzhHBuHCeoWLYjQ"
     },
     {
       "album": {

@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Sonatas Nos.10, 11 & 17",
+        "url": "https://open.spotify.com/album/4FnR9wE3ucIHOkN7hHpwg3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Piano Sonata No. 11 In A, K.331 -\"Alla Turca\": 3. Alla Turca (Allegretto) - 1999 Recording",
+      "url": "https://open.spotify.com/track/2j13TI6Nybh3bsS6Su4h4F"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas",
         "url": "https://open.spotify.com/album/1B7331zmwupxVu4YdFF8pV"
       },
@@ -906,28 +928,6 @@
       "duration_ms": 316440,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/6I2QFue84mphztMrOMfpuB"
-    },
-    {
-      "album": {
-        "name": "Mozart: Piano Sonatas Nos.10, 11 & 17",
-        "url": "https://open.spotify.com/album/4FnR9wE3ucIHOkN7hHpwg3"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "date_added": "2020-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204000,
-      "name": "Piano Sonata No.11 In A, K.331 -\"Alla Turca\": 3. Alla Turca (Allegretto) - 1999 Recording",
-      "url": "https://open.spotify.com/track/2j13TI6Nybh3bsS6Su4h4F"
     },
     {
       "album": {

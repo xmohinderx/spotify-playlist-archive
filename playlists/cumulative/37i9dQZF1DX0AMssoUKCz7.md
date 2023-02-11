@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-573 songs - 1 day 5 hr 36 min
+574 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Again And Again](https://open.spotify.com/track/6FMoSgKLELUD20nhYbLrYm) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Lauterborn](https://open.spotify.com/artist/57Y7Fk9bQvmn0uyVyKAYxA) | [Again And Again](https://open.spotify.com/album/6yRhQ6NNxn8p0eo7WyCBVN) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/3vbqb78xzvD3CJl7ZeW83c) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw) | 3:06 | 2022-04-01 | 2022-04-21 |
 | [Alive](https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Will Rumens](https://open.spotify.com/artist/5TfjEnaDv8EQY3ZHdFhi10), [James Goodwin](https://open.spotify.com/artist/7mwW4BNynO3Apo4zOaX6NE) | [Alive](https://open.spotify.com/album/50iBssHKHKsQNrvQ5t434t) | 2:37 | 2022-01-14 | 2023-01-16 |
-| [All I Need](https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [All I Need](https://open.spotify.com/album/08cpmAgexKWlRgAMouQKNk) | 2:31 | 2022-12-23 |  |
+| [All I Need](https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [All I Need](https://open.spotify.com/album/08cpmAgexKWlRgAMouQKNk) | 2:31 | 2022-12-23 | 2023-02-11 |
 | [All I Wanna Do](https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8) | 3:14 | 2022-04-01 | 2022-04-21 |
 | [All or Nothing \(feat\. Axel Ehnström\) \- Sultan + Shepard Remix](https://open.spotify.com/track/52DNTZvyZREUZC6dEjq3J6) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [All Or Nothing \(feat\. Axel Ehnström\) \[Remixes Part 2\]](https://open.spotify.com/album/5hYQG9MTBpC3SRpTpJoC36) | 3:35 | 2022-01-14 | 2022-07-29 |
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2022-04-01 |  |
@@ -91,6 +91,7 @@
 | [Cigarette](https://open.spotify.com/track/1CHCu0amoy86LUC8sIYoHG) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarette](https://open.spotify.com/album/0EqUOfvQn6B93JIQFtSPhq) | 2:35 | 2022-04-15 |  |
 | [Circuit](https://open.spotify.com/track/6hfBnGdnANO21swBwkZl8c) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Circuit](https://open.spotify.com/album/47Aowu0wG3r3eZt2bjM5ZS) | 3:01 | 2022-09-02 | 2022-12-02 |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-06-17 |  |
+| [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 | 2023-02-10 |  |
 | [Closer](https://open.spotify.com/track/19ZNrQarHpwz7Z5byyJ5RX) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [sonofsteve](https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v) | [Closer](https://open.spotify.com/album/1bx8WwkS1fJ9znHX3sHV0r) | 3:11 | 2022-01-14 |  |
 | [Closer Every Day](https://open.spotify.com/track/7hIJzomtT5CgjwPHSFxHtC) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Night Work](https://open.spotify.com/album/4HzRVctbnxNnZn9MZd7syD) | 3:32 | 2022-01-14 | 2022-09-24 |
 | [Cold Ain't For Me](https://open.spotify.com/track/43NJeiVFjYj6RtvAKWLnDo) | [Oceans](https://open.spotify.com/artist/6fUGQU8tAq01xMG7Qzjy8O) | [Cold Ain't For Me](https://open.spotify.com/album/1HPCzoTqvYJVhZzD2lYIt9) | 3:25 | 2022-01-14 | 2022-04-20 |

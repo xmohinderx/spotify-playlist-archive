@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 179890,
       "name": "Gone",
       "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -6902,6 +6902,28 @@
       "duration_ms": 177692,
       "name": "\u05d0\u05e0\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05d1\u05da",
       "url": "https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        },
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "\u05d0\u05e0\u05d9 \u05e4\u05d4",
+      "url": "https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH"
     },
     {
       "album": {
@@ -11872,6 +11894,24 @@
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "\u05ea\u05e8\u05d0\u05d9 \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k"
     },
     {
       "album": {

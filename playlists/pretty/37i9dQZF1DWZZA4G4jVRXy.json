@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 115129,
+  "num_followers": 115178,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDg2Mzg2OWE0Yjg4MDdjZDFhYTBjOGU1OGY5ZmM5MTJi",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDljYWY1ZDgzMGEwYmNiMzAzYTkzNzRmZWMyNDE0MWY1",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Lolita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 203933,
       "name": "Lolita Ya Ya",
       "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -403,18 +403,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
       "artists": [
         {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
         }
       ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -435,18 +435,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
       "artists": [
         {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
         }
       ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Legend Of The Jivaro",
+        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -963,22 +979,6 @@
       "duration_ms": 179800,
       "name": "Lust",
       "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Legend Of The Jivaro",
-        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Cool Heat + Exotic Dreams",
-        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
-      },
-      "artists": [
-        {
-          "name": "Ethel Azama",
-          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
-        }
-      ],
-      "duration_ms": 154575,
-      "name": "Ringo Oiwake",
-      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Jungle Drums",
         "url": "https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 130539,
       "name": "Hernando s Hideaway",
       "url": "https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Cool Heat + Exotic Dreams",
+        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
+      },
+      "artists": [
+        {
+          "name": "Ethel Azama",
+          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
+        }
+      ],
+      "duration_ms": 154575,
+      "name": "Ringo Oiwake",
+      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
     },
     {
       "added_at": "2021-01-20 03:50:53",

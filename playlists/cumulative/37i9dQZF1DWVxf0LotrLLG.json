@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236210,
+      "name": "1.200 Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/5AlnbHQlgelF1Qfyvo12CZ"
+    },
+    {
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -285,6 +303,28 @@
     },
     {
       "album": {
+        "name": "Custom",
+        "url": "https://open.spotify.com/album/6c2EAehxWzBglYJvuBg51j"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Hot Plug Beats",
+          "url": "https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "Custom",
+      "url": "https://open.spotify.com/track/5aiitlNrXhfguFKlq2Bfm8"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Voy a Olvidarte",
         "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
       },
@@ -383,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233290,
+      "name": "El Gran Teatro",
+      "url": "https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf"
+    },
+    {
+      "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
@@ -463,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Frixen",
+        "url": "https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Frixen",
+      "url": "https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C"
+    },
+    {
+      "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
       },
@@ -532,6 +612,24 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282747,
+      "name": "La Canci\u00f3n para el Fin del Mundo",
+      "url": "https://open.spotify.com/track/6wITIFXjeyh2FOTvSENrfa"
     },
     {
       "album": {
@@ -664,6 +762,24 @@
       "duration_ms": 165880,
       "name": "Le Pido a DIOS",
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
+    },
+    {
+      "album": {
+        "name": "Fin de Semana Largo",
+        "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s"
     },
     {
       "album": {
@@ -1045,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Fin de Semana Largo",
+        "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170140,
+      "name": "Quiz\u00e1",
+      "url": "https://open.spotify.com/track/16Jo6ltjGuQpVquSTOy3lB"
+    },
+    {
+      "album": {
         "name": "Asim\u00e9trico",
         "url": "https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn"
       },
@@ -1219,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/4vmovQuSBbCyAgdVOGGgRJ"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162954,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/4GmJwnvrPhZXkk8JpNhxEC"
+    },
+    {
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
       },
@@ -1238,6 +1390,28 @@
       "duration_ms": 130866,
       "name": "Todo Ha Cambiado",
       "url": "https://open.spotify.com/track/6QgI6TCwZFu0Z4jxgnVhKn"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/138HVWIewOM0Zr7NVi607J"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Hot Plug Beats",
+          "url": "https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150308,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/3vvLf1QJMVsSGDUmOFz8bj"
     },
     {
       "album": {

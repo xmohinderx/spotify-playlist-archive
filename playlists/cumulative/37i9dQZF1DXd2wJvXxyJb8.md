@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> uma mensagem q eu sei q vc precisava ouvir: vc tem bafo
+> Mc Danny ein!!! NÃO CONFUNDA
 
-217 songs - 10 hr 0 min
+218 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Se Tu Quer, Vem Buscar](https://open.spotify.com/track/2AXVBMZgvKaqCgVOBM66n5) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Se Tu Quer, Vem Buscar](https://open.spotify.com/album/6Kyjbcvn3K8ZkZgygojaPN) | 1:58 | 2022-12-08 |  |
 | [Se Tá Solteira](https://open.spotify.com/track/5s6FPEgONan1NLTA7ReSrx) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Se Tá Solteira](https://open.spotify.com/album/5M1M5KKnFFZ7nb6Dze6kQk) | 1:57 | 2022-05-26 | 2022-08-09 |
 | [Se Você Quiser](https://open.spotify.com/track/7JF7FB2phyOIYmuhQCj9UX) | [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Se Você Quiser](https://open.spotify.com/album/4Al0uGFYkzyHcMtULMNIer) | 1:47 | 2022-05-26 | 2023-01-19 |
+| [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 | 2023-02-10 |  |
 | [Senta Com Amor](https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP) | [Furacão Hit](https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF) | [Se Liga no Beat](https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ) | 3:08 | 2022-05-26 | 2022-06-23 |
 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 | 2022-11-07 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-16 |  |

@@ -4,7 +4,7 @@
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Michelle Bi
 
-226 songs - 12 hr 53 min
+227 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,11 +178,12 @@
 | [Romeo y Su Nieta](https://open.spotify.com/track/67C1cYX9y10IZZ0b71Rt2J) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Romeo y Su Nieta](https://open.spotify.com/album/5URRVEb6ATU4MaJzAhSuvj) | 2:14 | 2022-01-07 | 2022-07-23 |
 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 | 2022-05-20 | 2022-08-04 |
 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 | 2022-08-03 | 2023-01-21 |
-| [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 | 2022-04-01 |  |
+| [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 | 2022-04-01 | 2023-02-11 |
 | [Sexo Débil \(TNMDQH\)](https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Soy Mala](https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe) | 2:46 | 2022-01-07 | 2022-04-21 |
 | [Si La Quieres](https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 2:46 | 2022-01-07 |  |
 | [Si Quieres Verme Llorar](https://open.spotify.com/track/1WwFVGis90deTHP0Vk5gSt) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Si Quieres Verme Llorar](https://open.spotify.com/album/7JlUqkt7kWeCT9B7YCxFsT) | 3:26 | 2022-04-01 | 2022-05-20 |
 | [Simplemente Gracias](https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/5VCYfrOsF7WzUl0QIQCYBc) | 3:04 | 2022-01-07 | 2022-07-24 |
+| [Sobrevivire](https://open.spotify.com/track/41ElxuhnIN7W5lozKT3EXl) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:20 | 2023-01-20 |  |
 | [Sobreviviré](https://open.spotify.com/track/1pgkB4dQ7ii5aWZt72FYid) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero](https://open.spotify.com/album/35WvZBrYxFjftYaz8082t2) | 3:18 | 2022-01-07 | 2022-07-28 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:37 | 2022-04-01 | 2022-07-13 |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-05-20 |  |

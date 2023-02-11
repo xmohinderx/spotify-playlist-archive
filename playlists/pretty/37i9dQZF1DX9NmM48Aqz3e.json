@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 50741,
+  "num_followers": 50758,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDJiMjA2NjYzNTMzMGViNjg1Yjc3NDA3YWE5ZWJlNTYx",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDIyYmM4NTZiZjMzNjVjMDZhNGI1NDAxODJhYTk2NTZh",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Smilin' Buddha Cabaret",
-        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
-      },
-      "artists": [
-        {
-          "name": "54-40",
-          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Ocean Pearl",
-      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Amanda Marshall",
         "url": "https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Smilin' Buddha Cabaret",
+        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
+      },
+      "artists": [
+        {
+          "name": "54-40",
+          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Ocean Pearl",
+      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
     },
     {
       "added_at": "2021-09-21 20:57:50",

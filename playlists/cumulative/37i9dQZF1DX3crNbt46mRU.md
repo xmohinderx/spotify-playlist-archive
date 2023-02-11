@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Jason Derulo, David Guetta
 
-5,250 songs - 11 day 3 hr 26 min
+5,253 songs - 11 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1353,6 +1353,7 @@
 | [Du wolltest mich zerstören, aber...](https://open.spotify.com/track/6eTGMAEJzkFcvkH29E3zRc) | [LuCia](https://open.spotify.com/artist/03qSE1KpQzm4q4MOgRQk37) | [Du wolltest mich zerstören, aber...](https://open.spotify.com/album/2PtBFBrva4pDxS75qYaGke) | 2:27 | 2022-02-11 | 2022-02-18 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-05 | 2022-05-13 |
 | [Due Facce \(feat\. Tedua\)](https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:34 | 2023-01-19 | 2023-01-27 |
+| [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 | 2023-02-10 |  |
 | [DUMMY](https://open.spotify.com/track/0P8d3zrqoHgSjCYEoJKVyV) | [DAWY](https://open.spotify.com/artist/3v8vi3lmV320mhSk5tjTOv), [Yevad Ki$](https://open.spotify.com/artist/5Xw73VnRvvy22Xbi92O8q2) | [DUMMY](https://open.spotify.com/album/4uC6kSmQZfnj8Q9QPS07me) | 3:05 | 2022-12-01 | 2022-12-09 |
 | [Dunkelblau](https://open.spotify.com/track/018xarXmBSWkxODkNHf78I) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Dunkelblau](https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf) | 3:47 | 2022-06-16 | 2022-06-24 |
 | [DUNYA](https://open.spotify.com/track/2D1hGSFBSTcKccY1FI3blA) | [IAM](https://open.spotify.com/artist/3c1lMwxxFOWKz9Dl7HFhtf), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DUNYA](https://open.spotify.com/album/6fC9qBDhj1WG0HxdftK61X) | 3:20 | 2022-03-31 | 2022-04-08 |
@@ -3858,6 +3859,7 @@
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-02-18 |
 | [Rosé](https://open.spotify.com/track/0AUQCsU2vl14ksqSfCxP3k) | [Opération Zéro](https://open.spotify.com/artist/3ZsHilbh98OAs15IYU4bEP) | [Rosé](https://open.spotify.com/album/5L2dG68litmEVDp6XVqn40) | 2:43 | 2022-08-25 | 2022-09-02 |
 | [Rot](https://open.spotify.com/track/2BjeX6Sog2N1Fb8SvJMDCv) | [HILLA](https://open.spotify.com/artist/2XPKrrCwMa3wB1ML1g5Ywg) | [Rot](https://open.spotify.com/album/1teY8IRp4LM1QYPv83puC3) | 2:54 | 2022-04-28 | 2022-05-06 |
+| [Rote Fade](https://open.spotify.com/track/0IqAreQOfyQr8B0Qj6QDoX) | [Ritschi](https://open.spotify.com/artist/2lwhoL7iV7hMYAzKy53U2G) | [Rote Fade](https://open.spotify.com/album/7E2qKKCNix41g3xly2cDMD) | 2:56 | 2023-02-10 |  |
 | [Rote Jacke](https://open.spotify.com/track/2uJaRwsz8krpjuyUovgIEa) | [Pannakotta](https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD) | [Rote Jacke](https://open.spotify.com/album/2MNrhmdgbsQ4EQz4bUWS7V) | 4:11 | 2022-12-08 | 2022-12-16 |
 | [Rote Linien](https://open.spotify.com/track/5NaS34IwxJ24ftoXzcnXs9) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 2](https://open.spotify.com/album/10nPswMbcEy3DXf0S8kenD) | 3:08 | 2022-09-01 | 2022-09-09 |
 | [Roti Königin](https://open.spotify.com/track/56IGBjstrpcLTbr9lLlLPI) | [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Roti Königin](https://open.spotify.com/album/6AAcNgW7iObHobuGiTPTKl) | 4:09 | 2022-11-10 | 2023-01-20 |
@@ -4248,6 +4250,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-03 | 2022-11-11 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-02 | 2022-06-10 |
 | [Spla](https://open.spotify.com/track/6WucieMjmj7sIBqKkkg5IL) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Spla](https://open.spotify.com/album/2Sn47yK9Ud2cG0effGcedW) | 2:36 | 2022-08-18 | 2022-08-26 |
+| [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-02-10 |  |
 | [Spring](https://open.spotify.com/track/0a1nFiRZ533UDvdEkWRTYA) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Spring](https://open.spotify.com/album/0S1a4WBsskFBCb4N5xrxuY) | 3:37 | 2022-05-12 | 2022-05-20 |
 | [Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh) | [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [Spät](https://open.spotify.com/album/4ZlNtfptSN9dwzQVTPw42D) | 2:22 | 2022-03-31 | 2022-04-08 |
 | [Spät nach Haus \(feat\. Montez\)](https://open.spotify.com/track/7lkYdyKCN44Lc5saKwIGhP) | [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Spät nach Haus \(feat\. Montez\)](https://open.spotify.com/album/0nZAAJ1Ww4VpBjxk88gCXc) | 2:30 | 2023-01-05 | 2023-01-13 |

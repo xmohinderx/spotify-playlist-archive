@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Jenn Johnson of Bethel Music",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Hannah Hobbs",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
+    {
+      "album": {
+        "name": "A Thousand Hallelujahs",
+        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222014,
+      "name": "A Thousand Hallelujahs - Radio Version",
+      "url": "https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2"
     },
     {
       "album": {
@@ -158,7 +176,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 193040,
       "name": "Ark",
       "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
@@ -274,7 +292,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 278036,
       "name": "At The Cross - Acoustic",
       "url": "https://open.spotify.com/track/62pKX5lNb38c986qg05lDf"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 385066,
       "name": "Broken Into Beautiful - Live",
       "url": "https://open.spotify.com/track/6AFDiYC7mHnPXSt4B9NoSs"
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 274154,
       "name": "How Sweet - Spontaneous / Live",
       "url": "https://open.spotify.com/track/6ThfWlq6kXFpUfLShY99xd"
@@ -3013,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Live From The Ryman",
+        "url": "https://open.spotify.com/album/6MIa1NpLwpjAHqaKK08XFI"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372920,
+      "name": "Jesus Does - Live From The Ryman",
+      "url": "https://open.spotify.com/track/3mVhKKWyw7Vs1PB1LiiyS1"
+    },
+    {
+      "album": {
         "name": "Jesus Is Risen",
         "url": "https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22"
       },
@@ -3528,6 +3564,24 @@
       "duration_ms": 284865,
       "name": "Lighthouse - Live",
       "url": "https://open.spotify.com/track/14e6kysjljUfMXQtWZSxzO"
+    },
+    {
+      "album": {
+        "name": "Sundown (Live)",
+        "url": "https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344826,
+      "name": "Like Honey - Live",
+      "url": "https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk"
     },
     {
       "album": {
@@ -4102,7 +4156,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 334765,
       "name": "On And On",
       "url": "https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv"
@@ -4322,6 +4376,24 @@
       "duration_ms": 525920,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/4rxCdM905bRY90vGSC56QM"
+    },
+    {
+      "album": {
+        "name": "Praise Opens Prison Doors (Live)",
+        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323051,
+      "name": "Praise Opens Prison Doors - Live",
+      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
     },
     {
       "album": {
@@ -5102,8 +5174,8 @@
       },
       "artists": [
         {
-          "name": "ONE HOUSE WORSHIP",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/553zEC0LThpSSICa8mDQmv"
         },
         {
           "name": "Amanda Cook",
@@ -6482,6 +6554,24 @@
       "duration_ms": 404554,
       "name": "Wouldn't It Be Like You - Live At TRIBL Night",
       "url": "https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555906,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
     },
     {
       "album": {

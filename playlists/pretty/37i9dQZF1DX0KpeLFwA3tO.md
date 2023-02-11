@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sleaford Mods
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,393 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,514 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 81 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 |
 | 82 | [Self Portraiture](https://open.spotify.com/track/0f0ZK51QoNGm1o4fS2Mdqx) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [Self Portraiture](https://open.spotify.com/album/7faVdESYPABrC4njHhX5eD) | 3:28 |
 | 83 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
-| 84 | [Found](https://open.spotify.com/track/5otlV876xC9h8VjfBHgb0g) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Found](https://open.spotify.com/album/7KKw0c6mIDXedHDn7HJtEB) | 3:49 |
+| 84 | [Found](https://open.spotify.com/track/5I4s5tOJQsPHRtY3lqLVsc) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 3:49 |
 | 85 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 |
 | 86 | [Can't Relate \(Feat\. Poorstacy\)](https://open.spotify.com/track/1bJw91vMlG4NPE2iZtG4Uj) | [Franke](https://open.spotify.com/artist/3U9Pl72sSQzE3LCpIBiUlh), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Can't Relate \(Feat\. Poorstacy\)](https://open.spotify.com/album/6dRcZFUQSec5fv6g6U0dC4) | 3:06 |
 | 87 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 149 | [Strangest Faces](https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Strangest Faces](https://open.spotify.com/album/2PQihGqcULN7NdvgqpDnLb) | 3:11 |
 | 150 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDVkMGE2MDEyMDY3ZDg5ZDA1NmYxOTdkNDljNGI4Njgy`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGIzODA5OTA2NTA0Yjg3NWM1ZjIzYWUzNzBiNmQ0OGQ2`

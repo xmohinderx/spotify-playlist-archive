@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-213 songs - 10 hr 28 min
+214 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Thunderstorm By The Waterfall](https://open.spotify.com/track/5dqINJU28icQujnJU37BJS) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 2:13 | 2021-11-11 |  |
 | [Thunderstorm In The Cabin](https://open.spotify.com/track/5PmVqECxxW8pix05pb5gjv) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 3:45 | 2021-11-11 | 2022-11-17 |
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2021-11-11 |  |
-| [Tulum Beach Mexico](https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730) | [Beaches Of Mexico](https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy) | [Tulum Beach Mexico](https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF) | 3:03 | 2022-12-19 |  |
+| [Tulum Beach Mexico](https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730) | [Beaches Of Mexico](https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy) | [Tulum Beach Mexico](https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF) | 3:03 | 2022-12-19 | 2023-02-11 |
 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 | 2021-11-11 |  |
 | [Vagues Secrètes](https://open.spotify.com/track/1SJWEPfDt9U4t9q2w2UtXv) | [Vagues Dans La Mer](https://open.spotify.com/artist/6DxfAk7g7J4PUg4zFvOK9t) | [Surfez Sur Les Vagues](https://open.spotify.com/album/11VPKyawPrb6lOe2fGQZVZ) | 1:43 | 2021-11-11 |  |
 | [Venice Beach Waves](https://open.spotify.com/track/7hyGZCYCcnBWpvMrnTpFjC) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:09 | 2021-11-11 |  |
@@ -216,6 +216,7 @@
 | [Wellenspiel](https://open.spotify.com/track/7JKfoo5a2bETRkjTxH7uJ1) | [Relaxing Med Waves](https://open.spotify.com/artist/2aqWuM6vBNflw6fqeVv4SU) | [Wellenspiel](https://open.spotify.com/album/27BZxt3ZvJaOIX1rWyEhr4) | 3:16 | 2021-11-11 |  |
 | [White Noise and Ocean Pouring](https://open.spotify.com/track/1kLZQfEVrRdp9gU5PSpsVZ) | [Ocean Sounds Plus](https://open.spotify.com/artist/5egi8NfM9HG9Zp7vaHvkdL) | [Soothing Ocean Waves for Dreaming](https://open.spotify.com/album/6T8TyY896trhFv3NX8LTX6) | 3:27 | 2021-11-11 |  |
 | [White Noise Waves](https://open.spotify.com/track/01AKBy0h9oJamIXgMkDXu0) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:16 | 2021-11-11 |  |
+| [Windy Beach 1](https://open.spotify.com/track/4cBZpXxrYjGUJ59TaoBODP) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Ocean Waves Volume 2](https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR) | 2:23 | 2022-12-19 |  |
 | [Windy Ocean Waves](https://open.spotify.com/track/6XEEsaEjxwQx4ulaTO1SnT) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Ocean Waves for Sleep Vol\. 1](https://open.spotify.com/album/7oGG72MVLqWWzTRa8lQ4t5) | 2:52 | 2021-11-11 |  |
 | [Windy Waves](https://open.spotify.com/track/3AalMQqUdI8IEQArwUzAoC) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Sleep Sound Factory](https://open.spotify.com/album/1SGpSsVr2Ofysiiv8h3Cev) | 5:10 | 2021-11-11 |  |
 | [Your Favourite Ocean](https://open.spotify.com/track/4rAjndhOWiV4nyCgknK4rn) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 4](https://open.spotify.com/album/5uHGGk7UbfdQxQpx35spjM) | 2:48 | 2021-11-11 |  |

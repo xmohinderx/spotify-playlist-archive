@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127131,
+  "num_followers": 127137,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk3NSxhYzk3MDBkMjE3NzQ2ZDNhZWNjYWU0ZWRhODZhZjgxMGI2ZmQyNmI3",
+  "snapshot_id": "Mzk4MSxkZGI0NjUyZjk0ZjEzZjQ5MGFkMDYwZmFiMjcxNmZkYzQ1YzE0Zjc1",
   "tracks": [
+    {
+      "added_at": "2023-02-10 20:43:43",
+      "album": {
+        "name": "destination heartbreak pt. 2",
+        "url": "https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "destination heartbreak",
+      "url": "https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK"
+    },
+    {
+      "added_at": "2023-02-10 20:38:44",
+      "album": {
+        "name": "do my own thing",
+        "url": "https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 222165,
+      "name": "do my own thing",
+      "url": "https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG"
+    },
     {
       "added_at": "2023-02-09 18:38:00",
       "album": {
@@ -1123,42 +1159,6 @@
       "duration_ms": 208000,
       "name": "Turn Back The Clocks",
       "url": "https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Collecting Thoughts",
-        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        },
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "Collecting Thoughts",
-      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "destination heartbreak pt. 1",
-        "url": "https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "dreaming of you",
-      "url": "https://open.spotify.com/track/0Hp6vVEvnAcUl6weg2tUBM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

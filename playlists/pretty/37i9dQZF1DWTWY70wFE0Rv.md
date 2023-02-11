@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 
 > This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever\. With Love, <a href="https://www.theokraproject.com/">The Okra Project</a> \| Cover: Dominique Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,233 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 | 40 | [I Care 4 U](https://open.spotify.com/track/2YpFUAIL8VXtS4oUap79ZR) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:33 |
 | 41 | [Un\-thinkable \(I'm Ready\)](https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 |
 | 42 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 |
-| 43 | [Fierce \- Radio Edit](https://open.spotify.com/track/5A8495QB6sHlIWuzeimUvJ) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Angelica Ross](https://open.spotify.com/artist/7H13Gscov16YbLmMjQ0Xiu), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Fierce \(Radio Edit\)](https://open.spotify.com/album/4lP0dw0HBBfaSGD7u6mNQE) | 3:55 |
+| 43 | [Fierce \- Radio Edit](https://open.spotify.com/track/3OuA3x1VqohX67Vl0ZEXl9) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Angelica Ross](https://open.spotify.com/artist/7H13Gscov16YbLmMjQ0Xiu), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [A2](https://open.spotify.com/artist/7b5TnVqlCtbE72saTYa1iV) | [Fierce](https://open.spotify.com/album/7ikhGZBTvsVK4yNb9cr0de) | 3:55 |
 | 44 | [Catch This Love](https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Catch This Love](https://open.spotify.com/album/31BvJJpjUx5g8GjRgU8xQa) | 2:18 |
 | 45 | [When I Close My Eyes](https://open.spotify.com/track/3EKEsJWz8oaxG1lfrojWug) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Shanice](https://open.spotify.com/album/3oTcmJVbYGQxsGFlDdI0bM) | 3:22 |
 | 46 | [Yesterday](https://open.spotify.com/track/549gHYCxkYpHF2x5Tf8991) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Shanice](https://open.spotify.com/album/3oTcmJVbYGQxsGFlDdI0bM) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 | 49 | [Love Unconditionally](https://open.spotify.com/track/6STwXCnOmXZ1c3x942Q9IM) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 3:57 |
 | 50 | [Fine Time](https://open.spotify.com/track/1ovXQ9GMVyoWOWOxRHM8GO) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:32 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDYwZmUyYTJlYWE3Nzk2ZWIyZjRkYWQxYzZkODkxNzMy`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDY3N2FlNzQxMzhkZDQ0MTZlMjI4NGZlNjRjNzdmNDY5`

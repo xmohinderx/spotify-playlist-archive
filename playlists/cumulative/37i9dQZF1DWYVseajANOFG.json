@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Jorkan",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -1237,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "BAD GYAL RIDDIM",
+        "url": "https://open.spotify.com/album/0Sl66un5vjC2a2KerGwlJ7"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
+        },
+        {
+          "name": "PM Beatz",
+          "url": "https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp"
+        },
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "LA DUE\u00d1A",
+      "url": "https://open.spotify.com/track/2FgTQUokrDl1OsHorgfPyc"
+    },
+    {
+      "album": {
         "name": "La Gasolina",
         "url": "https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz"
       },
@@ -1706,6 +1732,28 @@
       "duration_ms": 204574,
       "name": "Mi Porno",
       "url": "https://open.spotify.com/track/4jPVERl67DAlRmtq3VmkXr"
+    },
+    {
+      "album": {
+        "name": "Mojaita",
+        "url": "https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB"
+      },
+      "artists": [
+        {
+          "name": "Robi Guid",
+          "url": "https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy"
+        },
+        {
+          "name": "Lh Da Produzza",
+          "url": "https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Mojaita",
+      "url": "https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1"
     },
     {
       "album": {
@@ -3078,7 +3126,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 155125,
       "name": "Van Duro",
       "url": "https://open.spotify.com/track/3rBITsfts82foOS58VKMoj"
@@ -3096,7 +3144,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 278345,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM"

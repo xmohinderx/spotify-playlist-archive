@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 153245,
       "name": "come back",
       "url": "https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p"
@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 139040,
       "name": "FEEL SOMETHING (feat. Marshmello)",
       "url": "https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3"
@@ -7073,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
+    },
+    {
+      "album": {
         "name": "EAT YOUR HEART OUT",
         "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
       },
@@ -8982,6 +9000,24 @@
       "duration_ms": 162197,
       "name": "Normal",
       "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
+    },
+    {
+      "album": {
+        "name": "God Mom",
+        "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
+      },
+      "artists": [
+        {
+          "name": "Mackned",
+          "url": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123200,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
       "album": {
@@ -11002,7 +11038,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 163755,
       "name": "Salt",
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
@@ -13756,6 +13792,24 @@
       "duration_ms": 214475,
       "name": "Up Up and Away",
       "url": "https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ"
+    },
+    {
+      "album": {
+        "name": "Upset",
+        "url": "https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk"
+      },
+      "artists": [
+        {
+          "name": "CHRIS RAIN",
+          "url": "https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta"
     },
     {
       "album": {

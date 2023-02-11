@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-207 songs - 12 hr 24 min
+209 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Grow](https://open.spotify.com/track/1Z24QIZbcufidG7K4ntWI9) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said \(Deluxe\)](https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n) | 3:59 | 2017-12-03 |  |
 | [Grow](https://open.spotify.com/track/2IV8dt4W4y1G8bODDbsXVz) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Grow](https://open.spotify.com/album/5dMC2hmZ9rjf0Cyyo2d84K) | 4:00 | 2017-12-03 | 2022-07-29 |
 | [Grow](https://open.spotify.com/track/0rdyfMLheQMaWUbuFwAQhA) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [2:22 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r6DIa6edUwUMk6RhDnQLa) | 4:01 | 2017-12-03 | 2022-11-13 |
+| [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-10 |  |
 | [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2017-12-03 | 2022-07-29 |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2017-12-03 |  |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 |  |
@@ -155,7 +156,7 @@
 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 | 2017-12-03 |  |
 | [She Treats Me Well](https://open.spotify.com/track/5N1itNLaYtifU8YVbg9SBQ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4EcVVeYCeafIQk383MQfp5) | 5:17 | 2017-12-03 | 2022-07-29 |
 | [She Will Sing](https://open.spotify.com/track/2yVpADjZg3DY4GlCYimH63) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [She Will Sing](https://open.spotify.com/album/6yA8sTOhnfBlYkrtem5w1t) | 3:44 | 2017-12-03 | 2022-07-29 |
-| [She Will Sing](https://open.spotify.com/track/4E8Zv4wFRUsFJtpnsoT01V) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [After the Rain](https://open.spotify.com/album/0QC20xJcjfb0QsFoPEmGyw) | 3:44 | 2017-12-03 |  |
+| [She Will Sing](https://open.spotify.com/track/4E8Zv4wFRUsFJtpnsoT01V) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [After the Rain](https://open.spotify.com/album/0QC20xJcjfb0QsFoPEmGyw) | 3:44 | 2017-12-03 | 2023-02-11 |
 | [Shine](https://open.spotify.com/track/3XwOaKFb6sH0K6BfNJ4VDq) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Shine \(Kygo Remix\)](https://open.spotify.com/album/6tUKtq2hrHaWVs5Qokzc1P) | 2:58 | 2017-12-03 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/2im8Pxe6JuPf6dhpxhl2nX) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 3:02 | 2017-12-03 |  |
 | [Shine](https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 3:02 | 2017-12-03 | 2022-11-13 |
@@ -182,6 +183,7 @@
 | [Teach Me How to Dance with You](https://open.spotify.com/track/4QImwTI39jBWqS6vS1Q8Qh) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Teach Me How to Dance with You](https://open.spotify.com/album/5BGScd4DAGvbgkAqALG6Fn) | 3:36 | 2017-12-03 | 2022-11-13 |
 | [Teach Me How to Dance with You](https://open.spotify.com/track/52YJBULh8SQQJrozbkBCE6) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/6UIcB2QDipPvUYCtsJNTSk) | 3:36 | 2017-12-03 | 2022-10-20 |
 | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/track/3icbmPGKTsKAa0IinkizCM) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/album/7skmxw0M4VQMZwY4lICAHl) | 3:06 | 2017-12-03 |  |
+| [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2023-02-10 |  |
 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 | 2017-12-03 |  |
 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 | 2017-12-03 | 2022-07-29 |
 | [Tiger Striped Sky](https://open.spotify.com/track/7lSGH2sHbWVhAaRPkaKc7q) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Year Of The Tiger](https://open.spotify.com/album/2SyBBVSg0CK3gBrmR7qV1m) | 4:01 | 2017-12-03 | 2022-11-13 |
@@ -214,6 +216,6 @@
 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 | 2017-12-03 | 2022-07-29 |
 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2017-12-03 |  |
 | [You Make It Real](https://open.spotify.com/track/5Bsi0V82J68BnBl4Bs6VLh) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Thanksgiving Music](https://open.spotify.com/album/5BUojL6FheMdXPwv5HZ1PL) | 3:32 | 2017-12-03 | 2022-11-13 |
-| [You Might Need Somebody](https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx) | [Turley Richards](https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e) | [Therfu](https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc) | 3:36 | 2017-12-03 |  |
+| [You Might Need Somebody](https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx) | [Turley Richards](https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e) | [Therfu](https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc) | 3:36 | 2017-12-03 | 2023-02-11 |
 
 \*This playlist was first scraped on 2022-04-18. Prior content cannot be recovered.

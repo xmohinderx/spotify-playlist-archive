@@ -2,9 +2,9 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keep it low\-key with all of today's chill pop\. Cover: Stephen Sanchez
+> Keep it low\-key with all of today's chill pop\. Cover: Jeremy Zucker
 
-1,159 songs - 2 day 13 hr 47 min
+1,162 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2021-09-18 | 2022-04-23 |
 | [Am I High Rn \(feat\. blackbear\)](https://open.spotify.com/track/1db6ixe9nX6cqt2V1DYZnW) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [A Letter To My Younger Self](https://open.spotify.com/album/1dVw3jSdgZp7PfGhCEo32t) | 3:19 | 2020-07-11 | 2020-12-04 |
 | [Amazing](https://open.spotify.com/track/2ZTvGAZD0DLePVY3e65lxW) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Amazing](https://open.spotify.com/album/1t3IxuDmq8sG96gPK5DuTS) | 3:58 | 2020-04-26\* | 2020-08-07 |
+| [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-10 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-07-17 | 2021-08-07 |
 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 | 2021-03-06 | 2021-03-14 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-11 | 2022-01-22 |
@@ -92,10 +93,10 @@
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-11-06 | 2022-02-12 |
 | [barcelona](https://open.spotify.com/track/3Ye0p2mpBSyOW4ewtnvX3w) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [barcelona](https://open.spotify.com/album/7AoLXewzOtIfeusHdIKKMu) | 3:45 | 2021-05-15 | 2021-06-26 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2020-04-26\* | 2020-05-30 |
-| [Be So Cruel](https://open.spotify.com/track/3jgTthrOsgFR1477mor7Ex) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel](https://open.spotify.com/album/65ie5k4WFkgwCtRl06l2RE) | 2:12 | 2022-12-16 |  |
+| [Be So Cruel](https://open.spotify.com/track/3jgTthrOsgFR1477mor7Ex) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel](https://open.spotify.com/album/65ie5k4WFkgwCtRl06l2RE) | 2:12 | 2022-12-16 | 2023-02-11 |
 | [Be There for You](https://open.spotify.com/track/5JdMXRdF7Ls0JYG2p2PKmo) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Be There for You](https://open.spotify.com/album/43QnzBUSXvUo1Rxnj0X4bx) | 2:09 | 2020-08-21 | 2020-10-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 | 2022-10-14 |
-| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-10 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-10 | 2023-02-11 |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-05-01 | 2020-09-11 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-04 |
@@ -169,7 +170,7 @@
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 |  |
 | [Caroline](https://open.spotify.com/track/7FTtz6C2lhpUHAZxMd1XcG) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Caroline](https://open.spotify.com/album/1VOogKF0JFYVcfDPcxoESS) | 4:30 | 2020-09-04 | 2020-10-16 |
 | [carpool](https://open.spotify.com/track/6fAfv4dn8FbcIsXhU0Jed7) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [carpool](https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno) | 2:44 | 2021-03-14 | 2021-06-26 |
-| [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 |  |
+| [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2023-02-11 |
 | [Cat Cafe](https://open.spotify.com/track/52rbDEiFCXi6QGA9K8Pk8B) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cat Cafe](https://open.spotify.com/album/2ZzLZXVjDLVrXGVQf6UlPP) | 2:30 | 2021-02-19 | 2021-06-05 |
 | [Catch](https://open.spotify.com/track/4XX9brmzggEvkJVRguJHHS) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Catch](https://open.spotify.com/album/23xqxGMKYz6nutMgVyU0Lj) | 2:51 | 2020-05-30 | 2020-08-14 |
 | [Cate’s Brother \- Matt's Version](https://open.spotify.com/track/7wRE8QWyuMHz21Lmb6yX70) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Cate’s Brother \(Matt's Version\)](https://open.spotify.com/album/1zvqo4UayFFuM6eUDPSJSR) | 3:16 | 2022-06-03 | 2022-07-02 |
@@ -545,6 +546,7 @@
 | [indica](https://open.spotify.com/track/3o0leBKDR9aCHv5yd3OBLH) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [indica](https://open.spotify.com/album/6pYJRNMrYlBvThV18FwJnx) | 3:25 | 2021-03-26 | 2021-04-30 |
 | [Indigo](https://open.spotify.com/track/7y3q2BEJlYme4Goh8gKS79) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Indigo](https://open.spotify.com/album/23wFWtgxo7xaMYTQmQ2xdu) | 2:39 | 2020-12-13 | 2021-03-19 |
 | [Infinite](https://open.spotify.com/track/3KmHnBlmfQuQu4hyh1eggd) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Infinite](https://open.spotify.com/album/65CkIcNtt9s4JQAboajshU) | 3:47 | 2021-06-26 | 2021-09-04 |
+| [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 |  |
 | [intimate moments](https://open.spotify.com/track/0Tj5Dm8TNH4nzXgzAztyJE) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [intimate moments](https://open.spotify.com/album/3xNEpEy2g317i4J04FQD2U) | 3:30 | 2020-12-13 | 2021-03-19 |
 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 | 2020-04-26\* | 2020-07-31 |
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2020-04-26\* | 2020-10-09 |
@@ -811,6 +813,7 @@
 | [Picture Of You](https://open.spotify.com/track/3wFxiKVkDXYVRSqwZsG2MF) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Picture Of You](https://open.spotify.com/album/6bCIFiwdO5kqSuCHd7ZzPF) | 3:21 | 2021-03-19 | 2021-06-05 |
 | [Pieces](https://open.spotify.com/track/105tVTzoQgsmQ9yxbezxPX) | [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Pieces](https://open.spotify.com/album/5RrkzyMuf7LW0dKfjpEfkl) | 2:56 | 2020-04-26\* | 2020-05-01 |
 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 | 2022-01-07 | 2022-02-26 |
+| [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 |  |
 | [Play God](https://open.spotify.com/track/6x0qWr11OBW3VOw1oxy9K6) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Play God](https://open.spotify.com/album/6EJZKkC6noTPAQS9RY7j1a) | 2:49 | 2021-01-15 | 2021-03-19 |
 | [Please Don't Leave Just Yet](https://open.spotify.com/track/1kHTb9Mq9FbBKqhH4RjCIi) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Please Don't Leave Just Yet](https://open.spotify.com/album/27L7VdlM5R2B1ZK9hjZYDT) | 3:49 | 2021-08-07 | 2021-08-28 |
 | [please hold me](https://open.spotify.com/track/76mhYD8ORDyXAKog43BSeQ) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [please hold me](https://open.spotify.com/album/3sDMJ9IGNW963y2gXXNpxC) | 3:12 | 2022-02-18 | 2022-09-10 |

@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Cyber!",
+        "url": "https://open.spotify.com/album/6jKjmMdTd717UG6SXCOZGI"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "scrot!",
+          "url": "https://open.spotify.com/artist/3kOJVA2xUgMPWClERz2q5M"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144031,
+      "name": "Cyber!",
+      "url": "https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2"
+    },
+    {
+      "album": {
         "name": "DATAMOSHBLOODDROP",
         "url": "https://open.spotify.com/album/5hjfjcqj8IbrY9c4CmlgFf"
       },

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jericho Streegan, Artwork: Isu Kim
 
-750 songs - 1 day 21 hr 20 min
+751 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [Won't Stop](https://open.spotify.com/track/18clc0q7L2NmQCaW0Jgfhy) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [Won't Stop](https://open.spotify.com/album/16hzbzlEkhY0G4qrHIZVF5) | 3:43 | 2023-01-19 |  |
 | [World’s Ending](https://open.spotify.com/track/6SIKj47l7ytD7KKezX9FVA) | [Mica Caldito](https://open.spotify.com/artist/6XdTCrSBB4lV5MVqZEuygi) | [World’s Ending](https://open.spotify.com/album/6kkKBIj0TRj21ktHWiMv99) | 4:59 | 2022-03-24 | 2022-04-01 |
 | [XNLY TRUST](https://open.spotify.com/track/60yXTlrOXe5O9l1f4ewSzb) | [IVNFIL](https://open.spotify.com/artist/3Fy24YWLYJu5Zqd2pgt5eg) | [CRXSSED OUT](https://open.spotify.com/album/7lS0J4URPg5nXoL06cE8uo) | 3:40 | 2022-09-08 | 2022-11-25 |
+| [Yellow Dress](https://open.spotify.com/track/4sjt522wKNsSqSXHzpLg1V) | [Blexelerey](https://open.spotify.com/artist/61YF361kwmcMeANApHI342) | [Yellow Dress](https://open.spotify.com/album/3B1vFipKQ3b9RN3fVjh3Wt) | 3:15 | 2023-02-09 |  |
 | [You](https://open.spotify.com/track/4bo2lCA1iUYVEo8lY3hUk7) | [La Crema](https://open.spotify.com/artist/14rN9CCEd6amLJxcnRpnph) | [You](https://open.spotify.com/album/75xlBb4PuFaIALFZ3xIlNK) | 2:29 | 2023-01-26 |  |
 | [YOU](https://open.spotify.com/track/5U4nDUjCvEkmZcoqO4L1KB) | [Mooz PH](https://open.spotify.com/artist/3AOdFw44iEpHiRNKpIevAm), [DonMigs](https://open.spotify.com/artist/2NbfcnDFxnlvnHEQXLdYaV), [Not Your Crew](https://open.spotify.com/artist/1X5bdDsh2hnZS2aPmZlqJG) | [YOU](https://open.spotify.com/album/3aofA0KShiJxagg3lXnZ61) | 2:44 | 2023-02-09 |  |
 | [you wanted a woman](https://open.spotify.com/track/6preeBUwtL6H5tRZJZFK1r) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [you wanted a woman](https://open.spotify.com/album/7z66WMwER7LsR97cDZ7nl1) | 3:33 | 2022-05-05 | 2022-07-01 |

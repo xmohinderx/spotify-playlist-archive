@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 152619,
+  "num_followers": 152683,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MTYzNCwwMDAwMDAwMGE3NTI1YWVkZTJhNzJmZGQ4YWI1MmY4ZjY2N2YyYjgz",
+  "snapshot_id": "MTY3MzI2MTYzNCwwMDAwMDAwMDMxZWE1ODllMGZlNWQ1YjM3ZjM0ZmFlYzgxNTM3MTY5",
   "tracks": [
     {
       "added_at": "2023-01-09 10:53:54",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Roll Back",
-        "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        },
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        }
-      ],
-      "duration_ms": 184989,
-      "name": "Roll Back - Single Mix",
-      "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
-    },
-    {
-      "added_at": "2023-01-09 10:53:54",
-      "album": {
         "name": "Equals",
         "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 286451,
       "name": "Equals",
       "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
+    },
+    {
+      "added_at": "2023-01-09 10:53:54",
+      "album": {
+        "name": "Roll Back",
+        "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 184989,
+      "name": "Roll Back - Single Mix",
+      "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
     }
   ],
   "unique_name": "4AM Chillout",

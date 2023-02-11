@@ -6147,6 +6147,28 @@
     },
     {
       "album": {
+        "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
+        "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        },
+        {
+          "name": "Sterry",
+          "url": "https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
+      "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -7800,7 +7822,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu"

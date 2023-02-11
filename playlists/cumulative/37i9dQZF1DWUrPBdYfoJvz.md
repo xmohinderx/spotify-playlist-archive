@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-167 songs - 19 hr 13 min
+168 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 | 2021-12-22 |  |
 | [Movements / The Ascent](https://open.spotify.com/track/473LOUVfW0SnEmg7aXktga) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 6:19 | 2022-07-01 |  |
 | [Mt Baker](https://open.spotify.com/track/2NdOUAfOeIBFiSthmCK2GP) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 5:12 | 2021-12-22 |  |
-| [Music for 18 Musicians: Pulses](https://open.spotify.com/track/3TBO0QhrrrOiAZIzRlTUfQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/7ndBYWWUQTM3i7if0upsPF) | 4:36 | 2021-12-22 |  |
+| [Music for 18 Musicians \(1976\): Pulses 1](https://open.spotify.com/track/35AlFEGYlarCs6kwwmvFak) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/5k59hxub9xY6q3HanC77es) | 4:36 | 2023-01-27 |  |
+| [Music for 18 Musicians: Pulses](https://open.spotify.com/track/3TBO0QhrrrOiAZIzRlTUfQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/7ndBYWWUQTM3i7if0upsPF) | 4:36 | 2021-12-22 | 2023-02-11 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2022-07-11 |  |
 | [Nove Alberi](https://open.spotify.com/track/0qR4944z41aPHStt3EtJuk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Luxa](https://open.spotify.com/album/6U54zyIjIX05p3e7xXNURs) | 6:00 | 2022-07-11 | 2023-02-03 |
 | [Nove Alberi](https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 6:00 | 2023-01-27 |  |

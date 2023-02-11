@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,450 likes - 65 songs - 3 hr 51 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,447 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 42 | [fEELIN' aNxioUs](https://open.spotify.com/track/3bmigwLzEw2GFEVRkJk8cI) | [Demi Yo'ko](https://open.spotify.com/artist/7KFJi5XXBTrDfn7mhkcHpf) | [fEELIN' aNxioUs](https://open.spotify.com/album/2UnbFUZwQkDaflebXvjS6u) | 2:03 |
 | 43 | [Breaking Ground](https://open.spotify.com/track/4N9ST3K5aAprq4qqYaKuQI) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:19 |
 | 44 | [MONK](https://open.spotify.com/track/3eEJKvhVrRyL8g3uyXWLsp) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [MONK](https://open.spotify.com/album/4JR5jtsuJdlQPLLRV0ooxd) | 2:07 |
-| 45 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
+| 45 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 |
 | 46 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 |
 | 47 | [HOME COMING](https://open.spotify.com/track/6LJQ0HYGVpdhaJjWd73d7y) | [1OO1O](https://open.spotify.com/artist/6TXaihRtr5n9B3xwcrFmeX), [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [HOME COMING](https://open.spotify.com/album/2YnwzR0U0YekjauXILPg1M) | 4:41 |
 | 48 | [Tambaleo \- Machine Girl Remix](https://open.spotify.com/track/101Ny9kUZZXjVIf5EDPxxw) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T), [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Tambaleo \(Machine Girl Remix\)](https://open.spotify.com/album/0NmFLDEM7hhYB22K2qUjMU) | 4:42 |

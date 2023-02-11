@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-171 songs - 10 hr 0 min
+173 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All or Nothing at All](https://open.spotify.com/track/6gRPUax22F32VxOHu1PPWy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [The Art of Dreaming](https://open.spotify.com/album/4S6jHcky7OZ13AFsf02kCy) | 3:06 | 2022-03-18 |  |
 | [All Things Must Pass](https://open.spotify.com/track/08QKljz2w9sVZF2OobprX8) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 3:36 | 2022-07-22 |  |
 | [All Things Must Pass](https://open.spotify.com/track/1kffJSXtZdDZQtgbHLiECs) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [All Things Must Pass](https://open.spotify.com/album/5b0Mp58evan3vlGpv7cdgy) | 3:36 | 2021-11-19 | 2022-07-29 |
+| [Altitude](https://open.spotify.com/track/6q91dRcubenCmtWe0tO6ud) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/7uV1GtfAMIfz1mROOYTgZR) | 3:47 | 2023-02-10 |  |
 | [And Then Some](https://open.spotify.com/track/0nGPgNejfosCvKVEUD8Gim) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [And Then Some](https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF) | 3:50 | 2021-10-15 |  |
 | [Angelina](https://open.spotify.com/track/1uEx04wo96LJzR1A6nzgCi) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Angelina](https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B) | 2:55 | 2022-01-07 |  |
 | [Bad Storm Coming Tonight](https://open.spotify.com/track/36GHmqYW8fBK4LYM4Hr7zY) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Bad Storm Coming Tonight](https://open.spotify.com/album/0QghGTf6Kmjb9KuZhxk7Gt) | 2:54 | 2021-10-15 | 2022-09-21 |
@@ -156,6 +157,7 @@
 | [There Is No Arizona 2.0](https://open.spotify.com/track/0748ETcSWmM6C5YlbRhoFK) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [There is No Arizona 2.0 / Sometimes It's Too Late](https://open.spotify.com/album/2R5d0fXomp7lZmfx3N2Wft) | 4:07 | 2021-10-15 |  |
 | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/track/4DMtfdorMz6ShoAi9jDxhw) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b) | 3:25 | 2022-04-22 |  |
 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 | 2021-10-15 |  |
+| [Tiger By The Tail](https://open.spotify.com/track/2vDWNjHqsqEKyfMGAtv61J) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tiger By The Tail](https://open.spotify.com/album/5sGRMZXEbHf6lgOp1inAWM) | 2:24 | 2023-02-10 |  |
 | [Til the End of Time](https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Lisa Hartman Black](https://open.spotify.com/artist/6vSo8MOzgy8fBHPyFuq0Iv) | [Til the End of Time](https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf) | 4:58 | 2021-10-15 | 2022-09-21 |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-11-12 | 2022-09-21 |
 | [Tonight Is The Night](https://open.spotify.com/track/1JDTv7O9CwSGN8iLyaLNyx) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Tonight Is The Night](https://open.spotify.com/album/4tTqwMPuT0KT0SG0zcVNt6) | 4:38 | 2023-02-03 |  |

@@ -1563,6 +1563,32 @@
     },
     {
       "album": {
+        "name": "Las Salsas",
+        "url": "https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "El Revul\u00fa",
+          "url": "https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173654,
+      "name": "Incomparable (feat. El Revul\u00fa)",
+      "url": "https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe"
+    },
+    {
+      "album": {
         "name": "Exitos y Mas",
         "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
@@ -1992,7 +2018,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 244053,
       "name": "Lo Que Yo Quiero",
       "url": "https://open.spotify.com/track/7zoa1nv5hDuoj7fWh7X4IV"
@@ -2452,7 +2478,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
@@ -4096,7 +4122,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 298906,
       "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
       "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"

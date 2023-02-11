@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 333401,
+  "num_followers": 333523,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMGIzZDJhM2Y2N2QyN2IwYWViYzMxY2U1M2IwYTA2NjMy",
+  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMGEyNTNhYWYxODM2NjJiNjBhYTQxNDY1ZjFhOWJmYjYw",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -817,6 +817,26 @@
       "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
     },
     {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Tarde Em Itapu\u00e3",
@@ -891,26 +911,6 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
+        }
+      ],
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 228477,
+      "name": "J\u00e1 ouviu falar de amor?",
+      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Tenho Sede",
@@ -1233,20 +1249,20 @@
       "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
     },
     {
-      "added_at": "2023-02-10 00:51:07",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+        "name": "On",
+        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Helena Elis",
+          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
         }
       ],
-      "duration_ms": 228477,
-      "name": "J\u00e1 ouviu falar de amor?",
-      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
+      "duration_ms": 205800,
+      "name": "On",
+      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
-      },
-      "artists": [
-        {
-          "name": "Helena Elis",
-          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "On",
-      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Twoth Pick",
         "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
       },
@@ -1303,6 +1303,26 @@
       "duration_ms": 235636,
       "name": "Essa Menina",
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+    },
+    {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "Distantes e T\u00e3o Pr\u00f3ximos",
+        "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
+      },
+      "artists": [
+        {
+          "name": "Laksmi",
+          "url": "https://open.spotify.com/artist/3DJqwmpsNYr9AGzhwGWIX9"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 226292,
+      "name": "Distantes e T\u00e3o Pr\u00f3ximos",
+      "url": "https://open.spotify.com/track/6he0uxYZ7NmlEAW8B9LGux"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1373,26 +1393,6 @@
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "Distantes e T\u00e3o Pr\u00f3ximos",
-        "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
-      },
-      "artists": [
-        {
-          "name": "Laksmi",
-          "url": "https://open.spotify.com/artist/3DJqwmpsNYr9AGzhwGWIX9"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 226292,
-      "name": "Distantes e T\u00e3o Pr\u00f3ximos",
-      "url": "https://open.spotify.com/track/6he0uxYZ7NmlEAW8B9LGux"
-    },
-    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Aqui em Casa (Ep 02)",
@@ -1435,6 +1435,26 @@
       "duration_ms": 261056,
       "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "Solid\u00f5es",
+        "url": "https://open.spotify.com/album/5KSBEMVST0zTeiBadYWcsG"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "Luiza Lara",
+          "url": "https://open.spotify.com/artist/0RyoZ6dvr4P9il9zzJK14e"
+        }
+      ],
+      "duration_ms": 139137,
+      "name": "Solid\u00f5es",
+      "url": "https://open.spotify.com/track/68yYJHwo574Ok3PRHHRxMZ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1491,26 +1511,6 @@
       "duration_ms": 215660,
       "name": "A Palo Seco - Radio Edit",
       "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
-    },
-    {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "Solid\u00f5es",
-        "url": "https://open.spotify.com/album/5KSBEMVST0zTeiBadYWcsG"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "Luiza Lara",
-          "url": "https://open.spotify.com/artist/0RyoZ6dvr4P9il9zzJK14e"
-        }
-      ],
-      "duration_ms": 139137,
-      "name": "Solid\u00f5es",
-      "url": "https://open.spotify.com/track/68yYJHwo574Ok3PRHHRxMZ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1757,6 +1757,42 @@
       "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
     },
     {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 267427,
+      "name": "Um Rol\u00ea no C\u00e9u - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jPCNeQ8brTYhUryA1ROxs"
+    },
+    {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "Bom Parto",
+        "url": "https://open.spotify.com/album/3ZwcCK5QY3nxCuJzfoWRcF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Bom Parto",
+      "url": "https://open.spotify.com/track/64SV10nZmjEkQ98orOPU2r"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Retr\u00f3picos",
@@ -1793,42 +1829,6 @@
       "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
     },
     {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 267427,
-      "name": "Um Rol\u00ea no C\u00e9u - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jPCNeQ8brTYhUryA1ROxs"
-    },
-    {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "Bom Parto",
-        "url": "https://open.spotify.com/album/3ZwcCK5QY3nxCuJzfoWRcF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Bom Parto",
-      "url": "https://open.spotify.com/track/64SV10nZmjEkQ98orOPU2r"
-    },
-    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Control Z",
@@ -1849,6 +1849,22 @@
       "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
     },
     {
+      "added_at": "2023-02-11 00:02:57",
+      "album": {
+        "name": "\u00c1gua do Mar",
+        "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mann",
+          "url": "https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj"
+        }
+      ],
+      "duration_ms": 198835,
+      "name": "\u00c1gua do Mar",
+      "url": "https://open.spotify.com/track/2Ot7t6rZPchQV8HFTrHoFI"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Doce Carnaval",
@@ -1867,22 +1883,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-02-10 00:51:07",
-      "album": {
-        "name": "\u00c1gua do Mar",
-        "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mann",
-          "url": "https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj"
-        }
-      ],
-      "duration_ms": 198835,
-      "name": "\u00c1gua do Mar",
-      "url": "https://open.spotify.com/track/2Ot7t6rZPchQV8HFTrHoFI"
     },
     {
       "added_at": "2023-01-20 03:00:00",

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-293 songs - 1 day 1 hr 0 min
+294 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Outline of a Distant Memory](https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Music for kō](https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm) | 6:36 | 2022-04-01 |  |
 | [Pain Tolerance \- Kyle McEvoy & wowflower Remix](https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9) | [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Cast Remixes Part III](https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t) | 2:12 | 2022-01-23 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Pale Blue Dot](https://open.spotify.com/album/6SG5pCBqro08A8gBpX5rv2) | 4:25 | 2022-01-14 |  |
-| [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-01-07 |  |
+| [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-01-07 | 2023-02-11 |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2022-03-04 |
 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 | 2022-02-04 |  |
 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 | 2022-02-18 |  |
@@ -219,6 +219,7 @@
 | [Ripple Effect](https://open.spotify.com/track/2PVDBUJc1n0Ol2wQUUUiiG) | [Portable](https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR) | [Ripple Effect](https://open.spotify.com/album/5O81fNq7mq7GYbeUQUFbfu) | 4:17 | 2022-01-23 | 2022-07-12 |
 | [Riptide](https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [Riptide](https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6) | 3:17 | 2022-07-15 |  |
 | [Riptide](https://open.spotify.com/track/56v1HWZ35g6jKpbJzYff6k) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 3:17 | 2021-12-26 | 2022-07-29 |
+| [Roller The Wick](https://open.spotify.com/track/0XAeppgkhdC4mgUYhFDden) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [05\-10](https://open.spotify.com/album/0MMfYUAUnR6uujgVp3SSea) | 4:56 | 2023-01-20 |  |
 | [Roller The Wick](https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [05\-10](https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI) | 4:56 | 2022-09-30 | 2023-02-02 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2021-12-26 | 2023-02-03 |
 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-01-20 |  |

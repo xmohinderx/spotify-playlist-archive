@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-799 songs - 1 day 21 hr 43 min
+801 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 | 2022-11-11 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 | 2022-07-29 |
 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 | 2022-05-23 | 2022-08-06 |
-| [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 |  |
+| [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2023-02-11 |
 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 | 2022-10-07 |  |
 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 | 2022-07-08 | 2022-12-03 |
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
@@ -219,6 +219,7 @@
 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 | 2022-10-28 |  |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |
 | [Dolonia](https://open.spotify.com/track/5oRlBYinsa2xdBJIFOtkTe) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [What's Wrong](https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse) | 2:44 | 2022-09-19 | 2022-11-12 |
+| [Done With Bits](https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Done With Bits](https://open.spotify.com/album/0W6rOrXfNXH3h79NANKqvc) | 3:36 | 2023-01-27 |  |
 | [drink](https://open.spotify.com/track/0BKepmBtw6vSh6AVhoT0Uo) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [drink](https://open.spotify.com/album/0Lt7OKElAxGnG9WRywJjfB) | 2:30 | 2022-01-28 | 2022-02-22 |
 | [Drink The Lake](https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:15 | 2021-03-05 | 2022-04-29 |
 | [Drive](https://open.spotify.com/track/4HwEnH5PQUALrkaiOYatd7) | [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Drive](https://open.spotify.com/album/06J51Sg3OlGjelZv6DBzal) | 4:11 | 2021-11-19 | 2022-04-22 |
@@ -310,6 +311,7 @@
 | [green felt](https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [green felt](https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk) | 2:20 | 2021-11-12 | 2022-04-29 |
 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 | 2022-07-15 | 2022-09-29 |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2021-03-05 | 2022-04-16 |
+| [Grief](https://open.spotify.com/track/5t9LP7mKj0KQPtg3LN5kvn) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Grief](https://open.spotify.com/album/57cK7JRwiSTzqEtNMVE6O7) | 3:39 | 2023-02-10 |  |
 | [Grudge](https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 4:03 | 2022-09-26 |  |
 | [Guessing in a Row](https://open.spotify.com/track/5klb3HnAcxzFhPO0tNSUg6) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Guessing in a Row](https://open.spotify.com/album/5j4nsSORgIB3H4yigy4wbA) | 3:46 | 2021-03-05 | 2022-04-21 |
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-03-04 | 2022-03-10 |
@@ -606,7 +608,7 @@
 | [Shame On You](https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Shame On You](https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY) | 3:20 | 2022-01-28 | 2022-04-29 |
 | [Shark Eyes](https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Shark Eyes](https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h) | 4:30 | 2022-07-15 | 2022-12-15 |
 | [Shining Armor](https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Shining Armor](https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n) | 2:39 | 2022-09-23 | 2022-12-15 |
-| [show me the world](https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [drama](https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd) | 3:43 | 2022-12-09 |  |
+| [show me the world](https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [drama](https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd) | 3:43 | 2022-12-09 | 2023-02-11 |
 | [Sick of Spiraling](https://open.spotify.com/track/0W60oexKdLOgynOU4aiyO6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Sick of Spiraling](https://open.spotify.com/album/5cT6c7GlRSrwEBOuw8MaWz) | 4:27 | 2021-04-30 | 2022-04-29 |
 | [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 2:51 | 2022-03-26 | 2022-07-16 |
 | [Sinkin'](https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:09 | 2021-04-30 | 2022-04-22 |

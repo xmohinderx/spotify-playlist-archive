@@ -1414,6 +1414,24 @@
     {
       "album": {
         "name": "Feign Life",
+        "url": "https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a"
+      },
+      "artists": [
+        {
+          "name": "Merry Lo",
+          "url": "https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172304,
+      "name": "Feign Life",
+      "url": "https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT"
+    },
+    {
+      "album": {
+        "name": "Feign Life",
         "url": "https://open.spotify.com/album/1sBHzpr8XOICD07hNMSPSU"
       },
       "artists": [
@@ -4396,24 +4414,6 @@
       "duration_ms": 188293,
       "name": "sunique",
       "url": "https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb"
-    },
-    {
-      "album": {
-        "name": "Sunny Sides",
-        "url": "https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a"
-      },
-      "artists": [
-        {
-          "name": "Merry Lo",
-          "url": "https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161061,
-      "name": "Sunny Sides",
-      "url": "https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT"
     },
     {
       "album": {

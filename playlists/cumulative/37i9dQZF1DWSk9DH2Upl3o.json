@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 288648,
       "name": "Fuzzy Ride",
       "url": "https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 338011,
       "name": "Not Just a Word",
       "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
@@ -1246,6 +1246,24 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "album": {
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/1amMcbuQSjgMcAE8dHM6qb"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291973,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/0ZbXD5Y9Q0siy3q0dzHHCU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-339 songs - 19 hr 50 min
+340 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Low Budget](https://open.spotify.com/track/7fRWF3IzHpsKiyzSioNCi5) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [FOUNDER](https://open.spotify.com/album/6Vo6Xzfo7nBk8VVWxLOrRb) | 2:53 | 2022-05-11 | 2022-07-18 |
 | [Mamba Mentality](https://open.spotify.com/track/6D8ifXpkDFahNDYHipD5y0) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Serenity, Courage, Wisdom](https://open.spotify.com/album/7v2h74y3Yr9IypF8N7MGuJ) | 2:44 | 2022-05-11 | 2022-07-22 |
 | [Man proposes God disposes](https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Man proposes God disposes](https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV) | 3:32 | 2022-10-07 |  |
-| [Mask On \(Feat\. Paloalto & Coogie\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:57 | 2022-05-11 |  |
+| [Mask On \(Feat\. Paloalto & Coogie\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:57 | 2022-05-11 | 2023-02-11 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2022-05-11 |  |
 | [Memories](https://open.spotify.com/track/2mCJmKJnOkHZWQm2maBteJ) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 4:18 | 2022-05-11 | 2022-07-29 |
 | [METEOR](https://open.spotify.com/track/06eq0M1eZRcIIRfx6d00nu) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:17 | 2022-05-11 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [Seattle 2 Seoul](https://open.spotify.com/track/2MWcTQ9Y6ICVjRQnQkysVy) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Worldwide](https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH) | 2:45 | 2022-06-03 | 2022-07-27 |
 | [Seesaw](https://open.spotify.com/track/1gb749zESrKApT32lL1lcx) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [NEVERLAND](https://open.spotify.com/album/7s7MMsdOBtxCROI8WPbPCF) | 3:15 | 2022-05-11 | 2022-07-25 |
 | [Serenity, Courage, Wisdom](https://open.spotify.com/track/3U9vwPLdOxaJSKnUwyXxiK) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Serenity, Courage, Wisdom](https://open.spotify.com/album/7v2h74y3Yr9IypF8N7MGuJ) | 2:25 | 2022-06-03 | 2022-07-28 |
+| [Simon Dominic](https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [₩ & ONLY](https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW) | 3:43 | 2023-01-25 |  |
 | [Simon Dominic](https://open.spotify.com/track/5MQqzMHkLwQQltVSE6ImXm) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [₩ & ONLY](https://open.spotify.com/album/5Ww23BxeG1dY6W9XoNLHem) | 3:43 | 2022-05-11 | 2023-02-09 |
 | [Siren](https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf) | 3:20 | 2022-07-22 |  |
 | [Siren Remix \(Feat\. UNEDUCATED KID, Paul Blanco\)](https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Siren Remix](https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn) | 3:17 | 2022-05-11 |  |

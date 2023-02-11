@@ -1,198 +1,118 @@
 {
-  "description": "Updated every Friday with the very best classical new releases. Cover: Ludovico Einaudi",
-  "num_followers": 674796,
+  "description": "Updated every Friday with the very best classical new releases. Cover: Anna Lapwood",
+  "num_followers": 674872,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMGVmMDU5ZmUwODY0NDdmZGJiOGRkZjlmOWUzM2I2NjQy",
+  "snapshot_id": "MTY3NjAwMTYwMCwwMDAwMDAwMDYxNzUwNjE3MTkyY2RkMjExMTkzMWIyZTE0MmFhZjg2",
   "tracks": [
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Experience (Solo Piano)",
-        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
+        "name": "Cornfield Chase (From \"Interstellar\") - Midnight Sessions at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/1ZpkprBI8jLjPH1ltVAN7L"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
         }
       ],
-      "duration_ms": 307202,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
+      "duration_ms": 130701,
+      "name": "Cornfield Chase (From \"Interstellar\") - Midnight Sessions at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0f65WejrgXKet9klHr5Tcc"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Two Pianos 2",
-        "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
+        "name": "J.S. Bach: French Suite No. 5 in G Major, BWV 816: I. Allemande",
+        "url": "https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Kyohei Sorita",
-          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
-        },
-        {
-          "name": "Keigo Mukawa",
-          "url": "https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF"
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Dolly Suite, Op. 56: I. Berceuse",
-      "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
+      "duration_ms": 146000,
+      "name": "French Suite No. 5 in G Major, BWV 816: I. Allemande",
+      "url": "https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
-        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+        "name": "Whitacre: All Seems Beautiful to Me",
+        "url": "https://open.spotify.com/album/0hISHS4h1cuHnhtocHhus3"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
         },
         {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
         }
       ],
-      "duration_ms": 156160,
-      "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
-      "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
+      "duration_ms": 292666,
+      "name": "All Seems Beautiful to Me",
+      "url": "https://open.spotify.com/track/2sUUIC71IhXJbmeO4jPGN7"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/6zjO4KFrZqymBNORPdm1CE"
+        "name": "Tan Dun: WE (West & East)",
+        "url": "https://open.spotify.com/album/0ooQWA5bp4XHcujttEneEl"
       },
       "artists": [
         {
-          "name": "Jacob Shea",
-          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
         },
         {
-          "name": "Eldbj\u00f8rg Hemsing",
-          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
-        },
-        {
-          "name": "Arctic Philharmonic",
-          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
+          "name": "WE Orchestra",
+          "url": "https://open.spotify.com/artist/2FtK2NhMl3AXBB0oIucbak"
         }
       ],
-      "duration_ms": 366333,
-      "name": "The Arctic Suite: I. Frozen World",
-      "url": "https://open.spotify.com/track/2CSDYt8EYIsZtDQuv3OdgJ"
+      "duration_ms": 171255,
+      "name": "WE (West & East)",
+      "url": "https://open.spotify.com/track/0uVTHELoOLNhN21MX6sP00"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "The Duchess: Piano Suite",
-        "url": "https://open.spotify.com/album/6Lqh1dQCacYPK33Iioobj9"
+        "name": "Elgar: Salut d'amour, Op. 12",
+        "url": "https://open.spotify.com/album/3eiqAHARM68mlx3T2FYmgw"
       },
       "artists": [
         {
-          "name": "Rachel Portman",
-          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
-        }
-      ],
-      "duration_ms": 152637,
-      "name": "The Duchess: Piano Suite",
-      "url": "https://open.spotify.com/track/1wfdUzXPsvJyzr3MQCRApi"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Written on the Sky",
-        "url": "https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x"
-      },
-      "artists": [
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 122362,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Steve Reich: The String Quartets",
-        "url": "https://open.spotify.com/album/0amlo8GN6h7ChMUJvRpHbM"
-      },
-      "artists": [
-        {
-          "name": "Steve Reich",
-          "url": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
         },
         {
-          "name": "Mivos Quartet",
-          "url": "https://open.spotify.com/artist/4K3g1qJ73PGZgIQgAcgjQj"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "WTC 9/11: III. WTC",
-      "url": "https://open.spotify.com/track/71YuxxjjYPxL90M351cf0u"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/7dXJjabk2Fcn4lE3g3VpPU"
-      },
-      "artists": [
-        {
-          "name": "Florence Beatrice Price",
-          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+          "name": "Daniel Lozakovich",
+          "url": "https://open.spotify.com/artist/6NYeMhiOjcNVSXwvkllyTe"
         },
         {
-          "name": "Raphaela Gromes",
-          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
-        },
-        {
-          "name": "Lucerne Festival Strings",
-          "url": "https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc"
-        },
-        {
-          "name": "Daniel Dodds",
-          "url": "https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY"
+          "name": "Stanislav Soloviev",
+          "url": "https://open.spotify.com/artist/0CTjvv9ntiE7kSYxcIIEwE"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Adoration (Arr. for Cello & Orchestra by Julian Riem)",
-      "url": "https://open.spotify.com/track/7BXEyMmzTPhGVtRmcNC1pK"
+      "duration_ms": 188200,
+      "name": "Salut d'amour, Op. 12",
+      "url": "https://open.spotify.com/track/0Qx2iQnf6GNg8epu8rYrS5"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "la chute (piano)",
-        "url": "https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 187527,
-      "name": "la chute (piano)",
-      "url": "https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Beethoven: Septet E-Flat Major, Op. 20",
-        "url": "https://open.spotify.com/album/0qSOYOmY7wyGQgdowc0ynk"
+        "name": "Beethoven: Symphony No. 5 in C Minor, Op. 67: II. Andante con moto",
+        "url": "https://open.spotify.com/album/509lCKz4WittRQRhtlDeOC"
       },
       "artists": [
         {
@@ -200,107 +120,39 @@
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "CHAARTS Chamber Artists",
-          "url": "https://open.spotify.com/artist/2YB5i3jJzmimdN0e8BZqkR"
+          "name": "Royal Northern Sinfonia",
+          "url": "https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd"
+        },
+        {
+          "name": "Thomas Zehetmair",
+          "url": "https://open.spotify.com/artist/3GOKMr4QNbiYzvNjjupsuW"
         }
       ],
-      "duration_ms": 175316,
-      "name": "Septet E-Flat Major, Op. 20: III. Tempo di menuetto",
-      "url": "https://open.spotify.com/track/3jLmifz5OdHbERDZn1dIH3"
+      "duration_ms": 499933,
+      "name": "Symphony No. 5 in C Minor, Op. 67: II. Andante con moto",
+      "url": "https://open.spotify.com/track/2rVqZvpWghaShS4C3UN19U"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "March of the Resistance (From \"Star Wars: The Force Awakens\")",
-        "url": "https://open.spotify.com/album/7asLUlL1047DGNMEyeYf4p"
+        "name": "BORDERS",
+        "url": "https://open.spotify.com/album/7rKxm5ZbTSVErOoJs8K40C"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 154266,
-      "name": "March of the Resistance - From \"Star Wars: The Force Awakens\"",
-      "url": "https://open.spotify.com/track/7HSGfRL1OekFKGkyZcouy0"
+      "duration_ms": 179301,
+      "name": "BORDERS",
+      "url": "https://open.spotify.com/track/7kd29hQliuo3wqBZJfZj1F"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Rachmaninov: \u00c9tudes-Tableaux - 3 Pieces",
-        "url": "https://open.spotify.com/album/3dlzBeRwtSQrctJuDatiMy"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 120866,
-      "name": "3 Pieces: No. 1, Fragments",
-      "url": "https://open.spotify.com/track/51bvcMtvFCspbGEIZ0WQ4s"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Hiding (Clariloops Rework)",
-        "url": "https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9"
-      },
-      "artists": [
-        {
-          "name": "Garreth Broke",
-          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
-        },
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Hiding - Clariloops Rework",
-      "url": "https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Clara & Robert Schumann: Piano Concertos",
-        "url": "https://open.spotify.com/album/1N1wu91bavegZTqzKc9Irp"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        },
-        {
-          "name": "Chamber Orchestra of Europe",
-          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        }
-      ],
-      "duration_ms": 964093,
-      "name": "Schumann: Piano Concerto in A Minor, Op. 54: I. Allegro affettuoso",
-      "url": "https://open.spotify.com/track/3LBbSX6CJlr7Y3fUJUzWgp"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Mozart: The Beginning & The End",
-        "url": "https://open.spotify.com/album/6LasvytbpEQJbKggFmrUld"
+        "name": "Piano Concerto No. 25 in C Major, K. 503/II. Andante",
+        "url": "https://open.spotify.com/album/3BUsfA8pF4Pc5NefLHZbQv"
       },
       "artists": [
         {
@@ -308,140 +160,56 @@
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
         },
         {
-          "name": "Maxim Emelyanychev",
-          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no"
         }
       ],
-      "duration_ms": 677320,
-      "name": "Symphony No. 41 in C Major, K. 551 \"Jupiter\": I. Allegro vivace",
-      "url": "https://open.spotify.com/track/5Z8rN2zzSekEg7uHWDoE8S"
+      "duration_ms": 444040,
+      "name": "Piano Concerto No. 25 in C Major, K. 503/II. Andante",
+      "url": "https://open.spotify.com/track/2qRs6hb89K4oQIoXYr7vCq"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Thomas Ad\u00e8s: Dante, Pt. I \u201cInferno\u201d: XII. The Thieves\u2014devoured by reptiles",
-        "url": "https://open.spotify.com/album/7wkcavj6MiGbpY7UGGu4yK"
+        "name": "Stravinsky: Le sacre du printemps / Pt. 1: L'Adoration de la terre: II. Les augures printaniers",
+        "url": "https://open.spotify.com/album/7slk3EV38dnYhMfOIoOUkb"
       },
       "artists": [
         {
-          "name": "Thomas Ad\u00e8s",
-          "url": "https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi"
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
         },
         {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
         },
         {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Los Angeles Master Chorale",
-          "url": "https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x"
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
         }
       ],
-      "duration_ms": 183346,
-      "name": "Ad\u00e8s: Dante, Pt. I \"Inferno\": XII. The Thieves\u2014devoured by reptiles",
-      "url": "https://open.spotify.com/track/30z5cwFXjuzTQrFQgnEYTX"
+      "duration_ms": 197306,
+      "name": "Le sacre du printemps / Pt. 1: L'Adoration de la terre: II. Les augures printaniers",
+      "url": "https://open.spotify.com/track/2HeFq6oMoSYyAMWYukwQlB"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Isolation (Library Tapes Rework)",
-        "url": "https://open.spotify.com/album/1V282GmukZPmNt4Wefz0Oo"
+        "name": "Concerto alla Rustica for Strings in G Major: I. Presto",
+        "url": "https://open.spotify.com/album/19VJj0sfgubLuZjqL7FfOx"
       },
       "artists": [
         {
-          "name": "Diana Yukawa",
-          "url": "https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7"
-        },
-        {
-          "name": "Library Tapes",
-          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Isolation - Library Tapes Rework",
-      "url": "https://open.spotify.com/track/3V0AITH8NJcQYkeX5VYCnh"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/4rEQEBnZQxHQZCrav9YO99"
-      },
-      "artists": [
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 70250,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/5JV8XxiGSWHRfGp0ZilJMw"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Purcell: Dido and Aeneas, Z. 626: When I Am Laid in Earth (Arr. Trovesi for Chamber Ensemble)",
-        "url": "https://open.spotify.com/album/69nIOx1m7Tk2DNxxt9gpCb"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Gianluigi Trovesi",
-          "url": "https://open.spotify.com/artist/72vioIyz3G8Ihu1CboAVSA"
-        },
-        {
-          "name": "Stefano Montanari",
-          "url": "https://open.spotify.com/artist/4F0wl1l8bennfUYUMhrovM"
-        },
-        {
-          "name": "Stefano Rossi",
-          "url": "https://open.spotify.com/artist/3C4rFui19PP3gTRbovmiDX"
-        },
-        {
-          "name": "Claudio Andriani",
-          "url": "https://open.spotify.com/artist/6oYPzptXZSAYcNCCiNiySv"
-        },
-        {
-          "name": "Francesco Galligioni",
-          "url": "https://open.spotify.com/artist/1L3TNKCe4yURcKqtwe6wPC"
-        },
-        {
-          "name": "Luca Bandini",
-          "url": "https://open.spotify.com/artist/0jcrPmA9AaUuHZ4fgpG2jm"
-        },
-        {
-          "name": "Riccardo Balbinutti",
-          "url": "https://open.spotify.com/artist/5cKdyfbTUQcTF5UyEjwFqZ"
-        },
-        {
-          "name": "Ivano Zanenghi",
-          "url": "https://open.spotify.com/artist/5ofDIiK5A0ezXdJixA11IC"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Dido and Aeneas, Z. 626: When I Am Laid in Earth (Arr. Trovesi for Chamber Ensemble)",
-      "url": "https://open.spotify.com/track/7f6yQYQ600Klj3v56omFJR"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "The Marriage of Figaro, K. 492: \"Overture\"",
-        "url": "https://open.spotify.com/album/36k4MAgA7a1EGlURd6s133"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
           "name": "Metamorphose String Orchestra",
@@ -452,391 +220,31 @@
           "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
         }
       ],
-      "duration_ms": 156000,
-      "name": "The Marriage of Figaro, K. 492: \"Overture\"",
-      "url": "https://open.spotify.com/track/4LxTAQIdKiMF0asyX2Byzw"
+      "duration_ms": 76000,
+      "name": "Concerto alla Rustica for Strings in G Major: I. Presto",
+      "url": "https://open.spotify.com/track/2dSzq3T6bDwrvG8mNON3U5"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Stravinsky: The Soldier's Tale",
-        "url": "https://open.spotify.com/album/1W2HdSAUhkvfR8z970NsCl"
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
-        },
-        {
-          "name": "C.F. Ramuz",
-          "url": "https://open.spotify.com/artist/7abCda7bkLSTXK6IGkCkS0"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
         }
       ],
-      "duration_ms": 164680,
-      "name": "The Soldier's Tale, Pt. 1: Airs by a Stream",
-      "url": "https://open.spotify.com/track/6GMvHhFv5FaaEOAV0Cq7KV"
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Myths and Melodies - Music between the Wars",
-        "url": "https://open.spotify.com/album/6W3gIqjvjmneikhAK0Cyxh"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Stefan Hempel",
-          "url": "https://open.spotify.com/artist/6TGSGlzCgMh723Z7P98VyT"
-        },
-        {
-          "name": "Daniel Seroussi",
-          "url": "https://open.spotify.com/artist/7yvfTkU5JHkkUKZuk9GR2x"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Pavane pour une infante d\u00e9funte (Arr. For Violin and Piano by Paul Kochanski)",
-      "url": "https://open.spotify.com/track/7prvs10XuLO83p9ke9Hyxc"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "From 'The Hours': The Poet Acts",
-        "url": "https://open.spotify.com/album/7EQq6piocm4vqEdCrgDgus"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Dominik Wagner",
-          "url": "https://open.spotify.com/artist/2ammHSL7orFukDZ9J78coP"
-        },
-        {
-          "name": "Lauma Skride",
-          "url": "https://open.spotify.com/artist/2li0Ad2EyB2oyqCMtuBdvz"
-        }
-      ],
-      "duration_ms": 212661,
-      "name": "From the Motion Picture Soundtrack 'The Hours': The Poet Acts (Arr. For Double Bass and Piano by Dominik Wagner)",
-      "url": "https://open.spotify.com/track/6QWtuf2hrV7p43dqsNjibg"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Beethoven: Fragment from Violin Concerto in C Major, WoO 5",
-        "url": "https://open.spotify.com/album/7JzMVEUiYIQvpHGy5IY1vM"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Veronika Eberle",
-          "url": "https://open.spotify.com/artist/7rgLnz0kKMB8kF1ptv0Czi"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 499760,
-      "name": "Fragment from Violin Concerto in C Major, WoO 5",
-      "url": "https://open.spotify.com/track/1OYZu4Rwr7x141JlViu7vg"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Seasons - Richter: The Four Seasons: Summer 3",
-        "url": "https://open.spotify.com/album/09XyXhxczPYFg1IWUR0HsR"
-      },
-      "artists": [
-        {
-          "name": "Delirium Musicum",
-          "url": "https://open.spotify.com/artist/6cehH0C4lbI8AmQJ4LAOwZ"
-        },
-        {
-          "name": "\u00c9tienne Gara",
-          "url": "https://open.spotify.com/artist/3nHanVpXy2JPDHQye9f5Wp"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "The Four Seasons: Summer 3",
-      "url": "https://open.spotify.com/track/7CbsQNEmwtIj3hoO3u3jJ1"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "21st Of June",
-        "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 191195,
-      "name": "21st Of June",
-      "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": III. Rondo (Allegro)",
-        "url": "https://open.spotify.com/album/1cm53h0HQBGtsq8o4O96A2"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Virginia Black",
-          "url": "https://open.spotify.com/artist/4mMWASejfQvz7Hd6ZHoViN"
-        }
-      ],
-      "duration_ms": 272053,
-      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": III. Rondo (Allegro)",
-      "url": "https://open.spotify.com/track/3c2MvvhkF6gV4GoB5xCLLe"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Verdi: Macbeth / Act I: Che faceste? Dite su! (Ed. David Lawton)",
-        "url": "https://open.spotify.com/album/0gkn1VwIbgZyM2SWJLsgPT"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Macbeth / Act I: Che faceste? Dite su! (Ed. David Lawton)",
-      "url": "https://open.spotify.com/track/4mHYmFZm6NWOChN3UYJH2t"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Romeo & Juliet: Tchaikovsky on the Piano",
-        "url": "https://open.spotify.com/album/1m361egvy6nJedAOKIodct"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Yevgeny Sudbin",
-          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "The Seasons, Op. 37a, TH 135 (Excerpts): No. 11, November. On the Troika",
-      "url": "https://open.spotify.com/track/0uy4wNP6bAwbbIk4S7TWql"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "In Memoriam I",
-        "url": "https://open.spotify.com/album/1fTcRgovNegNmc6bOJTyXw"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Pieter Wispelwey",
-          "url": "https://open.spotify.com/artist/1SWaFKyfyRsmbg3Kcr3muo"
-        },
-        {
-          "name": "Paolo Giacometti",
-          "url": "https://open.spotify.com/artist/6GmRYX8RJYEyDO7OsyPz2m"
-        }
-      ],
-      "duration_ms": 393161,
-      "name": "Fantasy in C Major for Cello and Piano, D. 934: III. Andantino",
-      "url": "https://open.spotify.com/track/6QuQz2L42RTQUG05FQh4DC"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Bright & Early",
-        "url": "https://open.spotify.com/album/04yGZzxCwCBoEvWKdbUaAK"
-      },
-      "artists": [
-        {
-          "name": "Francesco Spinacino",
-          "url": "https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih"
-        },
-        {
-          "name": "Hopkinson Smith",
-          "url": "https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "Recercare 6 - Intabolatura de lauto, Libro primo, Libro secondo",
-      "url": "https://open.spotify.com/track/7wZhwLyR5zxTvl8Jm5NhZJ"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Passionate Cello And Piano Works",
-        "url": "https://open.spotify.com/album/6nbIQrsY1FjQ73SN2O5Xdf"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Benjamin Engeli",
-          "url": "https://open.spotify.com/artist/4niKWOS6oVRePBPJj8GMuK"
-        },
-        {
-          "name": "Fulvia Mancini",
-          "url": "https://open.spotify.com/artist/4vK74pmhEUtTcwbXqo6aLY"
-        }
-      ],
-      "duration_ms": 269978,
-      "name": "Ave Maria - Arr. for Cello and Piano",
-      "url": "https://open.spotify.com/track/3CfHt7ABDJRpxX1kG8WUlo"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Saint-Sa\u00ebns: Les Cygnes",
-        "url": "https://open.spotify.com/album/7lfSh2rBu3TsGRc1VEAtMC"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Brodsky Quartet",
-          "url": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
-        },
-        {
-          "name": "Laura van der Heijden",
-          "url": "https://open.spotify.com/artist/23wZCdNR0NYNW0OHxAjhD0"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Les Cygnes",
-      "url": "https://open.spotify.com/track/2BW5NXSDGSR38y5E3zxbWk"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Six Choruses for Mixed Voices Op. 40: I. Nunc Dimittis",
-        "url": "https://open.spotify.com/album/5Bm7YTBBfefmkq4hRjytxT"
-      },
-      "artists": [
-        {
-          "name": "Pavel Chesnokov",
-          "url": "https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume"
-        },
-        {
-          "name": "Choir of St. John's College, Cambridge",
-          "url": "https://open.spotify.com/artist/1fwwl0jxv972y7OpKpL6Ax"
-        },
-        {
-          "name": "George Herbert",
-          "url": "https://open.spotify.com/artist/54gsoZOVRpYD4jT5O7GX8U"
-        },
-        {
-          "name": "Andrew Nethsingha",
-          "url": "https://open.spotify.com/artist/1cjPVlZolZrXVZRMTtGuhx"
-        },
-        {
-          "name": "Thomas Butler",
-          "url": "https://open.spotify.com/artist/472fngmW9EFk4g9jvfNHQz"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Six Choruses for Mixed Voices Op. 40: I. Nunc Dimittis",
-      "url": "https://open.spotify.com/track/55m4OTnoCoE0guqUzDoYs6"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Vivaldi: Concerti per Flauto e Arie",
-        "url": "https://open.spotify.com/album/2ptBIs9N24ouAe8Qo7MXbm"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Isaac Makhdoomi",
-          "url": "https://open.spotify.com/artist/34prRNJ2fwcX08BXTMda8r"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Concerto in G Minor, Op. 10, RV 439, \"La Notte\": V. Allegro",
-      "url": "https://open.spotify.com/track/4ul7vbKk2GNmGkNcwZPJgx"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Cardonne: Sonate IV pour clavecin avec accompagnement de Violon oblig\u00e9, premier livre, Op. 3 \"La Favorite\": II. Andante assai",
-        "url": "https://open.spotify.com/album/18Cyybbnc57H96BAXUOx5n"
-      },
-      "artists": [
-        {
-          "name": "Jean-Baptiste Cardonne",
-          "url": "https://open.spotify.com/artist/22m0fT1uMt8gGDLWq5z1vk"
-        },
-        {
-          "name": "Jocelyne Cuiller",
-          "url": "https://open.spotify.com/artist/0VtX7c6xkjH92lpE4OwCCM"
-        },
-        {
-          "name": "Daniel Cuiller",
-          "url": "https://open.spotify.com/artist/2e8kPOo3AhnbJfp1Y8WHHB"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Sonate IV pour clavecin avec accompagnement de Violon oblig\u00e9, premier livre, Op. 3 \"La Favorite\": II. Andante assai",
-      "url": "https://open.spotify.com/track/14eY8gO15I21yJaAc1YVCG"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Works for Cello",
-        "url": "https://open.spotify.com/album/2C9hxZytC69NaWtfUD3l5a"
+        "name": "Visions fugitives, Op. 22: No. 7, Pittoresco (Arpa)",
+        "url": "https://open.spotify.com/album/1UTlTK6ixVq7wSJlH4k6WO"
       },
       "artists": [
         {
@@ -844,287 +252,143 @@
           "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
         },
         {
-          "name": "Marina Tarasova",
-          "url": "https://open.spotify.com/artist/63QxrT6nlsHZ8ynUvjWUHl"
-        },
-        {
-          "name": "Ivan Sokolov",
-          "url": "https://open.spotify.com/artist/0UJbR1UDK0sMrRQTtWmWTe"
+          "name": "Konstantin Emelyanov",
+          "url": "https://open.spotify.com/artist/7GmGmMXNjYabnJh9ZeSH3F"
         }
       ],
-      "duration_ms": 335287,
-      "name": "Cello Concertino, Op. 132: II. Andante",
-      "url": "https://open.spotify.com/track/2kpZwDnBgY8drWKThHkU2y"
+      "duration_ms": 107906,
+      "name": "Visions fugitives, Op. 22: Visions fugitives, Op. 22: No. 7, Pittoresco (Arpa)",
+      "url": "https://open.spotify.com/track/2oc1tOIUmlbxIp8CJYTjr6"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Locatelli: Sei Introduttioni teatrali, Op. 4, No. 2: III. Allegro",
-        "url": "https://open.spotify.com/album/0Wr6oa4Df2oEVVfkSoTJI1"
+        "name": "Evening Piano - Debussy: Clair de lune",
+        "url": "https://open.spotify.com/album/2naKdIRA8LFh0JwE4TVpo7"
       },
       "artists": [
         {
-          "name": "Pietro Locatelli",
-          "url": "https://open.spotify.com/artist/2zcA2rLi9jv1i97HmFWFv4"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
-          "name": "Gernot S\u00fcssmuth",
-          "url": "https://open.spotify.com/artist/4iGwu329TiU89S13vgSBGB"
-        },
-        {
-          "name": "Raphael Hevicke",
-          "url": "https://open.spotify.com/artist/1XP6z2eucQ0lNyNxzDO86y"
-        },
-        {
-          "name": "Th\u00fcringer Bach Collegium",
-          "url": "https://open.spotify.com/artist/3GtEpitQm2cL4cPlgVId55"
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
         }
       ],
-      "duration_ms": 124190,
-      "name": "Sei Introduttioni teatrali, Op. 4, No. 2: III. Allegro",
-      "url": "https://open.spotify.com/track/48L25PGdf1xTaLdHSr3XtE"
+      "duration_ms": 314966,
+      "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/7BgE3jhRTcb4byM5E2oAld"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Lotti: Crucifixus \u00e0 10 voix et basse continue",
-        "url": "https://open.spotify.com/album/4CO8IySvqEUAtBCwp2xqjR"
+        "name": "Resting (From the Original Motion Picture Soundtrack of \"The Fox\")",
+        "url": "https://open.spotify.com/album/3K3H96v89xn21Slj4gdePY"
       },
       "artists": [
         {
-          "name": "Antonio Lotti",
-          "url": "https://open.spotify.com/artist/1wRBvRI8HbcqszDCvItFmC"
+          "name": "Arash Safaian",
+          "url": "https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme"
         },
         {
-          "name": "Ensemble ArtChoral",
-          "url": "https://open.spotify.com/artist/3ZvdtOx2bywd0w6lI8J7US"
+          "name": "Sindy Mohamed",
+          "url": "https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB"
         },
         {
-          "name": "Matthias Maute",
-          "url": "https://open.spotify.com/artist/1I7KnikAagFG1GYPtC4hS9"
+          "name": "Bernhard W\u00fcnsch",
+          "url": "https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB"
         },
         {
-          "name": "Doroth\u00e9a Ventura",
-          "url": "https://open.spotify.com/artist/4a2x64lICL1X0vgCGDktm4"
+          "name": "The Berlin Orchestra",
+          "url": "https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Crucifixus \u00e0 10 voix et basse continue",
-      "url": "https://open.spotify.com/track/4CEvruheICmtIpOgVakxH8"
+      "duration_ms": 92125,
+      "name": "Resting - Short",
+      "url": "https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Cupido - Love Songs",
-        "url": "https://open.spotify.com/album/1Yy9s93FzN12iFQjRa8z66"
+        "name": "Beethoven: Piano Concertos Nos. 3 & 4, Opp. 37 & 58",
+        "url": "https://open.spotify.com/album/6s87AMmRbGV3fykqKwambU"
       },
       "artists": [
         {
-          "name": "Mauro Giuliani",
-          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Markus Miesenberger",
-          "url": "https://open.spotify.com/artist/72u16SYn7LT0AzjGVVpfYU"
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
         },
         {
-          "name": "Erich Traxler",
-          "url": "https://open.spotify.com/artist/5bW0pk3x57YdCIjEIKIRWE"
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
         },
         {
-          "name": "Christian Haimel",
-          "url": "https://open.spotify.com/artist/5bBwViubhEwQblkPzHJ3fC"
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Romance, Op. 13",
-      "url": "https://open.spotify.com/track/1taySV9L3ZqPbXHpVVSva8"
+      "duration_ms": 306786,
+      "name": "Piano Concerto No. 4 in G Major, Op. 58: II. Andante con moto",
+      "url": "https://open.spotify.com/track/7BH0St1pbtonmeK3ZCXVxo"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Elgar: Salut d'amour (Arr, for Cello by Johannes Moser)",
-        "url": "https://open.spotify.com/album/1nbRzW4CQ8Witf9s8J5rqQ"
+        "name": "Also sprach Zarathustra, Op. 30, TrV 176: I. Prelude 'Sonnenaufgang'",
+        "url": "https://open.spotify.com/album/0PBUx4sIMTkyDSPImmXajW"
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Johannes Moser",
-          "url": "https://open.spotify.com/artist/0kPxHt8yRxIlDOdkofstQV"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         },
         {
-          "name": "Richard Uttley",
-          "url": "https://open.spotify.com/artist/4hvoUG9SLxodvrNffYOeR7"
+          "name": "Santtu-Matias Rouvali",
+          "url": "https://open.spotify.com/artist/3wdskXeKN7qm405fWUvLIX"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Salut d'amour - Arr, for Cello by Johannes Moser",
-      "url": "https://open.spotify.com/track/1Es2uq8BWN1rQtCK1nKEsr"
+      "duration_ms": 120000,
+      "name": "Also sprach Zarathustra, Op. 30, TrV 176: I. Prelude 'Sonnenaufgang'",
+      "url": "https://open.spotify.com/track/1QVTJS7UUFWryqJ459TeL2"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Sonatina for Violin and Piano: II. Andante affettuoso",
-        "url": "https://open.spotify.com/album/7jk3h1m6xoHNKzFTytco84"
+        "name": "Walker & Dawson: Orchestral Works (Live)",
+        "url": "https://open.spotify.com/album/5301EM8pxfE37Yvdpu96ti"
       },
       "artists": [
         {
-          "name": "Pamela Harrison",
-          "url": "https://open.spotify.com/artist/0FzHWTOeqGVGLm7FwV0cCR"
+          "name": "George Walker",
+          "url": "https://open.spotify.com/artist/2pPbwLIL97jlqzsKlzVdzz"
         },
         {
-          "name": "Lucy Gould",
-          "url": "https://open.spotify.com/artist/2LY3i8VZ5sfitjBIN01s9R"
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
         },
         {
-          "name": "Benjamin Frith",
-          "url": "https://open.spotify.com/artist/6aRryDa1qPrgv1BdxmZfFy"
+          "name": "Asher Fisch",
+          "url": "https://open.spotify.com/artist/7mFqwOdulhYRrw8UNOWqon"
         }
       ],
-      "duration_ms": 371814,
-      "name": "Sonatina for Violin and Piano: II. Andante affettuoso",
-      "url": "https://open.spotify.com/track/76SKzvKlMn6srx1Wt0HNND"
+      "duration_ms": 219506,
+      "name": "Folksongs for Orchestra: I. Going to Lay Down My Sword and Shield (Live)",
+      "url": "https://open.spotify.com/track/6Nh69Nd4aW5SJqX1ccqemT"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Knock at the Cabin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GV0X6jieeNYuujjQj5qO3"
-      },
-      "artists": [
-        {
-          "name": "Herd\u00eds Stef\u00e1nsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb"
-        }
-      ],
-      "duration_ms": 156442,
-      "name": "Sacrifice and Departure",
-      "url": "https://open.spotify.com/track/4vgLdOnerzljgVZmcKai1c"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "\u00cds\u00f3lfsson: Veislan \u00e1 S\u00f3lhaugum: 1. Forleikur",
-        "url": "https://open.spotify.com/album/0tatodnLpjq3qWMU35ZRX3"
-      },
-      "artists": [
-        {
-          "name": "Pall Isolfsson",
-          "url": "https://open.spotify.com/artist/3oWGfkIaMV9kka0N8kFXPO"
-        },
-        {
-          "name": "Iceland Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
-        },
-        {
-          "name": "Rumon Gamba",
-          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Veislan \u00e1 S\u00f3lhaugum: No. 1, Forleikur",
-      "url": "https://open.spotify.com/track/4osp68p68JUxYMdQaY55a2"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Kalevi Aho: Violin Concerto No. 2 & Cello Concerto No. 2",
-        "url": "https://open.spotify.com/album/2AyTV3P35v70h2PpOLBVBK"
-      },
-      "artists": [
-        {
-          "name": "Kalevi Aho",
-          "url": "https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9"
-        },
-        {
-          "name": "Jonathan Roozeman",
-          "url": "https://open.spotify.com/artist/3zxUZWp0pl1bfdJ4Tt2Mei"
-        },
-        {
-          "name": "Kymi Sinfonietta",
-          "url": "https://open.spotify.com/artist/1kNx53p0Uwbd4OzngNNYX0"
-        },
-        {
-          "name": "Olari Elts",
-          "url": "https://open.spotify.com/artist/6aUaRv5L4cYHTZaBwNkN91"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Cello Concerto No. 2: IV. Allegretto",
-      "url": "https://open.spotify.com/track/2O9g9YNMhaqUwWY5pFYaRx"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Eroticon, Op. 44: III. Galatea. Mit zartestem Ausdruck",
-        "url": "https://open.spotify.com/album/2VkTnq8XN0F0q8p8Ie24WR"
-      },
-      "artists": [
-        {
-          "name": "Adolf Jensen",
-          "url": "https://open.spotify.com/artist/25QAf35Sjiil7urgcYomDM"
-        },
-        {
-          "name": "Severin von Eckardstein",
-          "url": "https://open.spotify.com/artist/30HDNP5rHbq6frlS5ebBPW"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Eroticon, Op. 44: III. Galatea. Mit zartestem Ausdruck",
-      "url": "https://open.spotify.com/track/1G8VYMmQxNezZyEPLCoRvO"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Poulenc",
-        "url": "https://open.spotify.com/album/6DHbOZwzTkZh3XEjaq98RV"
-      },
-      "artists": [
-        {
-          "name": "Francis Poulenc",
-          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
-        },
-        {
-          "name": "Emmanuel Strosser",
-          "url": "https://open.spotify.com/artist/5R3jAMXr7lqMBkBf79maZp"
-        },
-        {
-          "name": "Quintette Moragu\u00e8s",
-          "url": "https://open.spotify.com/artist/6kU4Jp5XsbwV9TnWbhuKcp"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Suite fran\u00e7aise, FP 80: No. 6, Sicilienne - Arr. for Sextuor",
-      "url": "https://open.spotify.com/track/30xhBqrFxhoB8KXpqwGHUg"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Suk - Dvo\u0159\u00e1k",
-        "url": "https://open.spotify.com/album/46LrIeKZJ4PDQjpTDHuP6L"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Trio Kar\u00e9nine",
-          "url": "https://open.spotify.com/artist/74NTNdUUkPKZpZjm7tUMUk"
-        }
-      ],
-      "duration_ms": 396453,
-      "name": "Piano Trio in F Minor No. 3, Op. 65: II. Allegretto grazioso",
-      "url": "https://open.spotify.com/track/6jLe70uzD59yAQNT9gw10P"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Bachs K\u00f6nigin",
-        "url": "https://open.spotify.com/album/29QlClaKWwHdL2c7MpJpWp"
+        "name": "J.S. Bach & P\u00e4rt: Works for Violin & Chamber Orchestra",
+        "url": "https://open.spotify.com/album/5glAksB7dFY1roA8f7oQvK"
       },
       "artists": [
         {
@@ -1132,67 +396,475 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Holland Baroque",
-          "url": "https://open.spotify.com/artist/3RgDcTU4WaY4o15XIisFxl"
+          "name": "Arabella Steinbacher",
+          "url": "https://open.spotify.com/artist/7zKFwhYAGA2KuM0cgEo7Rs"
+        },
+        {
+          "name": "Stuttgart Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF"
         }
       ],
-      "duration_ms": 286640,
-      "name": "Organ Sonata No. 5 in C Major, BWV 529 \"Trio\" (Arr. J. & T. Steenbrink for Chamber Ensemble): I. Allegro",
-      "url": "https://open.spotify.com/track/25UQf3crXsJgOu2Uom8taZ"
+      "duration_ms": 391773,
+      "name": "Violin Concerto in E Major, BWV 1042: II. Adagio",
+      "url": "https://open.spotify.com/track/7M98TdPFGasFgIf9qKy8dJ"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Marzamemi",
-        "url": "https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry"
+        "name": "Rarities - Quartets",
+        "url": "https://open.spotify.com/album/3swTCdwjqX6zpBHUtpJDgB"
       },
       "artists": [
         {
-          "name": "Michel Bisceglia",
-          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
         },
         {
-          "name": "Marc Lehan",
-          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
-        },
-        {
-          "name": "Werner Lauscher",
-          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
         }
       ],
-      "duration_ms": 375125,
-      "name": "Marzamemi",
-      "url": "https://open.spotify.com/track/5ziXsLz1pXCBbvdzUvlNRx"
+      "duration_ms": 153104,
+      "name": "Venerable Dilemma",
+      "url": "https://open.spotify.com/track/7LcLD9Mb1lHmkhMMfB3QXT"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Trio No. 2 'Reveille': IV. Introduction & Lute Song, \u201cFear No More the Heat o\u2019 the Sun\u201d",
-        "url": "https://open.spotify.com/album/2uHvGD8IaxGZjfP60EJNGS"
+        "name": "Piano Cinema II",
+        "url": "https://open.spotify.com/album/3CxiYzLRKNhybx7bjPcxiW"
       },
       "artists": [
         {
-          "name": "Stanley Silverman",
-          "url": "https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW"
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
         },
         {
-          "name": "Kalichstein-Laredo-Robinson Trio",
-          "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Jean-Michel Bernard",
+          "url": "https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY"
         }
       ],
-      "duration_ms": 313306,
-      "name": "Trio No. 2 'Reveille': IV. Introduction & Lute Song, \u201cFear No More the Heat o\u2019 the Sun\u201d",
-      "url": "https://open.spotify.com/track/5fleHmbi22XfXTsV7QW0yR"
+      "duration_ms": 262200,
+      "name": "Suite - Valse et Comptine - from \"Le fabuleux destin d'Am\u00e9lie Poulain\"",
+      "url": "https://open.spotify.com/track/3qcaa07prYb6eagh6VKxE0"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Waltzes, Op. 64: No. 1 in D-Flat Major, Minute Waltz",
-        "url": "https://open.spotify.com/album/0PBV8y1TQ9uVbifdOr8qb9"
+        "name": "Mozart: String Quintet No. 3 in C Major, K. 515: II. Menuetto. Allegretto",
+        "url": "https://open.spotify.com/album/7fdXoOTZTbWOZPQYdESlWD"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "duration_ms": 332949,
+      "name": "Mozart: String Quintet No. 3 in C Major, K. 515: II. Menuetto. Allegretto",
+      "url": "https://open.spotify.com/track/7z4xvdgufFejwTIOTmiVDp"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Vaughan Williams and Grieg: Violin Sonatas",
+        "url": "https://open.spotify.com/album/0WufA4zaVLfu1VDwyyK8SZ"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Charlie Siem",
+          "url": "https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS"
+        },
+        {
+          "name": "Itamar Golan",
+          "url": "https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Peer Gynt, Op. 23: Solveig's Song (Arr. for Violin and Piano by Charlie Siem)",
+      "url": "https://open.spotify.com/track/4ghT12J2hsyfn0JZ4RDWrf"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Brooklyn Sessions 11",
+        "url": "https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Elv",
+        "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        },
+        {
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
+        },
+        {
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Drang",
+      "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Perpetuum",
+        "url": "https://open.spotify.com/album/6E358f5Pz7RqsNsE1gteK4"
+      },
+      "artists": [
+        {
+          "name": "Simon Harry Piers Jeffes",
+          "url": "https://open.spotify.com/artist/4eqmj9KAePxPzdfF9yYI1M"
+        },
+        {
+          "name": "Anthony Romaniuk",
+          "url": "https://open.spotify.com/artist/6UKrmiVZmqqHY0P3hqyif8"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Perpetuum Mobile (Arr. for Piano by Anthony Romaniuk)",
+      "url": "https://open.spotify.com/track/6YLfSpeKPChKmsFroRmtv2"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Byrd: Vigilate",
+        "url": "https://open.spotify.com/album/1SMQ8TC22u32Bl0hgZXKIn"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "duration_ms": 242894,
+      "name": "Vigilate",
+      "url": "https://open.spotify.com/track/5xp1xyqL5vTd1L8zQkNqTs"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Mozart: Concerto No. 25, K. 503: III. Allegretto",
+        "url": "https://open.spotify.com/album/1D4fDDHVXJQI5Iw8wueqa6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jean-Efflam Bavouzet",
+          "url": "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        },
+        {
+          "name": "G\u00e1bor Tak\u00e1cs-Nagy",
+          "url": "https://open.spotify.com/artist/2N3D7VKnPPIVk1lCNeZB8v"
+        }
+      ],
+      "duration_ms": 539866,
+      "name": "Concerto No. 25, K. 503: III. Allegretto",
+      "url": "https://open.spotify.com/track/5wzNfqbCiujUEkG8v3DU3q"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "The Tale of Viktor Navorski (From \"The Terminal\", Arr. For Solo Clarinet)",
+        "url": "https://open.spotify.com/album/6byrD6hUmyTsu1i65fwzfd"
+      },
+      "artists": [
+        {
+          "name": "Luigi Magistrelli",
+          "url": "https://open.spotify.com/artist/7vojh1fFDGzb4R6M58mee2"
+        }
+      ],
+      "duration_ms": 197392,
+      "name": "The Tale of Viktor Navorski - From \"The Terminal\", Arr. For Solo Clarinet",
+      "url": "https://open.spotify.com/track/6b0HW4SSFtnJL58OWfi9au"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Bach: Orchestral Suite No. 1 in C Major, BWV 1066 (Live)",
+        "url": "https://open.spotify.com/album/1pDqAggVl5QHoIpuWJxVBi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Giovanni Antonini",
+          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
+        }
+      ],
+      "duration_ms": 79818,
+      "name": "Orchestral Suite No. 1 in C Major, BWV 1066: IV. Forlane (Live)",
+      "url": "https://open.spotify.com/track/4ysVCUZpyszTzAiTXzvA44"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Meditations - Chant & Piano",
+        "url": "https://open.spotify.com/album/0XB54xJNLhz8KUQX3HSr7P"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        }
+      ],
+      "duration_ms": 198175,
+      "name": "Sanctus",
+      "url": "https://open.spotify.com/track/5VxAH8tB8eMG42wluyC38R"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Prokofiev: Symphony No. 5: II. Allegro marcato",
+        "url": "https://open.spotify.com/album/0l4A1Gc73YHBwab6StYhqw"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Franz Welser-M\u00f6st",
+          "url": "https://open.spotify.com/artist/7JlPzWR6kQ48ZPLDixTTQ0"
+        }
+      ],
+      "duration_ms": 511920,
+      "name": "Symphony No. 5 in B-Flat Major, Op. 100: II. Allegro marcato",
+      "url": "https://open.spotify.com/track/241ee5FHOhaeagYrHOBgBK"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Strauss: Also sprach Zarathustra: IX. Das Nachtwanderlied",
+        "url": "https://open.spotify.com/album/2VnXc96AwLWkMGd77E6Cmd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "Also sprach Zarathustra, Op. 30, TrV 176: IX. Das Nachtwanderlied",
+      "url": "https://open.spotify.com/track/2y096zAtW4hW8FrA8k3bsu"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "When the Wet Wind Sings",
+        "url": "https://open.spotify.com/album/2KkXb8nS9TnI4BrtStohlE"
+      },
+      "artists": [
+        {
+          "name": "Errollyn Wallen",
+          "url": "https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw"
+        },
+        {
+          "name": "National Youth Choir Of Great Britain",
+          "url": "https://open.spotify.com/artist/3G9OQrxIMNUgdBqb8NtkWG"
+        },
+        {
+          "name": "Ben Parry",
+          "url": "https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9"
+        }
+      ],
+      "duration_ms": 800571,
+      "name": "When the Wet Wind Sings",
+      "url": "https://open.spotify.com/track/75sqFvwfUoab9QaOuiX4eJ"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Eugene Onegin: Lensky's Aria",
+        "url": "https://open.spotify.com/album/6DLbEqiYmuwU7PDizggbH2"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luka Faulisi",
+          "url": "https://open.spotify.com/artist/2KtIu7iMseGtOPctMbh6P3"
+        }
+      ],
+      "duration_ms": 333693,
+      "name": "Eugene Onegin: Lensky's Aria",
+      "url": "https://open.spotify.com/track/47LwPn8MxIfRQPKdz3SydI"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Waltzes, Op. 69: No. 1 in A-Flat Major, Valse de l'adieu",
+        "url": "https://open.spotify.com/album/3oH4Emt0F3zVjRINppljRR"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vadim Chaimovich",
+          "url": "https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Waltzes, Op. 69: No. 1 in A-Flat Major, Valse de l'adieu",
+      "url": "https://open.spotify.com/track/5KdJgDv7EqLRjEgyZ7Y0Hf"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Beethoven: Piano Sonatas No. 8, Op. 13 \"Path\u00e9tique\", No. 14, Op. 27 No. 2 \"Moonlight\" & No. 17, Op. 31 No. 2 \"Tempest\"",
+        "url": "https://open.spotify.com/album/0xd4ohhvFfAhsQWYj6Aifc"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Giuseppe Greco",
+          "url": "https://open.spotify.com/artist/2k6E746VvyyN2CcmkWKc7S"
+        }
+      ],
+      "duration_ms": 322870,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2bezYfdIgV2we35cXTGp01"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Le Concert des Oiseaux. Vincent Bouchot: Le Carnaval des animaux en p\u00e9ril",
+        "url": "https://open.spotify.com/album/58VbTZWUSnr5TDBBsp8GUz"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "La R\u00eaveuse",
+          "url": "https://open.spotify.com/artist/1Fc9NsRkuV2IuHA1UQEPki"
+        },
+        {
+          "name": "Florence Bolton",
+          "url": "https://open.spotify.com/artist/1WBNbCh9vdwmBSHqQzlxBw"
+        },
+        {
+          "name": "Benjamin Perrot",
+          "url": "https://open.spotify.com/artist/28gPrVveuuvLkadP1CMKSC"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "The Fairy Queen, Act II: Prelude for The Birds",
+      "url": "https://open.spotify.com/track/4vXrEKfVMtWaTGvKKIwQgW"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Mendelssohn: Elijah, Op. 70, MWV A 25 (Excerpts)",
+        "url": "https://open.spotify.com/album/1uvriNPFY8C0edTsZexwAr"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 208616,
+      "name": "Elijah, Op. 70, MWV A 25 (Excerpts): Overture",
+      "url": "https://open.spotify.com/track/1ZxDnshxijS0lOLbwOsSDE"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Waltzes, Op. 64: No. 2 in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/20DLNZQq065hIzBWaUoHOZ"
       },
       "artists": [
         {
@@ -1204,95 +876,39 @@
           "url": "https://open.spotify.com/artist/43oMRfrep3jilUBwApFSxd"
         }
       ],
-      "duration_ms": 131118,
-      "name": "Waltzes, Op. 64: No. 1 in D-Flat Major, Minute Waltz",
-      "url": "https://open.spotify.com/track/7lHpWqHb2O1Dm2y0qhWI97"
+      "duration_ms": 241390,
+      "name": "Waltzes, Op. 64: No. 2 in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4xphDj8rKWpDaEntNkauFk"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Oboe Concerto in F Major: I. Tempo comodo",
-        "url": "https://open.spotify.com/album/2zxLNFo9bGP9yNLGMaQvCX"
+        "name": "All-Night Vigil, Op. 37: I. Come, let us Worship",
+        "url": "https://open.spotify.com/album/03AKYi3skMXyx1kw6j24Vn"
       },
       "artists": [
         {
-          "name": "Franz Kerzelli",
-          "url": "https://open.spotify.com/artist/0mz8RwJ8z5nFbBBLMVC30o"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
-          "name": "Xenia L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/4pzoSrUngqipgErthxfmPJ"
+          "name": "The Choir of King's College London",
+          "url": "https://open.spotify.com/artist/1B95N9f9HtEL9D21OCaTkt"
         },
         {
-          "name": "Batzdorfer Hofkapelle",
-          "url": "https://open.spotify.com/artist/3Khofbv3c2ciOGyxqmNRQc"
+          "name": "Joseph Fort",
+          "url": "https://open.spotify.com/artist/6AUNzEquhixahimXOf3ZEd"
         }
       ],
-      "duration_ms": 388749,
-      "name": "Oboe Concerto in F Major: I. Tempo comodo",
-      "url": "https://open.spotify.com/track/71yZujV7S1KjQsHRSbNM8Z"
+      "duration_ms": 104558,
+      "name": "All-Night Vigil, Op. 37: I. Come, let us Worship",
+      "url": "https://open.spotify.com/track/668oX3ekfvCkKRMEphPu7R"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Stravinsky: Violin Concerto in D Major: IV. Capriccio - Pastorale for Violin, Oboe, English Horn, Clarinet and Bassoon",
-        "url": "https://open.spotify.com/album/4xzQ9oU3HRsYCNIsZhT4hA"
-      },
-      "artists": [
-        {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        },
-        {
-          "name": "Fran\u00e7ois-Xavier Roth",
-          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
-        },
-        {
-          "name": "Les Si\u00e8cles",
-          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
-        }
-      ],
-      "duration_ms": 378213,
-      "name": "Violin Concerto in D Major: IV. Capriccio",
-      "url": "https://open.spotify.com/track/2dDHII1wqIduEPkbmpZMwi"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Schubert: Chamber Works",
-        "url": "https://open.spotify.com/album/0ry4PoMgbP3OPSqlooFhVi"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Christian Tetzlaff",
-          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
-        },
-        {
-          "name": "Tanja Tetzlaff",
-          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
-        },
-        {
-          "name": "Lars Vogt",
-          "url": "https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv"
-        }
-      ],
-      "duration_ms": 421040,
-      "name": "Piano Trio No. 2 in E-Flat Major, Op. 100, D. 929: III. Scherzando. Allegro moderato",
-      "url": "https://open.spotify.com/track/5OhQ8rKG2ArIXQ4Qf2j0f1"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Cantata \"Geist und Seele wird verwirret\", BWV 35: No. 1. Sinfonia (Concerto)",
-        "url": "https://open.spotify.com/album/34prjcomkwJJlI0BZ3aDbo"
+        "name": "St John Passion: Es ist vollbracht!",
+        "url": "https://open.spotify.com/album/2iFWGRJdL5lazjzCSUx1pR"
       },
       "artists": [
         {
@@ -1300,23 +916,51 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Il Gardellino",
-          "url": "https://open.spotify.com/artist/7ul6aaTwGaFWq0OZhxWrpd"
+          "name": "Alex Potter",
+          "url": "https://open.spotify.com/artist/2TX00qpxQzuOQEqsDPrrxN"
         },
         {
-          "name": "Leo Van Doeselaar",
-          "url": "https://open.spotify.com/artist/72IF2LaP1ww4BpYnZCXZW0"
+          "name": "Concerto Copenhagen",
+          "url": "https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p"
+        },
+        {
+          "name": "Lars Ulrik Mortensen",
+          "url": "https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5"
         }
       ],
-      "duration_ms": 350261,
-      "name": "Cantata \"Geist und Seele wird verwirret\", BWV 35, Prima parte: No. 1. Sinfonia (Concerto)",
-      "url": "https://open.spotify.com/track/0ZE6pCBY7UHvRL3NBG5kAQ"
+      "duration_ms": 284419,
+      "name": "St John Passion, BWV 245: Es ist vollbracht! (Alt)",
+      "url": "https://open.spotify.com/track/0LeFWnyAPv3rhDUOk27Fd4"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Saint-Sa\u00ebns: Violin Works",
-        "url": "https://open.spotify.com/album/6c5QGMzru7dEHuyeR50io8"
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/4K77Tn0nnkBjQbNyzMi1cO"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Randall Scotting",
+          "url": "https://open.spotify.com/artist/3d2TbaO6fAXAiZJjGYMaFG"
+        },
+        {
+          "name": "Stephen Stubbs",
+          "url": "https://open.spotify.com/artist/030mETXnjEpZl2SblX0VP4"
+        }
+      ],
+      "duration_ms": 101453,
+      "name": "Celestial Music ye Gods Inspire, Z. 322: When Orpheus Sang All Nature Did Rejoice",
+      "url": "https://open.spotify.com/track/289Tq6vBrrem8rjjTeF4Rn"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Camille Saint-Sa\u00ebns: Sonata for Bassoon and Piano, Op. 168: III. Adagio \u2013 Allegro moderato (Arr. for Bassoon and String Quartet by Wolfgang Renz)",
+        "url": "https://open.spotify.com/album/0X6M5LuReC7o4ZxCYPykQR"
       },
       "artists": [
         {
@@ -1324,120 +968,148 @@
           "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Cecilia Zilliacus",
-          "url": "https://open.spotify.com/artist/5eoezgWy97waIDnT2YcUKd"
+          "name": "Rui Lopes",
+          "url": "https://open.spotify.com/artist/5ZMI6liLcbKx076Jfrryum"
         },
         {
-          "name": "Stephen Fitzpatrick",
-          "url": "https://open.spotify.com/artist/0sr6GxadjvIHJNQE6K53Tn"
+          "name": "Gringolts Quartet",
+          "url": "https://open.spotify.com/artist/0KMATFu8OdAp4EwGWix4nV"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Berceuse in B-Flat Major, Op. 38 (Arr. S. Fitzpatrick for Violin & Harp)",
-      "url": "https://open.spotify.com/track/0G0t9Hmdr5DgexCsitfrcn"
+      "duration_ms": 380906,
+      "name": "Sonata for Bassoon and Piano, Op. 168 (Arr. for Bassoon and String Quartet by Wolfgang Renz): III. Adagio-Allegro moderato",
+      "url": "https://open.spotify.com/track/61e3WGjQ2YKpi6yq2RH2gD"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Between two strangers",
-        "url": "https://open.spotify.com/album/12AzZP6vq3830sBBUGO5pC"
+        "name": "Rachmaninoff: Pr\u00e9lude C-Sharp Major, Op. 3 No. 2",
+        "url": "https://open.spotify.com/album/2F2gwW5PkuDJ45mvhGJUKn"
       },
       "artists": [
         {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Between two strangers",
-      "url": "https://open.spotify.com/track/4bKR0uqaPJJWY58s0PE7IJ"
+      "duration_ms": 280293,
+      "name": "Pr\u00e9lude C-Sharp Major, Op. 3 No. 2 - From: Morceaux De Fantaisie, Op. 3",
+      "url": "https://open.spotify.com/track/5sWkZjavOCGRF5esC79Xob"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Las Olas del Mar",
-        "url": "https://open.spotify.com/album/58blRNuabQWzwnS064yw72"
+        "name": "La barcarolle, S. 38, Act II: Air. \"Asile o\u00f9 r\u00e8gne le silence\" (Fabio)",
+        "url": "https://open.spotify.com/album/3k9Xx1X525C76yLZfTO3wl"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          "name": "Daniel Auber",
+          "url": "https://open.spotify.com/artist/1vZ1dRN06p7GswsiwNtS0b"
         },
         {
-          "name": "Diana Baroni",
-          "url": "https://open.spotify.com/artist/6xQ2BIiVY9YtqlTuRbEhKu"
+          "name": "Cyrille Dubois",
+          "url": "https://open.spotify.com/artist/5GCz1F2oRhCO0s2V2OmVOA"
         },
         {
-          "name": "Ronald Martin Alonso",
-          "url": "https://open.spotify.com/artist/2wG8PEJ16BqzEIEhK7wVi3"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Rafael Guel",
-          "url": "https://open.spotify.com/artist/6qZoLbWY8cm5glOA3ct1Mq"
+          "name": "Pierre Dumoussaud",
+          "url": "https://open.spotify.com/artist/1gposA5qOfH8VZAYQAtios"
         }
       ],
-      "duration_ms": 222333,
-      "name": "Las olas del mar",
-      "url": "https://open.spotify.com/track/4kcwHFP1TXc3Fk4TY4yD8h"
+      "duration_ms": 249880,
+      "name": "La barcarolle, S. 38, Act II: Air. \"Asile o\u00f9 r\u00e8gne le silence\" (Fabio)",
+      "url": "https://open.spotify.com/track/0c4akFL5eCNy6k3sEhUMr3"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Haydn: Sonata in E-Flat Major, Hob. XVI: 49: III. Finale. Tempo di Minuet",
-        "url": "https://open.spotify.com/album/4wqA0mnGqUYGqYPuDhxdCv"
+        "name": "Chopin - R\u00e9cital 4",
+        "url": "https://open.spotify.com/album/1tu4pPTk5BkgmMQzTQ7dIY"
       },
       "artists": [
         {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Edin Karamazov",
-          "url": "https://open.spotify.com/artist/0RNSa2Wzuwz8Rsf7YeFNk4"
-        },
-        {
-          "name": "Pavel Steidl",
-          "url": "https://open.spotify.com/artist/4e0qK4XKZmNkjJ30cU2hzI"
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
         }
       ],
-      "duration_ms": 263566,
-      "name": "Sonata in E Flat Major, Hob. XVI: 49 (Transcribed for Two Guitars by Edin Karamazov): III. Finale. Tempo di Minuet",
-      "url": "https://open.spotify.com/track/27VwCoNqNw9dKLccTQjm3f"
+      "duration_ms": 280666,
+      "name": "Berceuse In D-Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/0UDsmbQqGU1RkjXfqGFmrG"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Jeux d'eau, M. 20",
-        "url": "https://open.spotify.com/album/0wvVkUGnGVWnpn4FkLkgLR"
+        "name": "What Is Sarah Neutkens Thinking?",
+        "url": "https://open.spotify.com/album/2chUP1gngDFmfsJDf47rVW"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Sarah Neutkens",
+          "url": "https://open.spotify.com/artist/1XTiWw2MAfqYUysBiPndJ1"
         },
         {
-          "name": "Giovanni Umberto Battel",
-          "url": "https://open.spotify.com/artist/4Td2eaE5IAd7otneAIOToo"
+          "name": "Alma Quartet Amsterdam",
+          "url": "https://open.spotify.com/artist/4z2P3rgAvRJEfXfuUMo6nU"
         }
       ],
-      "duration_ms": 356953,
-      "name": "Jeux d'eau, M. 20",
-      "url": "https://open.spotify.com/track/39omYr8XqYF6Xv4qN4dEOv"
+      "duration_ms": 308346,
+      "name": "Bright Edge Deep: Bright Edge Deep",
+      "url": "https://open.spotify.com/track/4oURmgqnx1uVJ5Ie34RPkC"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Grieg: Sechs Lieder, Op. 48: IV. Die verschwiegene Nachtigall",
-        "url": "https://open.spotify.com/album/5ZCgAAmVZk2K2Rulp8TKif"
+        "name": "Jonathan Dove: Sappho Sings",
+        "url": "https://open.spotify.com/album/5odfbqdpFsjsDN1zk51ZdM"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Jonathan Dove",
+          "url": "https://open.spotify.com/artist/0sdCVT40NVs1qzsPTUbtjK"
         },
         {
-          "name": "Walther von der Vogelweide",
-          "url": "https://open.spotify.com/artist/1mVqS151vBHsgMZxGUCXUe"
+          "name": "Fairhaven Singers",
+          "url": "https://open.spotify.com/artist/60N9OIw0zxG4f6BYFqrEjb"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+        },
+        {
+          "name": "Ralph Woodward",
+          "url": "https://open.spotify.com/artist/2JF1lNUIgD7NkEObNQkmlP"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Sappho Sings: No. 1, From Heaven to Here",
+      "url": "https://open.spotify.com/track/0PLCTetA0HecCCJsxdtl0W"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Pierre Maurice: La Fl\u00fbte de Jade, Sept po\u00e9sies chinoises, Op. 36: I. Je me promenais",
+        "url": "https://open.spotify.com/album/6Cvod9r5ho2VxSk6HQ5YDR"
+      },
+      "artists": [
+        {
+          "name": "Pierre Maurice",
+          "url": "https://open.spotify.com/artist/4pOD8c1TnZzP5rhfpB2A2p"
+        },
+        {
+          "name": "Chang-Wou-Kien",
+          "url": "https://open.spotify.com/artist/0LA938ANdRqDFdVnt05mpq"
         },
         {
           "name": "Edward Rushton",
@@ -1448,197 +1120,509 @@
           "url": "https://open.spotify.com/artist/4xjiqA5ix58CqT98c8l4VA"
         }
       ],
-      "duration_ms": 218577,
-      "name": "Sechs Lieder, Op. 48: IV. Die verschwiegene Nachtigall",
-      "url": "https://open.spotify.com/track/0Od2evZxZeloGo5tzmTWkU"
+      "duration_ms": 196747,
+      "name": "La Fl\u00fbte de Jade, Sept po\u00e9sies chinoises, Op. 36: I. Je me promenais",
+      "url": "https://open.spotify.com/track/2GI6vityPoNrVt1lbAtUS3"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Impromptu concertant",
-        "url": "https://open.spotify.com/album/6OOtPEbWcDNDHDXQJQNjYd"
+        "name": "J.S. Bach: Cantatas, Vol. 42 (Live)",
+        "url": "https://open.spotify.com/album/0ZlagaKLqw92HcbEDmq5zj"
       },
       "artists": [
         {
-          "name": "George Enescu",
-          "url": "https://open.spotify.com/artist/7KKscZTeDLz1g0QthWCMQV"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Sarah Nemtanu",
-          "url": "https://open.spotify.com/artist/2DsnoeVEn5WOWbCDkhnz7o"
+          "name": "Chor der J. S. Bach-Stiftung",
+          "url": "https://open.spotify.com/artist/0VvPqi8lyVtY428TqYLy9k"
         },
         {
-          "name": "Romain Descharmes",
-          "url": "https://open.spotify.com/artist/1rNgOH3BbQuNhS9XXFExVy"
+          "name": "Orchester der J. S. Bach-Stiftung",
+          "url": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE"
+        },
+        {
+          "name": "Rudolf Lutz",
+          "url": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I"
         }
       ],
-      "duration_ms": 316240,
-      "name": "Impromptu concertant",
-      "url": "https://open.spotify.com/track/5ndhB4F7fBDlS0ZRFVcqeQ"
+      "duration_ms": 156995,
+      "name": "Wer da gl\u00e4ubet und getauft wird, BWV 37: No. 3, Herr Gott Vater, mein starker Held! (Live)",
+      "url": "https://open.spotify.com/track/0BHNOWH4HDAPozbxwGo3vM"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Petersen: Symphony No. 3 in C-Sharp Minor, Op. 30",
-        "url": "https://open.spotify.com/album/3QzkpcGl7Ksend9lLt2Fo8"
+        "name": "Haydn: Piano Sonata No. 32 in G minor, Hob. XVI: 44",
+        "url": "https://open.spotify.com/album/4AVKavmqt6z6Q6PnJ14PE8"
       },
       "artists": [
         {
-          "name": "Wilhelm Petersen",
-          "url": "https://open.spotify.com/artist/4mr7xHoGNixszWuo83xULK"
+          "name": "Haydn",
+          "url": "https://open.spotify.com/artist/2C6MbD6iD7dLuJg3AmGEfj"
         },
         {
-          "name": "Frankfurt Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
-        },
-        {
-          "name": "Constantin Trinks",
-          "url": "https://open.spotify.com/artist/4DrbPog7ZYdjuz907EJhhs"
+          "name": "Daria van den Bercken",
+          "url": "https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9"
         }
       ],
-      "duration_ms": 1143973,
-      "name": "Symphony No. 3 in C-Sharp Minor, Op. 30: II. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/3SnHazclj88Rz0qfOGlSh4"
+      "duration_ms": 260600,
+      "name": "Piano Sonata No. 32 in G minor, Hob. XVI: 44: II. Allegretto",
+      "url": "https://open.spotify.com/track/1j73HqAQYWbPkDBf8yiU6K"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Piccolo Legends",
-        "url": "https://open.spotify.com/album/4e4hhV2WaTy2dy0wwhK5gU"
+        "name": "Final Scene from Capriccio, Op. 85, TrV 179/Kein Andres, das mir so im Herzen loht",
+        "url": "https://open.spotify.com/album/0BFClTESyZMfhtkuj9OAl6"
       },
       "artists": [
         {
-          "name": "Daniel Schnyder",
-          "url": "https://open.spotify.com/artist/4NArKmKuss3cXuAkuFbY7x"
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Haika L\u00fcbcke",
-          "url": "https://open.spotify.com/artist/7rc3H9jh1DDKrug8TIRHyz"
+          "name": "Rachel Willis-S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/6d7cONrz4hznFy3VJArZhZ"
         },
         {
-          "name": "Sarah Verrue",
-          "url": "https://open.spotify.com/artist/6mDSpo1xdtLw1rWqkdX8vx"
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
         }
       ],
-      "duration_ms": 647773,
-      "name": "Marsyas and Apoll for piccolo & harp",
-      "url": "https://open.spotify.com/track/2xwEzsXowaqWnOq11yasya"
+      "duration_ms": 276080,
+      "name": "Final Scene from Capriccio, Op. 85, TrV 179/Kein Andres, das mir so im Herzen loht",
+      "url": "https://open.spotify.com/track/6ONV64mvedII967cYH7jgK"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Pisendel",
-        "url": "https://open.spotify.com/album/6vqUzQw5V45oE3dYJ1PYq7"
+        "name": "Mozart: Sonatas for Piano and Violin, Vol. 2",
+        "url": "https://open.spotify.com/album/4Pk3gtr3wp8iySX72jzzRr"
       },
       "artists": [
         {
-          "name": "Johann Georg Pisendel",
-          "url": "https://open.spotify.com/artist/2A1dlEsuOOFYaqRRyGu1Sb"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Concerto K\u00f6ln",
-          "url": "https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob"
+          "name": "Claudio Cruz",
+          "url": "https://open.spotify.com/artist/6Bpfb5XDqRahzoMnrL5iaO"
         },
         {
-          "name": "Mayumi Hirasaki",
-          "url": "https://open.spotify.com/artist/4as32LFgrRxtR7L1eJ3dIH"
+          "name": "Olga Kopylova",
+          "url": "https://open.spotify.com/artist/10b6IIxvCkupBJNb1gRW1U"
         }
       ],
-      "duration_ms": 298162,
-      "name": "Violin Concerto in D Major, Jung I.7,c: III. Allegro",
-      "url": "https://open.spotify.com/track/0rS6vFJr3GwtVEujSDxhXy"
+      "duration_ms": 275609,
+      "name": "Sonata for Piano and Violin in E-Flat Major, K. 380, No. 28: III. Rondeau",
+      "url": "https://open.spotify.com/track/1FdCThkWbuLw3FAnSsQnS1"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Passacalle de la Follie - Moulini\u00e9: Non speri piet\u00e0",
-        "url": "https://open.spotify.com/album/6mYrdYgHMQEU1Xgyvlpg4Z"
+        "name": "Tuggemo",
+        "url": "https://open.spotify.com/album/4HP9x5jyCxc3utAGXH5pI6"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Moulini\u00e9",
-          "url": "https://open.spotify.com/artist/797LG4aHIqHX4sIaTtcTlr"
+          "name": "Ligeti Quartet",
+          "url": "https://open.spotify.com/artist/6PYKOjIW1HnHwETuGUippi"
         },
         {
-          "name": "Christina Pluhar",
-          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
-        },
-        {
-          "name": "L'Arpeggiata",
-          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
-        },
-        {
-          "name": "Philippe Jaroussky",
-          "url": "https://open.spotify.com/artist/17aC1wctGme2P8YC6LVov2"
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
         }
       ],
-      "duration_ms": 146533,
-      "name": "Moulini\u00e9: Non speri piet\u00e0",
-      "url": "https://open.spotify.com/track/7s9LPVSkDh2T98AE3gJyq1"
+      "duration_ms": 321786,
+      "name": "Tuggemo",
+      "url": "https://open.spotify.com/track/0mYyoy0PQJv4QS3DnHuV3r"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "The Tempest (Suite from the Ballet): II. Storm with Lightning and Thunder",
-        "url": "https://open.spotify.com/album/3lgaQaiNN2MfUDIM24NDIe"
+        "name": "Imagine a Favorite Place",
+        "url": "https://open.spotify.com/album/5VHjnphwG6q5RwXDS7zzYb"
       },
       "artists": [
         {
-          "name": "Arne Nordheim",
-          "url": "https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME"
+          "name": "Shara Nova",
+          "url": "https://open.spotify.com/artist/48scskxHFIigHFEvAiNVb1"
         },
         {
-          "name": "Bergen Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/7vkBnXHIvNilYcrqt9RJLD"
+          "name": "The Crossing",
+          "url": "https://open.spotify.com/artist/4NkGaKb4OJ9WbmZVerDjCy"
         },
         {
-          "name": "Edward Gardner",
-          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+          "name": "Daniel Schwartz",
+          "url": "https://open.spotify.com/artist/3kuO0m2kOQ1NW0CNR9CHZH"
+        },
+        {
+          "name": "Donald Nally",
+          "url": "https://open.spotify.com/artist/0ligi0gAGAhHDVgwIX0t45"
+        },
+        {
+          "name": "John Walthausen",
+          "url": "https://open.spotify.com/artist/1aFSlnu5BxKnFoupMu9Gsp"
         }
       ],
-      "duration_ms": 254680,
-      "name": "The Tempest (Suite from the Ballet): II. Storm with Lightning and Thunder",
-      "url": "https://open.spotify.com/track/5wjSF7tPhX6qKuWoux8Eqa"
+      "duration_ms": 265165,
+      "name": "Imagine a Favorite Place",
+      "url": "https://open.spotify.com/track/7ezc3PiPSyteYqdoiQevvf"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "ACO Originals - Thomas Ad\u00e8s: Shanty \u2013 Over the Sea",
-        "url": "https://open.spotify.com/album/1YkctjHKOH29xuNBgseief"
+        "name": "Keyboard Concerto in D Minor, BWV 1052",
+        "url": "https://open.spotify.com/album/5W3pFD4oUtEEKe34SE3zyS"
       },
       "artists": [
         {
-          "name": "Thomas Ad\u00e8s",
-          "url": "https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Australian Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn"
+          "name": "Bach Stage Ensemble",
+          "url": "https://open.spotify.com/artist/6BhDfV44pkVAv1H7dvOiYi"
         },
         {
-          "name": "Richard Tognetti",
-          "url": "https://open.spotify.com/artist/0kdjTXFwhF9w9Cuscbgccu"
+          "name": "L\u00e9o Margue",
+          "url": "https://open.spotify.com/artist/1MQQEbFKe3PuCaIbBMdRyd"
+        },
+        {
+          "name": "Francesco Tristano",
+          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
         }
       ],
-      "duration_ms": 448916,
-      "name": "Shanty \u2013 Over the Sea",
-      "url": "https://open.spotify.com/track/72Rq2mH14vAOageHbKXR6s"
+      "duration_ms": 329653,
+      "name": "Keyboard Concerto in D Minor, BWV 1052: II. Adagio",
+      "url": "https://open.spotify.com/track/3IqiFZ04AY3pmYv0KpEuPu"
     },
     {
-      "added_at": "2023-02-03 04:00:00",
+      "added_at": "2023-02-10 04:00:00",
       "album": {
-        "name": "Bl\u00e5skygger",
-        "url": "https://open.spotify.com/album/5tzC0Ou8FBUEE9FE4o4ezC"
+        "name": "Les Indes galantes, RCT 44: Amants s\u00fbrs de plaire (Arr. by Edward Higginbottom for Organ and Soprano)",
+        "url": "https://open.spotify.com/album/53xVxcQd78vFoxrG9cRWPi"
       },
       "artists": [
         {
-          "name": "Ledetraad",
-          "url": "https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E"
+          "name": "Jean-Philippe Rameau",
+          "url": "https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce"
+        },
+        {
+          "name": "Edward Higginbottom",
+          "url": "https://open.spotify.com/artist/6hJ1WCK5GxmaYzmWWK7UiJ"
+        },
+        {
+          "name": "Holly Teague",
+          "url": "https://open.spotify.com/artist/4bjTrGNyCniLoh4nBdbzd4"
         }
       ],
-      "duration_ms": 138812,
-      "name": "Bl\u00e5skygger",
-      "url": "https://open.spotify.com/track/0MFl5pvlWkWuQ7SoGjpPzG"
+      "duration_ms": 208652,
+      "name": "Les Indes galantes, RCT 44 : Amants s\u00fbrs de plaire - Arr. by Edward Higginbottom for Organ and Soprano",
+      "url": "https://open.spotify.com/track/5sxPBRPCFCzdbWSdjLG6bc"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Dulces exuviae",
+        "url": "https://open.spotify.com/album/2KLh0dXiW3ksRmY4MAaZxy"
+      },
+      "artists": [
+        {
+          "name": "Adrian Willaert",
+          "url": "https://open.spotify.com/artist/7df6bRaEtlbQbWA3BYZhbY"
+        },
+        {
+          "name": "Dionysos Now",
+          "url": "https://open.spotify.com/artist/00CXfiIuCYTRii64YRXe4n"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "Dulces exuviae",
+      "url": "https://open.spotify.com/track/3SA71WTPDkryqW4VJRb4As"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 7, Op. 10 No. 3",
+        "url": "https://open.spotify.com/album/5sGkgeGj0c6OP6wxigEkVV"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Giacomo Franci",
+          "url": "https://open.spotify.com/artist/6YELLe6hSAl0Ct8uvMHxyW"
+        }
+      ],
+      "duration_ms": 160977,
+      "name": "Piano Sonata No. 7, Op. 10 No. 3: III. Minuet. Allegro",
+      "url": "https://open.spotify.com/track/0xZkwvH1TP1vgHc6WC6MXr"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Gather",
+        "url": "https://open.spotify.com/album/3lViZcnBkOVZgZ055slfXN"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Quartet",
+          "url": "https://open.spotify.com/artist/6EZc6HtsURkGf0IuXaLtkn"
+        }
+      ],
+      "duration_ms": 367053,
+      "name": "McIntosh's Lament / Auld Foula / Oot and In Da Harbour",
+      "url": "https://open.spotify.com/track/6Gp8fS7Xqpio9TwYqwz1C6"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Turina, Castelnuovo-Tedesco: Souvenir d'Espagne",
+        "url": "https://open.spotify.com/album/0Iy8wmC5nG4Wh1Vumojdwn"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Turina",
+          "url": "https://open.spotify.com/artist/7BBeyjFsQR00OkYCXKyA5N"
+        },
+        {
+          "name": "Quatuor Byron",
+          "url": "https://open.spotify.com/artist/6IqMeNgIDoKkaPRaCqrAKo"
+        }
+      ],
+      "duration_ms": 462680,
+      "name": "La oraci\u00f3n del torero, Op. 34",
+      "url": "https://open.spotify.com/track/7DVr2SLYcrABaF7hkSvgCp"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Elmas: Complete Piano Works, Vol. 2",
+        "url": "https://open.spotify.com/album/0ZPn9VFqqI6JzN0tipy27D"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phan Elmas",
+          "url": "https://open.spotify.com/artist/7HxfoWs4wopO3xp85qGIxQ"
+        },
+        {
+          "name": "Mikael Ayrapetyan",
+          "url": "https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "27 Mazurkas (Ed. M. Ayrapetyan): No. 23 in A Major",
+      "url": "https://open.spotify.com/track/4USS6ses9Lc8eIbK5Fo9KO"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "This Island",
+        "url": "https://open.spotify.com/album/1ix0433I7Ns1dUjmspnq41"
+      },
+      "artists": [
+        {
+          "name": "Nadia Boulanger",
+          "url": "https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7"
+        },
+        {
+          "name": "Raoul Pugno",
+          "url": "https://open.spotify.com/artist/6rEj91qyFoSOqiy9CyySLo"
+        },
+        {
+          "name": "\u00c9mile Verhaeren",
+          "url": "https://open.spotify.com/artist/3pz0HBH3ykdDnXYKkKLIqI"
+        },
+        {
+          "name": "Susan Narucki",
+          "url": "https://open.spotify.com/artist/1XzA2Am2T9xgqScMxavfhB"
+        },
+        {
+          "name": "Donald Berman",
+          "url": "https://open.spotify.com/artist/6BG4eRtWOP3aGUiEHbC7CE"
+        }
+      ],
+      "duration_ms": 185109,
+      "name": "Les Heures Claires: I. Le ciel en nuit s\u2019est d\u00e9pli\u00e9\u2026",
+      "url": "https://open.spotify.com/track/1XmZ7TDqvUYGHrxx3TGWwd"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Bach: Orchestral Suite No. 2, BWV 1067",
+        "url": "https://open.spotify.com/album/3SwjShedVyHd5wdaUtNIBY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Il Gusto Barocco",
+          "url": "https://open.spotify.com/artist/7AOBLf14GGDOfC5nAM44yX"
+        },
+        {
+          "name": "J\u00f6rg Halubek",
+          "url": "https://open.spotify.com/artist/0DhHJLTB4rkbM1SRR7ukRh"
+        }
+      ],
+      "duration_ms": 235526,
+      "name": "Orchestral Suite No. 2, BWV 1067: V. Polonaise",
+      "url": "https://open.spotify.com/track/4MBIUrFR2B5PuIpT8ePMex"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Toccata",
+        "url": "https://open.spotify.com/album/7MmJK4EbUzRuENfZvSTnL9"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Connesson",
+          "url": "https://open.spotify.com/artist/0mP1EqkbpzbCaLVZhcpq7Y"
+        },
+        {
+          "name": "Eline Groslot",
+          "url": "https://open.spotify.com/artist/6CBmzi3UXzkOPE01QqW9hq"
+        }
+      ],
+      "duration_ms": 256914,
+      "name": "Toccata",
+      "url": "https://open.spotify.com/track/5Ja7hCVN0O5HOQuAmVkPFX"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Gradus ad Parnassum - Haydn: Piano Sonata No. 31 in A-Flat Major, Hob. XVI:46 \"Divertimento\": II. Adagio",
+        "url": "https://open.spotify.com/album/1pOyj5vDfPceYZ1rfX4UFI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jean Rondeau",
+          "url": "https://open.spotify.com/artist/2KodXBuxZLmcqy3R1Oun4g"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "Haydn: Piano Sonata No. 31 in A-Flat Major, Hob. XVI:46 \"Divertimento\": II. Adagio",
+      "url": "https://open.spotify.com/track/7zVQR6tqo9Py4EytIczXlm"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Speech II : Sounds and their Captors",
+        "url": "https://open.spotify.com/album/6asqwDyJp9btv98OVX29Y6"
+      },
+      "artists": [
+        {
+          "name": "Ellis Ludwig-Leone",
+          "url": "https://open.spotify.com/artist/0zFl929tqxKJfHHld50UX5"
+        },
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        }
+      ],
+      "duration_ms": 226516,
+      "name": "Speech II: Sounds and their Captors",
+      "url": "https://open.spotify.com/track/5vKBg6Seaezs7FkPFUpeTw"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Au bord de l'eau",
+        "url": "https://open.spotify.com/album/6eWoxl5pDrErhghmadaOoF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "No\u00ebmi Waysfeld",
+          "url": "https://open.spotify.com/artist/2063672olaNpDkbTln1ZFH"
+        },
+        {
+          "name": "Le Quatuor Dutilleux",
+          "url": "https://open.spotify.com/artist/0pGcm4MmjtHhElormxS0G3"
+        }
+      ],
+      "duration_ms": 109311,
+      "name": "Au bord de l'eau",
+      "url": "https://open.spotify.com/track/7n1pGv6r8GXj5kc1SOEqPT"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Thousand Islands",
+        "url": "https://open.spotify.com/album/2eLAKqCjUvlqnqYh5G33WX"
+      },
+      "artists": [
+        {
+          "name": "Elena Kolesnikova",
+          "url": "https://open.spotify.com/artist/3yaJMw0BvuNbEJ0sAfGCdB"
+        },
+        {
+          "name": "Elena Kole",
+          "url": "https://open.spotify.com/artist/5BjRDkb7kEXiXSqHzq9iCK"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Thousand Islands",
+      "url": "https://open.spotify.com/track/0apQ6PzThqXJohdcpiGJlr"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Friede",
+        "url": "https://open.spotify.com/album/6LvN1c6LX882hYfdSUHsz0"
+      },
+      "artists": [
+        {
+          "name": "Linda Rum",
+          "url": "https://open.spotify.com/artist/0Bg5HlN25RTMhZd6dXdQsA"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Farbe",
+      "url": "https://open.spotify.com/track/11ya9xdy20jM4XyC2OZwAc"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "Scriabin: Symphony No. 4, Op. 54 \"Po\u00e8me de l'Extase\" & Symphony No. 2 in C Minor, Op. 29",
+        "url": "https://open.spotify.com/album/2kmpXLTE1UfxLbeRyOt0Nw"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 389453,
+      "name": "Symphony No. 2 in C Minor, Op. 29: I. Andante -",
+      "url": "https://open.spotify.com/track/7KmK1QVd1iY9IJkGetAo25"
     }
   ],
   "unique_name": "Classical New Releases",

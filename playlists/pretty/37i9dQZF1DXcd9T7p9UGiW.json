@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR?si=b92Ewb2ZTiGj7AICKZOT7Q\" > Popcaan </a>  and <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qy_VHFqCSTa-9m1ICJ_u9Q\" > Burna Boy </a> ",
-  "num_followers": 10660,
+  "num_followers": 10684,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQxNDA1MiwwMDAwMDAwMDE1ZWU0MGIyNzc0MzE0MjVmYWZjMzE0ZTk4NmFmOTYy",
+  "snapshot_id": "MTY3NjAyMDMyOSwwMDAwMDAwMDYxMGZiMjk5NWMxMzc2NzgxYmUzZDNiZWUyOWIxZTI3",
   "tracks": [
     {
       "added_at": "2023-01-27 07:10:01",
@@ -31,22 +31,26 @@
     {
       "added_at": "2023-01-06 07:54:16",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Play Play (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "added_at": "2023-01-06 07:54:16",
@@ -67,6 +71,46 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2023-01-06 07:54:16",
+      "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "added_at": "2023-02-10 09:12:09",
+      "album": {
+        "name": "Just Expectationz",
+        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        }
+      ],
+      "duration_ms": 228877,
+      "name": "Just Expectationz",
+      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
     },
     {
       "added_at": "2023-01-06 07:54:16",
@@ -213,6 +257,26 @@
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
+      "added_at": "2023-02-10 09:12:09",
+      "album": {
+        "name": "Everything (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 168364,
+      "name": "Everything (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5"
+    },
+    {
       "added_at": "2023-02-03 08:47:32",
       "album": {
         "name": "Count Your Blessings (Remix)",
@@ -275,6 +339,30 @@
       "duration_ms": 202886,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1"
+    },
+    {
+      "added_at": "2023-02-10 09:12:09",
+      "album": {
+        "name": "Cancel Culture Riddim",
+        "url": "https://open.spotify.com/album/3MNXwNQNlWiKzm4wO2qIDW"
+      },
+      "artists": [
+        {
+          "name": "Treesha",
+          "url": "https://open.spotify.com/artist/3czlm0jWjM22Dj3rHYRO3o"
+        },
+        {
+          "name": "Jah-Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        },
+        {
+          "name": "City Lock",
+          "url": "https://open.spotify.com/artist/7np85CQLTd7hkyVH2GeIXz"
+        }
+      ],
+      "duration_ms": 203145,
+      "name": "Can\u00b4t Deny",
+      "url": "https://open.spotify.com/track/3yWzMaLEFlnXF1TnOp39Kx"
     },
     {
       "added_at": "2023-01-06 07:54:16",
@@ -621,26 +709,6 @@
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
-      "added_at": "2023-01-27 07:10:01",
-      "album": {
-        "name": "Silent Running (feat. Adeleye Omotayo)",
-        "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Adeleye Omotayo",
-          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
-        }
-      ],
-      "duration_ms": 266338,
-      "name": "Silent Running (feat. Adeleye Omotayo)",
-      "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
-    },
-    {
       "added_at": "2023-01-06 07:54:16",
       "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
@@ -931,26 +999,6 @@
     {
       "added_at": "2023-01-06 07:54:16",
       "album": {
-        "name": "Bad Habits (The Remixes)",
-        "url": "https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Kooldrink",
-          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
-        }
-      ],
-      "duration_ms": 327393,
-      "name": "Bad Habits - Kooldrink Amapiano Remix",
-      "url": "https://open.spotify.com/track/6OvZNs4JjdyebEiIi0jcaR"
-    },
-    {
-      "added_at": "2023-01-06 07:54:16",
-      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -1223,34 +1271,6 @@
     {
       "added_at": "2023-01-06 07:54:16",
       "album": {
-        "name": "Sugarcane (Latin Remix)",
-        "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
-        }
-      ],
-      "duration_ms": 258048,
-      "name": "Sugarcane - Latin Remix",
-      "url": "https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N"
-    },
-    {
-      "added_at": "2023-01-06 07:54:16",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -1271,30 +1291,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2023-01-06 07:54:16",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "added_at": "2023-01-06 07:54:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: MD Chefe, MC Ryan SP",
+  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: Veigh",
   "name": "Trapperz Brasil",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 192951,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/00mqszWSWG8sUSMGguI3WJ"
@@ -4633,6 +4633,32 @@
     },
     {
       "album": {
+        "name": "Profissional",
+        "url": "https://open.spotify.com/album/1rvw7b3Cnaxpg8Zx5dTt81"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Profissional",
+      "url": "https://open.spotify.com/track/6JfB50GyskN16n4pni8VXK"
+    },
+    {
+      "album": {
         "name": "Progresso",
         "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
       },
@@ -4894,7 +4920,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 160796,
       "name": "Rel\u00f3gio",
       "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
@@ -5065,6 +5091,32 @@
     },
     {
       "album": {
+        "name": "Sem Saber",
+        "url": "https://open.spotify.com/album/7uUfRYWccTpD0y69BnjW6I"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "THXLIS",
+          "url": "https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS"
+        },
+        {
+          "name": "Vitinho Olimpo",
+          "url": "https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147264,
+      "name": "Sem Saber",
+      "url": "https://open.spotify.com/track/4QgPMexFryXvDE6wn8NDIv"
+    },
+    {
+      "album": {
         "name": "Sequestro",
         "url": "https://open.spotify.com/album/5rq1soVKaDW0yTvFb5s23N"
       },
@@ -5230,6 +5282,32 @@
       "duration_ms": 143255,
       "name": "Sonho Dos Cria",
       "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
+    },
+    {
+      "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Sou M\u00e1",
+      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
     },
     {
       "album": {
@@ -5794,7 +5872,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 141557,
       "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"

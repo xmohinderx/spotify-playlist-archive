@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: VIVIZ \(비비지\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,267 likes - 211 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,358 likes - 211 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 114 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 |
 | 115 | [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 |
 | 116 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 |
-| 117 | [Villain](https://open.spotify.com/track/188Fa4orcugsnlfeLUHRym) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Trolley](https://open.spotify.com/album/1YSAjSAvHuoTaXF11Esxnu) | 3:08 |
+| 117 | [Villain](https://open.spotify.com/track/188Fa4orcugsnlfeLUHRym) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Trolley \(Original Soundtrack Part.3\)](https://open.spotify.com/album/1YSAjSAvHuoTaXF11Esxnu) | 3:08 |
 | 118 | [A Mother’s Fear](https://open.spotify.com/track/0DffMF7OZ4FztRUI9ssARg) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [A Mother’s Fear](https://open.spotify.com/album/6jZWt0bIqs4O8vTMKndYpv) | 3:36 |
 | 119 | [In my life](https://open.spotify.com/track/1pUi13QNa1k919IMumUDNe) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [In my life](https://open.spotify.com/album/6t12wExU0kuJm52ZRCCIHd) | 3:55 |
 | 120 | [Fly Away](https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn) | [BXB](https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo) | [Intro: Flight and a new beginning](https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy) | 2:43 |

@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "cantthinkofaname",
+        "url": "https://open.spotify.com/album/4F7uTTKK65dLfximrw5FhN"
+      },
+      "artists": [
+        {
+          "name": "Dana Vicci",
+          "url": "https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "cantthinkofaname",
+      "url": "https://open.spotify.com/track/5QxrUAzSRLlVmgWUvhwbLD"
+    },
+    {
+      "album": {
         "name": "Child",
         "url": "https://open.spotify.com/album/4nz18DILyysoglGaV015Cq"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 178804,
       "name": "Crank",
       "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
@@ -2713,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
       },
@@ -2772,6 +2808,32 @@
       "duration_ms": 147125,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC"
+    },
+    {
+      "album": {
+        "name": "Gyrate (ft. Wreckno)",
+        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Gyrate (ft. Wreckno)",
+      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
       "album": {
@@ -2894,6 +2956,24 @@
       "duration_ms": 172200,
       "name": "Heat Rush",
       "url": "https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM"
+    },
+    {
+      "album": {
+        "name": "Helicopter",
+        "url": "https://open.spotify.com/album/7vKuJ6fPYmOxW7IAh4xeaU"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145474,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/1WrxHnZVeYqJdKnUzk3onw"
     },
     {
       "album": {
@@ -3052,6 +3132,28 @@
       "duration_ms": 143076,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
+    },
+    {
+      "album": {
+        "name": "Hooyah!",
+        "url": "https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Hooyah!",
+      "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
     },
     {
       "album": {
@@ -3318,7 +3420,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
@@ -3336,7 +3438,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 174906,
       "name": "ID1",
       "url": "https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279"
@@ -6302,7 +6404,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146571,
-      "name": "rumble",
+      "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
@@ -6556,6 +6658,36 @@
       "duration_ms": 355217,
       "name": "Seven Wonders",
       "url": "https://open.spotify.com/track/4mjW3MW0gMHcyUKxYWYUQ0"
+    },
+    {
+      "album": {
+        "name": "SH SH SH (Hit That) (feat. Wiz Khalifa, Urfavxboyfriend & Goldsoul)",
+        "url": "https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Urfavxboyfriend",
+          "url": "https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5"
+        },
+        {
+          "name": "Goldsoul",
+          "url": "https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133625,
+      "name": "SH SH SH (Hit That) (feat. Wiz Khalifa, Urfavxboyfriend & Goldsoul)",
+      "url": "https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3"
     },
     {
       "album": {
@@ -6958,7 +7090,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 222720,
       "name": "Step To",
       "url": "https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU"
@@ -7492,7 +7624,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 498461,
       "name": "The Sound Of Space",
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
@@ -7954,7 +8086,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 227000,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/3I7AY6lL2Z3ESLgHNqSdE7"
@@ -8236,6 +8368,24 @@
       "duration_ms": 161574,
       "name": "Who U With",
       "url": "https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm"
+    },
+    {
+      "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     },
     {
       "album": {

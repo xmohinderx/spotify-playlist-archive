@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=KDheyI8wRUGEcTg6RHfEDA\"> Bongeziwe Mabandla</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo-Vrpgsw\"> Lindsey Abudei</a> ",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 217829,
       "name": "Countryside",
       "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
@@ -1224,6 +1224,24 @@
       "duration_ms": 127376,
       "name": "THE VALLEY",
       "url": "https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Abudei",
+          "url": "https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "Thunder in My Arms",
+      "url": "https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t"
     },
     {
       "album": {

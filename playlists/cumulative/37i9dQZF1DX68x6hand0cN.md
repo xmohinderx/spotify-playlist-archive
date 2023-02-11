@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-124 songs - 6 hr 18 min
+125 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 | 2022-07-28 |  |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-07-28 |  |
 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-28 |  |
+| [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/track/493qLcwTTmGlPuvfp8urdA) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC), [Dilara Guntekin](https://open.spotify.com/artist/4H6YFOGMXklQmPYSzISocN) | [Başkasını Sevmem \(feat\. Dilara Guntekin\)](https://open.spotify.com/album/0Nl33GUJXy6KHhfMXC9mS8) | 3:15 | 2023-02-10 |  |
 | [BERIZ](https://open.spotify.com/track/1MpuM9oqDtjMZ2tVImMG23) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BERIZ](https://open.spotify.com/album/4jsWNnuGu4LnaYAQ4wWfQA) | 2:55 | 2022-07-28 |  |
 | [Beslama](https://open.spotify.com/track/0uPYFty43hvhwdeFrIbVGq) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Blacka](https://open.spotify.com/artist/05p1rE5MjBgEblb7wgaUZ7) | [Beslama](https://open.spotify.com/album/6s9dmp1dGErzwfrmYlrQpB) | 2:44 | 2022-11-28 |  |
 | [Body Count](https://open.spotify.com/track/6vn2vx8u1NfIXPerx6sMcs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Championships](https://open.spotify.com/album/11CyESxdaPU7YyCPhkYbWy) | 3:10 | 2022-07-28 |  |

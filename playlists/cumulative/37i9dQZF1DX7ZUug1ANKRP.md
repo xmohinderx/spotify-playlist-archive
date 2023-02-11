@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: TMW, BE.TH
 
-301 songs - 14 hr 17 min
+302 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Children Of The Night](https://open.spotify.com/track/3LZvaHxUB1JHm0CupGqd5W) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Children Of The Night](https://open.spotify.com/album/1ah9V0sxEDCnYvFMrLwH27) | 2:37 | 2022-06-08 | 2022-07-07 |
 | [Closer](https://open.spotify.com/track/4mgI0LKhrJI6JdZ0pQc81D) | [BOSS](https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Closer](https://open.spotify.com/album/3Xte1fTOmF4p8gMxWIZNAu) | 2:16 | 2022-03-16 | 2022-08-25 |
 | [Closer](https://open.spotify.com/track/1UJJYg9v9SGWEYxGK7nxMa) | [Tiny Ghost](https://open.spotify.com/artist/502x2hZPuYCBFIZa1115U6), [CRISPIE](https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL) | [Closer](https://open.spotify.com/album/6ORM8JVxbLZWxL7gb49gi9) | 2:42 | 2021-12-15 | 2022-02-24 |
-| [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-18 |  |
+| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-08 |  |
+| [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-18 | 2023-02-11 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-07-13 | 2022-10-27 |
 | [Count to 10](https://open.spotify.com/track/6EKnLmVxgp2iSrRT8YPYPU) | [Séb Mont](https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Count to 10](https://open.spotify.com/album/23eMDbvr2YtYqMuxiQrA9E) | 2:21 | 2021-12-15 | 2022-01-06 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-13 | 2022-07-21 |

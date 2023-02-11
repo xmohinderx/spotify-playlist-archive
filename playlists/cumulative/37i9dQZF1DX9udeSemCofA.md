@@ -4,11 +4,12 @@
 
 > Mellow out with this dub music.
 
-100 songs - 6 hr 36 min
+103 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Bad Days Dub](https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 4:16 | 2020-06-16 |  |
+| [Bad Days Dub](https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 4:16 | 2020-06-16 | 2023-02-11 |
+| [Bad Days Dub](https://open.spotify.com/track/5fUNBGKzM2Czt9f2Pd5wrM) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 4:16 | 2022-11-10 |  |
 | [Black Roses](https://open.spotify.com/track/5xsafxCwTSz1TLSDdE3Er7) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Black Roses Barrington Levy & the Jah Life Compendium](https://open.spotify.com/album/2dJEyYCrSCQR5O6sSfkKAs) | 2:58 | 2022-11-10 | 2022-11-13 |
 | [Black Roses](https://open.spotify.com/track/2ZDkZV0SUhoP3mXGX6ASZm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/0moZgBJ6jA54D1Fvm4dqf3) | 3:07 | 2022-11-10 |  |
 | [Black Roses](https://open.spotify.com/track/4iZxFlcCg5Z6bVYsxqiT61) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z) | 3:07 | 2020-06-16 | 2022-11-11 |
@@ -29,7 +30,8 @@
 | [Daphne](https://open.spotify.com/track/3fnc75xoQYkyfCaeAXOIUS) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/1RpUnan6rOTw8GdwhrkKE6) | 3:58 | 2020-06-16 | 2022-10-17 |
 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 | 2020-06-16 | 2022-07-29 |
 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 | 2020-06-16 | 2022-08-09 |
-| [Drum Song Dub](https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 3:42 | 2020-06-16 |  |
+| [Drum Song](https://open.spotify.com/track/7qDzu5cRpe4rfM6cePzRel) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 3:44 | 2022-11-10 |  |
+| [Drum Song Dub](https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 3:42 | 2020-06-16 | 2023-02-11 |
 | [Dub Glory](https://open.spotify.com/track/7kA02bY8j1woxuOCfAyvcv) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Sly & Robbie Dub](https://open.spotify.com/album/63ASfPPq6Sdf7z7nNGFw8b) | 3:16 | 2020-06-16 |  |
 | [Dub Of Excellence](https://open.spotify.com/track/4XbeYLrMzKzEQIY4IiJxGT) | [Mad Professor and Scientist](https://open.spotify.com/artist/06iQ6TH82zx4zV3PCsqMOO) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:24 | 2020-06-16 |  |
 | [Dub On Fire](https://open.spotify.com/track/0Z2zoo789arqc8VYvCeHzT) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549), [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [The African Brothers Meet King Tubby In Dub](https://open.spotify.com/album/4XDfjZdg3dyVSghKsaoty4) | 2:29 | 2020-06-16 |  |
@@ -76,7 +78,8 @@
 | [Original Dub](https://open.spotify.com/track/4wHRY65n20xsC0QBMu1hrW) | [The African Brothers](https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt), [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [The African Brothers Meet King Tubby](https://open.spotify.com/album/154ysaAUhoSi8eerWcaOd2) | 2:24 | 2022-11-10 | 2022-11-13 |
 | [Ototoxic](https://open.spotify.com/track/1FIwG4D6XLou0SEvt236bI) | [Kosmo Sound](https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj) | [Fruit Of The Void](https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em) | 3:59 | 2022-11-10 |  |
 | [Ototoxic](https://open.spotify.com/track/6o039qN5jgxb8WmA1gjk9Q) | [Kosmo Sound](https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj) | [Ototoxic](https://open.spotify.com/album/3FMyDjTyD8rLMPkpcwE4rm) | 3:59 | 2022-09-08 | 2022-11-30 |
-| [Rocker's Almighty Dub](https://open.spotify.com/track/20XxcYoQx7MrAYcHLLn30x) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocker's Almighty Dub](https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk) | 3:41 | 2020-06-16 |  |
+| [Rocker's Almighty Dub](https://open.spotify.com/track/20XxcYoQx7MrAYcHLLn30x) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocker's Almighty Dub](https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk) | 3:41 | 2020-06-16 | 2023-02-11 |
+| [Rockers Almighty Dub](https://open.spotify.com/track/7deOMfp7bDjTocSA0oZKLi) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Horace Andy Deluxe Edition](https://open.spotify.com/album/1OHdxeDzAr1MwrjtutQ33i) | 3:43 | 2022-11-10 |  |
 | [Roots and Culture](https://open.spotify.com/track/2FvW1kJGtL2gx9xUT7Zfo2) | [Mikey Dread](https://open.spotify.com/artist/6xKQ3GOnt3gjzja4IcLyg4) | [The Prime of Mikey Dread](https://open.spotify.com/album/7dlFlZoYIJSaEX7zc8ZhZ8) | 6:05 | 2020-06-16 |  |
 | [Rude Boy](https://open.spotify.com/track/4f1GpbYe1TAYTS6NJkhr4Y) | [Prince Jammy](https://open.spotify.com/artist/2ofzePirTpSz2qzyVt1Eoe), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 3:38 | 2020-06-16 |  |
 | [Sailors Dub](https://open.spotify.com/track/4Flx2sSsdxRNpbykvZJeQL) | [The Crazy Mad Professor](https://open.spotify.com/artist/5n4FlWt1mBjuiNkx3vvyfI) | [At Channel One](https://open.spotify.com/album/5zoRhVb2gGr5TKQJIlUSE4) | 3:00 | 2020-06-16 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-610 songs - 1 day 10 hr 18 min
+612 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 | 2022-09-01 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-01 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-11-23 |  |
-| [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-01-15 |  |
+| [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-01-15 | 2023-02-11 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-01-15 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-17 | 2021-05-23 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-25 |
@@ -244,7 +244,7 @@
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-27 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-13 | 2021-05-23 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-18 |
-| [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 |  |
+| [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-02-11 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-20 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-06 | 2022-10-08 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-01 | 2022-10-08 |
@@ -358,6 +358,7 @@
 | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/track/54Eg8MXmNLr9b4q8Qb3kYL) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אני אוהב אותך \(prod by Navi\)](https://open.spotify.com/album/3pdBEM3eeR9EeUMlZ7eazU) | 3:31 | 2021-04-06 | 2021-06-27 |
 | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA) | [Adir Getz](https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG) | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB) | 3:00 | 2022-07-18 |  |
 | [אני כבר לא בך](https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אני כבר לא בך](https://open.spotify.com/album/36lM0F38dXFsNgGKwQ3Cde) | 2:57 | 2021-12-24 | 2022-01-23 |
+| [אני פה](https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 2:07 | 2023-02-10 |  |
 | [אפטרפארק](https://open.spotify.com/track/3b4QaOcYEHfNcAeDmDi8en) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:34 | 2021-12-18 | 2021-12-23 |
 | [אפס מאמץ](https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 3:20 | 2021-07-08 | 2022-08-08 |
 | [אפס מאמץ](https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [אפס מאמץ](https://open.spotify.com/album/6isaVgYKgKOhbRSNppMkGx) | 3:20 | 2021-07-04 | 2021-07-08 |
@@ -611,6 +612,7 @@
 | [תל אביב זה אני ואת](https://open.spotify.com/track/406GxF9gnDjRwsy5wqLpOh) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [גנגסטרים על אמת](https://open.spotify.com/album/1G9CB4gjIIjEI8tKx49FGt) | 3:41 | 2021-06-03 | 2022-02-24 |
 | [תל אביב זה אני ואת](https://open.spotify.com/track/6ssR8XxeSyPytTMkSaJn9e) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [תל אביב זה אני ואת](https://open.spotify.com/album/1KyVY1Ich1xiE8CWTYnuIY) | 3:41 | 2021-05-03 | 2021-06-03 |
 | [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 | 2023-01-22 |
+| [תראי אהובתי](https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:16 | 2023-02-10 |  |
 | [‏בלדה לביישן](https://open.spotify.com/track/78OGIZvj4bxG0lFis2cndH) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Soul J](https://open.spotify.com/artist/485QOZYo6QKTExsIOB1NZD) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:33 | 2021-09-26 | 2021-10-16 |
 | [‏גיבור](https://open.spotify.com/track/76Iqn87We9vQlpQo7ql5g2) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:56 | 2021-09-26 | 2021-10-09 |
 | [‏ערב טוב טרוריסטים](https://open.spotify.com/track/54XUp0MTopZmtHpqcpJnMp) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:18 | 2021-09-26 | 2021-10-10 |

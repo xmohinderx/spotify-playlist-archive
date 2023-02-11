@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: August Burns Red",
+  "description": "Metalcore at its finest. Cover: From Ashes To New",
   "name": "The Core",
   "tracks": [
     {
@@ -284,6 +284,24 @@
       "duration_ms": 225400,
       "name": "A World in Tears",
       "url": "https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn"
+    },
+    {
+      "album": {
+        "name": "A.N.X.I.E.T.Y.",
+        "url": "https://open.spotify.com/album/4Qiu3xzymfFETMN7yEDCP3"
+      },
+      "artists": [
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179275,
+      "name": "A.N.X.I.E.T.Y.",
+      "url": "https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW"
     },
     {
       "album": {
@@ -2567,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222571,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY"
+    },
+    {
+      "album": {
         "name": "Darkbloom",
         "url": "https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI"
       },
@@ -3396,6 +3432,24 @@
       "duration_ms": 243146,
       "name": "Drag Me Down (feat. Jamie Hails)",
       "url": "https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW"
+    },
+    {
+      "album": {
+        "name": "Drag Me Under",
+        "url": "https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Drag Me Under",
+      "url": "https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8"
     },
     {
       "album": {
@@ -5763,6 +5817,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/1CjPzgqkAeSShcb3mQ4iNS"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267744,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo"
+    },
+    {
+      "album": {
         "name": "Jewels of Urn",
         "url": "https://open.spotify.com/album/2N4NtpcCAxgtqAUALCnNa3"
       },
@@ -6010,6 +6082,24 @@
       "duration_ms": 230500,
       "name": "Lamb to the Slaughter",
       "url": "https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs"
+    },
+    {
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
     },
     {
       "album": {
@@ -7098,6 +7188,24 @@
       "duration_ms": 234080,
       "name": "Nighthawk",
       "url": "https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
       "album": {
@@ -10726,7 +10834,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 204198,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
@@ -10990,7 +11098,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 214028,
       "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"

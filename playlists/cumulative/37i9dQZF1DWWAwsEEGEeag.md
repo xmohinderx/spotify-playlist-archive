@@ -2,7 +2,7 @@
 
 ### [Les beaux jours](https://open.spotify.com/playlist/37i9dQZF1DWWAwsEEGEeag)
 
-> Chansons pour ceux qui refusent de laisser l'été se terminer.
+> Chansons pour les longues journées d'été.
 
 127 songs - 7 hr 30 min
 

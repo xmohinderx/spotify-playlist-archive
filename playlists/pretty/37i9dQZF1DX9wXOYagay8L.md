@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs?si=7x8x6BUlRoilITy7aQZ18A">Donald</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,131 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,213 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 34 | [What I Would Say](https://open.spotify.com/track/2RIQcWNRhgp5wbnwZ2mLXN) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [What I Would Say](https://open.spotify.com/album/33MQBGfeRumyzpZhMumRqC) | 2:59 |
 | 35 | [U Kondelela](https://open.spotify.com/track/0EhTtfkHu8LoH4q3vJcgsz) | [Vee Mampeezy](https://open.spotify.com/artist/1HnX82fJQuTTF34wrYn2Zq), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [U Kondelela](https://open.spotify.com/album/3Q6kTcN2cvW6PWdoGCQ9o2) | 4:33 |
 | 36 | [Ubambo Lwam'](https://open.spotify.com/track/6XWZZKtX2mNx2RpQNSriVr) | [Fizz Munt](https://open.spotify.com/artist/14MbN4GVNfAVwaxbYYIuSQ), [Spiro Beats](https://open.spotify.com/artist/2UucDAVCmgqzNq1TAl8EwY) | [Ubambo Lwam'](https://open.spotify.com/album/4tYuh7ijwVlMjeTiQgXHTv) | 3:08 |
-| 37 | [Wa Nkutlwa Na](https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas) | [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Wa Nkutlwa Na](https://open.spotify.com/album/19Cc36zy5O9APFjEw1HZFU) | 4:42 |
-| 38 | [Zwafhela Zwofhela](https://open.spotify.com/track/6xAOVKfp6ffBwWRUtpKSlL) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Zwafhela Zwofhela](https://open.spotify.com/album/5odoFEselKhI5OXfKPouaZ) | 4:51 |
-| 39 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 |
-| 40 | [Ngzok'nik'uthando \(Radio Edit\)](https://open.spotify.com/track/0bMHwf7X5H7IG9jaSM9xEm) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV) | [Ngzok'nik'uthando](https://open.spotify.com/album/36iqSxDSF001SVG7zSs4ZI) | 4:20 |
-| 41 | [Sizobambana](https://open.spotify.com/track/5sEroXGaxA40N3HQWX6snd) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Journey To Infinity](https://open.spotify.com/album/2kRJW6Hq4iZdXenCfXDJ2F) | 5:31 |
-| 42 | [Byala](https://open.spotify.com/track/4hmJCqRxK1mzvc8EKyTykO) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Byala](https://open.spotify.com/album/6IzPFY46mM8rSY9R2b4uu8) | 5:28 |
-| 43 | [Ngisize Nami](https://open.spotify.com/track/4fyfjQNKxLTKBid9m3XMQc) | [DJ Ngwazi](https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Casswell P](https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8) | [Ngisize Nami](https://open.spotify.com/album/5DTWzDShfa07dCTqMGYsmy) | 5:10 |
+| 37 | [Imali](https://open.spotify.com/track/2sSGjEvNGSBS6I0TLI0jrq) | [Mandz Not Hot](https://open.spotify.com/artist/6xXFCjnXMs9UCiyNcegZlw), [S.eemah\_x](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Zwano](https://open.spotify.com/artist/0mDqFvO5UCoFlUdTIKx9tq) | [Imali](https://open.spotify.com/album/2k6F7Etup6B2g3MobHeQSz) | 4:02 |
+| 38 | [Wa Nkutlwa Na](https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas) | [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Wa Nkutlwa Na](https://open.spotify.com/album/19Cc36zy5O9APFjEw1HZFU) | 4:42 |
+| 39 | [Zwafhela Zwofhela](https://open.spotify.com/track/6xAOVKfp6ffBwWRUtpKSlL) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Zwafhela Zwofhela](https://open.spotify.com/album/5odoFEselKhI5OXfKPouaZ) | 4:51 |
+| 40 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 |
+| 41 | [Ngzok'nik'uthando \(Radio Edit\)](https://open.spotify.com/track/0bMHwf7X5H7IG9jaSM9xEm) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV) | [Ngzok'nik'uthando](https://open.spotify.com/album/36iqSxDSF001SVG7zSs4ZI) | 4:20 |
+| 42 | [Sizobambana](https://open.spotify.com/track/5sEroXGaxA40N3HQWX6snd) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Journey To Infinity](https://open.spotify.com/album/2kRJW6Hq4iZdXenCfXDJ2F) | 5:31 |
+| 43 | [Byala](https://open.spotify.com/track/4hmJCqRxK1mzvc8EKyTykO) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Byala](https://open.spotify.com/album/6IzPFY46mM8rSY9R2b4uu8) | 5:28 |
 | 44 | [Langa Linye](https://open.spotify.com/track/56OeFbi7h1lX31zXpLc5yh) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Langa Linye](https://open.spotify.com/album/5SmgVjY1nTnyK8wil50fLx) | 4:53 |
 | 45 | [Dream About You](https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Dream About You](https://open.spotify.com/album/01feIntmkFDFp5WXym3hHs) | 3:20 |
 | 46 | [Esfubeni](https://open.spotify.com/track/7eIGgeSfeC3FHd2xiZ6cks) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J) | [Words of Hope](https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 |
 | 50 | [Akathintwa](https://open.spotify.com/track/3vT35rhGVQZVBMQODC0ora) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Akathintwa](https://open.spotify.com/album/0Y9hPEypFpNLU2n8zcNccs) | 5:15 |
 
-Snapshot ID: `MTY3NTk4NDI1MiwwMDAwMDAwMDRjYTQ4YmE5YTgxMzQzZjUxZmE1YWEwYjEzZjEyYjUz`
+Snapshot ID: `MTY3NjAxNzIzOCwwMDAwMDAwMGM0M2RjN2M2NTRjMmMwZDBjMTZmMWE3MTZiZDczYjBj`

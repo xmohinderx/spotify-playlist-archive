@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Ana Castela",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Maiara & Maraisa",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 169058,
       "name": "Esque\u00e7a-Me Se For Capaz",
       "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "AgroPlay Ver\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173698,
+      "name": "Nosso Quadro",
+      "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
+    },
+    {
+      "album": {
         "name": "Nota de Rep\u00fadio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
       },
@@ -1628,6 +1650,28 @@
       "duration_ms": 169586,
       "name": "N\u00e3o Sei o Que L\u00e1",
       "url": "https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Vital\u00edcio (Nunca Mais) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169835,
+      "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
     },
     {
       "album": {
@@ -1766,7 +1810,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 185407,
       "name": "Pino da Granada (Ao Vivo em Rio Preto)",
       "url": "https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP"
@@ -2035,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "To Be (Ao Vivo Em Bras\u00edlia EP1)",
+        "url": "https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172005,
+      "name": "Traumatizei - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW"
+    },
+    {
+      "album": {
         "name": "Tudo Em Paz",
         "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
       },
@@ -2064,7 +2126,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-11",
       "duration_ms": 203158,
       "name": "Troca de Cal\u00e7ada",
       "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"

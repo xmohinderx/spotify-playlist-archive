@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-130 songs - 8 hr 28 min
+131 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Habibi Taal](https://open.spotify.com/track/0Y0dnRnYmG8VhtWthghsXV) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G) | 3:18 | 2021-12-09 | 2022-10-14 |
 | [Habibi Taal](https://open.spotify.com/track/2bmyNjROIwUSHSzBzjzX1l) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y) | 3:18 | 2022-10-07 |  |
 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 | 2022-07-29 |  |
-| [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 | 2021-12-09 |  |
+| [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 | 2021-12-09 | 2023-02-11 |
 | [Honey Butter](https://open.spotify.com/track/5M1qJ55WcgLKPlVuufaWJF) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Honey Butter](https://open.spotify.com/album/6h4XKVixD373Cup55t3RYj) | 3:41 | 2022-08-24 | 2022-10-08 |
 | [Ia Sudan Ma'alesh](https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:33 | 2021-12-09 | 2022-07-28 |
 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 | 2021-12-09 | 2022-07-29 |
@@ -71,6 +71,7 @@
 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 | 2022-07-28 |  |
 | [Kandaka](https://open.spotify.com/track/2trtxHSfBgnYz6WOkKv3AI) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [Kandaka](https://open.spotify.com/album/5wwllvYuplcnXX0z2zZcXN) | 3:12 | 2021-12-09 | 2022-07-29 |
 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 | 2021-12-09 | 2022-07-29 |
+| [Langa \(feat\. Khayyat\)](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa \(feat\. Khayyat\)](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 | 2023-02-10 |  |
 | [Lazim](https://open.spotify.com/track/1iaKPofawxpy6tuR5Bt46t) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [1991](https://open.spotify.com/album/64Mi2xOdR0PyJ2Zm2DsVm3) | 3:42 | 2021-12-09 | 2022-07-29 |
 | [Like Really](https://open.spotify.com/track/1rxbz8vhGvydIbOWkh60gw) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Iceberg](https://open.spotify.com/album/2dEkjiUBO6Z2aeolcJ7sCy) | 3:44 | 2021-12-09 | 2022-07-30 |
 | [Malaia](https://open.spotify.com/track/2lNXc86nUMT82Qe3AahIsI) | [T.A](https://open.spotify.com/artist/0Fm8t9xIwHAkNwPcdAP9RV) | [Malaia](https://open.spotify.com/album/6JGHgcD5pS1JaqqTpGhOdV) | 3:15 | 2021-12-09 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes, Nico Valdi & LiL CaKe.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Luck Ra + La T y la M + Rusherking
 
 343 songs - 17 hr 6 min
 
@@ -264,7 +264,7 @@
 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 | 2022-01-07 | 2022-06-08 |
 | [Salimo de Noche](https://open.spotify.com/track/6isMsmVlbMpXzFYFpM59Iz) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Salimo de Noche](https://open.spotify.com/album/2XUUiuL2dVG0Rhn4A6VaoD) | 2:22 | 2022-03-11 | 2022-07-29 |
 | [Se Picó](https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Se Picó](https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN) | 2:19 | 2021-12-23 |  |
-| [Se Pone Loca](https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Eso Canto para Bailar](https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA) | 3:21 | 2021-12-23 |  |
+| [Se Pone Loca](https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Eso Canto para Bailar](https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA) | 3:21 | 2021-12-23 | 2023-02-11 |
 | [Segunda Opción](https://open.spotify.com/track/6yzC5Hhd7klSfMsqarWeDQ) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Segunda Opción](https://open.spotify.com/album/4FGOHPMy7K2SdEmsozRHUJ) | 2:54 | 2022-02-25 | 2022-06-12 |
 | [Session \#1: Si Alguna Vez / Ven Bailalo / Explicame](https://open.spotify.com/track/13bk87RvVQdssy7Mb7sbom) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#1: Si Alguna Vez / Ven Bailalo /Explicame](https://open.spotify.com/album/5jAxUrZffNBrxuuTL5ExyK) | 6:33 | 2022-06-17 | 2022-09-02 |
 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 | 2022-07-22 | 2022-11-12 |
@@ -278,7 +278,7 @@
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2021-12-23 |  |
 | [Si Te Vuelvo a Ver](https://open.spotify.com/track/60SCplQppNz0tJIIxf52EH) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Mawi](https://open.spotify.com/artist/2oPc9LzQ7NP9DIqY70jubf) | [Si Te Vuelvo a Ver](https://open.spotify.com/album/5QkeaHYbkt3PcyvCiPzu3o) | 2:27 | 2022-05-06 | 2022-06-19 |
 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2021-12-23 |  |
-| [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-12-23 | 2023-02-07 |
+| [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-12-23 |  |
 | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/album/1UYhKpS4A9rKS74h6ht9ug) | 3:24 | 2022-07-29 | 2022-08-07 |
 | [Sin Respuestas](https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Sin Respuestas](https://open.spotify.com/album/4xvUV9yLopopHIJT9x70ig) | 2:49 | 2022-01-07 | 2022-06-08 |
 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 | 2022-08-06 | 2022-08-23 |

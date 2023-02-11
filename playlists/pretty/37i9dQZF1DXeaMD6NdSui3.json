@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 106935,
+  "num_followers": 107060,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGJjZjE1OGFjNjk5YTdhYmFjM2VhYzIyMjA3NDAzMzQ3",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDQ1MzI5NDllYzdhM2RhOGFkM2JiNzJjNzM5ZjBmMmVh",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -371,22 +371,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "We The People",
         "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 260200,
       "name": "We The People",
       "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -501,6 +501,26 @@
       "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
     },
     {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
+        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        },
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Givin' Up On Love",
+      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
@@ -531,26 +551,6 @@
       "duration_ms": 236026,
       "name": "Sugar Coated Love",
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
-        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        },
-        {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Givin' Up On Love",
-      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Catch Up With The Blues",
-        "url": "https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Copeland",
-          "url": "https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL"
-        }
-      ],
-      "duration_ms": 394333,
-      "name": "Rolling With The Punches",
-      "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Deep In The Heart",
         "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Catch Up With The Blues",
+        "url": "https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Copeland",
+          "url": "https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL"
+        }
+      ],
+      "duration_ms": 394333,
+      "name": "Rolling With The Punches",
+      "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
     },
     {
       "added_at": "2018-02-27 16:43:49",
