@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-246 songs - 10 hr 52 min
+247 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Every Day of My Life](https://open.spotify.com/track/5ekbqOVtJuLeCpULRraWhf) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Vintage Gold](https://open.spotify.com/album/1Are2uBlJvAJ0TNJV8VqFr) | 2:32 | 2020-07-08 | 2022-07-29 |
 | [Everything I Have Is Yours](https://open.spotify.com/track/63qtJxWRUchMr1gGXQBoZF) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Cindy Oh Cindy](https://open.spotify.com/album/3Cq0QwqTxscwNlLiNn1DNG) | 3:01 | 2020-07-08 | 2022-06-13 |
 | [Fabulous](https://open.spotify.com/track/50kORiWqdWda8xFF0ZR4or) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [Cameo Parkway \- The Best Of 1956\-1958 \(Original Hit Recordings\)](https://open.spotify.com/album/4rUHBbkTCdGAbSQQAT5K1l) | 2:17 | 2020-07-08 | 2022-07-29 |
-| [Fabulous](https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [The Best of Charlie Gracie 1956\-1958](https://open.spotify.com/album/66wBL0yHGVfr6NFFrzMFPY) | 2:17 | 2020-07-08 |  |
+| [Fabulous](https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW) | [Charlie Gracie](https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN) | [The Best of Charlie Gracie 1956\-1958](https://open.spotify.com/album/66wBL0yHGVfr6NFFrzMFPY) | 2:17 | 2020-07-08 | 2023-02-12 |
 | [Feet Up](https://open.spotify.com/track/1ZVXSJy2bCeCVA1pYxfY4B) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Backline](https://open.spotify.com/album/2nyMmqTxkr1cmJpFnkhjXp) | 2:40 | 2020-07-08 | 2022-01-21 |
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2020-07-08 |  |
 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Capitol Years](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 | 2020-07-08 | 2022-01-02 |
@@ -107,6 +107,7 @@
 | [It Doesn't Matter Anymore](https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Buddy Holly Story](https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31) | 2:04 | 2020-07-08 |  |
 | [It's All In The Game](https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game: The Best Of Tommy Edwards](https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR) | 2:39 | 2020-07-08 | 2023-02-06 |
 | [It's All In The Game](https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [The Hits and More](https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ) | 2:39 | 2020-07-08 | 2022-07-29 |
+| [It's All In The Game \- 1951 Version](https://open.spotify.com/track/4rOzaygKTac4EVqhyjqWNL) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/4neoNV2NbKmPcTSzwMt628) | 2:38 | 2020-07-08 |  |
 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 | 2020-07-08 | 2022-11-13 |
 | [It's Only Make Believe](https://open.spotify.com/track/2FPHyyvfLMIV8GkUWWwYl5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/51F7RnOiVF6rI0e0Rpeobx) | 2:30 | 2020-07-08 | 2022-07-28 |
 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 | 2020-07-08 |  |

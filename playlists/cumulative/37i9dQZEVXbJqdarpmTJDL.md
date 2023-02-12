@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,025 songs - 2 day 7 hr 23 min
+1,026 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Dostojevski](https://open.spotify.com/track/6M75XRYsqc1Wj6y1kKJ32V) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [Dostojevski](https://open.spotify.com/album/0z65JNdu0qT2dqT90aIeVL) | 3:41 | 2021-09-16 | 2021-09-25 |
 | [Draco](https://open.spotify.com/track/6KoduR10TkW5lwKqjA6haa) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Draco](https://open.spotify.com/album/7LsiY2Gnt5af1lwGAFygHd) | 3:11 | 2021-06-02 | 2021-06-12 |
 | [Dream Team](https://open.spotify.com/track/0VtkQ7n4FdP6MhXHtVcynU) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Sickside](https://open.spotify.com/artist/2XURl3PiYtmMgwhOcVuhoU) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 2:51 | 2021-07-15 | 2021-07-17 |
+| [Drive By](https://open.spotify.com/track/2u3kkvRqcYi56BNXEX6hri) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Alitiz](https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM) | [Drive By](https://open.spotify.com/album/6q5vogVJGBjAurRpPH8VvE) | 3:13 | 2023-02-11 |  |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-04-18 |
 | [Dynata \- Ta Ta Ta](https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq) | [Stefanos Pitsiniagkas](https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE) | [Dynata \(Ta Ta Ta\)](https://open.spotify.com/album/00zlYdQFh5gtrsbFN2uePL) | 3:13 | 2021-12-18 | 2022-01-19 |
 | [Easy](https://open.spotify.com/track/67sYutaZnLRZd6rRfECgJg) | [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn) | [Easy](https://open.spotify.com/album/3DEzMMOJUd2AnsRKI12dQ1) | 2:22 | 2021-12-02 | 2021-12-07 |
@@ -970,7 +971,7 @@
 | [Umbrella \(with 21 Savage & Young Nudy\)](https://open.spotify.com/track/31De8hk4QgDsbS26w06h21) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:42 | 2022-12-04 | 2022-12-09 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-24 | 2022-11-06 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-26 | 2021-12-27 |
-| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 |  |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-02-12 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-01 |
 | [UNIQUE](https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [UNIQUE](https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv) | 2:40 | 2022-11-25 |  |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |

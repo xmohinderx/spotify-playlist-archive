@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 329871,
+  "num_followers": 330121,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwMjM4MSwwMDAwMDAwMGExODAyZWNiNDFhMzU5NTRlMzY1MTk4OGFhZDczZGE3",
+  "snapshot_id": "MTY3NTgwMjM4MSwwMDAwMDAwMDkwNGU4YzE0Y2Q5NGViOTFkOTY5ZGY4MzJlZmQ4MGUw",
   "tracks": [
     {
       "added_at": "2023-01-31 15:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Field of Joy",
-        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Beaujean",
-          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
-        }
-      ],
-      "duration_ms": 196446,
-      "name": "Field of Joy",
-      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159439,
       "name": "Days Passing By",
       "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Field of Joy",
+        "url": "https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Beaujean",
+          "url": "https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei"
+        }
+      ],
+      "duration_ms": 196446,
+      "name": "Field of Joy",
+      "url": "https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 176000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "in a room full of you",
+        "url": "https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI"
+      },
+      "artists": [
+        {
+          "name": "like gentle rain",
+          "url": "https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4"
+        }
+      ],
+      "duration_ms": 192816,
+      "name": "in a room full of you",
+      "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "in a room full of you",
-        "url": "https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI"
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
       },
       "artists": [
         {
-          "name": "like gentle rain",
-          "url": "https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4"
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
         }
       ],
-      "duration_ms": 192816,
-      "name": "in a room full of you",
-      "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "In Repose",
-        "url": "https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ"
-      },
-      "artists": [
-        {
-          "name": "Christopher Dicker",
-          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "In Repose",
-      "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Casa luminosa",
         "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 109565,
       "name": "Casa luminosa",
       "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "In Repose",
+        "url": "https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Dicker",
+          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
+        }
+      ],
+      "duration_ms": 142805,
+      "name": "In Repose",
+      "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "along the path",
-        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
-      },
-      "artists": [
-        {
-          "name": "Zecil Malka",
-          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
-        }
-      ],
-      "duration_ms": 127835,
-      "name": "along the path",
-      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "along the path",
+        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
+      },
+      "artists": [
+        {
+          "name": "Zecil Malka",
+          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
+        }
+      ],
+      "duration_ms": 127835,
+      "name": "along the path",
+      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Hommage d'amiti\u00e9",
-        "url": "https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x"
-      },
-      "artists": [
-        {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
-        }
-      ],
-      "duration_ms": 136648,
-      "name": "Hommage d'amiti\u00e9",
-      "url": "https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 184583,
       "name": "As I Dream",
       "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "Hommage d'amiti\u00e9",
+        "url": "https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "duration_ms": 136648,
+      "name": "Hommage d'amiti\u00e9",
+      "url": "https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Evenings",
         "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 112152,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3ret Labino",
-          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
-        }
-      ],
-      "duration_ms": 140799,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "duration_ms": 140799,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
         "name": "Le jardin de ma grand-m\u00e8re",
         "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+        "name": "Your Story",
+        "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
       },
       "artists": [
         {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+          "name": "Albin Svensson",
+          "url": "https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP"
         }
       ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+      "duration_ms": 106013,
+      "name": "From Above",
+      "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 122766,
       "name": "Mullaghmore",
       "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
-        "name": "Your Story",
-        "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
-      },
-      "artists": [
-        {
-          "name": "Albin Svensson",
-          "url": "https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP"
-        }
-      ],
-      "duration_ms": 106013,
-      "name": "From Above",
-      "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
     },
     {
       "added_at": "2023-01-31 15:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 159837,
-      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
-    },
-    {
-      "added_at": "2023-01-31 15:00:00",
-      "album": {
         "name": "Valse",
         "url": "https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK"
       },
@@ -1607,18 +1587,34 @@
     {
       "added_at": "2023-01-31 15:00:00",
       "album": {
-        "name": "Returning",
-        "url": "https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj"
+        "name": "Un Cadeau",
+        "url": "https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO"
       },
       "artists": [
         {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+          "name": "Nel Swerts",
+          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
         }
       ],
-      "duration_ms": 140250,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd"
+      "duration_ms": 157077,
+      "name": "Un Cadeau",
+      "url": "https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn"
+    },
+    {
+      "added_at": "2023-01-31 15:00:00",
+      "album": {
+        "name": "A Simpler Time",
+        "url": "https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 147124,
+      "name": "A Simpler Time",
+      "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
     }
   ],
   "unique_name": "Coffee and Piano",

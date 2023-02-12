@@ -4,7 +4,7 @@
 
 > jonatan leandoer96 makes anti pop.
 
-1,255 songs - 2 day 12 hr 41 min
+1,257 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-17 | 2022-02-23 |
 | [favorite song](https://open.spotify.com/track/4h9DDdqtoiamRfNMYTwvwE) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [favorite song](https://open.spotify.com/album/02EcgisWMMm96JVl6r0mjf) | 2:11 | 2021-08-09 | 2021-10-16 |
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/album/3dkB97Zw0sisRWTn0Wokjg) | 3:23 | 2020-10-13\* | 2021-03-26 |
+| [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-12 |  |
 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 | 2022-11-16 | 2023-01-29 |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2021-04-17 | 2022-12-15 |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-02-27 | 2022-02-12 |
@@ -436,6 +437,7 @@
 | [Good Enough](https://open.spotify.com/track/0SXL6pp8pxlbw1PajxGdKd) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Good Enough](https://open.spotify.com/album/3RAdBcSg942oIQg7WUhWCq) | 2:22 | 2021-09-11 | 2022-02-05 |
 | [good karma](https://open.spotify.com/track/6Ft6Oj7tWErhbPosiTlLET) | [Harrison Borts](https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv) | [good karma](https://open.spotify.com/album/290dPZhkOwAuPbGkeqVvrD) | 1:45 | 2023-01-13 | 2023-01-28 |
 | [GOOD MORNING](https://open.spotify.com/track/0WfLqYGOOSjwbw5iAGCt8k) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [GOOD MORNING](https://open.spotify.com/album/5v4Ny5kzCxrB4M7tKCufOZ) | 2:56 | 2022-10-25 | 2022-11-17 |
+| [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-12 |  |
 | [Goodmood](https://open.spotify.com/track/4arIMs14aBJkAfWe2alHUQ) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Goodmood](https://open.spotify.com/album/6c38wrxmxgszEF0oHhMYxr) | 2:41 | 2021-08-07 | 2022-07-09 |
 | [GOOFY!](https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GOOFY!](https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz) | 2:29 | 2022-05-11 | 2022-07-01 |
 | [Great Taste](https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [NAYANA IZ](https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm) | [Great Taste](https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB) | 2:10 | 2022-10-04 | 2023-01-21 |
@@ -941,7 +943,7 @@
 | [say it twice](https://open.spotify.com/track/6oq3j9MoTRXrphekijMsuw) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [say it twice](https://open.spotify.com/album/29veTNwE4muoyJbL8npEho) | 2:28 | 2022-03-25 | 2022-05-28 |
 | [Say Something](https://open.spotify.com/track/6NduQjYR9ElRhgSOAqdoOV) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Say Something](https://open.spotify.com/album/29got4zSooc6xgknMODGii) | 2:27 | 2022-02-11 | 2022-05-07 |
 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 | 2023-02-10 |  |
-| [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-09-02 |  |
+| [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-09-02 | 2023-02-12 |
 | [Say What You Mean](https://open.spotify.com/track/6A1BbPDPInXWXEegx7sFg4) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Say What You Mean](https://open.spotify.com/album/4yVGNNKjS0sx8TjgmIOua3) | 3:21 | 2022-11-18 | 2022-12-01 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2022-05-09 | 2022-07-23 |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-11-30 |  |
@@ -1220,7 +1222,7 @@
 | [WhoWho](https://open.spotify.com/track/68sThwPwwfp0Fb6zZ1ssWz) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [WhoWho](https://open.spotify.com/album/5DEOw8SSYtZGG3dbYEbLlJ) | 2:11 | 2020-10-13\* | 2021-05-03 |
 | [Wicked](https://open.spotify.com/track/5IqHdaox8fhgbexiZERTls) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Wicked](https://open.spotify.com/album/5uK7QoaqbiXkN5nMfz51qz) | 3:17 | 2021-09-19 | 2021-10-10 |
 | [Widdit](https://open.spotify.com/track/2xksvHleMQfe4V7XN5fJH9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Widdit](https://open.spotify.com/album/0ltqih4GxwPhCLZVIjag0o) | 2:31 | 2020-10-13\* | 2020-11-03 |
-| [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-14 |  |
+| [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-14 | 2023-02-12 |
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2020-10-13\* | 2021-01-23 |
 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 | 2022-02-04 | 2022-03-01 |
 | [Wildfire](https://open.spotify.com/track/0RXa5w1g5ZOWuvLHfQp64O) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4WSUVKsNHoAOVtGsAd4875) | 3:21 | 2022-02-28 | 2022-05-10 |

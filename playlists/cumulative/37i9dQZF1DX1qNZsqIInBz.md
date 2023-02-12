@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-126 songs - 5 hr 42 min
+127 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
 | [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2022-10-10 |  |
 | [Ghost of the Night](https://open.spotify.com/track/5kdJUmz4AmmSbHdFyIo4e8) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Ghost of the Night](https://open.spotify.com/album/5CXl9Cy4HeliJs461GoBGp) | 3:12 | 2022-10-10 | 2022-11-19 |
-| [Glass](https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6) | 2:23 | 2022-11-18 |  |
+| [Glass](https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/7fWxqA4vjA7lzAJDDBf1tv) | 2:23 | 2022-11-18 |  |
+| [Glass](https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6) | 2:23 | 2022-11-18 | 2023-02-12 |
 | [Going Deep](https://open.spotify.com/track/1BiXcHaaa4A8KYqA3bD0Oi) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/5xiRFjvRCLO0adzicqhZOs) | 3:32 | 2022-10-10 |  |
 | [Hallucination](https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD) | [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [Hallucination](https://open.spotify.com/album/7nNj9pxxPWn6WfYDS6r01W) | 2:33 | 2022-10-10 |  |
 | [HEAD\-ON COLLISION](https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [HEAD\-ON COLLISION](https://open.spotify.com/album/0KoWo621xx4T4cesytZCh5) | 2:00 | 2022-10-10 | 2022-11-19 |

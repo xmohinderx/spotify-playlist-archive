@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,719 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,749 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 62 | [Rosemary's Baby](https://open.spotify.com/track/2BVJMKbdz7XtEcsIDT0oAz) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/4EenSuWRkXoSrsMJEuvfE1) | 3:20 |
 | 63 | [Day of the Dead](https://open.spotify.com/track/3TrWVqco778i7hg88YQTgw) | [The Tiger Lillies](https://open.spotify.com/artist/72o2T9aqYR2PFNYpzYrMmw) | [Corrido De La Sangre](https://open.spotify.com/album/0u33GdU1jBMhI5SsTMkoFY) | 2:31 |
 | 64 | [El baile de las momias](https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r) | [Gangrena Surf](https://open.spotify.com/artist/1R18ekUeS9uxa1c9bSg6V8) | [En vivo Sesiones Nostromo](https://open.spotify.com/album/1oetk83qaS5s7UUhjnINAR) | 2:10 |
-| 65 | [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 |
+| 65 | [Chaneque](https://open.spotify.com/track/3ms6dhe1S9Z7i5hVznjWAV) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/5cNEKi8HUl4gC0lyCDVaCr) | 4:22 |
 | 66 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
 | 67 | [Horror en el hipermercado](https://open.spotify.com/track/1QWFEgLerDW7s8N7emXMTS) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Grandes Éxitos \- Edición Para Coleccionistas](https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP) | 2:21 |
 | 68 | [Dracula](https://open.spotify.com/track/2acy7zzNEjWMpY6mg91h5N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDJkMTJkYjAzZTc4N2NkNjA2ZmJiYWE4MzI2NjFlYzgw`
+Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDE1NjNiNTQ0MGNiM2FlZGMyOTRjN2ZkYzQ5M2ZmNGYz`

@@ -4,7 +4,7 @@
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-214 songs - 17 hr 29 min
+215 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Heroes \- Live](https://open.spotify.com/track/73jf0RjsUqOPDoKuKhawbq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [A Reality Tour](https://open.spotify.com/album/0izhrQQ2IKmo3k02mN91zA) | 6:58 | 2023-01-31 |  |
 | [Hey Jude \- Live](https://open.spotify.com/track/0hospr5viAnCPJuGCRCEz5) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tripping The Live Fantastic](https://open.spotify.com/album/0kaRUxrggtrnJbojB8SHLZ) | 8:03 | 2023-01-31 |  |
 | [Holiday \- Live](https://open.spotify.com/track/00DSX5KlpCeYrvx2BSuf7w) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart Tour \(Live\)](https://open.spotify.com/album/4hBA7VgOSxsWOf2N9dJv2X) | 5:44 | 2023-01-31 |  |
-| [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/track/4KSpUKPGDs5Imky67qErmy) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Home Again \(Live From Central Park, New York City, May 26, 1973\)](https://open.spotify.com/album/2YreZT5h52SHMGCOZsEHQX) | 2:43 | 2023-01-31 |  |
+| [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/track/0Hu4S65BK6WAmQHQ9EP4v1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/album/50CaGSXy1G8maVQypYXbxr) | 2:43 | 2023-01-31 |  |
+| [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/track/4KSpUKPGDs5Imky67qErmy) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Home Again \(Live From Central Park, New York City, May 26, 1973\)](https://open.spotify.com/album/2YreZT5h52SHMGCOZsEHQX) | 2:43 | 2023-01-31 | 2023-02-12 |
 | [Hotel California \- Live; 1999 Remaster](https://open.spotify.com/track/5JU7FgGJqgGPUaJA2nhZvm) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles Live](https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2) | 7:00 | 2023-01-31 |  |
 | [I Will Always Love You \- Live from The Concert for a New South Africa](https://open.spotify.com/track/2be59uHmn17ejuv4bXF5oo) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 5:59 | 2023-01-31 |  |
 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 | 2023-01-31 |  |

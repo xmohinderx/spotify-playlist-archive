@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Central Cee, YG and more\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,614 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,697 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [Empty Stomach](https://open.spotify.com/track/0SqvXRAk5lKwHNkp1aUfHo) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Lost In Melody](https://open.spotify.com/album/5T3IUCaNX06cTAk38oZlIj) | 3:05 |
 | 27 | [PSSYONFT](https://open.spotify.com/track/2eMoahIB5Pe0d9wMAgbUbQ) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [PSSYONFT](https://open.spotify.com/album/7GrHxNj9AuJV7yIXQEAJMv) | 1:43 |
 | 28 | [Mandem](https://open.spotify.com/track/6hLZ6G18DmYbBIccZoqdrV) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Mandem](https://open.spotify.com/album/56FeaICCMSpW6rHOUjVEzs) | 2:11 |
-| 29 | [Khalifa Mode](https://open.spotify.com/track/75PjKUc41qv11DTQK9Zd04) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [KHALIFA MODE](https://open.spotify.com/album/0i5HsCJw4ZPoxIVBPSGH8Z) | 3:07 |
+| 29 | [KHALIFA MODE](https://open.spotify.com/track/75PjKUc41qv11DTQK9Zd04) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [KHALIFA MODE](https://open.spotify.com/album/0i5HsCJw4ZPoxIVBPSGH8Z) | 3:07 |
 | 30 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 |
 | 31 | [Stranded & Abandoned](https://open.spotify.com/track/5apxXSEkI7jsoJYWQ74Tfo) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD) | [Stranded & Abandoned](https://open.spotify.com/album/2Aevve5G32Y1B4d8FTOeYa) | 3:01 |
 | 32 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 |

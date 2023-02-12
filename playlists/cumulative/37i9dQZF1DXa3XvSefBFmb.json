@@ -4595,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3RlHbp1yJFvvBnJWZQyd3n"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270635,
+      "name": "oxal\u00e1",
+      "url": "https://open.spotify.com/track/32ufWfmHa4z61ycWzP3L7P"
+    },
+    {
+      "album": {
         "name": "oxal\u00e1",
         "url": "https://open.spotify.com/album/7bmqrprnXd6k06srmXagPF"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 271073,
       "name": "oxal\u00e1",
       "url": "https://open.spotify.com/track/65yHOhKHCQ9AIJw4ZAPgS3"

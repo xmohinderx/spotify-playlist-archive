@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141405,
+  "num_followers": 141419,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDY4ZTE0YzljZTNjMWY1ZjY3MGU0ODZjMzhiYWU0NDEz",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDQ2MDFmNjZiYTMyNTQ2YTgyODU0MDRiNzJmZmFmMzNm",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "On the Same Track",
-        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
-      },
-      "artists": [
-        {
-          "name": "Nightlife",
-          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Paloma Sin Nido",
-      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Nunca Voy A Olvidarte (Radio Mix)",
         "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 198216,
       "name": "Nunca Voy A Olvidarte - Radio Mix",
       "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "On the Same Track",
+        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
+      },
+      "artists": [
+        {
+          "name": "Nightlife",
+          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Paloma Sin Nido",
+      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Por Fin Decid\u00ed",
-        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
-      },
-      "artists": [
-        {
-          "name": "South TX Homies",
-          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Por Fin Decid\u00ed",
-      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "As\u00ed Fue",
         "url": "https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 283628,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Por Fin Decid\u00ed",
+        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
+      },
+      "artists": [
+        {
+          "name": "South TX Homies",
+          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Por Fin Decid\u00ed",
+      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208979,
       "name": "Nunca Fuiste Mio",
       "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2023-01-27 17:40:01",

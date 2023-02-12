@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,365 likes - 58 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,504 likes - 58 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 25 | [Paint It In Blood](https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd) | [The Tryals](https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs) | [Paint It In Blood](https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt) | 3:08 |
 | 26 | [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 |
 | 27 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 |
-| 28 | [WRAITH](https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy) | 3:19 |
+| 28 | [WRAITH](https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:19 |
 | 29 | [F.E.A.R](https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [F.E.A.R](https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz) | 2:08 |
 | 30 | [Snake](https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ) | [No Face No Case](https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ) | [Flex Fiesta](https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb) | 3:08 |
 | 31 | [Until Falling](https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Until Falling](https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc) | 4:22 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 57 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
 | 58 | [Chlorine Tears](https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Chlorine Tears](https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu) | 3:57 |
 
-Snapshot ID: `MTY3NjA0NDgxOCwwMDAwMDAwMDlkZDM3MjQ5ZTM5NDdiY2JkNmQ0MWQxODUxYjgwOGE2`
+Snapshot ID: `MTY3NjA0NDgxOCwwMDAwMDAwMDVjZDRhYWNhNzE2YzRkZTE1ZDY1NDNmMjY4ZDU2NDBh`

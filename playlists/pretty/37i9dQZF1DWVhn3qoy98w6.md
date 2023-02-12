@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Lucy Calcines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,488 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,492 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 39 | [No me sale](https://open.spotify.com/track/3efvhmDlCMA5aDLu82S2se) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [No me sale](https://open.spotify.com/album/3yhZEgRVHLUCQ5jbg3hTVb) | 3:03 |
 | 40 | [No Sé Lo Que Sientes](https://open.spotify.com/track/3VsOQT7S8VveaveFcXpqgQ) | [Sabela](https://open.spotify.com/artist/78fi6hiTjEQH8KQLzDqVRg) | [No Sé Lo Que Sientes](https://open.spotify.com/album/0wx6CarAmIW4f7F3FZMkNL) | 3:17 |
 | 41 | [Sé que duda](https://open.spotify.com/track/7iO76oGRAbCesh40vWU2kx) | [AKA Matador](https://open.spotify.com/artist/1QoUyBQnfHKfv9S80S2UjE) | [Sé que duda](https://open.spotify.com/album/3sRovFMDNmMggT6Fc4s1q8) | 3:04 |
-| 42 | [mil dolores](https://open.spotify.com/track/3SSVWaR6cRbFpnFwr9OdJU) | [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26), [Pau FV](https://open.spotify.com/artist/7cG43OOgBk7eunGbkj84W0) | [mil dolores](https://open.spotify.com/album/0Lj722j2YlVYCw2avqf6PW) | 3:17 |
+| 42 | [mil dolores](https://open.spotify.com/track/3SSVWaR6cRbFpnFwr9OdJU) | [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26), [Pau FV](https://open.spotify.com/artist/7cG43OOgBk7eunGbkj84W0) | [mil dolores](https://open.spotify.com/album/0Lj722j2YlVYCw2avqf6PW) | 2:46 |
 | 43 | [El Primero](https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [El Primero](https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H) | 3:11 |
 | 44 | [Pluto](https://open.spotify.com/track/0MB0r8kV3q5Ev5wnus5sW2) | [bee](https://open.spotify.com/artist/67cRv3IqYI4b4rZTUg7BBs) | [Pluto](https://open.spotify.com/album/4smzOknX4k64uDt1wDYHkd) | 3:44 |
 | 45 | [FARLOPERO](https://open.spotify.com/track/1Xxa21kWq4GIjS7TdYnsJv) | [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy), [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [FARLOPERO](https://open.spotify.com/album/79VZ98TH7Bsi5zigDVnzb8) | 2:27 |

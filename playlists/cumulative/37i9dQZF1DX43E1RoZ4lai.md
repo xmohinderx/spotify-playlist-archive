@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-390 songs - 1 day 10 hr 46 min
+391 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [My Funny Valentine](https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 7:42 | 2022-02-10 |  |
 | [My Funny Valentine](https://open.spotify.com/track/6DiEsD2Az3aiHfPbw9YIlX) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My Funny Valentine](https://open.spotify.com/album/7G76oUsCSR0H1jKt4V17xt) | 7:42 | 2022-02-10 | 2022-07-29 |
 | [My Ideal 1](https://open.spotify.com/track/0N0TlAikYM9i5lphpv04WR) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 3:39 | 2022-04-01 |  |
+| [My Old Kentucky Home](https://open.spotify.com/track/3XHgj5ZFufq2tsDqSdVxND) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [My Old Kentucky Home](https://open.spotify.com/album/6PQpjF4PM3uj5JS0JjLOCa) | 3:48 | 2022-12-02 |  |
 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 | 2022-02-10 |  |
 | [My Travel with Claude II](https://open.spotify.com/track/7lU1j9baaoN49ELHR19B8t) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP) | [My Travel with Claude II](https://open.spotify.com/album/034ZmhgV9Wkujg5fpCz8Sv) | 2:11 | 2022-05-27 |  |
 | [Mélodie Antique](https://open.spotify.com/track/2L0ujQzBIcJK0QbkNwYe9v) | [Rembrandt Frerichs Trio](https://open.spotify.com/artist/2H75TL6LvETU2bZsPfgsNw) | [A Wind Invisible Sweeps Us Through the World](https://open.spotify.com/album/1gxVL6F54U6sdgSo74ivw4) | 3:49 | 2022-02-10 |  |
@@ -296,7 +297,7 @@
 | [Soon](https://open.spotify.com/track/1wUKt5OLSysdZtY82AqU7q) | [Walter Lang Trio](https://open.spotify.com/artist/09aOkN1nTVvk6O1TXjqP4v) | [Tens](https://open.spotify.com/album/1bncSTvbiDyg1IjaxUOAwo) | 4:55 | 2022-02-10 | 2022-08-19 |
 | [Sort Of](https://open.spotify.com/track/4pKDIv47umfFU4RMMM7899) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 7:06 | 2022-02-10 | 2022-09-03 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-12-02 |  |
-| [Speak](https://open.spotify.com/track/1LAhdhtcpPhCO84G4eUYD9) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 6:08 | 2022-02-25 |  |
+| [Speak](https://open.spotify.com/track/1LAhdhtcpPhCO84G4eUYD9) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 6:08 | 2022-02-25 | 2023-02-12 |
 | [Speak No Evil](https://open.spotify.com/track/4kVGc71fMPCXATREYnLD6s) | [George Cables](https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R) | [I'm All Smiles](https://open.spotify.com/album/1jPx3x1uMoVnWUfMgmRkKe) | 5:46 | 2022-02-10 | 2022-09-03 |
 | [Splatter](https://open.spotify.com/track/5OqXN3uTGnRpcbJ0rv1weF) | [Jussi Fredriksson Trio](https://open.spotify.com/artist/5o52BOj8untw6hOzTjmRsi) | [Splatter](https://open.spotify.com/album/5r1jyueqMpV7rYvLjTusXS) | 7:16 | 2022-02-10 | 2022-10-11 |
 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 | 2022-02-10 |  |

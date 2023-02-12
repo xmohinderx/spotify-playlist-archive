@@ -944,10 +944,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
+    },
+    {
+      "album": {
+        "name": "Meu Valor",
+        "url": "https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Meu Valor",
+      "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,712 likes - 352 songs - 17 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,768,572 likes - 352 songs - 17 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 78 | [Unavailable](https://open.spotify.com/track/3JvHEEbo89vp4EJw0PZMPJ) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Unavailable](https://open.spotify.com/album/7lVSPvGUyW0OFAxUpgNkmP) | 3:19 |
 | 79 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 |
 | 80 | [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 |
-| 81 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 |
+| 81 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha's Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 |
 | 82 | [The Change Of Seasons](https://open.spotify.com/track/1iGuSsBQT3JPnJtg0Advjz) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [The Change Of Seasons](https://open.spotify.com/album/5IzJnkYUl0sbEqzpO4O1Ed) | 2:44 |
 | 83 | [Reflections](https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Reflections](https://open.spotify.com/album/5HFHTBrxqpifCFFd4nZ28k) | 2:38 |
 | 84 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 |

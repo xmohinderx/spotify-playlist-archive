@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
@@ -2108,6 +2108,24 @@
       "duration_ms": 187120,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
+    },
+    {
+      "album": {
+        "name": "Blood on the Tracks",
+        "url": "https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309999,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/2JOqCLqtyB8M9yY32isEBD"
     },
     {
       "album": {

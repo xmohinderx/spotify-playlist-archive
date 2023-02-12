@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,903 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,024 likes - 100 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 86 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 87 | [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 |
 | 88 | [Have You Met Miss Jones?](https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Red Callender](https://open.spotify.com/artist/25l7ALS0IGoUzvsfYtcIRi), [Bill Douglass](https://open.spotify.com/artist/1shwhY3Rqo1z8BPnTLWpPN) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 4:45 |
-| 89 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
-| 90 | [Exactly Like You](https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:00 |
+| 89 | [Exactly Like You](https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:00 |
+| 90 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
 | 91 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
 | 92 | [Can't We Be Friends \- Remastered](https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:19 |
 | 93 | [They Can't Take That Away From Me](https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:18 |
 | 94 | [Falling in Love with Love](https://open.spotify.com/track/47wToAWMFORf7uL8V62a82) | [Eddie Higgins](https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92) | [Anticipation](https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY) | 4:36 |
 | 95 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 |
 | 96 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 |
-| 97 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
-| 98 | [Someone to Watch Over Me](https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw) | [Teddy Wilson Trio](https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7) | [Take Five: Jazz Classics](https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3) | 3:05 |
-| 99 | [Long Ago \(And Far Away\)](https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:05 |
-| 100 | [What Is This Thing Called Love?](https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:03 |
+| 97 | [Long Ago \(And Far Away\)](https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:05 |
+| 98 | [What Is This Thing Called Love?](https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:03 |
+| 99 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
+| 100 | [Someone to Watch Over Me](https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw) | [Teddy Wilson Trio](https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7) | [Take Five: Jazz Classics](https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3) | 3:05 |
 
-Snapshot ID: `MTY3NjAxNTcwMywwMDAwMDAwMDc5OTEzYmU2MzUzYWI3YThhMzhiMzg0NGQ0OWZiNTA3`
+Snapshot ID: `MTY3NjAxNTcwMywwMDAwMDAwMGYxZjYzYjgwMmY4ZDRkOTUxZjAwYzFjZWEyNTI1MTcw`

@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-460 songs - 1 day 4 hr 51 min
+461 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-10-22 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 | 2022-12-22 |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2021-10-22 |  |
+| [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 |  |
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-02-25 |  |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-06-24 |  |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-10-22 | 2022-07-29 |
@@ -267,7 +268,7 @@
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-06-24 |  |
 | [Man Made by Delusion](https://open.spotify.com/track/72viqbBEmuLMYwtgWfKHhB) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Man Made by Delusion](https://open.spotify.com/album/25g7XoaBj4kvbG6lDAnEmw) | 3:24 | 2022-04-22 | 2022-11-21 |
 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 | 2021-10-22 |  |
-| [Market and Black \(feat\. Tennis\)](https://open.spotify.com/track/3c7e3fqRHJAjEPStCOfDDF) | [Griffy Jams](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Comfortably High](https://open.spotify.com/album/63T4B7eiV6fz3BfeFo1mXL) | 3:28 | 2022-06-24 |  |
+| [Market and Black \(feat\. Tennis\)](https://open.spotify.com/track/3c7e3fqRHJAjEPStCOfDDF) | [Griffy Jams](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Comfortably High](https://open.spotify.com/album/63T4B7eiV6fz3BfeFo1mXL) | 3:28 | 2022-06-24 | 2023-02-12 |
 | [Market and Black \(feat\. Tennis\)](https://open.spotify.com/track/7bSOlKTFSgS1zTRfPNaOZw) | [Griffy Jams](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Market and Black \(feat\. Tennis\)](https://open.spotify.com/album/0JmmdX61PmOXLKt6sU0hQ3) | 3:28 | 2021-10-22 | 2022-07-27 |
 | [Marrow](https://open.spotify.com/track/4j8EP3Us4LpzLu1dpsMwZa) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Glade](https://open.spotify.com/album/2jLbcCta4ORz1pnrSR24dj) | 3:14 | 2022-04-13 | 2022-04-21 |
 | [Masterpiece \- \(solo\)](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-06-24 |  |

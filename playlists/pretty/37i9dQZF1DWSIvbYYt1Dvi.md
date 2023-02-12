@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > adl haridade marecha rd tia leci é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,126 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,289 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
+| 1 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
 | 2 | [To de Pé](https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:22 |
 | 3 | [Respeitosamente](https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Respeitosamente](https://open.spotify.com/album/1JcZLFNFMDpXGJGVlCCJ5x) | 4:11 |
 | 4 | [Mil Motivos](https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mil Motivos](https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim) | 3:08 |

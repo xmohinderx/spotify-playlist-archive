@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,747 likes - 315 songs - 17 hr 6 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,746 likes - 315 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 |
-| 2 | [knight to E5](https://open.spotify.com/track/79DFcXX6Tz8dulqbA6v1wN) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [knight to E5](https://open.spotify.com/album/4lqIhxI4OG0NZD43q2ka1m) | 2:28 |
+| 2 | [knight to e5](https://open.spotify.com/track/79DFcXX6Tz8dulqbA6v1wN) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [knight to e5](https://open.spotify.com/album/4lqIhxI4OG0NZD43q2ka1m) | 2:28 |
 | 3 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 |
 | 4 | [OH! Not Again](https://open.spotify.com/track/5RtmIaz3UUmpdtpFJkfYT5) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [OH! Not Again](https://open.spotify.com/album/4o7f1qgkeQfwuKM5AAMnWl) | 2:58 |
 | 5 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |

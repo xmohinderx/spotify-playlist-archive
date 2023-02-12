@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,724 likes - 1,172 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,774 likes - 1,172 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/5PP3y51Sfrv9kcGtVZqIWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelliğin On Para Etmez](https://open.spotify.com/album/2zpwSb7QP9cFD2aag9JzBQ) | 3:46 |
-| 2 | [Pra Trás](https://open.spotify.com/track/5H589dVcd2GXijHjcM1qoK) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4hcnI5z6bdi00Bfxb6Ahzg) | 3:11 |
+| 2 | [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 |
 | 3 | [Tin Hinane](https://open.spotify.com/track/6Rsi9LoLZ6EjumotqsY7HN) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 4:17 |
 | 4 | [Lagos Sisi](https://open.spotify.com/track/6yM82PxMywRHehdoQgQT8p) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1) | [Man No Die](https://open.spotify.com/album/0oQKeXlY2O4QAP83DUn2n5) | 3:23 |
 | 5 | [Agboju Logun](https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 11:33 |
@@ -1181,4 +1181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1171 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1172 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMDk4NzNhM2VmNzFkYmQ5ZTdmNmVmMmExMTI0MDI4YzJm`
+Snapshot ID: `MTY3NTg0NjgwMCwwMDAwMDAwMDdiOWNkMDQxNWUxMDdjMGEzNDE1YzMyMDBlZmZkMTYx`

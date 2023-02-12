@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 55535,
+  "num_followers": 55571,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGY3MDNjYmE2N2YzNzI5ZmZmMDVhMDk0Zjg0ZTk2ZWU5",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDQ4NjhkMmI0MDAxMDhhYzczYWQyOWM4ZGI2ZjUyOGM5",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -231,6 +231,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "First Wave",
+        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+      },
+      "artists": [
+        {
+          "name": "Roland Tings",
+          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+        }
+      ],
+      "duration_ms": 278755,
+      "name": "First Wave",
+      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
         "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
       },
@@ -251,38 +267,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "First Wave",
-        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
-      },
-      "artists": [
-        {
-          "name": "Roland Tings",
-          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
-        }
-      ],
-      "duration_ms": 278755,
-      "name": "First Wave",
-      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 342032,
       "name": "Floppy - Marlon Hoffstadt's Energy Bells Mix",
       "url": "https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -459,6 +459,30 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Nefertiti (Red Axes Remix)",
+        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
+      },
+      "artists": [
+        {
+          "name": "Futuro Pelo",
+          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
+        },
+        {
+          "name": "Neysa May",
+          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
+        },
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nefertiti - Red Axes Remix",
+      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -499,26 +523,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Nefertiti (Red Axes Remix)",
-        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
+        "name": "Street Rave EP",
+        "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
       },
       "artists": [
         {
-          "name": "Futuro Pelo",
-          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
-        },
-        {
-          "name": "Neysa May",
-          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
-        },
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Nefertiti - Red Axes Remix",
-      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+      "duration_ms": 241889,
+      "name": "Street Rave - Edit",
+      "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -539,22 +555,6 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Street Rave EP",
-        "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "Street Rave - Edit",
-      "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
     },
     {
       "added_at": "2021-08-27 15:45:01",

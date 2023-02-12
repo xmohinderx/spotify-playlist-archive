@@ -351,6 +351,36 @@
     },
     {
       "album": {
+        "name": "Assassin's Creed Valhalla: Twilight of the Gods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3WDVwd8Ns69Pryp0A6ETL5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Schachner",
+          "url": "https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
+      "url": "https://open.spotify.com/track/59FMS2jznmqwLYx1Noa6H4"
+    },
+    {
+      "album": {
         "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
       },
@@ -370,7 +400,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 195440,
       "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
       "url": "https://open.spotify.com/track/2hQIeYuMXRrvCASE6kB37E"
@@ -1382,10 +1412,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 221440,
       "name": "Kingdom of Wessex",
       "url": "https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Valhalla: Out of the North (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1XVLOMqM70YmlLnkLCWAR8"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Kingdom of Wessex",
+      "url": "https://open.spotify.com/track/3wNSZ0ZowXgUeO4sEEHMRw"
     },
     {
       "album": {

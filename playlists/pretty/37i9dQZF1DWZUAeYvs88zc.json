@@ -1,12 +1,12 @@
 {
   "description": "Queen of the Sad Bops Ava Max takes over! Ava's picks at the top.",
-  "num_followers": 511680,
+  "num_followers": 511907,
   "original_name": "Sad Bops ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDhiYWEyYzM4YTk1NTY5OGMwMmI2ZDE3NDYwMjY2ZGU0",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGRhNGMyYThiNDIwMTFiYjgwZmViN2E5YWUxMGZmOTRh",
   "tracks": [
     {
       "added_at": "2023-02-10 05:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
         "name": "Stupid Feelings",
         "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     }
   ],
   "unique_name": "Sad Bops ",

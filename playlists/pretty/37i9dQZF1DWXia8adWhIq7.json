@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 60451,
+  "num_followers": 60490,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDBjM2NhZDkzZmUzZjNmODA3MGRhMTVhOGJjZTBjZjM5",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDk2NWI5NmRhYzViNWM4N2FkMWM0ZWZhZWM1NWZhZDY1",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -235,22 +235,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Aprendiz",
-        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
+        "name": "Me Ensina a Viver",
+        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
       },
       "artists": [
         {
           "name": "Clovis",
           "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 222403,
-      "name": "Aprendiz",
-      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
+      "duration_ms": 310312,
+      "name": "Me Ensina a Viver",
+      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Me Ensina a Viver",
-        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
       },
       "artists": [
         {
           "name": "Clovis",
           "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 310312,
-      "name": "Me Ensina a Viver",
-      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
+      "duration_ms": 222403,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "\u00c9 de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196306,
       "name": "\u00c9 de Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Teu Reino Venha",
         "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 193388,
       "name": "Sabe Tudo",
       "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
+        },
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Ac\u00fastico Talita Barreto",
         "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
       },
@@ -779,22 +799,6 @@
       "duration_ms": 136626,
       "name": "Vida Leve",
       "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Por Completo",
-        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Te Vejo L\u00e1",
-      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -843,6 +847,22 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Por Completo",
+        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Te Vejo L\u00e1",
+      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 180263,
       "name": "A Voz do Brasil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Batida",
+        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 244539,
+      "name": "Batida",
+      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Batida",
-        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 244539,
-      "name": "Batida",
-      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Mostra-Me Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
@@ -1115,6 +1131,22 @@
       "duration_ms": 230208,
       "name": "Mostra-Me Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 215057,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1135,22 +1167,6 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Tua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
-      },
-      "artists": [
-        {
-          "name": "Carol Aguiar",
-          "url": "https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m"
-        }
-      ],
-      "duration_ms": 235997,
-      "name": "Tua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Manuscrito",
         "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amado",
-        "url": "https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE"
+        "name": "Tua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Carol Aguiar",
+          "url": "https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m"
         }
       ],
-      "duration_ms": 250909,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV"
+      "duration_ms": 235997,
+      "name": "Tua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1411,6 +1391,26 @@
       "duration_ms": 186947,
       "name": "Eu S\u00f3 Pe\u00e7o a Deus",
       "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Amado",
+        "url": "https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV"
     }
   ],
   "unique_name": "Pop Gospel",

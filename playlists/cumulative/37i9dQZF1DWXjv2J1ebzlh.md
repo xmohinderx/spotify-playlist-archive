@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,892 songs - 5 day 7 hr 22 min
+1,893 songs - 5 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1420,7 +1420,8 @@
 | [Pontos De Luz](https://open.spotify.com/track/0mekH100PMCDd0vFCevK1F) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/11mJVWvXaOcnrdyX1dKjSc) | 2:41 | 2022-06-09 | 2022-07-29 |
 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 | 2022-07-27 |  |
 | [Power to My People](https://open.spotify.com/track/1GQfs3yeL9Wh4bVwV9sgiZ) | [Sidiku Buari And His Jam Busters](https://open.spotify.com/artist/5F25S8XFM4yT9UZ0MAqCg1) | [Sidiku Buari and His Jam Busters](https://open.spotify.com/album/56p9BGQDAm6XPKeGbER942) | 4:32 | 2022-06-09 |  |
-| [Pra Trás](https://open.spotify.com/track/5H589dVcd2GXijHjcM1qoK) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4hcnI5z6bdi00Bfxb6Ahzg) | 3:11 | 2023-02-08 |  |
+| [Pra Trás](https://open.spotify.com/track/5H589dVcd2GXijHjcM1qoK) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4hcnI5z6bdi00Bfxb6Ahzg) | 3:11 | 2023-02-08 | 2023-02-12 |
+| [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-08 |  |
 | [President Kennedy](https://open.spotify.com/track/3rRAWOWdm28WhJv63SkJYZ) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Studio One Ska](https://open.spotify.com/album/0rb7M19pl1lRSboIKvoxEv) | 2:52 | 2022-06-09 |  |
 | [Psalms Of Dub](https://open.spotify.com/track/3PSdpClqt1twjMU5Uf0K1T) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [At The Controls](https://open.spotify.com/album/1iU4w9HokgiSYHDAwuhf9Q) | 3:01 | 2022-06-09 |  |
 | [Puerto Rican Soul](https://open.spotify.com/track/151cKOWN9UK8DfBVT9egRz) | [Pete Bonet](https://open.spotify.com/artist/6j3gjZ5JMbOo7Y3nkMVqdC) | [El Barrio: Gangsters Latin Soul And The Birth Of Salsa 1967 \- 1975](https://open.spotify.com/album/2lVQQwo3Boql0qwJ6Zgfbs) | 4:04 | 2022-07-12 |  |

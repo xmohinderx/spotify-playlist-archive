@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: VYBES\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,437 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,446 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 17 | [อุ่นหัวใจ \(I Got You\)](https://open.spotify.com/track/1W0fdG2Ucq8kRDwlZArKev) | [Opkhwan](https://open.spotify.com/artist/07bCRCOjJnqmlK3jdyKcd8) | [อุ่นหัวใจ \(I Got You\)](https://open.spotify.com/album/5tTPVpiV05kn7BH5ZrtD7b) | 3:07 |
 | 18 | [ราคาหัวใจ](https://open.spotify.com/track/15tO7fohrB5OT09Fi4p0Io) | [PINGx](https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh) | [ราคาหัวใจ](https://open.spotify.com/album/2hkdCpnA5z0mkYvEfgUeaE) | 4:12 |
 | 19 | [Dark Chocolate](https://open.spotify.com/track/3kJOuQUJ9s7U23RggAaGVN) | [Mariko](https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO) | [Dark Chocolate](https://open.spotify.com/album/1RmBS6icflpHfzfIfA4MDa) | 3:17 |
-| 20 | [SWEAT](https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK) | [Top Piyawat](https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F) | [SWEAT](https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN) | 3:24 |
+| 20 | [เหงื่อไหล \(SWEAT\)](https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK) | [Top Piyawat](https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F) | [เหงื่อไหล \(SWEAT\)](https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN) | 3:24 |
 | 21 | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/track/6tmtyHkCoThebRebVExgiv) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/album/2H9WfFr1lQh9z09tOp8dFs) | 3:41 |
 | 22 | [ไม่ใช่คนจีน](https://open.spotify.com/track/0ozpnuvi3kAle9vZHRwvs8) | [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [ไม่ใช่คนจีน](https://open.spotify.com/album/1TofX5caKbOiDn6DRl57Rp) | 3:03 |
 | 23 | [เฟื่อน \(Spectrum\)](https://open.spotify.com/track/2KUjzr5waaefeog3hfMjSh) | [Nine](https://open.spotify.com/artist/49UULaSQTVE7oWxxhh90RK) | [เฟื่อน \(Spectrum\)](https://open.spotify.com/album/2nDDvbmOU1MOBUbJbMbwQ8) | 3:25 |

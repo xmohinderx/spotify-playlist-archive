@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Swami Sound\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,853 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,895 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 4 | [give my all to you](https://open.spotify.com/track/1x8KG9Se6s5wMTXQ6m9Pv1) | [good and you](https://open.spotify.com/artist/30ICVwd1mcsoRk8BG2o5ml) | [give my all to you](https://open.spotify.com/album/0W1ljWTu5XwYKYT0LLCFfb) | 2:57 |
 | 5 | [When You Wake](https://open.spotify.com/track/6VjDtChLNhmF8Wm5CU3Pbk) | [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [Eventually](https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ) | 4:35 |
 | 6 | [So Close](https://open.spotify.com/track/7ad7oGYJdz0DKXt2hXLJoS) | [Ango](https://open.spotify.com/artist/7vVIuca8HvlM60Q6O4p8s5) | [So Close](https://open.spotify.com/album/6OHoOcErZM2y1CHnkE7mlg) | 4:58 |
-| 7 | [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/3kgROi1kqtJl48OMmG8AZK) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 |
+| 7 | [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 |
 | 8 | [After the fact](https://open.spotify.com/track/2QBUUcK9z0RgDNSEljKDPC) | [Skyalit Kill](https://open.spotify.com/artist/6Q5NOJb8lflMmqvkaZ3chx) | [After the fact](https://open.spotify.com/album/1esZRDqhXhZ8li04RPDr4p) | 4:55 |
 | 9 | [Another Brainstorm](https://open.spotify.com/track/5AwuWTECxyiSEMrMH7Xyka) | [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP) | [Another Brainstorm](https://open.spotify.com/album/3vw3whYL7P12DQquD0XOPC) | 4:58 |
 | 10 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 |

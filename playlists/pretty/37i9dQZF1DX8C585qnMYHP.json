@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with RUMTUM on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 101370,
+  "num_followers": 101406,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NDI3MywwMDAwMDAwMDMxOTk0YWUzM2IzZTFiMGQxNWIzNzE0OGQ3NjkwOGQz",
+  "snapshot_id": "MTY3NTk0NDI3MywwMDAwMDAwMDYzNTM2MzljMjgwYjg0ZTQwYjNkNDM3ZjkyMWZhZGRi",
   "tracks": [
     {
       "added_at": "2023-02-01 16:47:43",
@@ -449,38 +449,6 @@
       "url": "https://open.spotify.com/track/64mNNFCixd4xABuozznJ55"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "You Do It",
-        "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
-      },
-      "artists": [
-        {
-          "name": "Marlene Ribeiro",
-          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
-        }
-      ],
-      "duration_ms": 441840,
-      "name": "You Do It",
-      "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "The Truth Is",
@@ -515,18 +483,38 @@
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Immature",
-        "url": "https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa"
+        "name": "Oportet 475",
+        "url": "https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK"
       },
       "artists": [
         {
-          "name": "Lisel",
-          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
+        },
+        {
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Immature",
-      "url": "https://open.spotify.com/track/0W4p2qCSHBambiI5dAAtzr"
+      "duration_ms": 185069,
+      "name": "Buffering Proem",
+      "url": "https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "You Do It",
+        "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
+      },
+      "artists": [
+        {
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
+        }
+      ],
+      "duration_ms": 441840,
+      "name": "You Do It",
+      "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -543,6 +531,38 @@
       "duration_ms": 262770,
       "name": "Go Oli Go!",
       "url": "https://open.spotify.com/track/3MLXwPXiPFTEoGoh9uRp6K"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa"
+      },
+      "artists": [
+        {
+          "name": "Lisel",
+          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/0W4p2qCSHBambiI5dAAtzr"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -575,26 +595,6 @@
       "duration_ms": 266899,
       "name": "Song for Making Things Right",
       "url": "https://open.spotify.com/track/7ETzF0iKS5jSpel1ide2zM"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Oportet 475",
-        "url": "https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK"
-      },
-      "artists": [
-        {
-          "name": "Ze in the Clouds",
-          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
-        },
-        {
-          "name": "LNDFK",
-          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
-        }
-      ],
-      "duration_ms": 185069,
-      "name": "Buffering Proem",
-      "url": "https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -745,24 +745,20 @@
       "url": "https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
+      "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Laniakea",
-        "url": "https://open.spotify.com/album/4DabfAUYqOkf592Dx9l2UP"
+        "name": "50 Rapid",
+        "url": "https://open.spotify.com/album/12KHiQS2bGzMYY7BRgGbaE"
       },
       "artists": [
         {
-          "name": "Psynchro",
-          "url": "https://open.spotify.com/artist/1gSz6pGVDZtTnV4eYEJs6K"
-        },
-        {
-          "name": "Whalespruce",
-          "url": "https://open.spotify.com/artist/0UkKQQE4TtAHDSzrrwhPry"
+          "name": "Crimewave",
+          "url": "https://open.spotify.com/artist/5OUmWGRLqtsJyI88aw9RRs"
         }
       ],
-      "duration_ms": 229718,
-      "name": "Altitude",
-      "url": "https://open.spotify.com/track/4vKeomIq5cLAS6cr1Wvmeb"
+      "duration_ms": 212599,
+      "name": "50 Rapid",
+      "url": "https://open.spotify.com/track/4BDBcYQkkIoyHMXblLBrbz"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -785,6 +781,26 @@
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Laniakea",
+        "url": "https://open.spotify.com/album/4DabfAUYqOkf592Dx9l2UP"
+      },
+      "artists": [
+        {
+          "name": "Psynchro",
+          "url": "https://open.spotify.com/artist/1gSz6pGVDZtTnV4eYEJs6K"
+        },
+        {
+          "name": "Whalespruce",
+          "url": "https://open.spotify.com/artist/0UkKQQE4TtAHDSzrrwhPry"
+        }
+      ],
+      "duration_ms": 229718,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/4vKeomIq5cLAS6cr1Wvmeb"
+    },
+    {
       "added_at": "2022-11-09 13:51:20",
       "album": {
         "name": "Burundanger",
@@ -799,22 +815,6 @@
       "duration_ms": 251506,
       "name": "Burundanger 2",
       "url": "https://open.spotify.com/track/5nNXm40EERTJ7By4wNtIxE"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "50 Rapid",
-        "url": "https://open.spotify.com/album/12KHiQS2bGzMYY7BRgGbaE"
-      },
-      "artists": [
-        {
-          "name": "Crimewave",
-          "url": "https://open.spotify.com/artist/5OUmWGRLqtsJyI88aw9RRs"
-        }
-      ],
-      "duration_ms": 212599,
-      "name": "50 Rapid",
-      "url": "https://open.spotify.com/track/4BDBcYQkkIoyHMXblLBrbz"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Insomnia EP",
-        "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
-      },
-      "artists": [
-        {
-          "name": "Senchai",
-          "url": "https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
-    },
-    {
       "added_at": "2023-02-01 16:47:43",
       "album": {
         "name": "Fatima",
@@ -879,6 +863,22 @@
       "duration_ms": 339500,
       "name": "Fatima's Poplar",
       "url": "https://open.spotify.com/track/0XWldQSPFGe8lZGgfB4xs6"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Insomnia EP",
+        "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
+      },
+      "artists": [
+        {
+          "name": "Senchai",
+          "url": "https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
     },
     {
       "added_at": "2022-11-09 13:51:20",
@@ -959,38 +959,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Snow Ball",
-        "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
-      },
-      "artists": [
-        {
-          "name": "Yobi Alan",
-          "url": "https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Snow Ball",
-      "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Isles in Indigo",
-        "url": "https://open.spotify.com/album/7FuIWYXN7U1bZ67R7r1uqN"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tropic Air",
-      "url": "https://open.spotify.com/track/4zGpxGMoGFZarHUpAzJURL"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Figure",
         "url": "https://open.spotify.com/album/5cjAWiQc1HNZWksSEUI91Y"
       },
@@ -1015,6 +983,38 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Isles in Indigo",
+        "url": "https://open.spotify.com/album/7FuIWYXN7U1bZ67R7r1uqN"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tropic Air",
+      "url": "https://open.spotify.com/track/4zGpxGMoGFZarHUpAzJURL"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Snow Ball",
+        "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
+      },
+      "artists": [
+        {
+          "name": "Yobi Alan",
+          "url": "https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Snow Ball",
+      "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "NON-BACKGROUND MUSIC",
         "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
-        "url": "https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P"
-      },
-      "artists": [
-        {
-          "name": "Yikii",
-          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
-      "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
         "name": "Toquei no Sol",
         "url": "https://open.spotify.com/album/0YRfD14jQxCxdiNF2naUJb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 342386,
       "name": "Toquei no Sol",
       "url": "https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
+        "url": "https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P"
+      },
+      "artists": [
+        {
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
+      "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/63By9fJeNee1s2XfbeANwb"
     },
     {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "I Can't Die as Well",
+        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 145774,
+      "name": "I Can't Die as Well",
+      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
+    },
+    {
       "added_at": "2023-01-11 14:45:51",
       "album": {
         "name": "Balance",
@@ -1269,20 +1285,20 @@
       "url": "https://open.spotify.com/track/6JD4lNVkK86v5SioYE5Ehp"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
+      "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "I Can't Die as Well",
-        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
+        "name": "The Heart of the Anchoress",
+        "url": "https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o"
       },
       "artists": [
         {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+          "name": "Bianca Scout",
+          "url": "https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep"
         }
       ],
-      "duration_ms": 145774,
-      "name": "I Can't Die as Well",
-      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
+      "duration_ms": 227480,
+      "name": "Empty space",
+      "url": "https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -1303,34 +1319,18 @@
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "The Heart of the Anchoress",
-        "url": "https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o"
+        "name": "sit on the floor and wait for storms",
+        "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
       },
       "artists": [
         {
-          "name": "Bianca Scout",
-          "url": "https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 227480,
-      "name": "Empty space",
-      "url": "https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth"
-    },
-    {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Lumbago",
-        "url": "https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB"
-      },
-      "artists": [
-        {
-          "name": "[BORDERS]",
-          "url": "https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu"
-        }
-      ],
-      "duration_ms": 163953,
-      "name": "Lumbago",
-      "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
+      "duration_ms": 196015,
+      "name": "sit on the floor and wait for storms",
+      "url": "https://open.spotify.com/track/5Na0Vg74YJYuLHu3mb1wg3"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -1347,6 +1347,22 @@
       "duration_ms": 260000,
       "name": "Potentials",
       "url": "https://open.spotify.com/track/2qRWeJMobkYAllXr9C0W0j"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Lumbago",
+        "url": "https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB"
+      },
+      "artists": [
+        {
+          "name": "[BORDERS]",
+          "url": "https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu"
+        }
+      ],
+      "duration_ms": 163953,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1367,38 +1383,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Electric Forest",
-        "url": "https://open.spotify.com/album/7DMlJep6q8RLoHyyeqAfxu"
-      },
-      "artists": [
-        {
-          "name": "Rosk",
-          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
-        }
-      ],
-      "duration_ms": 221972,
-      "name": "Electric Forest",
-      "url": "https://open.spotify.com/track/5OtDgatyOFuBRnUxJTHKX9"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "sit on the floor and wait for storms",
-        "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 196015,
-      "name": "sit on the floor and wait for storms",
-      "url": "https://open.spotify.com/track/5Na0Vg74YJYuLHu3mb1wg3"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Iterations Felidae",
         "url": "https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8"
       },
@@ -1415,18 +1399,34 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Promesses Vol. 2",
-        "url": "https://open.spotify.com/album/4Sx3xMcQ34zEHnTmSUt4T5"
+        "name": "Electric Forest",
+        "url": "https://open.spotify.com/album/7DMlJep6q8RLoHyyeqAfxu"
       },
       "artists": [
         {
-          "name": "XOLOT",
-          "url": "https://open.spotify.com/artist/6DVqwnoHmbqUOhEXw9dZPc"
+          "name": "Rosk",
+          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
         }
       ],
-      "duration_ms": 222626,
-      "name": "Resplandor",
-      "url": "https://open.spotify.com/track/5dw3w0fcwUDvYN3hYih5Jd"
+      "duration_ms": 221972,
+      "name": "Electric Forest",
+      "url": "https://open.spotify.com/track/5OtDgatyOFuBRnUxJTHKX9"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Higher Purpose",
+        "url": "https://open.spotify.com/album/5iLUzkrK0B9ug9E0COeka8"
+      },
+      "artists": [
+        {
+          "name": "s7n",
+          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
+        }
+      ],
+      "duration_ms": 190140,
+      "name": "We Are Dreamers And Dreams On Fly",
+      "url": "https://open.spotify.com/track/7r1GX3GowKrUXkforkZtlh"
     },
     {
       "added_at": "2022-11-09 13:51:20",
@@ -1443,6 +1443,22 @@
       "duration_ms": 238153,
       "name": "Vegetal Passivity",
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Promesses Vol. 2",
+        "url": "https://open.spotify.com/album/4Sx3xMcQ34zEHnTmSUt4T5"
+      },
+      "artists": [
+        {
+          "name": "XOLOT",
+          "url": "https://open.spotify.com/artist/6DVqwnoHmbqUOhEXw9dZPc"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Resplandor",
+      "url": "https://open.spotify.com/track/5dw3w0fcwUDvYN3hYih5Jd"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1477,28 +1493,20 @@
       "url": "https://open.spotify.com/track/4e9jyiUUxoALhqyN9iFM3M"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
+      "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+        "name": "Dot",
+        "url": "https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE"
       },
       "artists": [
         {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "Emily Chappell",
-          "url": "https://open.spotify.com/artist/3XyVOmYc0lZnIIBpUmfgzr"
+          "name": "dal:um",
+          "url": "https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Netra ken (feat. Emily Chappell)",
-      "url": "https://open.spotify.com/track/0v7PBdOegAk0iD4SAwjiOB"
+      "duration_ms": 238857,
+      "name": "Dot",
+      "url": "https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1557,36 +1565,28 @@
       "url": "https://open.spotify.com/track/5v4QEHIykSek3n7al4zXOp"
     },
     {
-      "added_at": "2023-02-01 16:47:43",
+      "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Dot",
-        "url": "https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE"
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
       },
       "artists": [
         {
-          "name": "dal:um",
-          "url": "https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb"
-        }
-      ],
-      "duration_ms": 238857,
-      "name": "Dot",
-      "url": "https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Higher Purpose",
-        "url": "https://open.spotify.com/album/5iLUzkrK0B9ug9E0COeka8"
-      },
-      "artists": [
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
         {
-          "name": "s7n",
-          "url": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "Emily Chappell",
+          "url": "https://open.spotify.com/artist/3XyVOmYc0lZnIIBpUmfgzr"
         }
       ],
-      "duration_ms": 190140,
-      "name": "We Are Dreamers And Dreams On Fly",
-      "url": "https://open.spotify.com/track/7r1GX3GowKrUXkforkZtlh"
+      "duration_ms": 194786,
+      "name": "Netra ken (feat. Emily Chappell)",
+      "url": "https://open.spotify.com/track/0v7PBdOegAk0iD4SAwjiOB"
     },
     {
       "added_at": "2022-11-09 13:51:20",

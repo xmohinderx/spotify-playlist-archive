@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-467 songs - 1 day 1 hr 51 min
+468 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2022-01-28 |  |
 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 | 2022-01-28 |  |
 | [janji kita bertemu lagi](https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [janji kita bertemu lagi](https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB) | 4:18 | 2023-02-02 |  |
-| [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-13 |  |
+| [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-13 | 2023-02-12 |
 | [Jasmine](https://open.spotify.com/track/5t3F4TIWCvMmoODNPnR3Qx) | [Gold Revere](https://open.spotify.com/artist/7kYDjU5spmeNn4aIXU5sGV) | [Jasmine](https://open.spotify.com/album/3975X9J6tIxTHKm4RTitzp) | 3:10 | 2022-03-29 | 2022-04-14 |
 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 | 2022-12-15 |  |
 | [just like before](https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before](https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam) | 4:26 | 2022-08-30 | 2022-09-27 |
@@ -326,6 +326,7 @@
 | [Poison](https://open.spotify.com/track/6YB6L559W9IoLNm2JhRGTd) | [Nilo Blues](https://open.spotify.com/artist/3Bv6qMTmj7g5FDK9gwjDkj) | [Poison](https://open.spotify.com/album/0WqDNkfGgDxNuYiSg2kqtr) | 2:47 | 2022-03-29 | 2022-04-20 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-03-11 | 2022-07-22 |
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-01-28 | 2022-07-27 |
+| [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 | 2023-02-10 |  |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2022-01-28 | 2022-08-20 |
 | [Raincloud](https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Raincloud](https://open.spotify.com/album/3kCzqoleAPWwg2sSd5YXEA) | 2:52 | 2022-10-27 | 2022-11-11 |
 | [Rainy Day](https://open.spotify.com/track/27cecf1BlHEPC0jiZVc3jz) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Rainy Day](https://open.spotify.com/album/62iCE5KN68leOFMj9D6YTY) | 4:02 | 2022-03-29 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Daniel Caesar
 
-779 songs - 1 day 17 hr 58 min
+780 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Heal For Once](https://open.spotify.com/track/7szpte7noi2QMjCxQ3Ds37) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Heal For Once](https://open.spotify.com/album/4dqMqxvdnIPqlIcngFA09u) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [Hear Me](https://open.spotify.com/track/2OGqjv2CNqU0Gf1GgvbODU) | [Queens Cast](https://open.spotify.com/artist/3Wr7oIlbc44t0Cek1VIg5D), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Hear Me](https://open.spotify.com/album/1tui01lpThZuhFF4hMHi9B) | 4:14 | 2021-12-17 | 2022-01-22 |
 | [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 | 2023-01-20 |  |
-| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl in the Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 |  |
+| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 |  |
 | [Heartbreaker](https://open.spotify.com/track/6VfcKtGAyKfBsNRZIlaxSj) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Heartbreaker](https://open.spotify.com/album/3wFXxhDUZrPeugK8ImYhJU) | 2:27 | 2022-07-15 | 2022-07-23 |
 | [HEAT ft\. Tinashe](https://open.spotify.com/track/36NukHQiatLeLFXI5eTP1L) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [HEAT ft\. Tinashe](https://open.spotify.com/album/0T3FKOvUtfRSrJGq9HyFrx) | 2:30 | 2022-08-26 | 2022-10-08 |
 | [Heatwave](https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:36 | 2022-07-29 | 2022-09-24 |
@@ -549,7 +549,7 @@
 | [Paranoia \- Bonus Track](https://open.spotify.com/track/44AELZZdwsZA95Z1o2gymO) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Beautiful Disaster \(Deluxe\)](https://open.spotify.com/album/1Pcd7hr3aP4UpCxVstTmv1) | 3:09 | 2022-04-15 | 2022-05-21 |
 | [Past](https://open.spotify.com/track/5FOLC5vQdAS4CmUi1lKIZ1) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Past](https://open.spotify.com/album/5FdrJtnXc19gWY2WgCoUo8) | 3:36 | 2022-12-02 | 2023-01-06 |
 | [Pata Pata \(Remix\)](https://open.spotify.com/track/0UeFuD5wYxDx5hXuLxKcwp) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Pata Pata \(Remix\)](https://open.spotify.com/album/7jhzt3S0DnHb6E4uSqCOe0) | 3:04 | 2022-08-19 | 2022-09-10 |
-| [Patient](https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 1:31 | 2023-02-10 |  |
+| [Patient \(02\)](https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 1:31 | 2023-02-10 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-09-17 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-09-10 |
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2022-07-08 | 2022-08-06 |
@@ -741,7 +741,8 @@
 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2023-01-06 |
 | [Water Sign \(with Jhené Aiko\)](https://open.spotify.com/track/62oXwEYWQd8tGZvF6WUOs9) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Water Sign](https://open.spotify.com/album/6oDU6I199wFU3UzVJB1k5f) | 4:20 | 2022-07-08 | 2022-08-06 |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-04-01 | 2022-05-14 |
-| [Weep, No More](https://open.spotify.com/track/0Gtl6bvA43tqNZPM7a8wag) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/1FNcoFaY18I6kkXBGIC9Lo) | 2:21 | 2023-02-10 |  |
+| [Weep, No More](https://open.spotify.com/track/0Gtl6bvA43tqNZPM7a8wag) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/1FNcoFaY18I6kkXBGIC9Lo) | 2:21 | 2023-02-10 | 2023-02-12 |
+| [Weep, No More](https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB) | 2:21 | 2023-02-10 |  |
 | [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 | 2022-09-09 | 2022-10-08 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-01-28 |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-29 | 2022-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,366 likes - 59 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 59 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 38 | [Your Loving \- DJ Paparazzi Remix](https://open.spotify.com/track/1ReZvOFm70OYQz3TNp2R0r) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [DJ Paparazzi](https://open.spotify.com/artist/6Z4MjOERzDvcj6cS9MzE8s) | [Your Loving \(Remixes\)](https://open.spotify.com/album/2obQSSgoW5F82YSZ6EcLd8) | 4:01 |
 | 39 | [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 |
 | 40 | [Oriti](https://open.spotify.com/track/6FW8sVbEWMMXcRqw2Q2fKL) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Sazile](https://open.spotify.com/album/70p6iWxnxROz7H3trDjL8y) | 3:40 |
-| 41 | [Ba Ba Bu](https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm) | [Jupiter Sky](https://open.spotify.com/artist/3IrrIr36E38ozdtqZUlGLX) | [Ba Ba Bu](https://open.spotify.com/album/4DQ1LODQJ01AVqtI0jFq8l) | 2:15 |
+| 41 | [Ba Ba Bu, pt\. I](https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm) | [Jupiter Sky](https://open.spotify.com/artist/3IrrIr36E38ozdtqZUlGLX) | [Ba Ba Bu, pt\. I](https://open.spotify.com/album/4DQ1LODQJ01AVqtI0jFq8l) | 2:15 |
 | 42 | [3 Tingz](https://open.spotify.com/track/1d4KRceZZhzweBscFL2NsU) | [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm) | [3 Tingz](https://open.spotify.com/album/0Evq35s64fjfGM4pLL0Xw8) | 3:41 |
 | 43 | [Who Are You \(Imran Mwangi House Remix\)](https://open.spotify.com/track/6sLPX0Q4GdazVifDwhcu49) | [Ayrosh](https://open.spotify.com/artist/4YrVetGQMUK3WKhRcqC7zH), [Imran Mwangi](https://open.spotify.com/artist/1QScCx9tjYCQux14NpPjmn) | [Who Are You \(Imran Mwangi House Remix\)](https://open.spotify.com/album/4aFCYdSzyEJ3u52iADPzkj) | 5:00 |
 | 44 | [Bali](https://open.spotify.com/track/1cCCf8NobUwsf3t9frvVYY) | [DJ Arta](https://open.spotify.com/artist/5LoietQuQuzNohwfgAZj21) | [Bali](https://open.spotify.com/album/6X3DH5J53a5cjpjJXNse0i) | 1:50 |

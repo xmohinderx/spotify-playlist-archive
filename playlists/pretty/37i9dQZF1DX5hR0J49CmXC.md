@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,588 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,717 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paradise II \(feat\. Norah Jones\) \- Single Version](https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Paradise II \(feat\. Norah Jones\)](https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL) | 3:27 |
-| 2 | [FAR](https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [Dirty Sanchez 47](https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ) | [FAR](https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj) | 3:22 |
+| 2 | [FAR \(fear\. T'nah\)](https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [Dirty Sanchez 47](https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ), [T'nah](https://open.spotify.com/artist/6O4dbSgX35YBM1yhXRknZp) | [FAR \(fear\. T'nah\)](https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj) | 3:22 |
 | 3 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 4 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 | 5 | [Hit List](https://open.spotify.com/track/5ZFtDmpcRHqt3Taf0Ydq05) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [V Don](https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq) | [Chaos Is My Ladder](https://open.spotify.com/album/1PsbJDTsXqrXaC2dIxKypw) | 2:44 |

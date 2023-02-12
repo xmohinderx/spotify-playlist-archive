@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Romeo Santos & Chris Lebron",
-  "num_followers": 46518,
+  "num_followers": 46557,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTQwMCwwMDAwMDAwMGE3YTk1YjRlMGJjNWFiNDQ3ZTViYmQ0NzA4NTM4MjZi",
+  "snapshot_id": "MTY3MzI0NTQwMCwwMDAwMDAwMGUyNjNlYzkxNWJlYWQ0Zjg2ZWU3YTNmNGIwNTJiMjll",
   "tracks": [
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1063,42 +1063,6 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
-        "name": "Diamantes En Mis Dientes",
-        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 344602,
-      "name": "Diamantes en Mis Dientes",
-      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
-    },
-    {
-      "added_at": "2023-01-09 06:23:20",
-      "album": {
-        "name": "Reggaetonea",
-        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Amor De Una Noche",
-      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
-    },
-    {
-      "added_at": "2023-01-09 06:23:20",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1115,6 +1079,38 @@
       "duration_ms": 207932,
       "name": "GATAS",
       "url": "https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu"
+    },
+    {
+      "added_at": "2023-01-09 06:23:20",
+      "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 262722,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+    },
+    {
+      "added_at": "2023-01-09 06:23:20",
+      "album": {
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Amor De Una Noche",
+      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
     },
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
+        "name": "Diamantes En Mis Dientes",
+        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
       },
       "artists": [
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+      "duration_ms": 344602,
+      "name": "Diamantes en Mis Dientes",
+      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
     },
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1283,22 +1283,6 @@
       "duration_ms": 217441,
       "name": "Donde CRJ",
       "url": "https://open.spotify.com/track/21HLNrCGG69HTGhBcjV0aP"
-    },
-    {
-      "added_at": "2023-01-09 06:23:20",
-      "album": {
-        "name": "Hazme El Amor",
-        "url": "https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 182365,
-      "name": "Hazme El Amor",
-      "url": "https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z"
     },
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
+        "name": "Hazme El Amor",
+        "url": "https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 182365,
+      "name": "Hazme El Amor",
+      "url": "https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z"
+    },
+    {
+      "added_at": "2023-01-09 06:23:20",
+      "album": {
         "name": "Garabatos (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -1351,26 +1351,22 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
-        "name": "ACTIVA",
-        "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         },
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 261527,
-      "name": "ACTIVA",
-      "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
+      "duration_ms": 186674,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY"
     },
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1399,22 +1395,26 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r"
+        "name": "ACTIVA",
+        "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
         }
       ],
-      "duration_ms": 186674,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY"
+      "duration_ms": 261527,
+      "name": "ACTIVA",
+      "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
     },
     {
       "added_at": "2023-01-09 06:23:20",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-01-09 06:23:20",
       "album": {
-        "name": "The Hits Kings",
-        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/1JIJHCWUgSOZS3YKyuyM5r"
-    },
-    {
-      "added_at": "2023-01-09 06:23:20",
-      "album": {
         "name": "Castigada",
         "url": "https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 196849,
       "name": "Castigada",
       "url": "https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk"
+    },
+    {
+      "added_at": "2023-01-09 06:23:20",
+      "album": {
+        "name": "The Hits Kings",
+        "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 195812,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/1JIJHCWUgSOZS3YKyuyM5r"
     },
     {
       "added_at": "2023-01-09 06:23:20",

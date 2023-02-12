@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-672 songs - 1 day 20 hr 52 min
+673 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Kids in the Sky](https://open.spotify.com/track/0h2WwCbmMoNPKtcxo0WSnq) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:38 | 2021-04-02 | 2022-04-21 |
 | [Kiss Me](https://open.spotify.com/track/0CHC2sFuMqPvCuwZsLK4Ks) | [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR) | [Kiss Me](https://open.spotify.com/album/69Hza7qOdkjhn47C3jaEKB) | 3:53 | 2022-03-08 | 2022-06-23 |
 | [Knew You Better](https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [When We Knew Less](https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8) | 3:04 | 2022-08-12 | 2022-10-02 |
+| [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-09 |  |
 | [L.A.X.](https://open.spotify.com/track/0TVT444yn5d1J4m3KJfGeR) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [L.A.X.](https://open.spotify.com/album/49GFCoCISeuQCkFV14LtgJ) | 4:10 | 2021-04-02 | 2022-04-18 |
 | [Le Mans](https://open.spotify.com/track/6q97moc6aGXzCkSKbfxEYB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Le Mans](https://open.spotify.com/album/3aWCnyWoZjVwyeGeZVt6jI) | 3:02 | 2021-04-02 | 2022-04-19 |
 | [Le Queens](https://open.spotify.com/track/6peVCJCHKSJBMggL6ndtbB) | [Plants and Animals](https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c) | [Le Queens](https://open.spotify.com/album/3Ac3Y0hMy58dIcOBoC6TUD) | 4:14 | 2021-04-02 | 2022-07-29 |
@@ -576,7 +577,7 @@
 | [The Conservation of Energy](https://open.spotify.com/track/3ItCDZEok1K8DtZi51CWYr) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Choose Your Own Adventure](https://open.spotify.com/album/4Nn2oPaVW8nSDDJ6yi7Fr3) | 4:13 | 2021-04-02 | 2022-04-20 |
 | [THE DOOR IS CLOSING](https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [THE DOOR](https://open.spotify.com/album/7g8ldlK6mpYfe9kKdyz3vh) | 2:57 | 2022-04-20 | 2022-11-17 |
 | [The Garden](https://open.spotify.com/track/3Pvio4yVZQHD2MTkoJaQaP) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [The Garden](https://open.spotify.com/album/7iEzXzoKXUPlFgBdn4ii8I) | 4:08 | 2021-04-02 | 2022-07-29 |
-| [The Garden](https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [The Garden](https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD) | 4:08 | 2022-07-22 |  |
+| [The Garden](https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [The Garden](https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD) | 4:08 | 2022-07-22 | 2023-02-12 |
 | [The Gift](https://open.spotify.com/track/20WclJiQmURENR0X8B9E1p) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Perfume](https://open.spotify.com/album/54j6nUpJNLHEhgJxR5nPxx) | 4:05 | 2021-04-02 | 2022-04-20 |
 | [The Lift](https://open.spotify.com/track/3ilWBvA7tj8EPp7rDoZsVT) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Lift](https://open.spotify.com/album/7zBF8p6Db1pZmfm5F67c1T) | 3:10 | 2021-09-17 | 2022-07-26 |
 | [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 | 2022-07-11 |  |

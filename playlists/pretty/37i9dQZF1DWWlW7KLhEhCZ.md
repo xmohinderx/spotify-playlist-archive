@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mateca
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,746 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,752 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 7 | [Renascer](https://open.spotify.com/track/3Gz2djkbK2Jdw4YkYxx6Jm) | [Draco75](https://open.spotify.com/artist/6zJ93Qsu3Lw3poY2BzaWvB) | [Mobile](https://open.spotify.com/album/5kMACxrsVtOv8DEGlQFSE4) | 2:09 |
 | 8 | [Dia de Operação](https://open.spotify.com/track/4kW0WRAHlVX6qjFuJLqkak) | [Mc G Talibã](https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY), [Boladinho DJ](https://open.spotify.com/artist/07h4iWmJmlrSz6odV2mJgq) | [Dia de Operação](https://open.spotify.com/album/2GxlLLZxTzOysLvE73FbcQ) | 2:34 |
 | 9 | [Tubo de Lança](https://open.spotify.com/track/3npXPVCw42oIzh701YkM90) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD) | [Tubo de Lança](https://open.spotify.com/album/3nP5nxztp0Pye1NzVcWA94) | 2:09 |
-| 10 | [Ajuda Pai](https://open.spotify.com/track/7x6CaJIBZB7bhdG9lUJN05) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Ajuda Pai](https://open.spotify.com/album/54QCecDXkhYlcWOVRnRmNR) | 2:50 |
+| 10 | [Ajuda Pai](https://open.spotify.com/track/7x6CaJIBZB7bhdG9lUJN05) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Ajuda Pai](https://open.spotify.com/album/54QCecDXkhYlcWOVRnRmNR) | 2:50 |
 | 11 | [Teto Solar](https://open.spotify.com/track/08IBqKDBnYMivpc55tjPnb) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw) | [Teto Solar](https://open.spotify.com/album/35qA6VqCV2bEKEh7XfjDKG) | 2:34 |
 | 12 | [Cbzn Session \#03](https://open.spotify.com/track/6V5GYcRxVlmK6sy8bSR9aC) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Mc Niva](https://open.spotify.com/artist/1DMo6RVez4j6Rs0pWU9I5X) | [Cbzn Session \#03](https://open.spotify.com/album/3hjs7vTme0HxijZLjsoztP) | 2:06 |
 | 13 | [Retrato \#3 \- Oakley Music](https://open.spotify.com/track/3lAxLWmbnBgkGcs6rRj250) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#3 \- Oakley Music](https://open.spotify.com/album/4KkgdlP3Zu45eARvswfo7v) | 3:11 |

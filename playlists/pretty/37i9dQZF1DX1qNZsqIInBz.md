@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,312 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,680 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 26 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 |
 | 27 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 |
 | 28 | [UTOPIA](https://open.spotify.com/track/6Lbn2QM3tyxPj4fQsCU0mk) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UTOPIA](https://open.spotify.com/album/5aF2aTHcRscFUK1OaCLtGF) | 2:17 |
-| 29 | [Glass](https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6) | 2:23 |
+| 29 | [Glass](https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/7fWxqA4vjA7lzAJDDBf1tv) | 2:23 |
 | 30 | [nightexpress](https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightexpress](https://open.spotify.com/album/0306P7Fec99VYmoSguS97S) | 2:40 |
 | 31 | [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 |
 | 32 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MTY3NTQ3ODM5NSwwMDAwMDAwMDEzMzFmNDc1ZWJjZWI2OTVlNjM5OWZiODNhOWM0Mzdh`
+Snapshot ID: `MTY3NTQ3ODM5NSwwMDAwMDAwMDRjNjZjN2I4OWIxZTNkMDQ4MzRhZDY1ZGY3ODA5NTky`

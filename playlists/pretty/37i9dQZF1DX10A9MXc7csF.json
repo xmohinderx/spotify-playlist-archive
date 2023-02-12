@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Los de FL",
-  "num_followers": 97453,
+  "num_followers": 97466,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5Njg1NSwwMDAwMDAwMDIyZWJmYzE2ZDgyMGE2MzhiMzA5MTVmODg1YmQ1M2Ji",
+  "snapshot_id": "MTY3NDc5Njg1NSwwMDAwMDAwMDk4YWJhMzFhMWJiMjQ1Y2U3Mzg1MWJkNjRiZDBjZDcw",
   "tracks": [
     {
       "added_at": "2023-01-27 05:20:55",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
+        "name": "Sigo Con Lo Mio",
+        "url": "https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX"
+      },
+      "artists": [
+        {
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+        }
+      ],
+      "duration_ms": 142498,
+      "name": "Sigo Con Lo Mio",
+      "url": "https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
-        "name": "Sigo Con Lo Mio",
-        "url": "https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX"
-      },
-      "artists": [
-        {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
-        }
-      ],
-      "duration_ms": 142498,
-      "name": "Sigo Con Lo Mio",
-      "url": "https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
+        "name": "Las Rayas",
+        "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        }
+      ],
+      "duration_ms": 190636,
+      "name": "Las Rayas",
+      "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Las Rayas",
-        "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
-      },
-      "artists": [
-        {
-          "name": "Christian Nava",
-          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
-        }
-      ],
-      "duration_ms": 190636,
-      "name": "Las Rayas",
-      "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "DOLOR",
         "url": "https://open.spotify.com/album/2SiOMpq82Qv1svVMt35sP1"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 173294,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 190125,
       "name": "Fvck You",
       "url": "https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 173294,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/387B38c0gvCoycIJTWZ3Cb"
-      },
-      "artists": [
-        {
-          "name": "Jose Payan",
-          "url": "https://open.spotify.com/artist/3bu6KHyIXxHN29fYhOmQZd"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/0K6oPQDNwG2rMxRuZzWnrz"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Ni Diabla Ni Santa",
         "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 168154,
       "name": "Ni Diabla Ni Santa",
       "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/387B38c0gvCoycIJTWZ3Cb"
+      },
+      "artists": [
+        {
+          "name": "Jose Payan",
+          "url": "https://open.spotify.com/artist/3bu6KHyIXxHN29fYhOmQZd"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/0K6oPQDNwG2rMxRuZzWnrz"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF"
-      },
-      "artists": [
-        {
-          "name": "Elyfer Torres",
-          "url": "https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe"
-        }
-      ],
-      "duration_ms": 160882,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Verificado",
         "url": "https://open.spotify.com/album/7qttMMoI0JGaClH0GvE6YA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 170120,
       "name": "Verificado",
       "url": "https://open.spotify.com/track/49P3Ix6GHwKYUR1IQaiYdQ"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF"
+      },
+      "artists": [
+        {
+          "name": "Elyfer Torres",
+          "url": "https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe"
+        }
+      ],
+      "duration_ms": 160882,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm"
     },
     {
       "added_at": "2023-01-27 05:20:55",

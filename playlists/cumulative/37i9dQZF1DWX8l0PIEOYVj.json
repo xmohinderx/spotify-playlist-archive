@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 212137,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0sSldZiqaPK4YmhDui7tN8"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 204387,
       "name": "Cold",
       "url": "https://open.spotify.com/track/37U9aGziz2mwqDKuoAO0D0"
@@ -2300,6 +2300,32 @@
       "duration_ms": 202410,
       "name": "Fragments - Last Heroes Remix",
       "url": "https://open.spotify.com/track/2yXRunfzz6u8wxKoZRRJP7"
+    },
+    {
+      "album": {
+        "name": "From Ashes To Love",
+        "url": "https://open.spotify.com/album/1ZDr9iC66zHjnAfaMdp3Ew"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "RBBTS",
+          "url": "https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "From Ashes To Love",
+      "url": "https://open.spotify.com/track/1gnYZJ13MLIRFexETWGDEo"
     },
     {
       "album": {
@@ -3923,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "Brother Leo",
+          "url": "https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5"
+    },
+    {
+      "album": {
         "name": "Magnets",
         "url": "https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ"
       },
@@ -4276,6 +4324,32 @@
       "duration_ms": 200547,
       "name": "Oceans & Galaxies",
       "url": "https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB"
+    },
+    {
+      "album": {
+        "name": "Odd Ones Out",
+        "url": "https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225405,
+      "name": "Odd Ones Out",
+      "url": "https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB"
     },
     {
       "album": {
@@ -6106,7 +6180,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 251901,
       "name": "To Another World",
       "url": "https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw"

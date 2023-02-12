@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
@@ -4176,6 +4176,24 @@
       "duration_ms": 195170,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q"
+    },
+    {
+      "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c"
+      },
+      "artists": [
+        {
+          "name": "SAY3AM",
+          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117447,
+      "name": "JUDAS",
+      "url": "https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl"
     },
     {
       "album": {
@@ -4904,6 +4922,24 @@
       "duration_ms": 149052,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/1Oag2GWkdwuS4oVc1IWIfC"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "album": {
@@ -9196,7 +9232,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
@@ -15897,6 +15933,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u0430\u0434\u0430",
+        "url": "https://open.spotify.com/album/3ANixq23WM1DDavAIQz9hx"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "\u041f\u0440\u0430\u0434\u0430",
+      "url": "https://open.spotify.com/track/1vUE0zSGgb3SOpzL05qqqX"
+    },
+    {
+      "album": {
         "name": "\u041a\u0440\u0430\u0441\u043e\u0442\u0430 \u0438 \u0423\u0440\u043e\u0434\u0441\u0442\u0432\u043e",
         "url": "https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH"
       },
@@ -17148,7 +17202,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 140307,
       "name": "\u0422\u0432\u043e\u044f \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/7nnMUJP7WE9Fg1yoO9jg89"
@@ -17526,7 +17580,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 208613,
       "name": "\u0422\u0440\u0438\u043c\u0430\u0439",
       "url": "https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx"
@@ -17834,7 +17888,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
@@ -17922,6 +17976,24 @@
       "duration_ms": 245054,
       "name": "\u0424\u043e\u0440\u043c\u0430\u043b\u0438\u043d",
       "url": "https://open.spotify.com/track/4HBZlDcXrlUnGYJHMCZSI7"
+    },
+    {
+      "album": {
+        "name": "\u0424\u043e\u0440\u0442\u0435\u0446\u044f \u0411\u0430\u0445\u043c\u0443\u0442",
+        "url": "https://open.spotify.com/album/31bM56BwZ6uNbXJ1GuIweW"
+      },
+      "artists": [
+        {
+          "name": "Antytila",
+          "url": "https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "\u0424\u043e\u0440\u0442\u0435\u0446\u044f \u0411\u0430\u0445\u043c\u0443\u0442",
+      "url": "https://open.spotify.com/track/44FopWyaddRoiuNrD8hlUw"
     },
     {
       "album": {
@@ -19076,7 +19148,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 130000,
       "name": "\u042f\u041b\u0420\u0421",
       "url": "https://open.spotify.com/track/5TJmu6WB8JNMNTt8XumcP1"

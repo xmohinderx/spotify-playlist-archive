@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,094 likes - 41 songs - 2 hr 28 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,118 likes - 41 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 15 | [You The Type](https://open.spotify.com/track/7x5u4be4YDbkD31q3tNj2u) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [You The Type](https://open.spotify.com/album/7H6MsLhxLDDNpeymsKNXDH) | 3:25 |
 | 16 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 17 | [We're More Than This](https://open.spotify.com/track/7vUCoH4ejUiAkHZZDgTtEj) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [We're More Than This](https://open.spotify.com/album/6fZmA6D18HKn0xr2ZBgLii) | 1:59 |
-| 18 | [Clowns](https://open.spotify.com/track/7byWDT48t1P4pg68Swbnri) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl in the Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:36 |
+| 18 | [Clowns](https://open.spotify.com/track/7byWDT48t1P4pg68Swbnri) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:36 |
 | 19 | [Artificial Peace](https://open.spotify.com/track/5nc5PE35d88jFNVsDSxqHS) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 1:43 |
 | 20 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 |
 | 21 | [Chet Baker](https://open.spotify.com/track/6tm5Zn7g9c1jJjjHqZEFvw) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Chet Baker](https://open.spotify.com/album/5nX1kv8aXXyNYNeeLbqmjX) | 4:21 |

@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Miracle (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "I Want It All - Single Version",
+      "url": "https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj"
+    },
+    {
+      "album": {
         "name": "The Miracle (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/7kiDOzNkoKCEgqGZrpPrej"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 242093,
       "name": "I Want It All - Single Version",
       "url": "https://open.spotify.com/track/1MX6kqZ8FOht5UnQuPl6Jj"

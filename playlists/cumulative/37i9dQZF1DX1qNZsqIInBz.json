@@ -858,7 +858,7 @@
     {
       "album": {
         "name": "Godlike",
-        "url": "https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6"
+        "url": "https://open.spotify.com/album/7fWxqA4vjA7lzAJDDBf1tv"
       },
       "artists": [
         {
@@ -873,6 +873,28 @@
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143292,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr"
+    },
+    {
+      "album": {
+        "name": "Godlike",
+        "url": "https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6"
+      },
+      "artists": [
+        {
+          "name": "SPVRROW",
+          "url": "https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF"
+        },
+        {
+          "name": "YUSHEE",
+          "url": "https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
       "duration_ms": 143292,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T"

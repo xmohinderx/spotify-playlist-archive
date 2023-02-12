@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-275 songs - 15 hr 37 min
+276 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Joy](https://open.spotify.com/track/4uZAkcN4TU1TYyNK1hCOHO) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/3pW85ZtP8lSFoo2Tmcgpb0) | 5:00 | 2022-07-19 | 2022-07-24 |
 | [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2022-07-19 | 2022-10-13 |
 | [Kaolin](https://open.spotify.com/track/2wlu4KMCvR202beZHns8Mb) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6CR7aqDABp8BtTiuMKvaJB) | 3:14 | 2022-07-19 | 2022-07-29 |
-| [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 |  |
+| [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 | 2023-02-12 |
 | [Kellisti](https://open.spotify.com/track/4BSvtsVtimM5upqvQ5MYR9) | [LO18](https://open.spotify.com/artist/701amBt5qJYnTqG611GkJQ) | [Maa](https://open.spotify.com/album/353xsSqmLzlb0C52VUOMzF) | 3:46 | 2022-06-29 | 2022-07-26 |
 | [Kiruna](https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA) | [Tomoko Kuzami](https://open.spotify.com/artist/2Z82q88sLUXeG0CoGxF9If) | [Kiruna](https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk) | 2:50 | 2022-06-29 |  |
 | [Lakeside View](https://open.spotify.com/track/4QBJvsefzOa8mZHUB1SDyo) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Lakeside View](https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK) | 2:50 | 2022-07-19 |  |
@@ -218,6 +218,7 @@
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-07-19 |  |
 | [Silent Wave](https://open.spotify.com/track/6TQ5L0J84npxdpz18bohGd) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystic Voyage](https://open.spotify.com/album/5MySf7vIciOzGyt4Tl0DsN) | 7:15 | 2022-10-21 | 2022-11-13 |
 | [Silent Wave](https://open.spotify.com/track/0wxS3CTB9Khr0HJrAYwLiR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystic Voyage](https://open.spotify.com/album/60fSPqXgx3h9CCCP0vbce6) | 7:17 | 2022-06-29 | 2022-07-29 |
+| [Silenzio](https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:11 | 2023-02-09 |  |
 | [Silviculture](https://open.spotify.com/track/5gPJUTZ50tXhTc7AciCS4i) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/0j150j8xYS3EK49gxR1Xj5) | 2:02 | 2022-06-29 | 2022-07-29 |
 | [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 |  |
 | [Singing birds of the forest, in the background the woodpecker tapping](https://open.spotify.com/track/3jzeyOClxpZLm6n35AEGIZ) | [Letnie Glosy Ptakow](https://open.spotify.com/artist/6qWRwuEnZK78sityDgR91Y) | [Summertime Bird Songs & Bird Calls](https://open.spotify.com/album/4LQaTjIvbPuccgIVqxCHme) | 3:51 | 2022-06-29 |  |
@@ -236,7 +237,7 @@
 | [Sound of Air](https://open.spotify.com/track/3pTWggOq5iDZLG14e48y1P) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 4:00 | 2022-06-29 | 2022-07-28 |
 | [Spain](https://open.spotify.com/track/6A4RctQaBHHU9dmhecNgQy) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 4:46 | 2022-06-29 | 2022-07-29 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2022-07-19 |  |
-| [Sparrow Meadow](https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Sparrow Meadow](https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2) | 3:02 | 2022-06-29 | 2022-07-29 |
+| [Sparrow Meadow](https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Sparrow Meadow](https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2) | 3:02 | 2022-06-29 |  |
 | [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 | 2022-10-04 |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
@@ -277,7 +278,7 @@
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-21 |  |
 | [Windchimes](https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP) | [Jordan Jessep](https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv) | [Ambient Worlds](https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU) | 7:09 | 2022-06-29 |  |
 | [Wonders](https://open.spotify.com/track/3hUO3O0H2XnZ6QCpHSPRWb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/78wbhGunanw1Mh5GEAV5tw) | 2:53 | 2022-06-29 | 2022-07-29 |
-| [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 |  |
+| [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 | 2023-02-12 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-06-29 |  |
 | [Yantra 432hz](https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2022-09-02 |  |
 | [Zentrera](https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Zentrera](https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u) | 2:52 | 2022-06-29 |  |

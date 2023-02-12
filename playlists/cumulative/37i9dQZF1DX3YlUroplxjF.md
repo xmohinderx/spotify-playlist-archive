@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: XL Life
 
-385 songs - 22 hr 15 min
+386 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Distance](https://open.spotify.com/track/5rW2epXG3Hh9htDz3jURRx) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/7fpmkZLtIePdNA4jiYZKIn) | 2:59 | 2021-11-30 | 2022-07-29 |
 | [Distant](https://open.spotify.com/track/5KPPKs0mpwp2YYh7BkQ25o) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Distant](https://open.spotify.com/album/0UIt0OVdSqv6vILu00Ku3H) | 3:21 | 2021-11-30 | 2022-07-15 |
 | [Do All Words Can Do](https://open.spotify.com/track/2VbJUe6tF4TzNdu0ErNKf9) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Do All Words Can Do](https://open.spotify.com/album/39NLIYLEjLnvA3N9wF9slF) | 3:11 | 2022-04-01 | 2022-04-21 |
+| [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-12 |  |
 | [Domino](https://open.spotify.com/track/5eJHc3YadLPtA5I834EcmS) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Domino](https://open.spotify.com/album/129dLf8mh5bQtnyeUSfARM) | 4:24 | 2021-11-30 | 2022-07-24 |
 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 | 2021-11-30 |  |
 | [Don't Call Me Your Bud](https://open.spotify.com/track/4xyeyUsoqlAwq5gCcOHURI) | [Atlantic Wasteland](https://open.spotify.com/artist/4qypZ10TKGdQI9LMO3Wot7) | [You'll Never See the Bigger Picture If You're Standing That Close](https://open.spotify.com/album/1CYuzHI69dDkpLr2qA9b0H) | 3:11 | 2022-04-01 | 2022-04-20 |
@@ -252,7 +253,7 @@
 | [Now / Never](https://open.spotify.com/track/1962zHkiWIAVetiHXFDLUn) | [She Pulled the Trigger](https://open.spotify.com/artist/6u8zncAVE7R0ezzTOrBIZt) | [No Matter What](https://open.spotify.com/album/2VP7A4w7nnSvJe7z3A9x7j) | 3:15 | 2021-11-30 | 2022-07-20 |
 | [Now and Forever \(feat\. Trevor Wentworth\)](https://open.spotify.com/track/4bU3F1DmfAJl9G5Xej0x5T) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Trevor Wentworth](https://open.spotify.com/artist/5KbGFayCcgjhbERvopbO5X) | [Now and Forever Ft\. Trevor Wentworth](https://open.spotify.com/album/4vr9ap1i58PA40b3XOmwkZ) | 3:29 | 2021-11-30 | 2022-07-26 |
 | [Numb](https://open.spotify.com/track/6d2jqNfzQVRQvrf9RmDBZf) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:41 | 2022-12-13 | 2023-01-20 |
-| [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-26 |  |
+| [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-26 | 2023-02-12 |
 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 | 2021-11-30 |  |
 | [One Love](https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [One Love](https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN) | 3:23 | 2023-01-27 |  |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |

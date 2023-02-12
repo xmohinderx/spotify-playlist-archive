@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,135 likes - 296 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,153 likes - 296 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 7 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 |
 | 8 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 |
 | 9 | [Relieve](https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Relieve](https://open.spotify.com/album/3tVeSv36k61jehxXt3xuPn) | 3:13 |
-| 10 | [When I have no other place](https://open.spotify.com/track/0G1GtPca3jZyflKA0V8O5V) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [When I have no other place](https://open.spotify.com/album/6xc33JQjFZNHUnDa0arx1Y) | 2:59 |
+| 10 | [When I have no other place](https://open.spotify.com/track/0G1GtPca3jZyflKA0V8O5V) | [Tranquility Spa](https://open.spotify.com/artist/4JzdBo6p2AUamkuE06pBRh) | [When I have no other place](https://open.spotify.com/album/6xc33JQjFZNHUnDa0arx1Y) | 2:59 |
 | 11 | [Modesty](https://open.spotify.com/track/77CSFxn9xlZuFJ0lNpexAu) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Modesty](https://open.spotify.com/album/1AzdPXvyFisHShDjBLAreU) | 2:57 |
 | 12 | [Exploring](https://open.spotify.com/track/61Iykx3EETKUhv43tdveAe) | [Émile Aumont](https://open.spotify.com/artist/0FXNd3apEnHFlr8WDVgjBc) | [Le Silence](https://open.spotify.com/album/16Qso1h2XYl6Jxtm2iQi1c) | 2:43 |
 | 13 | [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 |

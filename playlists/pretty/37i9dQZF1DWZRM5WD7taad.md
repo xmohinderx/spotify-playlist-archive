@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,454 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,494 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 2 | [Thug Love](https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar) | [Vitz Music](https://open.spotify.com/artist/6dEJkQwezGsQdWJyLGEjDf), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01) | [Thug Love](https://open.spotify.com/album/4i8kWHlG8oMVp9yc7z666C) | 3:14 |
 | 3 | [Aka Plaka](https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1) | [Aka Plaka](https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv) | 2:51 |
 | 4 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP), [Leo Jah](https://open.spotify.com/artist/4yS9w42JfhRhRjDrUMZMnp) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 |
-| 5 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
+| 5 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
 | 6 | [Espada Sombra \- Narvarte Colectivo & Sacro Imperio Romano Remix](https://open.spotify.com/track/6s1ulsFVGXkF1RGr8SVGrm) | [Corina Lawrence](https://open.spotify.com/artist/0ov01DAYH1rS1xCroze7vn), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Narvarte Colectivo](https://open.spotify.com/artist/5QRHSZvwF2adtrJCEqigsS), [Sacro Imperio Romano](https://open.spotify.com/artist/0ds927QdYnDvjNX3t1KVn6) | [Espada Sombra \(Remixes\)](https://open.spotify.com/album/0GY9RaB38E8eelwgpuEh0u) | 3:53 |
 | 7 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 |
 | 8 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |

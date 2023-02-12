@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 41501,
+  "num_followers": 41601,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMGJhMzAwZGFiN2Y0NmM2ZWMwMTgzMWY3ZTI0ZGY5OTdm",
+  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDY4OTZhN2MxMzBhMGM5YTNmMjg5ZGFhOTRjNjM5ZGI1",
   "tracks": [
     {
       "added_at": "2023-01-27 19:51:48",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Lugares Imaginarios",
         "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 191141,
       "name": "Amen\u00e1bar",
       "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2023-01-27 19:51:48",

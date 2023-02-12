@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: ERNEST
 
-1,596 songs - 3 day 14 hr 23 min
+1,597 songs - 3 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [Good To You](https://open.spotify.com/track/7uFzLI8d1grEKdSpZ8NktW) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Good To You](https://open.spotify.com/album/71kMxn5npu1E1mM4KRgA8j) | 3:14 | 2020-07-04 | 2020-09-06 |
 | [Goodbye Queen](https://open.spotify.com/track/4EzpdhC8B8B6sBe2BiNoE2) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Goodbye Queen](https://open.spotify.com/album/4hEv25AbRjtM5OXIwo8D3I) | 3:17 | 2020-06-14 | 2020-06-21 |
 | [Goodyears](https://open.spotify.com/track/2H3gNgGeQH6fVnZJ8MbBMl) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Goodyears](https://open.spotify.com/album/7k6L1nBz2FQIyEnkvEhsSF) | 3:34 | 2020-10-10 | 2021-01-23 |
-| [Got Married](https://open.spotify.com/track/2rokTN8Gw11ibwE04au8Gs) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0YZQYkfuilZqwR5TT7fV4S) | 2:58 | 2022-10-14 |  |
+| [Got Married](https://open.spotify.com/track/2rokTN8Gw11ibwE04au8Gs) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0YZQYkfuilZqwR5TT7fV4S) | 2:58 | 2022-10-14 | 2023-02-12 |
+| [Got Married](https://open.spotify.com/track/4S5ZHt7pdDmCBZOpMD0yc8) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0VVzscuiG4BZIi9uSahP4b) | 2:58 | 2023-02-10 |  |
 | [Greener](https://open.spotify.com/track/5yflLzd20RlImqUk9qOaO8) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Greener](https://open.spotify.com/album/0OnQluYELAnoS001m0XyXB) | 3:11 | 2019-07-21 | 2019-09-15 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 | 2022-04-23 |
 | [Grew Apart](https://open.spotify.com/track/2JK5ALIvepkQAWNItmKBZu) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Grew Apart](https://open.spotify.com/album/6wbU7rsPqKrKBibzEdtw6m) | 2:49 | 2020-05-02 | 2020-08-01 |

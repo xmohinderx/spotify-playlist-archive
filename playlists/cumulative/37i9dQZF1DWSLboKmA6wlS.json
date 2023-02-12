@@ -959,24 +959,6 @@
     },
     {
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN"
-      },
-      "artists": [
-        {
-          "name": "Top Piyawat",
-          "url": "https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F"
-        }
-      ],
-      "date_added": "2023-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204725,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK"
-    },
-    {
-      "album": {
         "name": "Tried (Tired)",
         "url": "https://open.spotify.com/album/1Y3AiiJIhJ4LafW4DUB9kS"
       },
@@ -4416,6 +4398,24 @@
       "duration_ms": 259500,
       "name": "\u0e40\u0e2b\u0e07\u0e32\u0e2b\u0e23\u0e2d? (Just Leave Me Alone)",
       "url": "https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2b\u0e07\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e25 (SWEAT)",
+        "url": "https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN"
+      },
+      "artists": [
+        {
+          "name": "Top Piyawat",
+          "url": "https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204725,
+      "name": "\u0e40\u0e2b\u0e07\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e25 (SWEAT)",
+      "url": "https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK"
     },
     {
       "album": {

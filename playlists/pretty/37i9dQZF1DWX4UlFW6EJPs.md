@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, new episodes streaming Sundays on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,999 likes - 42 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,096 likes - 42 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

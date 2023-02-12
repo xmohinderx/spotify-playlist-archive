@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: October London\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,590 likes - 116 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,689 likes - 116 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 7 | [Gah Damn](https://open.spotify.com/track/1EhcI6BbHl7jWZZkZVPaII) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [Gah Damn](https://open.spotify.com/album/4OhDY9MwanWCCNqv19pAjk) | 3:12 |
 | 8 | [Quality Time](https://open.spotify.com/track/1TLp3J6pkoNNdDlpS11GXG) | [Jasmine Janai](https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU) | [Quality Time](https://open.spotify.com/album/7kYz4UL4VgC206CC6gxgUj) | 2:30 |
 | 9 | [4AM](https://open.spotify.com/track/76PJvOgDL3o8VRlPmhuidA) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Phases](https://open.spotify.com/album/0nI7acr4uqpq7fndB2E2G9) | 2:41 |
-| 10 | [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl in the Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 |
+| 10 | [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 |
 | 11 | [Waste No Time](https://open.spotify.com/track/1pqLOEfUhtpiwZh5hPMQpB) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Aligo](https://open.spotify.com/artist/3Uxu9FlhsNSPLfmXEurbFe) | [Waste No Time](https://open.spotify.com/album/0KBOUkdi56WwMOqTwdTkcx) | 3:48 |
 | 12 | [Boys Don't Cry](https://open.spotify.com/track/5y8rL9fRBAhTGu5AlIhNH7) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ) | [Boys Don't Cry](https://open.spotify.com/album/6DF7CCrjd5Gc57gOeM0jrV) | 3:25 |
 | 13 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |

@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-136 songs - 8 hr 23 min
+137 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 | 2022-09-14 |  |
 | [Evoke the Sleep](https://open.spotify.com/track/4mtxoRjuufQebBDrZGeBHI) | [Nun](https://open.spotify.com/artist/32FbyysOUhfSFw2DgGNshC) | [Nun](https://open.spotify.com/album/7JRk6JUMshWJnhJwgSOGUH) | 2:55 | 2022-09-14 |  |
 | [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 | 2022-09-14 |  |
-| [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2022-09-16 |  |
+| [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [DJ Horse](https://open.spotify.com/artist/4hCK913HvW0zFRKEKrgukR), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:12 | 2022-09-16 |  |
+| [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2022-09-16 | 2023-02-12 |
 | [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2022-09-14 |  |
 | [Firefly](https://open.spotify.com/track/5xySUQUYwB4uGxJpLaxjLh) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Pastry](https://open.spotify.com/album/1pL2NNdOk64nvn6KgIPIPe) | 3:01 | 2022-09-14 |  |
 | [Flex](https://open.spotify.com/track/2T2RnC6fdRTE3z41tz4i2e) | [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Flex](https://open.spotify.com/album/3J8qf7WLuEAIKLTVojjQ2U) | 3:47 | 2022-09-14 |  |

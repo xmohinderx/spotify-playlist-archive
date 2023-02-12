@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-257 songs - 20 hr 52 min
+259 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Level 1](https://open.spotify.com/track/4ZCfNZYY5WxIWMh4fuZhzY) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A), [Caïro Liberation Front](https://open.spotify.com/artist/4ekkoU6ZmScTU9kqw3C09r) | [Nymphaea Caerulea EP](https://open.spotify.com/album/2CyKr3HYH8l2T3s6J08IO3) | 3:16 | 2021-11-12 | 2022-08-08 |
 | [Level 1](https://open.spotify.com/track/4sIzOxFgdxbYmrjkoBTQdn) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A), [Caïro Liberation Front](https://open.spotify.com/artist/4ekkoU6ZmScTU9kqw3C09r) | [Nymphaea Caerulea EP](https://open.spotify.com/album/2KxsEPKPfo058TcPxggwri) | 3:16 | 2021-11-12 | 2022-07-28 |
 | [Los Duelistas](https://open.spotify.com/track/0wrDrk9j23NV6OnGaTpib4) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Días Grises](https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy) | 4:25 | 2022-04-09 | 2022-07-27 |
-| [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 | 2022-09-03 |  |
+| [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 | 2022-09-03 | 2023-02-12 |
 | [Lost Heads](https://open.spotify.com/track/1t6GfUPrPVJoe7GxWTkfwW) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Lost Heads](https://open.spotify.com/album/7MSt0uFGyUS5dfEzdhE2Za) | 6:26 | 2021-11-12 | 2022-07-29 |
 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 | 2021-11-12 |  |
 | [Man It Feels Like Space Again](https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Man It Feels Like Space Again](https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q) | 8:21 | 2022-04-12 |  |
@@ -143,7 +143,7 @@
 | [Maria También](https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-11-12 |  |
 | [Marihuana](https://open.spotify.com/track/0Vkc2BBI7d6toJky9WtIKX) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/6eH4KQkY5YvxGkBhONc9lg) | 3:40 | 2021-11-12 | 2022-07-21 |
-| [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 | 2021-11-12 |  |
+| [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 | 2021-11-12 | 2023-02-12 |
 | [María Juana](https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [María Juana](https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM) | 4:54 | 2022-08-03 | 2022-09-03 |
 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 | 2021-11-12 | 2022-11-14 |
 | [Mesmo Coração \- The Holydrug Couple Remix](https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Mesmo Coração Remixes](https://open.spotify.com/album/1a2A7vTxesBdKP0uXy2XKH) | 4:35 | 2021-11-12 | 2022-07-19 |
@@ -234,6 +234,7 @@
 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 | 2021-11-12 |  |
 | [Toda Pessoa](https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK) | [Fumaça Preta](https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi) | [Fumaça Preta](https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5) | 2:39 | 2021-11-12 | 2022-07-29 |
 | [Todo Bien](https://open.spotify.com/track/7ISLcmRNfvsEAZnuARKJUT) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [La Antillana: Sancocho Stereo, Capítulo 3](https://open.spotify.com/album/3St0uMHPSzTkAPgjLlCX66) | 4:32 | 2021-11-12 | 2022-07-28 |
+| [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 | 2021-11-12 |  |
 | [Todo Bien](https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:33 | 2021-11-12 | 2023-01-22 |
 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 | 2021-11-12 |  |
 | [Traveler's Code of Conduct](https://open.spotify.com/track/1GPzf66or0QcgpcAXngthP) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 3:58 | 2021-11-12 | 2022-07-21 |
@@ -244,6 +245,7 @@
 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 | 2022-04-28 | 2022-07-23 |
 | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON) | [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC) | 5:45 | 2022-04-22 | 2022-07-27 |
 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-11-12 | 2023-02-08 |
+| [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 | 2021-11-12 |  |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-11-12 | 2022-07-29 |
 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 | 2021-11-12 |  |
 | [Venus](https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7p9hlxuj9HbFC25xMJqV4S) | 2:54 | 2021-11-12 | 2022-07-17 |

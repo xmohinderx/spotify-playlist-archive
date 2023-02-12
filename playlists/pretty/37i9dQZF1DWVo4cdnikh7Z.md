@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,396 likes - 61 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,911 likes - 61 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 7 | [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Manju Warrier](https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi) | 3:08 |
 | 8 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
 | 9 | [Naadodi Mannan](https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Vaathi](https://open.spotify.com/album/788JAnrm2ALh2sMjTT7BuZ) | 3:23 |
-| 10 | [Thiruttu Payale](https://open.spotify.com/track/67SSSZkWcz5135Z20WD3Kw) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/album/4fvDH7dvFtMd6JfS65xZi8) | 3:23 |
+| 10 | [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/track/02kEn7qNvSgiLXtsCPOslC) | [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [La Varadhan](https://open.spotify.com/artist/13chrwMij7wqrbCLp8WkVH) | [Thiruttu Payale \(From "Ayothi"\) \- Single](https://open.spotify.com/album/1un8rWuCvBFqDWZP4mN1q0) | 3:23 |
 | 11 | [Gangstaa](https://open.spotify.com/track/23xgRYhf7NbleK53LGwgAp) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Thunivu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yrTMquEeWzhMIdGqzXhgA) | 3:20 |
 | 12 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 13 | [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 60 | [Jessica](https://open.spotify.com/track/1BQGKaUYFQzD0Dsy0FfoeD) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Prince \(Tamil\)](https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp) | 4:19 |
 | 61 | [Devaralan Aattam](https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 4:33 |
 
-Snapshot ID: `MTY3NjAyMDgzNiwwMDAwMDAwMDYyMTVlYjhjYzM2MGQ4ODIzMzE5MzQ5NTM3NDFhY2E0`
+Snapshot ID: `MTY3NjAyMDgzNiwwMDAwMDAwMDFmNTkxNjdmZjhkNTBjODg5N2JiMjhlYzk1MGZiN2Zk`

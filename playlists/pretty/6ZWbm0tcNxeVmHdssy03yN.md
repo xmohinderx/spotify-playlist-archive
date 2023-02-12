@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,313 likes - 98 songs - 5 hr 15 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,327 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 19 | [Floating](https://open.spotify.com/track/4yfuE7Lgtlk89h8Etwnaff) | [OSTN](https://open.spotify.com/artist/2BlHB1DOqEZtjVx59HK5nn) | [Floating](https://open.spotify.com/album/3xDIhWzeBmTxgwKpc8E5JI) | 3:24 |
 | 20 | [wanted](https://open.spotify.com/track/2hf7d5vVIyO1i705MxBwE1) | [Chris Sta\. Romana](https://open.spotify.com/artist/6wuUn2hA1M3zkj50KzFvO7) | [wanted](https://open.spotify.com/album/0HXUJIJHna9Pbq8dHVWhyO) | 2:56 |
 | 21 | [Life In Colour](https://open.spotify.com/track/34lDfLOmlhEQFXCuFa82mc) | [MJ Kuok](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [Life In Colour](https://open.spotify.com/album/6NdDFZRqbeW313c1qU0aP5) | 4:59 |
-| 22 | [Arena](https://open.spotify.com/track/7a6D80mLXIWgmA3nbqNVRr) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Boyace](https://open.spotify.com/artist/0G68sAN0rpE8zMbqpXrIna), [Ater](https://open.spotify.com/artist/01Sb4N03rk5VJXqQm1bmoG) | [Arena](https://open.spotify.com/album/6zEO41MVd6EPqDZnW38Gg0) | 3:02 |
+| 22 | [Arena](https://open.spotify.com/track/7a6D80mLXIWgmA3nbqNVRr) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy), [Ater](https://open.spotify.com/artist/01Sb4N03rk5VJXqQm1bmoG) | [Arena](https://open.spotify.com/album/6zEO41MVd6EPqDZnW38Gg0) | 3:02 |
 | 23 | [Then Spring](https://open.spotify.com/track/7oZelwIXofSvJaWFVaab3q) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Then Spring](https://open.spotify.com/album/6ItbvobCRXuW81cebxwCa1) | 4:33 |
 | 24 | [11](https://open.spotify.com/track/4i2fnD0fNr52bQbnJen1Ze) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [11](https://open.spotify.com/album/0RtFhxcSM9hUIeQru3WZgg) | 1:51 |
 | 25 | [Sofa](https://open.spotify.com/track/2IwAiKNgpIdpd8DK4yAPAj) | [Jake Molloy](https://open.spotify.com/artist/1waQekVEOFPMk2MKp4qlYH) | [Sofa](https://open.spotify.com/album/6i219gzfsYUUdeEGxmghUc) | 2:41 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Savage Ga$p
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,421 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,999 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 |
+| 1 | [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 |
 | 2 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
 | 3 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 |
 | 4 | [JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!](https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [THE EVIL IN WHICH WE THRIVE](https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg) | 2:17 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 15 | [Candy Flip](https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U) | [Candy Flip](https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5) | 1:52 |
 | 16 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 17 | [UP LIKE AN INSOMNIAC \- Freestyle](https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 2:31 |
-| 18 | [NEXTBOT!](https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe) | 1:30 |
+| 18 | [NEXTBOT!](https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe) | 1:30 |
 | 19 | [Cyber!](https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [scrot!](https://open.spotify.com/artist/3kOJVA2xUgMPWClERz2q5M) | [Cyber!](https://open.spotify.com/album/6jKjmMdTd717UG6SXCOZGI) | 2:24 |
 | 20 | [JFK](https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [JFK](https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG) | 2:54 |
 | 21 | [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 97 | [CATACOMBS!](https://open.spotify.com/track/5yOzi1QNqPDAlmmCxCl8Z2) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [CATACOMBS!](https://open.spotify.com/album/5jddwfW2Z28S0xFqw2gEol) | 2:36 |
 | 98 | [Crooked Smile](https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8) | [Unaverage Gang](https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA) | [Crooked Smile](https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx) | 2:32 |
 | 99 | [WICKED RITUALS](https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4) | [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [WICKED RITUALS](https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq) | 1:58 |
-| 100 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 |
+| 100 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 |
 
 Snapshot ID: `MTY3NjA0NjYzNywwMDAwMDAwMDRiYjU1MzVlOTIzN2NmMTYwZTgwMjczY2FmMGU0NDNj`

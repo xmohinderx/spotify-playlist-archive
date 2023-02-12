@@ -1,12 +1,12 @@
 {
   "description": "jonatan leandoer96 makes anti pop.",
-  "num_followers": 692445,
+  "num_followers": 692547,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3NjEzOSwwMDAwMDAwMDgyY2M2Y2I1ZTAwZDVjOWNkYWEzMTk5MTVmOWQzNjg5",
+  "snapshot_id": "MTY3NTk3NjEzOSwwMDAwMDAwMDFmZTY5OWY4NzJkMTNkY2ZkZmE0NjdmOTFhODA0M2Yx",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
       "added_at": "2023-01-30 15:34:14",
       "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
@@ -63,22 +79,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I"
     },
     {
-      "added_at": "2023-02-11 00:08:57",
+      "added_at": "2023-02-12 01:05:03",
       "album": {
         "name": "Let\u2019s Start Here.",
         "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2023-02-12 01:05:03",
       "album": {
-        "name": "tobi lou and the Loop - EP",
-        "url": "https://open.spotify.com/album/1JjGKMycjULPogQw8YnDpS"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp"
       },
       "artists": [
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 215384,
-      "name": "Buff Baby",
-      "url": "https://open.spotify.com/track/1F1QmI8TMHir9SUFrooq5F"
+      "duration_ms": 124768,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "tobi lou and the Loop - EP",
+        "url": "https://open.spotify.com/album/1JjGKMycjULPogQw8YnDpS"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Buff Baby",
+      "url": "https://open.spotify.com/track/1F1QmI8TMHir9SUFrooq5F"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Get Inspired",
         "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
@@ -809,6 +825,22 @@
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
     },
     {
+      "added_at": "2023-02-12 01:05:03",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "MANIC MAN",
@@ -827,22 +859,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "wide eyed",
-        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 214068,
-      "name": "wide eyed",
-      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
         "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
@@ -855,26 +871,6 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "say what u mean (with Riovaz)",
-        "url": "https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "say what u mean (with Riovaz)",
-      "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
     }
   ],
   "unique_name": "anti pop",

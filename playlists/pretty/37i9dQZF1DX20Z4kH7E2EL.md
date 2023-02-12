@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,378 likes - 80 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,403 likes - 80 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 22 | [Above It All](https://open.spotify.com/track/0i03aKXpzSrnzu6F97UFLY) | [L.GU.](https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt) | [Didn't Even Say Goodbye / Above It All](https://open.spotify.com/album/79TGyJ5qC4zq86ovZ25vIF) | 3:34 |
 | 23 | [Blind Eye](https://open.spotify.com/track/1Q3RNUOiJKH4x85KOFKG65) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Blind Eye EP](https://open.spotify.com/album/2deZuyl5M5gxpDmkgwLN1B) | 4:58 |
 | 24 | [New Life](https://open.spotify.com/track/5WDQOef6IXuDkLNm8sz2fi) | [Fresh & Low](https://open.spotify.com/artist/2W4RGn8br96aceIfOzi8fI) | [Little i EP](https://open.spotify.com/album/0slGoxoNtLo7UkvIzxON9m) | 7:12 |
-| 25 | [Turn On The Lights again.\. \(feat\. Future\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Turn On The Lights again.\. \(feat\. Future\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 |
+| 25 | [Turn On The Lights again.\. \(feat\. Future\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 |
 | 26 | [Shifty](https://open.spotify.com/track/6x0PwGF7lx5M23UQpvgMdH) | [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [Shifty](https://open.spotify.com/album/09eUqNU7UxERiYXh5DQPgd) | 3:20 |
 | 27 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 | 28 | [In the Booth](https://open.spotify.com/track/01WsWq82CbBG8zoGgoBzIj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [In the Booth](https://open.spotify.com/album/6kj37sDOEVO4d61FSDNBTB) | 3:40 |

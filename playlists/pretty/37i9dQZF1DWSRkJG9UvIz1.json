@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121146,
+  "num_followers": 121145,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGE5Y2Q0NTM1Nzc3MDc4OTRlYWJjYWQzNjQxNGJmMTg4",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDk2NWVkMWYyNGNlNjg0NzNlMDFjMzMzNDI1ZDkzNjVl",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "O Velho e a Flor",
-        "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 172794,
       "name": "+ 1 Minuto",
       "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "O Velho e a Flor",
+        "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 385093,
+      "name": "Um Corpo no Mundo",
+      "url": "https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Maris",
         "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
         }
       ],
-      "duration_ms": 385093,
-      "name": "Um Corpo no Mundo",
-      "url": "https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7"
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 329075,
       "name": "Quando Eu Te Vi / Sorriso - Ao Vivo",
       "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156744,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 174543,
       "name": "Quarta Feira",
       "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156744,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
     },
     {
       "added_at": "2022-11-25 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 113553,
+  "num_followers": 113713,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMDEzMDRmYTRiYzgxMjJkYWMyMWExZDQ5MDYwYjVmYTkz",
+  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMDllOWJlMDQ4YjlmOGVmNjFiZWNiM2U2NTY2ZGIxMjgz",
   "tracks": [
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
+        "name": "Find My Way Home",
+        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 258858,
+      "name": "Find My Way Home",
+      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
         "name": "Lively (feat. Jaykae & Blair Muir)",
         "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 152343,
       "name": "Lively (feat. Jaykae & Blair Muir)",
       "url": "https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
-        "name": "Find My Way Home",
-        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 258858,
-      "name": "Find My Way Home",
-      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "The Damn Guy",
-        "url": "https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 344999,
-      "name": "The Damn Guy",
-      "url": "https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "The Damn Guy",
+        "url": "https://open.spotify.com/album/7EcAkAIGh1Nd7EDyAp5bZ7"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 344999,
+      "name": "The Damn Guy",
+      "url": "https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F"
     },
     {
       "added_at": "2023-01-25 15:38:15",

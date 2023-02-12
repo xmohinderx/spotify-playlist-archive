@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Lat\u00eancia",
+        "url": "https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229463,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG"
+    },
+    {
+      "album": {
         "name": "Lagrimas na Chuva",
         "url": "https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh"
       },
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 237533,
       "name": "Mais Uma Vez",
       "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 154000,
       "name": "Room",
       "url": "https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI"
@@ -3550,6 +3568,24 @@
       "duration_ms": 233247,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 N\u00f3s Os Dois",
+        "url": "https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "S\u00f3 N\u00f3s Os Dois",
+      "url": "https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i"
     },
     {
       "album": {

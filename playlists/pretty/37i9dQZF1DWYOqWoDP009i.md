@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,400 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,439 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 80 | [Can You Get It](https://open.spotify.com/track/1iNWWO3i1L4gpy7fZpdUwP) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [We Are One](https://open.spotify.com/album/7IgADQJ3fC8kcacByNzT0K) | 7:08 |
 | 81 | [Keep Running Away](https://open.spotify.com/track/3Al10onqVAaunkLlM1KBzK) | [Clifford Nyren](https://open.spotify.com/artist/68r3QCLIv4884toe4quR8t) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 2:56 |
 | 82 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
-| 83 | [Wake Up Pts\. 1 & 2](https://open.spotify.com/track/5XkMROoPgSETi2VNlfjkqy) | [Pure Essence](https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 6:08 |
+| 83 | [Wake Up, Pts\. 1 & 2](https://open.spotify.com/track/5XkMROoPgSETi2VNlfjkqy) | [Pure Essence](https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 6:08 |
 | 84 | [Free Your Mind](https://open.spotify.com/track/0NnskZoHyK1fgK4wy3DQ7E) | [Record Player](https://open.spotify.com/artist/4UfgH6qo2MpDAkkrTWcULS) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 3:50 |
 | 85 | [We Need Peace And Love](https://open.spotify.com/track/2Ci4Nr1IydpEq9j3u7gOB3) | [L.A\. Carnival](https://open.spotify.com/artist/1dz6wxFknhBzp8fZNP6Wlb) | [Would Like To Pose A Question](https://open.spotify.com/album/7ufsMArJeoaEYtfyBNB0cL) | 4:03 |
 | 86 | [Moment of Truth](https://open.spotify.com/track/6awk6CZQT29sMARUrszTc7) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Earth, Wind & Fire](https://open.spotify.com/album/2hzWzBtuhlpa9qGwtoAtzB) | 3:12 |

@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Izabela Zabielska
 
-94 songs - 5 hr 34 min
+95 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [You Don't Understand Me](https://open.spotify.com/track/3Re2nQkNd0r8xruQ2m6aiE) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [You Don't Understand Me](https://open.spotify.com/album/57Z2HxWEMKEMiq39wy1uTK) | 4:25 | 2022-06-01 | 2022-06-11 |
 | [zanim](https://open.spotify.com/track/0ZwMbR7nt66eB1WR0YcHa0) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [CISZA W BLOKU](https://open.spotify.com/album/0fIAR61jSqd4pjpWrsCRbb) | 5:34 | 2021-06-22 | 2022-06-01 |
 | [Zespół Cotarda](https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT) | 2:53 | 2022-06-01 | 2023-02-10 |
-| [Zespół Cotarda](https://open.spotify.com/track/4Rx8hrk2WIIu4mP73X8Ie0) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Zespół Cotarda](https://open.spotify.com/album/5UcgSVyRnjYU7pAbqwbbJZ) | 2:55 | 2023-01-24 |  |
+| [Zespół Cotarda](https://open.spotify.com/track/6XswpcCoSrlrW1VpkjR68t) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/1ILYe1Hxk3Te4LLx5Ukd7D) | 2:53 | 2023-01-24 |  |
+| [Zespół Cotarda](https://open.spotify.com/track/4Rx8hrk2WIIu4mP73X8Ie0) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Zespół Cotarda](https://open.spotify.com/album/5UcgSVyRnjYU7pAbqwbbJZ) | 2:55 | 2023-01-24 | 2023-02-12 |
 | [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-06-01 | 2022-06-11 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

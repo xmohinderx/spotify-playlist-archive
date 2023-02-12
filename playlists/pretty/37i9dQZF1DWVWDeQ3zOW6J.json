@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 30370,
+  "num_followers": 30397,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGY2MmRkMDJmZWY4ODUwNmY2MTg3MTNmYzQ2NTlhODY3",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDZkMTczNTEzNjMxZjYzNjY3OTdkZTFlYjRiNWY2ZmIy",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Las Flores De La Vida",
-        "url": "https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "La negra Tomasa",
-      "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Creativo",
         "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 305057,
       "name": "Zumbale",
       "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Las Flores De La Vida",
+        "url": "https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "La negra Tomasa",
+      "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "The Very Best Of Beny More Vol. 1",
-        "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Salsa Y Control",
         "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 180120,
       "name": "Bong\u00f3 Loco",
       "url": "https://open.spotify.com/track/5lboVDQhwDfI9Kf1tBMiHI"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "The Very Best Of Beny More Vol. 1",
+        "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -939,26 +939,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Con Salsa y Sabor",
-        "url": "https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr"
-      },
-      "artists": [
-        {
-          "name": "Menique",
-          "url": "https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP"
-        },
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Con Salsa Y Sabor",
-      "url": "https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Fruko el Patillero",
         "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 207533,
       "name": "Patillero",
       "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Con Salsa y Sabor",
+        "url": "https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr"
+      },
+      "artists": [
+        {
+          "name": "Menique",
+          "url": "https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP"
+        },
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 250946,
+      "name": "Con Salsa Y Sabor",
+      "url": "https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "Antolog\u00eda de la M\u00fasica Cubana",
+        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n De Cuba",
+          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n De Cuba",
-          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
     }
   ],
   "unique_name": "Cocina con Salsa",

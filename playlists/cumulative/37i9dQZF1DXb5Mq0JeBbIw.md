@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-199 songs - 11 hr 30 min
+200 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alien \- Acoustic](https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien \(Acoustic\)](https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS) | 3:24 | 2022-05-30 | 2022-07-29 |
 | [Alone \- Acoustic](https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:46 | 2022-06-24 | 2022-11-12 |
 | [Alone \- Acoustic](https://open.spotify.com/track/2tCtgel3uat9YPL5givf5C) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:46 | 2022-05-30 | 2022-07-29 |
+| [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-12 |  |
 | [Babies](https://open.spotify.com/track/6ixPqy7A6dHuVcYDPlpno7) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/4sUjZTEhcxSgilbaFohZKJ) | 3:16 | 2022-05-30 | 2022-07-23 |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-05-30 |  |
 | [Bad Liar – Stripped](https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bad Liar – Stripped](https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy) | 4:13 | 2022-05-30 |  |
@@ -27,7 +28,7 @@
 | [Bones \- Acoustic](https://open.spotify.com/track/2Z9LGFJvS856wfl1RW28up) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Bones \(Acoustic\)](https://open.spotify.com/album/1UVGUP1HTAMxa79o2n4QMz) | 3:21 | 2022-05-30 | 2022-07-29 |
 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 | 2022-06-24 | 2023-01-09 |
 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 | 2022-05-30 |  |
-| [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6tgsUiewXcSnuzOTMNsEWE) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good?](https://open.spotify.com/album/0FnYhRGTIsIK4aGMc4KvFw) | 2:55 | 2023-01-06 |  |
+| [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6tgsUiewXcSnuzOTMNsEWE) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good?](https://open.spotify.com/album/0FnYhRGTIsIK4aGMc4KvFw) | 2:55 | 2023-01-06 | 2023-02-12 |
 | [Chasing after the moon](https://open.spotify.com/track/3iBYSJKwt7BLhyAbjZIIot) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing after the moon](https://open.spotify.com/album/14TbHE0RpXdAI5JLHGMrAo) | 3:58 | 2022-05-30 | 2022-07-29 |
 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 | 2022-06-24 |  |
 | [Chasing Cars \- Acoustic](https://open.spotify.com/track/0N8R7LdWNyM4XP2bR6pgiF) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/20YqElW2NNW0ecHDfAyDVg) | 3:56 | 2022-05-30 | 2022-07-29 |

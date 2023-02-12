@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,283 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,274 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 54 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:24 |
 | 55 | [Sweet Little Jesus Boy](https://open.spotify.com/track/7lOXKKbn55lAJuTQIRopL1) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 3:26 |
 | 56 | [Emmanuel is Here](https://open.spotify.com/track/0DDNfG9ZxThYp79QSsp36H) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Emmanuel is Here](https://open.spotify.com/album/7MLDmQxZUyRAtVQ8cSLbmf) | 5:31 |
-| 57 | [Silent Night](https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 3:20 |
-| 58 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
+| 57 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
+| 58 | [Silent Night](https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 3:20 |
 | 59 | ['Tis the Season](https://open.spotify.com/track/2v73c52CSbgGcYnpoGF7Dw) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:05 |
 | 60 | [O Holy Night](https://open.spotify.com/track/6w8pIZZHREBSk1qpHuA7cB) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 5:18 |
 | 61 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 66 | [Song For The Hopeful \(feat\. Kim Burrell\)](https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:35 |
 | 67 | [Go Tell](https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:24 |
 | 68 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
-| 69 | [Away In A Manger \- His Gift Version](https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:24 |
-| 70 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 |
+| 69 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 |
+| 70 | [Away In A Manger \- His Gift Version](https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:24 |
 | 71 | [Mary, Did You Know?](https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Mary, Did You Know?](https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR) | 4:17 |
 | 72 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 |
 | 73 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 |
 | 100 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDQ3NGZhNDFmOTA4ZjFmN2Y1MmQ0OTM3MTJjMDFkZDFm`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDBhZGJmNmEwZGUyZjU5ODNiZDhiYzY1MDQ5ZTUyMmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,046 likes - 212 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 212 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 14 | [ヒゲとボイン\(Live at TOUR 2017「UC30 若返る勤労」 2017.12.6 at 福岡 DRUM LOGOS\)](https://open.spotify.com/track/2ECvlCNnc8wwK8gicoyB3j) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [OH! MY RADIO+Live Tracks \[UC30 若返る勤労\]](https://open.spotify.com/album/2pQUhNB0vQRC0KsNUBayMy) | 5:14 |
 | 15 | [今夜はブギー・バック<Live at BIG EGG ?>](https://open.spotify.com/track/1sco77iBXdmAZgPBWULTq6) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [ポテン・ヒッツ〜シングル・コレクション](https://open.spotify.com/album/0HfG1LveJ1jI2e1SDcpRda) | 4:16 |
 | 16 | [いかれたBaby \- Live at 新宿リキッドルーム / 1996](https://open.spotify.com/track/6Ug5E8IAsCDfEoowb0rYbd) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [若いながらも歴史あり 96.3.2@新宿LIQUID ROOm](https://open.spotify.com/album/6ajIeazRPXJtthT03jg8G7) | 5:21 |
-| 17 | [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/track/4KSpUKPGDs5Imky67qErmy) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Home Again \(Live From Central Park, New York City, May 26, 1973\)](https://open.spotify.com/album/2YreZT5h52SHMGCOZsEHQX) | 2:43 |
+| 17 | [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/track/0Hu4S65BK6WAmQHQ9EP4v1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Home Again \- Live From Central Park, New York City, May 26, 1973](https://open.spotify.com/album/50CaGSXy1G8maVQypYXbxr) | 2:43 |
 | 18 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 |
 | 19 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/76XZ8TXH5UkjYzv6FQcthS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Live in Tokyo, Japan '99](https://open.spotify.com/album/6IfrO26rrFYAEbKLPjYZF0) | 4:23 |
 | 20 | [What's Going On \- Live At Oakland Coliseum, CA / 1974](https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 4:49 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 | 211 | [Hey Jude \- Live](https://open.spotify.com/track/0hospr5viAnCPJuGCRCEz5) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tripping The Live Fantastic](https://open.spotify.com/album/0kaRUxrggtrnJbojB8SHLZ) | 8:03 |
 | 212 | [We Are the World \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/3CwguvgTBq4l9BdEKKn4T2) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are the World \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/1AGo4PjdSILii1xLetA0Hx) | 7:35 |
 
-Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGZlNTdhNjYwOGI4N2MwMDRjZjAyMjE2YjQyODZkOGU0`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMDAzMDlhZWIwNjE3Mzg2Mzk1OTNmMzY2NTc3NDI5ZmZl`

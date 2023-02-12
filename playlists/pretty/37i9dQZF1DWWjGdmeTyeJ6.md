@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: LANNDS\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,193 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,281 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 24 | [WE UP!](https://open.spotify.com/track/6gkx7beLILfdau11eptyDa) | [crtl](https://open.spotify.com/artist/3qVEIERxTPHF3QIPj2lMy6) | [CONCRETE](https://open.spotify.com/album/3vTS0z3hThRgEg0gCqmCBI) | 2:00 |
 | 25 | [FREYA](https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB) | [Maria Celin](https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd) | [FREYA](https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T) | 3:03 |
 | 26 | [One](https://open.spotify.com/track/1069Ebu1HdfSVgbOB8O3zk) | [Berzingue](https://open.spotify.com/artist/1fxHgs4EJ0MS52b2u8bjKa) | [One](https://open.spotify.com/album/6J9JduAffjemdIszo50U47) | 4:35 |
-| 27 | [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/3kgROi1kqtJl48OMmG8AZK) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 |
+| 27 | [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 |
 | 28 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 |
 | 29 | [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 |
 | 30 | [eighteen](https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j), [Cole Bauer](https://open.spotify.com/artist/57gW9421NHL1WJjJ82Qdn1) | [eighteen](https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6) | 1:51 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 44 | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/track/5crpZ1WK6HHlZsSA4fRny9) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse) | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd) | 2:44 |
 | 45 | [Ole](https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP) | 2:38 |
 | 46 | [Feel Aight](https://open.spotify.com/track/6Jc9zvnkG7Q2t4pmpuVTl2) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Feel Aight/Wickedest](https://open.spotify.com/album/6n73FDBgFdRrLfSIutktEi) | 4:43 |
-| 47 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 2:03 |
+| 47 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 1:58 |
 | 48 | [dangerous](https://open.spotify.com/track/4QcfyE17dRGVCb2ZLrepnG) | [NOVA ONE](https://open.spotify.com/artist/23AoRz8asmZEYrUd1GpRiS) | [dangerous](https://open.spotify.com/album/08x4sWyx2sNVxeKEfG8edB) | 3:13 |
 | 49 | [Cali](https://open.spotify.com/track/4HImF9Ti5AjY4F3YkIGAXV) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [Cali](https://open.spotify.com/album/7zOVXchqMxvPegINjkqg0z) | 4:07 |
 | 50 | [Space](https://open.spotify.com/track/0gZhb7dvu3xMvPQyF2AUoc) | [Caroline Lobb](https://open.spotify.com/artist/1pfxi1NJbyyu5H6qvuws5B) | [Space](https://open.spotify.com/album/6miksY7BC5soZNpPs3nVXM) | 4:12 |

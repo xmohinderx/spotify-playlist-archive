@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 470393,
+  "num_followers": 470417,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg2MDExOSwwMDAwMDAwMDBhNWM3MWY3N2IyNjVkMDFiNTg3YjdkMDFiMDUyZjAw",
+  "snapshot_id": "MTY3NDg2MDExOSwwMDAwMDAwMGFjZjczYjViMjY3ZWUxNzFiN2ZhZWMwNDQwMDU0ODdl",
   "tracks": [
     {
       "added_at": "2023-01-27 22:55:19",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 219522,
-      "name": "Black and Red",
-      "url": "https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "We're Not Here to Be Loved",
         "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 77466,
       "name": "Kiss the Ladder",
       "url": "https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 219522,
+      "name": "Black and Red",
+      "url": "https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Cause You Got Me",
-        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
-      },
-      "artists": [
-        {
-          "name": "MOSES",
-          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
-        }
-      ],
-      "duration_ms": 232526,
-      "name": "Cause You Got Me",
-      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 241859,
       "name": "Lava Lamp Pisco",
       "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Cause You Got Me",
+        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
+      },
+      "artists": [
+        {
+          "name": "MOSES",
+          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
+        }
+      ],
+      "duration_ms": 232526,
+      "name": "Cause You Got Me",
+      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Robot Writes A Love Song",
-      "url": "https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/11VAtsmWxECwQCYzdnpyYz"
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
       "artists": [
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4Rk5WkMZySCyu3LinjKIMU"
+      "duration_ms": 216013,
+      "name": "Robot Writes A Love Song",
+      "url": "https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -739,6 +723,22 @@
       "duration_ms": 176119,
       "name": "Make A Dime",
       "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/11VAtsmWxECwQCYzdnpyYz"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4Rk5WkMZySCyu3LinjKIMU"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Burn The Empire",
-      "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Get Out Of My Life",
         "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 187431,
       "name": "Get Out Of My Life",
       "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Burn The Empire",
+      "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 204560,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Nowhere Generation [with Meg Myers]",
-        "url": "https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        },
-        {
-          "name": "Meg Myers",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 239252,
-      "name": "Nowhere Generation [with Meg Myers]",
-      "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "Welcome to Silvertown",
         "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
       },
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Chewing Glass",
-        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
+        "name": "Nowhere Generation [with Meg Myers]",
+        "url": "https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl"
       },
       "artists": [
         {
-          "name": "James and the Cold Gun",
-          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Chewing Glass",
-      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
+      "duration_ms": 239252,
+      "name": "Nowhere Generation [with Meg Myers]",
+      "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1147,6 +1131,22 @@
       "duration_ms": 187907,
       "name": "Stop Making Stupid People Famous (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/5L0VmR4Ny4PJpn9Gn0DB3w"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Chewing Glass",
+        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
+      },
+      "artists": [
+        {
+          "name": "James and the Cold Gun",
+          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Chewing Glass",
+      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
     },
     {
       "added_at": "2023-01-27 22:55:19",

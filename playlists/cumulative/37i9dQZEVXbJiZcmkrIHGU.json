@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
+    },
+    {
+      "album": {
         "name": "2 Glocks (feat. SHAFO)",
         "url": "https://open.spotify.com/album/2wnlZ7uF3XfUmRHhR704gD"
       },
@@ -1683,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Alte Zeit",
+        "url": "https://open.spotify.com/album/0xaRQICFAaIz5IcXNLwcHZ"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159940,
+      "name": "Alte Zeit",
+      "url": "https://open.spotify.com/track/3We7PGdp5KgeVSZZbcD9T0"
+    },
+    {
+      "album": {
         "name": "Amin",
         "url": "https://open.spotify.com/album/05pWzqivs016ZwbGoPmAY8"
       },
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 210927,
       "name": "ATHENA",
       "url": "https://open.spotify.com/track/2Ic4yeE0arD9AZ4RIbixFU"
@@ -3364,7 +3400,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -4153,6 +4189,32 @@
     },
     {
       "album": {
+        "name": "Blocckind (feat. VOLO & Hanybal)",
+        "url": "https://open.spotify.com/album/4dDqpgvj56uE1bxzSA7XNZ"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "VOLO",
+          "url": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+        },
+        {
+          "name": "Hanybal",
+          "url": "https://open.spotify.com/artist/2HdP7fpDiLWAvElYGg75gd"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Blocckind (feat. VOLO & Hanybal)",
+      "url": "https://open.spotify.com/track/0eawqqWr7RvuJZRiKHUd3R"
+    },
+    {
+      "album": {
         "name": "BLOCK",
         "url": "https://open.spotify.com/album/5A1Is7HI1rw5Uvqj1CDLgv"
       },
@@ -4687,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "Broker",
+        "url": "https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150877,
+      "name": "Broker",
+      "url": "https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K"
+    },
+    {
+      "album": {
         "name": "Brooklyn",
         "url": "https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B"
       },
@@ -4964,7 +5044,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -8468,7 +8548,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 137647,
       "name": "Endlos_demo",
       "url": "https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH"
@@ -11077,6 +11157,32 @@
     },
     {
       "album": {
+        "name": "GLAS VOLL (feat. Haftbefehl)",
+        "url": "https://open.spotify.com/album/5wNFqoqQDq3BTyrWLOYBrg"
+      },
+      "artists": [
+        {
+          "name": "Veysel",
+          "url": "https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Juh-Dee",
+          "url": "https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150685,
+      "name": "GLAS VOLL (feat. Haftbefehl)",
+      "url": "https://open.spotify.com/track/6m07skx9DWbciQr2UwnmHS"
+    },
+    {
+      "album": {
         "name": "Fieber / Glatteis",
         "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
       },
@@ -11242,7 +11348,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 170370,
       "name": "Gold",
       "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
@@ -14663,6 +14769,24 @@
     },
     {
       "album": {
+        "name": "KEIN PLATZ",
+        "url": "https://open.spotify.com/album/3aBdhXTFCNbxI1Q7YdF8wv"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339428,
+      "name": "KEIN PLATZ",
+      "url": "https://open.spotify.com/track/6BQLSFiGjZ0rpPJ3HVkxin"
+    },
+    {
+      "album": {
         "name": "Paar Sommerlieder",
         "url": "https://open.spotify.com/album/4El7sdvcVwuPrfFwvHbXe6"
       },
@@ -15232,7 +15356,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 168306,
       "name": "Kleiner Finger Schwur",
       "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
@@ -16859,6 +16983,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "album": {
         "name": "Lost (feat. TOPIC42)",
         "url": "https://open.spotify.com/album/5ZJ2c9bd5wsIXlQboaM53r"
       },
@@ -17908,6 +18050,24 @@
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
+    },
+    {
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/6CpXicaYjSVKKAp078PU79"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139593,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/3GGgcGLYrrpMENcwmsWvbM"
     },
     {
       "album": {
@@ -20030,7 +20190,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -20122,6 +20282,32 @@
       "duration_ms": 195000,
       "name": "Narben",
       "url": "https://open.spotify.com/track/20fUNoEcL6njzvpQq8JwAt"
+    },
+    {
+      "album": {
+        "name": "Narben (feat. vito)",
+        "url": "https://open.spotify.com/album/5IzUntTV94QUwhMMw334P9"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        },
+        {
+          "name": "vito",
+          "url": "https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161939,
+      "name": "Narben (feat. vito)",
+      "url": "https://open.spotify.com/track/4XrPJ8XNqj07GKvEUPNVe3"
     },
     {
       "album": {
@@ -20978,7 +21164,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 164253,
       "name": "Nur ein Trost",
       "url": "https://open.spotify.com/track/2xIHVoglz5mLrNf145RieQ"
@@ -23336,7 +23522,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 136256,
       "name": "Ray Liotta",
       "url": "https://open.spotify.com/track/2IiXj6SbQcgEjCBXDiQ5TF"
@@ -25154,7 +25340,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 217196,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -25372,6 +25558,24 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
+    },
+    {
+      "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201226,
+      "name": "Sie",
+      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
     },
     {
       "album": {
@@ -26361,6 +26565,24 @@
     },
     {
       "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Steht Mir",
+      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
+    },
+    {
+      "album": {
         "name": "Steig Ein",
         "url": "https://open.spotify.com/album/1Y7pSMIkdhaqcKBIO1frSd"
       },
@@ -26717,6 +26939,28 @@
     },
     {
       "album": {
+        "name": "Sturkopf (mit ner Glock)",
+        "url": "https://open.spotify.com/album/4tSoKS8d26eyigOHVNvtZy"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Sturkopf (mit ner Glock)",
+      "url": "https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw"
+    },
+    {
+      "album": {
         "name": "Suche nach mehr",
         "url": "https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA"
       },
@@ -26998,7 +27242,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -28968,7 +29212,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 133276,
       "name": "Unzertrennlich",
       "url": "https://open.spotify.com/track/1NAEIUBOWGIwSSFNvMDA2k"
@@ -30170,7 +30414,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
@@ -31244,6 +31488,24 @@
       "duration_ms": 203367,
       "name": "Worldwide Steppers",
       "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"
+    },
+    {
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/2hwxS7sxpiJc4XYqDHWBKV"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131559,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3FRgRHgWULSa5qR6NWVnyJ"
     },
     {
       "album": {

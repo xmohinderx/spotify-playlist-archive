@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Marca MP en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,100 likes - 54 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,544 likes - 54 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

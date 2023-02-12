@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Cordae & Anderson .Paak
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,053 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,273 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 41 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 | 42 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 |
 | 43 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 |
-| 44 | [FAR](https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [Dirty Sanchez 47](https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ) | [FAR](https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj) | 3:22 |
+| 44 | [FAR \(fear\. T'nah\)](https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [Dirty Sanchez 47](https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ), [T'nah](https://open.spotify.com/artist/6O4dbSgX35YBM1yhXRknZp) | [FAR \(fear\. T'nah\)](https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj) | 3:22 |
 | 45 | [Thinking to Myself](https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Thinking to Myself](https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca) | 2:15 |
 | 46 | [MOST DANGEROUS](https://open.spotify.com/track/7DBaTR7rUjFpzmh3xdwt63) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [MOST DANGEROUS](https://open.spotify.com/album/2lvWkIg8gxm7Tg7xKJ2kDD) | 3:44 |
 | 47 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |

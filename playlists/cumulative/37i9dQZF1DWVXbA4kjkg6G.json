@@ -590,7 +590,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 362106,
       "name": "Dieu Reconnaitra Les Siens",
       "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 322200,
       "name": "Five Days",
       "url": "https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 462240,
       "name": "Get Your Head Down",
       "url": "https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU"
@@ -1762,6 +1762,24 @@
       "duration_ms": 336586,
       "name": "Spicy Snapper",
       "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
+    },
+    {
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "album": {

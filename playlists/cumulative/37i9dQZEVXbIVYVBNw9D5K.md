@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-598 songs - 1 day 6 hr 18 min
+599 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Kediler Aslan Olmaz](https://open.spotify.com/track/0iQGwVx3GbJaVuLNthKToL) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Kediler Aslan Olmaz](https://open.spotify.com/album/031vHIyVJmPlsn5AmvZygD) | 2:58 | 2021-11-21 | 2021-11-23 |
 | [Kendileri](https://open.spotify.com/track/2zI5Vxd2X12f0S9LiQcyOy) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Kendileri](https://open.spotify.com/album/0QhYO4WJX2UvdQ9NHhn0c4) | 2:58 | 2023-01-02 | 2023-02-05 |
 | [Kendime Yalan Söyledim](https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Akiyor Zaman](https://open.spotify.com/album/5t6JANuspt8XBIFDlbZYYq) | 4:27 | 2021-10-12 | 2022-01-22 |
-| [Keskin](https://open.spotify.com/track/4cziPzONppT5Wmdsj1SVlf) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Keskin](https://open.spotify.com/album/42MQd5f4luxqeDq7VlkFwx) | 3:21 | 2022-12-18 |  |
+| [Keskin](https://open.spotify.com/track/4cziPzONppT5Wmdsj1SVlf) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Keskin](https://open.spotify.com/album/42MQd5f4luxqeDq7VlkFwx) | 3:21 | 2022-12-18 | 2023-02-12 |
 | [KHRBR](https://open.spotify.com/track/5GKPjeEbJOiV28JLtCe5hN) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [KHRBR](https://open.spotify.com/album/4NxhH37smnjnfEs0Cesdk5) | 4:44 | 2021-08-08 | 2021-11-14 |
 | [Kim](https://open.spotify.com/track/1YwRyNs61T8oPFyAmLbLCS) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kim](https://open.spotify.com/album/0MMYCbunVdOBW3A2BLDEIz) | 2:56 | 2021-07-04 | 2021-07-11 |
 | [KISASA KISAS](https://open.spotify.com/track/1cZxbvFejxE6vIotQAy5Wc) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [KISASA KISAS](https://open.spotify.com/album/2AmjFQINqTZyZY60kpfhhq) | 3:20 | 2021-06-06 | 2021-06-10 |
@@ -524,6 +524,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Taksim](https://open.spotify.com/track/5jIaEzm69OQiXgpJN3MSdo) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Taksim](https://open.spotify.com/album/1QraVWAxVEwY8tD1GcH1im) | 3:11 | 2022-03-22 | 2022-03-24 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2022-12-24 | 2023-02-04 |
+| [TALIBANA](https://open.spotify.com/track/4XCXLyuJMstvowCIn6HKAr) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/77sKCUHUyapmQKRwmHLmpL) | 2:38 | 2023-02-11 |  |
 | [TALIBANA](https://open.spotify.com/track/5pItIXivjDrUzI2iIhKIVK) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/6hAD0e4SiI1FQR7K265VrV) | 2:38 | 2023-02-08 | 2023-02-10 |
 | [Tamam Aşkım](https://open.spotify.com/track/2pqe4vRhVzf6lHN4rzOTiB) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Aramam](https://open.spotify.com/album/2TJGVc8r8FEzYTlUCAGWMO) | 3:38 | 2021-07-01 | 2021-07-16 |
 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 | 2022-11-02 | 2022-11-06 |

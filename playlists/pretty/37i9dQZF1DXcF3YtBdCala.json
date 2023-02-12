@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. El Bebeto en portada. ",
-  "num_followers": 124951,
+  "num_followers": 124970,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMDBlODE4MmU5ZmRjZjA0MjJjZjQ3YTA1NWRjYzBiYWRk",
+  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMDg1OGU4ZDY5MmQyODBmMTFkOWQzOWFhNTNjMGFiMGQx",
   "tracks": [
     {
       "added_at": "2023-01-20 06:00:00",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Decid\u00ed Olvidarte",
-        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Decid\u00ed Olvidarte",
-      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "No Me Hace Falta Nada",
@@ -1311,6 +1295,22 @@
       "duration_ms": 193841,
       "name": "No Me Hace Falta Nada",
       "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Decid\u00ed Olvidarte",
+        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Decid\u00ed Olvidarte",
+      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
     },
     {
       "added_at": "2022-09-23 05:00:00",

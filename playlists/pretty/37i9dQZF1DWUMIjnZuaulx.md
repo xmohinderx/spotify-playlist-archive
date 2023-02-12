@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Jekalyn Carr
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,280 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,465 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 44 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 | 45 | [You're The Worthy One](https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You're The Worthy One](https://open.spotify.com/album/41nAXYitdpFqk1LmbekoP1) | 4:48 |
 | 46 | [Fill Us Again](https://open.spotify.com/track/7kVkRvD6GzhiE9HyeTyzUx) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Fill Us Again](https://open.spotify.com/album/1UY2yWmD89szxPnrBpCVXX) | 7:22 |
-| 47 | [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE](https://open.spotify.com/artist/553zEC0LThpSSICa8mDQmv), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 |
+| 47 | [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 |
 | 48 | [Be Alright](https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY) | [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF), [Christina Bell](https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR) | [How Are You Healing?](https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy) | 4:45 |
 | 49 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 |
 | 50 | [View The City \(Remix\)](https://open.spotify.com/track/7AYkcUM5V8XMOapDLfyhum) | [RiZen](https://open.spotify.com/artist/7C3Pq2a9BxqO7lEhCuXMLV) | [View The City \(Remix\)](https://open.spotify.com/album/7K0eWzmViERBe9IKdIa9xC) | 4:34 |

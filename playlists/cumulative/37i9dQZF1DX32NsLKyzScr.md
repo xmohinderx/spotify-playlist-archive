@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-925 songs - 2 day 2 hr 38 min
+926 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Dr Sbaitso](https://open.spotify.com/track/3ehnUlsh4gPBmORuJkOiPd) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Dr Sbaitso](https://open.spotify.com/album/0sw7ZNq5qoxUStAzDUlLBR) | 3:15 | 2020-09-21\* | 2020-12-18 |
 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 | 2022-03-11 | 2022-08-09 |
 | [Dreams \(feat\. LUISAH\)](https://open.spotify.com/track/17TnrxLrNaa5q0ZZJmjYVy) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Dreams \(feat\. LUISAH\)](https://open.spotify.com/album/1JNLOOvwudGCLTUUN7Wcry) | 3:11 | 2021-06-12 | 2021-09-18 |
-| [Dreams Come True](https://open.spotify.com/track/6OgK0QV9SlIIrzykt39S49) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Dreams Come True](https://open.spotify.com/album/6aR6l10Qlm7WjEfoQgEVV3) | 2:39 | 2023-01-13 |  |
+| [Dreams Come True](https://open.spotify.com/track/6OgK0QV9SlIIrzykt39S49) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Dreams Come True](https://open.spotify.com/album/6aR6l10Qlm7WjEfoQgEVV3) | 2:39 | 2023-01-13 | 2023-02-12 |
 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 | 2021-08-21 | 2022-03-12 |
 | [Drive](https://open.spotify.com/track/74oU6ybtPslVklKaoGvHnm) | [Zantzo](https://open.spotify.com/artist/2KlWOmRGu0gDFz0nDkkArM) | [Drive](https://open.spotify.com/album/2zdPhkXQAZYL7haKTkmSrl) | 3:18 | 2020-09-21\* | 2020-11-03 |
 | [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 | 2022-03-11 | 2022-07-27 |
@@ -531,6 +531,7 @@
 | [NOPUS](https://open.spotify.com/track/02dPa4nXABwnFzjZosKxsk) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [NOPUS](https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA) | 3:20 | 2021-01-08 | 2021-09-18 |
 | [Nostalgia Drive](https://open.spotify.com/track/4VW0j6n5ve0hkkaVJRStbJ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Game Over](https://open.spotify.com/album/5MyJi199OGruB5b7MprSJb) | 7:52 | 2020-09-21\* | 2020-10-10 |
 | [Not Alone](https://open.spotify.com/track/5ctXnsZojAvfDq75D4N1bz) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Not Alone](https://open.spotify.com/album/6CdexAmMUIwpGJD7q1wD2a) | 3:16 | 2022-02-11 | 2022-04-02 |
+| [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-10 |  |
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-05-15 | 2021-09-18 |
 | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x) | 3:06 | 2022-05-13 | 2022-07-29 |
 | [Nothing Matters \- Kapera Remix](https://open.spotify.com/track/182diZ20hXa9pRtRJv1vyJ) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Kapera](https://open.spotify.com/artist/6pbownHQeZG6xwDSUEjewe) | [Nothing Matters \(Remixes\)](https://open.spotify.com/album/4jUmWgA0Y6GjeAnojjAxYC) | 3:18 | 2021-12-03 | 2022-03-12 |

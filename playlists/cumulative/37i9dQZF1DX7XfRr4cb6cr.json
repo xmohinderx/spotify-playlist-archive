@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Ardent",
+        "url": "https://open.spotify.com/album/3NuQL86Pn1mTYcej6XwOCI"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Poles",
+          "url": "https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Ardent",
+      "url": "https://open.spotify.com/track/28XnWGHQ1c3fhxZGBbJVKb"
+    },
+    {
+      "album": {
         "name": "62000 | 62508",
         "url": "https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 302400,
       "name": "Future Memory",
       "url": "https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, puras rimas de la calle\. MC Davo y Tornillo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,386 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,570 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 8 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 |
 | 9 | [Fuerza Vocal](https://open.spotify.com/track/4feH6J8GiazximCINmxvxa) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF), [Zara Monrroy](https://open.spotify.com/artist/3aowb82qA25g96n68zJIIx), [DJ Rakalku](https://open.spotify.com/artist/0zumQDPW1fSzDNRZV0NXVy) | [Fuerza Vocal](https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys) | 4:10 |
 | 10 | [De Niro](https://open.spotify.com/track/37e713wCRv41OKBhv8cymy) | [Elorik](https://open.spotify.com/artist/0rCrD9pAUWP4kL2ULv94GG), [Iyhon Secuaz](https://open.spotify.com/artist/1zgxaHftgbxv06Bftdq7me) | [De Niro](https://open.spotify.com/album/3g54wS3nIA94mvCwrE4LQ5) | 3:22 |
-| 11 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
+| 11 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 |
 | 12 | [El Paso](https://open.spotify.com/track/3ZXYMVZVoT6xUplGpMNlCH) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Paso](https://open.spotify.com/album/5DgmRYNaI2aZk9s6ScwypE) | 2:34 |
 | 13 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 14 | [Así Es Como Es](https://open.spotify.com/track/7AHcgO9JWCA8cwyQ9gPOBH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Así Es Como Es](https://open.spotify.com/album/5cNd3JTnVB3cRY5WkSv3m9) | 3:46 |

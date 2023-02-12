@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43901,
+  "num_followers": 43904,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDVjNmFiOGJiNmI5NzJlZjYxMmZkNWI4MmZmZTAwNjQz",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDk3OGY2NGY0MDU4ZTNhOGEwY2JkODdhNWE4NTg2YmNk",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "07:00 the Morning Comes",
+      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "07:00 the Morning Comes",
-      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Carrollton",
         "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
       },
@@ -239,6 +239,26 @@
       "duration_ms": 232683,
       "name": "Not Afraid Of The Dark",
       "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Luke Smallbone",
+          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -263,26 +283,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -591,18 +591,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Hollows",
-        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+        "name": "LET YOURSELF BE LOVED",
+        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
       },
       "artists": [
         {
-          "name": "Lion & Bear",
-          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
         }
       ],
-      "duration_ms": 266169,
-      "name": "Held by Your Love",
-      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+      "duration_ms": 199000,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "LET YOURSELF BE LOVED",
-        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
       },
       "artists": [
         {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Falling Up",
-      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
     },
     {
       "added_at": "2020-12-18 06:02:14",

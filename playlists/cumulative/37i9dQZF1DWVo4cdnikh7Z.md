@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-480 songs - 1 day 5 hr 51 min
+481 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/track/6Ki4woLYLM25t6jspMXAXK) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/album/3Gijun4ZAEboHd3fPSEGUk) | 2:18 | 2022-09-28 | 2022-10-11 |
 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 | 2022-07-30 | 2023-01-11 |
 | [Thikatta Thikatta Kadhalippom \- From "Aneethi"](https://open.spotify.com/track/2H6mH6NcOyh5an0au8TVra) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0), [Na\. Muthukumar](https://open.spotify.com/artist/1FUjtmf6Kz6cLwFqNMXnmw) | [Thikatta Thikatta Kadhalippom \(From "Aneethi"\)](https://open.spotify.com/album/0oVy6Uwqg16BNb26nntdXX) | 4:45 | 2022-11-02 | 2022-11-22 |
-| [Thiruttu Payale](https://open.spotify.com/track/67SSSZkWcz5135Z20WD3Kw) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/album/4fvDH7dvFtMd6JfS65xZi8) | 3:23 | 2023-02-10 |  |
+| [Thiruttu Payale](https://open.spotify.com/track/67SSSZkWcz5135Z20WD3Kw) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/album/4fvDH7dvFtMd6JfS65xZi8) | 3:23 | 2023-02-10 | 2023-02-12 |
+| [Thiruttu Payale \(From "Ayothi"\)](https://open.spotify.com/track/02kEn7qNvSgiLXtsCPOslC) | [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [La Varadhan](https://open.spotify.com/artist/13chrwMij7wqrbCLp8WkVH) | [Thiruttu Payale \(From "Ayothi"\) \- Single](https://open.spotify.com/album/1un8rWuCvBFqDWZP4mN1q0) | 3:23 | 2023-02-10 |  |
 | [Thiyagi Boys \- From "Coffee With Kadhal"](https://open.spotify.com/track/6AIMLTeBhAxX75QJrJQdQV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Thiyagi Boys \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/4HZ5B1r4nbc8rKbCP6iEIU) | 3:26 | 2022-08-08 | 2022-09-16 |
 | [Thoga Mayil Thoga](https://open.spotify.com/track/17hRXL5OLrwXH7AFLkcG5u) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Pattathu Arasan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IBkciBEY2GmBbDqsXH9g0) | 3:58 | 2022-11-22 | 2023-01-25 |
 | [Thoovi Thoovi](https://open.spotify.com/track/0hCUSLgkgQcd7zoTVdF3Ss) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 3:12 | 2022-07-15 | 2022-07-22 |

@@ -4,12 +4,12 @@
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-303 songs - 18 hr 8 min
+304 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 of 2](https://open.spotify.com/track/6tllMLFbEIDWJ4LxWgudOn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [1 of 2](https://open.spotify.com/album/3jX9FXY6rmjwKi5NtIMxpD) | 3:50 | 2022-11-18 | 2023-01-21 |
-| [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:42 | 2023-01-13 |  |
+| [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 |  |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-09-09 | 2023-02-04 |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2022-10-01 |
 | [After All This Time](https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [After All This Time](https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az) | 2:50 | 2023-02-03 |  |
@@ -99,10 +99,11 @@
 | [Fix It for You](https://open.spotify.com/track/1uBEbkc8FTnbPoaZ30ZGmL) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC) | 3:46 | 2022-09-16 | 2022-10-18 |
 | [Fix It for You](https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/433mlt0ijSxHriQwNB5FgQ) | 3:46 | 2022-10-14 |  |
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 | 2022-07-09 |
-| [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 |  |
+| [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 | 2022-10-15 |
 | [From This Moment On](https://open.spotify.com/track/0AHnNbTIvus8ySn5X0gCVn) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From This Moment On](https://open.spotify.com/album/2h8NIimdYYSdZBs0jLSXtI) | 4:06 | 2022-09-02 | 2022-10-01 |
 | [Get Well](https://open.spotify.com/track/3TLoHaTjiHZa8smASRwzXk) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Get Well / Body Knows](https://open.spotify.com/album/16aw3U3CBhtms6esqGw6xM) | 4:04 | 2022-07-29 |  |
+| [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 |  |
 | [Going Down The Road](https://open.spotify.com/track/4zdBBaRLTPrR2wFtODDSGW) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Going Down The Road](https://open.spotify.com/album/7q3Wuoqtkw7WuHOzRQxcAX) | 3:31 | 2022-11-11 | 2022-11-26 |
 | [Gone \(Away\)](https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Gone \(Away\)](https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR) | 2:46 | 2022-08-26 | 2023-01-21 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 | 2023-01-21 |

@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-478 songs - 1 day 21 hr 10 min
+479 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Songs and Views from the Magnetic Garden: Songs and Views from the Magnetic Garden: II.](https://open.spotify.com/track/3eNaCqjTBSmrk7AZb9eulb) | [Alvin Curran](https://open.spotify.com/artist/6ywzDJKoA3PbCiD16Vh1hI) | [Alvin Curran: Solo Works \- The '70s](https://open.spotify.com/album/3eWKZX4ER6EEiDA2CSwJQC) | 23:13 | 2021-10-06 | 2022-04-24 |
 | [Space / Drums](https://open.spotify.com/track/4szy9fFJRuWXuOgYTH3pHL) | [Wet Tuna](https://open.spotify.com/artist/6H02fFieSQ9vndSiK6njTR) | [Livin' the Die](https://open.spotify.com/album/2yrfZPdR4pPT41DssTc1yB) | 1:15 | 2021-10-06 | 2022-04-16 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-06 | 2023-02-02 |
+| [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-10-06 |  |
 | [Space 8](https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 17:32 | 2021-10-06 | 2022-07-28 |
 | [Spain](https://open.spotify.com/track/1X8ohMqqhDlXt9tFh2EyOJ) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/1otRNbhiS4x3SFL2EDS1IF) | 4:46 | 2021-10-06 | 2022-06-02 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2021-10-06 | 2022-09-22 |
@@ -478,7 +479,7 @@
 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 | 2022-03-30 | 2022-07-28 |
 | [Wing Pinger 06](https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 23:17 | 2022-03-30 | 2022-07-26 |
 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 | 2022-07-09 |
-| [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 |  |
+| [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 | 2023-02-12 |
 | [Yesterday](https://open.spotify.com/track/7aLQZTDhGcUOJCQinQbGWG) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Spirit](https://open.spotify.com/album/3ItdNpejzmrIcEtRRUjXgz) | 2:27 | 2022-02-18 | 2022-07-24 |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2022-03-30 | 2022-07-01 |
 | [Zamami](https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:05 | 2021-10-06 | 2022-06-17 |

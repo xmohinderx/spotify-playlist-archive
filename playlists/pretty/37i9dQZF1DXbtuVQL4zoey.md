@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,116 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,165 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 43 | [Streetlife](https://open.spotify.com/track/68kgY2W1t6P0UcRcwZH0OP) | [Dot One](https://open.spotify.com/artist/5L0oApIYGNFApK98EL4dD8) | [Streetlife](https://open.spotify.com/album/1J5xvCi8fKUTrjMVNwSRw5) | 1:31 |
 | 44 | [Night Blue Skies](https://open.spotify.com/track/69oebUHeibzbgcD1MUsSsl) | [Midnight Smoothie](https://open.spotify.com/artist/6f4iOB89UDwS8PToDSVkMB) | [Night Blue Skies](https://open.spotify.com/album/13kmXJCG5VJtNalpumVr0e) | 2:08 |
 | 45 | [Trip Vibe](https://open.spotify.com/track/7K6XMQzUNiLQ3NIhCqBwU4) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Go To Kaua'i](https://open.spotify.com/album/25da3jJUKkKnkkWPL7Ozb8) | 2:14 |
-| 46 | [Amber Rhythm](https://open.spotify.com/track/6uclwbIDxtwjnEOeLsIV7v) | [Teddy Rose](https://open.spotify.com/artist/5sBRa2tGNtY4YzYGQ30p99) | [Amber Rhythm](https://open.spotify.com/album/6lvGDz8Fr23NQyVccVo84A) | 2:10 |
+| 46 | [Amber Rhythm](https://open.spotify.com/track/6uclwbIDxtwjnEOeLsIV7v) | [Teddy Rose](https://open.spotify.com/artist/5dT9K9FBK9jwr7O3UvI3Dy) | [Amber Rhythm](https://open.spotify.com/album/6lvGDz8Fr23NQyVccVo84A) | 2:10 |
 | 47 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 |
 | 48 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 |
 | 49 | [Atomic Samba](https://open.spotify.com/track/5ZbKZYQruUqEhs5tZH3yGe) | [Lofi Brazil](https://open.spotify.com/artist/5aAyxePsxN6T16KwYl5Ghf), [Brazil Beats](https://open.spotify.com/artist/6maweip3QZ4GI3eCLMebL1) | [Atomic Samba](https://open.spotify.com/album/4uOvXEEHx0HAcYclQZhDMP) | 1:47 |

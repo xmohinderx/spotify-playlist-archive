@@ -4,7 +4,7 @@
 
 > In your bag\. Cover: The Kid Laroi
 
-774 songs - 1 day 11 hr 11 min
+775 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [levitate](https://open.spotify.com/track/69ZPca3gGxjcEOAkTtDp7k) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [levitate](https://open.spotify.com/album/6qnY3bElP0JNoXVQj2VKEu) | 2:24 | 2021-02-27 | 2021-02-28 |
 | [Lie](https://open.spotify.com/track/4EmDZu8hvb6uTEWBrpwkIb) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Lie](https://open.spotify.com/album/3AZLZIXQOMKkv1J4jE5uVM) | 2:09 | 2021-04-03 | 2021-09-18 |
 | [lie lie lie](https://open.spotify.com/track/5epDtUg4s8do8chclldxpZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [lie lie lie](https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16) | 2:51 | 2021-11-26 | 2022-04-16 |
+| [life in a locker \(feat\. Jomie & Skinny Atlas\)](https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [life in a locker \(feat\. Jomie & Skinny Atlas\)](https://open.spotify.com/album/4IZzvKDT1esT4v6MZWwBAs) | 2:50 | 2023-02-10 |  |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-08-18 |  |
 | [life waster](https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [life waster](https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q) | 2:21 | 2022-06-03 | 2022-08-06 |
 | [Life's A Mess \(feat\. Halsey\)](https://open.spotify.com/track/4h5N4KyWZMtpeH9vhXSXjd) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 3:22 | 2021-01-15 | 2021-07-01 |
@@ -744,7 +745,7 @@
 | [what's left unsaid says it all](https://open.spotify.com/track/4cduUgRcyVvA4q5clFEPyy) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [forever yours](https://open.spotify.com/album/3x7J0VPQYCPncG8ehjRZU5) | 3:25 | 2021-11-12 | 2022-05-11 |
 | [Whatsinsideyourhead](https://open.spotify.com/track/3HXpRH2rsybwLYg1sCZvC3) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [BEACHxBUMS!](https://open.spotify.com/album/2m0b4mQasB4Frf5cxG7H0t) | 2:34 | 2021-07-10 | 2022-04-05 |
 | [When I Was a Baby](https://open.spotify.com/track/5fzWEuPs5masn1HKiG3xpI) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [RONALD.](https://open.spotify.com/album/0ZNJ1Bk6Dj5M62qEdoZsCh) | 3:06 | 2021-03-14 | 2021-05-15 |
-| [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-03-19 |  |
+| [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-03-19 | 2023-02-12 |
 | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/track/5qwfWcdl8h0EhhSVTTH8gN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/album/2U0vmDrXqf3yzxJUniy7uZ) | 2:33 | 2020-12-13\* | 2021-05-29 |
 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 | 2022-05-23 |  |
 | [Where Am I?](https://open.spotify.com/track/02eaXkFgymQiEOXUSbPXKO) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Where Am I?](https://open.spotify.com/album/66VkDNLzrLayhSA5U61gGb) | 1:47 | 2020-12-13\* | 2021-02-25 |

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jericho Streegan, Artwork: Isu Kim
 
-751 songs - 1 day 21 hr 23 min
+752 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Much Like Any](https://open.spotify.com/track/5dnqdBN9E8jNFH7IKEpHEU) | [Mimi Donado](https://open.spotify.com/artist/5LEvN6umswMlIK7ChUCRl6) | [Much Like Any](https://open.spotify.com/album/5qPbZCz3TCo7kcbwxvqXy1) | 3:44 | 2022-02-10 | 2022-04-01 |
 | [Mukhang Pera Sa'yo](https://open.spotify.com/track/24sab7SJGXla3e4Tkk26Nq) | [Debonair District](https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI) | [Mukhang Pera Sa'yo](https://open.spotify.com/album/1YhGYOTwLi6zi2r8zKak92) | 3:47 | 2022-08-11 | 2022-09-23 |
 | [Muli](https://open.spotify.com/track/7F3EgtpZ6PBMTNm4q42fiO) | [Kade.](https://open.spotify.com/artist/67c67s2gF7grLnIFt3Uqd4) | [Muli](https://open.spotify.com/album/7FOxEuFJP4M4G7B4qY0YCt) | 3:17 | 2022-05-05 | 2022-07-01 |
+| [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/track/0W3TKZ5k3nFqIYoCGEMQT1) | [Debonair District](https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI), [Faye Yupano](https://open.spotify.com/artist/18b7zvfnzcWPz7SM7VJfQU) | [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/album/3CwfOJjfCsiI5szNOIF8Rr) | 5:03 | 2023-02-09 |  |
 | [Munting Hiling](https://open.spotify.com/track/0y0wwvz7vUPlxLMbSCPUBN) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x), [Arjie King](https://open.spotify.com/artist/3eYWchZEKh8C4alSP0zmB1) | [Munting Hiling](https://open.spotify.com/album/0dhnEzK0Fw4PUPd7AtbN29) | 4:45 | 2022-03-31 | 2022-05-06 |
 | [Musika Ng Buhay Ko](https://open.spotify.com/track/1TkZopiuipMTYBvbBQt4kM) | [Kobe Silvestre](https://open.spotify.com/artist/2iky61v2fEDuLWXKcuyMqX) | [Musika Ng Buhay Ko](https://open.spotify.com/album/4JrD7gAZCobItGYM7Su1Mj) | 2:47 | 2023-01-26 | 2023-02-10 |
 | [My Demons](https://open.spotify.com/track/5lMRNzSznP146iHWN77xQT) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr) | [My Demons](https://open.spotify.com/album/58PN9epQbr0WV4B2QqVwxd) | 4:52 | 2022-07-21 | 2022-09-09 |

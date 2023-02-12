@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kemilly Santos, Damares",
-  "num_followers": 59049,
+  "num_followers": 59100,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMGI3ZmM5ZTlhZjdmZTEwNWI0ZmI0ZGE3OGQxZGU3MDU4",
+  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMGY5MjRiYTVlZDdhNWJlYmUwYWFmMWIwZmI4Nzc1MjUy",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sou Eu",
+        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "O C\u00e9u Tem Mais",
         "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 452805,
       "name": "O C\u00e9u Tem Mais",
       "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Sou Eu",
-        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+        "name": "Em Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
+      "duration_ms": 272697,
+      "name": "Prossiga (feat. Midian Lima)",
+      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Em Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 272697,
-      "name": "Prossiga (feat. Midian Lima)",
-      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Prepare o Culto",
         "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 360909,
       "name": "Prepare o Culto",
       "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
         }
       ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 327456,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Tempo de Espera",
         "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 263040,
       "name": "Tempo de Espera",
       "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 327456,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Santidade",
+        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 380400,
+      "name": "Santidade",
+      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 272952,
       "name": "Calma",
       "url": "https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1275,22 +1307,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Santidade",
-        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 380400,
-      "name": "Santidade",
-      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Chore pra Deus",
         "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 282888,
       "name": "Chore pra Deus",
       "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1421,23 +1421,7 @@
       "url": "https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz"
     },
     {
-      "added_at": "2023-02-11 00:56:23",
-      "album": {
-        "name": "Pai",
-        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 356624,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
-    },
-    {
-      "added_at": "2023-02-11 00:56:23",
+      "added_at": "2023-02-12 01:05:54",
       "album": {
         "name": "Estrat\u00e9gia",
         "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
@@ -1451,6 +1435,22 @@
       "duration_ms": 364812,
       "name": "Estrat\u00e9gia",
       "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
+    },
+    {
+      "added_at": "2023-02-12 01:05:54",
+      "album": {
+        "name": "Pai",
+        "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 356624,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
     },
     {
       "added_at": "2023-02-03 03:00:00",

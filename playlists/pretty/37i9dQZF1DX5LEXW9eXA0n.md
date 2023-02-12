@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Im Changjung\(임창정\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,515 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,498 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 22 | [Hold on](https://open.spotify.com/track/4I8HkdCUsx3klJdXyefBaq) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Hold on](https://open.spotify.com/album/4xDmwkuOs9WDHKMVdmNiH3) | 3:51 |
 | 23 | [Moon and Stars](https://open.spotify.com/track/1YRSvFROgFNGNRKBtigLVD) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Tiny Bits of Life, Part.14](https://open.spotify.com/album/7ugRmouaD1o6gmayIfBaQC) | 3:50 |
 | 24 | [We have to meet again](https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8) | 4:30 |
-| 25 | [We will again](https://open.spotify.com/track/4DRYJFrnpxxxQCwUuHZexG) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [We will again](https://open.spotify.com/album/6Lb3T7nMAV63de1qstT886) | 3:25 |
+| 25 | [We will again](https://open.spotify.com/track/4DRYJFrnpxxxQCwUuHZexG) | [Jeong Dong Won](https://open.spotify.com/artist/229KhSrjWsm62jVuSpQsBZ) | [We will again](https://open.spotify.com/album/6Lb3T7nMAV63de1qstT886) | 3:25 |
 | 26 | [Miracle](https://open.spotify.com/track/1YlRoSQJk4X87A5qujM7Uq) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Miracle](https://open.spotify.com/album/1fv8Fets8de0cbRrj3p3sX) | 3:56 |
 | 27 | [꿈길](https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [꿈길](https://open.spotify.com/album/1c1rE5Ijbnm2NdR7iaHpYS) | 4:13 |
 | 28 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 |

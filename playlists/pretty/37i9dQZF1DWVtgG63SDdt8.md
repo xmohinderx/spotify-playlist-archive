@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  J Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,160 likes - 98 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,302 likes - 98 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rush On It](https://open.spotify.com/track/1oEQrW0vpktemRlt20cInz) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [Rush On It](https://open.spotify.com/album/7MQCkYVh7eQbC032vvvN6r) | 2:59 |
-| 2 | [Tru Luv](https://open.spotify.com/track/30tTHfuwUPQVo5Z2FCzurY) | [Avery Doreen](https://open.spotify.com/artist/0eHUOghuxi4WpZp5YNGYdE) | [Tru Luv](https://open.spotify.com/album/3xYHeE5KDkaPcu7NgDvWwg) | 2:28 |
+| 2 | [Tru Luv](https://open.spotify.com/track/30tTHfuwUPQVo5Z2FCzurY) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Avery Doreen](https://open.spotify.com/artist/0eHUOghuxi4WpZp5YNGYdE) | [Tru Luv](https://open.spotify.com/album/3xYHeE5KDkaPcu7NgDvWwg) | 2:28 |
 | 3 | [Artist](https://open.spotify.com/track/5wjWZ8Y0EhNoXgbXryphp1) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Artist](https://open.spotify.com/album/58FIYcROOmtYYgAP3dNbyR) | 2:40 |
 | 4 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 |
 | 5 | [Testimony](https://open.spotify.com/track/509Mlx0bUvu7R9x7NImszq) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Testimony](https://open.spotify.com/album/28RSauRhhuS4vEiQvRhd61) | 3:39 |

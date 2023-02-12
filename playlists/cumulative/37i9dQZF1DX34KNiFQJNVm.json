@@ -4134,8 +4134,12 @@
           "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
         }
       ],
       "date_added": "2023-02-10",
@@ -19094,6 +19098,28 @@
       "duration_ms": 213066,
       "name": "Chupando Versos",
       "url": "https://open.spotify.com/track/495OcJ644wfTBZhp5k9pDg"
+    },
+    {
+      "album": {
+        "name": "Churrasco de Milh\u00e3o - Serrote",
+        "url": "https://open.spotify.com/album/6UDKCZ8rgR9g6H5yo5dTcF"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Marcos e Dlucca",
+          "url": "https://open.spotify.com/artist/6aFHWoXb6u0yFzMaZEO2i5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149187,
+      "name": "Churrasco de Milh\u00e3o - Serrote",
+      "url": "https://open.spotify.com/track/1qVw2zzWfO7yPo9yEvkDNc"
     },
     {
       "album": {
@@ -86760,32 +86786,6 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "album": {
-        "name": "Serrote",
-        "url": "https://open.spotify.com/album/6UDKCZ8rgR9g6H5yo5dTcF"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        },
-        {
-          "name": "Marco",
-          "url": "https://open.spotify.com/artist/6XJy2DS4QrcuC6HxJYVBg0"
-        },
-        {
-          "name": "Dlucca",
-          "url": "https://open.spotify.com/artist/2MrIyDDKJE4Fnw7MxSzK6e"
-        }
-      ],
-      "date_added": "2023-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149187,
-      "name": "Serrote",
-      "url": "https://open.spotify.com/track/1qVw2zzWfO7yPo9yEvkDNc"
     },
     {
       "album": {

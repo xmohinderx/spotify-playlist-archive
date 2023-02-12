@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,602 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,674 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 89 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 |
 | 90 | [Kimaya](https://open.spotify.com/track/2w7XVdKP6nGduoVdPl0CGR) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Kimaya](https://open.spotify.com/album/1gYcGahpk1csWH2FoUQ2GJ) | 2:40 |
 | 91 | [Dhyana](https://open.spotify.com/track/4giruyzXVMBmcERashYyj9) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Dhyana](https://open.spotify.com/album/5jPHHLNadGsw4uxd2E8nmf) | 3:07 |
-| 92 | [Dreamland](https://open.spotify.com/track/4YasydFack9jd9mO9XLalo) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Dreamland](https://open.spotify.com/album/0GJnbOxhKQcTXWOcue9n8S) | 2:20 |
+| 92 | [Dreamland](https://open.spotify.com/track/4YasydFack9jd9mO9XLalo) | [Buddha's Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Dreamland](https://open.spotify.com/album/0GJnbOxhKQcTXWOcue9n8S) | 2:20 |
 | 93 | [Pictures of a Floating World](https://open.spotify.com/track/5jDvdADyzpo7jYWDdVoY0b) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Clear Western Sky](https://open.spotify.com/album/1G2YiRUliSzL2MrWUX1YOZ) | 3:31 |
 | 94 | [Undulate](https://open.spotify.com/track/3VcEjU1dF3GWsOllMFChWb) | [Blake Child](https://open.spotify.com/artist/2prVqy64VMNySVSHnIzz69) | [Undulate](https://open.spotify.com/album/37mHMJMu26lsc7RKyDlSj8) | 2:16 |
 | 95 | [líquido](https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [líquido](https://open.spotify.com/album/4MXpvYR7qsNouiXC5bP6ar) | 2:24 |

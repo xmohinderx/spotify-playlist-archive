@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: dv4d
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,446 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,453 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 9 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 |
 | 10 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
 | 11 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
-| 12 | [Kau Aku Satu \(From "Pulau"\)](https://open.spotify.com/track/58AeuoM5QMceFia2GS56zd) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Kau Aku Satu \(From "Pulau"\)](https://open.spotify.com/album/4XnnqrZzMc6bxKL1nmMV1V) | 3:26 |
+| 12 | [Kau Aku Satu](https://open.spotify.com/track/58AeuoM5QMceFia2GS56zd) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Kau Aku Satu](https://open.spotify.com/album/4XnnqrZzMc6bxKL1nmMV1V) | 3:26 |
 | 13 | [Ini Ceritaku](https://open.spotify.com/track/5xHozeu8Bkbvo8GPmjEkvR) | [Lah Ahmad](https://open.spotify.com/artist/2dMx4kReklBAx3Y1sKpn0S) | [Jatuh](https://open.spotify.com/album/3sYOiJFELmCfX8eV1qaqf9) | 3:12 |
 | 14 | [Irama Kita \- Original Soundtrack Telemovie Tv3 Irama Kita](https://open.spotify.com/track/6WhwNazkqaR71fbCo7tJKx) | [Aiman Tino](https://open.spotify.com/artist/1XrmJDoaVBEx2g7uKWa89a) | [Irama Kita \(Original Soundtrack Telemovie Tv3 Irama Kita\)](https://open.spotify.com/album/5Tt0XLHH6gxBBeJrdnyGsj) | 3:38 |
 | 15 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |

@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-114 songs - 7 hr 35 min
+115 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
 | [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 | 2023-02-03 |  |
 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 | 2022-04-15 |  |
-| [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 | 2022-04-15 |  |
+| [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 | 2022-04-15 | 2023-02-12 |
+| [Begin Again](https://open.spotify.com/track/317zGzgpLAjKABVBPaikaD) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 3:50 | 2023-02-03 |  |
 | [Berceuse](https://open.spotify.com/track/0q3aPiWc44Virg0YgBv55A) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:13 | 2022-04-15 |  |
 | [Bill's Blues](https://open.spotify.com/track/0pI9XMjwp3Y7IIvFCXpFcr) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Language Of The Soul](https://open.spotify.com/album/4MJvRWtQK30Xs4vjJGlpAg) | 2:32 | 2022-04-15 |  |
 | [Blue Clouds](https://open.spotify.com/track/44mG1PFJja5s8WUKHxVcQr) | [Gregor Hilden](https://open.spotify.com/artist/5z5KKPdDUQENyOcBuULpKC) | [Blue in Red](https://open.spotify.com/album/0AS15S5F73DD7Tc991CdXL) | 4:30 | 2022-04-15 |  |

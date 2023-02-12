@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: BABY MALA x Romeo
+> KLASS 2023: INOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,586 likes - 79 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,608 likes - 79 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
+| 1 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 2 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
-| 3 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
+| 3 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
 | 4 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 5 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 |
 | 6 | [NIKE TECH](https://open.spotify.com/track/0qoHXE9U0eeZtlWyQqUdCo) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [NIKE TECH](https://open.spotify.com/album/08a792ESvwxAwZMm7PIb5g) | 2:31 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 78 | [KIOSK FREESTYLE](https://open.spotify.com/track/2DaReD6n8gFbUfH7j4thNt) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6) | [KIOSK FREESTYLE](https://open.spotify.com/album/0Dvp6E2WrPVgmlj4EJBVDw) | 2:36 |
 | 79 | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/track/1OwpLtZ5IeQrGii3q2i9W5) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj) | 3:08 |
 
-Snapshot ID: `MTY3NjA3MDAwMCwwMDAwMDAwMDU2NzhjOTFiYzg3OGE3N2U0ZWIwOTBiYjQ0ZDRiYzNl`
+Snapshot ID: `MTY3NjE1NjQwMCwwMDAwMDAwMGVlZGJhZjM3Mzc4OTU2YjY4ODVlNjBhYjNmMjRmOTE5`

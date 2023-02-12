@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-537 songs - 1 day 3 hr 2 min
+538 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Black Out](https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Black Out](https://open.spotify.com/album/2pStTbKsMaxqbsRIgPx0r5) | 3:11 | 2022-03-25 | 2022-04-08 |
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2022-04-25 | 2022-04-29 |
 | [Blur \- Felix Cartal Remix](https://open.spotify.com/track/02ilX7F0oF2kU0vrmknOfR) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Blur \(Felix Cartal Remix\)](https://open.spotify.com/album/6V1tcQC53qtqae2zkkIPQZ) | 3:58 | 2022-03-25 | 2022-04-21 |
-| [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2021-12-17 |  |
+| [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2021-12-17 | 2023-02-12 |
 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 | 2022-03-25 | 2022-04-19 |
 | [Break My Heart \(feat\. 12AM\)](https://open.spotify.com/track/0EkouFSEqhyC1s1kMChL9E) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Wishes Vol\. 2](https://open.spotify.com/album/1AXVE2HGe1XA1Cl5T9nXmk) | 2:34 | 2022-03-25 | 2022-04-20 |
 | [Bridged By A Lightwave \- Tommy Trash Remix](https://open.spotify.com/track/2joY9giFpdX2JT4cQBLn2E) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Bridged By A Lightwave \(Tommy Trash Remix\)](https://open.spotify.com/album/3il1LH8pziUYxEJ4o1HrrD) | 3:41 | 2022-03-25 | 2022-04-16 |
@@ -399,6 +399,7 @@
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-12-17 | 2023-02-10 |
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2021-12-17 | 2022-07-06 |
 | [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2022-03-25 | 2022-04-15 |
+| [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 | 2023-02-12 |  |
 | [Save Me](https://open.spotify.com/track/002RM16TLYCpwElukqy8xq) | [Shaun Frank](https://open.spotify.com/artist/0BBwlSQvHHtahgYpLj1wJE), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Save Me](https://open.spotify.com/album/6mPmAXjvxtS9McNQl4HC3l) | 2:37 | 2021-12-17 | 2022-06-21 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-05-06 | 2022-07-08 |
 | [Save Me \(feat\. Violet Days\)](https://open.spotify.com/track/5mEAUeqasyeI9tI9CV72kp) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Save Me \(feat\. Violet Days\)](https://open.spotify.com/album/1N455K5NVIsa8k6Ln82qf3) | 3:04 | 2022-01-14 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q">Ezekiel</a>'s track IDs\. Updated regularly\. Curated by Ezekiel\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 2 hr 16 min
+54 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Flickering Debris](https://open.spotify.com/track/1fzGS7PS5uovN6KdqyefJ1) | [Lanark Artefax](https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2) | [Whities 011](https://open.spotify.com/album/7rb3DFjU4mq3vRjgyqN8iW) | 2:17 | 2022-04-25 |  |
 | [from paris, with love](https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [Drive\-By Lullabies](https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp) | 3:02 | 2022-04-25 |  |
 | [FWM](https://open.spotify.com/track/1EFsVAKwF7jGscr4hBtEa0) | [Mattu](https://open.spotify.com/artist/1GxVO1YvMaSyl8lu7Jqrl5), [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [FWM](https://open.spotify.com/album/5oTPSSWt1wHz7oCoPbUGOQ) | 3:02 | 2022-04-25 |  |
-| [Geeked Out My Body](https://open.spotify.com/track/3onyaAZVBpQslzfN6HimuU) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Geeked Out My Body](https://open.spotify.com/album/0WNKC0Nooqdup2vEPxD4pA) | 1:46 | 2022-04-25 |  |
+| [Geeked Out My Body](https://open.spotify.com/track/38YQWpji2DJ0pxliXqBd1G) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Geeked Out My Body](https://open.spotify.com/album/3hntzxQ2ho05ZDlMChGD9u) | 1:46 | 2022-04-25 |  |
+| [Geeked Out My Body](https://open.spotify.com/track/3onyaAZVBpQslzfN6HimuU) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Geeked Out My Body](https://open.spotify.com/album/0WNKC0Nooqdup2vEPxD4pA) | 1:46 | 2022-04-25 | 2023-02-12 |
 | [girl online](https://open.spotify.com/track/3BMaGHQximpMug2xrp6TdI) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [witchpop](https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC) | 2:24 | 2022-04-25 |  |
 | [go crazy](https://open.spotify.com/track/4wLYecT7RTTt0834qrqNqL) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [go crazy](https://open.spotify.com/album/1P1wNKHNwQyMvVZWB3gylx) | 2:02 | 2022-04-25 |  |
 | [go to school punk dog](https://open.spotify.com/track/5Pr3Qluu3BxpAtihNrRGXv) | [Happy Doghouse](https://open.spotify.com/artist/2vYPcNSAbcEHwZdddbj2xn) | [행복한 강아지 집](https://open.spotify.com/album/3u6kvl9F65JnR6FP7Kx5CT) | 1:06 | 2022-04-25 |  |

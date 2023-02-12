@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-309 songs - 19 hr 17 min
+310 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 | 2022-11-13 |
 | [Sludge](https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Sludge](https://open.spotify.com/album/4fVcSFvdj9XflGQ4HVhLYI) | 5:00 | 2021-12-06 | 2022-07-28 |
 | [Solid State](https://open.spotify.com/track/20Aun7R1lVk1AmL3ibxScC) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 3:00 | 2021-12-06 | 2022-05-19 |
+| [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-02-03 |  |
 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 | 2022-06-16 | 2023-02-02 |
 | [South](https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [South](https://open.spotify.com/album/3Od0bk7TUgTbSdkA0K4axE) | 3:56 | 2021-12-06 | 2022-07-29 |
 | [Southbound Station](https://open.spotify.com/track/2XJRjW5xk9SluEBqsjuBK6) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Multi\-task](https://open.spotify.com/album/27YRAke3xHX3lAXtEWyS1Y) | 2:42 | 2021-12-06 | 2022-07-24 |
@@ -273,7 +274,7 @@
 | [Taking On Time](https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Taking On Time](https://open.spotify.com/album/3KfdysWJU39uXlmN5ivR4S) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [Taking Us Back](https://open.spotify.com/track/7CBcqtcPbO3L9jHzAXgq5x) | [Benefits](https://open.spotify.com/artist/5nrO8X72nFeyu3sqYIkskQ) | [Taking Us Back](https://open.spotify.com/album/7mqyal2rF84QPhgTMZEQwM) | 3:18 | 2021-12-06 | 2022-06-24 |
 | [Talking Pictures](https://open.spotify.com/track/41rEc1qxuC6RSD9Kmgrokw) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 2:31 | 2021-12-06 | 2022-07-24 |
-| [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 | 2022-06-16 |  |
+| [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 | 2022-06-16 | 2023-02-12 |
 | [The Base Level](https://open.spotify.com/track/6aWwVyojU4AtnCVRmQVFmF) | [Conspirators](https://open.spotify.com/artist/6kuHgRehBPmDqj2VL4pO0N) | [Conspirators EP](https://open.spotify.com/album/2wP54m8K6x4JlIq42Z6ll9) | 2:41 | 2022-03-11 | 2022-04-13 |
 | [The Cleaner](https://open.spotify.com/track/0NCu73bAuBp4tXZFx4DEHJ) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0LHX6YAAQXNiQwlpVinKEN) | 7:33 | 2021-12-06 | 2022-07-29 |
 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 | 2022-06-16 |  |

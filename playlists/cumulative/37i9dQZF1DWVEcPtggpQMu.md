@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=A6GLJy3jTTC0XrQSe6to6A">A\-Reece</a>
+> Only the hottest South African rap from the streets\. RIP <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=C\_n76rNORvWfRh\-hfUN44A">AKA</a>
 
 486 songs - 1 day 2 hr 36 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Megan Moroney, Luke Combs, Bailey Zimmerman and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,824 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,198 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 45 | [Takes Its Time](https://open.spotify.com/track/4C0BiRXpbQL9ZyrhtyXUzP) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [Takes Its Time](https://open.spotify.com/album/6cEUvCmRPSQCTFPUFEnPih) | 3:25 |
 | 46 | [From This Moment On](https://open.spotify.com/track/4SG7quSUacIGFKPG8nRcrx) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [From This Moment On](https://open.spotify.com/album/3GznglPe7L9BJz3O2V8Z5u) | 3:58 |
 | 47 | [Angela](https://open.spotify.com/track/4sEojVU7y6f05BCZehv9Tt) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Angela](https://open.spotify.com/album/7DxAj4kh0QOMarpfc0z8TM) | 2:45 |
-| 48 | [No Prayer Like Mama's](https://open.spotify.com/track/4ePJLYgmBBBcUaUEzKpDOk) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Micah Wilshire](https://open.spotify.com/artist/6iEg5PUFTHtRCqbqFirvQO) | [No Prayer Like Mama's](https://open.spotify.com/album/085BMJh3MhylH0fHuet6Fe) | 2:41 |
+| 48 | [No Prayer Like Mama's](https://open.spotify.com/track/4ePJLYgmBBBcUaUEzKpDOk) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [No Prayer Like Mama's](https://open.spotify.com/album/085BMJh3MhylH0fHuet6Fe) | 2:41 |
 | 49 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 |
 | 50 | [You Love Me Like That](https://open.spotify.com/track/5WFQWaiVbUAgkbCI8Af7r1) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [You Love Me Like That](https://open.spotify.com/album/0AwHKal0VfzGq7zj5bYfUG) | 3:17 |
 | 51 | [Crazy 'Bout Her](https://open.spotify.com/track/0GPHbbttjfsfjBPkbsbmg6) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Crazy 'Bout Her](https://open.spotify.com/album/66HsMcXW2mnmnltxXBZC2q) | 3:07 |

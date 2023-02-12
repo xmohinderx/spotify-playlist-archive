@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 141333,
       "name": "Bali",
       "url": "https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -4102,6 +4102,32 @@
       "duration_ms": 223371,
       "name": "Denker & Doener",
       "url": "https://open.spotify.com/track/7kcUTqYHWZAT99xEyHk6Ue"
+    },
+    {
+      "album": {
+        "name": "Der Af (Oya L\u00e9l\u00e9)",
+        "url": "https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Der Af (Oya L\u00e9l\u00e9)",
+      "url": "https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr"
     },
     {
       "album": {
@@ -7155,6 +7181,32 @@
     },
     {
       "album": {
+        "name": "Herinnering",
+        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154663,
+      "name": "Herinnering",
+      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
       },
@@ -7564,7 +7616,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-12",
       "duration_ms": 201691,
       "name": "Hoop",
       "url": "https://open.spotify.com/track/7vtbmvZElsg69HeTdn6N55"
@@ -12199,6 +12251,24 @@
     },
     {
       "album": {
+        "name": "New Balance",
+        "url": "https://open.spotify.com/album/32Z4vXVcGnl7pJZ5iGyUNF"
+      },
+      "artists": [
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144661,
+      "name": "New Balance",
+      "url": "https://open.spotify.com/track/4VIehrP2qQjaH2vDyp4G0v"
+    },
+    {
+      "album": {
         "name": "Niet Doen Alsof",
         "url": "https://open.spotify.com/album/4sBhDba9UmlNetxFr8e2mk"
       },
@@ -14234,6 +14304,24 @@
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die 2",
+        "url": "https://open.spotify.com/album/2sYy39xAFaWuHEqdzczflt"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166776,
+      "name": "Ride Or Die 2",
+      "url": "https://open.spotify.com/track/4TT0EXjO9vF3rsYY9fcrV8"
     },
     {
       "album": {
@@ -18538,6 +18626,28 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "ZIDANE",
+        "url": "https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx"
+      },
+      "artists": [
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168442,
+      "name": "ZIDANE",
+      "url": "https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt"
     },
     {
       "album": {

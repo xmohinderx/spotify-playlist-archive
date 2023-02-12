@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-85 songs - 4 hr 44 min
+86 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 | 2022-10-10 |  |
 | [Canción Embrujada](https://open.spotify.com/track/7qEW4Ki7ut7E1eNwVUXG6H) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Sant](https://open.spotify.com/artist/2lD5i0c3VBhA41u84QORoY) | [Mexican Institute of Sound vs\. Sant](https://open.spotify.com/album/0Ve8D73sUNAOIGiBbeIMCD) | 3:23 | 2022-10-10 |  |
 | [Cementerio](https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:20 | 2022-10-10 |  |
-| [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 | 2022-10-10 |  |
+| [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 | 2022-10-10 | 2023-02-12 |
+| [Chaneque](https://open.spotify.com/track/3ms6dhe1S9Z7i5hVznjWAV) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/5cNEKi8HUl4gC0lyCDVaCr) | 4:22 | 2022-10-10 |  |
 | [Cien Metros para el Cementerio](https://open.spotify.com/track/0StEd2tjZaIOIMGjoD9Y5a) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [LP2](https://open.spotify.com/album/3OwdtsYbAP9gOt4narwwRR) | 3:56 | 2022-10-10 |  |
 | [Day of the Dead](https://open.spotify.com/track/3TrWVqco778i7hg88YQTgw) | [The Tiger Lillies](https://open.spotify.com/artist/72o2T9aqYR2PFNYpzYrMmw) | [Corrido De La Sangre](https://open.spotify.com/album/0u33GdU1jBMhI5SsTMkoFY) | 2:31 | 2022-10-10 |  |
 | [Dia De Los Muertos](https://open.spotify.com/track/6UPzVnKBwVulRz4MCwX0Ra) | [Los Plantronics](https://open.spotify.com/artist/6LUchU4dexQVXxiVVR96FY) | [La Orchestra Diabolica](https://open.spotify.com/album/5GZmdLfEoYcT6sGo4Hq9DA) | 2:20 | 2022-10-10 |  |

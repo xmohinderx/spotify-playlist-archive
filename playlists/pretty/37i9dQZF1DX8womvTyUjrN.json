@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Mau y Ricky",
-  "num_followers": 271309,
+  "num_followers": 271390,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTcxMCwwMDAwMDAwMDgzZGUxMTZjNDk5NjI0MGVhZjRhYjU3ZWY3Y2FjNDFk",
+  "snapshot_id": "MTY3NjAwNTcxMCwwMDAwMDAwMDA4YzI1ZGUzMDYyYTVhNTRhMWRmNWY2NmY2NDEzYWE2",
   "tracks": [
     {
       "added_at": "2023-02-10 05:08:30",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-10 05:08:30",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "added_at": "2023-02-10 05:08:30",
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
-    },
-    {
-      "added_at": "2023-02-10 05:08:30",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2023-02-10 05:08:30",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-02-10 05:08:30",
       "album": {
+        "name": "Infieles",
+        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Infieles",
+      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
+    },
+    {
+      "added_at": "2023-02-10 05:08:30",
+      "album": {
         "name": "Enchule",
         "url": "https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 174708,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
-    },
-    {
-      "added_at": "2023-02-10 05:08:30",
-      "album": {
-        "name": "x ti (Remix)",
-        "url": "https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "x ti - Remix",
-      "url": "https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx"
     }
   ],
   "unique_name": "el nuevo pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Sion
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,051 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,111 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 7 | [do u miss me](https://open.spotify.com/track/5fWFKbJjf2RDuTEomNEGJJ) | [Carlay](https://open.spotify.com/artist/0H4AXwU7TtmiM1nhGiIJMZ) | [do u miss me](https://open.spotify.com/album/0Bz2LQh3ycFTI1Q41HR5vK) | 2:15 |
 | 8 | [Space](https://open.spotify.com/track/0gZhb7dvu3xMvPQyF2AUoc) | [Caroline Lobb](https://open.spotify.com/artist/1pfxi1NJbyyu5H6qvuws5B) | [Space](https://open.spotify.com/album/6miksY7BC5soZNpPs3nVXM) | 4:12 |
 | 9 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 |
-| 10 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 2:03 |
+| 10 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 1:58 |
 | 11 | [Green Juice](https://open.spotify.com/track/3St2cIjYXcjA85zyAR0uY5) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Green Juice](https://open.spotify.com/album/2nCHorCVOGbMMoO8pZZvYg) | 2:46 |
 | 12 | [Painkiller](https://open.spotify.com/track/2qFx1eJTaJSaZnWBrMLjFg) | [Josh Gray](https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX) | [Painkiller](https://open.spotify.com/album/3k5oVFPfCZNmdI3ZyGBwOM) | 1:58 |
 | 13 | [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 |
