@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42689,
+  "num_followers": 42717,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NDc5OCwwMDAwMDAwMDc5ZDQ0MGI4ZjMyOTEwYzI1ODQxODdiNjk1YjgzMDM0",
+  "snapshot_id": "MTY3NTk1NDc5OCwwMDAwMDAwMGYwMDZlOTIxMDA4MWJlOTU4YmU2MDJhZTgxODk4OWMz",
   "tracks": [
     {
       "added_at": "2023-02-08 09:18:57",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
+        "name": "LEGEND (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 194245,
+      "name": "Nervous - Piano Version",
+      "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 194245,
-      "name": "Nervous - Piano Version",
-      "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Pink Balloon / Sea Lions",
-        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Sea Lions",
-      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
         "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
         "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
       },
@@ -627,22 +611,6 @@
       "duration_ms": 220471,
       "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
       "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
-        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
-      },
-      "artists": [
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
-        }
-      ],
-      "duration_ms": 379066,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -663,6 +631,38 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
+        "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
+      },
+      "artists": [
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 379066,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -693,20 +709,20 @@
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
     },
     {
-      "added_at": "2023-02-08 09:18:57",
+      "added_at": "2023-02-13 01:16:45",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
       },
       "artists": [
         {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
         }
       ],
-      "duration_ms": 176542,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
+      "duration_ms": 221596,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Wearing Blue",
-        "url": "https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247886,
-      "name": "Wearing Blue",
-      "url": "https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2fLg3v8eUI31hNR4BvCjIt"
       },
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+        "name": "Wearing Blue",
+        "url": "https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        },
-        {
-          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
-          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 327191,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+      "duration_ms": 247886,
+      "name": "Wearing Blue",
+      "url": "https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

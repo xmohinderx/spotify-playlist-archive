@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Una Mentirosa",
+        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Una Mentirosa",
+      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+    },
+    {
+      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },

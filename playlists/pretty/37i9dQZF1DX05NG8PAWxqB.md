@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05NG8PAWxqB.md) - [plain]
 
 > J\-WAVE『<a href="https://www.j\-wave.co.jp/special/summerbeat/">HOT SUMMER BEAT</a>～熱狂をふたたび～』がきっかけとなってうまれた、ベスト・ライブプレイリスト！新旧問わず、素晴らしいライブ演奏音源を随時更新していきます。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 212 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,054 likes - 212 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

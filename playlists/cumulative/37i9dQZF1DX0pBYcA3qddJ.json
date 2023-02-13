@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267994,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
+    },
+    {
+      "album": {
         "name": "Maurice RAVEL: Gaspard de la Nuit",
         "url": "https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu"
       },
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 198108,
       "name": "The Forever Now - From \"This Is Us: Season 6\"",
       "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"

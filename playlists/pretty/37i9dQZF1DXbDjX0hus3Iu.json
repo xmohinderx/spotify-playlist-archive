@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 466162,
+  "num_followers": 466224,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMGZjMGY5YzM0MTVjMTk1YzFjY2I2Y2Q5ZTQ2MGIxZWJm",
+  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDc3M2YxMTlmYWU2NGMzNzE5MDA5MDdmZWJlNDU4YTc2",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 253560,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 214866,
       "name": "Pretty Little Lie",
       "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 253560,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "Champagne Jam",
-      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Open All Night",
+        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Don't Pass Me By",
+      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Ain't Life Grand",
         "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Open All Night",
-        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
       },
       "artists": [
         {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 293066,
-      "name": "Don't Pass Me By",
-      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
+      "duration_ms": 273226,
+      "name": "Champagne Jam",
+      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
     },
     {
       "added_at": "2023-01-18 21:52:55",

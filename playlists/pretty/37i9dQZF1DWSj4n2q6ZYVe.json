@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 312212,
+  "num_followers": 312728,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMGMyMjNmMGRmZGUyMmM0N2NjNTg1ZjZjMGU5Y2M3MjMw",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMGE1OGEyMjIwZDI0NGYwZmRhNTFiYTEzOTAzODc1NDM5",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -807,26 +807,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "For Lack of a Better Name (The Extended Mixes)",
-        "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
-      "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "For Lack of a Better Name (The Extended Mixes)",
+        "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
+      "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
     },
     {
       "added_at": "2021-04-29 18:40:15",

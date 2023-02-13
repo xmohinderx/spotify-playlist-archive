@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 141870,
+  "num_followers": 142043,
   "original_name": "00s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDc1OCwwMDAwMDAwMDdjMjUzNzNiMjMzYTBjNmU1N2I0ZWFiN2FjNzk2OGQ4",
+  "snapshot_id": "MTY3NDA4MDc1OCwwMDAwMDAwMDcxOGE1ZWI1NThkMDU4NTliOThiYjBhZjJiYTUxNTE4",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
+        "name": "Leave a Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Simple Man - Acoustic",
+      "url": "https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
-        "name": "Leave a Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Simple Man - Acoustic",
-      "url": "https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh"
     },
     {
       "added_at": "2023-01-18 22:25:58",

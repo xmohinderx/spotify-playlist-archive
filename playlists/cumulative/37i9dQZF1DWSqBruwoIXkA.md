@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: d4vd
 
-439 songs - 1 day 0 hr 25 min
+441 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Cry Over Boys](https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 2:50 | 2021-12-17 | 2022-10-15 |
 | [Cry with you](https://open.spotify.com/track/46LAHXpuIUZ5kR7AyQ1qmd) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:37 | 2022-07-22 |  |
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2021-12-17 | 2022-07-29 |
-| [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2021-12-17 |  |
+| [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2021-12-17 | 2023-02-13 |
 | [Cutthroat](https://open.spotify.com/track/2hMWi3NNNyQbXo0MtrC1ST) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Cutthroat](https://open.spotify.com/album/6uT91eG7CuITJzWUtoX6eN) | 3:13 | 2022-12-02 | 2022-12-10 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-10-25 |  |
 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 | 2022-08-26 | 2022-10-22 |
@@ -116,7 +116,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-17 |  |
 | [echo \- acoustic](https://open.spotify.com/track/7LB11knvxUwv6CAMRu42Dz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo \(Acoustic\)](https://open.spotify.com/album/6uLicsEco578XMACdETJFo) | 3:03 | 2022-04-01 | 2022-07-27 |
 | [emails i can’t send](https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 1:44 | 2022-12-27 |  |
-| [Emotionless](https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:16 | 2022-12-16 |  |
+| [Emotionless](https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:16 | 2022-12-16 | 2023-02-13 |
 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-24 | 2022-11-12 |
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-12 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
@@ -183,6 +183,7 @@
 | [House With No Mirrors](https://open.spotify.com/track/3iPJ039BamX9MIVZQWEnnL) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:47 | 2021-12-17 | 2022-05-20 |
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 |  |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-10-14 | 2022-12-17 |
+| [How Dare You](https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How Dare You](https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b) | 3:09 | 2023-02-03 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-02 |  |
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-28 |  |
@@ -415,6 +416,7 @@
 | [What A Convincing Illusion](https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Golden Age](https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC) | 3:17 | 2022-12-06 | 2023-01-28 |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-12-17 |  |
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2021-12-17 | 2022-08-30 |
+| [What Happened to Ryan](https://open.spotify.com/track/0UYNa7reQKIbADXr8iN28w) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:35 | 2023-02-10 |  |
 | [What I Put You Through](https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [What I Put You Through](https://open.spotify.com/album/7mbGfCiWRq2uX7AxmYLCQC) | 3:22 | 2022-01-07 |  |
 | [What's The Point?](https://open.spotify.com/track/7CiI3YwYn2RWhzlifKMYcP) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [What's The Point?](https://open.spotify.com/album/6Lu7fKadh6NxAnH1oICXMX) | 2:54 | 2022-12-09 | 2022-12-17 |
 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 | 2021-12-17 | 2022-07-30 |

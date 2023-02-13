@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Phillip\-Michael Scales
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,982 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,065 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 31 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
 | 32 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 |
 | 33 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
-| 34 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
+| 34 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
 | 35 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
-| 36 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
+| 36 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
 | 37 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
 | 38 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 |
 | 39 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 50 | [Cruisin' to the Parque](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
 | 51 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 | 52 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
-| 53 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
-| 54 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 |
+| 53 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 |
+| 54 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 55 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
 | 56 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 |
-| 57 | [Fortune Teller](https://open.spotify.com/track/2G01T828C7rQXDjn0v24Ku) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:19 |
-| 58 | [Two Jobs](https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Two Jobs](https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG) | 3:22 |
+| 57 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
+| 58 | [Fortune Teller](https://open.spotify.com/track/2G01T828C7rQXDjn0v24Ku) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:19 |
 | 59 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 |
 | 60 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 |
-| 61 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
+| 61 | [Two Jobs](https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Two Jobs](https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG) | 3:22 |
 | 62 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 |
 | 63 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 |
 | 64 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 66 | [Blow My Mind](https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Blow My Mind](https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR) | 4:08 |
 | 67 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 |
 | 68 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 |
-| 69 | [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 |
-| 70 | [Rolodex](https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Light Speaks the Quilt](https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov) | 2:56 |
+| 69 | [Rolodex](https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Light Speaks the Quilt](https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov) | 2:56 |
+| 70 | [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDFjZGU1N2JkOTdjYzRmNTJkYTg5YTNlOTA3OTFiM2Ji`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDUzMjA5NGNmMWRhZmQ0OWIwYTI2NzljNWQzZDRjNDA0`

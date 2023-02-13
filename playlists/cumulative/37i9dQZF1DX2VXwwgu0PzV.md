@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-85 songs - 4 hr 26 min
+86 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Everything](https://open.spotify.com/track/2S8XO4A2B9gxhst1WuccIT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:34 | 2023-02-02 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2023-02-02 |  |
 | [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2023-02-02 | 2023-02-11 |
-| [FOLLOW](https://open.spotify.com/track/0wWkzxVjrltvSo6t0ndMnK) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M) | 3:43 | 2023-02-10 |  |
+| [FOLLOW](https://open.spotify.com/track/0wWkzxVjrltvSo6t0ndMnK) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M) | 3:43 | 2023-02-10 | 2023-02-13 |
+| [FOLLOW](https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/1e87ScTOtmWOynxRrc8sjL) | 3:43 | 2023-02-10 |  |
 | [For Me](https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [For Me](https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae) | 2:52 | 2023-02-02 |  |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-02-02 |  |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2023-02-02 |  |

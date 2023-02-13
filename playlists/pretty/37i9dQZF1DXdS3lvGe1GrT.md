@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,071 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,137 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 31 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 |
 | 32 | [June](https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d) | [Regina Pimentel](https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH) | [June](https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3) | 5:08 |
 | 33 | [Let's Turn This Back Around](https://open.spotify.com/track/7gQqOrVXYejRdF0IrM3Cu2) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Let's Turn This Back Around](https://open.spotify.com/album/41Ejbhmbu32mDst4ESoybM) | 5:28 |
-| 34 | [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 |
+| 34 | [Daydream](https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 4:03 |
 | 35 | [Dark Side Of Dreaming](https://open.spotify.com/track/3lcFzLTCJ30L3km2BXYVg6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Dark Side Of Dreaming](https://open.spotify.com/album/3kpilREq1Jsj4UwADIr4YR) | 3:21 |
 | 36 | [star](https://open.spotify.com/track/5pSIWBLYqHnz3hrQU1ykve) | [Marieke](https://open.spotify.com/artist/0cx6QwyhzKOmerceWhkMDw) | [star](https://open.spotify.com/album/56FQb0uneaiaK9YQ8EFHeT) | 4:23 |
 | 37 | [The Crow](https://open.spotify.com/track/2ra96QX8uA7Gl74A3VYiwK) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [The Crow](https://open.spotify.com/album/6yIBwEcBa1Fk6m8eDK15Oa) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [I Wouldn't Mind](https://open.spotify.com/track/2TwRFKnBx1EjNJ5vDRRvNC) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu) | [I Wouldn't Mind](https://open.spotify.com/album/59poBmSzdEHPoZT4Sk7oYt) | 2:27 |
 | 100 | [Moment in Time](https://open.spotify.com/track/32fIpfTQO2IGcts9W9dY7L) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [Moment in Time](https://open.spotify.com/album/5Gc2yg1wQ5GyY4pSKIqgHR) | 3:46 |
 
-Snapshot ID: `MTY3NTk1OTExMCwwMDAwMDAwMDFjNDlmNGIxNDE2MDExY2JiOGYxZTBkNDRjM2UzY2Ix`
+Snapshot ID: `MTY3NTk1OTExMCwwMDAwMDAwMGFmZGUyYjgwMTFhZDc3ZGE1ZjVjZTFhMmEyZTQ5YmFi`

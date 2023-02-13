@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 214285,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G"
@@ -11312,6 +11312,32 @@
       "duration_ms": 169523,
       "name": "Only You",
       "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
+    },
+    {
+      "album": {
+        "name": "Ooga Chaka",
+        "url": "https://open.spotify.com/album/61wFoqTQ4z7ia844DRZvzz"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Tellus",
+          "url": "https://open.spotify.com/artist/5QtIF4xhM0ViWQFChbHNKJ"
+        },
+        {
+          "name": "Olympis",
+          "url": "https://open.spotify.com/artist/23xCxwjg6Bqwm7rh6n9Kjd"
+        },
+        {
+          "name": "Theis EZ",
+          "url": "https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128639,
+      "name": "Ooga Chaka",
+      "url": "https://open.spotify.com/track/1hnRq2eX9qAlqw4dMKWo7m"
     },
     {
       "album": {

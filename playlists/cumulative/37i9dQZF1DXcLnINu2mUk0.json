@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        },
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186221,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu"
+    },
+    {
+      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 179027,
       "name": "Garrafa",
       "url": "https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu"

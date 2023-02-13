@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 24319,
+  "num_followers": 24335,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyOTgzNywwMDAwMDAwMDhiYmRmNzIzZWU3N2Q2Mjg2MDQ2NDNlZDEwNzdjN2Zj",
+  "snapshot_id": "MTY3NjAyOTgzNywwMDAwMDAwMDY2ZDNhMGYyNDBkOWJlYmY1MTJmZDU4NjdiYTdiZDFm",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -467,38 +467,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "RTID (Rich Till I Die)",
-        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 172881,
-      "name": "RTID (Rich Till I Die)",
-      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -535,22 +503,34 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+        "name": "RTID (Rich Till I Die)",
+        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+      "duration_ms": 172881,
+      "name": "RTID (Rich Till I Die)",
+      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -583,6 +563,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
-      "added_at": "2023-02-12 01:08:33",
+      "added_at": "2023-02-13 01:09:20",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0DjlHEgLu0UN5n4Ko0XZTh"
@@ -679,42 +679,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
-    },
-    {
-      "added_at": "2023-02-12 01:08:33",
-      "album": {
-        "name": "Dagger",
-        "url": "https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p"
-      },
-      "artists": [
-        {
-          "name": "Senth",
-          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
-        }
-      ],
-      "duration_ms": 137451,
-      "name": "Dagger",
-      "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Won Da Mo",
         "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "added_at": "2023-02-13 01:09:20",
+      "album": {
+        "name": "Dagger",
+        "url": "https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "duration_ms": 137451,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": "2023-01-27 10:21:30",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
+      "added_at": "2023-02-03 09:31:08",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
+    {
       "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -1363,22 +1379,6 @@
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
-    },
-    {
-      "added_at": "2023-02-03 09:31:08",
-      "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
       "added_at": "2023-01-19 23:00:00",

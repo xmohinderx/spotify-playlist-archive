@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Loods
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,281 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,275 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 32 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 |
 | 33 | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/track/4USV70gRKevsvJE0BDOI38) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/album/07vFImZlzxhilO1sjokl5O) | 5:37 |
 | 34 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 |
-| 35 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 |
+| 35 | [Contact](https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:00 |
 | 36 | [Daggers](https://open.spotify.com/track/7DMoJXTtrMxHWZJkOnmHm2) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Daggers](https://open.spotify.com/album/1joVdJWVO7E3ulPMvwJwl3) | 3:36 |
 | 37 | [When I’m With U](https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [All Nyte](https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz) | 4:10 |
 | 38 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 68 | [KeQue](https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [KeQue](https://open.spotify.com/album/5KFhYl3zhhiX3bvzqWrPXB) | 6:28 |
 | 69 | [Face](https://open.spotify.com/track/7gw9TJqZ4e16o6EeQFGChk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Face](https://open.spotify.com/album/6NehSz7c2uXH4uQYN2qX70) | 3:36 |
 
-Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMGNmZTJjYTZkMzNiYTQ3YWQ1ZDkwYWRjYzBiNTNlYmJi`
+Snapshot ID: `MTY3NTk0NzYwMCwwMDAwMDAwMDA2NWQ4ZDY2YTcwYTI3ZGRiODY5MjYzOGZhZTdmNDE0`

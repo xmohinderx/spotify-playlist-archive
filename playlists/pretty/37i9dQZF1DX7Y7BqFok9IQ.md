@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,189 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,381 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 42 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
 | 43 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
 | 44 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 |
-| 45 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
-| 46 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 |
+| 45 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 |
+| 46 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
 | 47 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
 | 48 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 |
 | 49 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 |
 | 50 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDhmZjI2N2MxMjM4OTY5MGExZTBkNTJmNjU2Mzc1NTQ0`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGZjOTcyNDE0MjkzYmJkMTlkMDY0OGFjZTY5M2ZjMmYx`

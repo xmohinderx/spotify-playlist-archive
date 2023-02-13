@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 103765,
+  "num_followers": 103798,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTMwMiwwMDAwMDAwMDNhNTUzMzlkZjgxNGY2ZjgzODZmYjY0MDMzZWU4MmFk",
+  "snapshot_id": "MTY3NjA0NTMwMiwwMDAwMDAwMDQ5OTQ3MDVkMGVmZGUwNGUwOGJkMjJlMzljOTM5ZjY1",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "ARENA",
-        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 261702,
-      "name": "designer (with Daramola)",
-      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "LOML (feat. Olamide)",
         "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 196139,
       "name": "LOML (feat. Olamide)",
       "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 261702,
+      "name": "designer (with Daramola)",
+      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     }
   ],
   "unique_name": "Afro Ritmo",

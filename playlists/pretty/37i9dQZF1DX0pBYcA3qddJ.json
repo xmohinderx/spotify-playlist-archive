@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 44765,
+  "num_followers": 44791,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDVkNGRjMjhjZjQxMjBmYTUxZmQyM2FlMzQ3NmNkNjY1",
+  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDczNTc0YThjY2ZhNTBiZDMwOTZhNzZlZmNmYmIwYTJh",
   "tracks": [
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
         "name": "See you Soon",
         "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 206600,
       "name": "See you Soon",
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 121250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 267994,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 132235,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
+      "duration_ms": 121250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 132235,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1667,6 +1667,38 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
+        "name": "Shadow Dancer",
+        "url": "https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        }
+      ],
+      "duration_ms": 268366,
+      "name": "Shadow Dancer",
+      "url": "https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
         "name": "Haydn: Cello Concertos (Remastered)",
         "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
@@ -1691,42 +1723,6 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
-        "name": "Shadow Dancer",
-        "url": "https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc"
-      },
-      "artists": [
-        {
-          "name": "Shizuka Kanata",
-          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
-        }
-      ],
-      "duration_ms": 268366,
-      "name": "Shadow Dancer",
-      "url": "https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
-        "name": "The Forever Now (From \"This Is Us: Season 6\")",
-        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
-      },
-      "artists": [
-        {
-          "name": "This Is Us Cast",
-          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
-        },
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 198108,
-      "name": "The Forever Now - From \"This Is Us: Season 6\"",
-      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
     },
     {
       "added_at": "2023-02-09 15:00:00",

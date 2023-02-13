@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 83393,
+  "num_followers": 83429,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGI0ZWUzMmI3N2MyODQ4MGUyNWIyNjI3MTFlY2VmYjA2",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDJhNDkzNzkwMDEyNWU1MWViN2RkODM4ZGFkMjFhOTU3",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
         }
       ],
-      "duration_ms": 205033,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
+      "duration_ms": 134234,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
       },
       "artists": [
         {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 134234,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
+      "duration_ms": 205033,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "xSyborg",
+          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Suicycle",
         "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 249600,
       "name": "Scorpio Trait",
       "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R"
-      },
-      "artists": [
-        {
-          "name": "Ayparia",
-          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
-        },
-        {
-          "name": "xSyborg",
-          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD"
     },
     {
       "added_at": "2022-08-02 15:42:28",

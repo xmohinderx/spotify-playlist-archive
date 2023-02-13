@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-38 songs - 1 hr 39 min
+39 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 |  |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-01-24 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 |  |
-| [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 |  |
+| [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 | 2023-02-13 |
 | [Cíclica](https://open.spotify.com/track/0jqfKwvVglieA2ESdKU8JM) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Cíclica](https://open.spotify.com/album/5jVMmxJaXohVz7BwmJqiBW) | 3:52 | 2023-01-24 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 |  |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-01-24 |  |
@@ -45,6 +45,7 @@
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-01-24 |  |
 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 | 2023-01-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-01-24 |  |
+| [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-01-24 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

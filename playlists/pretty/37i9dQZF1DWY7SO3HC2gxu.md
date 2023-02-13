@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 59 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377 likes - 59 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 6 | [Sunrise](https://open.spotify.com/track/1BEKaR7CJZTw0Yv4e845jc) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Frequent Sea](https://open.spotify.com/artist/0kcn0qQX3hkKvCIPjWmy5a) | [Sunrise](https://open.spotify.com/album/4Geze587DB67GHfSz0WG1B) | 2:47 |
 | 7 | [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 |
 | 8 | [SHINDA](https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [SHINDA](https://open.spotify.com/album/7MU0MfGCMgISf4NOkloTro) | 2:42 |
-| 9 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG), [Azazal](https://open.spotify.com/artist/71LY5vz7tLIHyUvmqQm52e) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 |
+| 9 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG), [Azazal](https://open.spotify.com/artist/0Gd85hmxMjJOBRH9FAj2TB) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 |
 | 10 | [Soul Explosion](https://open.spotify.com/track/2SSwhh7RjztAFSeA2S9iQ9) | [DJ Vivona](https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz) | [Soul Explosion](https://open.spotify.com/album/49tmF9OnGsQ45l11uf9KCq) | 6:25 |
 | 11 | [Take A Chance](https://open.spotify.com/track/7t56z9S82lwRdqCsArOnZ0) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [Take A Chance](https://open.spotify.com/album/5L3ZDYPpWNnxjST6k8pq8O) | 4:51 |
 | 12 | [Jama](https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym) | [David Hopperman](https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q), [Savage Roses](https://open.spotify.com/artist/0K7YbgQP1R1qPt3ZMXxzcl), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Jama](https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A) | 5:30 |

@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Ten Tonnes
 
-367 songs - 20 hr 39 min
+368 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-08 | 2022-09-30 |
 | [Sell Out](https://open.spotify.com/track/5aWaPqgkheottumavM0tix) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Sell Out](https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ) | 3:07 | 2022-10-13 | 2023-01-24 |
 | [Sentimental Animal](https://open.spotify.com/track/7xMCnyJZvWYjRG4JD5NwGe) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Sentimental Animal](https://open.spotify.com/album/5FLjveWHRuBl6xnzoOldnc) | 4:35 | 2021-03-09 | 2022-01-17 |
-| [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 | 2022-10-13 |  |
+| [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 | 2022-10-13 | 2023-02-13 |
 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-18 | 2022-11-10 |
 | [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 | 2022-04-01 | 2022-08-19 |
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-16 | 2022-07-29 |
@@ -360,6 +360,7 @@
 | [Weird Me Out](https://open.spotify.com/track/5P0iRet3L91fC6SipKKsPl) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Weird Me Out](https://open.spotify.com/album/2o3vklwlNruYNFLbmtX58r) | 3:01 | 2022-10-06 | 2022-11-18 |
 | [Weird Me Out](https://open.spotify.com/track/7u51xdzTY7W1PgaVMVSyIU) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 3:01 | 2022-08-18 | 2022-10-13 |
 | [What Do You Mean?](https://open.spotify.com/track/4U8pHHV7Mhq6qOEb3dsyZN) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What Do You Mean?](https://open.spotify.com/album/3ly2DjbPZP1C2PScvRaL8Y) | 3:43 | 2022-08-18 | 2022-10-07 |
+| [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 | 2023-02-10 |  |
 | [Where The Grass Is Greener](https://open.spotify.com/track/0HAT9ZgocZ3gN10Zo3bXl9) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Where The Grass Is Greener](https://open.spotify.com/album/1o4vVBNnaoOkPn15ElHkFL) | 3:41 | 2021-03-09 | 2022-01-17 |
 | [Where to Start](https://open.spotify.com/track/7eP0RO2UD7gtmGrxuRHI5Z) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Where to Start](https://open.spotify.com/album/42PIz233QL3gza5A3lnwNt) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [who cares](https://open.spotify.com/track/7hoqbmmpY9eO5qKBnHSZZE) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [who cares](https://open.spotify.com/album/3D14NekjVfBIsn7tRNshAv) | 3:04 | 2022-01-24 | 2022-08-19 |

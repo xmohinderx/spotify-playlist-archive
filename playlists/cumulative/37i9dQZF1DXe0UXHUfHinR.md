@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-557 songs - 1 day 20 hr 16 min
+558 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2022-10-27 |  |
 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 | 2022-10-27 |  |
 | [All Of Me](https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Jazz Portrait Of Frank Sinatra](https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM) | 3:22 | 2022-10-27 |  |
+| [All Of Me](https://open.spotify.com/track/4sHMm4xzOe9cz68cf9I25k) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 4:08 | 2023-01-18 |  |
 | [All Of You](https://open.spotify.com/track/7EzyFflNHxgRyC6GCVfu5m) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Decca Years](https://open.spotify.com/album/653NffdK42IKzsD3goAEHg) | 2:44 | 2022-10-27 |  |
 | [All The Things You Are](https://open.spotify.com/track/6LPqphk2rbt2i63bR2o247) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Odyssey: 1945\-1952](https://open.spotify.com/album/1jOKHjidCbzo9tegzIlrvo) | 2:49 | 2022-10-27 |  |
 | [All The Things You Are](https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The Jerome Kern Songbook](https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx) | 3:15 | 2022-10-27 |  |
@@ -293,7 +294,7 @@
 | [Let's Fall In Love](https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 4:18 | 2022-10-27 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-10-27 | 2022-12-16 |
 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 | 2022-10-27 |  |
-| [Little Girl Blue](https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 1](https://open.spotify.com/album/3uF0eDO6FcdBSJcR4wdwms) | 7:17 | 2023-01-03 |  |
+| [Little Girl Blue](https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 1](https://open.spotify.com/album/3uF0eDO6FcdBSJcR4wdwms) | 7:17 | 2023-01-03 | 2023-02-13 |
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2022-10-27 |  |
 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 | 2022-10-27 |  |
 | [Love Is Here To Stay](https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:10 | 2022-10-27 |  |

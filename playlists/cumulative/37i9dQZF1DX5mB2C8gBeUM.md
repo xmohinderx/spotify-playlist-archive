@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Cheat Codes
 
-316 songs - 16 hr 6 min
+317 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2023-01-04 |
 | [Almost There](https://open.spotify.com/track/4FcpNyq8OTtTHXqZVQ3WcD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Almost There](https://open.spotify.com/album/5jG7OP3MTNwMOyQJjsw45B) | 2:40 | 2021-12-10 | 2022-02-26 |
 | [Always Never](https://open.spotify.com/track/6H5GSjYSsIJG9h7Fm8QeUg) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Always Never](https://open.spotify.com/album/52Wmo9nCaBjqE3GQYDFxcZ) | 3:03 | 2021-12-10 | 2023-02-02 |
-| [Anything Cold](https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/5tJ7Fi9rz7HnjhrOhOD6Lo) | 2:54 | 2022-03-11 |  |
+| [Anything Cold](https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/5tJ7Fi9rz7HnjhrOhOD6Lo) | 2:54 | 2022-03-11 | 2023-02-13 |
+| [Anything Cold](https://open.spotify.com/track/5wzzdPCvXvd7caNx6l5izX) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/4Y6rVW06iicinF8IVZqGM4) | 2:54 | 2023-02-10 |  |
 | [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 | 2022-05-20 |  |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-02-18 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-10 | 2023-01-04 |

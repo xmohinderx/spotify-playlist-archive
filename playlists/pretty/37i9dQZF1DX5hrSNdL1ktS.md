@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Elvis de Yongol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,433 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,438 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 18 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
 | 19 | [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 |
 | 20 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 |
-| 21 | [Si Supieras](https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Si Supieras](https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ) | 2:26 |
+| 21 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 |
 | 22 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
-| 23 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 |
+| 23 | [Si Supieras](https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Si Supieras](https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ) | 2:26 |
 | 24 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |
 | 25 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 26 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 43 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
 | 44 | [Webcam](https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Webcam](https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3) | 3:00 |
 | 45 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 |
-| 46 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
-| 47 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 46 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 47 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
 | 48 | [LO SIENTO](https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [LO SIENTO](https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj) | 2:33 |
 | 49 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 |
 | 50 | [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN), [SamueVi](https://open.spotify.com/artist/1QoAZ3MwxzMXXxkU6NVGST) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 |
 | 55 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 
-Snapshot ID: `MTY3NjAwODgwMCwwMDAwMDAwMDdhZmNjMzBlODM2NjFiZmU1M2M5MDI5YmU3Yjc4MTQ4`
+Snapshot ID: `MTY3NjAwODgwMCwwMDAwMDAwMDVhOWY1NDE3ODExNGQ0MjE2ZDM4MjM3YjgxZjVmMzc4`

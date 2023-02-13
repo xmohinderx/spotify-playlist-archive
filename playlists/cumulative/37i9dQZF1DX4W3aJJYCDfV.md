@@ -4,7 +4,7 @@
 
 > Brand new music from Ashnikko \(pictured\), Central Cee, Jax Jones and more!
 
-1,776 songs - 4 day 0 hr 33 min
+1,777 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,8 @@
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-06 | 2023-01-13 |
 | [Go Down \(feat\. Joe Killington\)](https://open.spotify.com/track/2cDvKdCOo9TVUMVy7iheNI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Go Down \(feat\. Joe Killington\)](https://open.spotify.com/album/57wYYcu6hVwEVv9yGLs0p7) | 3:17 | 2022-11-25 | 2022-12-02 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-01-20 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 | 2023-02-13 |
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2022-11-11 |
 | [GOD SAVE THE STREETS PT\. 2](https://open.spotify.com/track/6yhn90syVbMUKR4X9iZlf8) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [RA \(Real Artillery\)](https://open.spotify.com/artist/1Mo0pnWRAKd2oEH1IC6IgH) | [GOD SAVE THE STREETS PT\. 2](https://open.spotify.com/album/4W1zMEiNX1YAJqIHNIBc0D) | 3:20 | 2022-11-11 | 2022-11-18 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-01-27 | 2023-02-03 |

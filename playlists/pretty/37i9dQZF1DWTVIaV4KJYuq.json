@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 665783,
+  "num_followers": 665933,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDE4YmFhMDJhYmQ1ZjVkM2U4ZGJjMTEzMmE1OGJmMWRm",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQyNDNjOTdjZjEwZDhiOTFlNDYwMzhhNzdkM2M5MjE1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177000,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Elvis Now",
         "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "Rita Wilson Now & Forever: Duets",
+        "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Rita Wilson",
+          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 293066,
+      "name": "Slip Slidin' Away",
+      "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1767,22 +1771,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Rita Wilson Now & Forever: Duets",
-        "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
       },
       "artists": [
         {
-          "name": "Rita Wilson",
-          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 293066,
-      "name": "Slip Slidin' Away",
-      "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2022-09-30 04:00:00",

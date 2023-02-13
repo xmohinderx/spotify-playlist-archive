@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 185424,
+  "num_followers": 185497,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMDA4Njg3Mzg1ZDRmNGViMDM2MWYxNzBkYTMyNGFlMThi",
+  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGQwMjA1ZjM0NWI4YzFhMGM5NWNjZDA5MTA1NTU3Yzk3",
   "tracks": [
     {
       "added_at": "2023-01-09 06:36:42",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Pasion",
-        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
+        "name": "Si Me Faltas Tu (Remastered)",
+        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
       },
       "artists": [
         {
-          "name": "Elsa Garcia",
-          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
+      "duration_ms": 251903,
+      "name": "Yo Te Voy A Amar",
+      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Si Me Faltas Tu (Remastered)",
-        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
+        "name": "Pasion",
+        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
       },
       "artists": [
         {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+          "name": "Elsa Garcia",
+          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
         }
       ],
-      "duration_ms": 251903,
-      "name": "Yo Te Voy A Amar",
-      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
+      "duration_ms": 217146,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
+        "name": "Que Cante El Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        },
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 544800,
+      "name": "Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Dev\u00f3rame Otra Vez, Qu\u00e9 Esperabas featuring Jay Perez",
+      "url": "https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 241560,
       "name": "Maldito Amor",
       "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
-        "name": "Que Cante El Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        },
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 544800,
-      "name": "Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Dev\u00f3rame Otra Vez, Qu\u00e9 Esperabas featuring Jay Perez",
-      "url": "https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -999,6 +967,22 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
         "name": "Live At Fiesta Market Square (Remastered)",
         "url": "https://open.spotify.com/album/3U5iUIQPmY7sOammCJIW3C"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 439840,
       "name": "Calla featuring Jay Perez (Live at FMS)",
       "url": "https://open.spotify.com/track/1njmIOg0pSfV5i5oV4gbM1"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
+      },
+      "artists": [
+        {
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Techno Cumbia",
-      "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 210653,
       "name": "D\u00e9jame Amarte",
       "url": "https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Techno Cumbia",
+      "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
     },
     {
       "added_at": "2023-01-09 06:36:42",

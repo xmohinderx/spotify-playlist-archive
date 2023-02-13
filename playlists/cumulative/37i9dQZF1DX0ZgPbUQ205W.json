@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 371266,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu"
@@ -3508,6 +3508,24 @@
       "duration_ms": 185110,
       "name": "Questions in a World of Blue",
       "url": "https://open.spotify.com/track/5BQcGyihNd07qVOSNZ1nWi"
+    },
+    {
+      "album": {
+        "name": "Ragged Tux",
+        "url": "https://open.spotify.com/album/6XeDlzhAOmYtAwuuTDqNI8"
+      },
+      "artists": [
+        {
+          "name": "Corin Stannard Trio",
+          "url": "https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180318,
+      "name": "Ragged Tux",
+      "url": "https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA"
     },
     {
       "album": {

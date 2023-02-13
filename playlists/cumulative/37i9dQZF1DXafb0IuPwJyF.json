@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064",
+  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u306a\u3068\u308a",
   "name": "Tokyo Super Hits!",
   "tracks": [
     {
@@ -194,6 +194,32 @@
       "duration_ms": 244537,
       "name": "Akatoki Reload",
       "url": "https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r"
+    },
+    {
+      "album": {
+        "name": "I Have a Dream.",
+        "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
+      },
+      "artists": [
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "All Through the Night",
+      "url": "https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7"
     },
     {
       "album": {
@@ -1386,7 +1412,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 175216,
       "name": "DOGLAND",
       "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
@@ -3485,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230587,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz"
+    },
+    {
+      "album": {
         "name": "M87",
         "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
       },
@@ -4286,7 +4330,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 210948,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
@@ -4846,7 +4890,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 161202,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo"
@@ -4926,6 +4970,24 @@
       "duration_ms": 211039,
       "name": "RAKUEN",
       "url": "https://open.spotify.com/track/01hIMNbONDHX9krqxc0RJj"
+    },
+    {
+      "album": {
+        "name": "Rashiku",
+        "url": "https://open.spotify.com/album/3hOIKNqobignQz1MheQ0o9"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Rashiku",
+      "url": "https://open.spotify.com/track/1TBHbljkZmfH15BkKowBDK"
     },
     {
       "album": {
@@ -5050,6 +5112,24 @@
       "duration_ms": 215928,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4ga7FkWrJ8GCty2rCF6QpM"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0rhMvEJsl55VRQl3JnI8JW"
     },
     {
       "album": {
@@ -6791,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK"
+    },
+    {
+      "album": {
         "name": "V\u00e9randa",
         "url": "https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT"
       },
@@ -6950,7 +7048,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 182893,
       "name": "We Good",
       "url": "https://open.spotify.com/track/13G2QNS7fnJWPKuWtch5HY"
@@ -7466,7 +7564,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 188060,
       "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
       "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
@@ -8150,6 +8248,24 @@
       "duration_ms": 211278,
       "name": "\u30a2\u30a4\u30f2",
       "url": "https://open.spotify.com/track/6Gk4InYH6J6GrbCEgeB0Kv"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "album": {
@@ -8914,7 +9030,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 293687,
       "name": "\u30c6\u30ec\u30d1\u30b9",
       "url": "https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q"

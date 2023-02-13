@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: YEИDRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,060 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,296 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 90 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 |
 | 91 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
 | 92 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 |
-| 93 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
-| 94 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
-| 95 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 93 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 94 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
+| 95 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
 | 96 | [Cuentale](https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Cuentale](https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM) | 3:40 |
 | 97 | [Don Juan & Cupido](https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Don Juan & Cupido](https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx) | 3:45 |
 | 98 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
-| 99 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Te Vaya Bonito](https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5) | 3:23 |
-| 100 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
+| 99 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
+| 100 | [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGY4NzExM2E4NWU0OWM2OTE4ZmRlZDNjNDU5OTgyY2Q5`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDBmZmJiOWNmN2UxYzIzMWVhMGM5NTk4MmQwMDI0ZTNk`

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Majo Aguilar en portada.",
-  "num_followers": 101834,
+  "num_followers": 101870,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDMyODk3ZGNlYmE4YThkZjMzZGIzYWI0YzI0YWE4OTM1",
+  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDE1NDI2ZDI3ZmVlMDJmM2Q5OGEzYjY4NjJkYTUxZDcy",
   "tracks": [
     {
       "added_at": "2022-11-11 06:00:00",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 224040,
+      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
+      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
     },
     {
       "added_at": "2022-10-07 15:31:27",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 224040,
-      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
-      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2022-06-08 17:57:52",

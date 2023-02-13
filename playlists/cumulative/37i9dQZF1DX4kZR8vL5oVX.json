@@ -10415,6 +10415,24 @@
     },
     {
       "album": {
+        "name": "Ne pas trop rester bleue",
+        "url": "https://open.spotify.com/album/0K2gcYIB1tl5WJUwkqaiCR"
+      },
+      "artists": [
+        {
+          "name": "Laure Briard",
+          "url": "https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "The Smell of Your Hair",
+      "url": "https://open.spotify.com/track/40jgyuVJdg53HreVt53Dwp"
+    },
+    {
+      "album": {
         "name": "The Smell of Your Hair",
         "url": "https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH"
       },
@@ -10426,7 +10444,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 170706,
       "name": "The Smell of Your Hair",
       "url": "https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7"

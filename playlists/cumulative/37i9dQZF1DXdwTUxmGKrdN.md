@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-206 songs - 15 hr 12 min
+207 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 | 2022-01-10 |  |
 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 | 2022-01-10 |  |
 | [Let's Get Serious](https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Let's Get Serious](https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj) | 4:06 | 2021-12-27 | 2022-07-29 |
-| [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 |  |
+| [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 | 2023-02-13 |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Mike Phillips](https://open.spotify.com/album/4FomqjIojtkML36UO4rW7W) | 2:02 | 2022-12-20 | 2023-01-03 |
 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2021-12-27 |  |
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-07-18 |  |
@@ -154,6 +154,7 @@
 | [Reverence](https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Turn It Up](https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb) | 5:03 | 2022-04-11 | 2022-04-17 |
 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 | 2021-12-27 |  |
 | [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 | 2023-01-02 |
+| [Romantic Nights](https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 3:48 | 2023-01-31 |  |
 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 | 2022-01-03 | 2022-07-29 |
 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 | 2023-01-07 |
 | [Sample That](https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Retrospect](https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh) | 4:20 | 2021-12-27 | 2022-07-27 |

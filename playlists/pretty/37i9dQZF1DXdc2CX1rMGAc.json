@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 131170,
+  "num_followers": 131357,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0NjcyOCwwMDAwMDAwMGJlYjkzMjU2ZDY2YzFlNTVkNTE5YWVlNDYwYjMwMGU3",
+  "snapshot_id": "MTY3NDg0NjcyOCwwMDAwMDAwMDA5NDkwMjE3MzE3ODA0NDg2YjNmZTE1YzI5NDAyYzMx",
   "tracks": [
     {
       "added_at": "2023-01-27 05:50:03",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Luces De Ne\u00f3n",
-        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "Luces De Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "Quien TV Remix",
         "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 163708,
       "name": "Quien TV Remix",
       "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
         "name": "Caminemos de la Mano",
         "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 214695,
       "name": "Caminemos de la Mano",
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Romances de una Nota 2021, Vol.2",
-        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
-      },
-      "artists": [
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 167504,
-      "name": "23 (With Ape Drums)",
-      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "FULANITO",
         "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 158531,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Romances de una Nota 2021, Vol.2",
+        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
+      },
+      "artists": [
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 167504,
+      "name": "23 (With Ape Drums)",
+      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "TORO",
-      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "Ponle",
         "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 164764,
       "name": "Ponle",
       "url": "https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "TORO",
+      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
+        "name": "Caf\u00e9 Con Leche",
+        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
-        "name": "Caf\u00e9 Con Leche",
-        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -2211,8 +2211,8 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Diamantes En Mis Dientes",
-        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
       },
       "artists": [
         {
@@ -2220,13 +2220,17 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         }
       ],
-      "duration_ms": 344602,
-      "name": "Diamantes en Mis Dientes",
-      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
+      "duration_ms": 255363,
+      "name": "Malo",
+      "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -2379,8 +2383,8 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Malo",
-        "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
+        "name": "Diamantes En Mis Dientes",
+        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
       },
       "artists": [
         {
@@ -2388,17 +2392,13 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 255363,
-      "name": "Malo",
-      "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
+      "duration_ms": 344602,
+      "name": "Diamantes en Mis Dientes",
+      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -2683,6 +2683,26 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "duration_ms": 151076,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
       },
@@ -2703,26 +2723,6 @@
       "duration_ms": 159860,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
-        "name": "SUSANA",
-        "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
-      },
-      "artists": [
-        {
-          "name": "Leo Bash",
-          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
-        },
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        }
-      ],
-      "duration_ms": 151076,
-      "name": "SUSANA",
-      "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -2903,26 +2903,6 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Gistro Amarillo",
-        "url": "https://open.spotify.com/album/1YMPeW34T2XSu8jawvMYFC"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 230876,
-      "name": "Gistro Amarillo",
-      "url": "https://open.spotify.com/track/4Vpwf76uBHswSRhhpg0llh"
-    },
-    {
-      "added_at": "2023-01-27 05:50:03",
-      "album": {
         "name": "Creo (Remix)",
         "url": "https://open.spotify.com/album/7e82QBbRTSpvb7K7IfpUDR"
       },
@@ -2939,6 +2919,26 @@
       "duration_ms": 263360,
       "name": "Creo - Remix",
       "url": "https://open.spotify.com/track/6vlS8O9BbfmUbLA1FrnMPa"
+    },
+    {
+      "added_at": "2023-01-27 05:50:03",
+      "album": {
+        "name": "Gistro Amarillo",
+        "url": "https://open.spotify.com/album/1YMPeW34T2XSu8jawvMYFC"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 230876,
+      "name": "Gistro Amarillo",
+      "url": "https://open.spotify.com/track/4Vpwf76uBHswSRhhpg0llh"
     },
     {
       "added_at": "2023-01-27 05:50:03",
@@ -3163,8 +3163,8 @@
     {
       "added_at": "2023-01-27 05:50:03",
       "album": {
-        "name": "Nivel De Perreo",
-        "url": "https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
@@ -3172,13 +3172,13 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Nivel De Perreo",
-      "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
     }
   ],
   "unique_name": "Beast Mode Latin",

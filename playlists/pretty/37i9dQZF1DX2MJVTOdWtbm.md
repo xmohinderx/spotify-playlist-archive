@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,139 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,165 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 58 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 59 | [Luces](https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Luces](https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj) | 2:17 |
 | 60 | [nostalgia](https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [nostalgia](https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv) | 2:39 |
-| 61 | [La Corriente](https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [La Corriente](https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f) | 2:46 |
-| 62 | [CUÁNTO](https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [CUÁNTO](https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm) | 2:52 |
+| 61 | [CUÁNTO](https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [CUÁNTO](https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm) | 2:52 |
+| 62 | [La Corriente](https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [La Corriente](https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f) | 2:46 |
 | 63 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 |
 | 64 | [diario](https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:50 |
 | 65 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 |
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 74 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 | 75 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
 | 76 | [QUIEN ES ESA](https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 2:30 |
-| 77 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 |
+| 77 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
 | 78 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
-| 79 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
+| 79 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 |
 | 80 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
 | 81 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 |
 | 82 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
 | 83 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
-| 84 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
-| 85 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
+| 84 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
+| 85 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
 
-Snapshot ID: `MTY3NTM3NTgxMCwwMDAwMDAwMDFmMTUzM2ZmOTQzZWM2NTY4MTNmMWE2NTQ1ZjAwYzc0`
+Snapshot ID: `MTY3NTM3NTgxMCwwMDAwMDAwMGJlMjc2ZmUxMjdiODJkMmNkZjFhMjg2ZGZhZWQwOTZi`

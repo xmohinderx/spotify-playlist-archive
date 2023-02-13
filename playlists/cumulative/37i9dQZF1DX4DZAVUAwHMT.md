@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: You Me At Six
 
-79 songs - 4 hr 18 min
+80 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 |  |
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 |  |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2023-01-13 | 2023-02-10 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 | 2023-02-13 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-01-27 |  |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-13 |  |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2023-01-13 | 2023-02-03 |

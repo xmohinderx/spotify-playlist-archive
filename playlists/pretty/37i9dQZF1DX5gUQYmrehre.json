@@ -1,12 +1,12 @@
 {
   "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Leland.",
-  "num_followers": 3996,
+  "num_followers": 4000,
   "original_name": "Pride Beyond Borders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4OTI2MSwwMDAwMDAwMDQ0ZDllMTNiYWY0ZmM1NGIxNDk1MjY4YWI0MmRlOTU3",
+  "snapshot_id": "MTY3NDU4OTI2MSwwMDAwMDAwMDdjY2RhYTk1YWZlNjlmMWM1ZjQ4MjhjM2E0YTEyMzk1",
   "tracks": [
     {
       "added_at": "2023-01-24 05:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 233314,
       "name": "Cicada (feat. Arca)",
       "url": "https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "All My Love Is Coming Back To Me",
-        "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 209126,
-      "name": "All My Love Is Coming Back To Me",
-      "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "Turned Heads",
         "url": "https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 142500,
       "name": "Turned Heads",
       "url": "https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "All My Love Is Coming Back To Me",
+        "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 209126,
+      "name": "All My Love Is Coming Back To Me",
+      "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
+        "name": "JUNGLE TEKNAH",
+        "url": "https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "duration_ms": 241999,
+      "name": "JUNGLE TEKNAH",
+      "url": "https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
         "name": "Night Creature",
         "url": "https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "JUNGLE TEKNAH",
-        "url": "https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df"
-      },
-      "artists": [
-        {
-          "name": "SHERELLE",
-          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
-        }
-      ],
-      "duration_ms": 241999,
-      "name": "JUNGLE TEKNAH",
-      "url": "https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "TEETH",
         "url": "https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "HUNTER SCHAFER",
-        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "HUNTER SCHAFER",
-      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 210000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "HUNTER SCHAFER",
+        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "HUNTER SCHAFER",
+      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "waiting room",
-        "url": "https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR"
-      },
-      "artists": [
-        {
-          "name": "Kids With Buns",
-          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
-        }
-      ],
-      "duration_ms": 206362,
-      "name": "bad grades",
-      "url": "https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
         "name": "You're (Still) in Love",
         "url": "https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "Cenizas Quedaban",
-        "url": "https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY"
+        "name": "waiting room",
+        "url": "https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR"
       },
       "artists": [
         {
-          "name": "Tayhana",
-          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
         }
       ],
-      "duration_ms": 332571,
-      "name": "Hasta Que Me Quieras",
-      "url": "https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5"
+      "duration_ms": 206362,
+      "name": "bad grades",
+      "url": "https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
+        "name": "Cenizas Quedaban",
+        "url": "https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY"
+      },
+      "artists": [
+        {
+          "name": "Tayhana",
+          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+        }
+      ],
+      "duration_ms": 332571,
+      "name": "Hasta Que Me Quieras",
+      "url": "https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
         "name": "Child Of The Government",
         "url": "https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 221392,
       "name": "Child Of The Government",
       "url": "https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "You Will Not Die (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1239,18 +1255,22 @@
     {
       "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "You Will Not Die (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg"
+        "name": "\u9a37",
+        "url": "https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE"
       },
       "artists": [
         {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+          "name": "Zelos Wong \u9ec3\u51f1\u9038",
+          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
+        },
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
         }
       ],
-      "duration_ms": 249093,
-      "name": "Interloper",
-      "url": "https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB"
+      "duration_ms": 254613,
+      "name": "\u9a37",
+      "url": "https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ"
     },
     {
       "added_at": "2023-01-24 05:00:00",
@@ -1327,26 +1347,6 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
-    },
-    {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
-        "name": "\u9a37",
-        "url": "https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE"
-      },
-      "artists": [
-        {
-          "name": "Zelos Wong \u9ec3\u51f1\u9038",
-          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
-        },
-        {
-          "name": "Luna Is A Bep",
-          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "\u9a37",
-      "url": "https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ"
     },
     {
       "added_at": "2023-01-24 05:00:00",

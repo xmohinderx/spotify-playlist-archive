@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pabllo Vittar com Anitta, Murilo Huff, LUDMILLA, Maiara & Maraisa, João Bosco e Gabriel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,832,315 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,832,460 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 492333,
+  "num_followers": 492391,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDdmYzgxMzgzODJhYjgwMzM2ODBiMjljMjk0Y2YwZTEx",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGFhYjk4YmU3NWRlNGQ4MGFkZjMzZDM4OWMzMDkyMDNi",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "More Than I Can Say",
         "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 153197,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1607,22 +1607,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/6eYxEOCIiUy763yQwd9Glm"
+        "name": "Whenever (feat. Conor Maynard)",
+        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
       },
       "artists": [
         {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "Rasmus Hagen",
-          "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
+          "name": "The Boy Next Door",
+          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
         }
       ],
-      "duration_ms": 170893,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/4UuGBDjt8gLXsANZqZxMBz"
+      "duration_ms": 163636,
+      "name": "Whenever (feat. Conor Maynard)",
+      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
     }
   ],
   "unique_name": "Powerwalk!",

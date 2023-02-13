@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,132 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,159 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 12 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
 | 13 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
 | 14 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
-| 15 | [Flowerbed](https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Flowerbed](https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1) | 4:26 |
-| 16 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
+| 15 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
+| 16 | [Flowerbed](https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Flowerbed](https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1) | 4:26 |
 | 17 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
 | 18 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
 | 19 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 |
 | 50 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDliMGEwNjAzYTI2YjNjNzNiNmVjNzliMTdiYzBkMmNj`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGJkN2I4Y2I3MjhjZDIwNzQ0Y2VjNjc3NTExMmUzODZm`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 122139,
+  "num_followers": 122180,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGNkMTY3NzlhMmJhNGI3ODIyYmM1MzNkYzUzMzY2Y2Jl",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGIwMjQzOGQzOWU3YzUwMDY0Mjk3Mzk0NjA1ZjMzYWYx",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blues Burnin' In My Soul",
-        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laws",
-          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "The Essential Little Walter",
@@ -455,6 +439,22 @@
       "duration_ms": 174506,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blues Burnin' In My Soul",
+        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laws",
+          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
       "added_at": "2018-02-27 18:08:29",

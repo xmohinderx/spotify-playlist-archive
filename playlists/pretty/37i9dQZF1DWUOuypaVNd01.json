@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 25756,
+  "num_followers": 25780,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGQxZDk0NWZlNWY1YmFhNjJhOTgwOGJiNzA1NTk5NTMw",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDBlZDBkZTMyY2E2NGVjZjYyNThlYTNiYzY4MDA0Y2Nl",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Tudo Normal",
         "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 165857,
       "name": "Tudo Normal",
       "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-02-10 03:01:00",

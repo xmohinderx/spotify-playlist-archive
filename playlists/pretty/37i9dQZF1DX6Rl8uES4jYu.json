@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240252,
+  "num_followers": 240242,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDMyYjBhMjk3OWYxOTQ5Y2FlZmRmMGMwOGUzZmJhNWMz",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGJkNDZjZjBiNzRjYjQ2NWQ4MzEzMGEzMmY0NmYxZmI4",
   "tracks": [
     {
       "added_at": "2023-02-03 05:01:00",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
-      },
-      "artists": [
-        {
-          "name": "Onyx Collective",
-          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
-        }
-      ],
-      "duration_ms": 304838,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "What A Night",
@@ -419,6 +403,22 @@
       "duration_ms": 124592,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+      },
+      "artists": [
+        {
+          "name": "Onyx Collective",
+          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+        }
+      ],
+      "duration_ms": 304838,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "CAN'T GO HOME",
@@ -765,20 +749,20 @@
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Lunar Eclipse",
-        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
       },
       "artists": [
         {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
         }
       ],
-      "duration_ms": 194498,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -803,6 +787,22 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 194498,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 219590,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
@@ -1089,20 +1105,24 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
+        "name": "Let Love Go",
+        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 219590,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
+      "duration_ms": 173266,
+      "name": "Let Love Go",
+      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1127,26 +1147,6 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Let Love Go",
-        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Let Love Go",
-      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
       "added_at": "2022-05-06 04:02:00",

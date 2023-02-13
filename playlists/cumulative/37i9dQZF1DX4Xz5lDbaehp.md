@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-160 songs - 8 hr 17 min
+161 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Color Palette](https://open.spotify.com/track/0BD07BDyj2yzdo2TeITJNH) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Color Palette](https://open.spotify.com/album/6Oamn4DFP3vMzADj1ksWAa) | 3:33 | 2021-12-01 | 2022-10-13 |
 | [Color Palette](https://open.spotify.com/track/3Gj0qNysd84rZZDvFsLMdU) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/79HmfsTuc7I10E8hOhR3ZZ) | 3:33 | 2021-12-01 |  |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-12-01 |  |
-| [Constellations](https://open.spotify.com/track/32ShlHZGBYLoybP9pdb87z) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/2A6IuWcopkXZfUl8bOt8dx) | 3:20 | 2021-12-01 |  |
+| [Constellations](https://open.spotify.com/track/32ShlHZGBYLoybP9pdb87z) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/2A6IuWcopkXZfUl8bOt8dx) | 3:20 | 2021-12-01 | 2023-02-13 |
+| [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2021-12-01 |  |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-12-01 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 | 2021-12-01 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/5KJmWpLw1VpmJDSGp9zr3y) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri) | 2:48 | 2021-12-01 | 2022-10-15 |

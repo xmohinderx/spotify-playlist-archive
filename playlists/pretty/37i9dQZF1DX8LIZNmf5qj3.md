@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,103 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,101 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 |
 | 2 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
-| 3 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 |
+| 3 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 |
 | 4 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 |
 | 5 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
 | 6 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [ground zero](https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ground zero](https://open.spotify.com/album/6FNIsL7WujpVXF975ZC6ri) | 2:43 |
 | 50 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDM2YzY5YTg4OGZhY2YzOThmODc3ZTc4MTRkMmYyZTU3`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGQ5OTAyMWY3NjlmNDExYTM5MDFhNzY2NzQ3ZWJjY2Jj`

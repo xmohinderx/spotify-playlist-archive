@@ -3977,6 +3977,28 @@
     },
     {
       "album": {
+        "name": "Nha Kabelu (feat. Nayela)",
+        "url": "https://open.spotify.com/album/4ek95wuvEuOlSNP1DDqp9h"
+      },
+      "artists": [
+        {
+          "name": "Kady",
+          "url": "https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz"
+        },
+        {
+          "name": "Nayela",
+          "url": "https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189817,
+      "name": "Nha Kabelu (feat. Nayela)",
+      "url": "https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C"
+    },
+    {
+      "album": {
         "name": "Lumenara",
         "url": "https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK"
       },
@@ -3992,7 +4014,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 189817,
       "name": "Nha Kabelu (feat. Nayela)",
       "url": "https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG"

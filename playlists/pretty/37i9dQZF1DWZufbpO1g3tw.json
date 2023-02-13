@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 36960,
+  "num_followers": 37013,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDA0NmE4MWQyOGY3NGQ0Zjg2OWI1MzhjNDYwNjMxM2Qx",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGQwYTA4ZDU3MzgwYmIxNTMwMGJhOGZmMzNlMjJjNGJk",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 223503,
-      "name": "Donde Estaras",
-      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+      "duration_ms": 223503,
+      "name": "Donde Estaras",
+      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -355,18 +339,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -383,6 +367,22 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -415,6 +415,22 @@
       "duration_ms": 269279,
       "name": "En Mi Escritorio",
       "url": "https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -471,18 +487,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+        "name": "El Baile de San Juan",
+        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
         }
       ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+      "duration_ms": 254375,
+      "name": "El Baile de San Juan",
+      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "El Baile de San Juan",
-        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "El Baile de San Juan",
-      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201168,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -563,22 +579,6 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Tropical & Rumbero: Vuelve",
+        "url": "https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno",
+          "url": "https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM"
+        }
+      ],
+      "duration_ms": 250592,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 324280,
       "name": "Cumbia En La Playa",
       "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Tropical & Rumbero: Vuelve",
-        "url": "https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tecno",
-          "url": "https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM"
-        }
-      ],
-      "duration_ms": 250592,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Pacto De Sangre",
         "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 141920,
       "name": "La Manzanita",
       "url": "https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 180012,
+      "name": "Cumbia Barulera",
+      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
         "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 230973,
       "name": "El Aguajal",
       "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 180012,
-      "name": "Cumbia Barulera",
-      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "The Afrosound Of Colombia Volume 1",
+        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 163253,
+      "name": "Los sabanales",
+      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Los sabanales",
-      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/7fBRvRup48necAZiCwGugk"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2022-10-28 19:05:39",

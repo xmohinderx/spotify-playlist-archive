@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1697972,
+  "num_followers": 1698407,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNTYwMCwwMDAwMDAwMDFmNGY0Y2U1OGM4NGMzZWIwNDU0M2MxMWJjOWNlMmIy",
+  "snapshot_id": "MTY3MzYyNTYwMCwwMDAwMDAwMDc0ZmY3YThhNDEwMmYzNDk2NzI4YzA4Y2NiMGI2NWE1",
   "tracks": [
     {
       "added_at": "2023-01-13 16:00:00",
@@ -511,8 +511,8 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Don\u2019t Worry",
-        "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
+        "name": "Hidden Treasures EP",
+        "url": "https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 276961,
-      "name": "Don\u2019t Worry",
-      "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
+      "duration_ms": 193397,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Back to Java",
-        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG"
       },
       "artists": [
         {
-          "name": "RaFa Sessions",
-          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Honas",
+          "url": "https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw"
         }
       ],
-      "duration_ms": 197058,
-      "name": "Back to Java",
-      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
+      "duration_ms": 169621,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG"
+        "name": "Back to Java",
+        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
       },
       "artists": [
         {
-          "name": "LO",
-          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
-        },
-        {
-          "name": "Honas",
-          "url": "https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw"
+          "name": "RaFa Sessions",
+          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
         }
       ],
-      "duration_ms": 169621,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ"
+      "duration_ms": 197058,
+      "name": "Back to Java",
+      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Hidden Treasures EP",
-        "url": "https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn"
+        "name": "Don\u2019t Worry",
+        "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 193397,
-      "name": "Levante",
-      "url": "https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX"
+      "duration_ms": 276961,
+      "name": "Don\u2019t Worry",
+      "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Vella",
-        "url": "https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 282526,
-      "name": "Rissa",
-      "url": "https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+        "name": "Vella",
+        "url": "https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH"
       },
       "artists": [
         {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
         }
       ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
+      "duration_ms": 282526,
+      "name": "Rissa",
+      "url": "https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 144354,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+      },
+      "artists": [
+        {
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+        }
+      ],
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Mukiwa",
-        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 258124,
-      "name": "Mukiwa",
-      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "Pool Party",
         "url": "https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 167033,
       "name": "Voices",
       "url": "https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Mukiwa",
+        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 258124,
+      "name": "Mukiwa",
+      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2kH9815MY3JaK71IEFENli"
+      },
+      "artists": [
+        {
+          "name": "Adon",
+          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1163,18 +1179,34 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/2kH9815MY3JaK71IEFENli"
+        "name": "Rising Tide",
+        "url": "https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH"
       },
       "artists": [
         {
-          "name": "Adon",
-          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
+      "duration_ms": 451013,
+      "name": "Rising Tide",
+      "url": "https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
+      },
+      "artists": [
+        {
+          "name": "Zoo Pool",
+          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1211,54 +1243,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Santa Fe",
-        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
-      },
-      "artists": [
-        {
-          "name": "Zoo Pool",
-          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
-        "name": "Rising Tide",
-        "url": "https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH"
-      },
-      "artists": [
-        {
-          "name": "Jonas Schilling",
-          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
-        }
-      ],
-      "duration_ms": 451013,
-      "name": "Rising Tide",
-      "url": "https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
-        "name": "Carte blanche",
-        "url": "https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20"
-      },
-      "artists": [
-        {
-          "name": "Sennhofer",
-          "url": "https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32"
-        }
-      ],
-      "duration_ms": 161590,
-      "name": "Carte blanche",
-      "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "In the Mirror",
         "url": "https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 127636,
       "name": "In the Mirror",
       "url": "https://open.spotify.com/track/205U3hn1052lvW97Adry7h"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Carte blanche",
+        "url": "https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20"
+      },
+      "artists": [
+        {
+          "name": "Sennhofer",
+          "url": "https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32"
+        }
+      ],
+      "duration_ms": 161590,
+      "name": "Carte blanche",
+      "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "Ocean of Love",
         "url": "https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 251593,
       "name": "Ocean of Love",
       "url": "https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Curvature",
-        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
-      },
-      "artists": [
-        {
-          "name": "Colton Jefferson",
-          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
-        }
-      ],
-      "duration_ms": 153027,
-      "name": "Curvature",
-      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 138964,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Curvature",
+        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
+      },
+      "artists": [
+        {
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Curvature",
+      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1443,34 +1443,18 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
+        "name": "A Glitch",
+        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
       },
       "artists": [
         {
-          "name": "Palm 3s",
-          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+          "name": "Miller Ford",
+          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
-        "name": "Still Need People",
-        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
-      },
-      "artists": [
-        {
-          "name": "Camisade",
-          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
-        }
-      ],
-      "duration_ms": 182267,
-      "name": "Still Need People",
-      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
+      "duration_ms": 198314,
+      "name": "A Glitch",
+      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1491,18 +1475,34 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "A Glitch",
-        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
+        "name": "Still Need People",
+        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
       },
       "artists": [
         {
-          "name": "Miller Ford",
-          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
         }
       ],
-      "duration_ms": 198314,
-      "name": "A Glitch",
-      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
+      "duration_ms": 182267,
+      "name": "Still Need People",
+      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 210024,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT"
-    },
-    {
-      "added_at": "2023-01-13 16:00:00",
-      "album": {
         "name": "Vibrant Presence",
         "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Never Thought",
-        "url": "https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT"
       },
       "artists": [
         {
-          "name": "Gorge",
-          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
         }
       ],
-      "duration_ms": 394762,
-      "name": "Never Thought",
-      "url": "https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj"
+      "duration_ms": 210024,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-01-13 16:00:00",
       "album": {
-        "name": "Standing with You",
-        "url": "https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk"
+        "name": "Never Thought",
+        "url": "https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st"
       },
       "artists": [
         {
-          "name": "Kyle Kollins",
-          "url": "https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy"
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
         }
       ],
-      "duration_ms": 154419,
-      "name": "Standing with You",
-      "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
+      "duration_ms": 394762,
+      "name": "Never Thought",
+      "url": "https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj"
     },
     {
       "added_at": "2023-01-13 16:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 189289,
       "name": "Hands Together",
       "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
+    },
+    {
+      "added_at": "2023-01-13 16:00:00",
+      "album": {
+        "name": "Standing with You",
+        "url": "https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Kollins",
+          "url": "https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy"
+        }
+      ],
+      "duration_ms": 154419,
+      "name": "Standing with You",
+      "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
     },
     {
       "added_at": "2023-01-13 16:00:00",

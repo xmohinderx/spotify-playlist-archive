@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: REO Speedwagon",
-  "num_followers": 211111,
+  "num_followers": 211364,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDBjYWVmMWE0NTI3OTBkNGUyZmEwYjFlYmY4MjdkZDI5",
+  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDRjYTk3OWE3NWE0NjZiMjExMjVlNzIzOTNkMzUxNmEz",
   "tracks": [
     {
       "added_at": "2023-01-18 22:18:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Third Stage",
-        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Amanda",
-      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Daylight Again (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 281000,
       "name": "Southern Cross - 2005 Remaster",
       "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Third Stage",
+        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Martika (Expanded Edition)",
         "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Endless Summer Nights",
-      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Back In The High Life",
         "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 335840,
       "name": "Back In The High Life Again",
       "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "I've Been In Love Before",
-      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 322600,
       "name": "The Heart Of The Matter",
       "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1171,22 +1171,6 @@
       "duration_ms": 257866,
       "name": "The Best Of Times",
       "url": "https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Invisible Touch",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 229560,
       "name": "Throwing It All Away - 2007 Remaster",
       "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Like A Rock",
+        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 355798,
+      "name": "Like A Rock",
+      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Time's Makin' Changes: The Best Of Tesla",
         "url": "https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Like A Rock",
-        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 355798,
-      "name": "Like A Rock",
-      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2023-01-18 22:18:44",

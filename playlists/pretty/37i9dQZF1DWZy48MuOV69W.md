@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,725 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,709 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 29 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
 | 30 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 |
 | 31 | [Moonlight In Vermont](https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 5:00 |
-| 32 | [Christmas Dreaming](https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:47 |
-| 33 | [What About Me](https://open.spotify.com/track/6Vil6xmoYCuDVnYP5V7rpr) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Baby It's Cold Outside](https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ) | 1:42 |
+| 32 | [What About Me](https://open.spotify.com/track/6Vil6xmoYCuDVnYP5V7rpr) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Baby It's Cold Outside](https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ) | 1:42 |
+| 33 | [Christmas Dreaming](https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:47 |
 | 34 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 |
 | 35 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:47 |
 | 36 | [Maybe Next Christmas](https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Merry Christmas](https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE) | 3:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 | 55 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
 
-Snapshot ID: `MTY3MTY5NTAzMSwwMDAwMDAwMDQ0NWU4MTljNTdlM2JlZTE0MGZmNTZmOTBmZmU2ZDY4`
+Snapshot ID: `MTY3MTY5NTAzMSwwMDAwMDAwMDA3NGVhODVlODUzODM2MGRkZDJjODUyOWJiNGI0OGJm`

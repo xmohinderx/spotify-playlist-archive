@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,920 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,929 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 23 | [Racists](https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:20 |
 | 24 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:36 |
 | 25 | [Confessions of an Economic Hit Man \- Dirty Version](https://open.spotify.com/track/7b7RifetHxERla9vz3GATu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:43 |
-| 26 | [Whistleblower](https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 2:39 |
+| 26 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 |
 | 27 | [The Criminals](https://open.spotify.com/track/6xZ5Q24NrZ2IowTyOfcWdz) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:43 |
 | 28 | [It Went Off Like A Bomb](https://open.spotify.com/track/6DQpiHiVdg4oKu9HdvaGEQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:23 |
-| 29 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 |
+| 29 | [Whistleblower](https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 2:39 |
 | 30 | [911 for Peace](https://open.spotify.com/track/4CrufimpcYAOqighojrziP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Mobilize](https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I) | 3:34 |
 | 31 | [Finish What We Started](https://open.spotify.com/track/0LkSPDuV9ROmUYlr14w9oE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 |
 | 32 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 |
 | 33 | [You Make Me Sick](https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 3:01 |
-| 34 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:36 |
-| 35 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
+| 34 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
+| 35 | [The Economy is Suffering...Let It Die](https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:36 |
 | 36 | [This Machine Kills Fascists](https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 1:38 |
 | 37 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
 | 38 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [The Great Divide](https://open.spotify.com/track/5VdF9Q0KRG2BkHKUv4OZUq) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 1:28 |
 | 50 | [SKATE](https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 1:18 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDBhZDhiOGQ0MWI3NjNhODI1Yzg2ZjY5Zjc0Zjc1NWMzZg==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDAwYzZiMWJhMjljNzFkYmEwZjQxY2JjOWYxODFmOWQwNg==`

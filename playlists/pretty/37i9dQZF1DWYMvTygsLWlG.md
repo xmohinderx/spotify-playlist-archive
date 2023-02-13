@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Ready for Valentine’s Day? Michael Bublé got you covered!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,964,385 likes - 67 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,965,133 likes - 67 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

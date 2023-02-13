@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-173 songs - 7 hr 45 min
+174 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,12 +66,13 @@
 | [Heat Signature](https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Heat Signature](https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz) | 2:00 | 2022-05-27 | 2022-11-22 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2022-05-25 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-06-10 |  |
-| [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-05-25 |  |
+| [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-05-25 | 2023-02-13 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2023-01-05 |  |
 | [I rest my case](https://open.spotify.com/track/4SzxUhwXZfFDHdq7Ib5HxJ) | [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [I rest my case](https://open.spotify.com/album/0zmw7GZtJkp4024oDCLFXN) | 1:45 | 2022-05-25 | 2022-07-29 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N) | 1:01 | 2022-09-03 | 2022-09-23 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK) | 1:01 | 2022-09-15 | 2023-02-03 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 | 2022-05-25 | 2022-08-28 |
+| [I'm Only a Fool for You](https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4) | [Dybbukk Covers](https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI), [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH), [Domingo Morales](https://open.spotify.com/artist/02jdatQ743BTSYp4wbNMA5) | [I'm Only a Fool for You](https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN) | 1:01 | 2022-11-10 |  |
 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 | 2022-05-25 | 2022-11-30 |
 | [Iceberg \(Michael 2\)](https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1) | [Diversify](https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq) | [For the Fans](https://open.spotify.com/album/1a1ljc6WvVpytVTNqzX8LV) | 1:55 | 2022-07-08 | 2022-07-15 |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2022-05-25 | 2022-11-22 |

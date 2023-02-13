@@ -4,7 +4,7 @@
 
 > drip down
 
-340 songs - 18 hr 36 min
+341 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Chewing\-Gum](https://open.spotify.com/track/52ye3YnY6o4XITA62IzCwI) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 4:26 | 2021-12-16 | 2022-04-16 |
 | [clam chowder](https://open.spotify.com/track/6vEIhmMgzQMDdUwPNWqzSG) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [clam chowder](https://open.spotify.com/album/74KH6zHFgqwLC0V7oorWcd) | 2:32 | 2022-02-11 | 2022-08-13 |
 | [Clint Eastwood](https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 5:40 | 2022-06-10 |  |
+| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-01-26 |  |
 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-26 | 2023-02-11 |
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2022-12-16 | 2022-12-18 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-21 | 2022-12-17 |
@@ -221,7 +222,7 @@
 | [Palace/Curse \(feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 | 2022-06-17 |  |
 | [Para Puerto Rico Voy](https://open.spotify.com/track/2BljYrZhkpcSFT8HgcNbl0) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Saint Latin's Day Massacre](https://open.spotify.com/album/4eJmiTmaBXQT0vROXbn5qQ) | 5:14 | 2022-09-13 | 2022-10-08 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-09-13 | 2022-10-08 |
-| [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-06-17 |  |
+| [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-06-17 | 2023-02-13 |
 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 | 2022-10-07 | 2022-12-17 |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-08-05 | 2022-07-12 |
 | [Pillow Talk](https://open.spotify.com/track/3CwxlSakLbscBbt82wajsk) | [Lustt](https://open.spotify.com/artist/7BOf6rVdrM31bNecp1KyWp) | [Pillow Talk \- Single](https://open.spotify.com/album/3yxZcvhYSHiDchpd2HqB7M) | 5:45 | 2022-09-13 | 2022-10-08 |

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-204 songs - 11 hr 12 min
+205 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2022-09-08 |  |
 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 | 2022-12-02 | 2022-12-24 |
 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 | 2022-10-13 | 2022-11-11 |
+| [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 | 2023-02-10 |  |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 | 2023-01-06 | 2023-01-19 |
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
@@ -81,7 +82,7 @@
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 | 2022-09-22 | 2022-10-14 |
 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 | 2022-09-29 | 2022-10-28 |
-| [Garrafa](https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [BECCAA](https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4) | [Garrafa](https://open.spotify.com/album/24KKKh9J99qt15XnnZ1BTN) | 2:59 | 2023-02-10 |  |
+| [Garrafa](https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [BECCAA](https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4) | [Garrafa](https://open.spotify.com/album/24KKKh9J99qt15XnnZ1BTN) | 2:59 | 2023-02-10 | 2023-02-13 |
 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 | 2022-11-18 | 2023-01-06 |
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-10-06 | 2022-10-28 |
 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 | 2023-01-27 |  |

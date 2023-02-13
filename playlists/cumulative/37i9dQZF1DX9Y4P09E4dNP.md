@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-104 songs - 8 hr 24 min
+105 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 | 2022-04-14 |  |
 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2023-02-03 |  |
 | [Gonja Barracks](https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:43 | 2020-02-20 | 2022-03-18 |
+| [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-10 |  |
 | [I'm Going to Come](https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:39 | 2020-02-20 | 2022-07-22 |
 | [Im Going 2 Come](https://open.spotify.com/track/6CfOf471V97PCem1hcUiLB) | [Buk Bak](https://open.spotify.com/artist/5ARObhhC49Pa1KRykJaBzX) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 6:39 | 2020-02-20 | 2022-10-16 |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2021-11-11 |  |
@@ -62,7 +63,7 @@
 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:16 | 2021-12-02 |  |
 | [Mesan Aba \(feat\. Nana Quame\)](https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX) | [Akyeame](https://open.spotify.com/artist/43p9Y2qeB6Uod7IXyt7UVk), [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:46 | 2020-02-20 | 2022-07-29 |
 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 | 2022-02-24 |  |
-| [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 | 2022-03-31 |  |
+| [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 | 2022-03-31 | 2023-02-13 |
 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 | 2021-10-08 |  |
 | [Ngozi](https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-29 |
 | [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 | 2022-11-13 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: You Me At Six
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,664 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,670 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 2 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
-| 3 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 3 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 4 | [PANIC](https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PANIC](https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv) | 2:54 |
 | 5 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
 | 6 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
 | 55 | [Into the Trap](https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Into the Trap](https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE) | 3:52 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDlmNTBmMzZlNTAwODUwYWJlMDQ1NzZhMzQ2ZGVkNDM4`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGU1ZWM3MTE5MzA4NDkyNzJkNDI2MGI4MzYwZjg1ZjQ4`

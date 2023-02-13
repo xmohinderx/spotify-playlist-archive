@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 243244,
+  "num_followers": 243378,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMDA5NGViNmNiOGRlOTJlMjJkNzlmNmMzZjNmODZjYzRl",
+  "snapshot_id": "MTY3NTM5NjgwMCwwMDAwMDAwMDZmMTc1MGYzNTAyNjM0ZTNhMTJkOGQ3NzgxYzBlY2M0",
   "tracks": [
     {
       "added_at": "2023-02-03 04:00:00",
@@ -51,6 +51,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
+        "name": "Experience (Solo Piano)",
+        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 307202,
+      "name": "Experience - Solo Piano",
+      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
         "name": "Brahms: Hungarian Dances No. 1-21; Waltzes, Op. 39 for Piano for Four Hands",
         "url": "https://open.spotify.com/album/124rEkhLGr2blnvf1G7okb"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 81800,
       "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
       "url": "https://open.spotify.com/track/70p8XG5Xgjk7OXnt3R2gIb"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
-        "name": "Experience (Solo Piano)",
-        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 307202,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1147,22 +1147,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
-        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
-      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1211,26 +1215,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
         }
       ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+      "duration_ms": 176333,
+      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1295,26 +1295,22 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "W.F. Bach: Sinfonias",
-        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/0Z6bZgCFWA209Kq6zQwi9D"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
         },
         {
-          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
-        },
-        {
-          "name": "Hartmut Haenchen",
-          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
-      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+      "duration_ms": 96520,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/4IDoLojf0Dlo8YZSApX0ps"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1339,22 +1335,26 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/0Z6bZgCFWA209Kq6zQwi9D"
+        "name": "W.F. Bach: Sinfonias",
+        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
       "artists": [
         {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
         },
         {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
+        },
+        {
+          "name": "Hartmut Haenchen",
+          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
         }
       ],
-      "duration_ms": 96520,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/4IDoLojf0Dlo8YZSApX0ps"
+      "duration_ms": 153800,
+      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
+      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
     },
     {
       "added_at": "2023-02-03 04:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-02-03 04:00:00",
       "album": {
-        "name": "Schumann: Album for the Young",
-        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Feltsman",
-          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
-        }
-      ],
-      "duration_ms": 76746,
-      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
-      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2023-02-03 04:00:00",
-      "album": {
         "name": "Mozart: Petite musique de nuit",
         "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 143693,
       "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
       "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+    },
+    {
+      "added_at": "2023-02-03 04:00:00",
+      "album": {
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "duration_ms": 76746,
+      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
+      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
     },
     {
       "added_at": "2023-02-03 04:00:00",

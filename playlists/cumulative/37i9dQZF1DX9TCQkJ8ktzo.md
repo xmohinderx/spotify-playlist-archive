@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-97 songs - 4 hr 29 min
+98 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 | 2022-08-31 |  |
 | [Patricia](https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Perez Prado \- Mambo](https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV) | 2:07 | 2022-01-01 | 2022-11-28 |
 | [Pepito](https://open.spotify.com/track/1tg7WgO0AA6LLcqGgzJEY1) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Mambo n\. 5](https://open.spotify.com/album/2adit01KSpqheHndAbFhZx) | 3:04 | 2022-01-01 | 2023-02-12 |
-| [Pepito](https://open.spotify.com/track/6KgvfWahRokIwLobaClaNR) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Brazil: I balli sudamericani](https://open.spotify.com/album/1361eRsd2qCXWZsEnNmiwx) | 3:04 | 2022-12-07 |  |
+| [Pepito](https://open.spotify.com/track/6KgvfWahRokIwLobaClaNR) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Brazil: I balli sudamericani](https://open.spotify.com/album/1361eRsd2qCXWZsEnNmiwx) | 3:04 | 2022-12-07 | 2023-02-13 |
+| [Pepito](https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Los Increíbles Machucambos](https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX) | 3:04 | 2022-12-07 |  |
 | [Popotitos](https://open.spotify.com/track/0qgGL8GDXoB4vsCCGen6dS) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/3xVJmRZLs8xEkh2aTQrIZf) | 3:03 | 2022-01-01 | 2022-07-29 |
 | [Popotitos](https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:03 | 2022-01-01 |  |
 | [Que Hiciste](https://open.spotify.com/track/17I3gCPyVokFnm6cOjQQm5) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:44 | 2022-01-01 | 2022-07-29 |

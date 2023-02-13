@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-373 songs - 21 hr 10 min
+374 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Nem Mal Me Queres](https://open.spotify.com/track/6GI69S6ViZ9WOCNHv85gBP) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Nem Mal Me Queres](https://open.spotify.com/album/3Tw828Sv0rF8A9YJ6m2uMG) | 3:18 | 2022-05-31 | 2022-08-03 |
 | [nem mil anos vão chegar](https://open.spotify.com/track/0IWzDEkIVIYl8fQ84LlV6E) | [Alda](https://open.spotify.com/artist/4CjRGRc2YUoFVRhx8i6UzH) | [nem mil anos vão chegar](https://open.spotify.com/album/2nEikkNKbHCM0ieuWWF4q9) | 3:08 | 2022-11-02 | 2022-12-01 |
 | [New Day](https://open.spotify.com/track/6zLkJ26lpz0RRyrjaNrh93) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [New Day](https://open.spotify.com/album/6uFfByWs4qqEbHKROOCei5) | 4:23 | 2022-05-03 | 2022-07-06 |
-| [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Lumenara](https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK) | 3:09 | 2023-01-04 |  |
+| [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/album/4ek95wuvEuOlSNP1DDqp9h) | 3:09 | 2023-02-03 |  |
+| [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Lumenara](https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK) | 3:09 | 2023-01-04 | 2023-02-13 |
 | [No Final](https://open.spotify.com/track/7H4ZZvSyVtNQGJjFlh6sjw) | [Mariana Dalot](https://open.spotify.com/artist/58FpRmP3RvLQW4FuJ44Y6P) | [No Final](https://open.spotify.com/album/778WuDw22ImtAUpgqk1gla) | 3:50 | 2022-02-02 | 2022-04-06 |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-02 | 2022-10-05 |
 | [Nosso Amor](https://open.spotify.com/track/6lbtShLS4TsqVY3z9keauA) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Nosso Amor](https://open.spotify.com/album/4fVIoKC3saDtctQ3EnX8B2) | 3:53 | 2023-01-04 | 2023-02-03 |

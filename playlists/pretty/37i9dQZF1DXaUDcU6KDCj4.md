@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,576 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,005 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 81 | [Gratitude](https://open.spotify.com/track/2URlvXHgKzdk6xFPedeuKI) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Gratitude](https://open.spotify.com/album/4ZYK6hRqISjMnrZafKUuBO) | 4:35 |
 | 82 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
 | 83 | [Power \- From the Al Sharpton Documentary LOUDMOUTH](https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Power \(From the Al Sharpton Documentary LOUDMOUTH\)](https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7) | 3:14 |
-| 84 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 |
+| 84 | [Wasted On You](https://open.spotify.com/track/15WJWyrI3c6aRuvbYgMcKv) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:36 |
 | 85 | [Salt](https://open.spotify.com/track/70IlJ5NuQa9NnYW6uIQTmj) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Theatre](https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH) | 6:18 |
 | 86 | [Are You Dreaming](https://open.spotify.com/track/7FPXbA4rFwBGhvmdehwZW2) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Kama Vardi](https://open.spotify.com/artist/5Hkc7jwowpk34bekT1ptFU) | [Are You Dreaming](https://open.spotify.com/album/39dwFOgWi18oj1rwbLekwQ) | 2:51 |
 | 87 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Lost Myself](https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost Myself](https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0) | 3:34 |
 | 150 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGIxZmRkYTkyZTYxYjg1ZDk2Y2E4NjZmNmY0ZDcxMzhh`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGM4NDRhMDVhMDNmM2E2NDE3OTkyZGUwZmYwODI4NDk3`

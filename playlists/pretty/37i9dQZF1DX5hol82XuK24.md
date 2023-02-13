@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,032 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,330 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 66 | [deepfake](https://open.spotify.com/track/4joNvDANwbD24bZhI6au7d) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [deepfake](https://open.spotify.com/album/2FZLlKKbqTGs8EqTskm6cI) | 3:05 |
 | 67 | [My Friend of Misery](https://open.spotify.com/track/3GGkrhDdtE10kUbMHGsrm1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend of Misery](https://open.spotify.com/album/5uWEWXfsS7EyQGxsqRpIhZ) | 3:30 |
 | 68 | [Lifeboats](https://open.spotify.com/track/4v5Gh9dg1S51pOUwJeU49Q) | [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Lifeboats](https://open.spotify.com/album/1tR2o0fZ5EQmcw0vbNAEta) | 4:14 |
-| 69 | [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 |
+| 69 | [Tub Erupt](https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG) | 2:52 |
 | 70 | [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 |
 | 71 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 |
 | 72 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 84 | [Jim, Let's Play](https://open.spotify.com/track/5cfURqfJGCi5EvCmJsDCtl) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Jim, Let’s Play](https://open.spotify.com/album/35qMY153LTQElVMozKvPY6) | 3:04 |
 | 85 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 |
 
-Snapshot ID: `MTY3MTY2NDI1NSwwMDAwMDAwMGRmMTRiODhmOTU4YTYyODA1NmU1Y2RhNDI1OTU1Yzcy`
+Snapshot ID: `MTY3MTY2NDI1NSwwMDAwMDAwMDU2NmQ1ODE2ODg3NDFhNjRkZjRmMzM1NGYxNzljY2U4`

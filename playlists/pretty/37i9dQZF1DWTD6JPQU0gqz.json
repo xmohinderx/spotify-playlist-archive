@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44964,
+  "num_followers": 44990,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2NzgxMCwwMDAwMDAwMGJlMDE5YzEyMzZmY2ExNzRkNTNiYzNiODNmMjhjZDIz",
+  "snapshot_id": "MTY3NjA2NzgxMCwwMDAwMDAwMDFiNzIyMDMzNzQ1OGJhMDYyNTIxNzhmZjc1MDZkMzhh",
   "tracks": [
     {
       "added_at": "2023-02-10 22:23:30",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-02-10 22:23:30",
       "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2023-02-10 22:23:30",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+    },
+    {
+      "added_at": "2023-02-10 22:23:30",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2023-02-10 22:23:30",

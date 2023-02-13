@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-222 songs - 12 hr 11 min
+223 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-02-03 | 2022-03-24 |
 | [A40](https://open.spotify.com/track/1JwdSbiHb4t7wbmfb2hkPl) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [A40](https://open.spotify.com/album/6PcWY3wKiBQ0B0o4nOnQuV) | 2:55 | 2021-12-25 | 2022-01-17 |
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-12-25 | 2022-03-05 |
-| [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 | 2022-08-20 |  |
+| [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 | 2022-08-20 | 2023-02-13 |
 | [Aayane](https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Aayane](https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6) | 3:07 | 2022-05-19 | 2022-08-21 |
 | [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 | 2023-02-02 |  |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-02-17 | 2022-06-10 |
@@ -106,7 +106,7 @@
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-25 | 2022-08-21 |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-09 | 2022-07-29 |
 | [Khalini](https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:02 | 2022-08-20 | 2023-02-10 |
-| [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 |  |
+| [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 | 2023-02-13 |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 |  |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 | 2022-06-23 |
@@ -175,7 +175,7 @@
 | [Papa](https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0) | 2:41 | 2022-12-04 | 2023-01-18 |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
 | [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-13 | 2022-12-21 |
-| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2022-09-02 |
+| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 |  |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2021-12-25 | 2022-06-23 |
@@ -194,6 +194,7 @@
 | [Souwlo Dmou3i](https://open.spotify.com/track/5vQJ4pwYSJfbGvM0BT9VwL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Souwlo Dmou3i](https://open.spotify.com/album/57fGQC1ZgxfQQdBEGPllJH) | 3:43 | 2021-12-25 | 2022-01-04 |
 | [SOY MAROCCINO](https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SOY MAROCCINO](https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI) | 2:18 | 2022-12-07 | 2022-12-24 |
 | [Strangers](https://open.spotify.com/track/5Xx23tgYcHoLEhsP8FfkeD) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Strangers](https://open.spotify.com/album/5GGZpeMyi3XHTUyH961K8b) | 2:56 | 2022-12-22 | 2022-12-27 |
+| [Stylo warqa](https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d) | 2:57 | 2023-02-12 |  |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-25 | 2022-12-16 |
 | [Sunshine](https://open.spotify.com/track/4lYaOQtP4QO6ysz5o8SfrR) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Sunshine](https://open.spotify.com/album/6aZJlU67NdC6pWLcLBcXE5) | 3:53 | 2022-10-25 | 2022-11-10 |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 |  |

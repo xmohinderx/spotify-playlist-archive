@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Smallz 732
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,520 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,625 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 31 | [Shake Dhat](https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Shake Dhat](https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf) | 2:40 |
 | 32 | [PIANO \(feat\. Lay Bankz\)](https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Club Godfather](https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi) | 2:36 |
 | 33 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
-| 34 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
+| 34 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
 | 35 | [miles \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [miles](https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO) | 2:42 |
-| 36 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
+| 36 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
 | 37 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 |
 | 38 | [POZZ](https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp), [COSMO ENVOIE DES TRACKS](https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI) | [POZZ](https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F) | 2:08 |
 | 39 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 50 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 
-Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMDRjOGNlZTViOGM2MzhmZTYzM2FkMDg5ZTU2NTdkMTIx`
+Snapshot ID: `MTY3NTY5MjkyNywwMDAwMDAwMDUwMjg4OWI0ZDRmOGQ2NTg1ZDUzZTM5ZTI1YWFmYjI1`

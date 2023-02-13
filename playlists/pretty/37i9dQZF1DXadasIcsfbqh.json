@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Sam Hunt",
-  "num_followers": 112528,
+  "num_followers": 112720,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMDJlZGQyNjJiZDE4ZGIzMTQ4NjAwODhmZjdhYWFhZTQx",
+  "snapshot_id": "MTY3NTIyNzYwMCwwMDAwMDAwMGRkYmU0MjJhZDM4OWU4NzA4YmRiODNmMmIzMzAwYzhl",
   "tracks": [
     {
       "added_at": "2023-01-27 21:08:11",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+      "duration_ms": 186240,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 186240,
-      "name": "One Man Band",
-      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
         "name": "Dancin' In The Country",
         "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -687,18 +687,22 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+        "name": "when was it over? (feat. Sam Hunt)",
+        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 206493,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+      "duration_ms": 218093,
+      "name": "when was it over? (feat. Sam Hunt)",
+      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "when was it over? (feat. Sam Hunt)",
-        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 218093,
-      "name": "when was it over? (feat. Sam Hunt)",
-      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
@@ -983,22 +967,6 @@
       "duration_ms": 162120,
       "name": "Steal My Love",
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
-        "name": "Found It In You",
-        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
-      },
-      "artists": [
-        {
-          "name": "Tiera Kennedy",
-          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
-        }
-      ],
-      "duration_ms": 183444,
-      "name": "Found It In You",
-      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -1019,6 +987,38 @@
       "duration_ms": 224149,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
+        "name": "Found It In You",
+        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "duration_ms": 183444,
+      "name": "Found It In You",
+      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "When You Know",
-        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 178994,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
         "name": "Home Movies",
         "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
       },
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+      "duration_ms": 178994,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -1343,6 +1327,22 @@
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
+        "name": "Breakups",
+        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Breakups",
+      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
     },
     {
       "added_at": "2023-01-27 21:08:11",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-01-27 21:08:11",
       "album": {
-        "name": "Better On Me",
-        "url": "https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 149332,
-      "name": "Better On Me",
-      "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
-    },
-    {
-      "added_at": "2023-01-27 21:08:11",
-      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
+    },
+    {
+      "added_at": "2023-01-27 21:08:11",
+      "album": {
+        "name": "Better On Me",
+        "url": "https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 149332,
+      "name": "Better On Me",
+      "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
     }
   ],
   "unique_name": "Pop Country",

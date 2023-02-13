@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in new punk rock music\. Cover: Grandma's House
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,878 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,883 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,23 +46,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 36 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 |
 | 37 | [Totally Fine](https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:43 |
 | 38 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 |
-| 39 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 |
+| 39 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
 | 40 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 |
-| 41 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
-| 42 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
+| 41 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
+| 42 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 |
 | 43 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 44 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 | 45 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 |
 | 46 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 |
-| 47 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 |
-| 48 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 |
-| 49 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
+| 47 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 |
+| 48 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
+| 49 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 |
 | 50 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 |
 | 51 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 52 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
 | 53 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
-| 54 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 |
-| 55 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 |
+| 54 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 |
+| 55 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 |
 | 56 | [Found](https://open.spotify.com/track/5I4s5tOJQsPHRtY3lqLVsc) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 3:49 |
 | 57 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 |
 | 58 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 |
 | 80 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 |
 
-Snapshot ID: `MTY3NTY4ODAwMSwwMDAwMDAwMGYyMDk4ODA1ZGYyNmQyMDkyMjYxMjk1ODI1OGNlMjAy`
+Snapshot ID: `MTY3NTY4ODAwMSwwMDAwMDAwMDljOTg5YjcwNGM0Y2JkM2ZkYjlhNmZjNWRiYzAyNmJl`

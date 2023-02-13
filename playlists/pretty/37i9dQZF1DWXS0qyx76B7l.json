@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112767,
+  "num_followers": 112774,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMDY2Yzc4ZTg5YjI4MmJmZjhhYzVjZWVlMWI3YjAxNzQ5",
+  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMDkzZjk4MmUxZjlhNGNlYjk5NGMyMDM2NGVjN2E5ZjJm",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "girl in new york",
-        "url": "https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "girl in new york",
-      "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 163680,
       "name": "Bleecker Street",
       "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "girl in new york",
+        "url": "https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "girl in new york",
+      "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
     },
     {
       "added_at": "2022-01-24 23:45:18",

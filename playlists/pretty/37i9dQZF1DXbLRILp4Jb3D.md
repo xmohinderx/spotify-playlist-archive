@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,492 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,547 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 16 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 |
 | 17 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
 | 18 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
-| 19 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
-| 20 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
+| 19 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
+| 20 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
 | 21 | [Nana Boruca](https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz) | [Mariana Baggio](https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx) | [Nana Boruca](https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ) | 1:41 |
 | 22 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
 | 23 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 34 | [Twist Del Mono Liso](https://open.spotify.com/track/5IexGMIg4gYRPz5ExvcK9A) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Maria Elena Walsh, El Legado \(Para Grandes y Chicos\)](https://open.spotify.com/album/68lycuLL6gJgJizE0UwRFr) | 3:24 |
 | 35 | [La Gozadera](https://open.spotify.com/track/2KGpCouUk6W0t0c6428Sd3) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 3:11 |
 | 36 | [Ave Maria](https://open.spotify.com/track/2UPgdIT0hrEpZGYJjAI8ng) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Sleep Baby Sleep](https://open.spotify.com/album/52SOrUXzcxjRd66DMlhGdN) | 2:17 |
-| 37 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 |
+| 37 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
 | 38 | [No Woman No Cry](https://open.spotify.com/track/6EeYBu8RautSHkqJeWgKff) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:43 |
 | 39 | [Sin Miedo](https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita De Limón Con Chía](https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl) | 2:34 |
 | 40 | [Ahora Quien](https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 3:06 |
 | 41 | [Duérmete Mi Niño](https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 3:33 |
 | 42 | [La Bella Y La Bestia](https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Paula Rojo](https://open.spotify.com/artist/4fFXSm74duBgF62caO8CW5) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:47 |
-| 43 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
+| 43 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 |
 | 44 | [El Nino Robot](https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN) | [Los Hermanos Rincon](https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2) | [El Niño Robot](https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4) | 2:31 |
 | 45 | [Get Up, Stand Up](https://open.spotify.com/track/36jJo5n5etzL8cjDZPzvkZ) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:12 |
 | 46 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Cinco Ranas Con Pequitas](https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya) | [Luis Pescetti](https://open.spotify.com/artist/1G1eDCwDbEX8SQwhq7fPmJ) | [Él Empezó Primero \(Show En Vivo\)](https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ) | 2:49 |
 | 50 | [Jamming](https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:41 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDJkNTY3ZTQ2ZmUxNjc4YTM2NTk2YWQyOGJjZDk2ZjQz`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGQ0ZTAyNjNjNzY2YjFkM2ZmZDY3NDJhZjQzNTcwNmZl`

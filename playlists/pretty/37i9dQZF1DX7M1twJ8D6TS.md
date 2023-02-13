@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,506 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,575 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 43 | [Leave Me My Heart](https://open.spotify.com/track/6oAp4G5TCSVu8S76x51h4N) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:17 |
 | 44 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 |
 | 45 | [On My Mind](https://open.spotify.com/track/1DyhjuTGk69Pqvy3f7pZcp) | [Holly Beth](https://open.spotify.com/artist/2HAdIEMUdYvHfSlWVmGexv) | [On My Mind](https://open.spotify.com/album/4Wnoeikpf4LgqSzK4ADTyW) | 3:58 |
-| 46 | [The Truth](https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L) | 3:32 |
-| 47 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
+| 46 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
+| 47 | [The Truth](https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L) | 3:32 |
 | 48 | [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 |
 | 49 | [Creek Don't Rise](https://open.spotify.com/track/1dNQi8MaLrbMF2ibAYwUqS) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 2:30 |
 | 50 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 91 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
 | 92 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 93 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
-| 94 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
-| 95 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
+| 94 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
+| 95 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 96 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
-| 97 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
-| 98 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
-| 99 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
+| 97 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
+| 98 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
+| 99 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
 | 100 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDI5MGM5MmZiMWE4MDcxZjdjNGExZTAzMGNhODkwODE3`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDliNDlmMWQ4NTU4YmQ0ZTE2ZTJmYzRlNjFmMjg4Y2U2`

@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 68969,
+  "num_followers": 69045,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMGYzZWM2YTMwOTBiNDM2MGFkYmRmOTRjZWYwMDIzMjIz",
+  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMGJmOWY4MDJlMjk4MDYzODlkNDBlOWM5NWZmYTkyZWYx",
   "tracks": [
     {
       "added_at": "2023-01-13 04:40:08",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Mr. Forgettable",
-        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Mr. Forgettable",
-      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
       "artists": [
         {
           "name": "John Mayer",
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 175480,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -391,22 +395,18 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
       },
       "artists": [
         {
           "name": "John Mayer",
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Who You Love (feat. Katy Perry)",
-      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "remember the mornings",
-        "url": "https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "remember the mornings",
-      "url": "https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "remember the mornings",
+        "url": "https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 202354,
+      "name": "remember the mornings",
+      "url": "https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "OutroEu",
-        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 258720,
-      "name": "Ai de Mim",
-      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

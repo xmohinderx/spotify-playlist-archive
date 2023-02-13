@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 62634,
+  "num_followers": 62693,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGJmZTE5ZDcxZjgwZmYyZTRkMzFlNDk4NTNjMDk2YmIx",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDk5MDUwMmFhNmM0OTEyMTExMGRhZTgwNzJiOGI5NGIw",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
+        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 307106,
+      "name": "Southern Cross - Live",
+      "url": "https://open.spotify.com/track/0qmawdRliiO39sdaxUIl2e"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Live At Shea Stadium",
         "url": "https://open.spotify.com/album/4zziqp3wOBkfWmxwlILVBZ"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 294280,
       "name": "Shameless (feat. Garth Brooks) - Live at Shea Stadium, Queens, NY - July 2008",
       "url": "https://open.spotify.com/track/5yIsenAzY9NSwqTh1Enmdh"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
-        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 307106,
-      "name": "Southern Cross - Live",
-      "url": "https://open.spotify.com/track/0qmawdRliiO39sdaxUIl2e"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "Me and Bobby McGee - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/7zOjmyBi9MWfiFYiQg0ALL"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199533,
       "name": "Bob Wills Is Still The King - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/0BtXBcqTKxou65mJivA3pA"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "Me and Bobby McGee - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/7zOjmyBi9MWfiFYiQg0ALL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Good Hearted Woman - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Live At Billy Bob's Texas",
         "url": "https://open.spotify.com/album/2PqZZVNAgRh9cGZwey2pnz"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 194786,
       "name": "Stand by Me - Live",
       "url": "https://open.spotify.com/track/1NznZVTpxWpcIysj6xyte3"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Waylon Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Good Hearted Woman - Live in Texas - September 1974",
-      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Young - Live",
-      "url": "https://open.spotify.com/track/42oB6NmqDusteJ62JvQViy"
+      "duration_ms": 291653,
+      "name": "I Go Back - Live",
+      "url": "https://open.spotify.com/track/13D7XTvRIV8s5mebCppPQx"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "At The Ryman (Live)",
-        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "Love In The First Degree - Live",
-      "url": "https://open.spotify.com/track/1ryDjjcVbq1zk8pEtOHWuf"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "An Evening With John Denver",
         "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
@@ -1367,38 +1347,6 @@
       "duration_ms": 305093,
       "name": "Rocky Mountain High - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
       "url": "https://open.spotify.com/track/3zDNqlZkx2Q8oZh3LD9x27"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1419,6 +1367,58 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "Love In The First Degree - Live",
+      "url": "https://open.spotify.com/track/1ryDjjcVbq1zk8pEtOHWuf"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1431,6 +1431,38 @@
       "duration_ms": 173280,
       "name": "Check Yes Or No - Live",
       "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "A Concert Behind Prison Walls (Live)",
+        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Silver Threads And Golden Needles - Live",
+      "url": "https://open.spotify.com/track/4C0hRAfnmnjZI3q2M0IJI7"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Streets of Bakersfield - Live",
+      "url": "https://open.spotify.com/track/7nLdau7g2f0PemdWBm0Wmb"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1451,22 +1483,6 @@
       "duration_ms": 140480,
       "name": "Flowers On the Wall - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",
       "url": "https://open.spotify.com/track/67JyZEggfEnbzacM0mEGAZ"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Streets of Bakersfield - Live",
-      "url": "https://open.spotify.com/track/7nLdau7g2f0PemdWBm0Wmb"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "A Concert Behind Prison Walls (Live)",
-        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 140840,
-      "name": "Silver Threads And Golden Needles - Live",
-      "url": "https://open.spotify.com/track/4C0hRAfnmnjZI3q2M0IJI7"
+      "duration_ms": 185013,
+      "name": "Love Without End, Amen - Live",
+      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Love Without End, Amen - Live",
-      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 195067,
       "name": "I'm From The Country",
       "url": "https://open.spotify.com/track/7Dk5WbllAY0VT1rune1mOs"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "A Concert Behind Prison Walls (Live)",
-        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "You're No Good - Live",
-      "url": "https://open.spotify.com/track/69SNq82yY79pzItVFVBE2a"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "A Concert Behind Prison Walls (Live)",
+        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "You're No Good - Live",
+      "url": "https://open.spotify.com/track/69SNq82yY79pzItVFVBE2a"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Live From The Troubadour",
         "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 320596,
       "name": "All I Want Is You - Live From The Troubadour / 2008",
       "url": "https://open.spotify.com/track/0Mf0xGn4ggDSgtDtFW8w6y"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Waylon Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Honky Tonk Heroes - Live in Texas - September 1974",
-      "url": "https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1795,18 +1779,34 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live From Dixie's Bar & Bus Stop",
-        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
-          "name": "Jerry Jeff Walker",
-          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 304480,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
+      "duration_ms": 179466,
+      "name": "Chug-a-Lug - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2X2Jy0IhJJblZyAyShtVGb"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Honky Tonk Heroes - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hope on the Rocks",
-        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
+        "name": "Live From Dixie's Bar & Bus Stop",
+        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
         }
       ],
-      "duration_ms": 257106,
-      "name": "Whiskey Girl - Live",
-      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
+      "duration_ms": 304480,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
+        "name": "Hope on the Rocks",
+        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 317586,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/1cv4Xk5nRNwpSo6KfbqwwL"
+      "duration_ms": 257106,
+      "name": "Whiskey Girl - Live",
+      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1907,66 +1907,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Chug-a-Lug - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/2X2Jy0IhJJblZyAyShtVGb"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 256573,
-      "name": "Me and Bobby McGee - Live",
-      "url": "https://open.spotify.com/track/3d1xCdNqFzJkY6b02ZaUWo"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Dolly: Live From London",
-        "url": "https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "I Will Always Love You (Live)",
-      "url": "https://open.spotify.com/track/3eAk0wYAwjhyy6YLfKnQxd"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
-        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Country Club - Live",
-      "url": "https://open.spotify.com/track/3ghaKch85cqDYht0nQPXYe"
+      "duration_ms": 317586,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/1cv4Xk5nRNwpSo6KfbqwwL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1987,6 +1939,70 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Dolly: Live From London",
+        "url": "https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "I Will Always Love You (Live)",
+      "url": "https://open.spotify.com/track/3eAk0wYAwjhyy6YLfKnQxd"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Me and Bobby McGee - Live",
+      "url": "https://open.spotify.com/track/3d1xCdNqFzJkY6b02ZaUWo"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
+        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Country Club - Live",
+      "url": "https://open.spotify.com/track/3ghaKch85cqDYht0nQPXYe"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Live From Dixie's Bar & Bus Stop",
+        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Rodeo Cowboy",
+      "url": "https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Pam Tillis - Live in Nashville",
         "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 214333,
       "name": "Don't Tell Me What to Do - Live",
       "url": "https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live From Dixie's Bar & Bus Stop",
-        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
       "artists": [
         {
-          "name": "Jerry Jeff Walker",
-          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Rodeo Cowboy",
-      "url": "https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h"
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Country Stars - Live In Concert, Vol. 2",
-        "url": "https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "Delta Down - Live",
-      "url": "https://open.spotify.com/track/2SKGxwuzLZJ8WfcJqEmKTE"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
         "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 212826,
       "name": "Islands in the Stream (Live)",
       "url": "https://open.spotify.com/track/2BYlwQRy6BogNmfS4fn7VQ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Country Stars - Live In Concert, Vol. 2",
+        "url": "https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "Delta Down - Live",
+      "url": "https://open.spotify.com/track/2SKGxwuzLZJ8WfcJqEmKTE"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Boogie Woogie Country Man - Live",
+      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
         "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
       },
@@ -2195,18 +2211,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Asleep At The Wheel",
+          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Boogie Woogie Country Man - Live",
-      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
+      "duration_ms": 207466,
+      "name": "Get Your Kicks On Route 66",
+      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
-      },
-      "artists": [
-        {
-          "name": "Asleep At The Wheel",
-          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Get Your Kicks On Route 66",
-      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Carnegie Hall Concert",
         "url": "https://open.spotify.com/album/6wX2ZCo6yoB3H6lmTvpJc2"
       },
@@ -2259,22 +2259,6 @@
       "duration_ms": 152840,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/48GTIVseXEMnkUx0HbLd0g"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
-        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 608040,
-      "name": "Gimme Three Steps/Call Me The Breeze - 1976/Live At Bill Graham's Winterland",
-      "url": "https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2295,22 +2279,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Pam Tillis - Live in Nashville",
-        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "Maybe It Was Memphis - Live",
-      "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
         "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
       },
@@ -2327,18 +2295,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
+        "name": "Pam Tillis - Live in Nashville",
+        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
         }
       ],
-      "duration_ms": 111226,
-      "name": "Kiss an Angel Good Mornin' - Live",
-      "url": "https://open.spotify.com/track/1POWS24vXkuEhSugX2uvkf"
+      "duration_ms": 299840,
+      "name": "Maybe It Was Memphis - Live",
+      "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2359,18 +2327,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
-        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 767346,
-      "name": "Free Bird - 1976/Live At Bill Graham's Winterland",
-      "url": "https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi"
+      "duration_ms": 111226,
+      "name": "Kiss an Angel Good Mornin' - Live",
+      "url": "https://open.spotify.com/track/1POWS24vXkuEhSugX2uvkf"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2387,6 +2355,22 @@
       "duration_ms": 155120,
       "name": "Workin' Man Blues - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
+        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 608040,
+      "name": "Gimme Three Steps/Call Me The Breeze - 1976/Live At Bill Graham's Winterland",
+      "url": "https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2475,6 +2459,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Authorized Bootleg - Live Winterland San Francisco, CA 3/7/76",
+        "url": "https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 767346,
+      "name": "Free Bird - 1976/Live At Bill Graham's Winterland",
+      "url": "https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Tanya Tucker (Live)",
         "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
       },
@@ -2523,18 +2523,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
       },
       "artists": [
         {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 164026,
-      "name": "The Whiskey Ain't Working Anymore",
-      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
+      "duration_ms": 725453,
+      "name": "Dixieland Delight - Live",
+      "url": "https://open.spotify.com/track/3PHaozz42k50ctvbLEawdu"
     }
   ],
   "unique_name": "Legendary Country Live",

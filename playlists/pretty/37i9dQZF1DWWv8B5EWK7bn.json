@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 136033,
+  "num_followers": 136257,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5OTI3NCwwMDAwMDAwMGMzNWZlMWNmMGU2ZjA5ZmQ2M2NiMDYzZDg5ZTQ4Yzlm",
+  "snapshot_id": "MTY3NTM5OTI3NCwwMDAwMDAwMDc5NDNjMDJkMTg2NWRiYzEwYWE2MTdlNWQxZWE5OWEw",
   "tracks": [
     {
       "added_at": "2023-01-20 04:21:17",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "Natural Brown Prom Queen",
-        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Homesick (Gorgeous & Arrogant)",
-      "url": "https://open.spotify.com/track/43bsBUJcuqgeDtF4jypkUT"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
         "name": "Another Green World",
         "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258920,
       "name": "Glass & Patron",
       "url": "https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Natural Brown Prom Queen",
+        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Homesick (Gorgeous & Arrogant)",
+      "url": "https://open.spotify.com/track/43bsBUJcuqgeDtF4jypkUT"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/7MB0GpjxLIiqhPgubokq8F"
     },
     {
-      "added_at": "2022-08-31 04:34:22",
-      "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
-    },
-    {
       "added_at": "2022-09-29 00:42:15",
       "album": {
         "name": "Blood Be Fluid",
@@ -639,6 +623,22 @@
       "duration_ms": 227276,
       "name": "Blood Be Fluid",
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "added_at": "2022-08-31 04:34:22",
+      "album": {
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
+      "added_at": "2022-01-20 01:49:28",
+      "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 316769,
+      "name": "Shadow in the Frame",
+      "url": "https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI"
+    },
+    {
       "added_at": "2022-09-12 20:09:14",
       "album": {
         "name": "When the Lights Go",
@@ -839,22 +855,6 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2022-01-20 01:49:28",
-      "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 316769,
-      "name": "Shadow in the Frame",
-      "url": "https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "NOISE OF YOU",
@@ -973,20 +989,20 @@
       "url": "https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY"
     },
     {
-      "added_at": "2022-08-31 05:00:32",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+      "duration_ms": 246333,
+      "name": "Dream - Edit",
+      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -1011,22 +1027,6 @@
       "duration_ms": 262893,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dream - Edit",
-      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-03-16 16:59:09",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "The Universe Is Always Right",
         "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
       },
@@ -1115,6 +1131,22 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2022-02-25 03:06:43",
+      "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 369231,
+      "name": "Unpeopled Space",
+      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -1137,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
-    },
-    {
       "added_at": "2022-09-11 03:49:06",
       "album": {
         "name": "Forever",
@@ -1167,22 +1183,6 @@
       "duration_ms": 238134,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
-    },
-    {
-      "added_at": "2022-02-25 03:06:43",
-      "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 369231,
-      "name": "Unpeopled Space",
-      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
       "added_at": "2022-11-08 17:40:24",
@@ -1277,6 +1277,26 @@
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
+      "added_at": "2022-09-06 17:57:02",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -1311,26 +1331,6 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
-      "added_at": "2022-09-06 17:57:02",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        },
-        {
-          "name": "Nurse With Wound",
-          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
-        }
-      ],
-      "duration_ms": 646683,
-      "name": "Simple Headphone Mind",
-      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1413,20 +1413,20 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-07-15 05:42:57",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 275373,
-      "name": "Sixty Years On - Album Edit",
-      "url": "https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n"
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1443,6 +1443,22 @@
       "duration_ms": 242426,
       "name": "Frozen Warnings",
       "url": "https://open.spotify.com/track/5gRCeSo5sdTDHRm2zjpOEZ"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Sixty Years On - Album Edit",
+      "url": "https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1475,22 +1491,6 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
-    },
-    {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
     },
     {
-      "added_at": "2023-01-12 01:57:10",
-      "album": {
-        "name": "Blueprint",
-        "url": "https://open.spotify.com/album/3r9BiB9RQwDlJR6owjqg5f"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 227671,
-      "name": "Blueprint",
-      "url": "https://open.spotify.com/track/1bsqF1cwrsqVyxA3FEAIU3"
-    },
-    {
       "added_at": "2022-09-27 21:46:39",
       "album": {
         "name": "Las Tres Hermanas",
@@ -1675,6 +1659,22 @@
       "duration_ms": 229000,
       "name": "Las Tres Hermanas",
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
+    },
+    {
+      "added_at": "2023-01-12 01:57:10",
+      "album": {
+        "name": "Blueprint",
+        "url": "https://open.spotify.com/album/3r9BiB9RQwDlJR6owjqg5f"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 227671,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/1bsqF1cwrsqVyxA3FEAIU3"
     },
     {
       "added_at": "2022-08-19 01:53:48",

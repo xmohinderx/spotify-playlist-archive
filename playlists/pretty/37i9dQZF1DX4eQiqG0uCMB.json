@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 14981,
+  "num_followers": 15040,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyOTk5OCwwMDAwMDAwMGFlYmNkYzI2OWRkZTk4NjAzYjA0MWIzZGUyMTE0Y2Rh",
+  "snapshot_id": "MTY3NjAyOTk5OCwwMDAwMDAwMGRhYWMxZDVlOTUxOTQ5ZTFjZWVmOGMyYzJlOTMyZjJj",
   "tracks": [
     {
       "added_at": "2023-01-27 10:23:31",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-01-27 10:23:31",
       "album": {
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2023-01-27 10:23:31",
+      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2023-01-27 10:23:31",
-      "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2023-01-27 10:23:31",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-27 10:23:31",
       "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2023-01-27 10:23:31",
+      "album": {
         "name": "THENIGHTISYOUNG.",
         "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
       },
@@ -699,26 +715,6 @@
     {
       "added_at": "2023-01-27 10:23:31",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-01-27 10:23:31",
-      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-01-27 10:23:31",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-01-27 10:23:31",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
+      "added_at": "2023-02-03 09:32:13",
+      "album": {
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Yolo",
+      "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
+    },
+    {
       "added_at": "2023-01-27 10:23:31",
       "album": {
         "name": "Legalize",
@@ -847,22 +863,6 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
-    },
-    {
-      "added_at": "2023-02-03 09:32:13",
-      "album": {
-        "name": "Yolo",
-        "url": "https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Yolo",
-      "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
     },
     {
       "added_at": "2023-01-27 10:23:31",

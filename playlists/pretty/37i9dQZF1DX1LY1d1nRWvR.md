@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,837 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,845 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 27 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
 | 28 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
 | 29 | [See\-Line Woman \- Main Mix](https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [See\-Line Woman](https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY) | 3:46 |
-| 30 | [Laamore](https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO) | 4:40 |
-| 31 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 |
+| 30 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
+| 31 | [Laamore](https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO) | 4:40 |
 | 32 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
-| 33 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
-| 34 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
-| 35 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
+| 33 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 |
+| 34 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
+| 35 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
 | 36 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
 | 37 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 38 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 | 50 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGJjZmUwMzE4MTEzZTczMzFlNzBmYzgxMzc5NDYxOWYy`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGYyNDIzODY4OWVkYTU2Yzk1NTBiYTlkNDNlMjljYTRl`

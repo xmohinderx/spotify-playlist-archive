@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1752054,
+  "num_followers": 1752342,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyMTY4OCwwMDAwMDAwMDhkMzkwNDZmZGY0YjA0OTYzZGY4OWRiMWU5OWM5NDM2",
+  "snapshot_id": "MTY3MzAyMTY4OCwwMDAwMDAwMDBjMDQ1OWFiODAxY2E2ZTU2NDc4Nzk2MjBiOGQ4NjAz",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Music From The Motion Picture Once",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Party of One (feat. Sam Smith)",
+        "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 259558,
+      "name": "Party of One (feat. Sam Smith)",
+      "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Olly Olly",
         "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 244986,
       "name": "Falling in Love at a Coffee Shop",
       "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Party of One (feat. Sam Smith)",
-        "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 259558,
-      "name": "Party of One (feat. Sam Smith)",
-      "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 207048,
-      "name": "Lover / / Over the Moon",
-      "url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/4oEoGxQA9log6lJNNmX03q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 136542,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/1YnLthg0HOs8YTzgN5hVh2"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 207048,
+      "name": "Lover / / Over the Moon",
+      "url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
-      },
-      "artists": [
-        {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 256875,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Isbells",
+        "url": "https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "We'll Make It Through",
+      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/7c7WXAvGLEnfritd5ir09k"
       },
@@ -1123,50 +1155,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+        "name": "Sea Of Love",
+        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "We'll Make It Through",
-      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Isbells",
-        "url": "https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F"
-      },
-      "artists": [
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
         {
-          "name": "Isbells",
-          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 235720,
-      "name": "Reunite",
-      "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 208297,
-      "name": "Dark Four Door",
-      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
+      "duration_ms": 203190,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Sea Of Love",
-        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
         }
       ],
-      "duration_ms": 203190,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
+      "duration_ms": 208297,
+      "name": "Dark Four Door",
+      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Flight of the Crow",
         "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 182293,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Trindade",
+          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "This Side of Jordan",
         "url": "https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 254080,
       "name": "There Was a Time",
       "url": "https://open.spotify.com/track/1YJpxbqfN7CXNzgvL1mGtU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Reckless Lover (Acoustic)",
-        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
         {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 240579,
-      "name": "Reckless Lover - Acoustic",
-      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
     }
   ],
   "unique_name": "Acoustic Love",

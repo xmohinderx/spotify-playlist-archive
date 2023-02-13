@@ -1,12 +1,12 @@
 {
   "description": "We're waking up dreaming because Shania Twain is taking over to celebrate her new album Queen of Me! \ud83d\udc51 ",
-  "num_followers": 101292,
+  "num_followers": 101677,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNTA4MywwMDAwMDAwMDIzNmQxNWJmNGU2MDU1OTVhZWMxZjFkNTNjOTNhNTE0",
+  "snapshot_id": "MTY3NTQwNTA4MywwMDAwMDAwMGZjYjM2OTM2NmRjNGJjMDZkNTg2NjYzOTZjNjBiM2Q4",
   "tracks": [
     {
       "added_at": "2023-02-03 06:18:03",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+    },
+    {
+      "added_at": "2023-02-03 06:18:03",
+      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 211266,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
-    },
-    {
-      "added_at": "2023-02-03 06:18:03",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "The Dap-Kings Horns",
-          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Woman (feat. The Dap-Kings Horns)",
-      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -771,22 +771,22 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         },
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "The Dap-Kings Horns",
+          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+      "duration_ms": 196360,
+      "name": "Woman (feat. The Dap-Kings Horns)",
+      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 165013,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2023-02-03 06:18:03",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+      "duration_ms": 165013,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2023-02-03 06:18:03",
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 208893,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
-    },
-    {
-      "added_at": "2023-02-03 06:18:03",
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "I'm Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
+    },
+    {
+      "added_at": "2023-02-03 06:18:03",
+      "album": {
         "name": "Frame By Frame",
         "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
       },
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 174306,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/3d0VZU6Mf2hdZRHA4zry8S"
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1327,6 +1327,22 @@
       "duration_ms": 183960,
       "name": "No One Needs To Know",
       "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
+    },
+    {
+      "added_at": "2023-02-03 06:18:03",
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/3d0VZU6Mf2hdZRHA4zry8S"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1359,22 +1375,6 @@
       "duration_ms": 231293,
       "name": "Ready to Run",
       "url": "https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk"
-    },
-    {
-      "added_at": "2023-02-03 06:18:03",
-      "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2023-02-03 06:18:03",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-03 06:18:03",
       "album": {
-        "name": "Baytown",
-        "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
-      },
-      "artists": [
-        {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
-        }
-      ],
-      "duration_ms": 184623,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/7G5Zby8vFCPoT5xjZpnmdx"
-    },
-    {
-      "added_at": "2023-02-03 06:18:03",
-      "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 175200,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+    },
+    {
+      "added_at": "2023-02-03 06:18:03",
+      "album": {
+        "name": "Baytown",
+        "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "duration_ms": 184623,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/7G5Zby8vFCPoT5xjZpnmdx"
     },
     {
       "added_at": "2023-02-03 06:18:03",

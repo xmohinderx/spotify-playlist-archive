@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Aya Nakamura & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,765 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,798 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 66 | [SOLO CON MI CANCIÓN](https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [AFRICAN LOVER](https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC) | 2:52 |
 | 67 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
 | 68 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
-| 69 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 |
-| 70 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
+| 69 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
+| 70 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 |
 
-Snapshot ID: `MTY3NjA0NTMwMiwwMDAwMDAwMDNhNTUzMzlkZjgxNGY2ZjgzODZmYjY0MDMzZWU4MmFk`
+Snapshot ID: `MTY3NjA0NTMwMiwwMDAwMDAwMDQ5OTQ3MDVkMGVmZGUwNGUwOGJkMjJlMzljOTM5ZjY1`

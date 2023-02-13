@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,734 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,000 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 74 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\] \- Ao Vivo](https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \(Ao Vivo\)](https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6) | 8:15 |
 | 75 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
 | 76 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 |
-| 77 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
+| 77 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 |
 | 78 | [A Resposta](https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 6:38 |
-| 79 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 |
+| 79 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 | 80 | [Furioso Oceano](https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano](https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV) | 6:32 |
 | 81 | [Sua Presença \- Ao Vivo](https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Sua Presença \(Ao Vivo\)](https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4) | 5:14 |
-| 82 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
-| 83 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
+| 82 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
+| 83 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
 | 84 | [Pra Onde Eu Irei? \- Live Church](https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Pra Onde Eu Irei? \(Live Church\)](https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q) | 8:09 |
 | 85 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
 | 86 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Deus e Eu \(Ao Vivo\)](https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 99 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 |
 | 100 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 |
 
-Snapshot ID: `MTY3NjAzMTgwNiwwMDAwMDAwMDIwMzI0ZDc3MGU5MWZmZTgxNWE4ODk5ZWY5MjJkZjNk`
+Snapshot ID: `MTY3NjAzMTgwNiwwMDAwMDAwMDBmYjY5NTQ1Mzk3MWU1ZGVjNzE5MDM2MzcxNTcyYjU1`

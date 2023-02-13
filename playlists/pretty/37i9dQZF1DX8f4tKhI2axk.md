@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,504 likes - 40 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,598 likes - 40 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 29 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 30 | [Here Comes The Hotstepper \- Heartical Mix](https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/4xylgI6zPzJlHY8iZXAeK9) | 4:10 |
 | 31 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
-| 32 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
+| 32 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
 | 33 | [Country Road](https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 3:25 |
-| 34 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
+| 34 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 35 | [Oh Carolina](https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Pure Pleasure](https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg) | 3:10 |
 | 36 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 37 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
 | 40 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDQ2NDQ0YWEzYWY3M2JjNGI1OWU3NDE4ZWU3NWZiYjc3`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMGI3YjJkODRiMjY1MmY3NzUwOTExYzdhMmRmNmFjYTEz`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,008 songs - 2 day 8 hr 21 min
+1,009 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 | 2022-12-13 | 2022-12-24 |
 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 | 2022-11-03 | 2022-11-17 |
 | [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 | 2023-01-01 | 2023-01-10 |
+| [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-02-12 |  |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-02-18 | 2022-02-21 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-29 | 2022-04-05 |
 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 | 2023-02-09 |  |
@@ -802,7 +803,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-30 | 2022-08-20 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-11-15 | 2022-11-17 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-29 | 2022-02-02 |
-| [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-26 |  |
+| [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-26 | 2023-02-13 |
 | [Solo Tú](https://open.spotify.com/track/2qY0Tamp1fZD1uNaDIkBXX) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/6XxzGB7U9Zl3jwMNWWPHRC) | 3:12 | 2023-01-15 | 2023-01-21 |
 | [Solo tú](https://open.spotify.com/track/7tXWUU1HgnV4YuJiNbmG1l) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Alejandro Riaño](https://open.spotify.com/artist/6gypZD8U0igayJnsl9ZWQF), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Elenco de Encanto](https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:38 | 2022-01-13 | 2022-01-20 |
 | [Something In The Way \- Remastered](https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ) | 3:52 | 2022-03-09 | 2022-04-13 |

@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-281 songs - 17 hr 37 min
+282 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [From Hell to Here](https://open.spotify.com/track/0YVJiU5WEmYSZvx0t4B92F) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/5WjusZIMbyTzjksyxY8RME) | 2:56 | 2022-11-24 | 2022-12-03 |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-26 | 2022-06-17 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2022-09-22 | 2022-10-07 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-09 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-09 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-09 | 2023-02-13 |
 | [God, Allow Me \(Please\) to Play Music](https://open.spotify.com/track/2fUzMv902xjuqVAACyQVDW) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [God, Allow Me \(Please\) to Play Music](https://open.spotify.com/album/1qygvf7I6wjQLPyBLfOlTi) | 3:31 | 2022-05-06 | 2022-08-27 |
 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 | 2022-08-11 |  |
 | [Going Down](https://open.spotify.com/track/0a4ToUsRYorLaTvEwPQZy3) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [ECHOES](https://open.spotify.com/album/6JbRfyLukQYqBSI81ykc4L) | 3:52 | 2022-05-26 | 2022-10-07 |

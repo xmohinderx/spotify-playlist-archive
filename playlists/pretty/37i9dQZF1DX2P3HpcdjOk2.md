@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,288 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,416 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 32 | [Far Far Away](https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slade in Flame](https://open.spotify.com/album/0LmjoS42wberY6QHYm6k5E) | 3:34 |
 | 33 | [Devil Gate Drive](https://open.spotify.com/track/05fBPztfk8kjaRXXx58fvm) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 3:47 |
 | 34 | [Moonage Daydream \- 2012 Remaster](https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:39 |
-| 35 | [Some Girls](https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:27 |
-| 36 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 35 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 36 | [Some Girls](https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:27 |
 | 37 | [In Every Dream Home A Heartache](https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [For Your Pleasure](https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29) | 5:29 |
 | 38 | [Run Runaway](https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [The Amazing Kamikaze Syndrome \(Expanded\)](https://open.spotify.com/album/14DvsG0HgGAdHGJQRtMFmv) | 5:00 |
 | 39 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 49 | [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 |
 | 50 | [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 |
 
-Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDliNzRiZGY3NTI3MDJjMDViZGU3NTUyMmYyMTk4NTE2`
+Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDM3ZDU3Y2QxMTkxOTFkM2UyNDdjZDdjMTU5YjU0NWQ2`

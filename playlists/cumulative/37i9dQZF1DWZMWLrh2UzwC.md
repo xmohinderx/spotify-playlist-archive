@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: dv4d
 
-4,748 songs - 10 day 20 hr 22 min
+4,749 songs - 10 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,7 +1534,8 @@
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2022-09-22 | 2022-09-30 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-03-03 | 2022-03-11 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-12 | 2023-01-20 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-09 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-09 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-09 | 2023-02-13 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-25 | 2022-09-02 |
 | [Godly Behaviour](https://open.spotify.com/track/1HkZl9LXJ01o1YfYsCQbq4) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO](https://open.spotify.com/album/3Jlrqudmo7F0q1Wuc2Qizs) | 2:38 | 2022-08-04 | 2022-08-12 |
 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 | 2022-04-28 | 2022-05-06 |
@@ -2710,7 +2711,7 @@
 | [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 | 2022-08-04 | 2022-08-12 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-16 | 2022-06-24 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-10 | 2022-03-18 |
-| [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-09 |  |
+| [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-09 |  |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-03 | 2022-11-11 |
 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:12 | 2022-06-02 | 2022-06-10 |
 | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/4pYD9GWj75w065wGuRgiMK) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/3hj55sEE1Mj07Us2zsYcW2) | 3:19 | 2022-02-17 | 2022-02-25 |

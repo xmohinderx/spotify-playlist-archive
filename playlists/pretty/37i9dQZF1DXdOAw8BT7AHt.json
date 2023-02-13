@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Grandma's House",
-  "num_followers": 47878,
+  "num_followers": 47883,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMGYyMDk4ODA1ZGYyNmQyMDkyMjYxMjk1ODI1OGNlMjAy",
+  "snapshot_id": "MTY3NTY4ODAwMSwwMDAwMDAwMDljOTg5YjcwNGM0Y2JkM2ZkYjlhNmZjNWRiYzAyNmJl",
   "tracks": [
     {
       "added_at": "2023-02-06 12:53:21",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Hell of Mine",
-        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+        "name": "Country Life",
+        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
       },
       "artists": [
         {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 125484,
-      "name": "Hell of Mine",
-      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
+      "duration_ms": 147535,
+      "name": "Country Life",
+      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Country Life",
-        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Country Life",
-      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "punkadonk",
-        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Moto",
-      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202624,
       "name": "BURN THE WITCH",
       "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "punkadonk",
+        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
     },
     {
       "added_at": "2023-02-06 12:53:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-06 12:53:21",
       "album": {
-        "name": "Ghost Brigade",
-        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Ghost Brigade",
-      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
-    },
-    {
-      "added_at": "2023-02-06 12:53:21",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 190543,
       "name": "Bubblegum Infinity",
       "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+    },
+    {
+      "added_at": "2023-02-06 12:53:21",
+      "album": {
+        "name": "Ghost Brigade",
+        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Ghost Brigade",
+      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
     },
     {
       "added_at": "2023-02-06 12:53:21",

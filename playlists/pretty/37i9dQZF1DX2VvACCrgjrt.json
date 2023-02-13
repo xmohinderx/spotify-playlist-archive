@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: FETISH",
-  "num_followers": 415337,
+  "num_followers": 415440,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMTU4NSwwMDAwMDAwMDY2MWI1NzJhMThlNTJjYmYwODIzYzQ4NDYyN2VmZTNi",
+  "snapshot_id": "MTY3NjAyMTU4NSwwMDAwMDAwMDVkMzExYzQxMzZlNGNiMGEyMzUwNTQ4MDdhY2Q0ZWZm",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
     },
     {
-      "added_at": "2023-02-12 01:01:52",
+      "added_at": "2023-02-13 01:02:32",
       "album": {
         "name": "DOJA",
         "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Front To Back (feat. DLMT)",
         "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
       },
       "artists": [
         {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 236129,
-      "name": "All Eyez On Me",
-      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 185515,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "All Eyez On Me",
+      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Make It Good",
+        "url": "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Make It Good",
+      "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "La Guitarra",
         "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 169523,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Make It Good",
-        "url": "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "Make It Good",
-      "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "4Ever",
-        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "4Ever",
-      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Joker",
         "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
       },
@@ -1791,26 +1791,6 @@
       "duration_ms": 127797,
       "name": "Joker",
       "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "TELL ME",
-        "url": "https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "TELL ME",
-      "url": "https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1839,6 +1819,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "TELL ME",
+        "url": "https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "TELL ME",
+      "url": "https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 207000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1887,22 +1871,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Back 2 Back",
-        "url": "https://open.spotify.com/album/7rQoDyK6Osl9a05uyWf2cu"
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
       },
       "artists": [
         {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/1kZAtr2I4RlXDcOpZ7yA1C"
+      "duration_ms": 200347,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1919,6 +1899,26 @@
       "duration_ms": 166611,
       "name": "Pray For It",
       "url": "https://open.spotify.com/track/32SL0NKS1QiR7XUKzlqufJ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/7rQoDyK6Osl9a05uyWf2cu"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/1kZAtr2I4RlXDcOpZ7yA1C"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Rock Like This",
+        "url": "https://open.spotify.com/album/4YOlaEvz0Ttj6jYZa2EPHQ"
+      },
+      "artists": [
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157862,
+      "name": "Rock Like This",
+      "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Lay It Down (feat. Bricc Baby)",
         "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
       },
@@ -1999,22 +2015,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Rock Like This",
-        "url": "https://open.spotify.com/album/4YOlaEvz0Ttj6jYZa2EPHQ"
-      },
-      "artists": [
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157862,
-      "name": "Rock Like This",
-      "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Sound Of The Bass",
         "url": "https://open.spotify.com/album/22NPR2HmovEiEMb8cKrC0Q"
       },
@@ -2027,22 +2027,6 @@
       "duration_ms": 197073,
       "name": "Sound Of The Bass",
       "url": "https://open.spotify.com/track/5KeWNOjXTGZd2qATxVBLF8"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/6icjcRHwHhCbMEFGGexCAx"
-      },
-      "artists": [
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 183954,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/3TDqXg8iAPzgGKqVEn4cup"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2067,6 +2051,22 @@
       "duration_ms": 167459,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/6icjcRHwHhCbMEFGGexCAx"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 183954,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/3TDqXg8iAPzgGKqVEn4cup"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 204772,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 207096,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 204772,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
     },
     {
       "added_at": "2023-01-27 05:00:00",

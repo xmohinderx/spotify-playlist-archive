@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 57048,
+  "num_followers": 57142,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGQ3NjZjMGEwOWRiZTE4NDNiMWYzMDBhNDNlODNkOTcx",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDY3ZDczYWU4MWEwYmI3ZWQ3ZDRlNDFjMTBlZjhhYTUz",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 190373,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Indianola Mississippi Seeds",
         "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 271653,
       "name": "Damn Right, I've Got the Blues",
       "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 246573,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 486773,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Just a Game",
-      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Just a Game",
+      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Play Loud",
@@ -1157,20 +1141,36 @@
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U"
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
       "artists": [
         {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 183240,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL"
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
         }
       ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
+      "duration_ms": 183240,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
-      },
-      "artists": [
-        {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "You Can't Teach An Old Dog New Tricks",
         "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 214053,
       "name": "You Can't Teach An Old Dog New Tricks",
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+      },
+      "artists": [
+        {
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2022-02-25 05:02:00",

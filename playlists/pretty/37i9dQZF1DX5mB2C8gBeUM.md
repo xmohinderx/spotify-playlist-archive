@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Cheat Codes
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,219 likes - 119 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,280 likes - 119 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 90 | [Country Anywhere](https://open.spotify.com/track/4TVlDWrY5vLvOT0uJgKDZ4) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Country Anywhere](https://open.spotify.com/album/0jJOkR5QbETozlBC1Xbdt8) | 2:50 |
 | 91 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 |
 | 92 | [Sundress](https://open.spotify.com/track/38vqfi7hLRwfsY86jDGm6E) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Sundress](https://open.spotify.com/album/4RyDQPdeRS1ovDV58hGBKI) | 2:22 |
-| 93 | [Anything Cold](https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/5tJ7Fi9rz7HnjhrOhOD6Lo) | 2:54 |
+| 93 | [Anything Cold](https://open.spotify.com/track/5wzzdPCvXvd7caNx6l5izX) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/4Y6rVW06iicinF8IVZqGM4) | 2:54 |
 | 94 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
 | 95 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 |
 | 96 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 118 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
 | 119 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDA0NzAxMTM5ZWYxNmU4MDUyMzY2OThmMjcxNjBhZDkw`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDUyMWM5MWQyMmZmMTlmMTEzNzUwMjM4NmNhOWIxYjA0`

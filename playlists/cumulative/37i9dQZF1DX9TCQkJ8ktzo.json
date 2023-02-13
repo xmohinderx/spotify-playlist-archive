@@ -1396,10 +1396,28 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 184666,
       "name": "Pepito",
       "url": "https://open.spotify.com/track/6KgvfWahRokIwLobaClaNR"
+    },
+    {
+      "album": {
+        "name": "Los Incre\u00edbles Machucambos",
+        "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
+      },
+      "artists": [
+        {
+          "name": "Los Machucambos",
+          "url": "https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "Pepito",
+      "url": "https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx"
     },
     {
       "album": {

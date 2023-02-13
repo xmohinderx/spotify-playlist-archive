@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi hits with Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,781 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,713 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

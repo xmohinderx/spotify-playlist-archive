@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,948 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,066 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 62 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
 | 63 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
 | 64 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
-| 65 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
-| 66 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
+| 65 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
+| 66 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
 | 67 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
 | 68 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 69 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 82 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
 | 83 | [Valley \- Live](https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Valley \(Live\)](https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n) | 4:51 |
 | 84 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
-| 85 | [A Thousand More \- Live](https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y) | 5:59 |
+| 85 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
 | 86 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
-| 87 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
+| 87 | [A Thousand More \- Live](https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y) | 5:59 |
 | 88 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 89 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 |
 | 90 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |
 | 91 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
 | 92 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
-| 93 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
-| 94 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
+| 93 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
+| 94 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
 | 95 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
 | 96 | [Always Loved Me](https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:16 |
 | 97 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 | 100 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDE1Y2NhZWIwZmFkNDQ2ZGQyNDMyODU1YzkzZWM0NDNi`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMGY1NGU3MzJlYTQ1NWJmZmI0NjY0OTFhNmQzMjMyY2E2`

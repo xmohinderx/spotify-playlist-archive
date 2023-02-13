@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=SpN82AmnQFmJzj\-NsDWW9g">Kamo Mphela</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,347 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,879 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

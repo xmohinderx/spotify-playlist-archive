@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: ALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,766 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,815 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 9 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 |
 | 10 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 |
 | 11 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 |
-| 12 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 |
+| 12 | [Joyfell](https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Joyfell](https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj) | 5:08 |
 | 13 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 |
-| 14 | [Joyfell](https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Joyfell](https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj) | 5:08 |
+| 14 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 |
 | 15 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
 | 16 | [Saturday's Children \(feat\. Neal Casal\)](https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 9:25 |
 | 17 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 23 | [Song for Us](https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:41 |
 | 24 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 |
 | 25 | [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 |
-| 26 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 |
-| 27 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
+| 26 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
+| 27 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 |
 | 28 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 |
 | 29 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
 | 30 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [Julian](https://open.spotify.com/track/6zf24ssm3oX06086awQlsl) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Thanks For Joining Me, Bobby! / Julian](https://open.spotify.com/album/37LtN4oB9SXaAuWvlSaLUw) | 7:56 |
 | 50 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 |
 
-Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMGY5ZTBmYTU4MGQzMzIzMWYyNTBiYmM4MDBmNjY5ZWU0`
+Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDdiYjJiNDg2YzE4NzcxZjUwM2IwNDVlZDQxZTk4Mjcw`

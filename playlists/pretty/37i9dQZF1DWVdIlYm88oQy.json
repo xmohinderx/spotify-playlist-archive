@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 32974,
+  "num_followers": 33035,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDdhM2E0NmU4YzdmYjM2NjkwYjZkMTk5MDgxNjZjMjNl",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGM5YzhiYzFiZWI5M2EwODRhNzg0ZjFiYTkwMjhhYmQz",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 285360,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 285360,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 231146,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Grandes Rom\u00e1nticas, Vol. 1",
         "url": "https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Busamba",
-      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Por un Amor",
-      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 183813,
       "name": "L\u00e1grimas y Lluvia",
       "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Busamba",
+      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1051,6 +1051,22 @@
       "duration_ms": 259920,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1159,6 +1175,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Serie de Autores - Vol. II, Manuel Alejandro",
         "url": "https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g"
       },
@@ -1171,22 +1203,6 @@
       "duration_ms": 319293,
       "name": "Voy a Perder la Cabeza por Tu Amor",
       "url": "https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1219,22 +1235,6 @@
       "duration_ms": 257320,
       "name": "No Soy de Aqu\u00ed, Ni Soy de All\u00e1",
       "url": "https://open.spotify.com/track/1rcrTr5RoivJAUC1VbD3r5"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
     },
     {
       "added_at": "2022-08-31 07:29:23",

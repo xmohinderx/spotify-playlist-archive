@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-81 songs - 6 hr 19 min
+82 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [CIRCLONT6A \[141.98\]\[syrobonkus mix\]](https://open.spotify.com/track/0Zn4jYnGokSATIvpNLJAGd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 6:00 | 2022-07-29 | 2022-10-09 |
 | [Cock/ver10](https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 5:18 | 2022-05-29 | 2022-10-13 |
 | [Come On You Slags](https://open.spotify.com/track/1e3b0rN8vtP5q6ZCoLy5Ym) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:44 | 2022-05-29 | 2022-09-21 |
-| [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 4:22 | 2022-05-29 |  |
+| [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 4:22 | 2022-05-29 | 2023-02-13 |
+| [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 | 2023-02-12 |  |
 | [Cornish Acid](https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 2:14 | 2022-05-29 |  |
 | [Cow Cud Is A Twin](https://open.spotify.com/track/3JdvEIcI6e6Ovi7bGJO1b1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:33 | 2022-05-29 |  |
 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 | 2022-05-29 |  |

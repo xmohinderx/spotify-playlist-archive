@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,313 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,341 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 5 | [Flor del Río](https://open.spotify.com/track/6B91idlI85dgcjfP2lHKe3) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Los Grandes Éxitos de los Grandes Grupos](https://open.spotify.com/album/5wpdSJcSJ99JbsxBtqrmGt) | 2:50 |
 | 6 | [La Rajita De Canela](https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:31 |
 | 7 | [Quiéreme Sempre](https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Me Voy Para La Luna](https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ) | 3:02 |
-| 8 | [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 |
+| 8 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 9 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 |
-| 10 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
+| 10 | [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 |
 | 11 | [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 |
 | 12 | [La Boa](https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:51 |
 | 13 | [Tico\-Tico](https://open.spotify.com/track/2vMWnjMI89KfMKhvUq4OnP) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | ['S Continental](https://open.spotify.com/album/2od6E7Hj5mVWeslfsRjtxq) | 2:33 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 16 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
 | 17 | [Pollito Con Papas](https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 2:52 |
 | 18 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 |
-| 19 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 |
-| 20 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
+| 19 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
+| 20 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 |
 | 21 | [Cien Mil Cosas](https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Los Últimos De Celio González](https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8) | 2:45 |
 | 22 | [Necesito Que Regreses](https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Edixion Platino](https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak) | 2:47 |
 | 23 | [La Mucura](https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:11 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 66 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
 | 67 | [El Manisero](https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Todos Sus Exitos](https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry) | 2:45 |
 | 68 | [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 |
-| 69 | [Cachita](https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Epoca De Oro De La Orquesta Aragon](https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a) | 2:39 |
-| 70 | [Las Maracas de Cuba](https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Nostalgia de Cuba](https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV) | 2:55 |
+| 69 | [Las Maracas de Cuba](https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Nostalgia de Cuba](https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV) | 2:55 |
+| 70 | [Cachita](https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Epoca De Oro De La Orquesta Aragon](https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a) | 2:39 |
 | 71 | [Pedacito de Mi Vida](https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Clásicos de La Música Cubana Volume 3](https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH) | 2:53 |
 | 72 | [El Cha Cha Cha de los Borrachitos](https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 73 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 87 | [Agua De Beber](https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Genius of Esquivel](https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj) | 2:55 |
 | 88 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 |
 | 89 | [Latin\-Esque](https://open.spotify.com/track/4HNzE0FjVBDA3ykRGNkTXE) | [Esquivel & His Orchestra](https://open.spotify.com/artist/6upuuO8Q75xbGsDtwkE0yE) | [Latin\-Esque](https://open.spotify.com/album/5piwsRmhY4MMhKdana79ES) | 3:07 |
-| 90 | [El Negrito del Batey](https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:14 |
-| 91 | [Jesusita en Chihuahua](https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:54 |
+| 90 | [Jesusita en Chihuahua](https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:54 |
+| 91 | [El Negrito del Batey](https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:14 |
 | 92 | [La Culebra](https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Pachito E´che](https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA) | 3:08 |
 | 93 | [El Bodeguero](https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [That Cuban Cha Cha](https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt) | 3:08 |
 | 94 | [Moliendo Café \- Tema Remasterizado](https://open.spotify.com/track/0wfFL0nTDTqQUylZV4R3V4) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Contigo Aprendí..\. Mis Número 1](https://open.spotify.com/album/7uYMi3uH9Kxqd3wR9EOopt) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [El Barbarazo](https://open.spotify.com/track/1jxqWXRBC2Ie6lYZKVFEOM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 3:30 |
 | 100 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 
-Snapshot ID: `MTY3NDUxMzc3MCwwMDAwMDAwMGVmZDcxNzhhM2VjYzJlMjIwZTYxNTdlY2Q5NTUzNmIy`
+Snapshot ID: `MTY3NDUxMzc3MCwwMDAwMDAwMDkwYTRjYzAyNWM0YTlhNWY3YThlNDE3Y2FkNGJiNjU0`

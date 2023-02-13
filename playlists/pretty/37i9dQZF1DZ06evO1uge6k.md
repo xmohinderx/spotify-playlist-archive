@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,132 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,244 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 35 | [Nasty Dogs and Funky Kings \- 2005 Remaster](https://open.spotify.com/track/2nOkKjTkLvKeebQEHUB3Hi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:42 |
 | 36 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
 | 37 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
-| 38 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
-| 39 | [Pearl Necklace](https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:05 |
+| 38 | [Pearl Necklace](https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:05 |
+| 39 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 | 40 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 |
 | 41 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 |
 | 42 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [What's Up With That](https://open.spotify.com/track/1vZ3oSRyLRC4JOZ0S8j7G3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 5:21 |
 | 50 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDBlMzQ1MDI3ODk4MTI1Zjc5NWZhMWY4OTdkMDliNGM4YQ==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDAzNzFhNzhlN2VjOTkzYjg2OTBjNGM5ZWRlMWY3YTUwYg==`

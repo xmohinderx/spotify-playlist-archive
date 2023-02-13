@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 116524,
+  "num_followers": 116661,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDkwZTcyY2E5ZTRkMmY2NGRkZGFkYjNmMDE0MTk2NDdh",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDgyOTdhNjcxZWZjMmE3YjNjOGRjZDE4NGZjNmUwMzVh",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Gabi Hartmann",
+        "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Boy Boredom",
         "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 171513,
       "name": "I Fall to Pieces",
       "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Gabi Hartmann",
-        "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Before I Do",
-      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Stuck on You",
         "url": "https://open.spotify.com/album/48jJpJh1n2jszVcUoFmnrf"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
       },
       "artists": [
         {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+      "duration_ms": 198800,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 150349,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Just a Little Bit",
-        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
-      },
-      "artists": [
-        {
-          "name": "Waltzing on Waves",
-          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "LOVE QUANTUM",
-        "url": "https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "SOMETHIN' (feat. Ego Ella May)",
-      "url": "https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "My Soul Kitchen",
         "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
@@ -1079,6 +1043,22 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Just a Little Bit",
+        "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
+      },
+      "artists": [
+        {
+          "name": "Waltzing on Waves",
+          "url": "https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1131,6 +1111,26 @@
       "duration_ms": 280508,
       "name": "Midnight at the Oasis",
       "url": "https://open.spotify.com/track/0sDFNE6X8ZKMRJHzr1RnDI"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "LOVE QUANTUM",
+        "url": "https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "SOMETHIN' (feat. Ego Ella May)",
+      "url": "https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 229682,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 256000,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
       },
       "artists": [
         {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
         }
       ],
-      "duration_ms": 282800,
-      "name": "My Ship",
-      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
     }
   ],
   "unique_name": "Jazz Pop",

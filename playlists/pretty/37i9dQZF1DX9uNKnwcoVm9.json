@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 213061,
+  "num_followers": 213171,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMGEyNGI4ZjVmM2U3YzBmMTI0YmUzMzRjYTYxNTk1YzBk",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDIxZGZmZGUyMTg0ODIyNTBiNjUxODJjYzdhNmVkZDE0",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "La Ni\u00f1a de tus Ojos",
-      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "La Ni\u00f1a de tus Ojos",
+      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 299706,
       "name": "Preciosa Sangre",
       "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Marco Barrientos Auditorio Nacional",
+        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 288320,
+      "name": "Ven Esp\u00edritu Ven",
+      "url": "https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Me Paro En La Brecha",
         "url": "https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 270933,
       "name": "El Proceso",
       "url": "https://open.spotify.com/track/5MjSIkSafNOHiDqE8nL9m4"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "Si Puedes Creer",
-      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -367,34 +367,42 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Marco Barrientos Auditorio Nacional",
-        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Si Puedes Creer",
+      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
       "artists": [
         {
           "name": "Marco Barrientos",
           "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        }
-      ],
-      "duration_ms": 288320,
-      "name": "Ven Esp\u00edritu Ven",
-      "url": "https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Paro En La Brecha",
-        "url": "https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol"
-      },
-      "artists": [
+        },
         {
-          "name": "Nancy Amancio",
-          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+          "name": "David Reyes",
+          "url": "https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Me Paro En La Brecha",
-      "url": "https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t"
+      "duration_ms": 450875,
+      "name": "Dios de Lo Imposible",
+      "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -427,6 +435,22 @@
       "duration_ms": 403266,
       "name": "Abre Mis Ojos",
       "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Me Paro En La Brecha",
+        "url": "https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol"
+      },
+      "artists": [
+        {
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Me Paro En La Brecha",
+      "url": "https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -483,30 +507,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "David Reyes",
-          "url": "https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 450875,
-      "name": "Dios de Lo Imposible",
-      "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Dios Siempre Tiene el Control",
         "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
       },
@@ -575,38 +591,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Proezas",
-        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "Los Muros Caer\u00e1n",
-      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Gloria En Lo Alto",
-      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Santo Es El Se\u00f1or",
         "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "Los Muros Caer\u00e1n",
+      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Un Toque De F\u00e9",
         "url": "https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd"
       },
@@ -643,18 +643,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+      "duration_ms": 300186,
+      "name": "Gloria En Lo Alto",
+      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Pentecost\u00e9s (En Vivo)",
-        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Danzo en el R\u00edo (En Vivo)",
-      "url": "https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+        "name": "Mi Refugio",
+        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 258640,
-      "name": "\u00c9l Nos Ama",
-      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+      "duration_ms": 196866,
+      "name": "Mi Historia De Amor",
+      "url": "https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -759,18 +743,34 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mi Refugio",
-        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Mi Historia De Amor",
-      "url": "https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID"
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Danzo en el R\u00edo (En Vivo)",
+      "url": "https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Siempre Tiene el Control",
-        "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
       },
       "artists": [
         {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 285000,
-      "name": "No Me Digas Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv"
+      "duration_ms": 263732,
+      "name": "La Ultima Palabra",
+      "url": "https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -915,18 +915,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
+        "name": "Dios Siempre Tiene el Control",
+        "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
         }
       ],
-      "duration_ms": 263732,
-      "name": "La Ultima Palabra",
-      "url": "https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw"
+      "duration_ms": 285000,
+      "name": "No Me Digas Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -979,6 +979,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "En paz",
+        "url": "https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "En paz",
+      "url": "https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "En paz",
-        "url": "https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "En paz",
-      "url": "https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Motivos Para Amarte",
-        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 323240,
-      "name": "Pedir Perdon",
-      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
+      "duration_ms": 234057,
+      "name": "Parece un Sueno",
+      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
     },
     {
       "added_at": "2020-11-24 13:23:38",

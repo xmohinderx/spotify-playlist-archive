@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,504 likes - 110 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,623 likes - 110 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 14 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
 | 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
 | 16 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 |
-| 17 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 |
-| 18 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
+| 17 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
+| 18 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 |
 | 19 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 20 | [Sister](https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 2:13 |
 | 21 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 70 | [Brassy Sun](https://open.spotify.com/track/4p8xeejJP9NV3wEMCvuBUr) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Brassy Sun](https://open.spotify.com/album/6iUS4KSI1hhG8YxP72ZBld) | 3:36 |
 | 71 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 72 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 |
-| 73 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
-| 74 | [We Will Run](https://open.spotify.com/track/2HbgS9zVXD1Aix8MYVNqix) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/5Zw4c2g8fmJipfghOr9tBU) | 3:43 |
+| 73 | [We Will Run](https://open.spotify.com/track/2HbgS9zVXD1Aix8MYVNqix) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/5Zw4c2g8fmJipfghOr9tBU) | 3:43 |
+| 74 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 75 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
 | 76 | [Clarence Difference](https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Clarence Difference](https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI) | 3:57 |
 | 77 | [The Seer's Tower](https://open.spotify.com/track/4tcxg3xWf4y0V6mTt1VSFo) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:53 |
@@ -99,10 +99,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 89 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 |
 | 90 | [Dark Clouds](https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Dark Clouds](https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8) | 3:30 |
 | 91 | [Scenescof](https://open.spotify.com/track/3ZY8cSF7Xy6BDZo8GpQfv2) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Scenescof](https://open.spotify.com/album/3rkipOsGRgmHfcxydgwlAr) | 2:36 |
-| 92 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
-| 93 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
+| 92 | [Comply](https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP) | [Llynks](https://open.spotify.com/artist/6hZmTXUiBvYnUAEKtWUom8) | [Comply](https://open.spotify.com/album/0VcMzAIpzRzAbWeEMwQB8I) | 3:26 |
+| 93 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 94 | [Out](https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance Of Rain](https://open.spotify.com/album/0ItFk3ohAXF6hiGMHEaUl0) | 1:29 |
-| 95 | [Comply](https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP) | [Llynks](https://open.spotify.com/artist/6hZmTXUiBvYnUAEKtWUom8) | [Comply](https://open.spotify.com/album/0VcMzAIpzRzAbWeEMwQB8I) | 3:26 |
+| 95 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
 | 96 | [Half\-Light \(feat\. Kelly Zutrau\) \- Instupendo Remix](https://open.spotify.com/track/47Muud0OYLe0a5B2LiE6nR) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Kelly Zutrau](https://open.spotify.com/artist/2gaJCrcUIWj6bQyiszAAdY), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Half\-Light Remixes: EP1](https://open.spotify.com/album/66VEN2zYHfOvggPZPZlyUB) | 3:34 |
 | 97 | [Meadow Song](https://open.spotify.com/track/1XDGbnepd3c3kqYsy6E0fx) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:56 |
 | 98 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 100 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 101 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 |
 | 102 | [Flume](https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 3:42 |
-| 103 | [X\-Ray](https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Savage Hills Ballroom](https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk) | 2:42 |
-| 104 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
+| 103 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
+| 104 | [X\-Ray](https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Savage Hills Ballroom](https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk) | 2:42 |
 | 105 | [Your Love Is An Island](https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Wild Alee \(Deluxe Edition\)](https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF) | 3:56 |
 | 106 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 |
 | 107 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 |
 | 110 | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/track/2hu4tx7VeoED1HN6Lo2ods) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/album/7CvKDSfsSZvV3LvvRnlSLK) | 4:06 |
 
-Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMDI2Y2JiYmFkOGEyNGUwZWIwNmMzODM2OTRmMDM4NTQz`
+Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMDljMjNiNzYyNWMzZjU1Y2EwYjA3YWMxN2JjZDhmOTc1`

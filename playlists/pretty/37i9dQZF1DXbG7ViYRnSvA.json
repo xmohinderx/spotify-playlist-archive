@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 5968,
+  "num_followers": 5989,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDI5YTIxMDc2NzY4ODg1MjUyYjJiNmU1ZGZlNmJlYzZk",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQ1YzFmMmZiMWJiMTE3MjM1MDQ3MDUyOThiMDYyZjI5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Complex Simplicity: 15th Anniversary Edition",
         "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 252973,
       "name": "You'll Never Find (a Better Woman)",
       "url": "https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
     },
     {
       "added_at": "2022-10-01 16:00:00",

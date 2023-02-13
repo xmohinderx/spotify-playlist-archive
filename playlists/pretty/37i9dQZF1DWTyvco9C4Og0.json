@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 859138,
+  "num_followers": 859457,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMGUyZmYzMjNlOGUyZjE5OTE2NDM1Y2E5MDU4M2YwY2E5",
+  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMGFhZGIzYTgwMDNlMTM3ZDYxMjJiNGMzZGZhYThiZTg1",
   "tracks": [
     {
       "added_at": "2023-01-06 06:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 238022,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 157468,
       "name": "Perd\u00ed la Pose",
       "url": "https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
     },
     {
-      "added_at": "2022-05-06 05:00:00",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
-    },
-    {
       "added_at": "2022-01-25 16:44:28",
       "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
@@ -939,6 +923,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "added_at": "2022-05-06 05:00:00",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "Viejos Amigos",
+        "url": "https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "En El Ultimo Trago",
+      "url": "https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 245696,
       "name": "Mi Venganza (La Desalmada) - M\u00fasica Original de la Telenovela La Desalmada",
       "url": "https://open.spotify.com/track/50aKalW8H2xUW5hpFdwrqg"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Viejos Amigos",
-        "url": "https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "En El Ultimo Trago",
-      "url": "https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt"
     },
     {
       "added_at": "2022-07-05 16:47:14",

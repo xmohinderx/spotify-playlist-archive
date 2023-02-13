@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,860 likes - 55 songs - 2 hr 50 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,854 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 54 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 |
 | 55 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 
-Snapshot ID: `NDUwOCwwNjk4YTc2MTg1ZjAxODAyMzkyZWQwM2Y5ZTdkODI2Y2M5ZWIwMGRh`
+Snapshot ID: `NDUzOCw4ZGU0NWFlYjc4N2Q3ODIzMGVjMjMzZTQ1ZmNlYzVlM2QyMWU4YTAz`

@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden",
-  "num_followers": 2426856,
+  "num_followers": 2427477,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMDBjODc5MzVmM2IwOWMwZTVmZWFlNGE1MWZiMGFhYzRh",
+  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMGFmNmY1YWE1YWEwNGY3YTQwOTc2ODRjYzZlMDAwYjIy",
   "tracks": [
     {
       "added_at": "2022-12-01 16:34:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Rainbow in the Dark",
-      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
-    },
-    {
-      "added_at": "2022-12-01 16:34:32",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 102080,
       "name": "Eruption - 2015 Remaster",
       "url": "https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV"
+    },
+    {
+      "added_at": "2022-12-01 16:34:32",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Rainbow in the Dark",
+      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "You Can't Stop Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "The Kids Are Back",
-      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
-    },
-    {
-      "added_at": "2022-12-01 16:34:32",
-      "album": {
         "name": "Mechanical Resonance",
         "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 318226,
       "name": "Modern Day Cowboy",
       "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
+    },
+    {
+      "added_at": "2022-12-01 16:34:32",
+      "album": {
+        "name": "You Can't Stop Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "The Kids Are Back",
+      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
     },
     {
       "added_at": "2022-12-01 16:34:32",

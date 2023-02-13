@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,145 likes - 103 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,172 likes - 103 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 131724,
+  "num_followers": 131787,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDJjYWYwMzY3M2JlMjFhMWU0MjRiNmMwMTNlZTMyMmZk",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDNlYjBjOWVmNzEwNmZlY2IwZGM2ODM5YWRkMmFiOTll",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
-      },
-      "artists": [
-        {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Eno Nothing",
-      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 360946,
       "name": "Juniper Arms",
       "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Eno Nothing",
+      "url": "https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA"
     },
     {
       "added_at": "2022-07-22 04:00:00",

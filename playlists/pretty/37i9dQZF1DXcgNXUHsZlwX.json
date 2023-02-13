@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 105774,
+  "num_followers": 105810,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA5MjM5NSwwMDAwMDAwMDhkYjVjYzNkYTFjYzQ1NTVhZTQ2MWM5YmFmZmRmNTMz",
+  "snapshot_id": "MTY3NjA5MjM5NSwwMDAwMDAwMDNhNjQyNzJlMmM1NTM0ZDNhZTFlMmRhMDc1NjQ5NmUy",
   "tracks": [
     {
       "added_at": "2023-02-11 05:13:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 227446,
       "name": "Le triomphe d'une perruche",
       "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -791,6 +791,38 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Closely",
+      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
         "name": "La fum\u00e9e des bougies",
         "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Closely",
-      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -919,18 +919,22 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 281131,
-      "name": "Ton vieux nom",
-      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
+      "duration_ms": 251186,
+      "name": "M\u00eame les loups versent des larmes de joie",
+      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
       "artists": [
         {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 251186,
-      "name": "M\u00eame les loups versent des larmes de joie",
-      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
+      "duration_ms": 281131,
+      "name": "Ton vieux nom",
+      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -999,6 +999,22 @@
       "duration_ms": 430506,
       "name": "Transatlantic Flight - Live at Roy Thomson Hall",
       "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "J'aurai les cheveux longs",
-      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+      "duration_ms": 235800,
+      "name": "J'aurai les cheveux longs",
+      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1147,6 +1147,38 @@
       "duration_ms": 257838,
       "name": "Pleure pas pour moi",
       "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1183,50 +1215,18 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
         }
       ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
-        "name": "1000 Times",
-        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
-      },
-      "artists": [
-        {
-          "name": "Met\u00f2",
-          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "1000 Times",
-      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+        "name": "1000 Times",
+        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
       },
       "artists": [
         {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+          "name": "Met\u00f2",
+          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
         }
       ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+      "duration_ms": 237561,
+      "name": "1000 Times",
+      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 207338,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2023-02-11 05:13:15",
+      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
-    },
-    {
-      "added_at": "2023-02-11 05:13:15",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "J'esp\u00e8re",
-        "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
+        "name": "Hiboux",
+        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
         }
       ],
-      "duration_ms": 150453,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
+      "duration_ms": 199693,
+      "name": "Girouette",
+      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
     },
     {
       "added_at": "2023-02-11 05:13:15",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-02-11 05:13:15",
       "album": {
-        "name": "Hiboux",
-        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
+        "name": "J'esp\u00e8re",
+        "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
       },
       "artists": [
         {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Girouette",
-      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
+      "duration_ms": 150453,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
     },
     {
       "added_at": "2023-02-11 05:13:15",

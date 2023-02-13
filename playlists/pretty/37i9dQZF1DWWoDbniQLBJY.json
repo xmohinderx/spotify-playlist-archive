@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2015324,
+  "num_followers": 2015319,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDE4MDQ4NzQ4YWJiNGZhMjU2ZmQ3MDdmNTQ1NjhjZGFi",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGQ2MWM3NDE3OGVjY2E5OGUwNjlkYmExZjc2N2U0OTlm",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Chiste",
+        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Chiste",
+      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "NUEVE",
         "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Chiste",
-        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Chiste",
-      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Tiempo Para Perder",
         "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 220862,
       "name": "Tiempo Para Perder",
       "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Te quiero much\u00edsimo",
+        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
+      },
+      "artists": [
+        {
+          "name": "Alex Granero",
+          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
+        }
+      ],
+      "duration_ms": 240189,
+      "name": "Te quiero much\u00edsimo",
+      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 198213,
       "name": "Souvenir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Te quiero much\u00edsimo",
-        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
-      },
-      "artists": [
-        {
-          "name": "Alex Granero",
-          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
-        }
-      ],
-      "duration_ms": 240189,
-      "name": "Te quiero much\u00edsimo",
-      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "el buf\u00f3n",
+        "url": "https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 177807,
+      "name": "el buf\u00f3n",
+      "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "el buf\u00f3n",
-        "url": "https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 177807,
-      "name": "el buf\u00f3n",
-      "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Am\u00e1",
-        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 176256,
-      "name": "Am\u00e1",
-      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 215332,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Am\u00e1",
+        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 176256,
+      "name": "Am\u00e1",
+      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 212773,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Hasta La Ra\u00edz",
-        "url": "https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT"
-      },
-      "artists": [
-        {
-          "name": "Marcol",
-          "url": "https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Hasta La Raiz",
-      "url": "https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Hasta La Ra\u00edz",
+        "url": "https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT"
+      },
+      "artists": [
+        {
+          "name": "Marcol",
+          "url": "https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Hasta La Raiz",
+      "url": "https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",

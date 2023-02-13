@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Manu Gavassi, Liniker",
-  "num_followers": 416783,
+  "num_followers": 416807,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNzA1NSwwMDAwMDAwMGMwYzFlYjUyMmEyYzhiOTRlNWMzODg0MzNkYjJiY2Y3",
+  "snapshot_id": "MTY3NjAzNzA1NSwwMDAwMDAwMDI5OTEzYWE5ZmFjOThhM2ZmMjYwNGU4N2JiNTRhMTBj",
   "tracks": [
     {
       "added_at": "2023-02-10 13:50:55",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Amor Sem Pausa",
-        "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
-      },
-      "artists": [
-        {
-          "name": "Luiza Possi",
-          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Amor Sem Pausa",
-      "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 194315,
       "name": "Horizonte",
       "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Amor Sem Pausa",
+        "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Amor Sem Pausa",
+      "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
+        "name": "cedo pra dizer",
+        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "cedo pra dizer",
+      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "cedo pra dizer",
-        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
+        "name": "REALVERSO: Lado A",
+        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 186809,
-      "name": "cedo pra dizer",
-      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+      "duration_ms": 189781,
+      "name": "VER\u00c3O DOS MEUS SONHOS",
+      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "INTENSO",
         "url": "https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 188235,
       "name": "Louco de Amor",
       "url": "https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
+        "name": "ODEIO GENTE CHATA",
+        "url": "https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Julia Joia",
+          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
         }
       ],
-      "duration_ms": 242696,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
+      "duration_ms": 130104,
+      "name": "ODEIO GENTE CHATA",
+      "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1039,6 +1055,22 @@
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 242696,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1063,38 +1095,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
-        "name": "ODEIO GENTE CHATA",
-        "url": "https://open.spotify.com/album/5pn5YgQZRFjTkHeK9zyrbr"
-      },
-      "artists": [
-        {
-          "name": "Julia Joia",
-          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
-        }
-      ],
-      "duration_ms": 130104,
-      "name": "ODEIO GENTE CHATA",
-      "url": "https://open.spotify.com/track/3F2Q5uwDQ3qjNZB7a10rn6"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "tchau, baby!",
         "url": "https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 195086,
       "name": "tchau, baby!",
       "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "REALVERSO: Lado A",
-        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "VER\u00c3O DOS MEUS SONHOS",
-      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Clara x Sofia x Moons",
         "url": "https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed"
       },
@@ -1251,30 +1251,6 @@
       "duration_ms": 304341,
       "name": "fala (t\u00f4 te querendo)",
       "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
-        "name": "Prova De Amor",
-        "url": "https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 185629,
-      "name": "Prova De Amor",
-      "url": "https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1311,6 +1287,30 @@
       "duration_ms": 154611,
       "name": "Mais de Mim",
       "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Prova De Amor",
+        "url": "https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Prova De Amor",
+      "url": "https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj"
     },
     {
       "added_at": "2023-02-10 13:50:55",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-10 13:50:55",
       "album": {
-        "name": "Se S\u00easse",
-        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
-      },
-      "artists": [
-        {
-          "name": "Gabi Shima",
-          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
-        }
-      ],
-      "duration_ms": 171752,
-      "name": "Se S\u00easse",
-      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
-    },
-    {
-      "added_at": "2023-02-10 13:50:55",
-      "album": {
         "name": "Lance ou Romance",
         "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 162857,
       "name": "Lance ou Romance",
       "url": "https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8"
+    },
+    {
+      "added_at": "2023-02-10 13:50:55",
+      "album": {
+        "name": "Se S\u00easse",
+        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
+      },
+      "artists": [
+        {
+          "name": "Gabi Shima",
+          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
+        }
+      ],
+      "duration_ms": 171752,
+      "name": "Se S\u00easse",
+      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
     },
     {
       "added_at": "2023-02-10 13:50:55",

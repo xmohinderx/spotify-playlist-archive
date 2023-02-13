@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 183110,
+  "num_followers": 183105,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMGYxMjM4OTUxMzY4YmQ0MWNiNTJkNzEwMDgyOTgzYTFk",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMGE0YzFjZGZkZDIwNmVmYTdmOTNlMzNjNDM4NjY3OTZh",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
     },
     {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
       "added_at": "2021-09-24 18:51:29",
       "album": {
         "name": "Chaise Longue",
@@ -203,6 +187,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -287,26 +287,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Wonder Why",
-        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 228347,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -339,18 +319,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
+      "duration_ms": 228347,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
     },
     {
       "added_at": "2021-09-24 18:51:29",
@@ -371,18 +355,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
       },
       "artists": [
         {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -403,6 +387,22 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 275280,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Tethered, Wrapped Around",
+      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "cold water",
         "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 195954,
-      "name": "Tethered, Wrapped Around",
-      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Oh GOD",
-      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 242239,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Oh GOD",
+      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Undertones",
         "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 170306,
       "name": "Seven Nights",
       "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "How Can I Make It Ok?",
-      "url": "https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Truth or Consequences",
-        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 202003,
-      "name": "Southwark",
-      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
+      "duration_ms": 287440,
+      "name": "How Can I Make It Ok?",
+      "url": "https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Beaches on the Thames",
-        "url": "https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Carton",
-          "url": "https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Beaches on the Thames",
-      "url": "https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Goodbye Blue",
         "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 241026,
       "name": "Goodbye Blue",
       "url": "https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Beaches on the Thames",
+        "url": "https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Carton",
+          "url": "https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Beaches on the Thames",
+      "url": "https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Goodnights & Goodbyes",
-        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
-      },
-      "artists": [
-        {
-          "name": "Qhairo",
-          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Goodnights & Goodbyes",
-      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Andy",
         "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 212626,
       "name": "Party Fear",
       "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Goodnights & Goodbyes",
+        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
+      },
+      "artists": [
+        {
+          "name": "Qhairo",
+          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Goodnights & Goodbyes",
+      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
     },
     {
       "added_at": "2021-08-12 14:57:38",

@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146577,
+  "num_followers": 146586,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQ2MTJmN2Q0NGE5MjY1M2VhYzg4N2NhYTViZDI4NThh",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVmZjAxYzViMjQ5ZjM1Y2M5Y2YyY2ZjNGJiNzY2OGY0",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "The Bubba Mathis EP",
         "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 211888,
       "name": "Put in Work",
       "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "American White Trash",
         "url": "https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 262760,
       "name": "We All Country (feat. Colt Ford, Sarah Ross & Charlie Farley)",
       "url": "https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
-      },
-      "artists": [
-        {
-          "name": "J. Hartley",
-          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
-        }
-      ],
-      "duration_ms": 158685,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Dirt Road",
         "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 165041,
       "name": "Dirt Road",
       "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
+      },
+      "artists": [
+        {
+          "name": "J. Hartley",
+          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
+        }
+      ],
+      "duration_ms": 158685,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Country or Not",
-        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
-      },
-      "artists": [
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "DJ Cliffy D",
-          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "Country or Not",
-      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
         "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 210305,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
       "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Country or Not",
+        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "DJ Cliffy D",
+          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Country or Not",
+      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
     },
     {
       "added_at": "2023-01-06 05:00:00",

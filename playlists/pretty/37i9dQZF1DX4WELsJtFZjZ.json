@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 618217,
+  "num_followers": 618886,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwMTIwMCwwMDAwMDAwMDNiNDE2NmQ5N2ZmYjFiODczYzliNWIwMjI1ZTZmYjE4",
+  "snapshot_id": "MTY3NDYwMTIwMCwwMDAwMDAwMDdmZWMxOWNlZmRjMTBiNzRiYzRiZWUzOTBkYTdkNTll",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 443773,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 443773,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 210733,
       "name": "A Groovy Kind of Love",
       "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Alive And Kicking",
-      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "New Edition",
-        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 239160,
-      "name": "Mr. Telephone Man",
-      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Kissing To Be Clever",
         "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "New Edition",
+        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Mr. Telephone Man",
+      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 236306,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1763,6 +1747,22 @@
       "duration_ms": 254476,
       "name": "These Dreams",
       "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 284903,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Ammonia Avenue (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0RuvKbx3Zwa1LDkL9uEuTX"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Don't Answer Me",
-      "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "I've Never Been To Me",
         "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 234773,
       "name": "I've Never Been To Me",
       "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Ammonia Avenue (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0RuvKbx3Zwa1LDkL9uEuTX"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Don't Answer Me",
+      "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Secret Of Association",
-        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 324346,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Black & White (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 231960,
       "name": "Slow Hand",
       "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Secret Of Association",
+        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 324346,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "I'll Be Loving You (Forever)",
-      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 245733,
       "name": "Just Like Jesse James",
       "url": "https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "I'll Be Loving You (Forever)",
+      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2447,22 +2447,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Stop!",
-        "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Sam Brown",
-          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
-          "name": "Pete Brown",
-          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 295906,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
+      "duration_ms": 268293,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
     }
   ],
   "unique_name": "Soft 80s",

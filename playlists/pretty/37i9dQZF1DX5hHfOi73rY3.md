@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,274 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,419 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 9 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 |
 | 10 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
 | 11 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
-| 12 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
-| 13 | [Need U \(100%\) \(feat\. A\*M\*E\) \- Radio Edit](https://open.spotify.com/track/5zdkUzguZYAfBH9fnWn3Zl) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \(feat\. A\*M\*E\) \[Remixes\]](https://open.spotify.com/album/3kiROSu1UpNbBPlewWu3f6) | 2:54 |
+| 12 | [Need U \(100%\) \(feat\. A\*M\*E\) \- Radio Edit](https://open.spotify.com/track/5zdkUzguZYAfBH9fnWn3Zl) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \(feat\. A\*M\*E\) \[Remixes\]](https://open.spotify.com/album/3kiROSu1UpNbBPlewWu3f6) | 2:54 |
+| 13 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
 | 14 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 |
 | 15 | [Rinse & Repeat](https://open.spotify.com/track/5oYYYDhyPFPXjAn4TzymOC) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat](https://open.spotify.com/album/0mjQLxpw5AdIxWI4Jqpenn) | 2:32 |
 | 16 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 19 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
 | 20 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 21 | [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 |
-| 22 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
-| 23 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
+| 22 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
+| 23 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
 | 24 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 |
 | 25 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
 | 26 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 |
 | 50 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 |
 
-Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMDBiZDNlYmE4ZDg3Nzk3ZTIwOTI4YTU3MWE4NjQ1NGVm`
+Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGE5ZDBkYjg0NjI4MjVlMGJjOTM3ZTFlOTk3NDY4NDY1`

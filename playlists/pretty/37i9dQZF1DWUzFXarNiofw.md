@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,303 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,652 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 9 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 |
 | 10 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 |
 | 11 | [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 |
-| 12 | [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
+| 12 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 13 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
 | 14 | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/album/5SP4C1eYeOVwLxqK2sxkW7) | 3:08 |
 | 15 | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp) | 2:42 |

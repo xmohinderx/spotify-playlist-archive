@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/49Abr1dsGGSS3yQpieZm2p"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136137,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5sYYFdeRxteDdFpyeJD7jW"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 148297,
       "name": "Onjo",
       "url": "https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn"

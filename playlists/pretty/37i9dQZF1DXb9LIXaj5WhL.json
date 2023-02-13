@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2286781,
+  "num_followers": 2287043,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMDc0MjI2NDY4MzZkZTEwYTg0YzhkNTg3YWVhZjY5NzVl",
+  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMGI3NmJlZDNiMmZlM2MxNWUyY2Q0MmU3NDg1MGI1MzA1",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 272920,
-      "name": "Lilac Wine",
-      "url": "https://open.spotify.com/track/1StXVL5gClph4z4XzanYko"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "The Globe Sessions",
         "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 234133,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/0273i5ysrlovK8rr0KJfQn"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/1StXVL5gClph4z4XzanYko"
     },
     {
       "added_at": "2020-11-18 19:14:53",

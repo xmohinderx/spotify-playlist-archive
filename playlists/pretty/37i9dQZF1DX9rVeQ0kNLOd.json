@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 13481,
+  "num_followers": 13509,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1Njg0OSwwMDAwMDAwMGEwYzg5ZjkxNTAxNDZjM2Q4MmNmYzExYjQ4OTM5ZDhh",
+  "snapshot_id": "MTY3NTk1Njg0OSwwMDAwMDAwMGJhZjgxNmRkMjRkMWJiODg4OGQzZDNmNDFkZDZjM2My",
   "tracks": [
     {
       "added_at": "2023-02-09 15:34:09",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
+        "name": "Have a nice day",
+        "url": "https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l"
       },
       "artists": [
         {
-          "name": "sloppy dim",
-          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 147370,
-      "name": "minority",
-      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
+      "duration_ms": 175693,
+      "name": "Have a nice day",
+      "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
     },
     {
       "added_at": "2023-02-09 15:34:09",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "Have a nice day",
-        "url": "https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Have a nice day",
-      "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
+      "duration_ms": 147370,
+      "name": "minority",
+      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
     },
     {
       "added_at": "2023-02-09 15:34:09",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "TIME LEAP",
-        "url": "https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 232766,
-      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo"
-    },
-    {
-      "added_at": "2023-02-09 15:34:09",
-      "album": {
         "name": "\u9003\u907f\u884c",
         "url": "https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"
+    },
+    {
+      "added_at": "2023-02-09 15:34:09",
+      "album": {
+        "name": "TIME LEAP",
+        "url": "https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 232766,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo"
     },
     {
       "added_at": "2023-02-09 15:34:09",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 233974,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-02-09 15:34:09",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
       },
       "artists": [
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 233974,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
     },
     {
       "added_at": "2023-02-09 15:34:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-09 15:34:09",
       "album": {
-        "name": "Grow Old",
-        "url": "https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb"
-      },
-      "artists": [
-        {
-          "name": "LambC",
-          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Grow Old",
-      "url": "https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf"
-    },
-    {
-      "added_at": "2023-02-09 15:34:09",
-      "album": {
         "name": "\u706f\u706b",
         "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 219861,
       "name": "\u706f\u706b",
       "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2023-02-09 15:34:09",
+      "album": {
+        "name": "Grow Old",
+        "url": "https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Grow Old",
+      "url": "https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf"
     },
     {
       "added_at": "2023-02-09 15:34:09",

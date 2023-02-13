@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-490 songs - 1 day 6 hr 15 min
+492 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 | 2021-12-15 | 2022-12-06 |
 | [A Drop in the Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 | 2021-12-15 |  |
 | [A Little Too Much](https://open.spotify.com/track/06DaCxeg3IUMcxDkKEyQKf) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:07 | 2021-12-15 | 2022-07-29 |
-| [A Little Too Much](https://open.spotify.com/track/1T7AiFL9ruKKwlONN35Vh0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:07 | 2022-07-01 |  |
+| [A Little Too Much](https://open.spotify.com/track/1T7AiFL9ruKKwlONN35Vh0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:07 | 2022-07-01 | 2023-02-13 |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2022-12-23 |  |
 | [Afterthought](https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:14 | 2022-07-08 |  |
 | [Alice](https://open.spotify.com/track/1O6eUFa5dwkIw27Yx5kIVa) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Alice](https://open.spotify.com/album/4QqZKAs4tWUZVfpp5eAoYE) | 2:39 | 2022-02-14 | 2022-04-14 |
@@ -45,6 +45,7 @@
 | [Before You Say Goodbye](https://open.spotify.com/track/3iXwfg4pR7ZMiWh8qzHxZK) | [Katey Brooks](https://open.spotify.com/artist/0OobWT1O24A3SpQcKYjgYP) | [Before You Say Goodbye](https://open.spotify.com/album/5U63zL59cdQgOzfoElLMss) | 3:22 | 2022-03-25 | 2022-04-21 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 | 2022-02-07 | 2022-04-21 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2022-07-01 |  |
+| [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 |  |
 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 | 2022-02-07 |  |
 | [better off](https://open.spotify.com/track/5NlV5HVIfgk5eHxvAGGTfy) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [better off](https://open.spotify.com/album/22b1Y01K22BkoBUq2zO6WY) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-07-01 |  |
@@ -489,6 +490,7 @@
 | [You Are Losing Me](https://open.spotify.com/track/2RZG69vGcBkMGZQf7JiO3v) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [You Are Losing Me](https://open.spotify.com/album/6oZI1hY0Xm2CYBA2Wvs2GA) | 3:27 | 2022-01-05 | 2022-01-17 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2021-12-15 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-15 |  |
+| [You Don't Call Me Anymore](https://open.spotify.com/track/1O2HBnIhhNJx4xRe3oDFZF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [You Don't Call Me Anymore](https://open.spotify.com/album/5z3JEwnU21eNIpxyuWhkgV) | 2:57 | 2023-02-10 |  |
 | [You Don't Know](https://open.spotify.com/track/2BlM00LsKY0pFKEChrQa9Y) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/7sj87mBaofDr9oJ0C22yFg) | 4:20 | 2021-12-15 | 2022-07-29 |
 | [You Don't Know](https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 4:20 | 2022-07-01 | 2023-02-07 |
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-12-15 |  |
@@ -496,7 +498,7 @@
 | [You There](https://open.spotify.com/track/3oCd8HkxnzvAWHxaZi3jIB) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Aquilo](https://open.spotify.com/album/1zfixtwqwXpbH5pF8GfpnH) | 4:13 | 2022-07-01 | 2022-11-14 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2021-12-15 |  |
 | [Your Shirt](https://open.spotify.com/track/4ulrQQu8H7ZsW9PVqjYSza) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Snow In October EP](https://open.spotify.com/album/2rfQlUxHwQgeYDpCY0Ytrz) | 3:50 | 2021-12-15 | 2022-07-29 |
-| [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2022-07-01 |  |
+| [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2022-07-01 | 2023-02-13 |
 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 | 2021-12-15 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

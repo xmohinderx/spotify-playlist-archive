@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 124136,
+  "num_followers": 124167,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzOTU0NywwMDAwMDAwMGZlNjI0OTdkM2I5MzkzNTFmNzdiMzBlZDgzZDQ1MTUx",
+  "snapshot_id": "MTY3NjAzOTU0NywwMDAwMDAwMDdiZmRiOGQ5NWU4Y2EyYzQxZWFhOTM4NDdhMWViMjNk",
   "tracks": [
     {
       "added_at": "2023-02-09 09:04:42",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
-        "name": "The Things I Can't Take With Me",
-        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 74303,
-      "name": "you up?",
-      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
+        "name": "The Things I Can't Take With Me",
+        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 74303,
+      "name": "you up?",
+      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
     },
     {
       "added_at": "2023-02-09 09:04:42",
@@ -991,6 +991,54 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
       },
@@ -1023,22 +1071,6 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1051,38 +1083,6 @@
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K"
-      },
-      "artists": [
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp"
     },
     {
       "added_at": "2023-02-09 09:04:42",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Wild Love",
-      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
     },
     {
       "added_at": "2023-02-09 09:04:42",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
-        "name": "isaac gracie (extended edition)",
-        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
       "artists": [
         {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-02-09 09:04:42",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+        "name": "isaac gracie (extended edition)",
+        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
         }
       ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2023-02-09 09:04:42",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-02-09 09:04:42",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "The Vow",
-      "url": "https://open.spotify.com/track/1GdsahYYRk5UsyJEuazwcB"
-    },
-    {
-      "added_at": "2023-02-09 09:04:42",
-      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 194809,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
+    },
+    {
+      "added_at": "2023-02-09 09:04:42",
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/1GdsahYYRk5UsyJEuazwcB"
     },
     {
       "added_at": "2023-02-09 09:04:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,650 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,659 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 16 | [Got The Bottle Up And Gone](https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Sonny Boy Williamson Vol\. 1 \(1937 \- 1938\)](https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L) | 2:33 |
 | 17 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
 | 18 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
-| 19 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
+| 19 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
 | 20 | [Bottle It Up and Go](https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Too Cool to Move](https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx) | 3:02 |
 | 21 | [Blues On The Moon](https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Louisiana Legend](https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa) | 2:56 |
 | 22 | [The Bottle Wins Again](https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:38 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 26 | [The Wine Talkin'](https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:49 |
 | 27 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
 | 28 | [One Monkey Don't Stop The Show](https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Sonny Is King](https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd) | 3:09 |
-| 29 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
+| 29 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
 | 30 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
 | 31 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 32 | [Looking For A Woman](https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Groovin' In Greaseland](https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
 | 50 | [Levee Camp Moan](https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Best of Blues Vol\. 8: Forrest City Joe \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/75TS3pJaEN702DolImKo8K) | 5:19 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDE1MmJmODEwZWU4M2ZiNmU1NjFhNWI0NTdhNjNhZWUz`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDY0ZGE1ZWM0MmE5MWJjMmMzNGE2ZWNhMGFiNWQ5YmE0`

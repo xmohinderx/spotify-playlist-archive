@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > The best season of the year, wherever you are! Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,851,787 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,851,734 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 91 | [Más De La Una](https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Más De La Una](https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9) | 3:56 |
 | 92 | [Qué Rico Fuera](https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Qué Rico Fuera](https://open.spotify.com/album/2Xk9iyx7nSm6evrOKCAypb) | 3:38 |
 | 93 | [Un beso de improviso](https://open.spotify.com/track/0NSLB3GCpO9SU69XH8jjiF) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Un beso de improviso](https://open.spotify.com/album/53V1gf1MCqS2qog22jKe9P) | 2:51 |
-| 94 | [Bailamos](https://open.spotify.com/track/0qY5r0ghjNwFos5BObMTbn) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Bailamos](https://open.spotify.com/album/3YZcrey1I3j1ivwxpYesNV) | 2:53 |
-| 95 | [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 |
+| 94 | [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 |
+| 95 | [Bailamos](https://open.spotify.com/track/0qY5r0ghjNwFos5BObMTbn) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Bailamos](https://open.spotify.com/album/3YZcrey1I3j1ivwxpYesNV) | 2:53 |
 | 96 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
 | 97 | [Despeinada](https://open.spotify.com/track/71cbRI2v81hE6TkKSQOwik) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Despeinada](https://open.spotify.com/album/0wbDhPbkcJvilPNUHxqk10) | 3:44 |
 | 98 | [Blinding Lights \(with ROSALÍA\) \- Remix](https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Blinding Lights \(Remix\)](https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410) | 3:36 |
-| 99 | [No Me Ama](https://open.spotify.com/track/4DN8e56DFCEXISA8Uqz5Pw) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [No Me Ama](https://open.spotify.com/album/6a4iPTIJDyaMoI2h5OT9fb) | 2:47 |
-| 100 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 |
+| 99 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 |
+| 100 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 |
 
-Snapshot ID: `MTY3NDgwMjg1MSwwMDAwMDAwMDg0NTJlNDA3MWZlNjEzNjE5NGFiNGU1NzMzZTM4NmQ5`
+Snapshot ID: `MTY3NDgwMjg1MSwwMDAwMDAwMDgzM2I5ZTlkNTE5YTExNzY2OWMzMDUxYmUwYTgxYjM1`

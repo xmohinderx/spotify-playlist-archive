@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421328,
+  "num_followers": 421324,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDE0OTJlMDE4MDMyMjcyOTgzNjJlMjUzYjM1ZjE5Mjc4",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDg3ZDgxNzNjNThiYWRhODgyN2YwZTM1ZWFlMTU2NmQ4",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -735,30 +735,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "O \u00daltimo Xote do Ano",
         "url": "https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 192170,
       "name": "O \u00daltimo Xote do Ano",
       "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1087,42 +1087,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1139,6 +1103,22 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1163,6 +1143,26 @@
       "duration_ms": 191911,
       "name": "Carta Que N\u00e3o Diz",
       "url": "https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
     },
     {
       "added_at": "2023-02-10 03:00:00",

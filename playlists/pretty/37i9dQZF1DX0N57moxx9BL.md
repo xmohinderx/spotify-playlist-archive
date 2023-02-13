@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,946 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,023 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 39 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 |
 | 40 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
 | 41 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 |
-| 42 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 |
-| 43 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
-| 44 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
-| 45 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
+| 42 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
+| 43 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 |
+| 44 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
+| 45 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
 | 46 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 |
 | 47 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 |
 | 48 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 |
-| 49 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
-| 50 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
-| 51 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
+| 49 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
+| 50 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
+| 51 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
 | 52 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 53 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
 | 54 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 62 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 |
 | 63 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 |
 | 64 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 |
-| 65 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
-| 66 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
+| 65 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
+| 66 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
 | 67 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 |
 | 68 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 |
 | 69 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 |
 | 80 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 
-Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMGU5ZWEwNDI2ZGQyOTBjMjI1YTZiZTVhNjE3NDk4YTY0`
+Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMDcyNGM5MGUxMDI0ZGYxYzY1MTM2NGJhYzZlNjRkMzYw`

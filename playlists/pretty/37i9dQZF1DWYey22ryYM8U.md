@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Romeo Santos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,346 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,483 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 46 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
 | 47 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
 | 48 | [Te Quiero](https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:49 |
-| 49 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 |
+| 49 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
 | 50 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 |
-| 51 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
+| 51 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 |
 | 52 | [Agüita e Coco](https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Agüita e Coco](https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk) | 2:56 |
 | 53 | [Dios Asi Lo Quiso](https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:33 |
 | 54 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 63 | [Imaginarme Sin Ti](https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Imaginarme Sin Ti](https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8) | 3:56 |
 | 64 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 65 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 |
-| 66 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
-| 67 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
+| 66 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
+| 67 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 68 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 |
 | 69 | [Rosalía](https://open.spotify.com/track/2A3tMSilm21mtCTvdrfzjC) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 3:26 |
 | 70 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Cómo Olvidar \- Versión 2021](https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cómo Olvidar \(Versión 2021\)](https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO) | 3:46 |
 | 100 | [Se Le Nota](https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:30 |
 
-Snapshot ID: `MTY3NjAwNTc1MiwwMDAwMDAwMGU5NjBkYTRlYTI3YmNkYzZlOTI0ZDViZjAzNzQ4MTcx`
+Snapshot ID: `MTY3NjAwNTc1MiwwMDAwMDAwMDQwM2M3OTM0NTBhOWUwMTU4NDBmZTcyZDZkYzVlYTQ0`

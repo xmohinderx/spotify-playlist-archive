@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,187 likes - 80 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,345 likes - 80 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 17 | [Blodbylgje](https://open.spotify.com/track/49vfzNh1RARoPNcDDIAGLf) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn) | [Blodbylgje](https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn) | 15:22 |
 | 18 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 |
 | 19 | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/track/1mr1cG8dA5ZiydlaEq8vkH) | [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/album/3DylCZmwC74Trm6Khns2K6) | 3:58 |
-| 20 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
+| 20 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 |
 | 21 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 22 | [Rún](https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant \(Alfar Fagrahvél Edition\)](https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF) | 2:40 |
 | 23 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 79 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 |
 | 80 | [Warriors](https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn) | 3:55 |
 
-Snapshot ID: `MTY2OTkxMjMzOCwwMDAwMDAwMGJiOGExZTAyYWMxMWU0MWRkZjY2NDY0ZTA1NWZkNTNm`
+Snapshot ID: `MTY2OTkxMjMzOCwwMDAwMDAwMGFjYTAxN2RhY2Y4NTVlOWVjZjU2YzE1ZDA1ZWMxMGE4`

@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 64012,
+  "num_followers": 64057,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGZmMWRhZGE1MDNmNzcwZTIyYjMzMDVlYzU1MjRmZTk1",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDU2YWNjOWRkODFiNzYxYTUxMWM2YThmYTJiODg5ZTli",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -359,30 +359,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/20h2sZ6pnjkOhhoHCCBPse"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 95026,
-      "name": "Aida / Act 2: Grand March",
-      "url": "https://open.spotify.com/track/5WvowyrxRXljU7alUgqAuc"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: La forza del destino",
         "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 431133,
       "name": "Verdi: La forza del destino: Overture to Act 1",
       "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/20h2sZ6pnjkOhhoHCCBPse"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 95026,
+      "name": "Aida / Act 2: Grand March",
+      "url": "https://open.spotify.com/track/5WvowyrxRXljU7alUgqAuc"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1984,30 +1984,6 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Rigoletto: Overture (Preludio)",
-      "url": "https://open.spotify.com/track/0gEEu38t46lgUct2JJKmis"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Rigoletto",
-        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
           "name": "Neil Shicoff",
           "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
         },
@@ -2023,6 +1999,30 @@
       "duration_ms": 104800,
       "name": "Rigoletto / Act 1: \"Questa o quella\"",
       "url": "https://open.spotify.com/track/6ZJEK5CsoBhASLnakKEMZk"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Rigoletto",
+        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Rigoletto: Overture (Preludio)",
+      "url": "https://open.spotify.com/track/0gEEu38t46lgUct2JJKmis"
     },
     {
       "added_at": "2022-06-27 14:42:44",

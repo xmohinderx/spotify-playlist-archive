@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,923 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 38 | [Howa El Hop Leaba](https://open.spotify.com/track/300N8LY9pglw5UpeSi658b) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Howa El Hop Leaba Menak We Elaek](https://open.spotify.com/album/1hBWWcKz7Rvt74k5labK74) | 33:32 |
 | 39 | [Mesh Kol Hob](https://open.spotify.com/track/39Cd1S32yKwOXqJskVYtIH) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 4:10 |
 | 40 | [جاني الأسمر](https://open.spotify.com/track/6N9hkmJ5dZAzFoxI8fOvk9) | [عتاب](https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0) | [جاني الأسمر](https://open.spotify.com/album/3WTNvD82pONOGB6bSVAsog) | 6:36 |
-| 41 | [We Betesaal Ya Habebi](https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Ally Taaly](https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN) | 6:29 |
+| 41 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
 | 42 | [Eldonya Rabea](https://open.spotify.com/track/4fP9TNvzYq9I49GDBEezDD) | [Soad Hosny](https://open.spotify.com/artist/7Kql0QwVDPgqF2XUUedCGN) | [Soad Hosny Collection](https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv) | 7:05 |
 | 43 | [Ommy](https://open.spotify.com/track/769zYCzOk8GNIx1YQt539w) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:28 |
 | 44 | [الأسمرانية](https://open.spotify.com/track/0vtQLNnIrctrX3z8OfQxDj) | [ليلى عبدالعزيز](https://open.spotify.com/artist/08LOXQWxcRIrfp4iNfz708) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 1](https://open.spotify.com/album/4mAYSMDwoAmWxE46qKI3Wy) | 6:33 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 46 | [Alby Ala Albak](https://open.spotify.com/track/0ErZruO9ZYYL8MeSdHc9UG) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:50 |
 | 47 | [امتى أنا أشوفك](https://open.spotify.com/track/2s4KXxuxyuRLdhYBshbTVT) | [عتاب](https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0) | [علشانه](https://open.spotify.com/album/5O4vtVmOkjrxifH3Mj1co4) | 6:15 |
 | 48 | [آه يالأسمر](https://open.spotify.com/track/4vsKmbyyWb3XfD2xf9Tcrz) | [صباح جزاذري](https://open.spotify.com/artist/0jlAMoyT04YA4nHi42lE1r) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 2](https://open.spotify.com/album/2PuWGStIuMhn2NWM6RlrhP) | 6:00 |
-| 49 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
+| 49 | [We Betesaal Ya Habebi](https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Ally Taaly](https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN) | 6:29 |
 | 50 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMDBkMzY1Nzg5MjhhNDAxYzJlNzE3N2M3ZjgyZTUyMjNj`
+Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMGZkNDQyZWZlNGQ3N2RiZWI2YjVjMTkwYjkzNjM1Yjlm`

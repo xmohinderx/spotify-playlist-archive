@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 6642,
+  "num_followers": 6653,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDZhODJlZDUzMjE0Y2EwYTE3Y2UwYTA2NzQ0ZTRjNmZh",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDBiODQ1Y2EwM2M5NzQ4YTUxNDNiMTZjODY3MWFkZDVl",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Up Next",
-        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 149363,
-      "name": "West Side",
-      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -419,22 +423,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
+        "name": "Up Next",
+        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
+      "duration_ms": 149363,
+      "name": "West Side",
+      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
       },
@@ -799,26 +783,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "B\u00e2timent",
-        "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
       "artists": [
         {
-          "name": "Yung Duce",
-          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
-        },
-        {
-          "name": "Dix",
-          "url": "https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN"
-        },
-        {
-          "name": "Mouss",
-          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
         }
       ],
-      "duration_ms": 167418,
-      "name": "B\u00e2timent",
-      "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -851,6 +827,30 @@
       "duration_ms": 242362,
       "name": "Occupation Hood",
       "url": "https://open.spotify.com/track/7vVlYQcgt4looKGEhjLCRt"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "B\u00e2timent",
+        "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
+      },
+      "artists": [
+        {
+          "name": "Yung Duce",
+          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
+        },
+        {
+          "name": "Dix",
+          "url": "https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN"
+        },
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "duration_ms": 167418,
+      "name": "B\u00e2timent",
+      "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Les Fr\u00e8res Cueilleurs",
         "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228092,
       "name": "\u00c7a que c'tait",
       "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
-      },
-      "artists": [
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 208140,
-      "name": "La purge",
-      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Temple de la Renomm\u00e9e",
         "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 204988,
       "name": "Pavel Bure",
       "url": "https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "La purge",
+      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "...At Least My Mom Loves Me",
-        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
-      },
-      "artists": [
-        {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
-        }
-      ],
-      "duration_ms": 243721,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+        "name": "...At Least My Mom Loves Me",
+        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
       },
       "artists": [
         {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
         }
       ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
+      "duration_ms": 243721,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Le sens des paroles",
         "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "4:00AM",
-        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
-      },
-      "artists": [
-        {
-          "name": "Kevin Na$h",
-          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "I Roll",
-      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Le set up",
         "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 158660,
       "name": "Univers parall\u00e8le",
       "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "4:00AM",
+        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
+      },
+      "artists": [
+        {
+          "name": "Kevin Na$h",
+          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
+        }
+      ],
+      "duration_ms": 202515,
+      "name": "I Roll",
+      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 212579,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Jungle Music",
         "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 212579,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Petit prince",
-        "url": "https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4"
+        "name": "D\u00e9sol\u00e9 Pour L'Attente",
+        "url": "https://open.spotify.com/album/5dmhIDk1O9n2M1zufAGMqd"
       },
       "artists": [
         {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+          "name": "FREAKEY!",
+          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
         }
       ],
-      "duration_ms": 244088,
-      "name": "Petit prince",
-      "url": "https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091"
+      "duration_ms": 134940,
+      "name": "PERE NOEL",
+      "url": "https://open.spotify.com/track/6Q6GGjCCYlWTHCAiBlRRRw"
     }
   ],
   "unique_name": "Les nouveaux classiques",

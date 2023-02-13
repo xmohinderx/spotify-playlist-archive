@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,972 likes - 79 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,980 likes - 79 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 14 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 |
 | 15 | [Like A Saviour](https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Like A Saviour](https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb) | 3:40 |
 | 16 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 |
-| 17 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 17 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 18 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
 | 19 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 20 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Dave Flow](https://open.spotify.com/track/5ajPDIvcDgbg0THed3G8To) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Dave Flow](https://open.spotify.com/album/4C5NX9Ihp0F1z5HQ7iHR2P) | 3:38 |
 | 79 | [Detty](https://open.spotify.com/track/4Ait68EQ4BdYBDhwNxUuJJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Detty](https://open.spotify.com/album/3EiTw7yDAgcyrmi8QY10NT) | 1:36 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGU5YjcxMjIyNzE3MTU4MzU4YTY3NzNmZjlhNTI1OGZk`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGE1ZDc5YTY3Y2RiYWE0YmE1YjFiMDljYWE1YjBlMDk4`

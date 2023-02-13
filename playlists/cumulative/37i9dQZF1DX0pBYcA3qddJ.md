@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-256 songs - 16 hr 56 min
+257 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Otherwise](https://open.spotify.com/track/4pREdUyxkaupSQsjrefNhk) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Give In!](https://open.spotify.com/album/0FM6rlBK5y9tkGpvRzqKOZ) | 4:03 | 2022-11-08 | 2022-12-02 |
 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 | 2022-10-20 | 2022-12-02 |
 | [Pana\-vision](https://open.spotify.com/track/4FXQibsmo2XbStLEBtmIAd) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:08 | 2022-10-20 | 2022-11-16 |
+| [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-09 |  |
 | [PAVANE POUR UNE INFANTE DEFUNTE](https://open.spotify.com/track/6q0hW1XoEdPXCRCXHqGosw) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [AYA NAGATOMI](https://open.spotify.com/artist/5yP9w1BcV6K0yW51Njt8tv) | [Maurice RAVEL: Gaspard de la Nuit](https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu) | 6:20 | 2022-12-01 |  |
 | [Piano Sonata No\. 28 in A Major, Op\. 101: I\. Etwas lebhaft und mit der innigsten Empfindung\. Allegretto ma non troppo \- Recorded 2021\-2](https://open.spotify.com/track/63tnRKtKA7UFpAm56rCuiP) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonatas Opp\. 101 & 106](https://open.spotify.com/album/3ZV0BCtPGQ5W7gESiXb8wG) | 3:21 | 2022-12-01 |  |
 | [Piano Sonata No\. 28 in A Major, Op\. 101: III\. Langsam und sehnsuchtsvoll\. Adagio ma non troppo, con affetto \- Recorded 2021\-2](https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonata No\. 28 in A Major, Op\. 101: III\. Langsam und sehnsuchtsvoll\. Adagio ma non troppo, con affetto \(Recorded 2021\-2\)](https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34) | 2:20 | 2022-11-10 | 2022-12-15 |
@@ -191,7 +192,7 @@
 | [TayuTau](https://open.spotify.com/track/1f4sDC2GlAfI0swFGal7Le) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 3:23 | 2023-01-24 |  |
 | [TayuTau](https://open.spotify.com/track/4ezT4IBR99ikMI0gTSdcSP) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/521YmNGUdx0vpIOP9CtYAI) | 3:23 | 2023-01-24 | 2023-01-26 |
 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 | 2022-10-20 |  |
-| [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 | 2022-10-20 |  |
+| [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 | 2022-10-20 | 2023-02-13 |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [Cello Bouquet](https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W) | 3:02 | 2022-10-20 | 2022-12-15 |
 | [The moon, The dawn](https://open.spotify.com/track/2DlkC3f5kQDf6oImgAUaRr) | [soejima takuma](https://open.spotify.com/artist/44CDiqPtSg1pkVHZ7TwfD3), [delgir sarin](https://open.spotify.com/artist/0jL3AV0GdDvC6vtXaE1Uqc) | [The moon, The dawn](https://open.spotify.com/album/0RcrfUSIfcG3qyCGawSd03) | 2:25 | 2023-01-24 |  |
 | [The Rip Tide \- BER\-ABQ Version](https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Berlin\-Albuquerque Sessions Vol 3](https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY) | 4:14 | 2022-11-22 | 2023-01-06 |

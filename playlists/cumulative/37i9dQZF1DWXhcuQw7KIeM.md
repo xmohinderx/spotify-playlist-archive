@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-112 songs - 10 hr 19 min
+113 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Floki Appears to Kill Athelstan](https://open.spotify.com/track/5Z0GKdBhTmCsrIkM41DtRW) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings III \(Music from the TV Series\)](https://open.spotify.com/album/75Xg8NYCUQd131qcp1Q8Cd) | 3:11 | 2022-05-13 |  |
 | [Fæcele](https://open.spotify.com/track/36P9S31Td4pdmDd95c9OGe) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Fæcele](https://open.spotify.com/album/5r7j50lSSkS8kFO6CRFJFN) | 3:12 | 2022-05-13 |  |
 | [Grå Hest](https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Grå Hest](https://open.spotify.com/album/2P7bJcPvvLfIizw86vv7AK) | 3:09 | 2022-05-13 |  |
-| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 |  |
+| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 | 2023-02-13 |
+| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 | 2022-12-01 |  |
 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 | 2022-07-08 |  |
 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 | 2022-05-13 | 2022-07-29 |
 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-262 songs - 16 hr 58 min
+263 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Holding On](https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 5:01 | 2022-02-08 | 2023-01-26 |
 | [Hommage](https://open.spotify.com/track/7auTBZlMspqWjyqB1Mj5J9) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [At Home Again, Singing](https://open.spotify.com/album/1Qe9Sg7RkVoFEG3D5Wt9rG) | 3:34 | 2022-11-24 |  |
 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 | 2021-11-19 | 2022-10-08 |
+| [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 |  |
 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 | 2021-11-19 | 2022-12-08 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ) | [Sam Parker](https://open.spotify.com/artist/4FYQFlxTwb3mnj5YJmnZfE), [Priya Marie Chantale](https://open.spotify.com/artist/23Foj0ZZhR6iwQu9mdOCvQ) | [I Can't Make You Love Me](https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq) | 4:16 | 2021-11-19 |  |
 | [I Fall to Pieces](https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [I Fall to Pieces](https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr) | 2:51 | 2021-11-19 |  |
@@ -182,7 +183,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/0bE5p8nLKOyUGKiQZUO0bw) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [My Cherie Amour](https://open.spotify.com/album/4GdXMNeDeA8HES1Lx9Ilht) | 3:16 | 2021-11-19 | 2022-07-29 |
 | [My Cherie Amour](https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 3:16 | 2022-07-14 |  |
 | [My One and Only Love](https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK) | [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [My One and Only Love](https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S) | 4:06 | 2021-11-19 | 2022-11-25 |
-| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 |  |
+| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 | 2023-02-13 |
 | [New Orleans](https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn) | [Elly Hoyt](https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG) | [The Composers' Voice: Celebrating Australian Women Composers](https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y) | 3:19 | 2021-11-19 | 2022-11-25 |
 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 | 2021-11-19 |  |
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 | 2022-11-25 |

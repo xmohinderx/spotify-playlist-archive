@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 1083117,
+  "num_followers": 1083541,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDYwNGE1OGNhMDcxNDI2NWYxMmJkMDBhOGMwZjU5YTQ0",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGYwZGEwYTYwYmQyMjU5Y2NmOWJmZGUzMTQzMmYzOTEw",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Partido En Dos",
-        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 226003,
-      "name": "Partido En Dos",
-      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Partido En Dos",
+        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 226003,
+      "name": "Partido En Dos",
+      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -979,22 +979,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/4DQ1xtgfLCpQ6UFayODTWM"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+      "duration_ms": 227030,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/0W2FM4wRdTXS7ewX1Iw8II"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1011,6 +1011,26 @@
       "duration_ms": 192750,
       "name": "Prefiero Empedarme",
       "url": "https://open.spotify.com/track/0x2DmQvuFXVNHBlPrs4cYC"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/4DQ1xtgfLCpQ6UFayODTWM"
+        "name": "Historias de Mi Vida",
+        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 227030,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/0W2FM4wRdTXS7ewX1Iw8II"
+      "duration_ms": 201857,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1085,22 +1101,6 @@
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Historias de Mi Vida",
-        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
-    },
-    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "El 30 de Febrero",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que Llore, Que Llore",
-      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -1147,26 +1131,6 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-01-16 19:52:16",
-      "album": {
-        "name": "10+10",
-        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        },
-        {
-          "name": "Marco A. Flores",
-          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Soy un Desmadre",
-      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1189,6 +1153,22 @@
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
     },
     {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que Llore, Que Llore",
+      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
       "added_at": "2023-01-20 06:00:00",
       "album": {
         "name": "Jalando la Bandona",
@@ -1207,6 +1187,26 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera - En Vivo",
       "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
+    },
+    {
+      "added_at": "2023-01-16 19:52:16",
+      "album": {
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        },
+        {
+          "name": "Marco A. Flores",
+          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Soy un Desmadre",
+      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
     },
     {
       "added_at": "2023-01-16 19:52:16",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
     },
     {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Sin Miedo Al \u00c9xito (Deluxe)",
-        "url": "https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Modo Inc\u00f3gnito",
-      "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
-    },
-    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
@@ -1361,6 +1345,22 @@
       "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
     },
     {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Sin Miedo Al \u00c9xito (Deluxe)",
+        "url": "https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Modo Inc\u00f3gnito",
+      "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
+    },
+    {
       "added_at": "2023-01-20 06:00:00",
       "album": {
         "name": "Porque Soy Abeja Reina",
@@ -1375,22 +1375,6 @@
       "duration_ms": 158146,
       "name": "Porque Soy Abeja Reina",
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Se Vale Enamorarse",
-        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Se Vale Enamorarse",
-      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "Lo Que No Es Pa' Uno",
         "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
       },
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "Las Edades (En Vivo)",
+        "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171061,
+      "name": "Las Edades (En Vivo)",
+      "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1443,26 +1459,6 @@
       "duration_ms": 180900,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "La Llamada De Mi Ex (En Vivo)",
-        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 218282,
-      "name": "La Llamada De Mi Ex (En Vivo)",
-      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1515,6 +1511,26 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "La Llamada De Mi Ex (En Vivo)",
+        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "La Llamada De Mi Ex (En Vivo)",
+      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "El HT",
         "url": "https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 150056,
       "name": "El HT",
       "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Las Edades (En Vivo)",
-        "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171061,
-      "name": "Las Edades (En Vivo)",
-      "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
     },
     {
       "added_at": "2023-01-06 19:31:33",

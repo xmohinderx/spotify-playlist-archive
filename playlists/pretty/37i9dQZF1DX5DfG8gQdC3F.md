@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Dove Cameron ft\. Khalid, Daniel Caesar, NAV, Lauren Spencer Smith, Karan Aujla ft\. Ikky and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,815 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,860 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,192 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,296 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 12 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 13 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
 | 14 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
-| 15 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
-| 16 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
+| 15 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
+| 16 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 17 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
-| 18 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
-| 19 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
+| 18 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
+| 19 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
 | 20 | [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 |
 | 21 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 22 | [Good Texan](https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 4:21 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 29 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
 | 30 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
 | 31 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
-| 32 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
-| 33 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
+| 32 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
+| 33 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
 | 34 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 35 | [Don't Lose My Number](https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs) | 3:33 |
 | 36 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMDZiOWEzYWYxZjQyNmNlMGY5YzIyNWQwZjg0YTViODdi`
+Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMDVkMmIxNGY2ZGE2YjkyY2U4NTMzMWQ2Yjc0YTJhYTEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,410 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,641 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 19 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 |
 | 20 | [Painkiller](https://open.spotify.com/track/4uOSpJxcpzeNCWXYoXGJM1) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 6:02 |
 | 21 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
-| 22 | [Hallowed Be Thy Name](https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Lovecraft & Witch Hearts](https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at) | 7:10 |
-| 23 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 22 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 23 | [Hallowed Be Thy Name](https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Lovecraft & Witch Hearts](https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at) | 7:10 |
 | 24 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
 | 25 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
 | 26 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 40 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
 | 41 | [No Remorse](https://open.spotify.com/track/6gP7mrmL9EsFS3sMpk3Ig3) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Worm Infested](https://open.spotify.com/album/2Ks12dWnzx1jEYhfAJUlfH) | 6:15 |
 | 42 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
-| 43 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 |
-| 44 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
+| 43 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
+| 44 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 |
 | 45 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 46 | [Enemy](https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Enemy](https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898) | 2:51 |
 | 47 | [Let It Go](https://open.spotify.com/track/0XUBVMTYG5YFdbUstP34EC) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Let It Go](https://open.spotify.com/album/5ACse9gOjTzWMuJQoJjDwR) | 3:11 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 54 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
 | 55 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy) | 4:24 |
 | 56 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
-| 57 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
-| 58 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 |
+| 57 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 |
+| 58 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
 | 59 | [Hunting High and Low](https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Hunting High and Low](https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf) | 4:37 |
 | 60 | [God of Thunder](https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Human \(Deluxe Version\)](https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc) | 4:00 |
 | 61 | [Mein Herz brennt](https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Mein Herz brennt](https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
 | 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDk5N2Y4NTdjYTI2NTVlMmE0ZDEwZWNlZWU3NzNhZWIy`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGY2MzQwOWUxM2RhYmUzNWQ0YzI0MTkxOGY2YTViNTVh`

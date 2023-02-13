@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-216 songs - 13 hr 4 min
+217 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2022-07-08 |  |
 | [Gift](https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 4:20 | 2022-05-11 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 | 2023-02-03 |  |
-| [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2022-05-11 |  |
+| [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2022-05-11 | 2023-02-13 |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-11-01 |  |
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-07-08 | 2023-02-08 |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2022-05-11 |  |
@@ -97,6 +97,7 @@
 | [I'll be by your side, you'll be by my side \(Feat\. Morning Coffee\)](https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [I'll be by your side, you'll be by my side](https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT) | 3:21 | 2022-06-09 | 2022-07-28 |
 | [I'm drunk on you on a summer night](https://open.spotify.com/track/64F34hLrNjNeNPuS9hKQjL) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [I'm drunk on you on a summer night](https://open.spotify.com/album/1pyBzHIa2PT0Ff9pjQyRpC) | 3:32 | 2022-07-08 | 2022-07-16 |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2022-05-11 | 2023-02-03 |
+| [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/2mFUSNXJhCcxIZAsTRjYWf) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 | 2023-02-03 |  |
 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 | 2022-08-01 | 2022-09-05 |
 | [If I hug you](https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 4:21 | 2022-05-11 | 2022-07-29 |
 | [inside](https://open.spotify.com/track/0o90k4R7nOHeR0v8vQHZ1x) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 3:38 | 2022-05-11 | 2022-07-25 |

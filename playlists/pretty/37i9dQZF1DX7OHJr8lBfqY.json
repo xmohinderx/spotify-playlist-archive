@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 25089,
+  "num_followers": 25108,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDA4M2M5ODE1YTk2YjFhY2M5NzJhZjU2M2RhZDJkNjkw",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDhkZDg4NmEyMjlhMDllOGQ1N2IwNWRiYjI2NzNiOTNk",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Pepas (Version Merengue)",
-        "url": "https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy"
-      },
-      "artists": [
-        {
-          "name": "MOLY",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 150588,
-      "name": "Pepas (Version Merengue)",
-      "url": "https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "\u00bfC\u00f3mo Te Atreves? (Con Cheyo Carrillo, Geru Y Su Legi\u00f3n 7)",
         "url": "https://open.spotify.com/album/7kDxTF2jhA1TIvp6ugSR91"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 236706,
       "name": "\u00bfC\u00f3mo Te Atreves?",
       "url": "https://open.spotify.com/track/28k8zUv3viH8W3nS4h03aC"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Pepas (Version Merengue)",
+        "url": "https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy"
+      },
+      "artists": [
+        {
+          "name": "MOLY",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Pepas (Version Merengue)",
+      "url": "https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1695,6 +1695,30 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Carne (Merengue Electr\u00f3nico Remix)",
+        "url": "https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        },
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 205482,
+      "name": "Carne - Merengue Electr\u00f3nico Remix",
+      "url": "https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Sin Pijama (Kumbia Remix)",
         "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
       },
@@ -1727,30 +1751,6 @@
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Carne (Merengue Electr\u00f3nico Remix)",
-        "url": "https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO"
-      },
-      "artists": [
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        },
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 205482,
-      "name": "Carne - Merengue Electr\u00f3nico Remix",
-      "url": "https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+      },
+      "artists": [
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 234899,
+      "name": "Traiganme Alcohol",
+      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Si Es Trucho Es Trucho",
         "url": "https://open.spotify.com/album/78VChAFN0gSXTJQz3QOQpw"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 337841,
       "name": "Si Es Trucho Es Trucho",
       "url": "https://open.spotify.com/track/5FKWq8ppC9KeXZGwYTqsxS"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
-      },
-      "artists": [
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 234899,
-      "name": "Traiganme Alcohol",
-      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
     },
     {
       "added_at": "2022-08-31 07:37:37",

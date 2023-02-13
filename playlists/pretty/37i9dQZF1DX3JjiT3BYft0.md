@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,408 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,456 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 27 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
 | 28 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 |
 | 29 | [Ringing Bloom](https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o) | 5:34 |
-| 30 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
+| 30 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
 | 31 | [きゅ\~まい\*flower](https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:40 |
-| 32 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
+| 32 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
 | 33 | [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 |
 | 34 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
 | 35 | [ONE OF US](https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 50 | [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 |
 
-Snapshot ID: `MTY3MDk0MjM1MywwMDAwMDAwMDJmMmZjZmZjMDA1ZTk0ZTY3OWNjNjIxODUwNGRkN2M4`
+Snapshot ID: `MTY3MDk0MjM1MywwMDAwMDAwMDI3MDk2NzY5ZjhlYTBlMGFlMmY2M2E2OTNiNWMzYjc0`

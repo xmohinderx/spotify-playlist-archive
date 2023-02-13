@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,066 likes - 47 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,063 likes - 47 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 46 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 |
 | 47 | [Bury Me](https://open.spotify.com/track/7JF5gAGflcwUyGwuejhBmk) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 4:31 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDA4MGMwMjJkNzYxZTM5NDY3NjdhZTk1MzA3OGEwNTJjYQ==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDBlZWUyYTMxYmEyOGNhNjJhZDE3OTYzZTNhMDBmM2M5Nw==`

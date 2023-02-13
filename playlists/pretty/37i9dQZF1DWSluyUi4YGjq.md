@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,642 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,241 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 36 | [Who's Counting](https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [11•11•11](https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ) | 4:01 |
 | 37 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
 | 38 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 |
-| 39 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
-| 40 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 |
+| 39 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 |
+| 40 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
 | 41 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 |
 | 42 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 |
 | 43 | [Blankenship](https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 3:56 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 65 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
 | 66 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 | 67 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
-| 68 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
-| 69 | [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 |
+| 68 | [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 |
+| 69 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
 | 70 | [One Day](https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 3:03 |
 | 71 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 |
 | 72 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
-| 73 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 |
-| 74 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 |
+| 73 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 |
+| 74 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 |
 | 75 | [Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 3:10 |
 
-Snapshot ID: `MTY3NTk3MzE4NiwwMDAwMDAwMDA1MzkwZDFkNzE0MTI3ODY3ZjVjOGU0NDE5MzU5ZWFh`
+Snapshot ID: `MTY3NTk3MzE4NiwwMDAwMDAwMGI3MDI1MWY5Y2Q0ZjYxODQyZDYyZmI3MDhmNTgyMzFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Extremoduro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,016 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,125 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 69 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 70 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
 | 71 | [Me Lía](https://open.spotify.com/track/2OXNx6DFEiOu9lAfuP1M2H) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Vuélame el Corazón](https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j) | 2:49 |
-| 72 | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 |
-| 73 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 72 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 73 | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 |
 | 74 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 | 75 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 
-Snapshot ID: `MTY3NjAzOTQyOSwwMDAwMDAwMDJiYTYyYzIwYzBiYzEzYThjZTZhMGQyNTg0MDE5OTRh`
+Snapshot ID: `MTY3NjAzOTQyOSwwMDAwMDAwMGQ0ODExOTY2NDJmYjE4ODE4MTc4NGE5MWUxOTk4NmQ4`

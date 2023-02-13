@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 605890,
+  "num_followers": 605964,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDcyNjMwMmNiYjkwOGRlZDVlODhlMGM1NGYzZmJlMzUy",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGQyZTBjYjQxZTljYTBhMzQ4YjRhNWQwNzk5MDUxM2Uw",
   "tracks": [
     {
       "added_at": "2022-07-22 02:11:14",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "The Love Club EP",
-        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 221408,
-      "name": "Bravado",
-      "url": "https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "Gravel & Wine",
         "url": "https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 205306,
       "name": "Kill Of The Night",
       "url": "https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "The Love Club EP",
+        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 221408,
+      "name": "Bravado",
+      "url": "https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
+        "name": "Beats & Bruises",
+        "url": "https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "I Can't Get You off My Mind",
+      "url": "https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 181818,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
-        "name": "Serious Love",
-        "url": "https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I"
-      },
-      "artists": [
-        {
-          "name": "Anya Marina",
-          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Serious Love",
-      "url": "https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -827,38 +827,18 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Beats & Bruises",
-        "url": "https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP"
+        "name": "Serious Love",
+        "url": "https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I"
       },
       "artists": [
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+          "name": "Anya Marina",
+          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
         }
       ],
-      "duration_ms": 235920,
-      "name": "I Can't Get You off My Mind",
-      "url": "https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
-        "name": "Cannonball (Acoustic)",
-        "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        },
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 278196,
-      "name": "Cannonball - Acoustic",
-      "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
+      "duration_ms": 253500,
+      "name": "Serious Love",
+      "url": "https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -893,6 +873,22 @@
       "url": "https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4"
     },
     {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Torture",
+        "url": "https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "duration_ms": 182853,
+      "name": "Torture",
+      "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "awakening",
@@ -911,18 +907,22 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Torture",
-        "url": "https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN"
+        "name": "Cannonball (Acoustic)",
+        "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
       },
       "artists": [
         {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        },
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 182853,
-      "name": "Torture",
-      "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
+      "duration_ms": 278196,
+      "name": "Cannonball - Acoustic",
+      "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
     },
     {
       "added_at": "2022-07-22 02:11:14",

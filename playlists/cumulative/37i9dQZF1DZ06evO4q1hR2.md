@@ -4,14 +4,15 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 1 min
+77 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aluciné](https://open.spotify.com/track/1dKiTltAJ2zA4hi2DIZkWb) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alucine](https://open.spotify.com/album/7i5xLbOj6zyoDAJUnpHhGZ) | 3:04 | 2022-06-08 |  |
 | [Amargo Dolor](https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:26 | 2022-06-06 |  |
 | [Amor Imposible](https://open.spotify.com/track/5e9meF6UEQVNIooWW7bQYy) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:55 | 2022-06-01 |  |
-| [Amor Pajarito](https://open.spotify.com/track/40GoQdAvYcAUmyT7N56vN1) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:03 | 2022-06-01 |  |
+| [Amor Pajarito](https://open.spotify.com/track/2BD7BqaHECIj0pAER6N7jb) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h) | 3:02 | 2023-02-12 |  |
+| [Amor Pajarito](https://open.spotify.com/track/40GoQdAvYcAUmyT7N56vN1) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:03 | 2022-06-01 | 2023-02-13 |
 | [Arboles De La Barranca](https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:59 | 2022-06-01 |  |
 | [Ataca y Atrapa](https://open.spotify.com/track/6wyrC6ockDrREoAxiV0qm7) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:24 | 2022-06-01 |  |
 | [Atrapado](https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:07 | 2022-06-01 |  |

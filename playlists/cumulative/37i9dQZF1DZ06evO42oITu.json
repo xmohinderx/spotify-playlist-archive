@@ -248,6 +248,28 @@
     {
       "album": {
         "name": "Live from Madison Square Garden",
+        "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332813,
+      "name": "Can't Find My Way Home - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O"
+    },
+    {
+      "album": {
+        "name": "Live from Madison Square Garden",
         "url": "https://open.spotify.com/album/4KrKq7IX3Rj7btIxF6Hx04"
       },
       "artists": [
@@ -262,7 +284,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 333946,
       "name": "Can't Find My Way Home - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/728aCHRPX4JbPWnAj0D4jL"
@@ -480,7 +502,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Forever Man - 1999 Remaster",
       "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 139373,
       "name": "Rock And Roll Records",
       "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
@@ -2102,7 +2124,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"

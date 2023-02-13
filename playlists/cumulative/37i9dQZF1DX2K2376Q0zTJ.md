@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  玉名ラーメン
 
-695 songs - 1 day 17 hr 29 min
+696 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [sachi](https://open.spotify.com/track/69Uo9tjInVgfAwyEzDVDnL) | [和田彩花](https://open.spotify.com/artist/4smBED5kqQ13oWZ5qBmbnu) | [sachi](https://open.spotify.com/album/21BPAvpo0TlaScMruOyFin) | 2:53 | 2022-05-31 | 2022-07-06 |
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-07-05 | 2022-08-03 |
 | [Save us?](https://open.spotify.com/track/63n9gGSFjFxKcSPan6oBQu) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [Sugarless Days](https://open.spotify.com/album/5ris25zLEOGTtCYIAtlTQB) | 2:16 | 2022-04-05 | 2022-05-05 |
-| [SAY LESS](https://open.spotify.com/track/7HfhpWNWj7LsnZr5NH4CgL) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [SAY LESS](https://open.spotify.com/album/3uD3JRNLEcAfsqsAYGEWTc) | 2:55 | 2023-02-01 |  |
+| [SAY LESS](https://open.spotify.com/track/7HfhpWNWj7LsnZr5NH4CgL) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [SAY LESS](https://open.spotify.com/album/3uD3JRNLEcAfsqsAYGEWTc) | 2:55 | 2023-02-01 | 2023-02-13 |
+| [SAY LESS](https://open.spotify.com/track/6Ce3oziSiUdni2pWQHpUkK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 2:55 | 2023-02-01 |  |
 | [SAYONARA](https://open.spotify.com/track/0uNZ5d4P6Ae8uYHExfBeG4) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [STRONGER](https://open.spotify.com/album/0BcMPgGXqmezPBvaFfZcTK) | 3:31 | 2022-04-05 | 2022-05-05 |
 | [SAYONARA](https://open.spotify.com/track/3XpLSdhcNLvamy59ETKSaB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [STORONGER](https://open.spotify.com/album/6eOPhX5HRmFA5SaA9W280y) | 3:31 | 2022-08-02 | 2022-09-07 |
 | [Scrapbook](https://open.spotify.com/track/2MNoBcufx0TD9hmZQXHCgi) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [SPRING2022..u\_u..vV](https://open.spotify.com/album/1ZSkAxJkvufSx1SpNRvmyo) | 2:38 | 2022-11-08 | 2022-12-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 2857,
+  "num_followers": 2875,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMDcwNDkxMmZmNWJkYzc0MjUxNWRmYmE2NGJjOWI2YTBj",
+  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMDg0MzE5MzU3OGMwYzUzMzA5NTFhMmRiYWFkYzYzNmQ0",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "Demon High",
-        "url": "https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 197417,
-      "name": "Demon High",
-      "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
         "name": "Roses Remix (feat. Future)",
         "url": "https://open.spotify.com/album/1yhDNVAm4gq1TuYdSbpEar"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 187897,
       "name": "Roses Remix (feat. Future)",
       "url": "https://open.spotify.com/track/1KyZ4rUiW2lkqGNLQYKpcC"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
+        "name": "Demon High",
+        "url": "https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 197417,
+      "name": "Demon High",
+      "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
     },
     {
       "added_at": "2022-10-02 02:05:19",

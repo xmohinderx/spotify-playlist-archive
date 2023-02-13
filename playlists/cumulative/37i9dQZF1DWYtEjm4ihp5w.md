@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Vargas
 
-86 songs - 4 hr 39 min
+87 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Oh My God](https://open.spotify.com/track/7oUQHfIkiTqyd0cNUb0Mnn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Oh My God](https://open.spotify.com/album/350A8RvGimxj2dTZcifUEy) | 3:25 | 2023-01-19 |  |
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-15 |  |
 | [Problems](https://open.spotify.com/track/2xEL0trcV0pHf7CA2tnwRH) | [Wolf Trapzilla](https://open.spotify.com/artist/4SSbv9vJGY0iLY9GZ0bUTm) | [Problems](https://open.spotify.com/album/1sDRbTvpaLtUcDOcpbljIe) | 3:37 | 2023-01-10 | 2023-01-16 |
+| [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-12 |  |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-21 | 2023-01-04 |

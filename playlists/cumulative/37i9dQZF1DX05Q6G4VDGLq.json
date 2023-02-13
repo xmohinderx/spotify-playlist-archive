@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "February Brings The Rain",
+        "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
+      },
+      "artists": [
+        {
+          "name": "Fulton Street Players",
+          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221909,
+      "name": "February Brings The Rain",
+      "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
+    },
+    {
+      "album": {
         "name": "Fields of Home",
         "url": "https://open.spotify.com/album/6QKyTox6aInFLkw7KA2wTG"
       },
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 247063,
       "name": "Jardin du Luxembourg",
       "url": "https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp"

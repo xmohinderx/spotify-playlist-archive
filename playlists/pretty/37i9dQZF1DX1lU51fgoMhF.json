@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 108743,
+  "num_followers": 108747,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzMzI0NiwwMDAwMDAwMDJkYTRmZTE1NGZiNzZiMDYwNWIxMTQzOWM2YzE5Yjc3",
+  "snapshot_id": "MTY3NDYzMzI0NiwwMDAwMDAwMDg5Y2MyMTA5MWI1OGY3YzQ3NzJjZjE3M2I4MjZjMzZj",
   "tracks": [
     {
       "added_at": "2023-01-25 07:54:06",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-25 07:54:06",
       "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "As You Wish",
-      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
-    },
-    {
-      "added_at": "2023-01-25 07:54:06",
-      "album": {
         "name": "ONE & SIX",
         "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199402,
       "name": "I'm so sick",
       "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2023-01-25 07:54:06",
+      "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
     },
     {
       "added_at": "2023-01-25 07:54:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-25 07:54:06",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2023-01-25 07:54:06",
-      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 217486,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ"
+    },
+    {
+      "added_at": "2023-01-25 07:54:06",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2023-01-25 07:54:06",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-01-25 07:54:06",
       "album": {
-        "name": "ARIA",
-        "url": "https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW"
+        "name": "The Fabulous, Pt. 3 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe"
       },
       "artists": [
         {
-          "name": "Yerin",
-          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+          "name": "SeungHee",
+          "url": "https://open.spotify.com/artist/1kTabwjnM8SrHC9SNQRjZU"
         }
       ],
-      "duration_ms": 147853,
-      "name": "ARIA",
-      "url": "https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD"
+      "duration_ms": 195191,
+      "name": "My finale",
+      "url": "https://open.spotify.com/track/5SaJdsKgDB7WxEDIETLuic"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

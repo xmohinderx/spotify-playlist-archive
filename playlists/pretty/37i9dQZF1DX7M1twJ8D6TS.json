@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 113506,
+  "num_followers": 113575,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDI5MGM5MmZiMWE4MDcxZjdjNGExZTAzMGNhODkwODE3",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDliNDlmMWQ4NTU4YmQ0ZTE2ZTJmYzRlNjFmMjg4Y2U2",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 212235,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 212235,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
     },
     {
-      "added_at": "2023-02-12 01:30:09",
+      "added_at": "2023-02-13 01:30:04",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
-      "added_at": "2023-02-12 01:30:09",
+      "added_at": "2023-02-13 01:30:04",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
-      },
-      "artists": [
-        {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
-        }
-      ],
-      "duration_ms": 184644,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "duration_ms": 184644,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Don't Want To Go Home",
         "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
       },
@@ -1575,6 +1575,26 @@
       "duration_ms": 183666,
       "name": "Don't Want to Go Home",
       "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Hold My Beer",
+        "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 239045,
+      "name": "Hold My Beer",
+      "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 216084,
       "name": "What It Doesn\u2019t Do",
       "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Hold My Beer",
-        "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 239045,
-      "name": "Hold My Beer",
-      "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
     },
     {
       "added_at": "2022-05-27 04:00:00",

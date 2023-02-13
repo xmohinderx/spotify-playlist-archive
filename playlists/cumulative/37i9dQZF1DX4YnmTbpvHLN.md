@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-270 songs - 17 hr 52 min
+272 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-29 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-06-29 | 2023-01-15 |
-| [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-29 |  |
+| [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-29 | 2023-02-13 |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-06-29 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2022-06-29 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
@@ -46,7 +46,7 @@
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-23 |  |
 | [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-29 | 2023-01-22 |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
-| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-06-29 |  |
+| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-06-29 | 2023-02-13 |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-17 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-06-29 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0qii8PVr6wKDNVbRM1ak1E) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Can't Help Falling in Love](https://open.spotify.com/album/5vBVsRAD5ySVpuIB4cZ3WB) | 3:10 | 2022-06-29 | 2023-01-22 |
@@ -66,6 +66,7 @@
 | [Crystal Blue](https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb) | [Jean\-Baptiste Rees](https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM) | [Crystal Blue](https://open.spotify.com/album/4Jr2IFJ19cGkh9XEHJjNlO) | 2:48 | 2022-06-29 | 2023-02-07 |
 | [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-29 | 2022-12-26 |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-06-29 | 2023-02-08 |
+| [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-06-29 |  |
 | [Don't Mind Me](https://open.spotify.com/track/1PXYvyT1lz0IvWCRbR0eni) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Don't Mind Me](https://open.spotify.com/album/1edvaJi1PKxqVb2fWXmMhP) | 4:18 | 2022-06-29 |  |
@@ -226,6 +227,7 @@
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-06-29 |  |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-02 |  |
+| [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-09 |  |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-19 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-09-29 |  |
 | [The Gypsy](https://open.spotify.com/track/5dPPpDUQvbMpJHsGVXtI1U) | [Blue Moon Jazz Quartet](https://open.spotify.com/artist/5bEcIQVnNBtnMr8CTW4RO2) | [Ask Me Now](https://open.spotify.com/album/6cNda0ASJOFEoMPrAhFW5z) | 5:01 | 2022-06-29 | 2022-10-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,219 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,220 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 38 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 39 | [Bicho de 7 Cabeças / A Culpa É das Igrejas](https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Disstinto](https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy) | [Bicho de 7 Cabeças / a Culpa É das Igrejas](https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS) | 4:42 |
 | 40 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
-| 41 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
-| 42 | [Grajauex](https://open.spotify.com/track/7Mo4HmVdgYXBrOd9AYeqP9) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 2:36 |
+| 41 | [Grajauex](https://open.spotify.com/track/7Mo4HmVdgYXBrOd9AYeqP9) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 2:36 |
+| 42 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
 | 43 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
 | 44 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
 | 45 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 57 | [Cake](https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2) | [Entre Linhas](https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX), [Kuririn](https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Matuê](https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Solo](https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf) | 3:37 |
 | 58 | [Estilo Vagabundo 1](https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Estilo Vagabundo](https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ) | 5:00 |
 | 59 | [Linda, Louca e Mimada](https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK) | [Oriente, Rebeca](https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE) | [Oriente](https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu) | 3:22 |
-| 60 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
+| 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMGM1ZWZiNjk0N2Q1NTZhNWUzNDk0N2MwZWQxZTJmNjhi`
+Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDUyZThiODcwYjI2NDJiODE3M2I1NDU4NmY2ZjM5M2Zh`

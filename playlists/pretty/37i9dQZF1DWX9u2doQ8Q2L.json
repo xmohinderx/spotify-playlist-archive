@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 353881,
+  "num_followers": 353958,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDE3ZmZmNWZlNTFiYzE3NWI3OWI5ZTRiZTE5ZmRmYThk",
+  "snapshot_id": "MTY3NTk1NDgwMCwwMDAwMDAwMDhmZTZiZDI0NjRmYmU5N2ZlOGM5MGJmNjE4OTM5MTAz",
   "tracks": [
     {
       "added_at": "2023-02-09 15:00:00",
@@ -799,38 +799,6 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT"
-      },
-      "artists": [
-        {
-          "name": "monje",
-          "url": "https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y"
-        }
-      ],
-      "duration_ms": 225924,
-      "name": "Spice",
-      "url": "https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 178000,
       "name": "BREAKTHROUGH",
       "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT"
+      },
+      "artists": [
+        {
+          "name": "monje",
+          "url": "https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y"
+        }
+      ],
+      "duration_ms": 225924,
+      "name": "Spice",
+      "url": "https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "paradigm",
-        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
-      },
-      "artists": [
-        {
-          "name": "ame_no_parade",
-          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
-        }
-      ],
-      "duration_ms": 213397,
-      "name": "paradigm",
-      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
-    },
-    {
-      "added_at": "2023-02-09 15:00:00",
-      "album": {
         "name": "Late summer waves",
         "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 155242,
       "name": "Late summer waves",
       "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
+    },
+    {
+      "added_at": "2023-02-09 15:00:00",
+      "album": {
+        "name": "paradigm",
+        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
+      },
+      "artists": [
+        {
+          "name": "ame_no_parade",
+          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
+        }
+      ],
+      "duration_ms": 213397,
+      "name": "paradigm",
+      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
     },
     {
       "added_at": "2023-02-09 15:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-02-09 15:00:00",
       "album": {
-        "name": "\u5411\u3053\u3046\u304b\u3089",
-        "url": "https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR"
+        "name": "\u70b9\u63cf",
+        "url": "https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv"
       },
       "artists": [
         {
-          "name": "Ritsuki Akiyama",
-          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
         }
       ],
-      "duration_ms": 225643,
-      "name": "\u5411\u3053\u3046\u304b\u3089",
-      "url": "https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC"
+      "duration_ms": 258146,
+      "name": "blur and flower",
+      "url": "https://open.spotify.com/track/4XXv8XROOit6ZpSDkbpufH"
     },
     {
       "added_at": "2023-02-09 15:00:00",

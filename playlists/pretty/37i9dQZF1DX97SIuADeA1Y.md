@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,505 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,595 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 44 | [abcdefu](https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [abcdefu](https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M) | 2:52 |
 | 45 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 46 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 |
-| 47 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
-| 48 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
+| 47 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
+| 48 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
 | 49 | [Send Me An Angel](https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Send Me An Angel](https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm) | 2:20 |
 | 50 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 51 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 | 60 | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/track/6fk38fqazMx6mDsCPfWcmL) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/0ZiA7fyQ3yrZFJWkZKLFHt) | 2:18 |
 
-Snapshot ID: `MTY3NDgzMzQwMCwwMDAwMDAwMDkxMDY0NmRmY2U5ZDRjZDU5MDlhYzc3MDY3OTE2NGMx`
+Snapshot ID: `MTY3NDgzMzQwMCwwMDAwMDAwMDUzOTFlZTM5NTAyODZlMWQ3YTQyNTNhMDU5NTJjMmQ3`

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 841026,
+  "num_followers": 841238,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3MDIzNCwwMDAwMDAwMDZhMzZhNzBhZGEzYzczNWIyYjQyNDM0YjQwZTliOTYy",
+  "snapshot_id": "MTY3NTk3MDIzNCwwMDAwMDAwMDg3N2VlYzEwMmMyYzA5NTI5MzUwZjk4NDllZWUxNDI1",
   "tracks": [
     {
       "added_at": "2023-02-09 19:17:14",
@@ -551,6 +551,26 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Fun Times",
         "url": "https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
     },
     {
-      "added_at": "2022-12-09 05:09:00",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Eyez",
-        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -683,6 +667,22 @@
       "duration_ms": 423346,
       "name": "Love On The Run",
       "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Thanatophobia",
         "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237741,
       "name": "Sensitivity",
       "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Gamma Rays",
-        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "GREENZONE 108",
@@ -1153,6 +1137,22 @@
       "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
     },
     {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Gamma Rays",
+        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "I've Never Been To LA",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
-      "album": {
-        "name": "Heaven Is A Place",
-        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Heaven Is A Place",
-      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Ultimate Painting",
@@ -1203,6 +1187,22 @@
       "duration_ms": 219129,
       "name": "Ultimate Painting",
       "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+    },
+    {
+      "added_at": "2022-11-10 18:56:35",
+      "album": {
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "Miracles (alt)",
-        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 210871,
-      "name": "Miracles3",
-      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "I Shimmer",
@@ -1469,22 +1453,6 @@
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
-      "added_at": "2022-12-09 05:09:00",
-      "album": {
-        "name": "Superego",
-        "url": "https://open.spotify.com/album/4EKaxR1v7cfcxYOchroVNz"
-      },
-      "artists": [
-        {
-          "name": "Scrimmage",
-          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
-        }
-      ],
-      "duration_ms": 174581,
-      "name": "Red Petal",
-      "url": "https://open.spotify.com/track/02aik4tdY4oRoWVKxvMUjP"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Do U Mind? (Leave the Light On)",
@@ -1499,6 +1467,38 @@
       "duration_ms": 222928,
       "name": "Do U Mind? (Leave the Light On)",
       "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Miracles (alt)",
+        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 210871,
+      "name": "Miracles3",
+      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Superego",
+        "url": "https://open.spotify.com/album/4EKaxR1v7cfcxYOchroVNz"
+      },
+      "artists": [
+        {
+          "name": "Scrimmage",
+          "url": "https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6"
+        }
+      ],
+      "duration_ms": 174581,
+      "name": "Red Petal",
+      "url": "https://open.spotify.com/track/02aik4tdY4oRoWVKxvMUjP"
     },
     {
       "added_at": "2022-12-16 05:09:00",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1OZya8zUz1XPYIrFmHbYTe"
     },
     {
+      "added_at": "2023-02-09 19:17:14",
+      "album": {
+        "name": "Konami",
+        "url": "https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "duration_ms": 168786,
+      "name": "Konami",
+      "url": "https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz"
+    },
+    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Aquarium Drunkard's Lagniappe Sessions",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Going Going Gone",
         "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 184893,
       "name": "Dionysian State",
       "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1647,22 +1663,6 @@
       "duration_ms": 292066,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720"
-    },
-    {
-      "added_at": "2023-02-09 19:17:14",
-      "album": {
-        "name": "Konami",
-        "url": "https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB"
-      },
-      "artists": [
-        {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "Konami",
-      "url": "https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz"
     },
     {
       "added_at": "2023-01-13 05:01:00",

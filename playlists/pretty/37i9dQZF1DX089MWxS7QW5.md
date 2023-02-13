@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Sion \(시온\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,225 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,269 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

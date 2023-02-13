@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Bollywood's biggest love songs from last 10 years\. Cover \- Shershaah
+> Let these songs be the background score to your love story\. Cover \- Shershaah
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,894 likes - 99 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,676 likes - 99 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 4:21 |
+| 1 | [Apna Bana Le](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 4:21 |
 | 2 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
 | 3 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 |
 | 4 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 98 | [Sukoon Mila](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Mary Kom](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 3:20 |
 | 99 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 
-Snapshot ID: `MTY3NTkzODY2NSwwMDAwMDAwMDE1MjY3MmJhZDQwNDFlNDZlMDcyODc3N2FhNmM1ZWZl`
+Snapshot ID: `MTY3NjIxODc1NCwwMDAwMDAwMDNhMzFkZWZiYTNhOTkxZTEzNTRlMTJiN2JjOGJhNDM4`

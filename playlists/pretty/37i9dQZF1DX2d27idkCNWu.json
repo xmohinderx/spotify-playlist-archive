@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 258387,
+  "num_followers": 258440,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzNzE3MCwwMDAwMDAwMDk5M2I0NzVkZjIwYjQxMjU0OWE2MjcyMTcwZGU2N2M4",
+  "snapshot_id": "MTY3NjAzNzE3MCwwMDAwMDAwMDhkY2ZhMTY3YmE5YTFlNzc1YjFmOGFlOGIyZTNlNDRm",
   "tracks": [
     {
       "added_at": "2023-02-03 12:40:22",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
     },
     {
+      "added_at": "2023-02-13 01:21:12",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Pointless - Strings Acoustic",
+      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
+    },
+    {
       "added_at": "2023-02-03 12:40:22",
       "album": {
         "name": "Human Nature (Acoustic)",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Live at Sydney Opera House",
-        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 268919,
-      "name": "Georgia - Live at Sydney Opera House",
-      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 225790,
       "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "Live at Sydney Opera House",
+        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 268919,
+      "name": "Georgia - Live at Sydney Opera House",
+      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
     },
     {
-      "added_at": "2023-02-12 01:21:29",
-      "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Pointless - Strings Acoustic",
-      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
-    },
-    {
       "added_at": "2023-02-03 12:40:22",
       "album": {
         "name": "Cheap Queen",
@@ -1015,6 +999,22 @@
       "duration_ms": 202280,
       "name": "Ain't Together",
       "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 187680,
       "name": "Boyfriend - Acoustic Version",
       "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1463,42 +1483,6 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Us - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2023-02-03 12:40:22",
-      "album": {
         "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
         "url": "https://open.spotify.com/album/5bV19R3ZqETQrOoRHiZUSd"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 163537,
       "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o (Ao vivo no Meo Sudoeste)",
       "url": "https://open.spotify.com/track/0ZoiqyHoSNMYRJLzZzPaMl"
+    },
+    {
+      "added_at": "2023-02-03 12:40:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Us - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
     },
     {
       "added_at": "2023-02-03 12:40:22",
@@ -1551,22 +1551,22 @@
     {
       "added_at": "2023-02-03 12:40:22",
       "album": {
-        "name": "Sun Will Shine (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y"
+        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         },
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Sun Will Shine - Acoustic Version",
-      "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
+      "duration_ms": 221262,
+      "name": "Eu Tive um Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 17 | [Zerubbabel](https://open.spotify.com/track/3KRmCYhWfnrFFSkFzxJiFp) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Zerubbabel](https://open.spotify.com/album/1z1mGMhV7CGlHCNgwK3xs3) | 2:47 |
 | 18 | [Oil Dey My Head \(ODMH\)](https://open.spotify.com/track/02Lr7ylmf1HUzvSbPP8B7u) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [Oil Dey My Head \(ODMH\)](https://open.spotify.com/album/15yFu2Ygo8t87Kc2SNY8cB) | 3:17 |
 | 19 | [Elijah Level](https://open.spotify.com/track/5IjmyW8WYcxQ7apbudLqo9) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [A Decade After](https://open.spotify.com/album/2pxHAlyrr3PYW8jQPYxmg5) | 3:15 |
-| 20 | [FOLLOW](https://open.spotify.com/track/0wWkzxVjrltvSo6t0ndMnK) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M) | 3:43 |
+| 20 | [FOLLOW](https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/1e87ScTOtmWOynxRrc8sjL) | 3:43 |
 | 21 | [More Love](https://open.spotify.com/track/19rlmg0t6eqNh0feDTVPOW) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV) | [More Love](https://open.spotify.com/album/461cLE59aPBIGvdV2vBqDi) | 3:04 |
 | 22 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 |
 | 23 | [Congratulations](https://open.spotify.com/track/2lxAUhTqw3phdpVHJSHTMJ) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv) | [Congratulations](https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 |
 | 80 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 
-Snapshot ID: `MTY3NjAxNzk5MCwwMDAwMDAwMGQ2MDRiODNkOGM5MzdiMDM1YWZiZjVhMmFiY2EyYzY4`
+Snapshot ID: `MTY3NjAxNzk5MCwwMDAwMDAwMDdjNzRhYTJhN2M5ZmQ1ZDc4MGIxNmMwMzg1NjAxMzQy`

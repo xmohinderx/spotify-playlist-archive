@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,357 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,403 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 10 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 11 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
 | 12 | [Constrictor](https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb) | [Constrictor](https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc) | 3:00 |
-| 13 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 |
+| 13 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 |
 | 14 | [Stumble](https://open.spotify.com/track/3D0ZLuFDCA1ILyXQYlMqZ9) | [Bonjay](https://open.spotify.com/artist/12Jc0PCNtdYxqlBev0EqGJ) | [Broughtupsy](https://open.spotify.com/album/6p8iYdmqXyxJJMg70dfVF5) | 3:22 |
 | 15 | [Bad Bitch Steppin'](https://open.spotify.com/track/0eypKYioaRK2I7MbuoVodD) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt) | [Bad Bitch Steppin'](https://open.spotify.com/album/5Soc1AAa7FuzEa4Xw8sxiL) | 1:24 |
 | 16 | [Back](https://open.spotify.com/track/0b2DJdxxgtgNGAbgHElCID) | [Skodi](https://open.spotify.com/artist/3BkUIA9Gj05fOc3rw4iug0) | [Corner Store Chronicles: The Prequel](https://open.spotify.com/album/5QMniu0AZ6OoULArBEVOAP) | 3:24 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 33 | [less is more](https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [less is more](https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI) | 2:36 |
 | 34 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 |
 | 35 | [Another Like This](https://open.spotify.com/track/5Jbpp2xup12QN4Fv7RnNVv) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Global Sounds](https://open.spotify.com/album/3EBbMiMD7MWeZxuptpKK2Z) | 4:17 |
-| 36 | [Washed Away](https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG) | 3:36 |
+| 36 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 |
 | 37 | [Negus Poem 1 & 2](https://open.spotify.com/track/6hzSpBS8PUgEBzIPmnzUc6) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Forever, Ya Girl](https://open.spotify.com/album/4jZGBAQ1iYaWlYndJ8h7LS) | 3:34 |
 | 38 | [Dreams](https://open.spotify.com/track/5HnEjIeK0hpoMqPY5H4WB7) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:22 |
 | 39 | [a boy](https://open.spotify.com/track/42iyVfHqBN9YWXF4cQZ5IS) | [Betty Belle](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [a boy](https://open.spotify.com/album/3cMo9uXBv09Z1aUBxJ66tt) | 1:54 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDgwMzZjMWNhMjA1MjhkZGExMzVhNWUyZDkxMTYxMjY5`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDk5NmQwZDQ3YzQyYWQxOWZjYTU3ZGYxNzc4MmVkOTVl`

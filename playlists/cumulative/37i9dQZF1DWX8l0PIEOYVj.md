@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-305 songs - 18 hr 27 min
+306 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [The Paper Owl \(feat\. Arehlai\)](https://open.spotify.com/track/0VphdXeFyozaVgPxUKOaWp) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Arehlai](https://open.spotify.com/artist/7doWLQMf2DtRpG0n1Xxw8k) | [The Paper Owl \(feat\. Arehlai\)](https://open.spotify.com/album/3J25epQZRAGCZUP6j3jfT4) | 4:40 | 2022-07-08 | 2022-07-29 |
 | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O) | 3:52 | 2022-07-08 |  |
 | [This Feeling \(feat\. Britt Lari\)](https://open.spotify.com/track/1eZKh4L2bIPxrWIOf9NUUw) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [This Feeling \(feat\. Britt Lari\)](https://open.spotify.com/album/10VceQKEFDIcUfaIhzxfeG) | 2:56 | 2022-09-02 |  |
+| [three little words](https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [three little words](https://open.spotify.com/album/5Xw17msGS4bB8NCXp4Sc2v) | 3:24 | 2023-02-10 |  |
 | [Tides](https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Tides](https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj) | 4:27 | 2022-07-08 |  |
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-18 | 2023-02-12 |
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-07-08 | 2022-07-29 |
@@ -312,6 +313,6 @@
 | [With You](https://open.spotify.com/track/3cfhbNNdNeBnCE3J8eB0uH) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/1neAhuudRpt7salaglI1I5) | 3:30 | 2022-07-08 |  |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
 | [Worth It](https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Worth It](https://open.spotify.com/album/3CIwQHbNCwT13eYv2VrwpD) | 4:26 | 2022-07-08 | 2022-10-01 |
-| [Wouldn't Know You](https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Wouldn't Know You](https://open.spotify.com/album/3fsqNYiIX7BYog5tQv7QBK) | 4:24 | 2022-07-08 |  |
+| [Wouldn't Know You](https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Wouldn't Know You](https://open.spotify.com/album/3fsqNYiIX7BYog5tQv7QBK) | 4:24 | 2022-07-08 | 2023-02-13 |
 
 \*This playlist was first scraped on 2022-07-14. Prior content cannot be recovered.

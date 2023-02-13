@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: INOMI
+> KLASS 2023: PABI
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,608 likes - 79 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,622 likes - 79 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
+| 1 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 |
 | 2 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
-| 3 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
-| 4 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
-| 5 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 |
+| 3 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
+| 4 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 |
+| 5 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 |
 | 6 | [NIKE TECH](https://open.spotify.com/track/0qoHXE9U0eeZtlWyQqUdCo) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [NIKE TECH](https://open.spotify.com/album/08a792ESvwxAwZMm7PIb5g) | 2:31 |
-| 7 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 |
-| 8 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 |
-| 9 | [Ghetto Psykos \(GS\)](https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ghetto Psykos \(GS\)](https://open.spotify.com/album/2edTCevZZxtQ4zK7MlVWXf) | 2:19 |
+| 7 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 |
+| 8 | [Ghetto Psykos \(GS\)](https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ghetto Psykos \(GS\)](https://open.spotify.com/album/2edTCevZZxtQ4zK7MlVWXf) | 2:19 |
+| 9 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 10 | [Annan Man \(part 2\)](https://open.spotify.com/track/0dXCa5c9CZzkNHx1p6SOlb) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Annan Man \(part 2\)](https://open.spotify.com/album/75gmHEVJvOSKNabmMEZ82U) | 2:11 |
-| 11 | [RATATA](https://open.spotify.com/track/5SeCuhnCkReuMDppRSOe2F) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [RATATA](https://open.spotify.com/album/2vPjvhXrt8RpgIG6VzFp0G) | 2:58 |
-| 12 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 |
-| 13 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 |
-| 14 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 |
-| 15 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 |
-| 16 | [LLD](https://open.spotify.com/track/5TsxaTXxOC3zDiEX9VDiuW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:04 |
-| 17 | [MIND GAME](https://open.spotify.com/track/6zHzaRHBp813fxXIspneRA) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [FRÖ TILL TRÄD](https://open.spotify.com/album/5LXvbb8ULvqzS48Xo9aIc6) | 2:57 |
-| 18 | [Duplantis](https://open.spotify.com/track/30brjBzRbL5MFUXWxSfG5A) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Duplantis](https://open.spotify.com/album/4CBmgdpkeOTRVcROYdeHGX) | 3:02 |
-| 19 | [PTSD](https://open.spotify.com/track/4hYamjfzU3VXJCUkfakO0J) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [PTSD](https://open.spotify.com/album/45dplEuz4rtySVo6z5P65x) | 3:20 |
-| 20 | [Wonderkid](https://open.spotify.com/track/0U6GloB9lQkuKusEQxnLw3) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Wonderkid](https://open.spotify.com/album/696HisYAHvP0IaqoyZHWQk) | 2:05 |
-| 21 | [MALIKA](https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [MALIKA](https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO) | 2:53 |
+| 11 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 |
+| 12 | [RATATA](https://open.spotify.com/track/5SeCuhnCkReuMDppRSOe2F) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [RATATA](https://open.spotify.com/album/2vPjvhXrt8RpgIG6VzFp0G) | 2:58 |
+| 13 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 |
+| 14 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 |
+| 15 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 |
+| 16 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 |
+| 17 | [LLD](https://open.spotify.com/track/5TsxaTXxOC3zDiEX9VDiuW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:04 |
+| 18 | [MIND GAME](https://open.spotify.com/track/6zHzaRHBp813fxXIspneRA) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [FRÖ TILL TRÄD](https://open.spotify.com/album/5LXvbb8ULvqzS48Xo9aIc6) | 2:57 |
+| 19 | [Duplantis](https://open.spotify.com/track/30brjBzRbL5MFUXWxSfG5A) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Duplantis](https://open.spotify.com/album/4CBmgdpkeOTRVcROYdeHGX) | 3:02 |
+| 20 | [PTSD](https://open.spotify.com/track/4hYamjfzU3VXJCUkfakO0J) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [PTSD](https://open.spotify.com/album/45dplEuz4rtySVo6z5P65x) | 3:20 |
+| 21 | [Wonderkid](https://open.spotify.com/track/0U6GloB9lQkuKusEQxnLw3) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Wonderkid](https://open.spotify.com/album/696HisYAHvP0IaqoyZHWQk) | 2:05 |
 | 22 | [Min sida](https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Min sida](https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC) | 2:27 |
 | 23 | [Nordvästra](https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nordvästra](https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2) | 2:35 |
 | 24 | [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozz6y](https://open.spotify.com/artist/4wpkcmQdt0QczYmULMLxsN) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 78 | [KIOSK FREESTYLE](https://open.spotify.com/track/2DaReD6n8gFbUfH7j4thNt) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6) | [KIOSK FREESTYLE](https://open.spotify.com/album/0Dvp6E2WrPVgmlj4EJBVDw) | 2:36 |
 | 79 | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/track/1OwpLtZ5IeQrGii3q2i9W5) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj) | 3:08 |
 
-Snapshot ID: `MTY3NjE1NjQwMCwwMDAwMDAwMGVlZGJhZjM3Mzc4OTU2YjY4ODVlNjBhYjNmMjRmOTE5`
+Snapshot ID: `MTY3NjI0MjgwMCwwMDAwMDAwMDZiMGNhZDBlMzQyODU4MjVhZGMyZDdiNDE1NzNiYzMy`

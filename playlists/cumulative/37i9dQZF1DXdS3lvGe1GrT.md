@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-412 songs - 1 day 1 hr 1 min
+413 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Daddy Lessons](https://open.spotify.com/track/6rpO7sw5yy6p98962KXC91) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Interpretations](https://open.spotify.com/album/7BQpnNS1KLMn8rSD6NBtLx) | 4:26 | 2023-01-11 |  |
 | [Dark Side Of Dreaming](https://open.spotify.com/track/3lcFzLTCJ30L3km2BXYVg6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Dark Side Of Dreaming](https://open.spotify.com/album/3kpilREq1Jsj4UwADIr4YR) | 3:21 | 2023-01-25 |  |
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-05-25 | 2022-08-11 |
-| [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 | 2023-01-25 |  |
+| [Daydream](https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 4:03 | 2023-02-08 |  |
+| [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 | 2023-01-25 | 2023-02-13 |
 | [Dead Friends](https://open.spotify.com/track/3AvW6daGmZOBr9L2fQRflQ) | [Owen FitzGerald](https://open.spotify.com/artist/1KJz4wb91yi5bL2bl5AGeO) | [Dead Friends](https://open.spotify.com/album/2slUbrVetCmEm1w74MpMAi) | 4:13 | 2022-06-15 | 2022-09-29 |
 | [Dear Shadow](https://open.spotify.com/track/5WAkKuO3PPgZq0bGbOkY2l) | [Henriette](https://open.spotify.com/artist/1tRJ7daBXRHnGAHuRFDUp8) | [Dear Shadow](https://open.spotify.com/album/60hH00Jt0mmgKsF5W8u09I) | 3:13 | 2022-05-25 | 2022-06-30 |
 | [December](https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Other Way Home](https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd) | 4:25 | 2022-06-29 | 2022-09-29 |

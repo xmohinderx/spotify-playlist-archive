@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,377 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,401 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 51 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 | 52 | [F U Energy](https://open.spotify.com/track/01L4VsVDGb2IZcBg46MQG5) | [Milky Sad](https://open.spotify.com/artist/4k6PM95PG6LCnlWF79mjir) | [F U Energy](https://open.spotify.com/album/403JyTE9encL7TytDXtHSW) | 2:06 |
 | 53 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 |
-| 54 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
+| 54 | [DEEP CUTS](https://open.spotify.com/track/43zuHsv9bZ9WfsXPzpR4Nb) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 4:14 |
 | 55 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 56 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
 | 57 | [stab my back](https://open.spotify.com/track/2qmOdCbB4TbRWNXD7QOc1M) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 3:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 |
 | 85 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDBjYjE2OWJjMzI1ZDdlOGRjYTQyYTNhZDkzZmQyODg3`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDZkYzFlNDE2NDk0NTgwMTBkZTdhMzQxYjk0ODEyYWVh`

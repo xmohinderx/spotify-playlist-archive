@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-175 songs - 11 hr 8 min
+176 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 | 2022-10-04 |
 | [I Like Trouble](https://open.spotify.com/track/2G1PImEpUqv0RjRWPbDW4K) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:10 | 2022-10-03 | 2022-10-15 |
-| [I Want You \(For All Time\)](https://open.spotify.com/track/3XmchyRMOwSKQ0XlzTlsfc) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [I Want You \(For All Time\)](https://open.spotify.com/album/6EdFPUiIK35wD3irdSZltm) | 3:38 | 2022-11-18 |  |
+| [I Need To Know](https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07) | 4:00 | 2023-02-12 |  |
+| [I Want You \(For All Time\)](https://open.spotify.com/track/3XmchyRMOwSKQ0XlzTlsfc) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [I Want You \(For All Time\)](https://open.spotify.com/album/6EdFPUiIK35wD3irdSZltm) | 3:38 | 2022-11-18 | 2023-02-13 |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-09-09 | 2022-11-05 |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-10-21 |  |
 | [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 | 2022-11-13 |
@@ -110,7 +111,7 @@
 | [Mulholland Drive](https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [Snoop Dogg Presents Death Row Summer 2022](https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC) | 3:41 | 2023-02-10 |  |
 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 | 2021-12-03 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 | 2023-02-08 |
-| [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-21 |  |
+| [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-21 | 2023-02-13 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 | 2022-09-10 |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-09-12 |
 | [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 | 2022-09-24 |
@@ -153,7 +154,7 @@
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-09-09 |  |
 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 | 2021-12-03 | 2022-10-29 |
-| [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 | 2022-10-03 | 2022-12-17 |
+| [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 | 2022-10-03 |  |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2021-12-03 | 2022-10-01 |
 | [Take You There](https://open.spotify.com/track/57x83GI7482qiFSDooS02L) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:14 | 2022-11-04 |  |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |

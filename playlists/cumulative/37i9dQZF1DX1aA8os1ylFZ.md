@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-289 songs - 15 hr 20 min
+290 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Can't Get You Out Of My Bed](https://open.spotify.com/track/5PI0q2YjjK1sLI3YbmC0ye) | [POPE \(People Of Positive Energy\)](https://open.spotify.com/artist/7tOEzTwjTFTXDPeKQXvtw1), [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Can't Get You Out Of My Bed](https://open.spotify.com/album/7FP5mXz3tCP5GMq7cF1i2U) | 2:49 | 2023-01-27 | 2023-02-10 |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-03-26 |
 | [Candy Store](https://open.spotify.com/track/4InU1LZamm5PbCso8ttQJx) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Candy Store](https://open.spotify.com/album/6TykQyorYzB76eYARhIMHB) | 2:49 | 2023-02-02 |  |
+| [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-13 |  |
 | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 | 2021-12-16 | 2023-01-13 |
 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 | 2023-01-12 |  |
 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 | 2023-01-12 |  |
@@ -218,7 +219,7 @@
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2021-12-16 | 2023-01-13 |
 | [Right Here](https://open.spotify.com/track/3MyV9WDPuS1k13pCuydC1P) | [Nicolas Kanza](https://open.spotify.com/artist/751YCAfHx8dQSUbAN8Q9dl) | [Same Love; A Romanticized Timeline](https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV) | 3:02 | 2021-12-16 | 2022-01-21 |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 | 2023-02-02 |
-| [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 |  |
+| [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 | 2023-02-13 |
 | [Romcom](https://open.spotify.com/track/5cXglIMCSuEt0ZPagAdrcN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK), [James Francis](https://open.spotify.com/artist/0JiTjLmtWcCosekkIJS5VA) | [Romcom](https://open.spotify.com/album/52061Fl1ZslElEx9oPd5lr) | 3:01 | 2021-12-16 | 2022-07-23 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2023-01-12 |  |
 | [Same Mistakes](https://open.spotify.com/track/6tlFgxxlLY6ZbDTxD0u7nP) | [Hoger](https://open.spotify.com/artist/2O5fbNlRegXVPNL1r0x8Iy) | [Same Mistakes](https://open.spotify.com/album/1LdCuw6cLwuMzPOCLBsojB) | 2:43 | 2021-12-16 | 2023-01-13 |

@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Maffio & Luis Figueroa
 
-211 songs - 12 hr 49 min
+212 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Conocí a una Chica](https://open.spotify.com/track/5c0wqC9SuKeWKyQVVMhRCa) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Conocí a una Chica](https://open.spotify.com/album/4JeqXwg7LMHulJUN0rA9MS) | 2:31 | 2022-01-01 | 2022-03-26 |
 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 | 2023-01-27 |  |
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 |  |
-| [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-07-19 |  |
+| [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-07-19 | 2023-02-13 |
 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 | 2022-06-29 |  |
 | [Cuando Te Vuelva a Ver \- Bachata Version](https://open.spotify.com/track/3BwdoA2FFCEpxrTf062ze5) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bachata Union](https://open.spotify.com/album/35uUrVpaYFHrFTSYZ4F0Sf) | 3:42 | 2022-01-01 | 2022-03-26 |
 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 | 2022-01-01 | 2022-06-30 |
@@ -75,6 +75,7 @@
 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 |  |
 | [Eres Pasado](https://open.spotify.com/track/2jcOOMWz2XdcDndQX14sWs) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA), [El Sheke](https://open.spotify.com/artist/7kqzYL4VRj0qGXUtAt655a) | [Eres Pasado](https://open.spotify.com/album/4qbWO8FKazhiu5hzOxMA4r) | 3:10 | 2022-04-29 | 2022-06-30 |
 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 | 2022-09-09 |  |
+| [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 | 2023-02-10 |  |
 | [Estoy Completo](https://open.spotify.com/track/4Fyif2oJW0NvvtDNZi15LI) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Love Dance Merengue](https://open.spotify.com/album/15potGbxc3v18jQ0HbZUXL) | 3:25 | 2022-01-01 | 2022-01-29 |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-02-11 | 2022-06-30 |
 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-19 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Imen Es
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,165 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,275 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 13 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 | 14 | [Comme avant \(feat\. Low Jay\)](https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:53 |
 | 15 | [Love Story II](https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story II](https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K) | 1:43 |
-| 16 | [J'la connais, Pt\. 2](https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 2](https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt) | 2:49 |
+| 16 | [J'la connais, Pt\. 2 \- Jamais](https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 2 \(Jamais\)](https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt) | 2:49 |
 | 17 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 |
 | 18 | [Jamais](https://open.spotify.com/track/5YlJIxE6hsr5x7avxnjq8g) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:56 |
 | 19 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 |

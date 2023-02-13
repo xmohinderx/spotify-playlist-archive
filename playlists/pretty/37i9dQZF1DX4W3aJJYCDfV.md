@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ashnikko \(pictured\), Central Cee, Jax Jones and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,053 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,097 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 12 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 13 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 14 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
-| 15 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 15 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 16 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 |
 | 17 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
 | 18 | [Buried The Day](https://open.spotify.com/track/26LgkRj0GLm2yZrwPFsVug) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Buried The Day](https://open.spotify.com/album/4P6qC9gkA2FnZv4KFFw56F) | 3:32 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 120 | [Little Bits](https://open.spotify.com/track/3rkvq4oACREKCfLS7wz91X) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Little Bits](https://open.spotify.com/album/7CSAkRliecIomII68wkMgg) | 3:30 |
 | 121 | [Riot](https://open.spotify.com/track/07r8EVKZGP6eh7KGPQ9Wit) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [J P Rose](https://open.spotify.com/artist/0srIcdeVQQaftAQnLSUcAq) | [Riot](https://open.spotify.com/album/3u0Xj2PMiyNzXneFAzi4vl) | 3:34 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGRkNGE5ODgwMjQ1YTIyNDI4MmEyZTEyYWRmNWFiNzk2`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGQwZWE3MTJlNGM2MjExYjc4NGU4YzA4NjNjMTMxZjBj`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGNhNzFhNjViZjg1OGY4MjA3YmZkYTU1ZGRmYjRkMzg3",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGFiOWRjNjgyZjRkZDNhNDk3ZjFmZmY1YTcxOGVhNmIw",
   "tracks": [
     {
       "added_at": "2022-12-20 15:00:15",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
         "name": "Never Really Loved Me (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Stay Awake",
-      "url": "https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "My Head & My Heart (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 179512,
       "name": "My Head & My Heart - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 193923,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Live For",
-        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Live For",
-      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Feels Like Love (feat. MIYA MIYA)",
         "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 169672,
       "name": "Feels Like Love (feat. MIYA MIYA)",
       "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Live For",
+        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 171433,
+      "name": "Live For",
+      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1563,42 +1563,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 173038,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -1623,22 +1587,38 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 173038,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1659,6 +1639,26 @@
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2022-12-20 15:00:15",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2022-12-20 15:00:15",
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "World's First Cinema",
-          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
-        }
-      ],
-      "duration_ms": 215527,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE"
-    },
-    {
-      "added_at": "2022-12-20 15:00:15",
-      "album": {
         "name": "Make You Feel Like",
         "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
+    },
+    {
+      "added_at": "2022-12-20 15:00:15",
+      "album": {
+        "name": "Relight My Love",
+        "url": "https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Relight My Love",
+      "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
     }
   ],
   "unique_name": "Voglia di Sole",

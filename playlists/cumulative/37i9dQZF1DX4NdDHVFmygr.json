@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 187924,
       "name": "Aayane",
       "url": "https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 176902,
       "name": "Khalliha",
       "url": "https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI"
@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 195744,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
@@ -3622,6 +3622,24 @@
       "duration_ms": 176673,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5Xx23tgYcHoLEhsP8FfkeD"
+    },
+    {
+      "album": {
+        "name": "Stylo warqa",
+        "url": "https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Stylo warqa",
+      "url": "https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0"
     },
     {
       "album": {

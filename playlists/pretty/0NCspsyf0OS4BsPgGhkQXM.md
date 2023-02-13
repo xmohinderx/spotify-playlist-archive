@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,032,886 likes - 142 songs - 8 hr 5 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,032,852 likes - 142 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 21 | [Angst](https://open.spotify.com/track/501czsZhsXGZKJXB6Qxq1t) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Angst](https://open.spotify.com/album/3t5YVwlN9sBZO8U6RNYUmY) | 3:22 |
 | 22 | [Anima](https://open.spotify.com/track/2QRPw7J5OBRoToWXhWpFwt) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Shadow Wanderer](https://open.spotify.com/artist/5BjPPrn52L6Mq0OY2Jsqd6) | [Anima](https://open.spotify.com/album/1wCC2fkdshGlb53pDC9m23) | 3:40 |
 | 23 | [Euphoria](https://open.spotify.com/track/3fe0FJGCS3o1WzGikqM3Sn) | [Paapi Muzik](https://open.spotify.com/artist/2eAml1qDYCL6t4AoboTe3V), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:41 |
-| 24 | [Can't Stop The Feeling](https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Can't Stop The Feeling](https://open.spotify.com/album/4mWFs8LRVuZFTcvyBl6rve) | 4:37 |
+| 24 | [Can't Stop The Feeling](https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Can't Stop The Feeling](https://open.spotify.com/album/4mWFs8LRVuZFTcvyBl6rve) | 4:37 |
 | 25 | [GTA](https://open.spotify.com/track/5UQaYjFGGe4rWllcEOwPQc) | [PHONKA TRUCK](https://open.spotify.com/artist/6YS8kbWWMQlkGFiloRZ7As), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [GTA](https://open.spotify.com/album/3WOGIwO2sGQEVqzIoU7Rpo) | 2:23 |
 | 26 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
 | 27 | [Found You](https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk) | [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd), [VAUX](https://open.spotify.com/artist/30kxCU0wOt3JS75tZsYrZp) | [Found You](https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB) | 4:05 |

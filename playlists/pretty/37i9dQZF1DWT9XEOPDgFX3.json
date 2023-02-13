@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Indigo De Souza",
-  "num_followers": 60026,
+  "num_followers": 60157,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDEwZGZmMDI2YTBhMjk2NWQzZDk5ODk4ODI5NTRiNDlj",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDhlOGQ0YjEwNTU3MzYwYWQwNGQwMGE1YTUxM2RlZmM5",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 553213,
-      "name": "Snow Globes",
-      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 553213,
+      "name": "Snow Globes",
+      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Sorceress",
         "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Rare Feeling",
-        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 245849,
-      "name": "Dear Mexico (Thank You for Joyce)",
-      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 188390,
       "name": "Ignore Tenderness",
       "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Rare Feeling",
+        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 245849,
+      "name": "Dear Mexico (Thank You for Joyce)",
+      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 209826,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 235587,
-      "name": "Gossamer",
-      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 247258,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "At the Moonbase",
-        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 283536,
-      "name": "Do You Understand (What Has Happened to You)",
-      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "needy",
         "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "i don\u2019t know who needs to hear this...",
-        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
+        "name": "At the Moonbase",
+        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
       "artists": [
         {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 285569,
-      "name": "stoned",
-      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
+      "duration_ms": 283536,
+      "name": "Do You Understand (What Has Happened to You)",
+      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1755,6 +1739,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "i don\u2019t know who needs to hear this...",
+        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "stoned",
+      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-02-10 05:00:00",

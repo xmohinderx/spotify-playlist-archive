@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: You Me At Six
 
-2,871 songs - 6 day 19 hr 33 min
+2,872 songs - 6 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,7 +971,8 @@
 | [Go To Hell](https://open.spotify.com/track/6QjZM70zIx7OOHwOZ75itg) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Go To Hell](https://open.spotify.com/album/4a4NVlJGkVNaYG6F2eOgMu) | 4:01 | 2022-12-16 | 2023-01-06 |
 | [Go To Hell](https://open.spotify.com/track/2uClm4cp5IwBo1AZ2PCZ8I) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Go To Hell](https://open.spotify.com/album/6jQi3W29OOymh5c9xUdCBj) | 3:01 | 2022-07-22 | 2022-07-30 |
 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 | 2023-02-04 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 | 2023-02-13 |
 | [God Complex](https://open.spotify.com/track/3i59ekEcLcVJfGazAZOcE6) | [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap) | [God Complex](https://open.spotify.com/album/29nOc1u19Zb7zZf5EVa0Fc) | 3:23 | 2022-10-07 | 2022-10-15 |
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2022-11-12 |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-02-04 |

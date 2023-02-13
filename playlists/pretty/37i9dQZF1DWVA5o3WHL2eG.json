@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Leony",
-  "num_followers": 23428,
+  "num_followers": 23414,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDI1YjY5MzdmNDJkNGM0YzM2YjhkNWE3YjZkN2M5OTYx",
+  "snapshot_id": "MTY3NTIwNjAwMCwwMDAwMDAwMDMzYTk4ZmJkM2RjNzg1ZTE3YjZmNzdlZDAzNTZmZjJl",
   "tracks": [
     {
       "added_at": "2023-01-31 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5IiELU5sxBPtW71GF2QlK7"
-      },
-      "artists": [
-        {
-          "name": "Charisma",
-          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/088AALvEe9JhLFSNZe9axa"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 137933,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5IiELU5sxBPtW71GF2QlK7"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/088AALvEe9JhLFSNZe9axa"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "Strassenlichter",
-        "url": "https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
-        }
-      ],
-      "duration_ms": 126480,
-      "name": "Strassenlichter",
-      "url": "https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/035bTv89zj1lEFLElT979D"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 146907,
       "name": "Deep",
       "url": "https://open.spotify.com/track/64FUVo53H9BeVcDQzYC12U"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "Strassenlichter",
+        "url": "https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob"
+        }
+      ],
+      "duration_ms": 126480,
+      "name": "Strassenlichter",
+      "url": "https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J"
     },
     {
       "added_at": "2023-01-31 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-31 23:00:00",
       "album": {
-        "name": "The More I Bite",
-        "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
-      },
-      "artists": [
-        {
-          "name": "Cheriimoya",
-          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "The More I Bite",
-      "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
-    },
-    {
-      "added_at": "2023-01-31 23:00:00",
-      "album": {
         "name": "DIRTY SOUTH",
         "url": "https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 186961,
       "name": "KOMM MIT MIR",
       "url": "https://open.spotify.com/track/3a4elNaJUIOcRGlo7fs3ru"
+    },
+    {
+      "added_at": "2023-01-31 23:00:00",
+      "album": {
+        "name": "The More I Bite",
+        "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "The More I Bite",
+      "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
     },
     {
       "added_at": "2023-01-31 23:00:00",

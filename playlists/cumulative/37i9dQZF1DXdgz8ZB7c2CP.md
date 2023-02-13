@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Moore Kismet.
 
-333 songs - 18 hr 42 min
+334 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Gone](https://open.spotify.com/track/4ixrkNp2tWOYYZ7EAM0EAX) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx) | [Mazde](https://open.spotify.com/album/3PvFpfgQLyfinfUCDPtkeV) | 2:39 | 2023-02-10 |  |
 | [Gone](https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [RESET](https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr) | 3:10 | 2021-08-06 | 2023-02-04 |
 | [Gone \- Sam Day Remix](https://open.spotify.com/track/3DXtDgmb9A3Gp5Dd5EF6tI) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Gone \(Sam Day Remix\)](https://open.spotify.com/album/2WlydDZM5ADjOfN3W2liUx) | 2:38 | 2022-04-22 | 2022-07-29 |
-| [Gone \- Sam Day Remix](https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Mazde: The Remixes](https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR) | 2:38 | 2022-12-21 |  |
+| [Gone \- Sam Day Remix](https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Mazde: The Remixes](https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR) | 2:38 | 2022-12-21 | 2023-02-13 |
 | [Grateful](https://open.spotify.com/track/0b4FAp9BjRoh9MmCs3TI0D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Disconnect](https://open.spotify.com/album/46oF8bPSYc6DHs2PpqViTG) | 3:58 | 2021-08-06 | 2022-06-18 |
 | [Half Way Home](https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Half Way Home](https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh) | 2:57 | 2021-08-06 |  |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-02-10 |  |
@@ -173,6 +173,7 @@
 | [let me](https://open.spotify.com/track/6ThArNkAqw6TzGaFgnX5j1) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4), [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [let me](https://open.spotify.com/album/1cMLi5mMTvRpQHdUjEJzf1) | 3:05 | 2021-11-19 | 2022-04-21 |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-21 |  |
 | [Let You Go](https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Chrome Castle](https://open.spotify.com/album/0ZnuAyKO30TEtANQrikmJm) | 4:39 | 2022-03-18 | 2022-07-29 |
+| [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/track/39tTbcfjAL000DxMUMJhO0) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/album/0ZAuSMPh6VcoHEXITDVfZz) | 3:08 | 2023-02-10 |  |
 | [Lilac](https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/1H8Xdq0xD8r1j7X3ZpZLuV) | 2:19 | 2023-02-10 |  |
 | [Lilac](https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/5cBOUvDkmufaMweh3EBH2J) | 2:19 | 2021-08-06 | 2022-07-24 |
 | [Live Lonely](https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [The Future Is Bass](https://open.spotify.com/album/0RGBHBBnKxvRA9gmcbK80f) | 2:23 | 2021-08-27 | 2022-04-21 |

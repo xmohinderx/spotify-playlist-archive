@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 1034,
+  "num_followers": 1033,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDE4NGVmN2JjODA2MWEwNGU3ZDQ4OWRhNzFiY2EzYzFk",
+  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMGM0ZjM3Yzk0ZDVkZjAxZmMyNTAxZWViZmE2MGEyNWE0",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 159254,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2022-11-30 14:18:55",

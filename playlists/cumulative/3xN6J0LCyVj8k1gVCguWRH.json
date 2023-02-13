@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/79qBfeyUckirCjxd5XNRiE"
+      },
+      "artists": [
+        {
+          "name": "1OAK Mickey",
+          "url": "https://open.spotify.com/artist/6ZcgKySXvWLQNNSmLEZny5"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "007",
+      "url": "https://open.spotify.com/track/0G0on4KEOd6h11ZqqPFSkO"
+    },
+    {
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },

@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Blessing Offor
 
-288 songs - 16 hr 57 min
+289 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Humxn Race](https://open.spotify.com/track/7eDwyrabtmW4j65sYJxoLj) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Humxn Race](https://open.spotify.com/album/1W1yRJYrMmoITgIclpsyZm) | 4:23 | 2021-12-03 | 2022-07-01 |
 | [hurt](https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:46 | 2022-07-15 |  |
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-12-09 | 2023-02-06 |
+| [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/7BNVtH2GKz8GGGXlFvHNZb) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 3:55 | 2022-12-09 |  |
 | [Hypotheticals \- Edit](https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:10 | 2021-12-03 | 2023-01-28 |
 | [Hypotheticals \- Edit](https://open.spotify.com/track/2qP9lVJb52SRLVOLxm3lzN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Hypotheticals](https://open.spotify.com/album/7ez1oWCcQAg6iXFJnjUpSP) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-03 | 2023-01-28 |
@@ -170,7 +171,7 @@
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-03 | 2022-10-01 |
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2021-12-03 | 2023-01-28 |
-| [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 |  |
+| [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2023-02-13 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 |  |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-20 |
 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 | 2021-12-03 | 2022-10-01 |

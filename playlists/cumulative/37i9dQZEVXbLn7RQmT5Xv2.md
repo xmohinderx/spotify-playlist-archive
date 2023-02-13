@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-567 songs - 1 day 8 hr 11 min
+568 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-03 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-15 |
 | [Bestek Now](https://open.spotify.com/track/3e1PxagfpNmZl8HzssQl5F) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Samer](https://open.spotify.com/artist/6THSwxEoIFmnhD7egfn9IQ) | [Bestek Now](https://open.spotify.com/album/3KqaY5JHXtH69LXnS2VLOK) | 3:01 | 2021-03-29 | 2021-03-31 |
-| [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2021-12-26 | 2023-02-02 |
+| [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2021-12-26 |  |
 | [BIG MAFIA](https://open.spotify.com/track/428jaX27ZFdS1kvDu56YXX) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [BIG MAFIA](https://open.spotify.com/album/5IjFm7ZXWDHGJ5yYcMVNrC) | 3:28 | 2022-01-04 | 2022-01-08 |
 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 | 2022-07-03 | 2022-07-27 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-04-03 | 2022-04-22 |
@@ -133,11 +133,12 @@
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-08-13 | 2023-02-01 |
 | [El 3aw \- العو](https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El 3aw \- العو](https://open.spotify.com/album/7pduZbuDZ53U3jeDTYJQej) | 3:28 | 2021-06-23 | 2022-02-04 |
 | [El 3bd W El Waili](https://open.spotify.com/track/6CFDWaN8XmEHGUgXG2MxaO) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3bd W El Waili](https://open.spotify.com/album/43JSHH03M1PhzPjixeuwnG) | 3:53 | 2022-04-08 | 2022-07-06 |
+| [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-12 |  |
 | [El Donia El Helwa](https://open.spotify.com/track/6W6lYqKuPScYWchL6bS7Ly) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [El Donia El Helwa](https://open.spotify.com/album/7FX0RpQPmbmFk8QXxiRFf8) | 3:16 | 2021-04-17 | 2021-06-27 |
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-02-04 | 2022-04-03 |
 | [El Gemeza](https://open.spotify.com/track/2w27LtQBJvauJ6vDw12ecs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [El Gemeza](https://open.spotify.com/album/6VpkfYz9MkclaPPEItH2XJ) | 2:59 | 2021-03-27\* | 2021-10-18 |
 | [El Gholaf X Ozoris](https://open.spotify.com/track/5M7EIx94YOdh1uH0qlzxuK) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [El Gholaf X Ozoris](https://open.spotify.com/album/1rjb5Q1v6OPD9sq8gQPhrf) | 4:01 | 2021-03-27\* | 2021-04-26 |
-| [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 |  |
+| [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-02-13 |
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-15 | 2022-06-26 |
 | [El Hob Ebn Wes5a](https://open.spotify.com/track/0RsGwcEEqxDMhNA0jahQFV) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:46 | 2022-02-17 | 2022-03-01 |
 | [El Hob Fein](https://open.spotify.com/track/60Gq23sQOFobysukKlK6fb) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 2:43 | 2021-03-31 | 2021-06-05 |
@@ -574,6 +575,6 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-03-01 | 2022-03-07 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-22 | 2022-05-05 |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-08-26 | 2021-11-28 |
-| [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-02-02 |  |
+| [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-02-02 | 2023-02-13 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

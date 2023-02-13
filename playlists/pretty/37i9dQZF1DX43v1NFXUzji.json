@@ -1,12 +1,12 @@
 {
   "description": "Latin music bangers for your gaming session! Cover: Banda MS",
-  "num_followers": 132164,
+  "num_followers": 132212,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTgyMSwwMDAwMDAwMGQ0YWU1ZDQ1NTk1Njk0ZjZhMTA2MjIxNjYyNGY4Y2Qz",
+  "snapshot_id": "MTY3MzI0NTgyMSwwMDAwMDAwMDczNzk3YTk2ZDlmMGU1NDE5M2Q2ODhiMDM4NmVmMTZi",
   "tracks": [
     {
       "added_at": "2023-01-09 06:30:21",
@@ -751,22 +751,26 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -791,26 +795,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Haw\u00e1i (Remix)",
-        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200481,
-      "name": "Haw\u00e1i - Remix",
-      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "Haw\u00e1i (Remix)",
+        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200481,
+      "name": "Haw\u00e1i - Remix",
+      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "La Mam\u00e1 de la Mam\u00e1",
         "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 219000,
       "name": "La Mam\u00e1 de la Mam\u00e1",
       "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Romances de una Nota 2021, Vol.2",
-        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
+        "name": "FULANITO",
+        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
       "artists": [
         {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 167504,
-      "name": "23 (With Ape Drums)",
-      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
+      "duration_ms": 158531,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -1951,22 +1951,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "FULANITO",
-        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
+        "name": "Romances de una Nota 2021, Vol.2",
+        "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
         }
       ],
-      "duration_ms": 158531,
-      "name": "FULANITO",
-      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
+      "duration_ms": 167504,
+      "name": "23 (With Ape Drums)",
+      "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2743,6 +2743,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
       },
@@ -2763,22 +2779,6 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -2899,22 +2899,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "Llorando en un Ferrari",
-      "url": "https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -2975,6 +2959,22 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "Llorando en un Ferrari",
+      "url": "https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "Deprimida",
         "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
       },
@@ -3023,22 +3023,6 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 236914,
-      "name": "Rick Flair",
-      "url": "https://open.spotify.com/track/2PkRgnDUP0ED3xHjCNMJk4"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
         "name": "De Mi Para Ti",
         "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
       },
@@ -3051,22 +3035,6 @@
       "duration_ms": 188954,
       "name": "Viendo El Techo",
       "url": "https://open.spotify.com/track/1KVkcUbK8rJpDyO6n0H5t2"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -3095,6 +3063,38 @@
     {
       "added_at": "2023-01-09 06:30:21",
       "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 236914,
+      "name": "Rick Flair",
+      "url": "https://open.spotify.com/track/2PkRgnDUP0ED3xHjCNMJk4"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/3uXtARdx2F4KKFH5oSePV6"
       },
@@ -3107,26 +3107,6 @@
       "duration_ms": 184853,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/2f7NUdkIV8pocxNkgh8efv"
-    },
-    {
-      "added_at": "2023-01-09 06:30:21",
-      "album": {
-        "name": "GUCCI FENDI",
-        "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "GUCCI FENDI",
-      "url": "https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ"
     },
     {
       "added_at": "2023-01-09 06:30:21",
@@ -3151,6 +3131,26 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
+    },
+    {
+      "added_at": "2023-01-09 06:30:21",
+      "album": {
+        "name": "GUCCI FENDI",
+        "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "GUCCI FENDI",
+      "url": "https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ"
     },
     {
       "added_at": "2023-01-09 06:30:21",

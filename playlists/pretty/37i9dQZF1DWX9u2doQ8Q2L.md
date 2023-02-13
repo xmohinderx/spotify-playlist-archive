@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,881 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,958 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 42 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
 | 43 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
 | 44 | [non zero sum game](https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [non zero sum game](https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj) | 3:28 |
-| 45 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
+| 45 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
 | 46 | [Spice](https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Spice](https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT) | 3:45 |
-| 47 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
+| 47 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 48 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 |
 | 49 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
 | 50 | [FUNK FUJIYAMA](https://open.spotify.com/track/3kYxbVz0vRMp2P5RV25Iyw) | [ASAKUSA JINTA](https://open.spotify.com/artist/4lE17OE2xMkQ7M9hZlH5nA) | [FUNK FUJIYAMA / Dontobushi](https://open.spotify.com/album/56dqj2GN17DYtS7gOyuHlq) | 4:05 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 76 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 |
 | 77 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
 | 78 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 |
-| 79 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 |
-| 80 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
+| 79 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
+| 80 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 |
 | 81 | [TOMORROW](https://open.spotify.com/track/0CtLaqaOEcCcnrd4SMyRO6) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [TOMORROW](https://open.spotify.com/album/3OzVRrt3RvNApAx0zsiihO) | 3:11 |
 | 82 | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 2:31 |
 | 83 | [Vision Quest](https://open.spotify.com/track/6tAh4drk67WkQi4EwXnCkM) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [Vision Quest](https://open.spotify.com/album/4rGN5cYGuap6XTiOMxMCuH) | 3:08 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 96 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 |
 | 97 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 |
 | 98 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 |
-| 99 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
+| 99 | [blur and flower](https://open.spotify.com/track/4XXv8XROOit6ZpSDkbpufH) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv) | 4:18 |
 | 100 | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 |
 
-Snapshot ID: `MTY3NTk1NDgwMCwwMDAwMDAwMDE3ZmZmNWZlNTFiYzE3NWI3OWI5ZTRiZTE5ZmRmYThk`
+Snapshot ID: `MTY3NTk1NDgwMCwwMDAwMDAwMDhmZTZiZDI0NjRmYmU5N2ZlOGM5MGJmNjE4OTM5MTAz`

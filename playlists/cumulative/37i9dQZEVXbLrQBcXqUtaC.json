@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 146640,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
@@ -6688,7 +6688,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
@@ -9484,7 +9484,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr"
@@ -10074,7 +10074,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
@@ -10335,6 +10335,32 @@
     },
     {
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/6qvRb6Ik9mgRp1mIoO8rfb"
+      },
+      "artists": [
+        {
+          "name": "Shamoryo",
+          "url": "https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq"
+        },
+        {
+          "name": "Zachxreal",
+          "url": "https://open.spotify.com/artist/09S22QNPyNufKlJY023c85"
+        },
+        {
+          "name": "Victoria Berry",
+          "url": "https://open.spotify.com/artist/3lJQek8DHLuF5XYHrB5QH0"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124087,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/00sfQkeJqiSCLBwOQAbUU9"
+    },
+    {
+      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
       },
@@ -10350,7 +10376,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
@@ -12056,7 +12082,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
@@ -12248,6 +12274,32 @@
       "duration_ms": 131501,
       "name": "Wasl Al Mahabah",
       "url": "https://open.spotify.com/track/6hdRHwO3HVpXqZKmmZQXbb"
+    },
+    {
+      "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "album": {
@@ -13414,7 +13466,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 195882,
       "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/0SbObewB36qKLWcaxMntej"
@@ -14534,7 +14586,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 242996,
       "name": "\u200e\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
       "url": "https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD"

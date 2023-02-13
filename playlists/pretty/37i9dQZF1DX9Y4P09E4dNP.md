@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,784 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,793 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 22 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 23 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
 | 24 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 |
-| 25 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
+| 25 | [Odo Asisi Me \- Remix](https://open.spotify.com/track/5KRIF5cZR3XAayf98QTdZJ) | [Akatakyie](https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l) | [Odo Asisi Me](https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid) | 5:09 |
 | 26 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
-| 27 | [Odo Asisi Me \- Remix](https://open.spotify.com/track/5KRIF5cZR3XAayf98QTdZJ) | [Akatakyie](https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l) | [Odo Asisi Me](https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid) | 5:09 |
+| 27 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
 | 28 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
 | 29 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80) | 5:00 |
 | 30 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 37 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
 | 38 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 |
 | 39 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 |
-| 40 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 |
+| 40 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 |
 
-Snapshot ID: `MTY3NjAyNTYxOSwwMDAwMDAwMDJjZGYxODZkNTE5OGI1MWViYzEwZTlkNDExNWFmMmVh`
+Snapshot ID: `MTY3NjAyNTYxOSwwMDAwMDAwMDI4N2U4NzU4YTFmMjg3M2NhNDNjNzExZDYxNTlkZjNj`

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-338 songs - 1 day 1 hr 26 min
+339 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [More Than Human](https://open.spotify.com/track/61zB4KTrgORQiXRJ1B3urg) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Music For My Memories Pt\. II](https://open.spotify.com/album/00v10qeXX8AUzg5boCdG83) | 4:13 | 2021-06-11 | 2022-07-29 |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-05-13 | 2022-07-29 |
 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 | 2022-08-12 | 2022-10-03 |
-| [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-07-01 |  |
+| [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-07-01 | 2023-02-13 |
 | [My Light](https://open.spotify.com/track/0eANfKS2OdrNW97hqnN2Hd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Arkade Destinations Iceland](https://open.spotify.com/album/5co9bcybiUIWZleDoNLo7w) | 4:55 | 2021-05-07 | 2022-04-18 |
 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 | 2021-05-07 |  |
 | [Naked in Space](https://open.spotify.com/track/0XdpgAs8Fp8fxMJsCiiD2U) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Stub](https://open.spotify.com/artist/78pxK5C9rPSl4lyfb4wOnN) | [Naked in Space EP](https://open.spotify.com/album/6ZHDKTljQyVW2Oqok8vOG9) | 3:16 | 2021-05-07 | 2022-07-19 |
@@ -279,6 +279,7 @@
 | [Suligen](https://open.spotify.com/track/56EmWLEAO7lKWhZIOOGehP) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Sodality](https://open.spotify.com/artist/6rkcwqYBmnC0cqjGERkklu) | [From The Start](https://open.spotify.com/album/5fUAt336RVzjYVm7l4kC5a) | 3:58 | 2021-05-07 | 2022-07-25 |
 | [Sun](https://open.spotify.com/track/3gwL0zQKWmtJA8oYhXmqn8) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Sun EP](https://open.spotify.com/album/2eEvThMm9Kj9HDifqrI8Xw) | 7:29 | 2021-05-07 | 2022-04-13 |
 | [Sunday Driver](https://open.spotify.com/track/66QxW6PVaVt4viuUqHFDsJ) | [Igor Garanin](https://open.spotify.com/artist/4ehXKv4sgs5snOxOGnEHLr) | [Anjunadeep Explorations 15](https://open.spotify.com/album/1Z7foZwT3Mg4ZT5GEKD49W) | 4:52 | 2021-05-07 | 2022-04-21 |
+| [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 |  |
 | [Synesthesia \- Radio Edit](https://open.spotify.com/track/4tYhb2RtgzpltirLnbgoRY) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Timeless/Synesthesia](https://open.spotify.com/album/5SdMIzrsucFXu3QLJhT5tR) | 3:45 | 2021-05-07 | 2022-04-18 |
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |
 | [Take Me Higher](https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Take Me Higher](https://open.spotify.com/album/7L0E4Y6UGHBACLLxiBikR8) | 3:19 | 2021-05-07 | 2023-02-04 |

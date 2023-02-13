@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relájate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,181 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,175 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 44 | [On the Wire](https://open.spotify.com/track/7yfyPp0Fv5quOrbg4CqLRb) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [The Lighthouse \- Everything's Calm](https://open.spotify.com/album/6mkLpQbCgXvhpcXZGE5DJn) | 7:28 |
 | 45 | [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 |
 | 46 | [Madreselva](https://open.spotify.com/track/4cRyHa7xgnS8SDHFCG2Rxs) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1) | [Il Postino \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VpX1xTvwjvN7jpApnSALH) | 2:20 |
-| 47 | [El Noi De La Mare \- The Son Of Mary](https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl) | [Muriel Anderson](https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC) | [Harp Guitar Christmas](https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0) | 3:12 |
-| 48 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
-| 49 | [Suite Española, Op\. 47: I\. Granada \- arr\. for Guitar](https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Irina Kircher](https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK) | [Summer Classics: Spanish Nights](https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG) | 4:51 |
-| 50 | [Natzurka](https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0) | [Accordzêam](https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h) | [Tapas: Le balbum \(L'honneur de ceux qui le font, le bonheur de ceux qui l'ont \- Musique du monde et d'ailleurs\)](https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd) | 5:40 |
+| 47 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
+| 48 | [El Noi De La Mare \- The Son Of Mary](https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl) | [Muriel Anderson](https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC) | [Harp Guitar Christmas](https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0) | 3:12 |
+| 49 | [Natzurka](https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0) | [Accordzêam](https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h) | [Tapas: Le balbum \(L'honneur de ceux qui le font, le bonheur de ceux qui l'ont \- Musique du monde et d'ailleurs\)](https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd) | 5:40 |
+| 50 | [Suite Española, Op\. 47: I\. Granada \- arr\. for Guitar](https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Irina Kircher](https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK) | [Summer Classics: Spanish Nights](https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG) | 4:51 |
 | 51 | [Redemption](https://open.spotify.com/track/7A6xs53bFNPhbc6OthfczP) | [Carlos José Alvarez](https://open.spotify.com/artist/0lfLTyjFKw6eqPPuifNcrA) | [Of Mind And Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16VYDRe5E7hsY4pc90DOC2) | 2:40 |
 | 52 | [Love Theme](https://open.spotify.com/track/1doPy3bX81PTHcfujT1nyS) | [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj), [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/2f8WUz32TdEglQiy2cm12Z) | 2:55 |
 | 53 | [My Foolish Heart](https://open.spotify.com/track/0gKeuMAHGVGwChhXGjgQbk) | [Robi Botos](https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY) | [Arbitrage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tZ4QseytRXPDK4Q9RJWKY) | 5:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 59 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
 | 60 | [Los abrazos rotos \(From "Los abrazos rotos"\)](https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Pedro Almodóvar & Alberto Iglesias Film Music Collection](https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ) | 3:00 |
 
-Snapshot ID: `MTY3NDc5MTYxOCwwMDAwMDAwMGNjYjBjMzMyOTkyZDI4ZThjMDljN2I2MjZmOGIxOWFj`
+Snapshot ID: `MTY3NDc5MTYxOCwwMDAwMDAwMDgwN2EzMGIxNDc5ODM0MmVjOWQ1MzU1MTA4NWUwNmZh`

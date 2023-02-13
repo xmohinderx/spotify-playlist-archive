@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1329458,
+  "num_followers": 1329424,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDliZDkwNmVkMjYwNzlhZTMwZjkyYzVmZjdjZTA4MDAx",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMGJiZjcyMjMyMzZmM2Q0MWFkZDNhNmFkOTg5OTIyMzE2",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264452,
-      "name": "Motion Sickness (Demo - Bonus Track)",
-      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Here with Me",
         "url": "https://open.spotify.com/album/4pdMeK0Lb79nwLFGqholxm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 238971,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/6IF2P93LkyW4GqDQu1yS7H"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264452,
+      "name": "Motion Sickness (Demo - Bonus Track)",
+      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Cormorant Bird",
         "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
-      },
-      "artists": [
-        {
-          "name": "Isobel Anderson",
-          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "There's Always Glimmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "In My Garden",
+        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
+      },
+      "artists": [
+        {
+          "name": "Isobel Anderson",
+          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
     },
     {
       "added_at": "2022-04-15 16:56:49",

@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 214190,
       "name": "Barnsben",
       "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 155085,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
@@ -9527,6 +9527,24 @@
     },
     {
       "album": {
+        "name": "Stay.",
+        "url": "https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "Stay.",
+      "url": "https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb"
+    },
+    {
+      "album": {
         "name": "Stilla",
         "url": "https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x"
       },
@@ -11476,6 +11494,24 @@
       "duration_ms": 194759,
       "name": "What You Were Made For",
       "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
+    },
+    {
+      "album": {
+        "name": "When You\u2019re Young",
+        "url": "https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "When You\u2019re Young",
+      "url": "https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx"
     },
     {
       "album": {

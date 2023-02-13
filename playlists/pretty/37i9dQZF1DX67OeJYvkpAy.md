@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,393 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,429 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 18 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
 | 19 | [Left Back \- Remix](https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Left Back \(Remix\)](https://open.spotify.com/album/0jUIULN8y7PJ6jIMgE94y1) | 2:54 |
 | 20 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
-| 21 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
+| 21 | [Again](https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO) | 2:14 |
 | 22 | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/album/5dgLLxotbmPvWKKTDeP3au) | 2:39 |
-| 23 | [Again](https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO) | 2:14 |
+| 23 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
 | 24 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
 | 25 | [Never Really Mine](https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 2:18 |
 | 26 | [Broken Hearted Crook](https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP) | 2:48 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 81 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 82 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 83 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
-| 84 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
-| 85 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 86 | [Take The Risk](https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Take The Risk](https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R) | 3:20 |
+| 84 | [Take The Risk](https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Take The Risk](https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R) | 3:20 |
+| 85 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 86 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 87 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 88 | [Dreaming](https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Dreaming](https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s) | 1:50 |
 | 89 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [I Wanna Start My Life Again](https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk) | 2:30 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMGI0ZWUzMmI3N2MyODQ4MGUyNWIyNjI3MTFlY2VmYjA2`
+Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMDJhNDkzNzkwMDEyNWU1MWViN2RkODM4ZGFkMjFhOTU3`

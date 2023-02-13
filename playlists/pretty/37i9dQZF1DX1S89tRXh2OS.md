@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,180 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,308 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 66 | [I Can't Dance \- 2007 Remaster](https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [We Can't Dance](https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO) | 3:59 |
 | 67 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 68 | [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 |
-| 69 | [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 |
+| 69 | [Sunday With A Flu](https://open.spotify.com/track/6zfT8ekh9fF4Tf2uEZYC6t) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Love songs 2000s](https://open.spotify.com/album/3RE8Y4VaZtmGCU7rqF7Mpm) | 2:17 |
 | 70 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 71 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 72 | [Unicorns](https://open.spotify.com/track/5gH210qVSjzFbIytFEDVob) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Making Love & Climbing](https://open.spotify.com/album/1we1DhlJXdCwyt6CcLmyBv) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 79 | [Starz In Their Eyes](https://open.spotify.com/track/3XClLzrEPTpHHKOhzhifzz) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Overtones](https://open.spotify.com/album/4Ev2OcBjclMZM66wHn64Lu) | 4:57 |
 | 80 | [Took Took](https://open.spotify.com/track/72WtR04lbGq7vLMv96dxoM) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Alie](https://open.spotify.com/album/4foWrLbq6uoFbDpxHB3fHE) | 2:59 |
 
-Snapshot ID: `MTY3MDE5NDgwMCwwMDAwMDAwMGYwZTU4YzBjYzVlYjc2MGU3ODVhN2M3NDdmMTNjNTEy`
+Snapshot ID: `MTY3MDE5NDgwMCwwMDAwMDAwMGJmNDBkY2RkYjY5ZTQxNmMzMzNhMGU1YWE5MTdlNzRh`

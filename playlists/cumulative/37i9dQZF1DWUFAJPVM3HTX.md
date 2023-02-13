@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: October London\. Updates every Wednesday.
 
-1,007 songs - 2 day 4 hr 20 min
+1,008 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Thinking](https://open.spotify.com/track/7jGXlWmxFPzBJOelhhg0DK) | [Jean Root](https://open.spotify.com/artist/552ZwELQyZPtQtikl5e1tn) | [Thinking](https://open.spotify.com/album/2iX08scdGLXtaMP7rE5OGc) | 3:27 | 2022-03-30 | 2022-05-19 |
 | [Thinking of You](https://open.spotify.com/track/5GWGCUx1dXcEd9bWphI2IC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:21 | 2022-11-30 |  |
 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 | 2022-09-01 | 2022-10-06 |
+| [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 | 2023-02-12 |  |
 | [This Job](https://open.spotify.com/track/58DpuH5jhvQSQShZcR7lC9) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4) | [This Job](https://open.spotify.com/album/0xx5GnHodMvyUncqauELUR) | 2:34 | 2022-07-01 | 2022-08-20 |
 | [Throw It Away](https://open.spotify.com/track/1Khn7WhtkBK8ixeI95Msxx) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Stay In Luv](https://open.spotify.com/album/0Vdk013Q5SZ5OSiBCkxWy5) | 2:52 | 2022-07-27 | 2023-02-04 |
 | [tie down](https://open.spotify.com/track/0usvWKkce3NpnYtU2ETAvw) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [nice](https://open.spotify.com/album/4AXzhjCTkHyzaUaLU0mXHs) | 2:47 | 2021-12-01 | 2022-01-13 |

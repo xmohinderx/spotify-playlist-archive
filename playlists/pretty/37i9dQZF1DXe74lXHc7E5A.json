@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Central Cee",
-  "num_followers": 4567,
+  "num_followers": 4588,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMTU5NywwMDAwMDAwMDFhNGM5OWY1NWFjMTQ0YWQ2ODlkN2M3ZmZkNTI4ZTg0",
+  "snapshot_id": "MTY3NjAyMTU5NywwMDAwMDAwMGMxZGYyOGRjZTYxODg1ZDU2ZmFjZWY5NDE3NWNiMzdk",
   "tracks": [
     {
       "added_at": "2022-12-18 10:26:20",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/26JsQSJmZPZb0XpNqaGUht"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
       "added_at": "2022-12-05 06:32:07",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -103,22 +119,6 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "Same Problems?",
-        "url": "https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt"
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 262941,
-      "name": "Same Problems?",
-      "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -351,22 +355,18 @@
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
+        "name": "Same Problems?",
+        "url": "https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
+      "duration_ms": 262941,
+      "name": "Same Problems?",
+      "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
     },
     {
       "added_at": "2022-07-27 12:30:07",

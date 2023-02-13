@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 442228,
+  "num_followers": 442239,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDY5NmVkNzVhOTk3ODY2MmM0ZTNkYjc1Yjc2OWY5ZjVk",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMGIzZmU0YjlmMDcxNzdmODljYzBjNzBiNTBlYmUzZWM2",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -435,22 +435,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 163321,
-      "name": "Bois Lie (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+      "duration_ms": 202209,
+      "name": "No Love In LA",
+      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -511,18 +507,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 202209,
-      "name": "No Love In LA",
-      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
+      "duration_ms": 163321,
+      "name": "Bois Lie (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 189101,
       "name": "When You Know",
       "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
+        "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 314594,
+      "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
+      "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "We Made Plans & God Laughed",
         "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
-        "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
       },
       "artists": [
         {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 314594,
-      "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
-      "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "REAL SUPER DARK",
-        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Trauma Factory",
         "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Tell Me You're Sorry",
+        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Tell Me You're Sorry",
+      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Sober/Hungover (feat. Arizona Zervas)",
         "url": "https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 169336,
       "name": "Sober/Hungover (feat. Arizona Zervas)",
       "url": "https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Tell Me You're Sorry",
-        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Tell Me You're Sorry",
-      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Face Down (Symphonic Edition)",
-        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Face Down - Symphonic Edition",
-      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "debbie downer",
         "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Face Down (Symphonic Edition)",
+        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Face Down - Symphonic Edition",
+      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Life In Your Glass World",
+        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "I Want to Kill You",
+      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "SUBSTANCE",
         "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 172928,
       "name": "Re-Entry (feat. Mark Hoppus)",
       "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Life In Your Glass World",
-        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "I Want to Kill You",
-      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Trauma Factory",
         "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 179690,
       "name": "pretend",
       "url": "https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Wouldn't That Be Nice",
+        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 186214,
+      "name": "Wouldn't That Be Nice",
+      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "With Confidence",
         "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 216000,
       "name": "28",
       "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Wouldn't That Be Nice",
-        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 186214,
-      "name": "Wouldn't That Be Nice",
-      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf"
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
         }
       ],
-      "duration_ms": 166273,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1"
+      "duration_ms": 203550,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
         }
       ],
-      "duration_ms": 203550,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
+      "duration_ms": 168500,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf"
       },
       "artists": [
         {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 168500,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G"
+      "duration_ms": 166273,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1"
     },
     {
       "added_at": "2022-12-02 05:00:00",

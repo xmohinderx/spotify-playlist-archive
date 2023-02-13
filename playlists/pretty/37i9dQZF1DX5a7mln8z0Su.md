@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,203 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,204 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 39 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
 | 40 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 41 | [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 |
-| 42 | [Letter](https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm) | [Letter](https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5) | 3:42 |
-| 43 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
-| 44 | [Shooting Star](https://open.spotify.com/track/4V64n9p1OqlZTwgNGuDRmo) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Shooting Star](https://open.spotify.com/album/5EAsZOx6DFvj7roiv8FVDb) | 3:07 |
-| 45 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
+| 42 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
+| 43 | [Letter](https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm) | [Letter](https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5) | 3:42 |
+| 44 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
+| 45 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
 | 46 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
-| 47 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
+| 47 | [Shooting Star](https://open.spotify.com/track/4V64n9p1OqlZTwgNGuDRmo) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Shooting Star](https://open.spotify.com/album/5EAsZOx6DFvj7roiv8FVDb) | 3:07 |
 | 48 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 49 | [goodbye](https://open.spotify.com/track/7yZbJNDEqvxvCzpl1JeWgh) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [goodbye](https://open.spotify.com/album/6nQkkGEfNQHwuRiB765rlt) | 2:44 |
 | 50 | [Go Back 집에](https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:47 |
 
-Snapshot ID: `MTY3NTkxNzk3NywwMDAwMDAwMGE0YTE1MTg5NjQ3MDQ1OWJkNzVmZTNlYmMwYjFlZjRj`
+Snapshot ID: `MTY3NTkxNzk3NywwMDAwMDAwMDMzMWZkYjAyMTRkOGRlZjNmNTlkZTA4OWMwOWVkYmM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,457 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,464 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 25 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 | 26 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 |
 | 27 | [Double CC's](https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:11 |
-| 28 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
-| 29 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 |
+| 28 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 |
+| 29 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
 | 30 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
 | 31 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 |
 | 32 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 |
 | 50 | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/track/5UtN4XWCmeZWsbu5mRpPSQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lupita Nyong'o](https://open.spotify.com/artist/1tAwjP3FOwCCzqLwz44GsW), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [La La](https://open.spotify.com/artist/1RDWIpR1C3uzTp0ZRtYNKk) | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/album/0PNfF05nd0te0wodwtcvcn) | 4:29 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDAwNjY1MmE0YWFlYzVjZTg5MjM1NjBmNWJkOGJkNjIyOQ==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDA4ZWFhN2E5ZjBhY2JkZjQ2ZDY5ZDA1ZDI2ZDU3OTYyOA==`

@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 54721,
+  "num_followers": 54749,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2OTg5MCwwMDAwMDAwMDZlZDIxYjljNjJmNjBkMWY3NWExZmI5ZTlkMWYzZDQy",
+  "snapshot_id": "MTY3NDU2OTg5MCwwMDAwMDAwMDhkN2Y0YzVhNmQyZGNiOWFjNTNlYTU3ZjYxYTIwZjRk",
   "tracks": [
     {
       "added_at": "2023-01-24 14:18:10",
@@ -1099,26 +1099,30 @@
     {
       "added_at": "2023-01-24 14:18:10",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/03AEImI6IHDgVIiTuoD80h"
+        "name": "Ain't It Different - Conducta Remix (feat. AJ Tracey & Stormzy)",
+        "url": "https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l"
       },
       "artists": [
         {
-          "name": "Groovy D",
-          "url": "https://open.spotify.com/artist/43iAneSLd8xkYP6lgczDIZ"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         },
         {
-          "name": "Anna Straker",
-          "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/6dRBgY551j2akEK2nkGXH8"
+      "duration_ms": 226461,
+      "name": "Ain't It Different (feat. AJ Tracey & Stormzy) - Conducta Remix",
+      "url": "https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4"
     }
   ],
   "unique_name": "New UK Garage",

@@ -1,15 +1,15 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 179986,
+  "num_followers": 180074,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTcwNTAxMSwwMDAwMDAwMDY0ZDRlMmQxYjQ3ZmE0NzYyYWY3YjJhMzdlN2JkNTRj",
+  "snapshot_id": "MTY3NTcwNTAxMSwwMDAwMDAwMDZiNTgwNTcxOTBkNmM0YzIzNzY0NTRjZWU1M2FmNTY2",
   "tracks": [
     {
-      "added_at": "2023-02-12 01:05:40",
+      "added_at": "2023-02-13 01:31:31",
       "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
@@ -379,6 +379,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Childhood Home",
+        "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Ellen Harper",
+          "url": "https://open.spotify.com/artist/6cGzcfuIBFaQjjcuW688Dy"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "A House Is A Home",
+      "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Childhood Home",
-        "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Ellen Harper",
-          "url": "https://open.spotify.com/artist/6cGzcfuIBFaQjjcuW688Dy"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "A House Is A Home",
-      "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Out Among The Stars",
-        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Out Among the Stars",
-      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 256026,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Out Among The Stars",
+        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Out Among the Stars",
+      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1551,42 +1551,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "First Rose of Spring",
-        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
       },
@@ -1607,6 +1571,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "First Rose of Spring",
+        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 241540,
       "name": "Something Has To Change",
       "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 314080,
       "name": "It Ain't Over Yet",
       "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "12 Stories",
         "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 216906,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pure & Simple",
-        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Pure and Simple",
-      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+        "name": "Pure & Simple",
+        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
       },
       "artists": [
         {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+      "duration_ms": 163040,
+      "name": "Pure and Simple",
+      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2427,6 +2427,26 @@
       "duration_ms": 313857,
       "name": "Place in My Heart",
       "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
+        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2475,26 +2495,6 @@
       "duration_ms": 202541,
       "name": "Tell Me Anything (Turn to Gold)",
       "url": "https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
-        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 282133,
       "name": "Barbeque",
       "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2022-10-14 04:00:00",

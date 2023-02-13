@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,392 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,511 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 47 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
 | 48 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
 | 49 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
-| 50 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
+| 50 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 
-Snapshot ID: `MTY3Mzg3ODg5MiwwMDAwMDAwMDkwNmM5YzM1YTk1ZjQ2ZWIxMzJjZmU0OWZiNTA1ZmUx`
+Snapshot ID: `MTY3Mzg3ODg5MiwwMDAwMDAwMDFjZTA3ZDRhMjQyYTc0ZjA1N2RjNThhODM4NTY3OGU0`

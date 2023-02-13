@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/3l1NHRIzFXaWLhzwZyAtik"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 298000,
       "name": "Baadal",
       "url": "https://open.spotify.com/track/76z5E8tOiy1U6JfJJxfEzC"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 285981,
       "name": "Faryaad",
       "url": "https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 189098,
       "name": "Fursat",
       "url": "https://open.spotify.com/track/4ZaFMecsbjz8oaSa7pldfr"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 239666,
       "name": "Kaali Raat",
       "url": "https://open.spotify.com/track/4RDU0E4aXriTRGXYZFiRAJ"
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 327499,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 207123,
       "name": "Kuch Kehna Chahta Huun",
       "url": "https://open.spotify.com/track/1R1nOl9ebAMtbKbdsYwXP4"
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 173217,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL"
@@ -2214,6 +2232,24 @@
       "duration_ms": 201820,
       "name": "Parwana",
       "url": "https://open.spotify.com/track/373D4U8ysWnlPGFtjcwQ7P"
+    },
+    {
+      "album": {
+        "name": "Nautanki",
+        "url": "https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229655,
+      "name": "Peanut Butter",
+      "url": "https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1"
     },
     {
       "album": {

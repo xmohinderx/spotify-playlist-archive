@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr"
+      },
+      "artists": [
+        {
+          "name": "ethereal",
+          "url": "https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG"
+        },
+        {
+          "name": "Lofis",
+          "url": "https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206001,
+      "name": "Judas - Sped Up",
+      "url": "https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY"
+    },
+    {
+      "album": {
         "name": "Judas - Sped Up",
         "url": "https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp"
       },
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 206001,
       "name": "Judas - Sped Up",
       "url": "https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK"
@@ -3063,10 +3085,14 @@
     },
     {
       "album": {
-        "name": "Watch This (Lil Uzi Vert) [ARIZONATEARS Pluggnb Remix]",
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
         {
           "name": "sped up nightcore",
           "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
@@ -3080,7 +3106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163139,
-      "name": "Watch This (Lil Uzi Vert) - ARIZONATEARS Pluggnb Remix",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {

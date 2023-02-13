@@ -4,7 +4,7 @@
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-68 songs - 6 hr 39 min
+69 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [One Nation](https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [One Nation](https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Oombah \- Kevin Saunderson & Justin Cholewski Remix](https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Virus J](https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw), [Justin Cholewski](https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq) | [Oombah \(Kevin Saunderson & Justin Cholewski Remix\)](https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD) | 3:10 | 2021-12-03 |  |
 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 | 2021-12-03 |  |
+| [Q](https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 6:23 | 2022-07-22 |  |
 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 | 2021-12-03 | 2023-02-02 |
 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 | 2021-12-03 |  |
 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 | 2021-12-03 |  |
@@ -67,7 +68,7 @@
 | [Teflon](https://open.spotify.com/track/0rI6lQohjezYcdQcSw0GHA) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Technatural EP](https://open.spotify.com/album/3JF9xETVb7Gbr13VBxheSf) | 6:39 | 2022-07-22 |  |
 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 | 2021-12-03 |  |
 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 | 2021-12-03 |  |
-| [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 | 2021-12-03 |  |
+| [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 | 2021-12-03 | 2023-02-13 |
 | [The Dance](https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 7:12 | 2021-12-03 | 2022-07-29 |
 | [The Dance](https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 7:12 | 2022-07-22 |  |
 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 | 2021-12-03 |  |

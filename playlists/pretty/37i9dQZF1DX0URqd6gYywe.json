@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Babas\u00f3nicos.",
-  "num_followers": 71181,
+  "num_followers": 71244,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDZiYWFiZmQyYmM2NzU0YTBlMGZjYjg5NGY4MjgwNTU4",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMGNiN2VlMDJmMGNlYzY1YjE5N2NiMjQ1OGFkZjM4ZDZm",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "La Hija De La Lagrima",
         "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 186466,
       "name": "Chipi-Chipi",
       "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 182614,
       "name": "Viento y Marea",
       "url": "https://open.spotify.com/track/0hWL7RaBdVEXjd2RYVSJPp"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2022-12-02 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 
 > Celebramos a los héroes y heroínas locales que con su talento y osadía nos dan patria musical\. En portada: THE SUPUESTOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,842 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,843 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 27 | [¡Ya No Hay Funk!](https://open.spotify.com/track/5gwFXisyqOhopyboVm0O6r) | [Willka](https://open.spotify.com/artist/1vtA9ebWO2m9lkZRHwiQXH) | [¡Ya No Hay Funk!](https://open.spotify.com/album/1gE94RVD745nnV004FKYng) | 4:00 |
 | 28 | [Adiós](https://open.spotify.com/track/1DfIErX9sNVpEBuEfMqKNi) | [Cruz Del Monte](https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs) | [Adiós](https://open.spotify.com/album/4KgxovsSKAZB6Ydc4VZYXt) | 4:45 |
 | 29 | [Llego Tarde](https://open.spotify.com/track/5vYNVKX0uyR2BGrgLGZh7D) | [El Pillin](https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm) | [Llego Tarde](https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR) | 2:57 |
-| 30 | [Solo Siluetas](https://open.spotify.com/track/6Kq41osBL2QLtTtaxU20iZ) | [Rey Casino](https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn) | [Solo Siluetas](https://open.spotify.com/album/07dcVe2toJYAvV4c35FwDT) | 4:34 |
-| 31 | [Labios](https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [Sam y Marx](https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv) | 3:14 |
-| 32 | [Ciudad](https://open.spotify.com/track/4L7hEVnQNnJxk65z9KjYG0) | [Neoplen](https://open.spotify.com/artist/499CktjjIY7x8x0sPyvdvB) | [Ciudad](https://open.spotify.com/album/6nfeE2RTKDs78GfxjehUhu) | 4:03 |
+| 30 | [Labios](https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [Sam y Marx](https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv) | 3:14 |
+| 31 | [Ciudad](https://open.spotify.com/track/4L7hEVnQNnJxk65z9KjYG0) | [Neoplen](https://open.spotify.com/artist/499CktjjIY7x8x0sPyvdvB) | [Ciudad](https://open.spotify.com/album/6nfeE2RTKDs78GfxjehUhu) | 4:03 |
+| 32 | [Solo Siluetas](https://open.spotify.com/track/6Kq41osBL2QLtTtaxU20iZ) | [Rey Casino](https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn) | [Solo Siluetas](https://open.spotify.com/album/07dcVe2toJYAvV4c35FwDT) | 4:34 |
 | 33 | [Amor Sin Fin](https://open.spotify.com/track/1usjw4P22wUgTJGDE3ULBu) | [Cardenal](https://open.spotify.com/artist/6xdGYuu56PNTg8yvEwC6AV) | [Amor Sin Fin](https://open.spotify.com/album/5mlstqzIWbIlIKjyuqvYDW) | 3:23 |
 | 34 | [De donde vienes tú](https://open.spotify.com/track/4c5Sk1LZnsjmgHLEtJ9r6m) | [LEBO](https://open.spotify.com/artist/0dStLBB8XjTyNVzPIhktpo) | [Conmigo mismo](https://open.spotify.com/album/0hGMem3rfci3OiXup09iDl) | 2:16 |
 | 35 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 49 | [Dagas](https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W) | [Homero III](https://open.spotify.com/artist/2uoCxMOphYKMd0dYZf7bcM) | [Dagas](https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz) | 3:10 |
 | 50 | [Nostalgia Suicida](https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q) | [Vicios Juveniles](https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI) | [Vicios Juveniles, Vol\. 2](https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL) | 1:50 |
 
-Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMDQwNDYwOWQ3MDBkNTYyYmJkMDVkOTllYzk1Yjg4Mjk5`
+Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMGYwOWFjOGEwODdiMjBhY2JlMDY4NGM1ODRiNTU0MjBk`

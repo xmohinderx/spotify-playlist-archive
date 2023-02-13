@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,657 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,674 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 22 | [Bella ciao \- Live, Rome / 2016](https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 3:45 |
 | 23 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 |
 | 24 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
-| 25 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
-| 26 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
+| 25 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
+| 26 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 27 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 |
 | 28 | [Bucovina](https://open.spotify.com/track/5cBHEbHIhZ6o4xkVqnxygC) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 3:21 |
 | 29 | [Khade sukar / How Beautiful](https://open.spotify.com/track/7eKAyiTCUGL9e4JpF63iep) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/1b9GWIbKBQLRCAXFhLOHgA) | 3:27 |
-| 30 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 |
-| 31 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
-| 32 | [El Futuro Es Nuestro \(feat\. Goran Bregovic\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 |
-| 33 | [The Stojka Empire](https://open.spotify.com/track/1jijW2TdA9x8XDrsQIPv7N) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Harry Stojka](https://open.spotify.com/artist/3UoFXEOzD4kf5aPTplFX5c), [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Morgenlandfahrt](https://open.spotify.com/album/5yOdpBaqNL30wYZNaAa9bI) | 5:39 |
+| 30 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
+| 31 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 |
+| 32 | [The Stojka Empire](https://open.spotify.com/track/1jijW2TdA9x8XDrsQIPv7N) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Harry Stojka](https://open.spotify.com/artist/3UoFXEOzD4kf5aPTplFX5c), [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Morgenlandfahrt](https://open.spotify.com/album/5yOdpBaqNL30wYZNaAa9bI) | 5:39 |
+| 33 | [El Futuro Es Nuestro \(feat\. Goran Bregovic\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 |
 | 34 | [Mesecina / Moonlight](https://open.spotify.com/track/4j3HKFuIHwdxxbZmPqJJYX) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Underground \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na) | 3:59 |
 | 35 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
 | 36 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 47 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
 | 48 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
 | 49 | [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 |
-| 50 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
+| 50 | [Annyit ittam / Drunk of Sorrow](https://open.spotify.com/track/007XTE3Ua8JVzxW8bGwPwb) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Ez a világ nekem való / This World Is Made For Me](https://open.spotify.com/album/47yWcxAHMpajgxnHVTaxJP) | 3:22 |
 
-Snapshot ID: `MTY3MzA2MTU2NCwwMDAwMDAwMGVjMGU3MTQ0M2RhMzMxNDA4NjI1MDQzZDg2MzAxYjVk`
+Snapshot ID: `MTY3MzA2MTU2NCwwMDAwMDAwMGZkYWVmOTgxYjkwNmNhNTY4NWMwNDQzYjM1MzUxZjEz`

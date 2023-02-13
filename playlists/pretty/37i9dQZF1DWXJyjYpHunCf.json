@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 802458,
+  "num_followers": 802639,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDQ4NWUzNjVjYWU3NmRjMTNhMzFhYmQ4MTliYzNkYjE4",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGNkYmM5YTJkZjQ5MTJjOTZlOTc3Y2Q0M2RkNzJkNmI5",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "I Know the Way Home",
         "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186826,
       "name": "Better When We're Falling Apart",
       "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Juniors",
         "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Spiders",
-        "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Kick Out the Windows (Radio Edit)",
-        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
       },
       "artists": [
         {
-          "name": "Parsonsfield",
-          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
         }
       ],
-      "duration_ms": 191986,
-      "name": "Kick Out the Windows (Radio Edit)",
-      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
+      "duration_ms": 198040,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 216066,
       "name": "These Cold Nights",
       "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Kick Out the Windows (Radio Edit)",
+        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
+      },
+      "artists": [
+        {
+          "name": "Parsonsfield",
+          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Kick Out the Windows (Radio Edit)",
+      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
-      },
-      "artists": [
-        {
-          "name": "Mills",
-          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
-        }
-      ],
-      "duration_ms": 183379,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
+      },
+      "artists": [
+        {
+          "name": "Mills",
+          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
+        }
+      ],
+      "duration_ms": 183379,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
     }
   ],
   "unique_name": "Folk Pop",

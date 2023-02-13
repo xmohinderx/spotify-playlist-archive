@@ -1,12 +1,12 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Joesef",
-  "num_followers": 419773,
+  "num_followers": 419852,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3OTg2OSwwMDAwMDAwMGRlN2U1MDFmZGIyZmVkMjFhNzUyNTg1NjI5ZWQzNTdk",
+  "snapshot_id": "MTY3MzQ3OTg2OSwwMDAwMDAwMDI0NjYxNTNhNTBkMjU3MjcwYzkzMjM1NzVjOTI2Nzdm",
   "tracks": [
     {
       "added_at": "2023-01-11 23:31:09",
@@ -736,6 +736,22 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/44MHQm2WIvsAXg14WKpCQp"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
       "artists": [
@@ -751,26 +767,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -792,17 +788,21 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
         }
       ],
-      "duration_ms": 293709,
-      "name": "Made to Fall in Love",
-      "url": "https://open.spotify.com/track/44MHQm2WIvsAXg14WKpCQp"
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -872,22 +872,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 206079,
-      "name": "Motivation - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1164,22 +1164,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
@@ -1191,6 +1175,22 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1212,17 +1212,21 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
+        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 222282,
-      "name": "We Know Who U R - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj"
+      "duration_ms": 291447,
+      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
+      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1260,21 +1264,17 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
+        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 291447,
-      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
-      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+      "duration_ms": 222282,
+      "name": "We Know Who U R - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1360,6 +1360,22 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -1387,22 +1403,6 @@
       "duration_ms": 208558,
       "name": "LA DESPEDIDA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1556,22 +1556,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1587,6 +1571,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -1848,6 +1848,26 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 247102,
+      "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
+      "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
@@ -1880,26 +1900,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 247102,
-      "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
-      "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
@@ -1916,22 +1916,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -1943,6 +1927,22 @@
       "duration_ms": 181000,
       "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -2084,6 +2084,22 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 170677,
+      "name": "Don't Let It Bring You Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6eLUwUJbXC9E94RuP5Qg4Y"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
@@ -2116,22 +2132,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 170677,
-      "name": "Don't Let It Bring You Down - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6eLUwUJbXC9E94RuP5Qg4Y"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
       },
       "artists": [
@@ -2143,38 +2143,6 @@
       "duration_ms": 164509,
       "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 248895,
-      "name": "Believe - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Like A Virgin - Spotify Singles",
-      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -2196,17 +2164,33 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
+        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 190927,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
+      "duration_ms": 191992,
+      "name": "Like A Virgin - Spotify Singles",
+      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Believe - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -2223,6 +2207,22 @@
       "duration_ms": 233772,
       "name": "Landslide - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 190927,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -2276,22 +2276,6 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-01-11 23:31:09",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
       },
       "artists": [
@@ -2308,17 +2292,17 @@
       "added_at": "2023-01-11 23:31:09",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-11 23:31:09",
@@ -2335,6 +2319,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-01-11 23:31:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2023-01-11 23:31:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,997 likes - 108 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,032 likes - 108 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 78 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
 | 79 | [Dancing With Wolves](https://open.spotify.com/track/3YfETrhxHKHKGxjnXinCwm) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [Dancing With Wolves](https://open.spotify.com/album/3GyfcomtdtxqDUr18rNdBS) | 4:17 |
 | 80 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
-| 81 | [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
+| 81 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 82 | [Kubiarkan Kau Pergi Hari Ini \(feat\. Rio Ardhillah\)](https://open.spotify.com/track/7vmqhxyGkF4MENdr46rayy) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Rio Ardhillah](https://open.spotify.com/artist/3O53BpV28DrcRuEYTcsy3w) | [Kubiarkan Kau Pergi Hari Ini \(feat\. Rio Ardhillah\)](https://open.spotify.com/album/4IrKILpZUZu0YhofFxDGyf) | 5:06 |
 | 83 | [How to Love](https://open.spotify.com/track/0XGlNvsmZcLgqAbOOfg6si) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [How to Love](https://open.spotify.com/album/54SOvj2MAzhxm1tnkxv6mK) | 3:21 |
 | 84 | [be free](https://open.spotify.com/track/2mIRpmCuxooyLSbvbwrUZo) | [michaelachel](https://open.spotify.com/artist/4ZwwHAFJx5G4tEtZmzT8nz) | [be free](https://open.spotify.com/album/2u3i07xf3yDqfTC6poQyNl) | 3:05 |
@@ -111,10 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 |
 | 102 | [Breaking the Circle](https://open.spotify.com/track/4je0rHWp5MizuSMTSaVy20) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Breaking the Circle](https://open.spotify.com/album/4Kb7z6VSpvg5QHJJFS6ehy) | 4:13 |
 | 103 | [The Court \- Dark\-Side Mix](https://open.spotify.com/track/5eO2qyIX1QQ21eUktFzDnO) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [The Court \(Dark\-Side Mix\)](https://open.spotify.com/album/4IuBnORoDnoJXSYPX4Cp4U) | 4:20 |
-| 104 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 104 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 105 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
 | 106 | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 |
 | 107 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 |
 | 108 | [Afterglow](https://open.spotify.com/track/6FHJtTykaTFDrd5IX3vjTz) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Afterglow](https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl) | 2:58 |
 
-Snapshot ID: `MTY3NTk5MDM4NiwwMDAwMDAwMGRhZmI5NmNkMzBiMDM3YmEzOGMwZWM1ZTAzNDAyODM3`
+Snapshot ID: `MTY3NTk5MDM4NiwwMDAwMDAwMGE4OGNmOGM0NjI4NjY2ZDQ1Yjc4YjU4MGM2ZjVkYjRh`

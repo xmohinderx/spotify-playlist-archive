@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 145299,
+  "num_followers": 145599,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGFlMTM3ZmM5M2E1YmUwNDM2MWJhNzg2MjIxYWU4Y2I2",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMDhhNWEyYzFiMTNlZGI1M2FiMjExNDczNjQ0NzViNzVk",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         }
       ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Volver a Vernos",
-        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 171957,
-      "name": "Volver a Vernos",
-      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Me Encanta",
         "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Gonzalo Castillo",
-          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
-        }
-      ],
-      "duration_ms": 155134,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -875,28 +875,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Boleto al Amor",
-        "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
       },
       "artists": [
         {
@@ -904,13 +884,13 @@
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         },
         {
-          "name": "Chacho Ramos",
-          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+          "name": "Gonzalo Castillo",
+          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
         }
       ],
-      "duration_ms": 205611,
-      "name": "Boleto al Amor",
-      "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
+      "duration_ms": 155134,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -975,6 +955,26 @@
       "duration_ms": 224946,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Boleto al Amor",
+        "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Boleto al Amor",
+      "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Con El No Soportas",
-      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 181054,
       "name": "Mi \u00danico Amor",
       "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Con El No Soportas",
+      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Ninguno De Los Dos",
         "url": "https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 248000,
       "name": "Ninguno De Los Dos",
       "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw"
     },
     {
       "added_at": "2023-02-03 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,476 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,502 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 26 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
 | 27 | [Fuera](https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP) | 3:22 |
 | 28 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
-| 29 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
-| 30 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 |
+| 29 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 |
+| 30 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 31 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
 | 32 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
 | 33 | [La Güera Salomé](https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:03 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 61 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
 | 62 | [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 |
 | 63 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
-| 64 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
-| 65 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
+| 64 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
+| 65 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGY1OGE0YmM1ZWYwYTdiZjIyMWI2ZGUzMDRjZmUwMzcz`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGJjMzhkODRhNDAzYTk0ZTU5MjIwZmIxNjM1ZDRlYjg5`

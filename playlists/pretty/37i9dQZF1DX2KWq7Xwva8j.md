@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Queralt Lahoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,743 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,747 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 31 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
 | 32 | [Alex Turner](https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Alex Turner](https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j) | 2:39 |
 | 33 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
-| 34 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
-| 35 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
+| 34 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
+| 35 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
 | 36 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 |
 | 37 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 38 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 41 | [A W](https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9) | 2:15 |
 | 42 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
 | 43 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
-| 44 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
-| 45 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
+| 44 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
+| 45 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
 | 46 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 |
 | 47 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 48 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 |
 | 49 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 | 50 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 |
 
-Snapshot ID: `MTY3NTc2NDk0MCwwMDAwMDAwMGJjNTAxMzc3ZGY1N2MyYTIyZjYxYTVmMjEyNTgxM2I0`
+Snapshot ID: `MTY3NTc2NDk0MCwwMDAwMDAwMDIxYzdhYzZlMjQxMjBmNzNiNzgzNTg3YTE5NmU1YTIy`

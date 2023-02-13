@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,081 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,134 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 31 | [Where the Wildflowers Lay](https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 2:47 |
 | 32 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
 | 33 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
-| 34 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
+| 34 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
 | 35 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
-| 36 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
+| 36 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
 | 37 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 38 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 |
 | 39 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 60 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 |
 | 61 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 62 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 |
-| 63 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
-| 64 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 |
+| 63 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 |
+| 64 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 65 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 |
 | 66 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 |
 | 67 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 71 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 |
 | 72 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 73 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
-| 74 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 74 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
 | 75 | [Fine By Me](https://open.spotify.com/track/4X5GnkmymLagGzBmJRO0tf) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [Fine By Me](https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz) | 3:07 |
-| 76 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
+| 76 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 77 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 |
-| 78 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 |
-| 79 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 78 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 79 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 |
 | 80 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 |
 | 81 | [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 |
 | 82 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 |
 | 100 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDgwOGM3NGEwMzcwYjVmYzJkMmNhNzNiZTg4YTgyZmMy`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDI1ZTk5OTE4NTU4ZGZiYTQ5NWM2MjRiNjA3Mjc1ZDk3`

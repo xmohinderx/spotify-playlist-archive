@@ -15199,10 +15199,14 @@
     },
     {
       "album": {
-        "name": "Watch This (Lil Uzi Vert) [ARIZONATEARS Pluggnb Remix]",
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
         {
           "name": "sped up nightcore",
           "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
@@ -15216,7 +15220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163139,
-      "name": "Watch This (Lil Uzi Vert) - ARIZONATEARS Pluggnb Remix",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {

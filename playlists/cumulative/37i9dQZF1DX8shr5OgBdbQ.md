@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-84 songs - 4 hr 20 min
+85 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Northwest Passage](https://open.spotify.com/track/3Fiz4tFoVBosOUm2uMgdlL) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Explorers](https://open.spotify.com/album/4WJhOrVgd62jxH0wWh6Qfh) | 4:35 | 2022-06-29 |  |
 | [Once You Were My Lover](https://open.spotify.com/track/09F7rmAgIl6TtJQpoA99bi) | [Méav](https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7) | [The Calling](https://open.spotify.com/album/3xPuzuGEOE8PT5rSXy5hU8) | 3:35 | 2022-03-10 |  |
 | [One More Pull](https://open.spotify.com/track/1Auv8vgYeK52K3bIY7Hre6) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [One More Pull](https://open.spotify.com/album/3XupCY5A1tESidUJpih7ii) | 3:58 | 2022-03-10 | 2022-09-05 |
-| [One More Pull](https://open.spotify.com/track/778rEa0Y7vuaP1B10676JW) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Wellerman](https://open.spotify.com/album/6laLzUc8vCtgKZEYojvCmF) | 3:58 | 2022-06-29 |  |
+| [One More Pull](https://open.spotify.com/track/6gDpLHPrId2edxNY0sLK4z) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [The Wellermen](https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL) | 3:58 | 2022-06-29 |  |
+| [One More Pull](https://open.spotify.com/track/778rEa0Y7vuaP1B10676JW) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Wellerman](https://open.spotify.com/album/6laLzUc8vCtgKZEYojvCmF) | 3:58 | 2022-06-29 | 2023-02-13 |
 | [Pump Shanty](https://open.spotify.com/track/7EJGWpYxtTOrJSEA09ihGZ) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs For Seafarers](https://open.spotify.com/album/4PEk6CidXOxiJOPrKPOuEg) | 3:02 | 2022-03-10 |  |
 | [Randy Dandy Oh](https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:35 | 2022-03-10 |  |
 | [Rattle Them Winches](https://open.spotify.com/track/4jll6lOP06Ok5xmpBjDt0a) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [All At Sea](https://open.spotify.com/album/1ATiIHg3nrNSmboxsAk5tm) | 2:39 | 2022-03-10 |  |

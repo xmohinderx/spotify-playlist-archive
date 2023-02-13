@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 203026,
       "name": "A qui la faute (feat. Niska)",
       "url": "https://open.spotify.com/track/2OXCeVFF5vu0bk45poTCos"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5056,7 +5056,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 206272,
       "name": "CP_009_ \u00c9videmment",
       "url": "https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm"
@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -13763,6 +13763,28 @@
     },
     {
       "album": {
+        "name": "Mambella",
+        "url": "https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Olupellar",
+          "url": "https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Mambella",
+      "url": "https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/1fyjw6K3xbKMNhrqzTEa09"
       },
@@ -16466,7 +16488,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 256160,
       "name": "Parti de rien (feat. Tayc)",
       "url": "https://open.spotify.com/track/2OLDHbZNyVjslwlx7afzJq"
@@ -17592,7 +17614,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 170618,
       "name": "Quand tout s'enflamme",
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
@@ -21478,7 +21500,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "TOUT VA BIEN (feat. Ninho & Naps)",
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"

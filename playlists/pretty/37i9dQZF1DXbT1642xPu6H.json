@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 337513,
+  "num_followers": 337553,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI5NzI2NywwMDAwMDAwMDMwZmUxOWQxMGMwM2JlNjdmZDIxYTk4NThmMTZkZmQx",
+  "snapshot_id": "MTY3NTI5NzI2NywwMDAwMDAwMGQ3ODhmNDdkYWJlNDczNDNlMzgyMzE2YjlkYjk1MDFm",
   "tracks": [
     {
       "added_at": "2022-10-12 15:34:17",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
-    },
-    {
-      "added_at": "2022-10-12 15:34:17",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2022-10-12 15:34:17",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
     },
     {
       "added_at": "2022-10-12 15:34:17",

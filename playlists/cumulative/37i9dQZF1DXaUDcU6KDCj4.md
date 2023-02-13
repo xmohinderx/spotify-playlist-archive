@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gracie Abrams
 
-970 songs - 2 day 11 hr 52 min
+971 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,7 +898,8 @@
 | [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 | 2022-08-05 | 2023-02-04 |
 | [Wanderlust](https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:47 | 2022-07-08 | 2022-08-20 |
 | [Wasted](https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Wasted](https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x) | 3:05 | 2023-01-06 |  |
-| [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 |  |
+| [Wasted On You](https://open.spotify.com/track/15WJWyrI3c6aRuvbYgMcKv) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:36 | 2023-02-10 |  |
+| [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 | 2023-02-13 |
 | [Watch Me Change](https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Watch Me Change](https://open.spotify.com/album/4uyEzuS7dmtuwBpLwZM7lO) | 3:36 | 2022-03-18 | 2022-05-20 |
 | [Water in the Barrel](https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Water in the Barrel](https://open.spotify.com/album/5VsFe3XWwWGUfyBsKK9WXq) | 3:37 | 2021-11-12 | 2022-01-22 |
 | [Waterfall](https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Waterfall](https://open.spotify.com/album/2pOfoFlDHQ7YO9YorMzeLF) | 3:32 | 2022-02-18 | 2022-04-29 |

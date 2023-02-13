@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-276 songs - 20 hr 17 min
+277 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,10 +181,11 @@
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2021-12-17 | 2022-12-03 |
 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-02-02 |  |
 | [Provenance](https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ) | 6:11 | 2021-12-17 | 2022-07-29 |
-| [Provenance](https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf) | 6:11 | 2022-06-29 |  |
+| [Provenance](https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf) | 6:11 | 2022-06-29 | 2023-02-13 |
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |
 | [Purplebright](https://open.spotify.com/track/31HbP5dQ4HFCFNwXT6RoD9) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Snow Catches on Her Eyelashes](https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec) | 2:50 | 2021-12-17 | 2022-02-18 |
 | [Questions in a World of Blue](https://open.spotify.com/track/5BQcGyihNd07qVOSNZ1nWi) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ) | [Nachtfahrten \(with Eric Schaefer & Christian Weber\)](https://open.spotify.com/album/7DfL5qAJsMe7DqO5qlJov5) | 3:05 | 2022-05-25 | 2022-09-22 |
+| [Ragged Tux](https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Ragged Tux](https://open.spotify.com/album/6XeDlzhAOmYtAwuuTDqNI8) | 3:00 | 2023-02-13 |  |
 | [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2021-12-17 | 2023-01-08 |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-09-15 |  |
 | [Reutlingen](https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Reutlingen](https://open.spotify.com/album/7zRiDdpgqqLlfh6ZZ0xTMv) | 4:43 | 2023-01-19 |  |

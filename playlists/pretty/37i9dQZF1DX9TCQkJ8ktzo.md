@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,801 likes - 73 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,833 likes - 73 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 61 | [Que Hiciste](https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:44 |
 | 62 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
 | 63 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
-| 64 | [Pepito](https://open.spotify.com/track/6KgvfWahRokIwLobaClaNR) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Brazil: I balli sudamericani](https://open.spotify.com/album/1361eRsd2qCXWZsEnNmiwx) | 3:04 |
+| 64 | [Pepito](https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Los Increíbles Machucambos](https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX) | 3:04 |
 | 65 | [Maria Elena](https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 3:05 |
 | 66 | [La Bamba](https://open.spotify.com/track/1wCJgm1ZdVyV9prrKSX9Kg) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 3:54 |
 | 67 | [Revolucionando](https://open.spotify.com/track/1U8ZiOh5FGOliIEUnQ0rjn) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:04 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 72 | [Esta Tarde Vi Llover](https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Mis Favoritas](https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy) | 2:41 |
 | 73 | [Adoro](https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:24 |
 
-Snapshot ID: `MTY3MDQ1NzAzMSwwMDAwMDAwMGMyODIxYjU4MGRkZGI5NTA2NDdiYzkzZDE3OTZhYzlm`
+Snapshot ID: `MTY3MDQ1NzAzMSwwMDAwMDAwMGE0YTQyMjkwZmFmNmNiMmM5ZDYxOTliMmJiMDliMDhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 
 > In the mood for some romance?
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,867 likes - 66 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,680 likes - 66 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

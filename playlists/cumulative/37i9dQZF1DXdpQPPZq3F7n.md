@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Bollywood's biggest love songs from last 10 years\. Cover \- Shershaah
+> Let these songs be the background score to your love story\. Cover \- Shershaah
 
 142 songs - 10 hr 3 min
 
@@ -14,7 +14,7 @@
 | [Aayat](https://open.spotify.com/track/16R1Fq1nFxm9DJyzBzKjQk) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mujtaba Aziz Naza](https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Farhan Sabri](https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9) | [Bajirao Mastani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IDvzBMT5s2yJIMg6kqkhD) | 4:21 | 2023-01-30 |  |
 | [Ae Dil Hai Mushkil Title Track \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:29 | 2022-05-19 |  |
 | [Agar Tum Saath Ho](https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:41 | 2022-05-19 |  |
-| [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 4:21 | 2022-11-05 |  |
+| [Apna Bana Le](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 4:21 | 2022-11-05 |  |
 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 | 2022-05-19 |  |
 | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/track/5akb3M2p00EhXATJpHbUFD) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/album/766Nv5EoEPjfsS5ONUoUja) | 3:07 | 2022-05-19 | 2023-01-04 |
 | [Bana Sharabi](https://open.spotify.com/track/2T1K8XIPSIcvXueBS6kw2L) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Bana Sharabi \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/5aCiRP8E4N9Tt0BosHPyfV) | 3:48 | 2022-12-15 |  |

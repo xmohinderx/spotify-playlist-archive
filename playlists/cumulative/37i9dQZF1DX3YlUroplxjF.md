@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: XL Life
 
-386 songs - 22 hr 18 min
+387 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [One Love](https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [One Love](https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN) | 3:23 | 2023-01-27 |  |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [Only God Forgives](https://open.spotify.com/track/6zoBy8dlWxaa8F3YTtHLzu) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm) | [Only God Forgives](https://open.spotify.com/album/1luGKqSj2M0XJLKHtcegUq) | 2:28 | 2021-11-30 | 2022-06-30 |
+| [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-13 |  |
 | [Ouija Cult](https://open.spotify.com/track/7iq0SyzrWXWf6Q6taKekkz) | [Vanish](https://open.spotify.com/artist/5ALPIt74KUX3vcfolc7u1W) | [Familiar Faces](https://open.spotify.com/album/3BZWYj6bn9OFNT7b4I7yTL) | 3:08 | 2021-11-30 | 2022-07-20 |
 | [Our Song](https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:11 | 2022-12-13 |  |
 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 | 2022-04-01 |  |
@@ -367,7 +368,7 @@
 | [This Day](https://open.spotify.com/track/0O3a4afzE8XX4fBPxZFMgp) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [This Day](https://open.spotify.com/album/03KTsxpRk9Na5n1g8D6akw) | 2:15 | 2022-04-01 | 2022-05-24 |
 | [This Hell Is Heaven Sent](https://open.spotify.com/track/3VGAMord37eg9kx2FhlKSF) | [River Becomes Ocean](https://open.spotify.com/artist/6xLpAXwI7XGsRgroyZCY3L) | [A Motion Paralysed](https://open.spotify.com/album/60cNnTKvFW3lovae5b5RqM) | 3:12 | 2021-11-30 | 2022-07-28 |
 | [Thousand Times](https://open.spotify.com/track/1ZXCwRL0cFQQfLUsqK6bK2) | [Moderntears'](https://open.spotify.com/artist/5fGc4wG2MvUPeGAbdxqDic) | [Thousand Times](https://open.spotify.com/album/4mhzhmB0LKMaZtzNufQQJW) | 3:33 | 2021-11-30 | 2022-06-01 |
-| [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 |  |
+| [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 | 2023-02-13 |
 | [To Carry \(On and On\)](https://open.spotify.com/track/664fHE7AIHGUjHC2WWtvmO) | [KOJI](https://open.spotify.com/artist/2YkHarpEDjDNHgqsIzklAs) | [To Carry \(On and On\)](https://open.spotify.com/album/2DWeyUoCGftGOifUTpF5el) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [Together](https://open.spotify.com/track/1oHPc5Ay7inlsTBolZRVmP) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Together](https://open.spotify.com/album/6wKCOi6J5zNjfQzRynhMuZ) | 3:10 | 2021-11-30 | 2022-07-28 |
 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 | 2021-11-30 |  |

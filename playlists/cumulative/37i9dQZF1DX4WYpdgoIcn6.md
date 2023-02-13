@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-879 songs - 1 day 23 hr 40 min
+880 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM) | 3:51 | 2020-07-02 | 2020-10-09 |
 | [Either](https://open.spotify.com/track/6QpqGSRmUnH81iYd1bfYL9) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poo Bear Presents: Bearthday Music](https://open.spotify.com/album/4IibNIC3LGip4ppu6Mnin9) | 3:07 | 2019-06-21 | 2019-07-12 |
 | [Eleven](https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eleven](https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4) | 3:26 | 2020-03-28 | 2020-05-01 |
-| [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak) | 3:26 | 2020-06-12 |  |
+| [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak) | 3:26 | 2020-06-12 | 2023-02-13 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-24 |  |
 | [Emily](https://open.spotify.com/track/3XXNKA17HC1z09tKchbKHJ) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:51 | 2021-03-21 | 2021-03-22 |
 | [Empty Love \(ft\. Ruel\)](https://open.spotify.com/track/4ticY1NEauYaMGosBnvCLE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Empty Love \(ft\. Ruel\)](https://open.spotify.com/album/6JpKZLBbrfwLRLwIj2Rzwx) | 3:28 | 2020-06-02 | 2020-10-09 |
@@ -832,6 +832,7 @@
 | [Waving Through A Window \- from Dear Evan Hansen](https://open.spotify.com/track/2GlsXuQV0YOOwPy3XKFIS9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Waving Through A Window \(from Dear Evan Hansen\)](https://open.spotify.com/album/6BabrVf6FzOZVIZsvpZasb) | 3:55 | 2019-05-27 | 2019-10-19 |
 | [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-11-08 | 2019-11-09 |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2021-03-08 | 2021-05-22 |
+| [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 |  |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-07-07 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/7sE61E9ucuXEomowCaOHlG) | [Henrik Heaven](https://open.spotify.com/artist/5LRY0RhsIERhsESWfV4BGB) | [Weekend](https://open.spotify.com/album/2Mjc8AVfFPNuCbLbeqgC1D) | 3:35 | 2019-06-21 | 2019-06-24 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2021-10-12 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 124559,
+  "num_followers": 124570,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDE3NDM2MTc0MTAxMzM0ZjdhYWQzZjFjMTg4ZjE4M2M2",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDg2Yjk0MjBlMDNjZThhMDVkNTAxZDU5YzllOTc4ZWVl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
         "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Ella Dice",
-      "url": "https://open.spotify.com/track/4foIsT0s9Ime0OPxTpl6N6"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 212090,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/4foIsT0s9Ime0OPxTpl6N6"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 672749,
+  "num_followers": 672956,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM1MzcxMSwwMDAwMDAwMGQ4ZjlkMjFmZjgyOWNjOGU4MzY3ZDI3YmJiMDVhZWQw",
+  "snapshot_id": "MTY3MjM1MzcxMSwwMDAwMDAwMDBkZTE5MTg4MDIyYzQ0MTA2ZmRkODVlZWRjODg3Yjk1",
   "tracks": [
     {
       "added_at": "2022-12-29 22:41:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2022-12-29 22:41:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Te Mando Flores",
-      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172626,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
     },
     {
       "added_at": "2022-12-29 22:41:51",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2022-12-29 22:41:51",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Nada Fue Un Error",
+      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
     },
     {
       "added_at": "2022-12-29 22:41:51",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
         "name": "4 Canciones",
         "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 254840,
       "name": "No Puedo Vivir Sin Ti",
       "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
     },
     {
       "added_at": "2022-12-29 22:41:51",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-12-29 22:41:51",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Sirena",
-      "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
-    },
-    {
-      "added_at": "2022-12-29 22:41:51",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 235880,
       "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
+    },
+    {
+      "added_at": "2022-12-29 22:41:51",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
     },
     {
       "added_at": "2022-12-29 22:41:51",

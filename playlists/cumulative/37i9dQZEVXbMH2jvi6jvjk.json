@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Be Careful What You Wish For",
+        "url": "https://open.spotify.com/album/3vEQ6xB8lxnWL9iaSRjHIn"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315555,
+      "name": "10 Fingers",
+      "url": "https://open.spotify.com/track/3TMVB4ASt9g9MV7hi6qpk2"
+    },
+    {
+      "album": {
         "name": "10111 (feat. M.J, Djy Ma'Ten & Matute Boy)",
         "url": "https://open.spotify.com/album/3FzREqbZZ7YctJYPU8VCav"
       },
@@ -749,6 +771,36 @@
     },
     {
       "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Da Les",
+          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258106,
+      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
+      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
+    },
+    {
+      "album": {
         "name": "All Of You",
         "url": "https://open.spotify.com/album/4HzINcwBbmT1Q380oJBCqe"
       },
@@ -1256,7 +1308,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 415831,
       "name": "Amasango (feat. SjavasDaDeejay & TitoM)",
       "url": "https://open.spotify.com/track/3IKb9dsBhceDuKzxvJQdpu"
@@ -1274,7 +1326,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 222754,
       "name": "Amavaka",
       "url": "https://open.spotify.com/track/62aLwvsufVEshiNSoATYJB"
@@ -1444,7 +1496,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2170,10 +2222,40 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "album": {
+        "name": "Baddest (feat. Burna Boy, Khuli Chana & Yanga)",
+        "url": "https://open.spotify.com/album/0BXh1RvAg5pSJVhJBfI5Qb"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        },
+        {
+          "name": "Yanga",
+          "url": "https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278200,
+      "name": "Baddest (feat. Burna Boy, Khuli Chana & Yanga)",
+      "url": "https://open.spotify.com/track/03ffaxt78GbqpZ0vfKrcyr"
     },
     {
       "album": {
@@ -2956,7 +3038,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 137806,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
@@ -3908,7 +3990,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -4665,6 +4747,42 @@
     },
     {
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/1mRRi1fFhER3p1ji6P9MYQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332960,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/2f6o6ASrsDqFIeTznJyfIS"
+    },
+    {
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Congratulate",
+      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
+    },
+    {
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -4828,7 +4946,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 359014,
       "name": "Crazy Vibez",
       "url": "https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL"
@@ -4974,7 +5092,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -5478,7 +5596,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -5860,6 +5978,28 @@
       "duration_ms": 145074,
       "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
+    },
+    {
+      "album": {
+        "name": "Be Careful What You Wish For",
+        "url": "https://open.spotify.com/album/3vEQ6xB8lxnWL9iaSRjHIn"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205264,
+      "name": "Don't Forget To Pray",
+      "url": "https://open.spotify.com/track/6MQxRvB9paEB9iBAPhnshO"
     },
     {
       "album": {
@@ -6567,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "Bhovamania",
+        "url": "https://open.spotify.com/album/3NZ40t7bNeRXtfQDXC0yqv"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Gemini Major",
+          "url": "https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248347,
+      "name": "Energy (feat. Gemini Major)",
+      "url": "https://open.spotify.com/track/2QrlkQMvreMboLQNGG2uMH"
+    },
+    {
+      "album": {
         "name": "KOA II Part 1",
         "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
@@ -7148,6 +7310,24 @@
       "duration_ms": 189426,
       "name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
       "url": "https://open.spotify.com/track/27RDADqLHPALTugdGEyGtG"
+    },
+    {
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328085,
+      "name": "Fela In Versace",
+      "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
     },
     {
       "album": {
@@ -11050,7 +11230,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 263004,
       "name": "Ithuba",
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
@@ -11482,6 +11662,24 @@
       "duration_ms": 690731,
       "name": "Jesus Lord pt 2",
       "url": "https://open.spotify.com/track/72dummgz1gSqm8faekYYQh"
+    },
+    {
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "album": {
@@ -12534,7 +12732,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
@@ -13354,7 +13552,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 196520,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -17334,7 +17532,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0zZi6rdBuRClBsbSWmeHC3"
@@ -18168,7 +18366,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 175428,
       "name": "Prada",
       "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
@@ -19324,6 +19522,28 @@
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Run Jozi (Godly) (feat. K.O)",
+      "url": "https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo"
     },
     {
       "album": {
@@ -22348,7 +22568,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -23222,6 +23442,24 @@
       "duration_ms": 341052,
       "name": "thE whitE lighT",
       "url": "https://open.spotify.com/track/08X0Fe9QQNo8Z5YvBuAyZG"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/7Cbr7UEFlt7JBXQqNP8SWv"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291612,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/1rLGgiEroCYgOdLZgYM91z"
     },
     {
       "album": {

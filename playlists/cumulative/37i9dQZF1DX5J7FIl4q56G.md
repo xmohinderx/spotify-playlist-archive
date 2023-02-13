@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: In Flames
 
-2,674 songs - 7 day 12 hr 47 min
+2,675 songs - 7 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Believe In Nothing](https://open.spotify.com/track/3azc8sYNaol1TMGrND2Rld) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Believe In Nothing](https://open.spotify.com/album/7u6C4faVXSnZHaByWTHynD) | 3:17 | 2022-12-09 | 2022-12-17 |
 | [Belly Of The Beast](https://open.spotify.com/track/3bGKb3pE2TaQOiuEhQcXXl) | [Joe Lynn Turner](https://open.spotify.com/artist/2RRsSauHi9EYx8AUmJMwkL) | [Belly Of The Beast](https://open.spotify.com/album/2umdZewjlK6FwDR5FTSbXL) | 5:11 | 2022-08-26 | 2022-09-03 |
 | [Below](https://open.spotify.com/track/5CjyZp563Q4lqkct4GtLIA) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Below](https://open.spotify.com/album/1NwUwZuKipOdFuXEv0pI0M) | 4:53 | 2021-12-17 | 2022-01-21 |
-| [Beneath \(Feat\. Paolo Ribaldini\)](https://open.spotify.com/track/2JBrcjcUjG17n0DSQrijPk) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Beneath](https://open.spotify.com/album/7dp043Fp5FPKWDOjJZmOzP) | 4:59 | 2022-12-02 |  |
+| [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 | 2023-02-10 |  |
+| [Beneath \(Feat\. Paolo Ribaldini\)](https://open.spotify.com/track/2JBrcjcUjG17n0DSQrijPk) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Beneath](https://open.spotify.com/album/7dp043Fp5FPKWDOjJZmOzP) | 4:59 | 2022-12-02 | 2023-02-13 |
 | [benzodope](https://open.spotify.com/track/3Ffvr5opz8Hp5tctr2oTza) | [Still\_bloom](https://open.spotify.com/artist/6h4smhKMIjD0RN0F7dlIda), [cohen\_noise](https://open.spotify.com/artist/7jsE6rbawSfr6GqQBk8dXt) | [benzodope](https://open.spotify.com/album/2uyZfthZUoRppayw3MNOtY) | 3:20 | 2023-01-06 | 2023-01-14 |
 | [Berlin](https://open.spotify.com/track/2EXKbD2c3MtgbHX63dry8q) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Gold](https://open.spotify.com/album/0qUrukPlx9OC3KClB5EZ0W) | 4:41 | 2022-08-12 | 2022-08-20 |
 | [Berry Blender](https://open.spotify.com/track/2lLVAWLDvN5XfiDgT82FIq) | [HIDDEN MACHINE](https://open.spotify.com/artist/6Ag6zQiyNEM3lSGmYXjgK2), [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e) | [Berry Blender](https://open.spotify.com/album/2YL7kVxRkPeroZnQtLBLNG) | 3:21 | 2022-11-25 | 2022-12-03 |

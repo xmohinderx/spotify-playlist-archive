@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jericho Streegan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,821 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,831 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 28 | [Sabihin \- Radio Edit](https://open.spotify.com/track/5Rz8BU1sxBiDqd0HfgRIsK) | [Nadj Zablan](https://open.spotify.com/artist/1YXV92olK46f6XwGhjCW7Z) | [Sabihin](https://open.spotify.com/album/7uBbhHrxydpmMI8WEPdLPs) | 3:10 |
 | 29 | [Tulip](https://open.spotify.com/track/30234qbar8ZRxk1CJZ512b) | [Stockroom Daddy](https://open.spotify.com/artist/1V7ozpr68bYEztxJB8t1Nu) | [STAR](https://open.spotify.com/album/5Pe7wc1rRap7NIaWBDyGFF) | 3:55 |
 | 30 | [YOU](https://open.spotify.com/track/5U4nDUjCvEkmZcoqO4L1KB) | [Mooz PH](https://open.spotify.com/artist/3AOdFw44iEpHiRNKpIevAm), [DonMigs](https://open.spotify.com/artist/2NbfcnDFxnlvnHEQXLdYaV), [Not Your Crew](https://open.spotify.com/artist/1X5bdDsh2hnZS2aPmZlqJG) | [YOU](https://open.spotify.com/album/3aofA0KShiJxagg3lXnZ61) | 2:44 |
-| 31 | [Hold Me Down](https://open.spotify.com/track/7jWMSZej6YicAoHXDM56LR) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q), [ELEV8](https://open.spotify.com/artist/2jTh0KE644XMABYAXTBvme) | [Hold Me Down](https://open.spotify.com/album/7aSJyZEw7TOZAQFtPE5Qpu) | 2:24 |
+| 31 | [Hold Me Down](https://open.spotify.com/track/7jWMSZej6YicAoHXDM56LR) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Hold Me Down](https://open.spotify.com/album/7aSJyZEw7TOZAQFtPE5Qpu) | 2:24 |
 | 32 | [Brocanton](https://open.spotify.com/track/1rUjaE3nvNhS3FZrcsSC2W) | [Run Deliks](https://open.spotify.com/artist/2lyrMlyxRpilYqiWC2MjzF), [Kyle](https://open.spotify.com/artist/5yENERWuLafKJowyOYjl6i), [Pure Mind Quiet Heart](https://open.spotify.com/artist/7MztqDZnLKxI77IHeRI5Ve) | [Brocanton](https://open.spotify.com/album/0wPCl6sG5dw8gjeXBVxMaT) | 3:31 |
 | 33 | [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/track/0W3TKZ5k3nFqIYoCGEMQT1) | [Debonair District](https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI), [Faye Yupano](https://open.spotify.com/artist/18b7zvfnzcWPz7SM7VJfQU) | [Muntikan Na \(feat\. Faye Yupano\)](https://open.spotify.com/album/3CwfOJjfCsiI5szNOIF8Rr) | 5:03 |
 | 34 | [Para\-os Sa Dilim](https://open.spotify.com/track/6Q7DCZIvLyaC7rua5NPJOv) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Alexia Haydra](https://open.spotify.com/artist/1iOCgRQNcAlLj4RC00yxmm) | [Para\-os Sa Dilim](https://open.spotify.com/album/0qMtUg6EDsgcUIup94IJQ1) | 4:32 |

@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Saint Harison & Tiana Major9
 
-554 songs - 1 day 7 hr 47 min
+555 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Body Aint Me](https://open.spotify.com/track/6Pg3lOfFt49w6mNmmvzJB2) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/3V3wIOcmYhraECOfqnRQi4) | 2:42 | 2019-07-10\* | 2019-10-16 |
 | [Borderline](https://open.spotify.com/track/1FhxEhPZpBBOJTDwSf6MA5) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/09jppw0ufVFDiotrHDMK1w) | 5:12 | 2020-07-31 | 2020-08-01 |
 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 | 2022-09-09 | 2022-12-17 |
+| [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 | 2023-02-12 |  |
 | [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 |  |
 | [Breathe](https://open.spotify.com/track/37I315BrXHT71iGieo1mvl) | [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Breathe](https://open.spotify.com/album/6eDbQydfXFQvaODKQpNHb4) | 3:09 | 2023-01-13 |  |
 | [BUILT FOR LOVE \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/5LpLw3R6TDlvmOIsgeCNjy) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [PAUL](https://open.spotify.com/album/1KcrRVDTURK888og82oPwg) | 3:25 | 2019-08-13 | 2020-01-30 |

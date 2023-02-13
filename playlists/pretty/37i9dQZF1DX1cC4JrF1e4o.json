@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 321874,
+  "num_followers": 322138,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMGQ2MTJiZDdmNWI2YzQ1YjI4ODdjOTZmZTY0NTgyMDNh",
+  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMGYxNmI4MTVjZjYwZWE5MTNlNWI4MDA3ZDU0NjMxMDBj",
   "tracks": [
     {
       "added_at": "2022-09-08 16:04:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "That Towering Feeling",
         "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 118400,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
       "added_at": "2022-09-08 16:04:56",

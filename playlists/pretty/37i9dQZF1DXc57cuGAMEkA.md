@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > Lizzo & SZA, The Kid LAROI, d4vd, Linkin Park and more!<br/> Cover: Lizzo & SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,269 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,279 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 37 | [Honeylight](https://open.spotify.com/track/7meIkOb8RpI52c6XcmEgHO) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Honeylight](https://open.spotify.com/album/1r7iblFWhX6mfOBlNbc5a4) | 3:21 |
 | 38 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 |
 | 39 | [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 |
-| 40 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 40 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 41 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
 | 42 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 |
 | 43 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs) | 2:38 |
 | 80 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 |
 
-Snapshot ID: `MTY3NjA5Mjg3MiwwMDAwMDAwMDA3ZDkxN2Q3N2UzNmQ3YzEwODNlODhiMTNmNzZkNmY2`
+Snapshot ID: `MTY3NjA5Mjg3MiwwMDAwMDAwMGI4NGYyNmNkYTUzYzRjMjg1ZWExYmMwMTM4NDVjMzJm`

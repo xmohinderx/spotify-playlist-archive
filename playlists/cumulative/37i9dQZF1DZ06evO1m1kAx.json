@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288956,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph"
+    },
+    {
+      "album": {
         "name": "AWAY & BEYOND PLUS",
         "url": "https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa"
       },
@@ -250,7 +276,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 256417,
       "name": "Bother You",
       "url": "https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw"

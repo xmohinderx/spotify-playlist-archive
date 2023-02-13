@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,478 likes - 94 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,541 likes - 94 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 27 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 |
 | 28 | [Leftovers](https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Leftovers](https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0) | 3:12 |
 | 29 | [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 |
-| 30 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
-| 31 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
+| 30 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
+| 31 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
 | 32 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 33 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 34 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 44 | [None Of Your Concern](https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [None Of Your Concern](https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW) | 4:22 |
 | 45 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
 | 46 | [Up Late](https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:26 |
-| 47 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
-| 48 | [Angles \(feat\. JME\)](https://open.spotify.com/track/2xcinH0acfCEZhflJuokip) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Angles \(feat\. JME\)](https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn) | 3:03 |
+| 47 | [Angles \(feat\. JME\)](https://open.spotify.com/track/2xcinH0acfCEZhflJuokip) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Angles \(feat\. JME\)](https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn) | 3:03 |
+| 48 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 49 | [So Good](https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 4:26 |
 | 50 | [Experience](https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Experience](https://open.spotify.com/album/4HUpIaMKPS0zPxMDl8P5fv) | 2:56 |
 | 51 | [Superstar](https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Superstar](https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm) | 4:08 |
-| 52 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
-| 53 | [Just Get Here \(feat\. Wale & VanJess\)](https://open.spotify.com/track/5cHdOuER9BztlOcbUNBmrQ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Moments Spent Loving You](https://open.spotify.com/album/2m8sIT1YP8YBQm2MAliBAH) | 5:29 |
+| 52 | [Just Get Here \(feat\. Wale & VanJess\)](https://open.spotify.com/track/5cHdOuER9BztlOcbUNBmrQ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Moments Spent Loving You](https://open.spotify.com/album/2m8sIT1YP8YBQm2MAliBAH) | 5:29 |
+| 53 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
 | 54 | [Help Yourself](https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 5:01 |
 | 55 | [I Don't Think We Should Wait](https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve) | 5:00 |
 | 56 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
 | 94 | [Slow](https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Slow](https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l) | 2:40 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGVlZjMzYjBmNzhlNDQ2ZmYyODUwN2QwODE0NmY3Mzg2`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGIzY2Y5NGNhODA3NTNhNWIzN2EzNmJlOGUwYzU0ZDBl`

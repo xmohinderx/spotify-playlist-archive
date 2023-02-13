@@ -4,7 +4,7 @@
 
 > The best indie covers\. Cover: Remi Wolf
 
-372 songs - 22 hr 57 min
+373 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [September](https://open.spotify.com/track/6n64BkrkLEgaQUliMeAMhD) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [September](https://open.spotify.com/album/2iBqAGVB2PiQDgfi6g2Za6) | 3:02 | 2021-10-08 | 2022-04-16 |
 | [Shake That Devil](https://open.spotify.com/track/1mLdMXS86MxTuZHdRW5UqA) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Shake That Devil](https://open.spotify.com/album/5KmuniNQ2g7UKgImMLrnO3) | 3:05 | 2021-08-13 | 2022-04-03 |
 | [Shakedown Street](https://open.spotify.com/track/0wPUWUZ0jzqnGddU793xHO) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Shakedown Street](https://open.spotify.com/album/6kLk603Tgznn0DREoirhwc) | 4:16 | 2021-03-12 | 2022-04-16 |
-| [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 |  |
+| [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 | 2023-02-13 |
 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2021-03-12 | 2022-07-27 |
 | [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 |  |
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
@@ -293,6 +293,7 @@
 | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/track/0864RUJfVHsr25hM5pxonl) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/album/30HFiTr4QBg533rhuDXYw1) | 3:51 | 2021-03-12 | 2022-04-21 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2021-03-12 |  |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-03-19 | 2023-01-14 |
+| [Sweater Weather](https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Sweater Weather](https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl) | 2:35 | 2023-02-10 |  |
 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 | 2021-03-12 |  |
 | [Sweet Child o' Mine](https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o' Mine](https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90) | 5:02 | 2021-03-12 | 2022-08-10 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 | 2021-03-12 | 2022-04-20 |

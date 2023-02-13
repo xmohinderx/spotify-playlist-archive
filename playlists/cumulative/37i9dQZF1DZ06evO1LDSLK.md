@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 48 min
+77 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,13 @@
 | [The Endless Sea](https://open.spotify.com/track/38lgHi3Mggg8cIvlCSsxQm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [New Values](https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc) | 4:51 | 2022-11-04 | 2022-12-03 |
 | [The News For Andy \(Interlude\)](https://open.spotify.com/track/5Fc2Y9ICh4f8weUhqS5Co9) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 0:55 | 2023-01-07 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2022-11-04 |  |
+| [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 | 2023-02-12 |  |
 | [The Pure and the Damned](https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 4:29 | 2022-11-04 | 2023-01-18 |
 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 | 2022-11-04 |  |
 | [Tonight](https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:39 | 2022-11-04 |  |
 | [TV Screen \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/5Ioy9ZoOzXYXIcaX3Ent6m) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 5:18 | 2022-11-04 |  |
 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 | 2022-11-04 | 2022-11-18 |
-| [Why Can't We Live Together](https://open.spotify.com/track/4ehjDSjvxRMWlB4aExCJQV) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:44 | 2022-11-04 |  |
+| [Why Can't We Live Together](https://open.spotify.com/track/4ehjDSjvxRMWlB4aExCJQV) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:44 | 2022-11-04 | 2023-02-13 |
 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 | 2022-11-04 | 2023-01-29 |
 
 \*This playlist was first scraped on 2022-11-05. Prior content cannot be recovered.

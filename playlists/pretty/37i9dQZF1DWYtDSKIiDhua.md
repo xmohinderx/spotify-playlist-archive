@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Lizzo, SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,231 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,267 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 3 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 |
 | 4 | [All That I Needed](https://open.spotify.com/track/7DBAcbwcjFk3TPnj0mp7ct) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [All That I Needed](https://open.spotify.com/album/7pv4846LixpPlzAVEdJ8nc) | 3:04 |
 | 5 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
-| 6 | [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
+| 6 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 7 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 |
 | 8 | [Needy](https://open.spotify.com/track/5kSV5hHWyB7bTzjq7pS9Fi) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Luv Scarred / No Luv \(Deluxe\)](https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC) | 3:20 |
 | 9 | [Window](https://open.spotify.com/track/2qn1uAB6zNn8iRZXNQDblO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Window/Dormer](https://open.spotify.com/album/2NLaH3YHgILL6M4vrPhj7W) | 3:35 |

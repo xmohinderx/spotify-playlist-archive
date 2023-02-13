@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Jessie Ware
 
-734 songs - 1 day 15 hr 37 min
+735 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-14 | 2022-08-27 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 | 2022-07-29 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-09 | 2022-08-05 |
-| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-10 |  |
+| [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 | 2023-02-13 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-09-16 |
 | [golden hour \(feat\. Cat Burns\)](https://open.spotify.com/track/37lrjvpRUfH0Ih0CUQr8X9) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [golden hour \(feat\. Cat Burns\)](https://open.spotify.com/album/49ulj4Ewj2ew5uXYGAvR2R) | 3:29 | 2022-11-25 | 2022-12-02 |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-23 | 2023-01-18 |

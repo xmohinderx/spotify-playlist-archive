@@ -1,15 +1,15 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1302,
+  "num_followers": 1303,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxMzY2NiwwMDAwMDAwMGFmY2NjM2ZjZmI1OGExNmUzYTc2MWJhNjg1ODQ0MjY1",
+  "snapshot_id": "MTY3NjAxMzY2NiwwMDAwMDAwMDAyYWMxOTU3YWI4NTczOTUzZjkxNDcxZTdlOGI5ZDNk",
   "tracks": [
     {
-      "added_at": "2023-02-12 01:12:15",
+      "added_at": "2023-02-13 01:10:37",
       "album": {
         "name": "Same Story Riddim",
         "url": "https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
     },
     {
-      "added_at": "2023-02-12 01:12:15",
+      "added_at": "2023-02-13 01:10:37",
       "album": {
         "name": "Kyaani",
         "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
+      "added_at": "2022-10-07 10:52:01",
+      "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Leaving Summer",
@@ -95,26 +115,6 @@
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
-    },
-    {
-      "added_at": "2022-10-07 10:52:01",
-      "album": {
-        "name": "Biwamiel",
-        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
-      },
-      "artists": [
-        {
-          "name": "Udulele",
-          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
-        },
-        {
-          "name": "Umoja",
-          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "Biwamiel",
-      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 205000,
       "name": "Zinge",
       "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -565,6 +565,42 @@
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
+      "added_at": "2023-02-13 01:10:37",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        },
+        {
+          "name": "An-Known",
+          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2023-01-12 20:59:00",
+      "album": {
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Kiki Kyogamba",
@@ -587,22 +623,6 @@
       "duration_ms": 270379,
       "name": "Kiki Kyogamba - What You Saying Mix",
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
-    },
-    {
-      "added_at": "2023-01-12 20:59:00",
-      "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
     },
     {
       "added_at": "2022-12-09 12:00:13",
@@ -691,22 +711,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
@@ -723,38 +727,6 @@
       "duration_ms": 188444,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
       "added_at": "2023-02-03 14:21:08",
@@ -775,18 +747,34 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Awo",
-        "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
       },
       "artists": [
         {
-          "name": "ALLAN TONIKS",
-          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 260075,
-      "name": "Akahama",
-      "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -803,6 +791,38 @@
       "duration_ms": 270054,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Awo",
+        "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Akahama",
+      "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-11-25 11:45:40",
@@ -825,26 +845,6 @@
       "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
     },
     {
-      "added_at": "2023-02-12 01:12:15",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        },
-        {
-          "name": "An-Known",
-          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Kwetega",
@@ -863,22 +863,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Star Gal",
-        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 206471,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     },
     {
       "added_at": "2022-09-30 11:18:57",

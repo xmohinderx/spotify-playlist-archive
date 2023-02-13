@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,966 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,981 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 53 | [Shabaka](https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL) | 3:33 |
 | 54 | [インキャインパルス\(Inkya Impulse\)](https://open.spotify.com/track/6FSCClIrk0Q1DhXnjUZWef) | [二口魔菜 Futakuchi Mana](https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29) | [Covers 2021](https://open.spotify.com/album/0GnuVPbMZOyajT6qWcfsMi) | 4:31 |
 | 55 | [津波](https://open.spotify.com/track/6o1mOuSSNwzCDsjJlPTqGC) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 2:49 |
-| 56 | [DISGUSTING!](https://open.spotify.com/track/00Vy5lKB6e40kKZONUCATl) | [Undead Papi](https://open.spotify.com/artist/0oahYd3VWxnAka5gHpY3D0), [Saush](https://open.spotify.com/artist/5YvL0AvwZMERib1LHtnRAX) | [DISGUSTING!](https://open.spotify.com/album/0LQ4gSVHZbFSAQMpZMZX1d) | 2:08 |
+| 56 | [DISGUSTING!](https://open.spotify.com/track/00Vy5lKB6e40kKZONUCATl) | [Undead Papi](https://open.spotify.com/artist/0oahYd3VWxnAka5gHpY3D0), [Saush](https://open.spotify.com/artist/0NUiVNeyctDYZBPasa8w2J) | [DISGUSTING!](https://open.spotify.com/album/0LQ4gSVHZbFSAQMpZMZX1d) | 2:08 |
 | 57 | [We Are the Reason You Run and Hide](https://open.spotify.com/track/6cVi4NQqX4cT8TQLkSzgxK) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [We Are the Reason You Run and Hide](https://open.spotify.com/album/1pnLhbXbP112zOzDQubXoV) | 3:28 |
 | 58 | [HEART ERROR](https://open.spotify.com/track/6cALZOQjyK5yGbK48LABp8) | [ANTICXLTXRE](https://open.spotify.com/artist/7aKPljkfMF8UF2r7m28tuT) | [HEART ERROR](https://open.spotify.com/album/0R8TZyz46VVaXZ1fCsZPUI) | 3:19 |
 | 59 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |

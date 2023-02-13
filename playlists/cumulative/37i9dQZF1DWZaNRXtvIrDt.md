@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Loods
 
-143 songs - 10 hr 50 min
+144 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 | 2022-12-08 |  |
 | [Can't Hang \- Disco Lines Remix](https://open.spotify.com/track/2O6Om9fTQr9VyUYp3C27Zk) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Can't Hang \(Disco Lines Remix\)](https://open.spotify.com/album/5885LHE57QcvhGUuk6ABeg) | 3:46 | 2023-02-02 |  |
 | [Coming On Strong](https://open.spotify.com/track/06zEIQV4HnyhES2flGFeVd) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Coming On Strong](https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ) | 6:02 | 2022-12-08 | 2023-01-27 |
-| [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-26 |  |
+| [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-26 | 2023-02-13 |
 | [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 | 2023-01-19 | 2023-02-02 |
+| [Contact](https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:00 | 2023-02-09 |  |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-02 |  |
 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 | 2023-01-12 |  |
 | [Cyber](https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd) | [Echomatics](https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0) | [Move On](https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB) | 5:08 | 2023-01-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 173872,
+  "num_followers": 173930,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1MDgzNCwwMDAwMDAwMDBiOGI1YzA2YjlhYjM4ZDE3NGFjOGMzOGUzOTYyNDJj",
+  "snapshot_id": "MTY3MjI1MDgzNCwwMDAwMDAwMDhkOGIzYzZlM2MzNDczMWI2MTBkNDk4NzAxMzBjYmJm",
   "tracks": [
     {
       "added_at": "2022-04-16 03:27:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
-        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217692,
-      "name": "Kokomo",
-      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 236800,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
+        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217692,
+      "name": "Kokomo",
+      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
-      },
-      "artists": [
-        {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Working for the Weekend",
-      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
+      },
+      "artists": [
+        {
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Working for the Weekend",
+      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     }
   ],
   "unique_name": "Summer Hits of the 80s",

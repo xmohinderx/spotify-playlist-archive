@@ -4,11 +4,11 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-129 songs - 11 hr 38 min
+130 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 |  |
+| [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 | 2023-02-13 |
 | [All I Want \- Original Mix](https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M) | [The Archer](https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU) | [All I Want](https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz) | 4:03 | 2022-08-19 |  |
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 |  |
@@ -26,6 +26,7 @@
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-22 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Changes EP](https://open.spotify.com/album/6OICJ3V1eLF0NTfMY4Em4n) | 2:51 | 2022-06-10 | 2022-07-29 |
 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 | 2022-11-11 |  |
+| [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 | 2023-02-10 |  |
 | [Collide](https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Shyam P](https://open.spotify.com/artist/6MEz9NMqBseGCPes6zV3cj) | [Collide](https://open.spotify.com/album/70YMLqoTKFcaa6NwHrIvAp) | 4:15 | 2022-07-22 | 2022-11-17 |
 | [Connect the Dots \- Oliver Schories & Gorge Remix](https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Connect the Dots](https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj) | 6:43 | 2022-08-26 |  |
 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2022-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,693 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,757 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 54 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 |
 | 55 | [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 |
 | 56 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
-| 57 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 |
-| 58 | [Balcony](https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 2:31 |
+| 57 | [Balcony](https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 2:31 |
+| 58 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 |
 | 59 | [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 |
 | 60 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 61 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 |
 | 62 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 |
-| 63 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 64 | [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 |
-| 65 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 |
-| 66 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 |
-| 67 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 |
-| 68 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
-| 69 | [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 |
-| 70 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 |
-| 71 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
+| 63 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 |
+| 64 | [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 |
+| 65 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 66 | [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 |
+| 67 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 |
+| 68 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 |
+| 69 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
+| 70 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
+| 71 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 |
 | 72 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 |
 | 73 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
-| 74 | [so easily \(with skaiwater\)](https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [so easily \(with skaiwater\)](https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6) | 3:39 |
-| 75 | [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 |
+| 74 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
+| 75 | [so easily \(with skaiwater\)](https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [so easily \(with skaiwater\)](https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6) | 3:39 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDg5NWZmYTliNzA5YmVhZmE1MDdlNTgwODdmYjg0Zjc0`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDZhYjE4YWI3YzVmMDI5MGM3ZDFkMjgxZjNjMWMyZDZh`

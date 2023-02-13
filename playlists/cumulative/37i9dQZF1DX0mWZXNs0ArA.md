@@ -4,7 +4,7 @@
 
 > 150%
 
-166 songs - 7 hr 13 min
+167 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |
 | [Jerk \- Sped Up Version](https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Jerk \(Sped Up Version\)](https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8) | 1:53 | 2022-12-16 |  |
 | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/track/0SfGYfOD0ipz1zg0ZCyqae) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/album/2MH1Q3GTGl9mLUT6oCY0ve) | 3:26 | 2023-01-27 | 2023-02-12 |
-| [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 | 2023-01-27 |  |
+| [Judas \- Sped Up](https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG), [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Judas](https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr) | 3:26 | 2023-01-27 |  |
+| [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 | 2023-01-27 | 2023-02-13 |
 | [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-13 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/0MwFC8WoPCjq2H3UES2aos) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:41 | 2022-11-15 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 | 2022-12-02 |
@@ -165,7 +166,7 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-24 |  |
 | [WASTE \- Sped Up Version](https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 1:40 | 2022-12-14 |  |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-06-09 |  |
-| [Watch This \(Lil Uzi Vert\) \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(Lil Uzi Vert\) \[ARIZONATEARS Pluggnb Remix\]](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-09 |  |
+| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-09 |  |
 | [What You Need \(Sped Up Version\)](https://open.spotify.com/track/6AZvzU8fPSIefNDDl02e0C) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need \(Sped Up Version\)](https://open.spotify.com/album/2YZq8ncPiwOKNYKZBwMgvd) | 2:58 | 2023-01-18 |  |
 | [Where Do We Go From Here? \- sped up](https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Where Do We Go From Here? \(sped up\)](https://open.spotify.com/album/3QWolpriPFWyqWCEzFAVnJ) | 3:34 | 2023-01-27 |  |
 | [Where's My Love \- Sped Up](https://open.spotify.com/track/6UHkwuFF6CXKMqBtDRxk8C) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 2:48 | 2022-11-11 |  |

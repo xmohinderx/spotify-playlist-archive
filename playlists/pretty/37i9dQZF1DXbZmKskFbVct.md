@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,210 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,213 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 26 | [Personal Attention and Positive Affirmations Just For You Pt.1](https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm) | [Jinx ASMR](https://open.spotify.com/artist/0xl6qcCkuTgiBrb4pGEOrx) | [Personal Attention and Positive Affirmations Just For You](https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn) | 5:06 |
 | 27 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
 | 28 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |
-| 29 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
-| 30 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh) | 3:29 |
+| 29 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh) | 3:29 |
+| 30 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
 | 31 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 |
 | 32 | [Removing Negative Energy](https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 4:54 |
 | 33 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 38 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 39 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
 | 40 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
-| 41 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
-| 42 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 |
+| 41 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 |
+| 42 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
 | 43 | [Positive Affirmations](https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Intensely Crunchy Celery Eating](https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec) | 14:44 |
 | 44 | [Milk Bath](https://open.spotify.com/track/4Dph1YEGoMe8mw6Kze3c0u) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 6:44 |
 | 45 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV) | 5:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Blowing Air](https://open.spotify.com/track/79NIaixDTBEYbQK5dO8aF1) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Tapping and Crinkling](https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr) | 3:24 |
 | 50 | [Whispers and Dry Ear Massage](https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [10 Triggers To Help Relax Your Brain At Night](https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb) | 9:44 |
 
-Snapshot ID: `MTY3NTM0NTcyMiwwMDAwMDAwMGMyOGQ5ZDJhZDI3YTI1NDNjMzZhOWZjNWQ5OTE2Mzcw`
+Snapshot ID: `MTY3NTM0NTcyMiwwMDAwMDAwMDNjMjNiNTZlNTE2ZDFmOTQwM2M5MzlmOWY3YmIyYzhh`

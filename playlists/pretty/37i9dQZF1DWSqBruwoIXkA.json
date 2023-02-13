@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: d4vd",
-  "num_followers": 1408590,
+  "num_followers": 1409339,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0MjM2MiwwMDAwMDAwMDhkYzBlMjQ4NGJkNTEwY2E0YmFjMTQ0YzU2OTMyNGE3",
+  "snapshot_id": "MTY3NjA0MjM2MiwwMDAwMDAwMGYyMWI2MDA3Mjc5N2NiZDVlMmU3M2Y4NzUyZGZiZGVk",
   "tracks": [
     {
       "added_at": "2023-02-10 05:01:00",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap"
     },
     {
-      "added_at": "2023-02-12 00:12:10",
+      "added_at": "2023-02-13 00:48:47",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6"
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 198573,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "I'll Be Waiting (Sad At Christmas)",
-        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Back to Friends",
+        "url": "https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 215980,
+      "name": "Back to Friends",
+      "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Girl Of My Dreams (Deluxe)",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 173893,
       "name": "Better Version (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Back to Friends",
-        "url": "https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 215980,
-      "name": "Back to Friends",
-      "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "almost happy",
-        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 137897,
-      "name": "almost happy",
-      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 195400,
       "name": "broken",
       "url": "https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "almost happy",
+        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 137897,
+      "name": "almost happy",
+      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2309,20 +2309,20 @@
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-02-10 05:01:00",
       "album": {
-        "name": "How Are You?",
-        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
       "artists": [
         {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 169499,
-      "name": "How Are You?",
-      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
+      "duration_ms": 155591,
+      "name": "What Happened to Ryan",
+      "url": "https://open.spotify.com/track/0UYNa7reQKIbADXr8iN28w"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+        "name": "How Are You?",
+        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
       },
       "artists": [
         {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
         }
       ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+      "duration_ms": 169499,
+      "name": "How Are You?",
+      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "amnesia",
         "url": "https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH"
       },
@@ -2407,6 +2423,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "How Dare You",
+        "url": "https://open.spotify.com/album/6xnPq67BkkAiVooCU5Yb1b"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 189552,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/2Q1KWlBO3MfJTQ5deZUieQ"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -2419,42 +2451,6 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Survive My Own Mind",
-        "url": "https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 136480,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Crying Over You",
-        "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 178949,
-      "name": "Crying Over You",
-      "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
     }
   ],
   "unique_name": "sad hour",

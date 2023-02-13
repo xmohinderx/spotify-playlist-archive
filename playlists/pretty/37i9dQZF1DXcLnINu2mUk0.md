@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,073 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,103 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 23 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 24 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
 | 25 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
-| 26 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
-| 27 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
+| 26 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
+| 27 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 28 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 |
 | 29 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 30 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 |
 | 52 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 |
 | 53 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 |
-| 54 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
-| 55 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
+| 54 | [Só Nós Os Dois](https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Só Nós Os Dois](https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W) | 3:18 |
+| 55 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 |
 | 56 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 |
-| 57 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 |
-| 58 | [Só Nós Os Dois](https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Só Nós Os Dois](https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W) | 3:18 |
+| 57 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
+| 58 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 |
 | 59 | [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 |
-| 60 | [Garrafa](https://open.spotify.com/track/4BbLqKSY2DFD1HnIvC8gcu) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [BECCAA](https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4) | [Garrafa](https://open.spotify.com/album/24KKKh9J99qt15XnnZ1BTN) | 2:59 |
+| 60 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMDc0ZGFhZDFkNjY2YTg2ZjhjOWQ5Njg3ZjE1NWJlZDBj`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGEwOGY0ZTIwMmY5NzgwYjljNTk5NzhiZDhiNGYzOWQ4`

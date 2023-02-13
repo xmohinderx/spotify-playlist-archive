@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Jotta A",
-  "num_followers": 218499,
+  "num_followers": 218511,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMGIxNDAyNzI1MDkyYjBmY2QzMmMxMGEwYzk1YTFjMTA1",
+  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMGI0ZjA4ZmNkYjk5NjBjMTI0MmZiMTEyMTM0OGNkN2M3",
   "tracks": [
     {
       "added_at": "2023-02-10 17:42:48",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
+        "name": "te vi na festa (e nem doeu)",
+        "url": "https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 121176,
+      "name": "te vi na festa (e nem doeu)",
+      "url": "https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
         "name": "Alasca",
         "url": "https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 152538,
       "name": "JUP-ME",
       "url": "https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "te vi na festa (e nem doeu)",
-        "url": "https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 121176,
-      "name": "te vi na festa (e nem doeu)",
-      "url": "https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 132983,
-      "name": "Triste com T",
-      "url": "https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK"
     },
     {
       "added_at": "2023-02-10 17:42:48",

@@ -4,7 +4,7 @@
 
 > pov: i really love you fr.
 
-47 songs - 2 hr 50 min
+48 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2023-02-02 |  |
 | [All That Matters](https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 3:11 | 2023-02-02 |  |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 | 2023-02-02 |  |
+| [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-12 |  |
 | [Come Over \- Cover](https://open.spotify.com/track/2cKtwmy8OkbzY6XCw7yrS1) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Come Over \(Cover\)](https://open.spotify.com/album/0SWYauVLyKNN6TOhIXxBCg) | 2:22 | 2023-02-02 |  |
 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 | 2023-02-02 |  |
 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 | 2023-02-02 |  |

@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-143 songs - 8 hr 29 min
+144 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-11-05 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2021-11-05 |  |
 | [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 | 2022-11-25 | 2022-12-29 |
+| [Eu Tive um Sonho \- Ao Vivo](https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Planta e Raiz 2022, Show Completo \(Ao Vivo\)](https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5) | 3:41 | 2023-02-03 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-11-05 |  |
 | [Exist for Love](https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 4:12 | 2022-09-09 |  |
 | [Exist For Love](https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Exist For Love](https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV) | 4:12 | 2021-11-05 | 2022-10-03 |
@@ -125,7 +126,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Sorry Not Sorry](https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU) | 2:34 | 2021-11-05 |  |
 | [South of the Border \(feat\. Camila Cabello\) \- Acoustic](https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [South of the Border \(feat\. Camila Cabello\) \[Acoustic\]](https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT) | 3:14 | 2021-11-05 |  |
 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 | 2021-11-05 |  |
-| [Sun Will Shine \- Acoustic Version](https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine \(Acoustic Version\)](https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y) | 3:35 | 2022-10-28 |  |
+| [Sun Will Shine \- Acoustic Version](https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine \(Acoustic Version\)](https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y) | 3:35 | 2022-10-28 | 2023-02-13 |
 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 | 2021-11-05 |  |
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2023-01-27 |  |
 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe) | 4:07 | 2021-11-05 | 2022-07-29 |

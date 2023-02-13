@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niall Horan",
-  "num_followers": 89308,
+  "num_followers": 89363,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg4NSwwMDAwMDAwMDU2ZWJlNGE2OGNlNWMwYjljZWI2MDY2NjExODI4YjYz",
+  "snapshot_id": "MTY3MzU2MDg4NSwwMDAwMDAwMGQ0YjRiOTJhZDk0NzM5YTYzYmUyOGY1Y2I1ODhmMDIz",
   "tracks": [
     {
       "added_at": "2023-01-12 22:01:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201885,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1039,6 +1023,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1092,22 +1092,6 @@
       "added_at": "2023-01-12 22:01:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1123,6 +1107,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
-        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
       "artists": [
         {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+          "name": "Kristina Train",
+          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
         }
       ],
-      "duration_ms": 144570,
-      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
-      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
+      "duration_ms": 140090,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
+        "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
       "artists": [
         {
-          "name": "Kristina Train",
-          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 140090,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+      "duration_ms": 144570,
+      "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
+      "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 319680,
       "name": "Just (feat. Phantom Planet)",
       "url": "https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 284050,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Montero (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 141880,
       "name": "Montero (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 284050,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
-    },
-    {
-      "added_at": "2023-01-12 22:01:25",
-      "album": {
         "name": "Born in the Eighties",
         "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2023-01-12 22:01:25",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
       },
       "artists": [
         {
-          "name": "Tyler Carter",
-          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
         }
       ],
-      "duration_ms": 225986,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ"
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
     },
     {
       "added_at": "2023-01-12 22:01:25",
@@ -2351,6 +2335,22 @@
       "duration_ms": 263800,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
+    },
+    {
+      "added_at": "2023-01-12 22:01:25",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Carter",
+          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ"
     },
     {
       "added_at": "2023-01-12 22:01:25",

@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. paramore
 
-465 songs - 23 hr 24 min
+466 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 | 2022-11-18 |  |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-08-05 |
 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 | 2022-01-07 | 2022-01-21 |
-| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-08-27 |  |
+| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-08-27 | 2023-02-13 |
+| [DEEP CUTS](https://open.spotify.com/track/43zuHsv9bZ9WfsXPzpR4Nb) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 4:14 | 2023-02-10 |  |
 | [DEEP CUTS](https://open.spotify.com/track/7q9xpIuDaUShbrXdFw54gu) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 4:14 | 2022-11-11 | 2022-11-13 |
 | [DEMONS](https://open.spotify.com/track/32xcZLqIik5c21zDJj9xAV) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [BORN ON THE INTERNET](https://open.spotify.com/album/5qMCPAIS3GDGQHPl8N0Mvx) | 2:22 | 2022-08-04 | 2022-09-09 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-01-07 | 2022-03-25 |

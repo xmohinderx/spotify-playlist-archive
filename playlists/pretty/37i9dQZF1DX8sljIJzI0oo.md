@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#038 featuring ROSALÍA 🔥\. Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,353 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,545 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

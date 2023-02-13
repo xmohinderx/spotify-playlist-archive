@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-966 songs - 2 day 5 hr 31 min
+967 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,7 @@
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2021-03-27\* | 2021-06-18 |
 | [Nounou](https://open.spotify.com/track/1jqcBOYOADm83XsQUE3W9O) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:52 | 2021-10-03 | 2021-11-27 |
 | [NPNG](https://open.spotify.com/track/6TWd38PglTHmtEIlxOM7FG) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:37 | 2022-05-29 | 2022-05-31 |
-| [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2022-12-21 | 2023-02-12 |
+| [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2022-12-21 |  |
 | [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-08-14 | 2022-12-18 |
 | [Numero uno](https://open.spotify.com/track/5H1HZedeDHC5ahCgoimGFM) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero uno](https://open.spotify.com/album/268SaqJcoWm0rt8xKlH1CV) | 4:00 | 2021-06-21 | 2021-07-18 |
 | [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-08-27 | 2022-09-24 |
@@ -680,7 +680,7 @@
 | [Outro](https://open.spotify.com/track/641ZugvavhGQ14rRHCwZ4g) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 1:52 | 2021-03-29 | 2021-03-30 |
 | [Outro : Ego](https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:16 | 2022-02-16 | 2022-02-18 |
 | [Outro: Her](https://open.spotify.com/track/3l8yQMdniG6Os8gUBNXV57) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) | 3:48 | 2021-12-10 | 2021-12-11 |
-| [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2023-01-07 |  |
+| [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2023-01-07 | 2023-02-13 |
 | [Overdoze](https://open.spotify.com/track/6CfOgMJNTGhVNYEJnauB3U) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:22 | 2023-01-08 | 2023-01-10 |
 | [Overdrive](https://open.spotify.com/track/1MJHXJ8bdoynpEtCLCbkWf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 3:22 | 2022-06-18 | 2022-06-20 |
 | [Overleven](https://open.spotify.com/track/3NgVkYRWAhWHLgH9Zn6s5t) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Overleven](https://open.spotify.com/album/2VOaWPQ1eSPREbixlAIkz0) | 2:53 | 2022-08-06 | 2022-08-10 |
@@ -923,6 +923,7 @@
 | [Weld L3abd](https://open.spotify.com/track/0MzVx8P5frmjdiTvoflRbd) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:16 | 2022-12-21 | 2022-12-28 |
 | [Weld l9ount](https://open.spotify.com/track/2n3FZf0DBOjcLCjZ80dTGa) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ATMSPR](https://open.spotify.com/album/4t6uA3PpFGduR9OiBsyeY7) | 2:12 | 2022-08-07 | 2022-08-11 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-08 |
+| [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/64WRdmQyLyk1ldW2FN8Kyp) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 | 2023-02-12 |  |
 | [WINDOW SHOPPER PART\. 1](https://open.spotify.com/track/29GT81KcfMhfYV1BSpL3p2) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:37 | 2021-07-18 | 2021-07-19 |
 | [WINDOW SHOPPER PART\. 2 \(feat\. Hamza\)](https://open.spotify.com/track/6wFP7BMVFeA6cxUUyTrIxN) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:13 | 2021-07-18 | 2021-07-20 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-05-07 |
@@ -960,7 +961,7 @@
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-09-18 | 2021-09-22 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |
 | [ØKHØWA Pt\. 1](https://open.spotify.com/track/4CN9wmLEQWdB92GcCd24Nq) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:18 | 2023-01-28 | 2023-02-02 |
-| [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-28 |  |
+| [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-28 | 2023-02-13 |
 | [Ο\. OG](https://open.spotify.com/track/63ALxy05IGeKrfOjvGG7lO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 1:40 | 2021-04-30 | 2021-05-03 |
 | [Π\. VANTABLACK](https://open.spotify.com/track/2n3dCM1RqyhzH5FZQW4jxA) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 2:33 | 2021-04-30 | 2021-05-08 |
 | [Ρ\. DOSE](https://open.spotify.com/track/0pU7enpfjSu21LwCb1708u) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:10 | 2021-04-30 | 2021-05-06 |

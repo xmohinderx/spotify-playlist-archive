@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,001 songs - 4 day 19 hr 11 min
+2,002 songs - 4 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ["U"](https://open.spotify.com/track/1K8H4NSedThelD0gYtJzHZ) | [Carli Longoni](https://open.spotify.com/artist/0zqpOV3mwWdyqNoqQgT2aq) | ["U"](https://open.spotify.com/album/3tL7RqOOnoE1jy8yRduMCA) | 3:13 | 2022-11-18 | 2022-12-10 |
 | [$1](https://open.spotify.com/track/46RW4jluYNI8ay2NgRwq3m) | [Timebelle](https://open.spotify.com/artist/5HiW8Shh2vPcD16rE8MaBr) | [$1](https://open.spotify.com/album/0FOjeAgCYszGkzaEPzetUg) | 3:22 | 2022-11-11 | 2022-12-03 |
 | [/fingerprints/](https://open.spotify.com/track/7n0BCxqTkIkvPmCK5xMCG7) | [fluff](https://open.spotify.com/artist/3InMJFM9aMItFyFwHDeAhz) | [/fingerprints/](https://open.spotify.com/album/5YhldtfMx3Xaehuek4WUd8) | 1:20 | 2022-07-08 | 2022-07-27 |
+| [007](https://open.spotify.com/track/0G0on4KEOd6h11ZqqPFSkO) | [1OAK Mickey](https://open.spotify.com/artist/6ZcgKySXvWLQNNSmLEZny5) | [007](https://open.spotify.com/album/79qBfeyUckirCjxd5XNRiE) | 2:14 | 2023-02-12 |  |
 | [100 Yard Dash](https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:18 | 2019-09-29\* | 2021-11-19 |
 | [10oclock](https://open.spotify.com/track/0K7E3XnPSA1SYypzBC6q41) | [Jish](https://open.spotify.com/artist/0uFEORYGLa0d2KqJuK9Pyo) | [10oclock](https://open.spotify.com/album/4FP7n81L4wM3ioX0Y4MkrP) | 4:06 | 2022-05-06 | 2022-05-22 |
 | [12.38 \(feat\. 21 Savage, Ink & Kadhja Bonet\)](https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:32 | 2020-08-20 | 2023-02-12 |

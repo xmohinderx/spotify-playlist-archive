@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Kierra Sheard",
-  "num_followers": 38577,
+  "num_followers": 38768,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMwNDcwOSwwMDAwMDAwMGMwNzYxNWFjMDgyZTkyMjUxNTM2ZGE5ZmZiNDgyZDI2",
+  "snapshot_id": "MTY3NTMwNDcwOSwwMDAwMDAwMDNjNDQ0ZjFlYTAwZTFjZWFmNzRmMzFjYzFjZGU4MTM3",
   "tracks": [
     {
       "added_at": "2023-02-02 02:25:09",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -739,18 +723,34 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "One Of These Days",
-        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
       "artists": [
         {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 219554,
-      "name": "One Of These Days",
-      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "I Rely",
         "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229053,
       "name": "I Rely",
       "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "One Of These Days",
+        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "duration_ms": 219554,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "IF I RAN AWAY",
+        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 153418,
+      "name": "IF I RAN AWAY",
+      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/3pAaQGDsxRpoGlxhuVH7Yp"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 170605,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/2my5Krx5X2FTrLsaYKBuJR"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Enemies and Foes",
-        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        },
-        {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
-        }
-      ],
-      "duration_ms": 289134,
-      "name": "Enemies and Foes",
-      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1367,6 +1347,26 @@
       "duration_ms": 181416,
       "name": "I's On Him",
       "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Enemies and Foes",
+        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        },
+        {
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        }
+      ],
+      "duration_ms": 289134,
+      "name": "Enemies and Foes",
+      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
     },
     {
       "added_at": "2023-02-02 02:25:09",

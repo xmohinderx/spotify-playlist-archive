@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-450 songs - 1 day 3 hr 55 min
+451 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-24 |  |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2022-06-28 | 2022-11-23 |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2022-06-28 | 2022-11-17 |
+| [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-08 |  |
 | [Fields of Home](https://open.spotify.com/track/79XZYbexRnaHO7cf5nJZZw) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Fields of Home](https://open.spotify.com/album/6QKyTox6aInFLkw7KA2wTG) | 3:25 | 2022-06-28 | 2022-10-08 |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-30 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2022-06-28 | 2022-12-06 |
@@ -214,7 +215,7 @@
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-06-28 | 2022-11-17 |
 | [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-06-28 | 2022-10-08 |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-28 | 2023-01-10 |
-| [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-30 |  |
+| [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-30 | 2023-02-13 |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2022-06-28 | 2022-10-08 |
 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 | 2022-11-10 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-30 |  |

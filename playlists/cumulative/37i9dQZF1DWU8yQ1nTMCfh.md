@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Los Mesoneros
 
-156 songs - 8 hr 48 min
+157 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Celosa](https://open.spotify.com/track/5lx3ZGWICq1EuSpkt0Zg04) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/4LwIDAHt4ALnQemPmkenUr) | 4:22 | 2022-04-15 | 2022-07-29 |
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-04-15 | 2022-12-17 |
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-04-15 | 2022-12-10 |
+| [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 | 2023-02-13 |  |
 | [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 | 2022-04-15 |  |
 | [Corazón del Universo](https://open.spotify.com/track/2EFPmEqUxdC3zjLgE4gq8j) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Corazón del Universo](https://open.spotify.com/album/2Ys2tKZJdONUJmOTubrmn5) | 3:47 | 2022-04-15 | 2022-12-10 |
 | [Corto Circuito](https://open.spotify.com/track/2QRDPXSOlA03Tj6BHPIjH9) | [Sierra León](https://open.spotify.com/artist/0cyhvPv23KSGqLirkaCPyV) | [Corto Circuito](https://open.spotify.com/album/7iLicaTgffN4CToV3nhSv6) | 2:19 | 2022-04-15 | 2022-12-10 |
@@ -78,7 +79,7 @@
 | [La Fórmula Secreta](https://open.spotify.com/track/1hbmlgKAdNqA6WHBKht7S1) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:59 | 2022-04-15 | 2022-12-10 |
 | [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 | 2022-12-13 | 2023-01-21 |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-04-15 | 2023-01-18 |
-| [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 | 2022-07-19 |  |
+| [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 | 2022-07-19 | 2023-02-13 |
 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 | 2022-04-15 |  |
 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 | 2022-09-06 |  |
 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 | 2022-12-16 |  |

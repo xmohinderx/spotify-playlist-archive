@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,871 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,967 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 11 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
 | 12 | [BOOTS](https://open.spotify.com/track/48r61fmMtlyjaMgXhi0Go6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:13 |
 | 13 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
-| 14 | [screen](https://open.spotify.com/track/6sCHcwmUCsVyMdLgm9b1IU) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:47 |
+| 14 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:14 |
 | 15 | [REDNECKER](https://open.spotify.com/track/0YVdTI4w1BEqSjGNXcRjX1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:21 |
 | 16 | [UNAPOLOGETICALLY COUNTRY AS HELL](https://open.spotify.com/track/45nc69lqKe3kY9sit2UU6G) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:55 |
 | 17 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:19 |
-| 18 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:14 |
+| 18 | [screen](https://open.spotify.com/track/6sCHcwmUCsVyMdLgm9b1IU) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:47 |
 | 19 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 2:41 |
 | 20 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 |
 | 21 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 40 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0zh4T437EeNPSeWf2LITdM) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/album/72xen7JDla12oGrjCxrtvu) | 3:09 |
 | 41 | [Hometown Boys \(feat\. Matt Stell, Dierks Bentley & HARDY\)](https://open.spotify.com/track/7gbCLXXJrFu31FDHlIIbam) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Hometown Boys \(feat\. Matt Stell, Dierks Bentley & HARDY\)](https://open.spotify.com/album/1bbxGXkTZgxCwF2ApqpuwP) | 3:44 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDBjOWFmNWMzNDUxNmQxZWU5YTExMmE1ZmEzYTcyMjI1MA==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDA3YWVjOThhMGFkODQ5NzIwMTg2Y2U4ZTdmOTU0MGM0Yg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Jotta A
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,499 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,511 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 37 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 |
 | 38 | [FAZ FUMAÇA](https://open.spotify.com/track/2lbg5KCFm2n6hQHMlMdy63) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [FAZ FUMAÇA](https://open.spotify.com/album/7v3bymuI67SlsdARJ90VrG) | 2:33 |
 | 39 | [Brazindia](https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8) | [Brazindia](https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ) | 2:38 |
-| 40 | [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 |
-| 41 | [JUP\-ME](https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [JUP\-ME](https://open.spotify.com/album/4ruyrszxc3mremaF3DtovJ) | 2:32 |
-| 42 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 40 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 41 | [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 |
+| 42 | [JUP\-ME](https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [JUP\-ME](https://open.spotify.com/album/4ruyrszxc3mremaF3DtovJ) | 2:32 |
 | 43 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
 | 44 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 45 | [Maniac](https://open.spotify.com/track/1jTJ4Al2gI1mTLuSkj0kIj) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Maniac](https://open.spotify.com/album/4DDPUqTKpyD90srBMNYCYh) | 3:26 |
-| 46 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
-| 47 | [AMEIANOITE](https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:46 |
+| 46 | [AMEIANOITE](https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:46 |
+| 47 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
 | 48 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Lovezinho \- Ao Vivo](https://open.spotify.com/track/0UHnBCzJ7EYsdkApglyqf6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:15 |
 
-Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMGIxNDAyNzI1MDkyYjBmY2QzMmMxMGEwYzk1YTFjMTA1`
+Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMGI0ZjA4ZmNkYjk5NjBjMTI0MmZiMTEyMTM0OGNkN2M3`

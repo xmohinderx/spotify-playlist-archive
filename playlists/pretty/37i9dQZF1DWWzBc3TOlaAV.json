@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 816088,
+  "num_followers": 816341,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTY1NiwwMDAwMDAwMDdhNDI4MDZkYmQyYTdiYWVlMDFhMGM0ZDc5ZjZmZDkx",
+  "snapshot_id": "MTY3NDA3NTY1NiwwMDAwMDAwMDk5OGJjMzMzM2Y2ZWVmZTI4MmJlZGRiMjA2N2Y1MjM5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 134253,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Can't Buy Me Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 189680,
       "name": "Ticket To Ride - Remastered 2009",
       "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Can't Buy Me Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
     },
     {
       "added_at": "2023-01-18 21:00:56",

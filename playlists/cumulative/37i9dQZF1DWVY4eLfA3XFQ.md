@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring HoneyLuv.
 
-870 songs - 2 day 4 hr 8 min
+871 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 | 2022-09-17 |
 | [Black Box](https://open.spotify.com/track/08w46oZu1UyD8sBRbTe5uh) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:49 | 2022-12-28 | 2023-01-06 |
 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 | 2023-01-27 |  |
-| [Blow Up](https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Blow Up](https://open.spotify.com/album/4eufwrLtfhsEBtjDiLUKaB) | 3:34 | 2023-02-03 |  |
+| [Blow Up](https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Blow Up](https://open.spotify.com/album/4eufwrLtfhsEBtjDiLUKaB) | 3:34 | 2023-02-03 | 2023-02-13 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2021-11-26 | 2022-03-12 |
 | [Body Move](https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Jack The House 3](https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC) | 3:04 | 2022-11-11 |  |
 | [Body Shots](https://open.spotify.com/track/02FQoIxEcJEKBW4VJ8a4XJ) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Body Shots](https://open.spotify.com/album/5yJHDOdyDT4KVeBS0TsUQk) | 2:33 | 2022-07-08 | 2022-08-13 |
@@ -555,6 +555,7 @@
 | [One Life](https://open.spotify.com/track/4z5KUXHyHzrmUduxTzhpzS) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [One Life](https://open.spotify.com/album/09M3JM0eACEFvZYO0THtxy) | 3:21 | 2022-04-15 | 2022-06-11 |
 | [One Thing](https://open.spotify.com/track/1a8wsDlwytzwSRamgI3o9p) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [One Thing](https://open.spotify.com/album/7jLTP8ZCaluQYWI7vVmh7D) | 2:43 | 2022-07-22 | 2022-08-27 |
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2022-11-28 | 2023-01-14 |
+| [Ooga Chaka](https://open.spotify.com/track/1hnRq2eX9qAlqw4dMKWo7m) | [Ghost of Tellus](https://open.spotify.com/artist/5QtIF4xhM0ViWQFChbHNKJ), [Olympis](https://open.spotify.com/artist/23xCxwjg6Bqwm7rh6n9Kjd), [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V) | [Ooga Chaka](https://open.spotify.com/album/61wFoqTQ4z7ia844DRZvzz) | 2:08 | 2023-02-10 |  |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-05-27 | 2022-10-08 |
 | [Operator \(Ring Ring\) \[feat\. Dances With White Girls\]](https://open.spotify.com/track/4oXT61OL4mDPRXbjq2d7b1) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [HOWSLA](https://open.spotify.com/album/5ToqIs21reKgXrcudt1tYW) | 6:01 | 2021-11-26 | 2022-01-06 |
 | [Organ Belta](https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM) | [Organ Belta](https://open.spotify.com/album/4DuqITm0UJZ2HQTpJ6gMga) | 6:00 | 2022-09-30 | 2022-10-29 |

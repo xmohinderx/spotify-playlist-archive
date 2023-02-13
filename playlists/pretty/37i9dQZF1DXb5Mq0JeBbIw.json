@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 148770,
+  "num_followers": 148811,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxMTAyMCwwMDAwMDAwMGE2MmUzMGFlNmIzOTkxZjM5NDliZTQ3MjgzY2M1ZjIz",
+  "snapshot_id": "MTY3NjAxMTAyMCwwMDAwMDAwMGUzYzNmM2I3ZDg0Zjc3N2Q3ZjM5ZGFlYjIwOTZmNTUy",
   "tracks": [
     {
       "added_at": "2023-02-03 11:15:00",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
+      "added_at": "2023-02-13 00:43:11",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
+    {
       "added_at": "2023-02-03 11:15:00",
       "album": {
         "name": "I Am Easy to Find",
@@ -283,6 +299,22 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -303,38 +335,6 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9"
-    },
-    {
-      "added_at": "2023-02-12 01:02:42",
-      "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "I'm Sure He Loves You",
-        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
       "artists": [
         {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 183466,
-      "name": "I'm Sure He Loves You",
-      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
+      "duration_ms": 192573,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
         "name": "Around the Well",
         "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
       },
       "artists": [
         {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
         }
       ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
       },
       "artists": [
         {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
         }
       ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Here With Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 164478,
-      "name": "Here With Me - Acoustic",
-      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "Here With Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 164478,
+      "name": "Here With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Hailey (EMBERS Remix)",
         "url": "https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "I'll Buy A House (Acoustic)",
-        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
-      },
-      "artists": [
-        {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "I'll Buy A House - Acoustic",
-      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Chasing After the Moon",
         "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 238994,
       "name": "Chasing After the Moon",
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "I'll Buy A House (Acoustic)",
+        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "I'll Buy A House - Acoustic",
+      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "Sending Light (For Lucas)",
-        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 194094,
-      "name": "Sending Light (For Lucas)",
-      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
-    },
-    {
-      "added_at": "2023-02-03 11:15:00",
-      "album": {
         "name": "Me Without You",
         "url": "https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-02-03 11:15:00",
       "album": {
-        "name": "When the Party's Over",
-        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
+        "name": "Sending Light (For Lucas)",
+        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
         }
       ],
-      "duration_ms": 154732,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+      "duration_ms": 194094,
+      "name": "Sending Light (For Lucas)",
+      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
     },
     {
       "added_at": "2023-02-03 11:15:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 335503,
       "name": "Used To Be Friends",
       "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
+      "added_at": "2023-02-03 11:15:00",
+      "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
     },
     {
       "added_at": "2023-02-03 11:15:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Écoutez en boucle les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,186 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,263 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 |
-| 2 | [Sur Pp \(feat\. Soolking\)](https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 3:12 |
-| 3 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 |
+| 2 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 |
+| 3 | [Sur Pp \(feat\. Soolking\)](https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 3:12 |
 | 4 | [Nassaba](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Nassaba](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 |
 | 5 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 |
 | 6 | [Halef](https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch), [Albaa](https://open.spotify.com/artist/3c0hnWjJw7lqYApYq7ihdT) | [Halef](https://open.spotify.com/album/5wq51CWjGXTao5FkGZe8Tv) | 3:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 39 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 |
 | 40 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 |
 
-Snapshot ID: `MTY3NjAxMDU5NCwwMDAwMDAwMGFiYzE4NDRmYzNjNjMyYTkyZDY1ODUyMmEyNDMwMjQ1`
+Snapshot ID: `MTY3NjE5NjU4MiwwMDAwMDAwMDNjYzg5YThlMGI5NDFhYWUxYzMzM2RmNmZlNjJhNTYx`

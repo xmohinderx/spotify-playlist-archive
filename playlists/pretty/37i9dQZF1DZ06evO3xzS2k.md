@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569 likes - 39 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570 likes - 39 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 38 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
 | 39 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDAxZTc1ZjY1NGIzZWM3MDVmN2I3ZjU3OTEwZWNlMGM0ZQ==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDA5NTk4NmQxYWYxM2VkMjY5N2UyY2U0ODVhZmYyNGJhOQ==`

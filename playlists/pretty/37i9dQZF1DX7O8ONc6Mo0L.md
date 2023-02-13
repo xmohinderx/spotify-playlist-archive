@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Daniela Araújo
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,710 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,794 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 32 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 |
 | 33 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 |
 | 34 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 |
-| 35 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
-| 36 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
+| 35 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
+| 36 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 37 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 |
 | 38 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
 | 39 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 |
 | 80 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 
-Snapshot ID: `MTY3NjAzMTgyNywwMDAwMDAwMDMyZmIwNDYzOGIwYjljYWIyZjFmY2U1YzZmZjE0NjNh`
+Snapshot ID: `MTY3NjAzMTgyNywwMDAwMDAwMGIzYjk5MzA5MDhhOWI1ODJiNzA2MjZhYzBlMzVkZDZi`

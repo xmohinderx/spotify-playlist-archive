@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Laura Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,455 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,454 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 18 | [La vie en rose](https://open.spotify.com/track/5y6ZqitevGExQb5GHRHllf) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Chimène chante Piaf](https://open.spotify.com/album/0fc2HMTq4XMEuiI2TszK07) | 3:23 |
 | 19 | [Lullaby](https://open.spotify.com/track/196ohVPwqFXEJ0oZPqSGSz) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 2:25 |
 | 20 | [TCA](https://open.spotify.com/track/4yEkxp1EfjN8srcTPqeIjc) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Métastases](https://open.spotify.com/album/4JJurlAtMh6nFIhDHWLBaX) | 2:43 |
-| 21 | [The Smell of Your Hair](https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [The Smell of Your Hair](https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH) | 2:50 |
+| 21 | [The Smell of Your Hair](https://open.spotify.com/track/40jgyuVJdg53HreVt53Dwp) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Ne pas trop rester bleue](https://open.spotify.com/album/0K2gcYIB1tl5WJUwkqaiCR) | 2:50 |
 | 22 | [I'm Slick, I'm Not Sticky](https://open.spotify.com/track/3hKyP0PBrMleVrnTpo0Xlt) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [I'm Slick, I'm Not Sticky](https://open.spotify.com/album/4VVL6yyQjrXSkgKNTOM0YB) | 3:59 |
 | 23 | [Film de Noël](https://open.spotify.com/track/1Pw3eJmD4CagGxr56mer4A) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Film de Noël](https://open.spotify.com/album/3VG1a2eXgCwefFcjDtv0IT) | 3:05 |
 | 24 | [Secrètement](https://open.spotify.com/track/1F2wU8xgLtOrdO9uMm35J5) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9) | [Seul.e.s ensemble](https://open.spotify.com/album/22PysEUEk7LL4IvvaUH95R) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Extraordinaires](https://open.spotify.com/track/3tMjsLbbAae9rSDYPIp3LB) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Extraordinaires](https://open.spotify.com/album/7K95pF4vgSCs08spdf9r6i) | 2:54 |
 | 50 | [Vanité](https://open.spotify.com/track/27R2sErEgaKKKXCsh1cZj1) | [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Vanité](https://open.spotify.com/album/4x5PJs3AoEAFiz0cgAy04Q) | 2:26 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDdlMjZhYWU0YjRkNmE1OTcxMDU0ZDM1NmUzMTk2NDI2`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMGQ1MWFmYzFmN2E1N2EwMTkwNmE1ZTNlODA2ODUwNDhi`

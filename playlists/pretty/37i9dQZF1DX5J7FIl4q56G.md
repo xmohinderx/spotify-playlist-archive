@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: In Flames
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,939 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,105 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 17 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/0IEdVKIFcvCV3q7d9M1FWj) | [KAYLA KING](https://open.spotify.com/artist/0R2YD9wUNA985BjENY7oTR), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/5DEZCCpj1oh2vFXmQkXeO3) | 3:02 |
 | 18 | [Crossing Over](https://open.spotify.com/track/0VjXMAZnUNtGyoOQIK1cOd) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Crossing Over](https://open.spotify.com/album/2uGWA0JppsM7juhRxPRatT) | 4:02 |
 | 19 | [Contrition](https://open.spotify.com/track/296f44UDA22bgv79PYDPMq) | [Morgan Thomaso](https://open.spotify.com/artist/79VoWRyWV2e3rTHm1fb6N0), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF), [Hugo Bringart](https://open.spotify.com/artist/6BZE9AyYDPkfejgH7c4DJs), [Cartoon Theory](https://open.spotify.com/artist/4UPSjbEaWn0LrLoF4f8ipX) | [Contrition](https://open.spotify.com/album/1MWdfHn3yodod316BxbRbn) | 3:34 |
-| 20 | [Beneath \(Feat\. Paolo Ribaldini\)](https://open.spotify.com/track/2JBrcjcUjG17n0DSQrijPk) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Beneath](https://open.spotify.com/album/7dp043Fp5FPKWDOjJZmOzP) | 4:59 |
+| 20 | [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 |
 | 21 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 22 | [Jaded](https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Jaded](https://open.spotify.com/album/1CjPzgqkAeSShcb3mQ4iNS) | 4:27 |
 | 23 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [The Fox & The Crows](https://open.spotify.com/track/47NmvC3h6W226bFesGsFWq) | [Show Me Your Universe](https://open.spotify.com/artist/5rBUGPB5DW0Y8AwRRUMLmb) | [Coma](https://open.spotify.com/album/4Http1kzVEobShoz4CbkOZ) | 4:26 |
 | 51 | [Deadweight](https://open.spotify.com/track/1FhkxFPLqk9xpog43SvjH5) | [Common Enemies](https://open.spotify.com/artist/4gzE72QONbVYfitKEZVDHF) | [Relentless](https://open.spotify.com/album/7LctU9gSuwALY454mmz0Xw) | 5:48 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDBiNmQ5NTA5ZDgzMmI2MWRmOGIwYzY3YzA0M2I1Yzli`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGMyODM0MWZhNTA4NTY1NTFhZDZkOTdhYWE2MGI0ZDcy`

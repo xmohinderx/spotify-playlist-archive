@@ -1081,6 +1081,36 @@
     },
     {
       "album": {
+        "name": "Been Here, Still Here",
+        "url": "https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116770,
+      "name": "Can't (feat. RJmrLA)",
+      "url": "https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk"
+    },
+    {
+      "album": {
         "name": "3 Nights In Seattle",
         "url": "https://open.spotify.com/album/4wEbi47t3VMFRPhMq7bl8W"
       },

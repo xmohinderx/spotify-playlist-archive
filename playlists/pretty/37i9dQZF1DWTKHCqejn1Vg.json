@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 17354,
+  "num_followers": 17392,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg0NzIxMiwwMDAwMDAwMDZiZmY5ZTIwMzczY2MxMjEyYWFlZjJhYTVlODFhYmQy",
+  "snapshot_id": "MTY3NTg0NzIxMiwwMDAwMDAwMDljYjJmNTM2MzhhNDM3M2NmOWExODdlNDA5NDYxNGMz",
   "tracks": [
     {
       "added_at": "2023-02-08 09:06:52",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-02-08 09:06:52",
       "album": {
-        "name": "bag on you",
-        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        },
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "bag on you",
-      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
-    },
-    {
-      "added_at": "2023-02-08 09:06:52",
-      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 206399,
       "name": "Turn On (Feat. Jiselle)",
       "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
+    },
+    {
+      "added_at": "2023-02-08 09:06:52",
+      "album": {
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2023-02-08 09:06:52",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-02-08 09:06:52",
       "album": {
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "duration_ms": 286625,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
+    },
+    {
+      "added_at": "2023-02-08 09:06:52",
+      "album": {
         "name": "EASY (feat. ELO)",
         "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 165106,
       "name": "EASY (feat. ELO)",
       "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
-    },
-    {
-      "added_at": "2023-02-08 09:06:52",
-      "album": {
-        "name": "oceanfromtheblue",
-        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        }
-      ],
-      "duration_ms": 286625,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
     },
     {
       "added_at": "2023-02-08 09:06:52",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-08 09:06:52",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
-      },
-      "artists": [
-        {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
-    },
-    {
-      "added_at": "2023-02-08 09:06:52",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2023-02-08 09:06:52",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
         }
       ],
-      "duration_ms": 160443,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+    },
+    {
+      "added_at": "2023-02-08 09:06:52",
+      "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
     },
     {
       "added_at": "2023-02-08 09:06:52",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-02-08 09:06:52",
       "album": {
-        "name": "I'M LOVIN' AMY",
-        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Murder On The Dance Floor",
-      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

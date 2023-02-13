@@ -1,12 +1,12 @@
 {
   "description": "Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 191096,
+  "num_followers": 191306,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgzNDE0OCwwMDAwMDAwMDczODJkZGRiZjYwMjlmNGM0N2FiYjgzMjcyMzIxM2Qy",
+  "snapshot_id": "MTY3NTgzNDE0OCwwMDAwMDAwMGZhNTk4M2Y2NmZjNWU5MzlkMTMwZmZkZDEwODU2NDM3",
   "tracks": [
     {
       "added_at": "2023-02-08 05:16:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-08 05:16:23",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2023-02-08 05:16:23",
-      "album": {
         "name": "White Ladder",
         "url": "https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
+    },
+    {
+      "added_at": "2023-02-08 05:16:23",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-02-08 05:16:23",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-08 05:16:23",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2023-02-08 05:16:23",
-      "album": {
         "name": "Everything Else Has Gone Wrong",
         "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
+    },
+    {
+      "added_at": "2023-02-08 05:16:23",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2023-02-08 05:16:23",

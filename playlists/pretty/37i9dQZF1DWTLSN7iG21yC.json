@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 918198,
+  "num_followers": 918280,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDk4NTJmYmViYTIwZjRjNTViNjczNzE3YWYzZTA5YTFm",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDI0MjZmOWYzMmY3YmI3ZmM5NjcxZTFlNmFiYzg0Y2Y3",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
     },
     {
-      "added_at": "2021-06-07 17:28:18",
-      "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Numb Little Bug",
@@ -499,6 +483,22 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2021-06-07 17:28:18",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2021-06-07 17:28:18",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
-    },
-    {
       "added_at": "2021-06-07 17:28:18",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
@@ -815,6 +799,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "= (Tour Edition)",
@@ -1099,6 +1083,22 @@
       "duration_ms": 231546,
       "name": "One Life",
       "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
     },
     {
       "added_at": "2021-06-18 04:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 164688,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
-    },
-    {
       "added_at": "2021-06-07 17:28:18",
       "album": {
         "name": "Melt (Deluxe)",
@@ -1191,6 +1175,22 @@
       "duration_ms": 184280,
       "name": "Trampoline (with ZAYN)",
       "url": "https://open.spotify.com/track/2ez6qvOTHKeI3ss80NGqnI"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
     },
     {
       "added_at": "2021-06-07 17:28:18",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "BLENDER",
-      "url": "https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i"
-    },
-    {
       "added_at": "2021-06-07 17:28:18",
       "album": {
         "name": "Smile",
@@ -1331,6 +1315,22 @@
       "duration_ms": 223297,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/1IIV8jglA0klVZy17q665k"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "BLENDER",
+      "url": "https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1509,26 +1509,6 @@
       "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "MANIAC (feat. Windser)",
-        "url": "https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 180902,
-      "name": "MANIAC (feat. Windser)",
-      "url": "https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d"
-    },
-    {
       "added_at": "2021-06-18 04:00:00",
       "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
@@ -1547,6 +1527,26 @@
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "MANIAC (feat. Windser)",
+        "url": "https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "MANIAC (feat. Windser)",
+      "url": "https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1581,6 +1581,22 @@
       "url": "https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK"
     },
     {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Evering Road (Special Edition)",
+        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Don't Break the Heart",
+      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Undeniable (feat. X Ambassadors)",
@@ -1599,22 +1615,6 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Evering Road (Special Edition)",
-        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Don't Break the Heart",
-      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "A Second to Midnight",
@@ -1907,6 +1891,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -2205,6 +2205,22 @@
       "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
+      "added_at": "2021-09-24 04:01:00",
+      "album": {
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "How Long Do You Think It's Gonna Last?",
@@ -2223,22 +2239,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2021-09-24 04:01:00",
-      "album": {
-        "name": "Remember Her Name",
-        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -2589,26 +2589,6 @@
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "Breakdown (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 165686,
-      "name": "Breakdown (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE"
-    },
-    {
       "added_at": "2022-10-04 15:33:49",
       "album": {
         "name": "22 (Deluxe)",
@@ -2627,6 +2607,26 @@
       "duration_ms": 219106,
       "name": "Obvious (feat. Muni Long)",
       "url": "https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ"
+    },
+    {
+      "added_at": "2021-09-17 04:02:00",
+      "album": {
+        "name": "Breakdown (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 165686,
+      "name": "Breakdown (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE"
     }
   ],
   "unique_name": "Work From Home",

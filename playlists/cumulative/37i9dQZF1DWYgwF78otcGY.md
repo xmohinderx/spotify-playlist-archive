@@ -4,7 +4,7 @@
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-141 songs - 7 hr 8 min
+142 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [I Do](https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [I Do](https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT) | 3:04 | 2019-02-28 | 2022-07-29 |
 | [I Do Me](https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [I Do Me](https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M) | 2:43 | 2019-02-28 | 2022-11-13 |
 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 | 2019-02-28 |  |
-| [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 | 2019-02-28 |  |
+| [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 | 2019-02-28 | 2023-02-13 |
 | [In The Club](https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [In The Club](https://open.spotify.com/album/50ofW35oBO5mhrZTHnOBMt) | 2:46 | 2019-02-28 | 2022-11-13 |
 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 | 2019-02-28 |  |
 | [Jag tar det jag vill ha](https://open.spotify.com/track/3008zf9XAUGPyg4UhDfLgA) | [Sandra Dahlberg](https://open.spotify.com/artist/4hbA0aBde8hxnZpEsu9tlE) | [I Afton Dans 12](https://open.spotify.com/album/4C5Si01tgUtnneD7qi85zx) | 3:00 | 2019-02-28 | 2022-07-22 |
@@ -113,6 +113,7 @@
 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 | 2019-02-28 |  |
 | [Möt mig i Gamla Stan](https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B) | 3:02 | 2019-02-28 | 2023-01-03 |
 | [Möt mig i Gamla Stan](https://open.spotify.com/track/7AhBI5k6IPh905q80WZOXH) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/6XaRfaoy2fVDykQcYZ9mFB) | 3:02 | 2019-02-28 | 2022-07-29 |
+| [Möt mig i Gamla Stan](https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan \(Deluxe Edition\)](https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk) | 3:03 | 2019-02-28 |  |
 | [Never Let It Go](https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC) | [Afro\-Dite](https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe) | [Never Let It Go](https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4) | 3:02 | 2019-02-28 | 2023-02-12 |
 | [Not A Sinner Nor A Saint](https://open.spotify.com/track/1mDmJ95y1W5UarAAJij5VK) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Alcazarized](https://open.spotify.com/album/1g1irSdBq3tFBISnB2ou8C) | 3:01 | 2019-02-28 | 2022-07-29 |
 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 | 2019-02-28 |  |

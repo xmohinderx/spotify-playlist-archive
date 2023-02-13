@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 664318,
+  "num_followers": 664483,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MzIwOCwwMDAwMDAwMGY3NzFlZDM3ODZjOTQ2NDU2YjdjZDFkZTExYzgyYmNj",
+  "snapshot_id": "MTY3NTc5MzIwOCwwMDAwMDAwMDU0NGU2NTVjNGMxYjljNDg3NzkwYzY3MzZiZjIzZGNi",
   "tracks": [
     {
       "added_at": "2023-02-07 18:06:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/7yp4ZtP97mPJTdmRjHaiaH"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "It's Our Love",
-      "url": "https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Oh No / Liahr",
         "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/7yp4ZtP97mPJTdmRjHaiaH"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "It's Our Love",
+      "url": "https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Make Out in My Car: Chameleon Suite",
         "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
       },
@@ -1035,38 +1051,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Junkyard Jazz",
-        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Is There a Place I Can Go",
-      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Junkyard Jazz",
+        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Is There a Place I Can Go",
+      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 202466,
       "name": "There Is Something on Your Mind",
       "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Sexy Weekend EP",
         "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim"
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1327,6 +1311,22 @@
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Catch Your Eye",
         "url": "https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00"
       },
@@ -1507,26 +1507,6 @@
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "((( 2 )))",
-        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 269638,
-      "name": "iFeel",
-      "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1547,6 +1527,26 @@
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "((( 2 )))",
+        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 269638,
+      "name": "iFeel",
+      "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
     },
     {
       "added_at": "2023-02-07 18:06:48",

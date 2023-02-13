@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-779 songs - 2 day 7 hr 45 min
+780 songs - 2 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,7 +438,7 @@
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2019-05-26\* | 2020-10-21 |
 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2019-06-19\* | 2022-04-15 |
 | [Monomom](https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Monomom](https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW) | 5:31 | 2021-12-17 | 2022-05-31 |
-| [Moon In Your Eye](https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:14 | 2022-09-09 |  |
+| [Moon In Your Eye](https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:14 | 2022-09-09 | 2023-02-13 |
 | [Moon In Your Eye](https://open.spotify.com/track/5Cr8cUS0BRKfATARapnDhW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:14 | 2021-09-17 | 2022-07-27 |
 | [Moonbound](https://open.spotify.com/track/1na1L8CvxXNDDQ7COhstWW) | [Anzo](https://open.spotify.com/artist/1zPQUVj63POfqiPz9bofcO) | [Moonbound EP](https://open.spotify.com/album/6hGAXPOKNhVmSs7NgwsQMe) | 4:16 | 2019-05-26\* | 2020-10-19 |
 | [Moonlight](https://open.spotify.com/track/60MMCMZXRFjP43IgWNBre1) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moonlight](https://open.spotify.com/album/282JkVlKldfFSnqw1Bv4Z1) | 2:16 | 2019-07-25 | 2020-10-22 |
@@ -627,6 +627,7 @@
 | [Soul's Matter](https://open.spotify.com/track/21eK9EjODeTWhC81a8GVfe) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Soul's Matter](https://open.spotify.com/album/7enFY8U4qxBRPJj2V92Wqd) | 3:42 | 2020-11-13 | 2022-06-29 |
 | [Sound In A Dark Room \- Bassnectar Remix](https://open.spotify.com/track/3MJVyTcumDVSCv4Gurv4Eg) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Reflective \(Part 4\)](https://open.spotify.com/album/59irM4SBxc5pxP7gur7rfw) | 3:55 | 2019-06-19\* | 2020-10-19 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-09-03 | 2023-02-02 |
+| [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2023-02-07 |  |
 | [Speak to Me](https://open.spotify.com/track/574y1r7o2tRA009FW0LE7v) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 1:05 | 2019-07-25 | 2020-10-19 |
 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 | 2020-10-30 |  |
 | [Squarepusher Theme](https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4) | 6:21 | 2022-07-01 | 2023-02-02 |

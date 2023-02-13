@@ -4,7 +4,7 @@
 
 > La playlist idéale pour prendre la route.
 
-83 songs - 4 hr 56 min
+84 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-12-04 |  |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2022-12-04 |  |
 | [Summer Is a Curse](https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [State of Mind](https://open.spotify.com/album/0C8bAFI1POhzztBVShuzll) | 3:01 | 2022-12-04 |  |
-| [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 | 2022-12-04 |  |
+| [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 | 2022-12-04 | 2023-02-13 |
 | [Sunday With A Flu](https://open.spotify.com/track/0H1j6TgJRIztDIB4lzYwz3) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Nouvel an \- Années 2000](https://open.spotify.com/album/1TERNfHDsHuqtqKEg4UmpQ) | 2:17 | 2022-12-04 | 2023-02-04 |
+| [Sunday With A Flu](https://open.spotify.com/track/6zfT8ekh9fF4Tf2uEZYC6t) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Love songs 2000s](https://open.spotify.com/album/3RE8Y4VaZtmGCU7rqF7Mpm) | 2:17 | 2022-12-04 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-12-04 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2022-12-04 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-12-04 |  |

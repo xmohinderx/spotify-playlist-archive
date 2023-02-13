@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-315 songs - 1 day 5 hr 20 min
+316 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Emily](https://open.spotify.com/track/3gleUGWbYMuPc3RfUA1mKd) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 5:28 | 2021-06-13 | 2022-06-09 |
 | [End Music](https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 4:33 | 2023-01-12 |  |
 | [Ensenada](https://open.spotify.com/track/4KBULZasCMBDKHY8IPUCML) | [Bennie Maupin](https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb) | [The Jewel In The Lotus](https://open.spotify.com/album/1Na5QsavsjOUqtj4f4Bxn1) | 8:15 | 2020-06-12 | 2020-10-27 |
+| [Estate](https://open.spotify.com/track/24LT1VWXn3MD0kpNZGzaQB) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Brazilian Moods](https://open.spotify.com/album/2ziQ6aTPa4e99ZRJJUkO62) | 5:15 | 2023-02-12 |  |
 | [Estate](https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Estate](https://open.spotify.com/album/1fr7A0vA1GCoT0gYVzNxjr) | 5:15 | 2022-09-08 | 2022-11-07 |
 | [Evermore](https://open.spotify.com/track/6m4CKe57wo7iKFqdx4k45B) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Kinds of Love](https://open.spotify.com/album/67gSqihoAVZyWcTzIRpiPR) | 7:29 | 2022-07-21 | 2022-10-08 |
 | [Evermore](https://open.spotify.com/track/7hmThOcToWSIo0CKZqZdfX) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Evermore](https://open.spotify.com/album/5Sv7HWRoP0dOKiWidRllor) | 7:29 | 2021-08-07 | 2022-07-29 |
@@ -307,7 +308,7 @@
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-07-21 |  |
 | [When Sunny Smiles](https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [When Sunny Smiles](https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl) | 7:44 | 2021-03-10 | 2022-10-26 |
-| [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2020-05-02\* |  |
+| [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2020-05-02\* | 2023-02-13 |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2022-07-21 |  |
 | [Where or When](https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard time volume 3: The revolution of romance](https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0) | 2:48 | 2020-06-12 | 2022-07-27 |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2020-05-08 | 2021-09-01 |

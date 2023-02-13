@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTbGYZ9Pq4TH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTbGYZ9Pq4TH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTbGYZ9Pq4TH)
 
-### [Amore Davvero](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
+### [San Valentino 2023](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
 
-> Le tracce italiane più romantiche di sempre ❤️
+> Le tracce italiane più romantiche di sempre per festeggiare questo San Valentino ❤️
 
 189 songs - 12 hr 15 min
 

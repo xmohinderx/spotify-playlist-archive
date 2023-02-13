@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-638 songs - 1 day 9 hr 50 min
+640 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 |  |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
-| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 |  |
+| [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-13 |
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 |  |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
@@ -319,7 +319,7 @@
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 |  |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
-| [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 |  |
+| [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 | 2022-04-01 | 2022-04-21 |
 | [Let Me Know](https://open.spotify.com/track/4hHZaxhMwNwRmRcpOJKwYr) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Happiness Before Love](https://open.spotify.com/album/0QO4oVr3XwrE6Jxx8SB39x) | 3:28 | 2022-05-20 | 2022-07-25 |
 | [Let You Go](https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Let You Go](https://open.spotify.com/album/4MevvS4iJ8wJpgp4Y7aAY0) | 2:22 | 2022-03-10 | 2022-05-07 |
@@ -515,6 +515,7 @@
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
+| [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 |  |
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2022-11-24 |  |
@@ -619,6 +620,7 @@
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 |  |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 |  |
+| [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 |  |
 | [Where Do We Go](https://open.spotify.com/track/2w4mOchaVwD34HGesWK4YE) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Feelings Unresolved](https://open.spotify.com/album/7lP8swCcM2RvsCTFIN6kLC) | 2:59 | 2021-12-16 | 2022-02-25 |
 | [Where She'll Go](https://open.spotify.com/track/7HSJLidMuUG1b6ot846mI1) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Where She'll Go](https://open.spotify.com/album/4eiDKbbj8cfBn9ZP44l7yx) | 3:32 | 2022-01-13 | 2022-02-05 |
 | [Where the Tragic Happens](https://open.spotify.com/track/3jd2GIvxz9yXmXgP7StTmU) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:42 | 2022-06-23 | 2022-07-11 |

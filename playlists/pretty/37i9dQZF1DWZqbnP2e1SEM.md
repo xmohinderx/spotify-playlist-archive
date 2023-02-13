@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,436 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,456 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 56 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 |
 | 57 | [BMW](https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [BMW](https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM) | 3:33 |
 | 58 | [Hideout](https://open.spotify.com/track/1YHffsSjHbAFAsvwCD3U8A) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Hideout](https://open.spotify.com/album/2VCF6Pjwg0KAiCO5OlPP5N) | 3:08 |
-| 59 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 |
-| 60 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 59 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 60 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 |
 | 61 | [Through 2 You](https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Through 2 You](https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ) | 3:18 |
 | 62 | [Pull Up](https://open.spotify.com/track/6eydzKn9vLC57U9iToAwJD) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 2:51 |
 | 63 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 69 | [HOT HOT](https://open.spotify.com/track/3QBbRbF51EwVKeECZ1Hwy0) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [HOT HOT](https://open.spotify.com/album/6zMCVXb0hpn4SwVAGlhbYh) | 2:25 |
 | 70 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
 | 71 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
-| 72 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 |
-| 73 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 |
+| 72 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 |
+| 73 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 |
 | 74 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 |
 | 75 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
 | 76 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 |
 | 100 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 
-Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDM0OGE2MTQ4NDAwNjNmM2EyYWQ3MTExMTU5MTM5NmJk`
+Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDdmYjc5MTE1ODY1YzNkZWUzNzNjNGVhZThiYzQ2N2Mx`

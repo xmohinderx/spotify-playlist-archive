@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,472 songs - 3 day 5 hr 29 min
+1,473 songs - 3 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,6 +764,7 @@
 | [Last Week On A Friday](https://open.spotify.com/track/0UpdNPlHt0URGZzaU5aTxx) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Last Week On A Friday](https://open.spotify.com/album/0duCmbNg3WovtYaj09Zr61) | 3:20 | 2021-05-03 | 2021-10-12 |
 | [Last Year’s Model Club](https://open.spotify.com/track/0FpuPOz4BJbdapF0ExvffH) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Last Year’s Model Club](https://open.spotify.com/album/67HqD9ogSvBiB0rXRLJncY) | 3:00 | 2022-01-21 | 2022-04-21 |
 | [Late Bloomer](https://open.spotify.com/track/52aZ5tnhNOsYeQQskmDTqo) | [Zeke Finn](https://open.spotify.com/artist/6NN2RYVrasbgm0qtgGSWXg) | [Late Bloomer](https://open.spotify.com/album/03VhLwzCFAiNhnyWGahDHh) | 2:53 | 2022-02-25 | 2022-04-20 |
+| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 |  |
 | [laurel](https://open.spotify.com/track/7rzkDmONjg7i8vkoATsW8f) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [laurel](https://open.spotify.com/album/554EELvFi0hyJGwv2tvZ54) | 2:09 | 2022-05-13 | 2022-06-29 |
 | [Lazy Love](https://open.spotify.com/track/7IrkGTwDPicWAnCflbeicD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Lazy Love](https://open.spotify.com/album/2FMsm3iooQQOMJGIgNR2Op) | 3:02 | 2022-01-28 | 2022-04-17 |
 | [LEAVE ME](https://open.spotify.com/track/1ljQ8uKlwqJeyb007xeH8i) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [LEAVE ME](https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH) | 2:14 | 2021-03-08 | 2022-04-16 |
@@ -865,7 +866,7 @@
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-11 |  |
 | [Medicine](https://open.spotify.com/track/3k0ePe9pGy2ZLQ84taqo4V) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/6bCktPxMic30kMk8OTGNd5) | 3:36 | 2020-10-13\* | 2020-10-16 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-02 | 2022-07-23 |
-| [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 | 2023-02-10 |  |
+| [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 | 2023-02-10 | 2023-02-13 |
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2020-10-20 | 2020-10-21 |
 | [Melrose Meltdown](https://open.spotify.com/track/0oXD7ewBoYpsLmgG07VMF6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-06-17 | 2022-08-06 |
 | [Melrose Meltdown](https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Melrose Meltdown](https://open.spotify.com/album/2CxqquXzqf6JbYYVAAeEkm) | 3:32 | 2022-01-28 | 2022-06-29 |

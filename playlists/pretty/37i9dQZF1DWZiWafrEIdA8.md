@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,525 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,537 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 29 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
 | 30 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
 | 31 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
-| 32 | [FLOWER \(Prod\. by AVIN\)](https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [FLOWER](https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ) | 4:07 |
-| 33 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
+| 32 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
+| 33 | [FLOWER \(Prod\. by AVIN\)](https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [FLOWER](https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ) | 4:07 |
 | 34 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
 | 35 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
 | 36 | [If I Die Tomorrow](https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [2 4 : 2 6](https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV) | 4:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 45 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
 | 46 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
 | 47 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
-| 48 | [GOD DID \(Feat\. Thug Min\) \[Prod\. TOIL\]](https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [GOD DID](https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG) | 2:57 |
-| 49 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
+| 48 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
+| 49 | [GOD DID \(Feat\. Thug Min\) \[Prod\. TOIL\]](https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [GOD DID](https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG) | 2:57 |
 | 50 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
 
-Snapshot ID: `MTY3NDYxMDA0MCwwMDAwMDAwMGE4ODE3YjQzYmJiMTJmYjdlNTc5ZDVhZTljMTE2MTU0`
+Snapshot ID: `MTY3NDYxMDA0MCwwMDAwMDAwMGFmY2FiNGM0YzllOGZiNjQxNzBhZDE4ZmI0ZjEyNTMx`

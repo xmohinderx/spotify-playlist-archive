@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,205 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,220 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 19 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/6zJMd6pK2dPB5wFkWRh8Rl) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Ngày Em Đi](https://open.spotify.com/album/2aeAcs0wd9gHfmRbwmZZRS) | 4:49 |
 | 20 | [Gửi Tình Vào Xuân](https://open.spotify.com/track/4aWANDSehe5YVbWqwJ1mLe) | [Ngoc Ngu](https://open.spotify.com/artist/7vCKeEqgPv1FFEM2OivtNj), [Châu Ngọc Hà](https://open.spotify.com/artist/4oFMIlXAVelFtZxOEnc9EX) | [Gửi Tình Vào Xuân](https://open.spotify.com/album/12L58UzNIz1RBMuvicWdn7) | 5:07 |
 | 21 | [Dấu Chân Kỷ Niệm](https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Dấu Chân Kỷ Niệm](https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph) | 6:13 |
-| 22 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hường](https://open.spotify.com/artist/7yeWh1ciKSvzybVTa10djW) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
-| 23 | [Người Ngoài Phố](https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Áo Hoa: Best of Như Quỳnh 2](https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1) | 4:36 |
+| 22 | [Người Ngoài Phố](https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Áo Hoa: Best of Như Quỳnh 2](https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1) | 4:36 |
+| 23 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hường](https://open.spotify.com/artist/7yeWh1ciKSvzybVTa10djW) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
 | 24 | [Thành Phố Buồn](https://open.spotify.com/track/61Lqq5mQRyDhaaqs0Rz0Km) | [Lan Anh](https://open.spotify.com/artist/5VhQoey05lkMjriwWxJe0b) | [Thành Phố Buồn](https://open.spotify.com/album/2ZN48rHtm9j3ISWDMgWioy) | 6:05 |
 | 25 | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/track/1TKXDNKrUOV21b19jfXiSO) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lam Anh](https://open.spotify.com/artist/5trMq1OIockzQVpFicyrpn) | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/album/69IZ8R0qBU6ySFRFW9B6Tj) | 4:10 |
 | 26 | [Một Lần Dang Dở](https://open.spotify.com/track/0N5i16tC39pLf3rjPB92xJ) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 3:58 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 33 | [Chuyện hẹn hò](https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:05 |
 | 34 | [Hoa Nở Về Đêm](https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chiều Cuối Tuần](https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8) | 5:54 |
 | 35 | [Lk Nghèo](https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX) | [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo), [Manh Dinh](https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM), [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Best of Trường Vũ](https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU) | 5:56 |
-| 36 | [Phút cuối](https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Mưa đêm nỉnh nhỏ](https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca) | 5:28 |
-| 37 | [Trộm Nhìn Nhau](https://open.spotify.com/track/1ugueMXw2OZlSewPA2UEJI) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Đôi Mắt Người Xưa](https://open.spotify.com/album/5U17b1XH767c0J2IEfHOGu) | 5:28 |
-| 38 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 |
-| 39 | [Đắp mộ cuộc tình](https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Đắp Mộ Cuộc Tình](https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6) | 5:35 |
+| 36 | [Trộm Nhìn Nhau](https://open.spotify.com/track/1ugueMXw2OZlSewPA2UEJI) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Đôi Mắt Người Xưa](https://open.spotify.com/album/5U17b1XH767c0J2IEfHOGu) | 5:28 |
+| 37 | [Phút cuối](https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Mưa đêm nỉnh nhỏ](https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca) | 5:28 |
+| 38 | [Đắp mộ cuộc tình](https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Đắp Mộ Cuộc Tình](https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6) | 5:35 |
+| 39 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 |
 | 40 | [Người Phụ Tình Tôi](https://open.spotify.com/track/76n21hc8bFprmvEa2MTA3I) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 6:58 |
 | 41 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 |
 | 42 | [Thành Phố Buồn](https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Hoa Trinh Nữ](https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Trinh Nữ \(The Best Of Chế Linh 1\)](https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0) | 5:29 |
 | 50 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 |
 
-Snapshot ID: `MTY3NDEwMDk2NywwMDAwMDAwMDQ2YTAxYTRiZTJlMWZmOWMyYzZkYTYxNGYwMzI3MjNj`
+Snapshot ID: `MTY3NDEwMDk2NywwMDAwMDAwMGJlOWQyNTE3Njg0YWVkNmY5ZTk2MDMxYmYwMWY0ODc0`

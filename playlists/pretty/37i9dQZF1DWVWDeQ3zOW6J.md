@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,397 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,421 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 49 | [Bongó Loco](https://open.spotify.com/track/5lboVDQhwDfI9Kf1tBMiHI) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:00 |
 | 50 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
 | 51 | [Como Mi Salsa Ninguna](https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:21 |
-| 52 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
-| 53 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
+| 52 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
+| 53 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
 | 54 | [Con Salsa Y Sabor](https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs) | [Menique](https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP), [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Con Salsa y Sabor](https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr) | 4:10 |
 | 55 | [Traigo Salsa](https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 4:16 |
 | 56 | [Sujétate La Lengua](https://open.spotify.com/track/3htgU6kH3sqOJLxjtNNd3C) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Mambo con Conga is Mozambique](https://open.spotify.com/album/2TU4bPkFCFK2ZsIN8p3Xee) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
 | 60 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDZkMTczNTEzNjMxZjYzNjY3OTdkZTFlYjRiNWY2ZmIy`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDExZDZmOTRlNzA2ZDhiNTQxZDFmNDNhZDVjNGZkYjRm`

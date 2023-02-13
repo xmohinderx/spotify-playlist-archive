@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,611 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 38 | [Imortal](https://open.spotify.com/track/7B8gzBawT0zn80MAbVBHrI) | [MEMA.](https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY) | [Imortal](https://open.spotify.com/album/40pWFpDBPIYfGguzgEwplD) | 3:47 |
 | 39 | [Água Doce](https://open.spotify.com/track/13APzWfTKJfVxiIxTsFKVD) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Água Doce](https://open.spotify.com/album/5qFPtIWKEleW7zmaH0bgVM) | 3:19 |
 | 40 | [Pés No Chão](https://open.spotify.com/track/2FgdHjlJbxi1L9wdm0QUgd) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Pés No Chão](https://open.spotify.com/album/5iwyLMojcRsb8E5jLTK4vc) | 3:33 |
-| 41 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/7e6KCM44dase5vb1j2vpEG) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Lumenara](https://open.spotify.com/album/46LN2hg9zbOgmPAIlV2GKK) | 3:09 |
+| 41 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/album/4ek95wuvEuOlSNP1DDqp9h) | 3:09 |
 | 42 | [As recordações](https://open.spotify.com/track/0TEtn1o4DYrBFZxZKoeInt) | [Francisca](https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI) | [As recordações](https://open.spotify.com/album/5v7QBQfmN9ckcqBL3W7Jzp) | 2:45 |
 | 43 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 |
 | 44 | [Beija Flor](https://open.spotify.com/track/59P93klgWO9PRBuWIGz6an) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Beija Flor](https://open.spotify.com/album/4VTrjEGto6R3dT5CekEaZU) | 4:53 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [Nem Céu Nem Mar](https://open.spotify.com/track/2xEI0gdaCtEZdmZKWjTlzG) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Nem Céu Nem Mar](https://open.spotify.com/album/4458gv3ShBykHRDLfM87pY) | 3:32 |
 | 49 | [Kumake](https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Praia\-Bissau](https://open.spotify.com/album/6l5Jg7YSXxuIO1EUyuYcLb) | 4:49 |
 
-Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGMwZWNhODQxNDU0YzAyNjNiOTE4ZWJlMTVjNzAxODE4`
+Snapshot ID: `MTY3NTM4MjQwMCwwMDAwMDAwMGFmZGYyNWRhNTBlODc0ODdiYjEwODI3NmE0ODA1ZTYy`

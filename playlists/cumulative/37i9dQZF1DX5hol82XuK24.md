@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-206 songs - 13 hr 53 min
+207 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Too Sad](https://open.spotify.com/track/7mGK4au9qT9bC2rAbnUxa0) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/3i7m2ZYeR1LMVqWxe0y8og) | 5:27 | 2021-11-01 | 2022-10-03 |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-11-01 |  |
 | [Travva](https://open.spotify.com/track/40aRrBhreadB8OO2XvHbzb) | [Jutrø](https://open.spotify.com/artist/1IvuqaKdjkwwTzepomiQSM), [Linda](https://open.spotify.com/artist/0kuyTWxry4ZGnRiamkFuKD) | [W\#1](https://open.spotify.com/album/46Vu7w9nZePvIFSg7CZof2) | 4:13 | 2022-10-23 | 2022-11-01 |
-| [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 | 2021-11-01 |  |
+| [Tub Erupt](https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG) | 2:52 | 2022-11-01 |  |
+| [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 | 2021-11-01 | 2023-02-13 |
 | [Ulvinde](https://open.spotify.com/track/1OVCelrSJzzCRslwzJ1Gsd) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Mareridt \(Deluxe Version\)](https://open.spotify.com/album/3ewAlccDDYFoybQaMnkTvW) | 4:23 | 2022-10-23 | 2022-11-01 |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2021-11-01 |  |
 | [Waking The Witch \- 2018 Remaster](https://open.spotify.com/track/4mNUtp5LxYkg1mdbSZEcwO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:18 | 2022-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,988 likes - 44 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,005 likes - 44 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 43 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
 | 44 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDAzZGU2YTM4Yzg2YzA3NGYxNWFkMjI2ZjExYTEyMDVlMA==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDBlZmFkOGY3YTgyZDE3ZjNjM2RkNjYzNjY4YjU5NWQ3ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: shiso",
-  "num_followers": 103155,
+  "num_followers": 103260,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQzNzAyOCwwMDAwMDAwMDUxNjZmODMxMTlkNmY3ZjM0NDhlZGVlODU3YzYwMjBi",
+  "snapshot_id": "MTY3NTQzNzAyOCwwMDAwMDAwMDdmYzQ0M2YwOTU4ZTJhMDc2NmUwOTRjNWYzMjE5ODRk",
   "tracks": [
     {
       "added_at": "2023-02-03 15:10:28",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
         "name": "Voc\u00ea Acredita?",
         "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 160062,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
         "name": "Em Cima da Laje",
         "url": "https://open.spotify.com/album/4QJJR3ExxmcUEo8SAjdhVd"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 169846,
       "name": "Em Cima da Laje",
       "url": "https://open.spotify.com/track/19NTfE8rbj61JC7BRyRdfb"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
+        "name": "Chamada Perdida",
+        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Chamada Perdida",
+      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -643,26 +663,6 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Chamada Perdida",
-        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Chamada Perdida",
-      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
         "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
         "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "N\u00e3o Se Trata de Mim",
-        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
-      },
-      "artists": [
-        {
-          "name": "Emithir",
-          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
-        }
-      ],
-      "duration_ms": 197671,
-      "name": "N\u00e3o Se Trata de Mim",
-      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
         "name": "Faz Parte",
         "url": "https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe"
       },
@@ -727,18 +711,34 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Se P\u00e1",
-        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+        "name": "N\u00e3o Se Trata de Mim",
+        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
       },
       "artists": [
         {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+          "name": "Emithir",
+          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
         }
       ],
-      "duration_ms": 163794,
-      "name": "Se P\u00e1",
-      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+      "duration_ms": 197671,
+      "name": "N\u00e3o Se Trata de Mim",
+      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
         }
       ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -911,6 +915,22 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
         "name": "A Luz Se Apaga",
         "url": "https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 426923,
       "name": "A Luz Se Apaga",
       "url": "https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -995,6 +995,26 @@
       "duration_ms": 182910,
       "name": "Oh Senhor",
       "url": "https://open.spotify.com/track/6MhZeWsVclpGClHLwCoAEB"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 154390,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -1071,30 +1091,6 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Deserto",
-        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        },
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Christian Beaver",
-          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
         "name": "Tudo Passa",
         "url": "https://open.spotify.com/album/6895KPEY3908nqWHmET6g6"
       },
@@ -1119,22 +1115,26 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
         },
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Christian Beaver",
+          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
         }
       ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+      "duration_ms": 209142,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -1151,6 +1151,30 @@
       "duration_ms": 105176,
       "name": "Palavras Tem Poder",
       "url": "https://open.spotify.com/track/1dUF1jMNL4deMXvQ32aMWO"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
+        "name": "Esperan\u00e7a para o Perdido",
+        "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        },
+        {
+          "name": "P.N.D.K",
+          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
+        },
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Esperan\u00e7a para o Perdido",
+      "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -1235,30 +1259,6 @@
       "duration_ms": 230156,
       "name": "Sou Aben\u00e7oado",
       "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
-        "name": "Esperan\u00e7a para o Perdido",
-        "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        },
-        {
-          "name": "P.N.D.K",
-          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
-        },
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Esperan\u00e7a para o Perdido",
-      "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
     },
     {
       "added_at": "2023-02-03 15:10:28",

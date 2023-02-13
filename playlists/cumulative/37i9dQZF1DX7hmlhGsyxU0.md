@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-158 songs - 8 hr 34 min
+159 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 | 2022-04-01 |  |
 | [Intangible](https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 2:19 | 2022-04-22 | 2022-11-08 |
 | [Intet gør ondt som kærlighed](https://open.spotify.com/track/20JNdYDOvrRLCLTUZixN9w) | [Henrietta Dahlgard](https://open.spotify.com/artist/7s7WGhcmkApV178JRqTgss) | [Intet gør ondt som kærlighed](https://open.spotify.com/album/6vQszaWM5exHvYIhCliy7r) | 2:02 | 2022-04-01 | 2022-09-09 |
-| [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 | 2022-04-01 |  |
+| [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 | 2022-04-01 | 2023-02-13 |
+| [Islands](https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr) | 2:21 | 2022-11-07 |  |
 | [Italian Prelude](https://open.spotify.com/track/71TDI7qUtLLzfYkJwbgRWk) | [Anna Moor](https://open.spotify.com/artist/6VH0sdFNBtBG1VUHXZrhz5), [Lana Ross](https://open.spotify.com/artist/3zT2ihLD0QRkAOCp3Q2XSc), [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Violin and Classical Guitar Wedding Ceremony Music In Baroque, Renaissance And Romantic Styles](https://open.spotify.com/album/6C2UafthzdUpRTxlmG6QKA) | 1:36 | 2022-04-01 | 2022-07-11 |
 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2022-04-01 |  |
 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 | 2022-04-01 |  |

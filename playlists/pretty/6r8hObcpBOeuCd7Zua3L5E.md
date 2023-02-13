@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the internet.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 25,226 likes - 50 songs - 2 hr 13 min
+[Digster](https://open.spotify.com/user/digster.fm) - 25,225 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 25 | [soft spot](https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [soft spot](https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV) | 3:39 |
 | 26 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 |
 | 27 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 |
-| 28 | [Robbie Anderson \- Fast](https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [DJ Frisco954](https://open.spotify.com/artist/3ftPeJoVVdIaZxvNILjndk), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Shallowside Baby \(Fast\)](https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM) | 2:38 |
+| 28 | [Robbie Anderson \- Fast](https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [DJ Frisco954](https://open.spotify.com/artist/4n7OuryMcISPDY37x6gwfj), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Shallowside Baby \(Fast\)](https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM) | 2:38 |
 | 29 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 |
 | 30 | [DIVE IN! \- SPED UP!](https://open.spotify.com/track/1I3DclkIlscxB8FjPpocCI) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 1:20 |
 | 31 | [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 |

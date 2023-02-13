@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 242591,
+  "num_followers": 243244,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc3MTU1MywwMDAwMDAwMGQ1YTc4ZjU4ZDQyYzU1MWM0MDViMGM5ODkyOWE0Y2Vi",
+  "snapshot_id": "MTY3NTc3MTU1MywwMDAwMDAwMGJhZDkwYmI1YmVlM2ZjNzYyMzQ3NzRhZjY0NjBlZmY1",
   "tracks": [
     {
       "added_at": "2023-02-07 12:05:53",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 143760,
       "name": "Tout Doucement",
       "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Samba de mon c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -451,34 +451,18 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Une histoire de plage",
-      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
+      "duration_ms": 233960,
+      "name": "Samba de mon c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -519,22 +503,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Une histoire de plage",
+      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Le Temps D'un Jazz",
-        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
-      },
-      "artists": [
-        {
-          "name": "DANIEL ROURE",
-          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Le Temps D'Un Jazz",
-      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 176133,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Le Temps D'un Jazz",
+        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
+      },
+      "artists": [
+        {
+          "name": "DANIEL ROURE",
+          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Le Temps D'Un Jazz",
+      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Marjane",
-          "url": "https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Marjane",
+          "url": "https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "For One to Love",
         "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 374243,
       "name": "Le Mal de Vivre",
       "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 197480,
       "name": "Plus je t'embrasse",
       "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Chambre Avec Vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 302773,
       "name": "C'est le printemps",
       "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Chambre Avec Vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
     },
     {
       "added_at": "2023-02-07 12:05:53",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-07 12:05:53",
       "album": {
-        "name": "Chambre Avec Vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "Faire des ronds dans l'eau",
-      "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
-    },
-    {
-      "added_at": "2023-02-07 12:05:53",
-      "album": {
         "name": "Les deux guitares",
         "url": "https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 130186,
       "name": "J'Suis Pas D'Ici",
       "url": "https://open.spotify.com/track/61FxaViELF86usDHyVQvvq"
+    },
+    {
+      "added_at": "2023-02-07 12:05:53",
+      "album": {
+        "name": "Chambre Avec Vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "Faire des ronds dans l'eau",
+      "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
     },
     {
       "added_at": "2023-02-07 12:05:53",

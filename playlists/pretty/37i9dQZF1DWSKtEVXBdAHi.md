@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,109 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,108 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 46 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 |
 | 47 | [Breathe \(feat\. Ina Wroldsen\)](https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:28 |
 | 48 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
-| 49 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
-| 50 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
+| 49 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
+| 50 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
 | 51 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 | 52 | [All Star](https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [whoisFIYAH](https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8) | [All Star](https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm) | 2:31 |
 | 53 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 | 80 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGY0ZWI4NDA5ODMwMDU5ODMwYzY5ZTdlZWI1NWJmZjg0`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDA2ZWQ1ODMzY2FjYjkwOTQzN2IxMmU2MDg1YjRiMGQ4`

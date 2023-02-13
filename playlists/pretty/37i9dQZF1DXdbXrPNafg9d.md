@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,008 likes - 174 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,180 likes - 174 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

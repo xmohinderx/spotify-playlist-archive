@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-75 songs - 4 hr 12 min
+76 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Target Practice](https://open.spotify.com/track/7rVqmDGODZCM4zfCjfGNqg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:30 | 2022-11-30 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-11-30 |  |
 | [The Funeral](https://open.spotify.com/track/3t4zZ2SxXgQRIhc5N6a6oZ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 3:30 | 2022-11-30 |  |
-| [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2022-11-30 |  |
+| [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2022-11-30 | 2023-02-13 |
+| [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2022-11-30 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-11-30 |  |
 | [WE NEED SOME HELP](https://open.spotify.com/track/3YIyKhcLMfrO5zRMcFFnBk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [WE NEED SOME HELP](https://open.spotify.com/album/7siEe1fqtHDnqHribtTFbb) | 2:59 | 2022-11-30 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-11-30 |  |

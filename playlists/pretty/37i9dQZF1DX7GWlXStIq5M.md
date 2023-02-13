@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,762 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,751 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 83 | [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 |
 | 84 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC) | 3:16 |
 | 85 | [Banco](https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Banco](https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW) | 4:14 |
-| 86 | [Kallidade](https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs) | 2:39 |
-| 87 | [Não Me Sinto Mal Mais](https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP) | 4:25 |
-| 88 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 |
-| 89 | [Hot Shower](https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 3:45 |
-| 90 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
+| 86 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
+| 87 | [Kallidade](https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs) | 2:39 |
+| 88 | [Não Me Sinto Mal Mais](https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP) | 4:25 |
+| 89 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 |
+| 90 | [Hot Shower](https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 3:45 |
 
-Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMDViOWU4MjVlNDlkNTE5MThhMmNhMzY1NGM4YmE2ZWY4`
+Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMDVmZGZiMmYyNDViMWE5N2FkMTkyMWM5MTA5OTYyZjE3`

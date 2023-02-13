@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Megan Moroney, Luke Combs, Bailey Zimmerman and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,198 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,482 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 72816,
+  "num_followers": 72963,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1ODYzNCwwMDAwMDAwMDRmZjc2YWM5ZTg1YmViNGVkZDJhY2M1OTc5ZTUyNzc5",
+  "snapshot_id": "MTY3NTg1ODYzNCwwMDAwMDAwMGM2NjYzMjg4M2VjOGU1ZTE3MmVkODMyZjNhYWE4MzMx",
   "tracks": [
     {
       "added_at": "2023-02-08 12:17:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 422933,
-      "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Crescent",
-        "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 707933,
-      "name": "Lonnie's Lament",
-      "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
+      "duration_ms": 422933,
+      "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 707933,
+      "name": "Lonnie's Lament",
+      "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
         "name": "Soultrane",
         "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
       },
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
       },
       "artists": [
         {
           "name": "Hank Mobley",
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 358360,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
+      "duration_ms": 399693,
+      "name": "Fin De L'Affaire - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -871,18 +867,22 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
       },
       "artists": [
         {
           "name": "Hank Mobley",
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 399693,
-      "name": "Fin De L'Affaire - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
+      "duration_ms": 358360,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Doin' Allright (Remastered)",
-        "url": "https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 447453,
-      "name": "You've Changed - Remastered 2015",
-      "url": "https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 165680,
       "name": "It's Easy To Remember",
       "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Doin' Allright (Remastered)",
+        "url": "https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 447453,
+      "name": "You've Changed - Remastered 2015",
+      "url": "https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 371986,
-      "name": "Something I Dreamed Last Night",
-      "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 301653,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 371986,
+      "name": "Something I Dreamed Last Night",
+      "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "A Night At The Village Vanguard (Live)",
-        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
-      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
+        "name": "A Night At The Village Vanguard (Live)",
+        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
+      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
         "name": "Paul Bley",
         "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 189813,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 442200,
-      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1427,6 +1411,22 @@
       "duration_ms": 596706,
       "name": "I See Your Face Before Me - RVG Remaster",
       "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 442200,
+      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 346160,
-      "name": "Ballad",
-      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Night Hawk",
         "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 362093,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/0rEXms7hJo8jh1VHeWl20h"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 346160,
+      "name": "Ballad",
+      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-08 12:17:14",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
         "name": "Messages",
         "url": "https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 523266,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Elsa",
+      "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1627,22 +1627,6 @@
       "duration_ms": 343000,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"
-    },
-    {
-      "added_at": "2023-02-08 12:17:14",
-      "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Elsa",
-      "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
     },
     {
       "added_at": "2023-02-08 12:17:14",
@@ -1683,6 +1667,22 @@
       "duration_ms": 530000,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
+    },
+    {
+      "added_at": "2023-02-08 12:17:14",
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": "2023-02-08 12:17:14",

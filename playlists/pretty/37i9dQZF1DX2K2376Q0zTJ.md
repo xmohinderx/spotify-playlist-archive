@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  玉名ラーメン
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,697 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 31 | [GANANIKA](https://open.spotify.com/track/5VGslDcbunMcITNpdt8VGY) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [GANANIKA](https://open.spotify.com/album/7c9L6pZZxpWYYW19Um95Ul) | 3:15 |
 | 32 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 |
 | 33 | [Hikari](https://open.spotify.com/track/2FA1QEFGkhIXXPj6OnoP53) | [Princess Ketamine](https://open.spotify.com/artist/2VRJCeIzOtfUI3mZnEmfqy), [CVN](https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr), [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Hikari](https://open.spotify.com/album/5vYseIVfkkBnBXj9nbdyU7) | 3:34 |
-| 34 | [SAY LESS](https://open.spotify.com/track/7HfhpWNWj7LsnZr5NH4CgL) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [SAY LESS](https://open.spotify.com/album/3uD3JRNLEcAfsqsAYGEWTc) | 2:55 |
+| 34 | [SAY LESS](https://open.spotify.com/track/6Ce3oziSiUdni2pWQHpUkK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 2:55 |
 | 35 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 |
 | 36 | [Be Crazy](https://open.spotify.com/track/71hhGpg2px2f2UqwjgpSIi) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Be Crazy](https://open.spotify.com/album/3GvfYLhm1o2sxtJJF5TD96) | 3:38 |
 | 37 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [A place](https://open.spotify.com/track/3DX4j1k25kYNSfIEz7XWya) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Bicycle](https://open.spotify.com/album/1Y9QrYdLxPaFZIWQWDx33s) | 3:11 |
 | 50 | [支度](https://open.spotify.com/track/16Oi71zRHNLNARlmouIY16) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [\(エン\)](https://open.spotify.com/album/3fqh0iDJYo5w2fM8kSyrGm) | 1:00 |
 
-Snapshot ID: `MTY3NTI3MTcyMywwMDAwMDAwMGUyNmJkOGJlOWNiZDg5ODU0YmQ5OGQxNzM5Mzc0MjY4`
+Snapshot ID: `MTY3NTI3MTcyMywwMDAwMDAwMGU3MzFjYTcxZDljMGYzM2MzN2Q0YjI0ZjVhNzVjMWRk`

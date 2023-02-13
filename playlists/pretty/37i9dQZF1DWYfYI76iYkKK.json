@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116391,
+  "num_followers": 116447,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMDY4YjMxYjljYjBjOTJlYjM1YTFiOTgyNDMwMzM4YWM0",
+  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMDM3MWRjYjQzMDhmZWE3NjViYTJjYTk2OTlkYzU5MzY0",
   "tracks": [
     {
       "added_at": "2023-02-09 16:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
         "name": "\u88dd\u5e40",
         "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 234828,
       "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
       "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
     },
     {
       "added_at": "2023-02-09 16:00:00",

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-1,021 songs - 2 day 4 hr 2 min
+1,022 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Ice Spice](https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Ice Spice](https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN) | 3:48 | 2022-11-04 | 2022-12-30 |
 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW), [비앙\(Viann\)](https://open.spotify.com/artist/42w0Nidlj4H3q4H1Q0LqRG) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 | 2022-01-20 | 2022-02-11 |
 | [IHYDT](https://open.spotify.com/track/6PKpytYB80lxqL5Hv8iEQE) | [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [IHYDT](https://open.spotify.com/album/75IYb2liMKpyXfKHIRwoXz) | 2:58 | 2022-12-29 | 2023-02-10 |
-| [IKKI](https://open.spotify.com/track/4EzsOxJiJPyohbJ1gwZikX) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz) | [IKKI](https://open.spotify.com/album/6v8lH1cmt08feBN1mmkdjY) | 1:57 | 2023-02-09 |  |
+| [IKKI](https://open.spotify.com/track/4EzsOxJiJPyohbJ1gwZikX) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz) | [IKKI](https://open.spotify.com/album/6v8lH1cmt08feBN1mmkdjY) | 1:57 | 2023-02-09 | 2023-02-13 |
+| [IKKI](https://open.spotify.com/track/5rdZkiJVcAZRWROHijjqLe) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz) | [XEONWORLDVIEW](https://open.spotify.com/album/6Ece8vURVs6NGNByTbQkjz) | 1:57 | 2023-02-10 |  |
 | [Imagine That \(feat\. Shad\)](https://open.spotify.com/track/18pEhwBhFr9ToeHPjHD0r5) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Imagine That \(feat\. Shad\)](https://open.spotify.com/album/48BZKvdpHdpazl58gmIq7h) | 4:24 | 2022-04-28 | 2022-06-03 |
 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-07-28 | 2022-09-30 |
 | [In My Bed](https://open.spotify.com/track/5IXhUQkWwNi9z10H7Xopho) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LOST & FOUND](https://open.spotify.com/album/309fPeKWAtVIlws7pupSQf) | 2:18 | 2022-03-10 | 2022-04-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Agus Padilla.",
-  "num_followers": 290797,
+  "num_followers": 290933,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGFmZjc3ZTc2MzlkOGIxYmY4MmU1ZmUxMTk2ZDNlZjYw",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGY2MGQ3NWU1MTc3MTM0MDE4Njk3OTFkZWVkY2Q1N2Jl",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "TU DIABLO",
         "url": "https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "A Veces (feat. Feid)",
-        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191555,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Mu\u00f1eca",
         "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 182603,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -735,6 +735,30 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "En la Intimidad",
+        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 165854,
+      "name": "En la Intimidad",
+      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -775,6 +799,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Nopalatele",
         "url": "https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC"
       },
@@ -795,26 +839,6 @@
       "duration_ms": 257683,
       "name": "NOPALATELE",
       "url": "https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -895,46 +919,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "En la Intimidad",
-        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 165854,
-      "name": "En la Intimidad",
-      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Caminemos de la Mano",
         "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 214695,
       "name": "Caminemos de la Mano",
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
+        "name": "Con Puras de 25",
+        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
         }
       ],
-      "duration_ms": 243500,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+      "duration_ms": 138461,
+      "name": "Con Puras de 25",
+      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1379,46 +1379,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Con Puras de 25",
-        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
       },
       "artists": [
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 138461,
-      "name": "Con Puras de 25",
-      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Prende la C\u00e1mara RMX",
-        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 212629,
-      "name": "Prende la C\u00e1mara RMX",
-      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+      "duration_ms": 243500,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1447,6 +1423,30 @@
       "duration_ms": 303673,
       "name": "Cochinae (Remix)",
       "url": "https://open.spotify.com/track/2M5E0vbB12alQ32iV8LKJI"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Felices x Siempre",
         "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
       },
@@ -1607,18 +1623,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
       "artists": [
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "cuatro veinte",
         "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
       },
@@ -1675,6 +1675,26 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 209838,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1711,26 +1731,6 @@
       "duration_ms": 337021,
       "name": "Flotao",
       "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 209838,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
     },
     {
       "added_at": "2023-02-10 03:00:00",

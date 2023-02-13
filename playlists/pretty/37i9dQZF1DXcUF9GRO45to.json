@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 20798,
+  "num_followers": 20838,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM1NDQ0OSwwMDAwMDAwMGYxYzM3MjFjNzllMjI5ZmNiMDZkOGEwZjllN2ZjMjMx",
+  "snapshot_id": "MTY3NTM1NDQ0OSwwMDAwMDAwMGZmMjFiMjkxODg0YzdlNmU0MWNkN2Y5ODFkOTI5ZGRk",
   "tracks": [
     {
       "added_at": "2023-02-01 18:52:48",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
         "url": "https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5vWxbiXuRXVbkErHTei3Hb"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Raving Track",
         "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Spring Harvest",
-        "url": "https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll"
-      },
-      "artists": [
-        {
-          "name": "Grandma's Ashes",
-          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "Spring Harvest",
-      "url": "https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Spring Harvest",
+        "url": "https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "Spring Harvest",
+      "url": "https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Kamggarn",
-        "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 236542,
-      "name": "Lonesome Terror",
-      "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Silence Slowly And Madly Shines",
         "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 343853,
       "name": "It's Gone",
       "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Kamggarn",
+        "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
+      },
+      "artists": [
+        {
+          "name": "Kamggarn",
+          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
+        }
+      ],
+      "duration_ms": 236542,
+      "name": "Lonesome Terror",
+      "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 261301,
       "name": "Fixed It All",
       "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Colostrum",
-        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 226244,
-      "name": "Hair Shirt",
-      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Ashamed",
         "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 179000,
       "name": "Crystal Glass",
       "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Colostrum",
+        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 226244,
+      "name": "Hair Shirt",
+      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
-      "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W"
-      },
-      "artists": [
-        {
-          "name": "Cosmopaark",
-          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn"
-    },
-    {
       "added_at": "2023-02-01 18:52:48",
       "album": {
         "name": "De Novo",
@@ -1139,6 +1123,22 @@
       "duration_ms": 200797,
       "name": "Full House",
       "url": "https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO"
+    },
+    {
+      "added_at": "2023-02-13 01:13:13",
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Songs/Motion Return",
         "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Post-Post-",
         "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
+        "name": "Dissociation",
+        "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
+      },
+      "artists": [
+        {
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+        }
+      ],
+      "duration_ms": 257763,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
         "name": "You Never Did Anything Wrong to Me",
         "url": "https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 268399,
       "name": "Core",
       "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
-        "name": "Dissociation",
-        "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
-      },
-      "artists": [
-        {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
-        }
-      ],
-      "duration_ms": 257763,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1371,6 +1371,38 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
+        "name": "Salvation Prayer",
+        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
+      },
+      "artists": [
+        {
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+        }
+      ],
+      "duration_ms": 294594,
+      "name": "Cold Crusader",
+      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "duration_ms": 236868,
+      "name": "One Big Mess",
+      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
         "name": "Ennemis",
         "url": "https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF"
       },
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Salvation Prayer",
-        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
-      },
-      "artists": [
-        {
-          "name": "You Said Strange",
-          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
-        }
-      ],
-      "duration_ms": 294594,
-      "name": "Cold Crusader",
-      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Full Circle Back",
         "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 226506,
       "name": "Full Circle Back",
       "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
-      },
-      "artists": [
-        {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
-        }
-      ],
-      "duration_ms": 236868,
-      "name": "One Big Mess",
-      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Survived the Great Flood",
-        "url": "https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4"
-      },
-      "artists": [
-        {
-          "name": "Man Is Not a Bird",
-          "url": "https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw"
-        }
-      ],
-      "duration_ms": 222627,
-      "name": "Survived the Great Flood",
-      "url": "https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
         "name": "Hara",
         "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 204106,
       "name": "Stick It Out",
       "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+    },
+    {
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Survived the Great Flood",
+        "url": "https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4"
+      },
+      "artists": [
+        {
+          "name": "Man Is Not a Bird",
+          "url": "https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw"
+        }
+      ],
+      "duration_ms": 222627,
+      "name": "Survived the Great Flood",
+      "url": "https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1529,7 +1529,23 @@
       "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
     },
     {
-      "added_at": "2023-02-12 01:12:30",
+      "added_at": "2023-02-01 18:52:48",
+      "album": {
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+    },
+    {
+      "added_at": "2023-02-13 01:13:13",
       "album": {
         "name": "Someone Will Come For You",
         "url": "https://open.spotify.com/album/4WE7A9E3ed18Z9ZbU3ip8V"
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-02-01 18:52:48",
       "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
       "artists": [
         {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
         }
       ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2023-02-01 18:52:48",
@@ -1575,22 +1591,6 @@
       "duration_ms": 339440,
       "name": "Evening",
       "url": "https://open.spotify.com/track/0OFkQIKbgZyU9Ah9ipkGMp"
-    },
-    {
-      "added_at": "2023-02-01 18:52:48",
-      "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2023-02-01 18:52:48",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-963 songs - 2 day 2 hr 37 min
+964 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Deilig er jorden](https://open.spotify.com/track/4GrqT88TUsjLPXhrAtIl79) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Glade Jul](https://open.spotify.com/album/3c8P5M3sJmBZ44KZfKQZfE) | 2:40 | 2022-12-25 | 2022-12-27 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
+| [Delilah](https://open.spotify.com/track/5WnH3XfHwtR7KH7KfVUDqe) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Delilah](https://open.spotify.com/album/6yBdJITEcvVQPYWWYHmQ4K) | 2:38 | 2023-02-12 |  |
 | [Delux](https://open.spotify.com/track/4xGfI1u54ykDTeD7Sr2uTK) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Delux](https://open.spotify.com/album/6RvN8Cimpl4gayeXp725vU) | 2:40 | 2022-02-17 | 2022-02-22 |
 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 | 2021-07-18 | 2021-07-25 |
 | [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ) | 3:05 | 2021-03-27\* | 2022-08-17 |
@@ -821,7 +822,7 @@
 | [Sov Godt](https://open.spotify.com/track/0hZzAGc7nWaZsvSPhoiHTI) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sov Godt](https://open.spotify.com/album/4Fa0cCqJ4G5z6CO8UDZQ5S) | 2:11 | 2022-01-08 | 2022-01-15 |
 | [Space Between](https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 3:01 | 2022-08-02 | 2022-08-04 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-29 |
-| [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-11 |  |
+| [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-11 | 2023-02-13 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-11 |
 | [Spis din syvende sans](https://open.spotify.com/track/2wklUkI6nr4uurf5w0AyPz) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Kors på halsen, ti kniver i hjertet, mor og far i døden](https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7) | 3:21 | 2022-08-18 | 2022-09-11 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-11-02 | 2022-11-03 |

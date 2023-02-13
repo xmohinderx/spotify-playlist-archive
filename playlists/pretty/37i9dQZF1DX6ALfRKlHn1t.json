@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1017471,
+  "num_followers": 1017665,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDdhOGY0M2Q0NjcyZmM3MTEwNDMzYjRkZTY5ODlhYjE4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGM2MzdjZmRiNTg4OGVmNjAzYmZkNjZhZWJjNGYxMmRh",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Ride or Die (feat. Foster the People)",
         "url": "https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "The Tarantino Connection",
         "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+      "duration_ms": 211720,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
     },
     {
       "added_at": "2022-10-07 04:01:00",

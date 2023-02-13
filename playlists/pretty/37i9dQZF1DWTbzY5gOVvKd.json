@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1156241,
+  "num_followers": 1156617,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDFjM2VhYzg0NGQ5YjQwYWUzMTRjOTkxMGU5MTRmMTU5",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDVhNGI1Njk4MDU4MWE0OTllZjc4ZTdjYWI2MDAwMmFm",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "OK Crooner",
         "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
       },
@@ -883,18 +851,34 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 361306,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 271333,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 361306,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -995,22 +995,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
         }
       ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
       "artists": [
         {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Here's To You - Songs For Shirley Horn",
         "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 301533,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
+      },
+      "artists": [
+        {
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
+        }
+      ],
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Love Is... The Tender Trap",
         "url": "https://open.spotify.com/album/0BnOXskh6wArTePmqEGIfs"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 283933,
       "name": "Fools Rush In (Where Angels Fear To Tread)",
       "url": "https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
-      },
-      "artists": [
-        {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
-        }
-      ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "In The Moonlight",
-        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 262920,
       "name": "It Amazes Me",
       "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "In The Moonlight",
+        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "As We Are",
-        "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
+        "name": "An Englishman in Love in LA",
+        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
       "artists": [
         {
-          "name": "Margareta Bengtson",
-          "url": "https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov"
-        },
-        {
-          "name": "Jan Allan",
-          "url": "https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6"
-        },
-        {
-          "name": "Anders Paulsson",
-          "url": "https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y"
-        },
-        {
-          "name": "Alberto Pinton",
-          "url": "https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2"
-        },
-        {
-          "name": "Third Saxes Galore",
-          "url": "https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X"
+          "name": "Richard Shelton",
+          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
         }
       ],
-      "duration_ms": 330893,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
+      "duration_ms": 176573,
+      "name": "The Touch of Your Lips",
+      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
     }
   ],
   "unique_name": "Jazzy Romance",

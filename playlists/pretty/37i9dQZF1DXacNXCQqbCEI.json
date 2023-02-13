@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 336124,
+  "num_followers": 336188,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDFlMmMzYWI1NGM0NTdiMzZjMjA2YWM2MTEzYWM1ZWY2",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDYxYzA4NjJjMDM5NTM0NzgwYjZjYTQ2Yjk2OWIwZDI3",
   "tracks": [
     {
       "added_at": "2022-10-10 15:18:57",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Underwater Temples of Mahabalipuram",
         "url": "https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 150588,
       "name": "Underwater Temples of Mahabalipuram",
       "url": "https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2022-10-10 15:18:57",

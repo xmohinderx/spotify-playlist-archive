@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-36 songs - 1 hr 50 min
+37 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 | 2022-09-16 |  |
 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 | 2022-09-16 |  |
 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/1fhtLz1b8GGScLY7dZe8qj) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Prima di Sanremo](https://open.spotify.com/album/3HlLMNC6Vy5YImharx1guE) | 2:49 | 2023-01-16 | 2023-02-04 |
-| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/52iL3M9rif4eQplgFdslmW) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:49 | 2022-09-16 |  |
+| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/52iL3M9rif4eQplgFdslmW) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:49 | 2022-09-16 | 2023-02-13 |
+| [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 | 2023-02-12 |  |
 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 | 2022-09-16 |  |
 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 | 2022-09-16 |  |
 | [malibu](https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |

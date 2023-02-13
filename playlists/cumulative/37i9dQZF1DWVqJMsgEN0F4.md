@@ -4,7 +4,7 @@
 
 > Pierce The Veil along with the top Alternative songs of today.
 
-270 songs - 15 hr 21 min
+271 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,8 +226,9 @@
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2022-10-21 | 2022-11-19 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/4B4GwsjpJKPVN65J59ecfB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:25 | 2022-11-04 | 2022-11-14 |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-07-01 | 2022-08-06 |
-| [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2023-01-06 |  |
+| [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2023-01-06 | 2023-02-13 |
 | [This Is Why](https://open.spotify.com/track/4GvZQffyoZh1eK8d8QlWQU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:26 | 2022-12-16 | 2023-01-07 |
+| [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-02-10 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-28 | 2022-12-21 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-26 | 2022-11-12 |
 | [Thursday](https://open.spotify.com/track/6vb55aYjtf4DirjVFPJpKz) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:22 | 2022-11-18 | 2022-12-10 |

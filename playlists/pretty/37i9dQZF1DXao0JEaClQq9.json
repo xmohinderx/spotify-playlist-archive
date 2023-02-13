@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Kimbra ",
-  "num_followers": 1599796,
+  "num_followers": 1599914,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5Mjg1NywwMDAwMDAwMDQ0MThmNmZlMzllY2QyOTkzZjc2NDE4YjMzZDBhMzFj",
+  "snapshot_id": "MTY3NTE5Mjg1NywwMDAwMDAwMDkxOWEyMDU4YmQzMWQ5ODExM2E4YjRmNTJkNzJmMDc3",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 162909,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2023-01-18 19:05:48",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-18 19:05:48",
       "album": {
-        "name": "I'm Not Like Alice",
-        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 136153,
-      "name": "I'm Not Like Alice",
-      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
-    },
-    {
-      "added_at": "2023-01-18 19:05:48",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
+    },
+    {
+      "added_at": "2023-01-18 19:05:48",
+      "album": {
+        "name": "I'm Not Like Alice",
+        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "I'm Not Like Alice",
+      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
     },
     {
       "added_at": "2023-01-18 19:05:48",

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Marco Mares
 
-236 songs - 13 hr 5 min
+237 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,11 +119,12 @@
 | [LA RUTA NATURAL](https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp) | 3:17 | 2022-12-09 |  |
 | [Laberinto](https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:42 | 2021-11-18 | 2022-09-07 |
 | [Laberinto](https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Laberinto](https://open.spotify.com/album/6VFBkyvHaA3dYW4wVN7y0R) | 3:42 | 2022-01-10 | 2022-07-29 |
+| [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-10 |  |
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-09-06 |  |
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2022-10-27 |  |
 | [Life](https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3) | [bearly](https://open.spotify.com/artist/4XKXIcyfPHauW8KznG2isn), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Life](https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3) | 4:00 | 2021-11-18 | 2022-07-29 |
 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 | 2021-11-18 | 2022-11-25 |
-| [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 |  |
+| [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 | 2023-02-13 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-11-18 | 2022-11-25 |
 | [Lockdown](https://open.spotify.com/track/1S6JBFByksSIbXmxHQRrfy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Lockdown](https://open.spotify.com/album/350zv3w3vKRXIS8tKWzGcx) | 4:23 | 2021-11-18 | 2022-07-29 |
 | [Locura](https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77) | 2:44 | 2022-06-29 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Cocco
 
-1,092 songs - 2 day 23 hr 42 min
+1,093 songs - 2 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Winding Road](https://open.spotify.com/track/7M9JmUQLDwU6iwhfIhMmBP) | [Riho Sayashi](https://open.spotify.com/artist/1YTdqGyGxK0qx14Yn4lDnh) | [Reflection](https://open.spotify.com/album/4FEl9oa81Tbgc8Vpg1hYTd) | 4:15 | 2022-06-07 | 2022-07-11 |
 | [Wings](https://open.spotify.com/track/74k3mpE1AOJz1PsLOZKtWi) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Wings](https://open.spotify.com/album/4CAhXMaKEX05kH5MA8iVr8) | 4:21 | 2022-08-30 | 2022-09-07 |
 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-04 | 2022-12-16 |
+| [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-09 |  |
 | [WoMan](https://open.spotify.com/track/1p9N6K1rY6CAp7vSkMoXJh) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [WoMan](https://open.spotify.com/album/6qEYjX9e6N7coQPc052WIP) | 4:36 | 2022-08-23 | 2022-08-25 |
 | [WoMan](https://open.spotify.com/track/47pZkrGsknOMhqopbbQ31d) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [WoMan](https://open.spotify.com/album/5aZ7z0odlOxzL1ZSL8SvvP) | 4:36 | 2022-08-23 | 2022-08-31 |
 | [Wonderland](https://open.spotify.com/track/394oCRuzRAlpjgWhYE0Z2X) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Wonderland](https://open.spotify.com/album/1JOeGgY4MCY2LbvoCvCxma) | 4:17 | 2022-06-02 | 2022-07-21 |
@@ -845,7 +846,7 @@
 | [初恋](https://open.spotify.com/track/7xOB5iOSHNsTyRAkW8T3xa) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [初恋](https://open.spotify.com/album/2tSulo7ieb5ohEySnMkBJ5) | 4:58 | 2022-11-01 | 2022-11-03 |
 | [初恋が泣いている](https://open.spotify.com/track/1vT6VdL9PrHOBziwubdt29) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [初恋が泣いている](https://open.spotify.com/album/3VEglNaW4ojsqUKftqryRf) | 3:59 | 2022-05-29 | 2022-07-24 |
 | [初恋が泣いている](https://open.spotify.com/track/2qJknEIv5MCKjHG6LNLZvj) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:59 | 2022-08-18 | 2022-08-20 |
-| [初雪](https://open.spotify.com/track/2zIht1HPxFqj3KEwqYdTFK) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [初雪](https://open.spotify.com/album/6pK4fxdjZhvFuzRDdfVw6X) | 3:01 | 2023-01-17 |  |
+| [初雪](https://open.spotify.com/track/2zIht1HPxFqj3KEwqYdTFK) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [初雪](https://open.spotify.com/album/6pK4fxdjZhvFuzRDdfVw6X) | 3:01 | 2023-01-17 | 2023-02-13 |
 | [刺激による彼ら](https://open.spotify.com/track/6pmrBEDpexl95jmAta5MB3) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [刺激による彼ら](https://open.spotify.com/album/7qpoDHk7mpoDBtLFS7eJtp) | 4:22 | 2022-08-23 | 2022-08-31 |
 | [前説ADvance](https://open.spotify.com/track/4BmL1q2aXSsgOJkGExlIjZ) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [前説ADvance](https://open.spotify.com/album/7B3cMK62VedHD4Jjqf7Fce) | 4:11 | 2022-08-30 | 2022-09-07 |
 | [劇場](https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 5:58 | 2022-06-02 | 2022-07-27 |

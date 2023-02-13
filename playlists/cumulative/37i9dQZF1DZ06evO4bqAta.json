@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 271360,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430040,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c"
+    },
+    {
+      "album": {
         "name": "Not Dark Yet (Version 1)",
         "url": "https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 432133,
       "name": "Not Dark Yet - Version 1",
       "url": "https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 157933,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 142946,
       "name": "Winterlude",
       "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"

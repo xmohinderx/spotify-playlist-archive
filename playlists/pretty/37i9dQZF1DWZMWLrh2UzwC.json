@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: dv4d",
-  "num_followers": 60453,
+  "num_followers": 60455,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMGI0OGY4ODkwNTIwYTAwY2EzNjk3ZDRlZDZmN2RhOWQw",
+  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMDJjNTJjYzZkYTQ5YzllODdiNDRjZmU5ZDg0OTgxMzk5",
   "tracks": [
     {
       "added_at": "2023-02-09 16:00:00",
@@ -1279,17 +1279,21 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "My Luv",
+        "name": "My Luv (feat. Bibi Bourelly)",
         "url": "https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ"
       },
       "artists": [
         {
           "name": "RINI",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
         }
       ],
       "duration_ms": 152238,
-      "name": "My Luv",
+      "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
     },
     {
@@ -1459,8 +1463,8 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "God Bless The 90s Kids",
-        "url": "https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt"
+        "name": "Truth Decay",
+        "url": "https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D"
       },
       "artists": [
         {
@@ -1470,7 +1474,7 @@
       ],
       "duration_ms": 203192,
       "name": "God Bless The 90s Kids",
-      "url": "https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE"
+      "url": "https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2"
     },
     {
       "added_at": "2023-02-09 16:00:00",

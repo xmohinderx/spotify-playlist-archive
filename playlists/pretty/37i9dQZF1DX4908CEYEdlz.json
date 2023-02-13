@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 704414,
+  "num_followers": 704402,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDMwNTFjNzc1OGYyNGUyODQ2ZTY0Njc2ODQ5YjgzY2Vi",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGI3NGY3OWZiMDJjZDUzYzJmNWM5MjE4NzhmZmY4MjRk",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Yen",
-      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
       "artists": [
         {
@@ -880,9 +880,25 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Cut The Line",
+        "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Cut The Line",
+      "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -903,22 +919,6 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Cut The Line",
-        "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Cut The Line",
-      "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
     },
     {
       "added_at": "2023-02-10 03:01:00",

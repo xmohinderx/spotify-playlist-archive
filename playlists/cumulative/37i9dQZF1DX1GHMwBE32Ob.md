@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Zlatan & Seyi Vibez
 
-83 songs - 4 hr 2 min
+84 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Kuku Do Ritual](https://open.spotify.com/track/5KPMtK8yiVbIcIIMr2Qvr7) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Kuku Do Ritual](https://open.spotify.com/album/76cw3ZxOznH8pt7RDZeL4v) | 3:56 | 2023-01-20 | 2023-02-11 |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 |  |
+| [Life](https://open.spotify.com/track/5sYYFdeRxteDdFpyeJD7jW) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Life](https://open.spotify.com/album/49Abr1dsGGSS3yQpieZm2p) | 2:16 | 2023-02-13 |  |
 | [Loading \(feat\. Bad Boy Timz\)](https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 3:14 | 2022-06-29 |  |
 | [Mafo](https://open.spotify.com/track/0b4KxqG2zGWDh3iH571a7D) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/2lCPh18M0n0Ug9LJiqsREw) | 3:34 | 2022-06-29 | 2022-12-25 |
 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 | 2022-06-29 |  |
@@ -61,7 +62,7 @@
 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 | 2022-06-29 |  |
 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 | 2022-06-29 | 2023-01-20 |
 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 |  |
-| [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 |  |
+| [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 | 2023-02-13 |
 | [Oshey Boys](https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Oshey Boys](https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ) | 3:09 | 2022-12-02 |  |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-06-29 | 2022-12-04 |
 | [Para Boi](https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Memory Card](https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI) | 2:37 | 2023-01-16 |  |

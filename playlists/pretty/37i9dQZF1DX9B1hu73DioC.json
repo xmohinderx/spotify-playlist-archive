@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 759885,
+  "num_followers": 759961,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGQ0YjZjYzRkYjkzMzM5MTc0MTNhZmY3ZWM5ZjdlOWZl",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDMzMGVhYTAxMTA1NDFhMzA5ZTgwMDk4ZmYzNzk1YmFj",
   "tracks": [
     {
       "added_at": "2023-01-12 22:22:47",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
       "added_at": "2023-01-12 22:22:47",
       "album": {
         "name": "Saw You In A Dream",
@@ -587,6 +571,22 @@
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -675,38 +675,6 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -727,6 +695,38 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
+        "name": "Hold Space For Me",
+        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Ne Me Quitte Pas (Don't Leave Me)",
+      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -775,22 +791,6 @@
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
-        "name": "Hold Space For Me",
-        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Ne Me Quitte Pas (Don't Leave Me)",
-      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "Good For Now",
-        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 241877,
-      "name": "Good For Now (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
         "name": "That Life",
         "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
       },
@@ -927,6 +907,22 @@
       "duration_ms": 215866,
       "name": "That Life",
       "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
+    },
+    {
+      "added_at": "2023-02-13 00:43:54",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -943,6 +939,26 @@
       "duration_ms": 221873,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
+        "name": "Good For Now",
+        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 241877,
+      "name": "Good For Now (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -1031,6 +1047,22 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -1063,38 +1095,6 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Let's Make a Mistake Tonight",
-        "url": "https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
+        "name": "One Night with The Valet",
+        "url": "https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "One Night with The Valet",
+      "url": "https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "Be On Your Way",
-        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 244772,
-      "name": "Be On Your Way",
-      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
+        "name": "Be On Your Way",
+        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Let's Make a Mistake Tonight",
+        "url": "https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Let's Make a Mistake Tonight",
+      "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
       },
@@ -1187,70 +1219,6 @@
       "duration_ms": 172707,
       "name": "keep going",
       "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
-    },
-    {
-      "added_at": "2023-02-12 01:04:11",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
-        "name": "One Night with The Valet",
-        "url": "https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "One Night with The Valet",
-      "url": "https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 170021,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -1271,6 +1239,22 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
         "name": "Four Songs",
         "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 181453,
       "name": "Wish",
       "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 170021,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei"
     },
     {
       "added_at": "2023-01-12 22:22:47",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "added_at": "2023-01-12 22:22:47",
+      "album": {
         "name": "Neo Surf",
         "url": "https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
-    },
-    {
-      "added_at": "2023-01-12 22:22:47",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-01-12 22:22:47",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     }
   ],
   "unique_name": "Indie Chillout",

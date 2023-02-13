@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 8 min
+90 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 | 2022-11-24 |  |
 | [Baba Nla](https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Baba Nla](https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN) | 3:22 | 2022-09-10 |  |
 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 | 2021-12-28 |  |
-| [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 | 2021-12-28 |  |
+| [Bebe](https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Bebe](https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu) | 4:48 | 2023-02-12 |  |
+| [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 | 2021-12-28 | 2023-02-13 |
 | [Coded Tinz](https://open.spotify.com/track/2vrMrplf0UBqixxCA7hJpU) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Chief Obi](https://open.spotify.com/artist/4eXIbW9SDhsAowo6FJXiLr) | [Afro Hip Hop, Vol\. 7](https://open.spotify.com/album/6aAw8fSxxxvba2BTSCoXNp) | 4:11 | 2021-12-29 | 2022-09-26 |
 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 | 2021-12-28 |  |
 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 | 2021-12-28 |  |

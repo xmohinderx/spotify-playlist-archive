@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: dv4d
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,453 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,455 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 71 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
 | 72 | [Dancing With Wolves](https://open.spotify.com/track/3YfETrhxHKHKGxjnXinCwm) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [Dancing With Wolves](https://open.spotify.com/album/3GyfcomtdtxqDUr18rNdBS) | 4:17 |
 | 73 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
-| 74 | [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
+| 74 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 75 | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/album/5SP4C1eYeOVwLxqK2sxkW7) | 3:08 |
 | 76 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 |
 | 77 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 82 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 |
 | 83 | [Breaking the Circle](https://open.spotify.com/track/4je0rHWp5MizuSMTSaVy20) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Breaking the Circle](https://open.spotify.com/album/4Kb7z6VSpvg5QHJJFS6ehy) | 4:13 |
 | 84 | [The Court \- Dark\-Side Mix](https://open.spotify.com/track/5eO2qyIX1QQ21eUktFzDnO) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [The Court \(Dark\-Side Mix\)](https://open.spotify.com/album/4IuBnORoDnoJXSYPX4Cp4U) | 4:20 |
-| 85 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 85 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 86 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
 | 87 | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Moving \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 |
 | 88 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 |
 | 89 | [Afterglow](https://open.spotify.com/track/6FHJtTykaTFDrd5IX3vjTz) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Afterglow](https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl) | 2:58 |
 | 90 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 |
 
-Snapshot ID: `MTY3NTk1ODQwMCwwMDAwMDAwMGI0OGY4ODkwNTIwYTAwY2EzNjk3ZDRlZDZmN2RhOWQw`
+Snapshot ID: `MTY3NTk1ODQwMCwwMDAwMDAwMDJjNTJjYzZkYTQ5YzllODdiNDRjZmU5ZDg0OTgxMzk5`

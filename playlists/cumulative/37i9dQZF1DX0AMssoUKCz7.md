@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-574 songs - 1 day 5 hr 38 min
+575 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Find My Way](https://open.spotify.com/track/71aQJIzGtxrrT1lhdteajB) | [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Find My Way](https://open.spotify.com/album/1nRoSho3tyBexVrFHcquS2) | 3:06 | 2022-01-14 |  |
 | [Find Our Way](https://open.spotify.com/track/1nWQ9xv5yvn2CiCEfuPbzX) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Find Our Way](https://open.spotify.com/album/48WoD7oNRCs9nkkIGHd0pq) | 3:04 | 2022-04-15 |  |
 | [Fire Away](https://open.spotify.com/track/0VXqcz7c0rRnshrCUzhjTS) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Fire Away](https://open.spotify.com/album/1k5GnV0hK3SeDunyy7BlCJ) | 2:45 | 2022-01-14 |  |
+| [Fire in the Sky](https://open.spotify.com/track/1nhiOU8j8dxJrHpCmrgIej) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Clay Pirinha](https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu) | [Fire in the Sky](https://open.spotify.com/album/5hbQ4y8WTSJgEalXACpR59) | 2:56 | 2023-02-10 |  |
 | [Fireproof \- Embody Remix](https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Fireproof \(Embody Remix\)](https://open.spotify.com/album/1zXqUomsQOpXwrfqIts29c) | 3:04 | 2022-01-14 | 2022-10-02 |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2022-04-01 | 2022-04-16 |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2022-02-18 | 2022-04-11 |
@@ -387,7 +388,7 @@
 | [Only Way](https://open.spotify.com/track/2XqrW3DckGuX40QWSp3QnZ) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/0Zt0Qk54maTkJgUt2TCvAP) | 3:10 | 2022-01-14 | 2022-07-29 |
 | [Ordinary Fools](https://open.spotify.com/track/3nJ5dYFdy8a0viZ2FyhIaf) | [Prince Paris](https://open.spotify.com/artist/5aAJhXtrFlRSDzZmCktcXQ), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Ordinary Fools](https://open.spotify.com/album/44tdnYYb97CbPRjtwxuVh0) | 3:08 | 2022-01-14 |  |
 | [Ori Tali Ma \- LVNDSCAPE Remix](https://open.spotify.com/track/2ZdsweqvRBAoFs5c09oJk3) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Ori Tali Ma \(LVNDSCAPE Remix\)](https://open.spotify.com/album/6GUYKbnr4CAdnlJlSMLpEZ) | 4:21 | 2022-01-14 | 2022-04-09 |
-| [Out of Time](https://open.spotify.com/track/0e67yRFHujhVv0t3TOjXbl) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Out of Time](https://open.spotify.com/album/4tufLZI5ifwDHfaCvW4JDI) | 3:15 | 2022-01-14 |  |
+| [Out of Time](https://open.spotify.com/track/0e67yRFHujhVv0t3TOjXbl) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Out of Time](https://open.spotify.com/album/4tufLZI5ifwDHfaCvW4JDI) | 3:15 | 2022-01-14 | 2023-02-13 |
 | [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 | 2022-08-19 |  |
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 57 | [パフィピポ山](https://open.spotify.com/track/5qvXB9miZW3TCzaLp1cs3M) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [THE PUFFY](https://open.spotify.com/album/5AJ84yKqqzGMqP6wXEYsor) | 3:43 |
 | 58 | [瞳・華](https://open.spotify.com/track/4mvDffXLnYoQwoqVcaeBin) | [jealkb](https://open.spotify.com/artist/5MOVmd7yqmg2notivSL4Vr) | [V?](https://open.spotify.com/album/0AD9T3Jw2flh4Lul5nn4KB) | 3:37 |
 | 59 | [TOP SECRET](https://open.spotify.com/track/0WXqtcLh7Q6V1587YcQiZ0) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [10th Anniversary ALL TIME BEST / Yellow \[2010\-2020\]](https://open.spotify.com/album/717Bk7GgGixXrprqK5CtWZ) | 3:47 |
-| 60 | [無限∞ブランノワール](https://open.spotify.com/track/2Cb0EoNLoOtJTM07zbzTVW) | [しょこたん](https://open.spotify.com/artist/0nvuPKl0u8lOSyHBRREoEL), [Satchan](https://open.spotify.com/artist/5Ml6sAUcueaMJRXdg84Irq) | [無限∞ブランノワール](https://open.spotify.com/album/6qZqP0bchSwhrmL3d5zkF2) | 4:36 |
+| 60 | [無限∞ブランノワール](https://open.spotify.com/track/2Cb0EoNLoOtJTM07zbzTVW) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [無限∞ブランノワール](https://open.spotify.com/album/6qZqP0bchSwhrmL3d5zkF2) | 4:36 |
 | 61 | [Gifu Me Chance](https://open.spotify.com/track/7sOoTm3v0SCIbZmp1uXDjt) | [Nagareboshi](https://open.spotify.com/artist/7w9QTvKp59PCHa4fkL3NZ6) | [Gifu Me Chance](https://open.spotify.com/album/0NZQ4ZVCUzF6Q1Pg8FLjGF) | 4:29 |
 | 62 | [6 PACK PARADISE \~序章\~](https://open.spotify.com/track/1q6XN7vHKWJ3SvGlIi4Dfc) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [6 PACK PARADISE \~序章\~](https://open.spotify.com/album/2Rm7PgT6eEPPXggyaaPY0s) | 4:44 |
 | 63 | [Link](https://open.spotify.com/track/4HOZQQ1cDRi6gimI4CSLPM) | [RYUCHELL](https://open.spotify.com/artist/69B2I8O3kvspdJVrBc2toJ) | [Link](https://open.spotify.com/album/7uAnOnRPCXNjvfde9zvfP0) | 4:11 |

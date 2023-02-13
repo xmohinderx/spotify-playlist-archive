@@ -1,6 +1,6 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: Lizzo, SZA",
-  "num_followers": 96231,
+  "num_followers": 96267,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
@@ -107,17 +107,21 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "My Luv",
+        "name": "My Luv (feat. Bibi Bourelly)",
         "url": "https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ"
       },
       "artists": [
         {
           "name": "RINI",
           "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
         }
       ],
       "duration_ms": 152238,
-      "name": "My Luv",
+      "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
     },
     {

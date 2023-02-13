@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Paramore, Central Cee, Dove Cameron & Khalid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,054,895 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,055,318 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 81 | [Cocaine](https://open.spotify.com/track/0uoOJJYcnnLAFWajwNNAbL) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Cocaine](https://open.spotify.com/album/0K4jbnUPEuBr8JhWJuqdZ9) | 3:45 |
 | 82 | [Races](https://open.spotify.com/track/0QTBPKcT0vvXRRNFTznWy6) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Races](https://open.spotify.com/album/26TS76G6SM9VnQEAWXZTcO) | 2:13 |
 | 83 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 |
-| 84 | [My Luv](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [My Luv](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
+| 84 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 85 | [Don't Love Me](https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Love Me](https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM) | 3:23 |
 | 86 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 |
 | 87 | [Bonfire](https://open.spotify.com/track/4baCFMTnuJ3dZByzDqH5Vb) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Bonfire](https://open.spotify.com/album/7ddufmgNH80Koz363srzHB) | 4:00 |

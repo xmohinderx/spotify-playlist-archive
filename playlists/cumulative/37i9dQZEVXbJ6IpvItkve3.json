@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -7222,7 +7222,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 151968,
       "name": "\u05d1\u05d9\u05d7\u05d3",
       "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
@@ -11607,6 +11607,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e9\u05de\u05e8\u05e0\u05d9\u05dd \u05e9\u05d5\u05d1 \u05d1\u05d0\u05d5\u05e4\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/795jjqz2SyUQQVHDnwWDfp"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05d0\u05de\u05d0",
+      "url": "https://open.spotify.com/track/5BK8QQs9NhYRFGQHx8GMAG"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05dc\u05d5\u05d5\u05ea\u05d4",
         "url": "https://open.spotify.com/album/673EpXdUvojBmrMzbub0ob"
       },
@@ -11734,7 +11752,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"

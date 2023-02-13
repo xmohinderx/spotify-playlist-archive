@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,711 likes - 104 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,206 likes - 104 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 2 | [Watch This \(Lil Uzi Vert\) \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(Lil Uzi Vert\) \[ARIZONATEARS Pluggnb Remix\]](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
+| 2 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 3 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 4 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 |
 | 5 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 9 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
 | 10 | [One Kiss \(Dua Lipa\) \- Sped Up Version](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \(Dua Lipa\) \- Sped Up Version](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 |
 | 11 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
-| 12 | [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 |
+| 12 | [Judas \- Sped Up](https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG), [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Judas](https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr) | 3:26 |
 | 13 | [Destroy Me \(Sped Up\)](https://open.spotify.com/track/0GO2QdhAjnXV4XqwzkWc76) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Destroy Me \(Sped Up\)](https://open.spotify.com/album/3S3BYaqtaUMwUvHaaNOFlN) | 2:42 |
 | 14 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 |
 | 15 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 103 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 |
 | 104 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 |
 
-Snapshot ID: `MTY3NjA0OTY3NCwwMDAwMDAwMDgyZGUzYTEwODkyOGI0MTNlZTdmYWNhOGM4ZDJmM2Q2`
+Snapshot ID: `MTY3NjA0OTY3NCwwMDAwMDAwMGY2ZjVmOGJmYzI2Y2Y0MmIzYzgxNDFiZGY1NzBkMjVj`

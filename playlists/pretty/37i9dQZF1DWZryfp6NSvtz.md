@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: You Me At Six
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,213 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,427 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 |
+| 1 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
 | 2 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
 | 3 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 4 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [New Mistake](https://open.spotify.com/track/3MTd2WF7AtrzKiieoWJWq5) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [New Mistake](https://open.spotify.com/album/71PWoq6U7RyWjjKnLtzfob) | 3:24 |
 | 50 | [eel](https://open.spotify.com/track/0OgYr8I50ZpaWDokhxLWQ0) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [eel](https://open.spotify.com/album/2PDe3qTrwBrPoBFRCVwglw) | 4:28 |
 
-Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDVkZDdkMDdlYWFhYWRhZjE5ZWVmYTQzNjI1MDk0YjEz`
+Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDRmZDllNjZkZjgyMDI3YmVmZGQ1NjE5YjQzZTc3OGFk`

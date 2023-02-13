@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 3353,
+  "num_followers": 3380,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQzYzIxZjBkZmZlNGZkMTM3MDUxZGI3ZTY5ZWQzYTFj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGYxYzZlMDZhNGNjYTJlOWQxOTAwMTBmNDU3YWJhMTZj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "Anymore (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 210184,
       "name": "Peng Black Girls",
       "url": "https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 196786,
+      "name": "Anymore (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

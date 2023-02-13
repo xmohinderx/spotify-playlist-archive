@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-544 songs - 1 day 10 hr 11 min
+545 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-04 | 2022-11-05 |
 | [blue blur feat\. mabanua](https://open.spotify.com/track/6ujjpnDMz0qD3oPUC3ypJ4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [blue blur feat\. mabanua](https://open.spotify.com/album/0qoOskYNEbSlL75idOrOGi) | 4:32 | 2022-06-09 | 2022-07-27 |
 | [BLUEMOON](https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [empath](https://open.spotify.com/album/7vNnPAKcr9QyuVDRdxrXz8) | 3:40 | 2022-05-26 | 2022-06-15 |
+| [blur and flower](https://open.spotify.com/track/4XXv8XROOit6ZpSDkbpufH) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv) | 4:18 | 2023-02-09 |  |
 | [blur and flower](https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 4:18 | 2022-12-13 | 2023-01-26 |
 | [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-01-31 |  |
@@ -488,7 +489,7 @@
 | [北酒場 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/6RPLd7T2Viv2MCXJp9lcQm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [北酒場 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/album/4fE21MtzOKLym1kMnkOS66) | 3:35 | 2022-06-30 | 2022-07-27 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |
 | [卒業証書](https://open.spotify.com/track/69ee6Gy8VEF0OSaduyazKM) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [卒業証書](https://open.spotify.com/album/5Q3pEspqecFokYfnN9CEhX) | 2:49 | 2022-08-30 | 2022-09-15 |
-| [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 | 2022-08-24 |  |
+| [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 | 2022-08-24 | 2023-02-13 |
 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 | 2022-05-26 | 2022-06-08 |
 | [君の歯ブラシ](https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [君の歯ブラシ](https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5) | 3:21 | 2022-06-16 | 2022-07-27 |
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-26 |

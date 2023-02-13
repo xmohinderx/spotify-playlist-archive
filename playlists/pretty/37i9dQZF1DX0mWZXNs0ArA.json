@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1141711,
+  "num_followers": 1146206,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0OTY3NCwwMDAwMDAwMDgyZGUzYTEwODkyOGI0MTNlZTdmYWNhOGM4ZDJmM2Q2",
+  "snapshot_id": "MTY3NjA0OTY3NCwwMDAwMDAwMGY2ZjVmOGJmYzI2Y2Y0MmIzYzgxNDFiZGY1NzBkMjVj",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -27,10 +27,14 @@
     {
       "added_at": "2023-02-09 18:00:15",
       "album": {
-        "name": "Watch This (Lil Uzi Vert) [ARIZONATEARS Pluggnb Remix]",
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
         {
           "name": "sped up nightcore",
           "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
@@ -41,7 +45,7 @@
         }
       ],
       "duration_ms": 163139,
-      "name": "Watch This (Lil Uzi Vert) - ARIZONATEARS Pluggnb Remix",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
@@ -203,18 +207,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Judas - Sped Up",
-        "url": "https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp"
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+          "name": "ethereal",
+          "url": "https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG"
+        },
+        {
+          "name": "Lofis",
+          "url": "https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt"
         }
       ],
       "duration_ms": 206001,
       "name": "Judas - Sped Up",
-      "url": "https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK"
+      "url": "https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY"
     },
     {
       "added_at": "2023-02-03 05:00:00",

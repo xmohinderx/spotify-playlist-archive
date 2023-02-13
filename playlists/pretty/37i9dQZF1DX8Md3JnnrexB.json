@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 190356,
+  "num_followers": 190399,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMDAwNGI4Yzg2ZmFlOTQyMzNmZjBlMTFmNDkyM2I4N2Fi",
+  "snapshot_id": "MTY3MTQ1MTg4MiwwMDAwMDAwMDBjMmQ4ZDNiMTc0OTBiNDkzNGQxYjc0ZDlhMGFjYjk0",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 292733,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Hot Tub Smooth Sounds",
+        "url": "https://open.spotify.com/album/6wmux9b2RmC5LzpN9a8wA6"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Caught Up In the Rapture - Single Version",
+      "url": "https://open.spotify.com/track/3rkDgf97gFGDEmFUrALomV"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Hot Tub Smooth Sounds",
-        "url": "https://open.spotify.com/album/6wmux9b2RmC5LzpN9a8wA6"
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Caught Up In the Rapture - Single Version",
-      "url": "https://open.spotify.com/track/3rkDgf97gFGDEmFUrALomV"
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1283,22 +1299,6 @@
       "duration_ms": 281853,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 254960,
       "name": "A Change Is Gonna Come - Mono; 2008 Remaster",
       "url": "https://open.spotify.com/track/2IkM8zrt6Y1F344CNfaDA0"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Al Wilson",
+        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Show and Tell - Rerecorded",
+      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Love Is The New Black",
         "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 310480,
       "name": "Ever Changing Times (feat. Michael McDonald)",
       "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Al Wilson",
-        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
-      },
-      "artists": [
-        {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Show and Tell - Rerecorded",
-      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Famous R&B Divas",
-        "url": "https://open.spotify.com/album/2bFVzLA1rFHv3xh4wEvMCf"
-      },
-      "artists": [
-        {
-          "name": "Rachelle Ferrell",
-          "url": "https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "'Til You Come Back to Me",
-      "url": "https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "So Full Of Love",
         "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 333453,
       "name": "Cry Together",
       "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Famous R&B Divas",
+        "url": "https://open.spotify.com/album/2bFVzLA1rFHv3xh4wEvMCf"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Ferrell",
+          "url": "https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "'Til You Come Back to Me",
+      "url": "https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2275,22 +2275,6 @@
       "duration_ms": 211346,
       "name": "Dynamite.",
       "url": "https://open.spotify.com/track/5Jg9DV3m2umJpoHXV2e6j8"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "This Could Be Real",
-      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2327,6 +2311,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "This Could Be Real",
+      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Best Of Atlantic Starr",
         "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
       },
@@ -2339,6 +2339,22 @@
       "duration_ms": 336533,
       "name": "Am I Dreaming",
       "url": "https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2359,22 +2375,6 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "There's No Me Without You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Wish That You Were Mine",
-      "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/6ZAjdkKHnWLdpL1deFXajO"
       },
@@ -2443,22 +2427,6 @@
       "duration_ms": 204306,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/2VUsmzlxjarwAVMCI2bm9x"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Beautiful Ballads",
-        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2479,6 +2447,38 @@
       "duration_ms": 301000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "There's No Me Without You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Wish That You Were Mine",
+      "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Beautiful Ballads",
+        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
     },
     {
       "added_at": "2022-05-11 12:25:18",

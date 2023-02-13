@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 161274,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
@@ -300,6 +300,24 @@
       "duration_ms": 222654,
       "name": "As Days Go By",
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "album": {
+        "name": "AVAILABLE FOR ME",
+        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141732,
+      "name": "AVAILABLE FOR ME",
+      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
     },
     {
       "album": {
@@ -674,7 +692,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 235200,
       "name": "Caged Bird",
       "url": "https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 237405,
       "name": "Drifty",
       "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
@@ -1805,6 +1823,36 @@
     },
     {
       "album": {
+        "name": "Good & Plenty (Remix)",
+        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Good & Plenty - Remix",
+      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
+    },
+    {
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
@@ -1898,7 +1946,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 177248,
       "name": "Groove",
       "url": "https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG"
@@ -2634,7 +2682,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
@@ -2865,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Leave While I Love You",
+      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7"
       },
@@ -2914,6 +2980,24 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262651,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
     },
     {
       "album": {
@@ -2968,6 +3052,24 @@
       "duration_ms": 175757,
       "name": "Lifethativebeenlivin",
       "url": "https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN"
+    },
+    {
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "album": {
@@ -3106,6 +3208,28 @@
       "duration_ms": 181831,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
     },
     {
       "album": {
@@ -3626,7 +3750,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 237235,
       "name": "No Romance",
       "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
@@ -3836,7 +3960,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 232600,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
@@ -4984,6 +5108,28 @@
       "duration_ms": 211034,
       "name": "Stole My Love",
       "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Such A Thing",
+      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 159379,
+  "num_followers": 159621,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMGU4MzI0ZTQyYmZiYjYzMGNjODU2OGQyYzMzMjVjOWEx",
+  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMGNjZGZlMTFjMmYxODdhN2M1NDBmYmI5YmQwNmJjMDI5",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -611,6 +611,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
+        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "duration_ms": 155826,
+      "name": "Carmen Suite No. 1: Intermezzo",
+      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -643,6 +667,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
         "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
       },
@@ -663,26 +707,6 @@
       "duration_ms": 123906,
       "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
       "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -735,30 +759,6 @@
       "duration_ms": 55213,
       "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
       "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
-        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 155826,
-      "name": "Carmen Suite No. 1: Intermezzo",
-      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
     },
     {
       "added_at": "2022-07-29 13:33:43",

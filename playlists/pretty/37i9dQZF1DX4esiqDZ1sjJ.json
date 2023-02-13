@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 330459,
+  "num_followers": 330646,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMGQyOTljOWQ1OTY3NWVmOWIzMDY5OTc3YTliNDMzOTdk",
+  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMGFiZWU3YTMzMGRiNzJlNjE0MDQ3Yjg3YmYzMzI5Njc3",
   "tracks": [
     {
       "added_at": "2022-12-03 03:38:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Body Head Bangerz, Vol. 1",
-        "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
-      },
-      "artists": [
-        {
-          "name": "Roy Jones Jr.",
-          "url": "https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B"
-        },
-        {
-          "name": "Mr Magic",
-          "url": "https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF"
-        },
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
-      "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 285569,
       "name": "Headstrong",
       "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Body Head Bangerz, Vol. 1",
+        "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
+      },
+      "artists": [
+        {
+          "name": "Roy Jones Jr.",
+          "url": "https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B"
+        },
+        {
+          "name": "Mr Magic",
+          "url": "https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
+      "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2022-12-03 03:38:52",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     }
   ],
   "unique_name": "Jock Jams",

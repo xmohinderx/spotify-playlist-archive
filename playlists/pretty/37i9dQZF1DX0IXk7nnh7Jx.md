@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,904 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,906 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 19 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
 | 20 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 21 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
-| 22 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
-| 23 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
-| 24 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
+| 22 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
+| 23 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
+| 24 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
 | 25 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
 | 26 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 |
 | 27 | [This Is Love](https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:33 |
 | 28 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 |
 | 29 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
-| 30 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 |
-| 31 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
+| 30 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
+| 31 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 |
 | 32 | [A Little Bit of Faith](https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:03 |
 | 33 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
 | 34 | [Stir A Passion](https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [O, Peace](https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL) | 5:04 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 54 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 |
 | 55 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 |
 | 56 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
-| 57 | [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 |
-| 58 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 |
-| 59 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
+| 57 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 |
+| 58 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
+| 59 | [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 |
 | 60 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDk3OGY2NGY0MDU4ZTNhOGEwY2JkODdhNWE4NTg2YmNk`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDIzZWViZGU3ZGM2OTBiM2U0OTI0NWU4OWFhNjkyMTcw`

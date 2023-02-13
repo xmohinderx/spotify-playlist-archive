@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover:Pheelz",
-  "num_followers": 184269,
+  "num_followers": 184448,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMDQwNywwMDAwMDAwMDk5MjMxNzg5YmU5NWJiOWFlNzE5ZmI0ZWM3OTc1ZDEz",
+  "snapshot_id": "MTY3NjAyMDQwNywwMDAwMDAwMGIxMjM0MzMxNDBjZjhhZDI2NmNkZTFkNTBkNzkyZmZl",
   "tracks": [
     {
       "added_at": "2022-12-18 09:54:29",
@@ -869,24 +869,20 @@
       "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
-      "added_at": "2022-12-18 09:54:29",
+      "added_at": "2023-02-03 08:52:33",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
         }
       ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+      "duration_ms": 139200,
+      "name": "Yolo",
+      "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -909,20 +905,24 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
-      "added_at": "2023-02-03 08:52:33",
+      "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Yolo",
-        "url": "https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
       },
       "artists": [
         {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Yolo",
-      "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -961,42 +961,6 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Odinaka",
-      "url": "https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
       "added_at": "2022-12-18 09:54:29",
       "album": {
         "name": "OCEAN",
@@ -1019,6 +983,42 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Odinaka",
+      "url": "https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1085,20 +1069,20 @@
       "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Ease Up",
-        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1115,6 +1099,22 @@
       "duration_ms": 213658,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 187300,
       "name": "Ojuju",
       "url": "https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 222865,
-      "name": "High Spirit",
-      "url": "https://open.spotify.com/track/4qqOyc8ioVm5kvCYdgS2TO"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
         "name": "Spend Some Time",
         "url": "https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 168333,
       "name": "Spend Some Time",
       "url": "https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 222865,
+      "name": "High Spirit",
+      "url": "https://open.spotify.com/track/4qqOyc8ioVm5kvCYdgS2TO"
     },
     {
       "added_at": "2022-12-18 09:54:29",

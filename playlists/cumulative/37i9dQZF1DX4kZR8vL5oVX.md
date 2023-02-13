@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Laura Cox
 
-649 songs - 1 day 9 hr 53 min
+650 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,8 @@
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-31 |  |
 | [Tes yeux vertiges](https://open.spotify.com/track/5K38bxdYDCLujfhET17nZ0) | [Barbara Rivage](https://open.spotify.com/artist/18BLp9REGpjbS7TuMZWCI0) | [Tes yeux vertiges](https://open.spotify.com/album/0kr8aNY2VZ9o2m75NxxNz6) | 4:04 | 2022-04-05 | 2022-05-04 |
 | [The Game](https://open.spotify.com/track/1bTCLpRyw4O85YGCkAbdMH) | [La Femme en Bleu](https://open.spotify.com/artist/4zvroanLciSTy6lUol10bR) | [The Game](https://open.spotify.com/album/2UKvJOyThCkUf6l87hj2cN) | 2:21 | 2022-01-05 | 2022-02-02 |
-| [The Smell of Your Hair](https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [The Smell of Your Hair](https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH) | 2:50 | 2023-01-31 |  |
+| [The Smell of Your Hair](https://open.spotify.com/track/40jgyuVJdg53HreVt53Dwp) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Ne pas trop rester bleue](https://open.spotify.com/album/0K2gcYIB1tl5WJUwkqaiCR) | 2:50 | 2023-01-31 |  |
+| [The Smell of Your Hair](https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [The Smell of Your Hair](https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH) | 2:50 | 2023-01-31 | 2023-02-13 |
 | [Thérapie](https://open.spotify.com/track/0h7UOz0ZIXjdQe5WUlQP4O) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Thérapie](https://open.spotify.com/album/1rycyjpynBmWhWRHd1Mlyq) | 2:53 | 2022-09-06 | 2022-10-05 |
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-05-03 | 2022-06-01 |
 | [Titanic](https://open.spotify.com/track/3U7na9Ffvvi3MGeXKKIzTJ) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Titanic](https://open.spotify.com/album/7mJmjMSZzPr18KGw2IqsrL) | 2:43 | 2022-11-08 | 2022-12-01 |

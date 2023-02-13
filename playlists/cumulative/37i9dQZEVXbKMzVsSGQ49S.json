@@ -10975,6 +10975,24 @@
     },
     {
       "album": {
+        "name": "Lei\u00f0ina heim",
+        "url": "https://open.spotify.com/album/2ip7ZPibH84ygX75EtDeYJ"
+      },
+      "artists": [
+        {
+          "name": "Saga Matthildur",
+          "url": "https://open.spotify.com/artist/7ccI0gncpeO9mIAE1fQqEz"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204155,
+      "name": "Lei\u00f0ina heim",
+      "url": "https://open.spotify.com/track/1EBHYNmfEBzXoowrcNsyJx"
+    },
+    {
+      "album": {
         "name": "D3POSIT2",
         "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
       },
@@ -11102,7 +11120,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -16402,7 +16420,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -19728,7 +19746,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-13",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"

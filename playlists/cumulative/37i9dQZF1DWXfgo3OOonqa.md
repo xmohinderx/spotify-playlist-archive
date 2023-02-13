@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: INOMI
+> KLASS 2023: PABI
 
 811 songs - 1 day 11 hr 58 min
 

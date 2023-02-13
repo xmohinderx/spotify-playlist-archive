@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  Da' T.R.U.T.H.",
-  "num_followers": 110373,
+  "num_followers": 110520,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgyMDA5MSwwMDAwMDAwMDcxODcyYTAxMWU4MzdiMzkwYzNkNmY5MWY0MDJkYzA0",
+  "snapshot_id": "MTY3NDgyMDA5MSwwMDAwMDAwMDhiMjYwZjFhY2QzOWU1YWNjYTQ0OTc2YzBjY2U5NTZi",
   "tracks": [
     {
       "added_at": "2023-01-27 11:48:11",
@@ -507,26 +507,18 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Respect My Team",
-        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
       },
       "artists": [
         {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        },
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 227741,
-      "name": "Respect My Team",
-      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -559,18 +551,26 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+        "name": "Respect My Team",
+        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
+      "duration_ms": 227741,
+      "name": "Respect My Team",
+      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -667,30 +667,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Allegiance",
-        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "Allegiance",
-      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 179233,
       "name": "IGWT",
       "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "Allegiance",
+        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Allegiance",
+      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "Everyone Loves A Comeback Story",
+        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "I Can't Fail",
+      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "WAY MAKER",
         "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
       },
@@ -959,18 +975,22 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Everyone Loves A Comeback Story",
-        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 202285,
-      "name": "I Can't Fail",
-      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+      "duration_ms": 181776,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 181776,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "Tighten Up",
         "url": "https://open.spotify.com/album/5LGXIctrGZBQzO05GQX5nM"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 198591,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 100587,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "shadows",
+        "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "shadows",
+      "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/5YlDLaoyUwFwDy7UsHpECE"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "shadows",
-        "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "LOGE",
-          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "shadows",
-      "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1443,46 +1443,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Those Hands (feat. Quinten Coblentz)",
-        "url": "https://open.spotify.com/album/5OEar0OTQDZoj7DF1294Q5"
-      },
-      "artists": [
-        {
-          "name": "Roy Tosh",
-          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
-        },
-        {
-          "name": "Quinten Coblentz",
-          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "Those Hands (feat. Quinten Coblentz)",
-      "url": "https://open.spotify.com/track/3moVlue7qHuwiKAhqULSln"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        }
-      ],
-      "duration_ms": 197064,
-      "name": "Underdogs",
-      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "I Will Not",
         "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
       },
@@ -1507,6 +1467,46 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        }
+      ],
+      "duration_ms": 197064,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "Those Hands (feat. Quinten Coblentz)",
+        "url": "https://open.spotify.com/album/5OEar0OTQDZoj7DF1294Q5"
+      },
+      "artists": [
+        {
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        },
+        {
+          "name": "Quinten Coblentz",
+          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "Those Hands (feat. Quinten Coblentz)",
+      "url": "https://open.spotify.com/track/3moVlue7qHuwiKAhqULSln"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "josiah.",
         "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 129696,
       "name": "josiah.",
       "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "Swerve That",
         "url": "https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11"
       },
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1787,42 +1787,6 @@
     {
       "added_at": "2023-01-27 11:48:11",
       "album": {
-        "name": "GOD IS THE BEST",
-        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "GOD IS THE BEST",
-      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
         "name": "Sunflowers",
         "url": "https://open.spotify.com/album/7EjRh7xBeXvsChw183XoZT"
       },
@@ -1843,6 +1807,58 @@
       "duration_ms": 178560,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/3OPqM7GGmM8vDjcySRncV3"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "GOD IS THE BEST",
+        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 179033,
+      "name": "GOD IS THE BEST",
+      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
+    },
+    {
+      "added_at": "2023-01-27 11:48:11",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2023-01-27 11:48:11",
@@ -1887,22 +1903,6 @@
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
-    },
-    {
-      "added_at": "2023-01-27 11:48:11",
-      "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     }
   ],
   "unique_name": "The Flow",

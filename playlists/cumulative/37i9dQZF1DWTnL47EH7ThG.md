@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-304 songs - 17 hr 44 min
+306 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [O O O](https://open.spotify.com/track/73ald5Jc8f6bd4BzIFScqx) | [Chungo](https://open.spotify.com/artist/0XnV2hmWdT3vvtRv7dBrKK) | [DBGI002](https://open.spotify.com/album/6VWo2tJeUOfGZHiPtJlc0q) | 6:30 | 2022-02-07 | 2022-10-28 |
 | [Oh Boy](https://open.spotify.com/track/1VqshjuUU602SPiZulCkHc) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 3:44 | 2022-07-18 |  |
 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 | 2022-12-05 | 2023-02-02 |
-| [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 | 2022-12-05 |  |
+| [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 | 2022-12-05 | 2023-02-13 |
+| [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2022-12-05 |  |
 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 | 2022-04-26 | 2022-10-28 |
 | [One Spliff A Day](https://open.spotify.com/track/1w7aWiib4kZ7vF34RHVPhE) | [Billy Boyo](https://open.spotify.com/artist/02QS4GibrL7zDnqe4OWWeu) | [One Spliff A Day](https://open.spotify.com/album/42Z8YPMCJP83v0gojP2ezn) | 3:09 | 2022-02-04 |  |
 | [Packed In!](https://open.spotify.com/track/2fRESb3CecctI9YO9RrQAF) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Full Time Daydreamer](https://open.spotify.com/album/3mX5dE3j1frBwPNxiTBfwJ) | 2:30 | 2022-02-04 |  |
@@ -296,8 +297,9 @@
 | [W I L D](https://open.spotify.com/track/2gSh4JIbSm4WleCgpzEdaC) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [W I L D](https://open.spotify.com/album/2AK8jOgh0YJ2dQ8wwemipK) | 1:17 | 2022-02-04 | 2022-10-28 |
 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 | 2022-10-27 |  |
 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 | 2022-02-04 |  |
+| [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2022-10-27 |  |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-10-27 | 2023-02-02 |
-| [Washed Away](https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG) | 3:36 | 2022-10-27 |  |
+| [Washed Away](https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG) | 3:36 | 2022-10-27 | 2023-02-13 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-26 | 2022-10-28 |
 | [Whisper](https://open.spotify.com/track/24FdAPZGqbKQIsKd46kBvL) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Sexy Ride Riddim](https://open.spotify.com/album/0O4EgMMZ0vgHWorfSB8NgA) | 3:24 | 2022-02-04 | 2022-10-28 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-18 |  |

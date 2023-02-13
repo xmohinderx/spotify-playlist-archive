@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7472116,
+  "num_followers": 7476255,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI3ODAwMCwwMDAwMDAwMGJhMWVmN2RmYWIzYzc5YWUzNTU5NDc0MzQ3ZTU5MWVj",
+  "snapshot_id": "MTY3NTI3ODAwMCwwMDAwMDAwMDkxZGUyZDdlZTdjZTI0OTM3YzZiMWU5NjUxYjdkNzNl",
   "tracks": [
     {
       "added_at": "2023-01-16 11:53:23",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
     },
     {
+      "added_at": "2023-02-13 00:42:18",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
       "added_at": "2023-01-16 11:53:23",
       "album": {
         "name": "93 'til Infinity",
@@ -539,22 +559,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
@@ -567,6 +571,22 @@
       "duration_ms": 280000,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -651,26 +671,6 @@
       "duration_ms": 303493,
       "name": "Passin' Me By",
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
-    },
-    {
-      "added_at": "2023-02-12 01:03:30",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "Capital Punishment (Explicit Version)",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+        "name": "I Am...",
+        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
       "artists": [
         {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+      "duration_ms": 237026,
+      "name": "Nas Is Like",
+      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "I Am...",
-        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Nas Is Like",
-      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
+      "duration_ms": 228173,
+      "name": "Twinz (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 209973,
       "name": "Shadowboxin'",
       "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1199,6 +1199,22 @@
       "duration_ms": 260066,
       "name": "Fu-Gee-La",
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Hell On Earth",
         "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 268706,
       "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
       "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Just Don't Give A Fuck",
-      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 293933,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Just Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
       "added_at": "2023-01-16 11:53:23",

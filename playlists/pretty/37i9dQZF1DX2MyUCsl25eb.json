@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 975745,
+  "num_followers": 975754,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDJmMjFmNjI2M2FiNTczMTZiMTZjMTc4NmQxYTNiMWRj",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGY3OTIyNDYyNmI4MzZjZjZlMzcwMjQxZjA2YzUzY2Q2",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Jude's Song",
-        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "Jude's Song",
-      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Sonder",
@@ -471,6 +455,22 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Jude's Song",
+        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 137079,
+      "name": "Jude's Song",
+      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Carry It Well",
-        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 215048,
-      "name": "Carry It Well",
-      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Hiding in Plain Sight",
@@ -635,6 +619,22 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Carry It Well",
+        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 215048,
+      "name": "Carry It Well",
+      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -945,6 +945,26 @@
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Buddy's Rendezvous",
+        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Buddy's Rendezvous",
+      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Schvitz",
@@ -967,26 +987,6 @@
       "duration_ms": 172607,
       "name": "All That\u2019s Left of Me Is You",
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Buddy's Rendezvous",
-        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "Buddy's Rendezvous",
-      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Venting to Strangers",
-        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "Venting to Strangers",
-      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Leap",
@@ -1051,6 +1035,22 @@
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Venting to Strangers",
+        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 152437,
+      "name": "Venting to Strangers",
+      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "The Good Parts",
-      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -1101,20 +1085,20 @@
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Electrophonic Chronic",
-        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 257173,
-      "name": "A Man Will Do Wrong",
-      "url": "https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB"
+      "duration_ms": 198266,
+      "name": "The Good Parts",
+      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1133,20 +1117,20 @@
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
+        "name": "Electrophonic Chronic",
+        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
         }
       ],
-      "duration_ms": 197146,
-      "name": "What A Convincing Illusion",
-      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
+      "duration_ms": 257173,
+      "name": "A Man Will Do Wrong",
+      "url": "https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 188310,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "What A Convincing Illusion",
+      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2022-08-26 04:02:00",

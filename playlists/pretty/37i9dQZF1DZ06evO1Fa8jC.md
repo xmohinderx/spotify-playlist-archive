@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,853 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,912 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 18 | [Corazoncito](https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hombre Simple](https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9) | 3:52 |
 | 19 | [Boys Don't Cry](https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 2:48 |
 | 20 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 |
-| 21 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 |
-| 22 | [Suena la Alarma](https://open.spotify.com/track/2Bykx7Sa2MB0JhgM1U770v) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 2:16 |
+| 21 | [Suena la Alarma](https://open.spotify.com/track/2Bykx7Sa2MB0JhgM1U770v) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 2:16 |
+| 22 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 |
 | 23 | [Acho Puñeta \- Reggae Remix](https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \(Reggae Remix\)](https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT) | 4:52 |
 | 24 | [Mostrame Como Sos \- Versión 25 Años](https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:24 |
 | 25 | [Loco](https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Ruge la Barra](https://open.spotify.com/track/2JHpzvygFt7SJeDHXqK0lA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:09 |
 | 50 | [Todo lo que quiero](https://open.spotify.com/track/1pdaJnpDILlSbgSGGAcY0B) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:15 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDBiNTEzM2M4MDBkOGIzMzEyYWZhOTRiNzU1MmQwNTU0NA==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDBlYzE5OWJiZGUzM2Q3NjZlNDg3ZjA5MTI1YTRhZjdlNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,068 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,175 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 25 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 26 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 |
 | 27 | [sanjake](https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [sanjake](https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj) | 3:02 |
-| 28 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
-| 29 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 |
+| 28 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 |
+| 29 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
 | 30 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
 | 31 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 |
 | 32 | [Leaving Home](https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ) | [Jebediah](https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln) | [Slightly Odway](https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3) | 3:01 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 66 | [Something Better](https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo) | [Canterbury](https://open.spotify.com/artist/2xnkhppPrflQ02TWRtIthQ) | [Heavy in the Day](https://open.spotify.com/album/281202APzTHOf2hs6RFcmr) | 3:30 |
 | 67 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
 | 68 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 |
-| 69 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
-| 70 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
+| 69 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
+| 70 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
 | 71 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
 | 72 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
 | 73 | [Why Won't You Admit](https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Under Exit Lights](https://open.spotify.com/album/5c4rnFo67posi6omJUtu02) | 3:36 |
-| 74 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 |
+| 74 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 75 | [Lay Low](https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Springtime and Blind](https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw) | 2:46 |
-| 76 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
+| 76 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 |
 | 77 | [Husk](https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB) | 2:38 |
 | 78 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
 | 79 | [The Long Defeat](https://open.spotify.com/track/27PKLv7rXE18wNbVrMA068) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 4:11 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 81 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 |
 | 82 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 |
 | 83 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
-| 84 | [Your Way](https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [2 Songs](https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ) | 3:20 |
-| 85 | [Palahniuk's Laughter](https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [They Liked You Better When You Were Dead](https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj) | 4:15 |
+| 84 | [Palahniuk's Laughter](https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [They Liked You Better When You Were Dead](https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj) | 4:15 |
+| 85 | [Your Way](https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [2 Songs](https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ) | 3:20 |
 | 86 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
 | 87 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
 | 88 | [I'm Not Part Of Me](https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy) | 4:35 |
-| 89 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 90 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 |
-| 91 | [Bloom](https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A) | 4:22 |
-| 92 | [The Big What If](https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO) | 3:15 |
+| 89 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 |
+| 90 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
+| 91 | [The Big What If](https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO) | 3:15 |
+| 92 | [Bloom](https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A) | 4:22 |
 | 93 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 |
 | 94 | [Misplaced](https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Third Chain](https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y) | 3:06 |
 | 95 | [Freddy Kreuger](https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5) | [Reuben](https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS) | [Racecar Is Racecar Backwards \(Tenth Anniversary Deluxe Edition\)](https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [I Created a Monster](https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL) | [Hello Operator](https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu) | [Hello Operator](https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST) | 4:10 |
 | 100 | [See A Little Light](https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB) | [Bob Mould](https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A) | [Workbook](https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15) | 3:32 |
 
-Snapshot ID: `MTY3NTcxMjM5NiwwMDAwMDAwMDQ3MzNhNzQ4NTIxZjQyNmU4NWRkYjA2NWY1ZTY5MmE3`
+Snapshot ID: `MTY3NTcxMjM5NiwwMDAwMDAwMGVmNWQ5OTAxZjA1NTEwNzNhZjllMTYwYzljZTE2OWM3`

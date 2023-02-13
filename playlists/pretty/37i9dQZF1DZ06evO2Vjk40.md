@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,768 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,040 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 40 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
 | 41 | [I Ain't Living Long Like This \- Live](https://open.spotify.com/track/6CEnKKsgWNZkTtHMgS2K7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Outlaw: Celebrating the Music of Waylon Jennings \(Live\)](https://open.spotify.com/album/0BhRRRjVOfXWLwKxBdNxXL) | 5:34 |
 
-Snapshot ID: `Mjc5MzU0OTgsMDAwMDAwMDA2MzkyNzc3YjAyYzczYmE3ZTdkNTNkMzk1ODcyZTE0OQ==`
+Snapshot ID: `Mjc5MzY3ODIsMDAwMDAwMDBiOTY4M2U1ODFkMDhjN2RlMTJkOWFkOTZhN2I5OTEzNQ==`

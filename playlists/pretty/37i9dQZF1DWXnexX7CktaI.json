@@ -1,12 +1,12 @@
 {
   "description": "Still on replay. Cover: Rihanna",
-  "num_followers": 1949559,
+  "num_followers": 1950477,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjE0OTgyNiwwMDAwMDAwMGYzN2E0MTk2YmM2ZmJkMjRkZjc0NmY0MWI0MWNiMGM1",
+  "snapshot_id": "MTY3NjIwNzUwNCwwMDAwMDAwMGNmNjJkZWRlYzYzM2FjZjdhN2VlNTY1MmY0NmZiYjk1",
   "tracks": [
     {
       "added_at": "2022-03-14 17:48:22",
@@ -381,24 +381,20 @@
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
+      "added_at": "2023-01-26 12:39:45",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Steve Lacy's Demo",
+        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -419,6 +415,26 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2023-01-26 12:39:45",
-      "album": {
-        "name": "Steve Lacy's Demo",
-        "url": "https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 223629,
-      "name": "Been Away",
-      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
-    },
-    {
       "added_at": "2023-01-26 12:39:45",
       "album": {
         "name": "Buckles Laboratories Presents: The Intermission",
@@ -827,6 +811,22 @@
       "duration_ms": 202519,
       "name": "Spread Thin",
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223629,
+      "name": "Been Away",
+      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
     },
     {
       "added_at": "2022-07-30 03:46:43",
@@ -847,6 +847,22 @@
       "duration_ms": 295920,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -887,22 +903,6 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
+      "added_at": "2023-01-26 12:39:45",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Wild Side (feat. Cardi B)",
@@ -1167,22 +1183,6 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
-    },
-    {
-      "added_at": "2023-01-26 12:39:45",
-      "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -1309,20 +1309,20 @@
       "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
-      "added_at": "2022-09-24 17:12:30",
+      "added_at": "2022-07-30 03:34:52",
       "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 204841,
-      "name": "Gang Over Luv",
-      "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/1RohgA8t3qiVc5HcAroDgf"
     }
   ],
   "unique_name": "Gold Edition",

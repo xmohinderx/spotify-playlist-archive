@@ -4,7 +4,7 @@
 
 > in Paris we wear pink! 🗼🥐🇫🇷🥖 Cover: Dove Cameron & Sabrina Carpenter
 
-1,518 songs - 3 day 5 hr 29 min
+1,519 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-02-25 | 2022-03-26 |
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-06 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
-| [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 | 2023-01-27 |  |
+| [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 | 2023-01-27 | 2023-02-13 |
 | [Broke Mine Too](https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [PEE](https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS) | 3:48 | 2022-11-11 | 2022-12-03 |
 | [Broken Bones](https://open.spotify.com/track/7HhIqSluAmCjoq0E5TYC0t) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Broken Bones](https://open.spotify.com/album/7LsP7IOX0FaPzX37dG2jUI) | 3:15 | 2019-05-26\* | 2020-03-20 |
 | [Bruises](https://open.spotify.com/track/0FgZfWVkyg4ZNPRCPZcfsp) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [Bruises](https://open.spotify.com/album/50NUUJ6t44FcUdPVyfbYck) | 2:56 | 2022-10-28 | 2022-11-12 |
@@ -1101,6 +1101,7 @@
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-12 |  |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-28 | 2021-10-20 |
 | [Rookie of The Year](https://open.spotify.com/track/1Ku0LoTU1UV607hRvIBKI1) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Rookie of The Year](https://open.spotify.com/album/6V82UbeQKRMRWFhepzpMeP) | 2:22 | 2023-01-13 | 2023-01-28 |
+| [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-13 |  |
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |

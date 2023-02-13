@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,437 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,434 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 34 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
 | 35 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 |
 | 36 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 |
-| 37 | [Constellations](https://open.spotify.com/track/32ShlHZGBYLoybP9pdb87z) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/2A6IuWcopkXZfUl8bOt8dx) | 3:20 |
+| 37 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 38 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
 | 39 | [You Want Everyone to Love You](https://open.spotify.com/track/21yPwIPwerL4pxf19LvEGn) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i've lived](https://open.spotify.com/album/2jLTZMIeCMcWzwOtGLnMMY) | 4:08 |
 | 40 | [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMDU0YjM1ODFjMmIzYzA2NGFiNWNkNWNjMzg2NmIxMmI0`
+Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMGY1MDM4MWYzOGM3NzYwNWY3ODc3MDljOGZlMzQ3Y2I3`

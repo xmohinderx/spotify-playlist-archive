@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,183 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,225 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 34 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
 | 35 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 |
 | 36 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
-| 37 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
-| 38 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
+| 37 | [Tu Veneno](https://open.spotify.com/track/0MzNLLx5SxavXd2eoRrpZC) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Tu Veneno](https://open.spotify.com/album/1IsxF9dkpu7ZwV1LCndiXc) | 3:19 |
+| 38 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
 | 39 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
-| 40 | [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 |
-| 41 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 |
-| 42 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
-| 43 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
-| 44 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
-| 45 | [Tu Veneno](https://open.spotify.com/track/0MzNLLx5SxavXd2eoRrpZC) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Tu Veneno](https://open.spotify.com/album/1IsxF9dkpu7ZwV1LCndiXc) | 3:19 |
+| 40 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
+| 41 | [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 |
+| 42 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 |
+| 43 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
+| 44 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
+| 45 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 46 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
 | 47 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
 | 48 | [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 |
-| 49 | [Amanece \(feat\. Gil Cerezo\)](https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG) | [Amanece](https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN) | 4:52 |
-| 50 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
+| 49 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
+| 50 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 |
 
-Snapshot ID: `MTY3NjA1NzcyNCwwMDAwMDAwMGM1MjRiMDY5NDY4ZmYwM2Y1YzJlMTAwM2E4YWRmMjQ5`
+Snapshot ID: `MTY3NjA1NzcyNCwwMDAwMDAwMDEyMjk0ZDVjMzYxZmExMWI3ODNjZDIxOGY0YzQwNWJm`
