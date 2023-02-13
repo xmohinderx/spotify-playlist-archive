@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5568\)
+## Playlists \(5569\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -3423,6 +3423,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Relaxing Reading](/playlists/pretty/37i9dQZF1DX3DZBe6wPMXo.md)
 - [Relaxing Spanish Guitar](/playlists/pretty/37i9dQZF1DX6BbeVFYBeZs.md)
 - [Relaxing Vocal Jazz](/playlists/pretty/37i9dQZF1DX08n7V52Ynyb.md)
+- [Release Radar \(@ajcooke94\)](/playlists/pretty/37i9dQZEVXbh0ciM216Os7.md)
 - [Remembering 2Pac](/playlists/pretty/6vpXSVefNo73POjhwyiWmu.md)
 - [Remix Hits](/playlists/pretty/37i9dQZF1DX7D8GQsPKGvy.md)
 - [Remixes Urbanos](/playlists/pretty/37i9dQZF1DWXbMxJaAyCq1.md)
