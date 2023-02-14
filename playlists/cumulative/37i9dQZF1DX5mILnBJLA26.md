@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=SpN82AmnQFmJzj\-NsDWW9g">Kamo Mphela</a>.
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=sOSAApXATj2ZsVxk64tUbw">Kamo Mphela</a>, <a href="https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC?si=7MsBurh4RaKDvdj\-VivKTQ">Bontle Smith</a> and <a href="https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=lKtO\-MMmScyxbrB73ex09g">Nobantu Vilakazi</a>.
 
 855 songs - 3 day 17 hr 17 min
 

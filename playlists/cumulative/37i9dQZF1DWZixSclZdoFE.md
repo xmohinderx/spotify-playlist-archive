@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-420 songs - 1 day 0 hr 47 min
+421 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [The Only One](https://open.spotify.com/track/5mqzjSnY0IMCRda16ZAi6e) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Jemini the Gifted One](https://open.spotify.com/artist/4UyhNzUvOoBzdjdvoZ9fng) | [Ghetto Pop Life](https://open.spotify.com/album/6Cx77hJLgPUshdlfgljXUD) | 3:17 | 2022-03-15 | 2022-04-21 |
 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 | 2021-12-17 |  |
 | [This Plane](https://open.spotify.com/track/18NezaQ1GIzJkvZx9hG0bX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Deal Or No Deal](https://open.spotify.com/album/1UajesH5Cdq5Ezu3o3f6si) | 3:17 | 2022-04-14 | 2022-04-21 |
-| [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2021-12-17 |  |
+| [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2021-12-17 | 2023-02-14 |
 | [Thug](https://open.spotify.com/track/63aEJ4wsr95XjkvIydKOZG) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Boss of All Bosses](https://open.spotify.com/album/7dZRiNhi3dw5QL6npDmTqi) | 3:50 | 2022-04-14 | 2022-07-15 |
 | [THUG MOTIVATION: 430](https://open.spotify.com/track/5Rg66DxuSKEPXj6mORK8Zc) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [NO ROOFTOPS 2](https://open.spotify.com/album/15IrnmcjoEJrf6ApAIyHO1) | 1:59 | 2022-01-05 | 2022-01-10 |
 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 | 2021-12-17 | 2023-01-29 |
@@ -376,6 +376,7 @@
 | [Tirane London](https://open.spotify.com/track/74kv4QCG9Booi2c1VciEfP) | [Young Zerka](https://open.spotify.com/artist/2a6IKShigz9rPBWN0GWnjr), [OG Merks](https://open.spotify.com/artist/65FW7C2EYbsA20RLHt5y3d) | [Tirane London](https://open.spotify.com/album/6Eg274AVJypFCG3MpEGEHP) | 3:06 | 2022-03-25 | 2022-04-07 |
 | [Too Many Years](https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:16 | 2021-12-17 | 2022-10-06 |
 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:33 | 2021-12-17 | 2023-01-23 |
+| [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:33 | 2022-12-19 |  |
 | [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 | 2021-12-17 |  |
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2022-07-08 |  |
 | [Trap Queen](https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF) | 3:42 | 2022-01-18 | 2022-07-29 |

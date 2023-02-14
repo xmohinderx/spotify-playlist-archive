@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Mon Rov\u00cea | Visual Artist: Bailey Elder",
-  "num_followers": 31137,
+  "num_followers": 31178,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1OTExMCwwMDAwMDAwMGFmZGUyYjgwMTFhZDc3ZGE1ZjVjZTFhMmEyZTQ5YmFi",
+  "snapshot_id": "MTY3NjMwNDE0NCwwMDAwMDAwMGQ2ZmNjMDgzMjg3ZjRhZDJkMjYwNjJkNTIyMWY2MzU0",
   "tracks": [
     {
       "added_at": "2023-02-08 17:00:00",
@@ -55,6 +55,26 @@
       "duration_ms": 108000,
       "name": "Big Love Ahead",
       "url": "https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO"
+    },
+    {
+      "added_at": "2023-02-13 16:02:24",
+      "album": {
+        "name": "multiverse",
+        "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
+      },
+      "artists": [
+        {
+          "name": "Maya Manuela",
+          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
+        },
+        {
+          "name": "PEMBROKE",
+          "url": "https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE"
+        }
+      ],
+      "duration_ms": 179224,
+      "name": "multiverse",
+      "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
     },
     {
       "added_at": "2023-02-08 17:00:00",

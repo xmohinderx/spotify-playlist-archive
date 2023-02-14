@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdcRZAcc2QFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcRZAcc2QFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcRZAcc2QFU)
 
-### [90's Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
+### [90s Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
 
-> Get jiggy with 90s Bollywood\. Cover \- Khalnayak
+> Get jiggy with 90s 'dhinchak' beats\. Cover \- Khalnayak
 
-101 songs - 10 hr 12 min
+102 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kuch Kuch Hota Hai](https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 4:57 | 2021-11-26 | 2023-02-08 |
 | [Kudiyan Shaher Diyan](https://open.spotify.com/track/5iGnt3COYfTRoO7XhYUxmu) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Arjun Pandit](https://open.spotify.com/album/5qpBdTc9eVKJjtXMufjbfQ) | 4:28 | 2023-02-07 |  |
 | [Ladki Badi Anjani Hai](https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 6:21 | 2021-11-26 | 2023-02-08 |
+| [Main Khiladi Tu Anari](https://open.spotify.com/track/75HJYgb0KguhgWBjpx5iWH) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Main Khiladi Tu Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK) | 6:12 | 2023-02-13 |  |
 | [Makhna](https://open.spotify.com/track/5tTe5ITswtzwD11Sp2Kv9L) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Bade Miyan Chote Miyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SZP1rmZ6SLANWNsuml9Dt) | 5:01 | 2023-02-07 |  |
 | [Mera Chand Mujhe Aaya Hai Nazar](https://open.spotify.com/track/1rWwgQziVM0zMtf3H46HYw) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Mr\. Aashiq \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s58QiQqyQ1XjEBmtGR0k7) | 5:51 | 2021-11-26 | 2023-02-08 |
 | [Mera Piya Ghar Aaya](https://open.spotify.com/track/76sqHmy3XbdyiR45aA5bib) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Yaraana](https://open.spotify.com/album/5A4JHfsTfklRxguh2VVysL) | 6:13 | 2023-02-07 |  |
@@ -76,7 +77,7 @@
 | [Paas Woh Aane Lage](https://open.spotify.com/track/2e3Uzf1zknehFO4XyWyLBJ) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Main Khiladi Tu Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK) | 6:11 | 2021-11-26 | 2023-02-08 |
 | [Pehla Nasha](https://open.spotify.com/track/1VrheK4CdhX74nrOSNIFtH) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Jo Jeeta Wohi Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47Hagri5liYQTiUrjnUdLF) | 4:51 | 2021-11-26 | 2023-02-08 |
 | [Pehli Baar Mile Hain](https://open.spotify.com/track/1MVjn7qcDOW4xx4tRnEiDx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Saajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ) | 6:16 | 2021-11-26 | 2023-02-08 |
-| [Pi Pi Piya](https://open.spotify.com/track/2O5Oikwmg0dCUax8i9gKC6) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Prem Deewane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gvu5gbAuT5MgdogUM7n3m) | 7:22 | 2023-02-07 |  |
+| [Pi Pi Piya](https://open.spotify.com/track/2O5Oikwmg0dCUax8i9gKC6) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Prem Deewane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gvu5gbAuT5MgdogUM7n3m) | 7:22 | 2023-02-07 | 2023-02-14 |
 | [Pyaar To Hona Hi Tha](https://open.spotify.com/track/1fWpI0NyM0SDXZpfxy73Kc) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Pyaar To Hona Hi Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pEHb1MG9U5UZJK0rQ2OUX) | 3:07 | 2023-02-07 |  |
 | [Raah Mein Unse Mulaqat](https://open.spotify.com/track/1ZcluxOLEoQEZHp8qsHVe2) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Vijaypath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OtZbFrWjC6wtwaFiJZdr8) | 8:39 | 2021-11-26 | 2023-02-08 |
 | [Raja KO Rani Se](https://open.spotify.com/track/2PfTtvHJHuJhFkEvFZ7jSI) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Akele Hum Akele Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F) | 5:05 | 2021-11-26 | 2023-02-08 |

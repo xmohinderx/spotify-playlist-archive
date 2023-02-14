@@ -2,7 +2,7 @@
 
 ### [Reggaetón Rewind](https://open.spotify.com/playlist/37i9dQZF1DXco4ODkIraMD)
 
-> Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
+> Esos éxitos que todavía quieres seguir escuchando\. Foto: Anuel AA & Bad Bunny
 
 304 songs - 18 hr 35 min
 

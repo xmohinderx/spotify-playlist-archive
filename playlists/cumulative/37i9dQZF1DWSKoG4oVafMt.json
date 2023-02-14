@@ -7649,6 +7649,32 @@
     },
     {
       "album": {
+        "name": "Mallo Malli",
+        "url": "https://open.spotify.com/album/2RnZyLDqMz6Clx2MVGnl2D"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Gaurav Dev",
+          "url": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Mallo Malli",
+      "url": "https://open.spotify.com/track/0z22zBWD8vblkpsm3vf8oa"
+    },
+    {
+      "album": {
         "name": "Management Wali",
         "url": "https://open.spotify.com/album/201sb40iZpGDvRQtOq8NGi"
       },
@@ -11867,6 +11893,28 @@
     },
     {
       "album": {
+        "name": "VIBIN",
+        "url": "https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104006,
+      "name": "SPAIN",
+      "url": "https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6"
+    },
+    {
+      "album": {
         "name": "Stalk",
         "url": "https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid"
       },
@@ -14172,7 +14220,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 142428,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU"

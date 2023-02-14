@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-473 songs - 1 day 5 hr 19 min
+474 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2022-01-27 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2022-01-27 |  |
 | [Change the Whole Thing](https://open.spotify.com/track/41SYWf4AZzsVbPakCgdXJg) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing / Hey Blondie](https://open.spotify.com/album/1jt3dMRUuG64y9YgqRMm2m) | 4:28 | 2022-01-27 | 2022-07-29 |
-| [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-10-28 | 2023-02-12 |
+| [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-10-28 |  |
 | [Chocolate \- Acoustic Version](https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Sex EP](https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM) | 3:58 | 2022-01-27 | 2022-07-28 |
 | [Circle Of Life](https://open.spotify.com/track/7em38Hh2sKwnZ1HDgxvg82) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:50 | 2022-07-08 |  |
 | [Circle Of Life](https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:50 | 2022-01-27 | 2022-07-29 |
@@ -119,7 +119,7 @@
 | [Every Young Boy's Song](https://open.spotify.com/track/3X0kv8WYEVQad30VLOEOEG) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 3:33 | 2022-01-27 | 2022-07-29 |
 | [Every Young Boy's Song](https://open.spotify.com/track/4MRydjNldr8hl3SByudIjL) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/2KpPxIBQNhsehmuRNQo53A) | 3:33 | 2022-07-08 |  |
 | [Everything I Own](https://open.spotify.com/track/1ZgEpCLk5sQcwMSpIpGfiQ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Sold](https://open.spotify.com/album/6B4RhkHgm341clE9eX8x0I) | 3:53 | 2022-01-27 |  |
-| [Everywhere](https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk) | 2:18 | 2022-05-11 |  |
+| [Everywhere](https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk) | 2:18 | 2022-05-11 | 2023-02-14 |
 | [Fallin'](https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:30 | 2022-07-08 |  |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-09-09 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-01-27 |  |
@@ -259,7 +259,7 @@
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2022-01-27 |  |
 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 | 2022-05-11 |  |
 | [Love You For It All](https://open.spotify.com/track/0DaSrvoUmjMCcppS38f87J) | [Daniel Gunnarsson](https://open.spotify.com/artist/3zpsX4Vt8EL5JmRlqiLcmr) | [Love You For It All](https://open.spotify.com/album/3i5FlT7BtZZHUIODyYJznY) | 3:20 | 2022-05-11 | 2022-11-13 |
-| [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 | 2022-01-27 |  |
+| [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 | 2022-01-27 | 2023-02-14 |
 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2022-01-27 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2022-07-08 |  |
 | [Magic](https://open.spotify.com/track/0IvNejD2G2H2pCKQ7l7Itd) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Magic](https://open.spotify.com/album/38VKdIA2ZAd8zgJMWQWfEQ) | 4:05 | 2022-01-27 | 2022-07-29 |
@@ -375,6 +375,7 @@
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-07-08 |  |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2022-01-27 | 2022-07-29 |
 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Best Of Blue](https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL) | 3:30 | 2022-01-27 |  |
+| [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2023-02-14 |  |
 | [Spiral Thinking](https://open.spotify.com/track/12bzFpPYVIXbYuNJIsFmAh) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 3:33 | 2022-10-28 | 2022-11-13 |
 | [Spiral Thinking](https://open.spotify.com/track/2X2Lm8Cvu1bwKJhI01vGfw) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Spiral Thinking](https://open.spotify.com/album/7Ep2hsaXMZfxshejJBzRr6) | 3:33 | 2022-01-27 | 2022-07-29 |
 | [Spoiled](https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:03 | 2022-01-27 |  |

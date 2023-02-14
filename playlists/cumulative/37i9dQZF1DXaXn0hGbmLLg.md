@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: <a href="spotify:artist:5SU9mZVaI9pRXgXmIhG1fL">Blackbird</a>
 
-759 songs - 1 day 16 hr 17 min
+760 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,8 @@
 | [Telkens Weer](https://open.spotify.com/track/7pBkRaZDKMBXLKzXI2R4mL) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [Telkens Weer](https://open.spotify.com/album/55emrgnDUZla0Y1bCR4nkj) | 2:09 | 2022-02-01 | 2022-03-08 |
 | [Tell Me Something](https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV) | [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Tell Me Something](https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe) | 3:41 | 2022-09-06 | 2022-10-05 |
 | [Temporary Gold](https://open.spotify.com/track/6KYqPyUwZ6JGkPCmV5dZ07) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Temporary Gold](https://open.spotify.com/album/6clK9fjJBNAXTrud4P7aqr) | 4:10 | 2022-04-05 | 2022-05-04 |
-| [Temptation](https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Temptation](https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY) | 3:48 | 2023-01-31 |  |
+| [Temptation](https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Temptation](https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY) | 3:48 | 2023-01-31 | 2023-02-14 |
+| [Temptation](https://open.spotify.com/track/4IlSVX6hQjuCXiLFGCYIdg) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Nowhere Near the Sky](https://open.spotify.com/album/3IUhNyQcjQvhcPGufNPgdG) | 3:48 | 2023-01-31 |  |
 | [Ten Onder](https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ten Onder](https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC) | 3:43 | 2022-06-01 | 2022-07-06 |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2023-01-03 | 2023-02-01 |
 | [thank you](https://open.spotify.com/track/12E0kAfZYcYExA0TJ7SWfb) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [SEVENSTAGES](https://open.spotify.com/album/2dmYWC2m8Et4UcBjLiNQY9) | 3:05 | 2021-12-07 | 2022-01-06 |

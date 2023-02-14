@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 61753,
       "name": "blu lxck",
       "url": "https://open.spotify.com/track/6kVpdwcLtkfFDcR9T9Lu9J"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 131253,
       "name": "Boy's a liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -6479,6 +6479,28 @@
     },
     {
       "album": {
+        "name": "Lekkere Boterham",
+        "url": "https://open.spotify.com/album/1eT9ndZ7zVecwXFXipQRdC"
+      },
+      "artists": [
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120433,
+      "name": "Lekkere Boterham",
+      "url": "https://open.spotify.com/track/1xQ7uibzjdYQ0UsIKhdF5E"
+    },
+    {
+      "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
       },
@@ -9408,7 +9430,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -9952,10 +9974,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 151000,
       "name": "Pri Tebe",
       "url": "https://open.spotify.com/track/6vPThAX67MYWIl0nB1fa4J"
+    },
+    {
+      "album": {
+        "name": "FR\u00cd DOM",
+        "url": "https://open.spotify.com/album/1UROFg5eknb2TB0PBz2y6E"
+      },
+      "artists": [
+        {
+          "name": "DJ Prod",
+          "url": "https://open.spotify.com/artist/0EjpwNJJ7w0TfwmO6iux9h"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Pri Tebe",
+      "url": "https://open.spotify.com/track/5mkLV5W9LfRR1IVXVRS3d1"
     },
     {
       "album": {
@@ -13680,7 +13720,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 196470,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"

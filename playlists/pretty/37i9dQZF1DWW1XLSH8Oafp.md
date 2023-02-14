@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,187 likes - 109 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,298 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 21 | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/track/593Ul2Jp3P86EXlJy0VTBI) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/album/0LmLxx4DrTEScurfaFF0E9) | 2:33 |
 | 22 | [hit me + !](https://open.spotify.com/track/6Eq5W6hYnFN33cj56sPQAy) | [Staggr](https://open.spotify.com/artist/6A11NuiwiG0h9xky3bbW1g) | [hit me + !](https://open.spotify.com/album/7oT3URKnCgzLOXPb8JXAma) | 1:24 |
 | 23 | [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [slept on the floor still dreamt about you](https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S) | 1:33 |
-| 24 | [ride like that](https://open.spotify.com/track/7qcLil8IUn5THEKdwE8iR9) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [L.A\. Rochelle](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv) | [ride like that](https://open.spotify.com/album/4TiXClcfy7M5Fv1AVFSRh0) | 2:01 |
+| 24 | [ride like that](https://open.spotify.com/track/7qcLil8IUn5THEKdwE8iR9) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [L.A\. Rochelle](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv) | [ride like that](https://open.spotify.com/album/4TiXClcfy7M5Fv1AVFSRh0) | 2:01 |
 | 25 | [pls \(−\_−;\)](https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [pls \(−\_−;\)](https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx) | 2:06 |
 | 26 | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/4WFWaNt3YlOYbqjeaSPo6q) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/album/6zCqTsJiwNIyhcJSaHVEzO) | 3:48 |
 | 27 | [your love](https://open.spotify.com/track/7666mOSUvHVcc7CJ0TaDq7) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/3qgDicGJlPlPPJI4ISKGnh) | 2:34 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Vargas",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dizzy Dros",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 203076,
       "name": "KOUN RAJEL",
       "url": "https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t"
@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
+    },
+    {
+      "album": {
         "name": "MACHAKIL",
         "url": "https://open.spotify.com/album/67myjm0ApsCdgyBAiVFQ1x"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 205635,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/7oUQHfIkiTqyd0cNUb0Mnn"
@@ -1569,7 +1587,7 @@
       "artists": [
         {
           "name": "Draganov",
-          "url": "https://open.spotify.com/artist/64WRdmQyLyk1ldW2FN8Kyp"
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
       "date_added": "2023-02-11",

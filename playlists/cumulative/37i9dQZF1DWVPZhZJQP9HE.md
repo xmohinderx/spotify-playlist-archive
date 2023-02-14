@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-338 songs - 20 hr 12 min
+339 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Azhagaai](https://open.spotify.com/track/1MIPmljysSLID51OCYEVK2) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Azhagaai](https://open.spotify.com/album/6h0Gms0Q7pWShPRYUEZJI7) | 3:54 | 2022-08-05 | 2023-02-07 |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2022-12-23 |  |
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-01-27 |  |
+| [Azhagey \(feat\. Sabari\)](https://open.spotify.com/track/5Ke6Hvqn6fcU8fxSd7t2oE) | [Seenu](https://open.spotify.com/artist/3jh8GRVW21JExPQkz0CigQ), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K), [Sabari](https://open.spotify.com/artist/0A7Rv5nsSaOgOMrDoYQTwS) | [Azhagey \(feat\. Sabari\)](https://open.spotify.com/album/2JMponCkHrj6wk8rqxc2nJ) | 3:37 | 2023-02-13 |  |
 | [Baby Nee Sugar](https://open.spotify.com/track/4nCkx9c5ctpOimGvXRHKDH) | [Osho Venkat](https://open.spotify.com/artist/4z1Pb5nNxIT4c9nEr66523) | [Baby Nee Sugar](https://open.spotify.com/album/0JBO23CAuzr2iNN5X9knik) | 3:53 | 2022-03-31 | 2023-02-07 |
 | [Badhil Adi \- SKODA Deccan Beats](https://open.spotify.com/track/3ICLwSAqpt75ypmWlBJyLf) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Badhil Adi \(SKODA Deccan Beats\)](https://open.spotify.com/album/5bfvG6VTedMpRIn77eixDn) | 2:52 | 2022-09-30 |  |
 | [Bandaid](https://open.spotify.com/track/3UQt4q2ewvcmpA4C95SO0s) | [Akash Rapstar](https://open.spotify.com/artist/4LPgkuqq513xgsAHQZoEsE), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Bandaid](https://open.spotify.com/album/5GRbMklkEaJY3cKjmjPnR1) | 2:52 | 2022-06-15 | 2022-07-15 |

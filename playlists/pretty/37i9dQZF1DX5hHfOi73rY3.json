@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 250419,
+  "num_followers": 250533,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGE5ZDBkYjg0NjI4MjVlMGJjOTM3ZTFlOTk3NDY4NDY1",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMDkzNDI2YjRiN2FlN2VjMTJjNWE0NzhhYzVmMGIzMWVm",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -891,22 +891,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "8-track",
-        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 275806,
-      "name": "Buggin' - Edit",
-      "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
     }
   ],
   "unique_name": "Warehouse Party",

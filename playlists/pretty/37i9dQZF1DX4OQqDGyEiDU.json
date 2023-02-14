@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 57743,
+  "num_followers": 57821,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NjE3NSwwMDAwMDAwMDVhZTMzYTY2Yjc4ZDdhMzcxNDU2MjMyZjYwZjc1YzQy",
+  "snapshot_id": "MTY3NTk1NjE3NSwwMDAwMDAwMDU1NmFlYzgwMWUwZTUyZDU0MDNhNWY5MmEzYzJkOGNj",
   "tracks": [
     {
       "added_at": "2023-02-09 15:22:55",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-02-09 15:22:55",
       "album": {
-        "name": "\u30d9\u30ce\u30e0",
-        "url": "https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v"
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
       },
       "artists": [
         {
-          "name": "Kairikibear",
-          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
-        },
-        {
-          "name": "flower",
-          "url": "https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY"
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
         }
       ],
-      "duration_ms": 203033,
-      "name": "\u30d9\u30ce\u30e0",
-      "url": "https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA"
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2023-02-09 15:22:55",
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-02-09 15:22:55",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+        "name": "\u30d9\u30ce\u30e0",
+        "url": "https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v"
       },
       "artists": [
         {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+          "name": "Kairikibear",
+          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
+        },
+        {
+          "name": "flower",
+          "url": "https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY"
         }
       ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+      "duration_ms": 203033,
+      "name": "\u30d9\u30ce\u30e0",
+      "url": "https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA"
     },
     {
       "added_at": "2023-02-09 15:22:55",

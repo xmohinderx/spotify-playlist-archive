@@ -1,28 +1,44 @@
 {
   "description": "All new, all blues. Cover: Eric Bibb",
-  "num_followers": 128169,
+  "num_followers": 128199,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDU1YWM5Y2NlYjI5NDQxODVmMjM4NGY5YWU1NTEyNzk1",
+  "snapshot_id": "MTY3NjMxODI0OCwwMDAwMDAwMGMwMjQ2OWJhZGEwNDMxZTc1NjFjMzE5Y2U5MWMyNDJk",
   "tracks": [
     {
-      "added_at": "2023-02-03 05:01:00",
+      "added_at": "2023-02-13 19:57:28",
       "album": {
-        "name": "Grandfather Courage (Acoustic)",
-        "url": "https://open.spotify.com/album/6sM7djEM6jfXIo1TpDgYZj"
+        "name": "I've Got To Use My Imagination",
+        "url": "https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         }
       ],
-      "duration_ms": 249337,
-      "name": "They Go Low - Acoustic",
-      "url": "https://open.spotify.com/track/5aKArVxYbCjkJrUIHfLKCo"
+      "duration_ms": 305773,
+      "name": "I've Got To Use My Imagination",
+      "url": "https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a"
+    },
+    {
+      "added_at": "2023-02-13 19:57:28",
+      "album": {
+        "name": "Hole in my Pocket",
+        "url": "https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 258340,
+      "name": "Hole in my Pocket",
+      "url": "https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -55,6 +71,22 @@
       "duration_ms": 257726,
       "name": "Flying #evolution",
       "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
+    },
+    {
+      "added_at": "2023-02-13 19:57:28",
+      "album": {
+        "name": "Nelson's Blood",
+        "url": "https://open.spotify.com/album/50f3dw8zYLCtkKyioMd1Qq"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 189104,
+      "name": "Nelson's Blood",
+      "url": "https://open.spotify.com/track/2eq0XUQt3n6IvnDmnmhLit"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -131,6 +163,22 @@
       "duration_ms": 257377,
       "name": "Bad to the Bone - Extended Version",
       "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
+    },
+    {
+      "added_at": "2023-02-13 19:57:28",
+      "album": {
+        "name": "Rob & Steal",
+        "url": "https://open.spotify.com/album/3rhQ4CWzaLuYdZFsGPTeP2"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/1GGf6x5AG09cZo9sDRnhAA"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Rob & Steal",
+      "url": "https://open.spotify.com/track/5sSIvAgFY8I2t4zfUxksyc"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -335,6 +383,22 @@
       "duration_ms": 298773,
       "name": "I'll Be Glad",
       "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "They Go Low",
+        "url": "https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 222685,
+      "name": "They Go Low",
+      "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -573,22 +637,6 @@
       "url": "https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "We Need To Talk About It",
-        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 173678,
-      "name": "We Need To Talk About It",
-      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "State of Mind",
@@ -647,22 +695,6 @@
       "duration_ms": 248051,
       "name": "What's Real",
       "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "They Go Low",
-        "url": "https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 222685,
-      "name": "They Go Low",
-      "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -961,22 +993,6 @@
       "url": "https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Biggest Little Secret",
@@ -995,22 +1011,6 @@
       "duration_ms": 239995,
       "name": "Biggest Little Secret",
       "url": "https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "NOT A GOOD MAN WALKING",
-        "url": "https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 176923,
-      "name": "NOT A GOOD MAN WALKING",
-      "url": "https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1329,42 +1329,6 @@
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Me to You",
-        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Keep My Cool",
-      "url": "https://open.spotify.com/track/4vEaaqaOh7Aw7cHw7U9enA"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Black Myself (Moby Remix)",
-        "url": "https://open.spotify.com/album/2oGUlPd9ApyNUoMbJReSBR"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 220340,
-      "name": "Black Myself - Moby Remix",
-      "url": "https://open.spotify.com/track/2lqhbXBX8XZujQLHZBHd3b"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "Play Loud",
@@ -1451,22 +1415,6 @@
       "duration_ms": 272274,
       "name": "The City Streets (Ps.23)",
       "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228795,
-      "name": "Cheats and Liars",
-      "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
     },
     {
       "added_at": "2021-09-03 04:01:00",

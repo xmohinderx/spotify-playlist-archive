@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-130 songs - 10 hr 17 min
+131 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Free](https://open.spotify.com/track/45gL725w0jjpRv2L6QbR84) | [Turning Torso](https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ) | [Apex](https://open.spotify.com/album/4xCHCE076GPoH7pW287i9Q) | 4:37 | 2022-05-06 | 2022-07-26 |
 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 | 2022-05-06 |  |
 | [Gut Ritual](https://open.spotify.com/track/2N5ioUhGReJBPPwBvd55nR) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [War Bride](https://open.spotify.com/album/4KudgFUONq9jrTsaClDhcW) | 4:59 | 2022-05-06 | 2022-07-25 |
-| [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 | 2022-12-21 |  |
+| [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 | 2022-12-21 | 2023-02-14 |
 | [Human Error](https://open.spotify.com/track/1jNC3rPrDeILvM5jZsCIwu) | [Fausto](https://open.spotify.com/artist/7kfU3vFpXP8Hu8DSBXmCyG) | [Human Error](https://open.spotify.com/album/3YhLKZ6WOFQRSc8fwQi5c0) | 5:27 | 2022-05-06 | 2022-07-27 |
 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 | 2022-08-03 |  |
 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 | 2022-05-06 | 2022-07-29 |
@@ -66,6 +66,7 @@
 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Subxet](https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 | 2022-12-21 |  |
 | [Individuality Riddim](https://open.spotify.com/track/0uAPaQlQFqpx5co0hPR10Y) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/1qCfqGZ5gtKHZrijIEkhCX) | 6:38 | 2022-05-06 | 2022-07-28 |
 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 | 2022-05-06 |  |
+| [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 | 2023-02-14 |  |
 | [Isla](https://open.spotify.com/track/5jM0IYAc7Sz2jq7L7KM2p2) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 3:24 | 2022-05-06 | 2022-07-29 |
 | [Jedoma](https://open.spotify.com/track/5tWBR6gv0uQEO0VIVyf5sn) | [Radeco Domar](https://open.spotify.com/artist/7Dut2N3GIoxHAkAk1HX3PK) | [Jedoma](https://open.spotify.com/album/7AfPYdvCoECuc4sFvkYlLJ) | 3:36 | 2022-05-06 | 2022-07-20 |
 | [Jungla](https://open.spotify.com/track/4GMCUbthQdoVFsCsNeB3EH) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Jungla](https://open.spotify.com/album/5U5MBqjOBm11RKao6KxX0Q) | 3:58 | 2022-05-06 | 2022-07-29 |

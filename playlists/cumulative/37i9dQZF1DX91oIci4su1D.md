@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-521 songs - 1 day 8 hr 6 min
+522 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Magnolia](https://open.spotify.com/track/3d8VindlGRe4A5ymdiewZg) | [Fehrplay](https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF) | [Magnolia EP](https://open.spotify.com/album/40AhUh9P55CSo5RefNudwK) | 2:56 | 2022-04-01 | 2022-04-16 |
 | [Magnolia](https://open.spotify.com/track/6UMGvMLgcqpB9TxSKYvf2j) | [Kanallia](https://open.spotify.com/artist/2U9oSjcKWylpCn4Xl7QuBH) | [Magnolia / Nymphaea](https://open.spotify.com/album/3EmdlpBlWI7ceyVPEzAsqV) | 3:06 | 2021-12-17 | 2022-06-20 |
 | [Magnum Opus](https://open.spotify.com/track/3g2Pv24yQKfRCZ2UFKhmXe) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Magnum Opus](https://open.spotify.com/album/64feelf7IFO2CXezZabhHd) | 3:33 | 2022-04-22 |  |
+| [Mainframe](https://open.spotify.com/track/5fWIe5lL4T7ra5IEcc3Xrb) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Mainframe](https://open.spotify.com/album/0dMRLwy0cyyPbHqQln3OLU) | 3:44 | 2023-02-10 |  |
 | [Make It To Tomorrow \- Alexander Popov Remix](https://open.spotify.com/track/4AgStLc2L4VrE7wVGSz5ew) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7) | [Make It To Tomorrow \(Alexander Popov Remix\)](https://open.spotify.com/album/0YSCMZZc8ObKJYpx4j68p6) | 3:12 | 2022-03-11 |  |
 | [Make U Mine](https://open.spotify.com/track/5BiRPLMcYMNgbb0oHrqwCj) | [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [Make U Mine](https://open.spotify.com/album/4bDRa9nAqG7B9pBCOqVRRo) | 3:11 | 2022-01-28 |  |
 | [Malfunction](https://open.spotify.com/track/0XhzCSC06CIvr3j5Ycl7q4) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Malfunction](https://open.spotify.com/album/4bqFd4M0jmJVrnv0JC9Xy7) | 2:38 | 2021-12-17 | 2022-10-01 |
@@ -474,7 +475,7 @@
 | [The Perfect Storm](https://open.spotify.com/track/6G3brJYNiN6OwHteVwsY1n) | [NoMosk](https://open.spotify.com/artist/4vxZWI0BIvfEPY4wLpWIzi) | [The Perfect Storm](https://open.spotify.com/album/4kSNwJDgOwdHuTPLdlFVW4) | 3:59 | 2022-02-18 | 2022-09-27 |
 | [The Promised Land](https://open.spotify.com/track/1mXzTgPxvbH7KefjLDj2Zt) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Rraw!](https://open.spotify.com/artist/4zaG29y87NmLegM9vz0yNw) | [The Promised Land](https://open.spotify.com/album/6nTAELN3xGKVO7rz6j6hkp) | 3:26 | 2022-11-25 | 2023-01-20 |
 | [The Purpose Is You](https://open.spotify.com/track/0A2CCIN1vmLwySJgmH8RXi) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [The Purpose Is You](https://open.spotify.com/album/37ZYpN6VlvKlQClHxYZHtC) | 4:28 | 2021-12-17 | 2023-01-14 |
-| [The Sermon](https://open.spotify.com/track/7LGzutkISUMIrN4txTvYkg) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [The Sermon](https://open.spotify.com/album/6ZzZiPsh651XKEGgPGYKlS) | 3:54 | 2022-07-22 |  |
+| [The Sermon](https://open.spotify.com/track/7LGzutkISUMIrN4txTvYkg) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [The Sermon](https://open.spotify.com/album/6ZzZiPsh651XKEGgPGYKlS) | 3:54 | 2022-07-22 | 2023-02-14 |
 | [The Wave](https://open.spotify.com/track/4LqFGYtqOm4Jf6BDedewBq) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [The Wave](https://open.spotify.com/album/6ULWukeV1aKc2B1hUpJ3bt) | 3:35 | 2022-06-17 | 2022-06-22 |
 | [The Wind in Your Face](https://open.spotify.com/track/4RERO3pHGa0M48863ndJB9) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [The Wind in Your Face](https://open.spotify.com/album/7s7TIvQnePhDTy8wmozDFg) | 4:06 | 2021-12-17 | 2022-07-29 |
 | [This Is Not The End](https://open.spotify.com/track/4nM12eRb7k6pylJGGivAQp) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Roddy Woomble](https://open.spotify.com/artist/313Xqjb7z7JBYcHgWiLvUv) | [This Is Not The End](https://open.spotify.com/album/43UWsAliOiQaroBO1H0aNl) | 3:18 | 2022-04-22 | 2022-12-10 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-306 songs - 17 hr 52 min
+307 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 | 2022-02-04 |  |
 | [Gumbo](https://open.spotify.com/track/1jNKPJk2YBNTqPI18WNK1F) | [Manast LL'](https://open.spotify.com/artist/4QlK9TAWuQCx1kO0P0pWIs), [Tony Stone](https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn), [Rizzy Wallace](https://open.spotify.com/artist/2YeS5Cbz7d2NIjPeh3su3q) | [The Gumbo Tape](https://open.spotify.com/album/5RmiF4fWu9fWRtSEykeiN0) | 3:09 | 2022-02-04 |  |
 | [Handle Me Meat](https://open.spotify.com/track/4iftvpjOFBxmT0U24hoR09) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/2x8YlD5zo7g1wfkCKbiP2D) | 2:18 | 2022-10-27 |  |
+| [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 | 2022-10-27 |  |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-10-27 | 2023-02-03 |
-| [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2022-10-27 |  |
+| [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2022-10-27 | 2023-02-14 |
 | [He Be Like](https://open.spotify.com/track/1jdY3EkXOaCZQVZNohFodF) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [4 da 304’s](https://open.spotify.com/album/5N6520vpd3Nj66r18wlU4s) | 3:12 | 2022-02-04 | 2022-10-28 |
 | [Hellraiser XXX](https://open.spotify.com/track/6upzVdL5cvkIpJBveed0NJ) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Hellraiser XXX](https://open.spotify.com/album/0J7VDGjrQi9tIQAMq2ySIH) | 4:03 | 2022-02-04 | 2022-10-28 |
 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 | 2022-02-04 | 2022-11-19 |

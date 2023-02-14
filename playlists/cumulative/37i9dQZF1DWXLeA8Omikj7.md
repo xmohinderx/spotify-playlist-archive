@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-780 songs - 2 day 7 hr 49 min
+781 songs - 2 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Annica](https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Annica](https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW) | 2:55 | 2021-07-05 |  |
 | [Anticipation](https://open.spotify.com/track/5an1Uuam32mHLQxtTuoSRB) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Elliot Berger](https://open.spotify.com/artist/3DVo02zCQ7iZKujFgRLMXL) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 4:08 | 2019-05-26\* | 2022-04-21 |
 | [Approaching Summer](https://open.spotify.com/track/4os6s7sgqVGHZ5AsBqaCl0) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Approaching Summer](https://open.spotify.com/album/3Dv3zNkhOUQXmeUN28UIm5) | 2:27 | 2019-06-19\* | 2020-10-22 |
-| [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-24 |  |
+| [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-24 | 2023-02-14 |
 | [Aquatic Ambience](https://open.spotify.com/track/3zF1RvARE71MBXeWETPoEk) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Aquatic Ambience](https://open.spotify.com/album/2vVrBHREP6fcU0yd998jok) | 3:14 | 2019-06-19\* |  |
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2019-06-19\* | 2020-10-22 |
 | [Arcoíris](https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:13 | 2021-09-17 | 2022-07-27 |
@@ -347,7 +347,7 @@
 | [Imagination](https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Imagination](https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo) | 5:49 | 2021-04-24 | 2022-06-27 |
 | [Immersion](https://open.spotify.com/track/1fchgXINtcQqZRAjKicdzz) | [Jaffna](https://open.spotify.com/artist/1BpJSVWvzT2RRGlZfHfR4x) | [Ripples](https://open.spotify.com/album/5YjJMwY5VseinGXH0QxmOm) | 3:18 | 2019-06-19\* | 2020-08-26 |
 | [In Peace](https://open.spotify.com/track/7f0821iahFxsysdLDZ5wHZ) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Winter](https://open.spotify.com/album/3IvI5Kjnz66uRRcjNcuzwl) | 2:18 | 2020-04-22 | 2020-10-22 |
-| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 | 2023-02-12 |
+| [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 | 2021-07-23 |  |
 | [In The Sea \(Drowned\)](https://open.spotify.com/track/4ogi00gtqhx3THnzt205jj) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Lost and Found](https://open.spotify.com/album/4iduGBflFC8GTtX9fpfX7t) | 11:14 | 2020-04-22 | 2020-10-22 |
 | [In This Together](https://open.spotify.com/track/0FIN5jPkLUjUGRVfmjbTI5) | [Flowen](https://open.spotify.com/artist/6S4jzHRBwIKZw9vlUoKayG) | [In This Together](https://open.spotify.com/album/223fs67KiMNr8RGjKz7KDK) | 2:37 | 2019-06-19\* | 2020-10-21 |
 | [Indian Summer](https://open.spotify.com/track/4u2RPCt1DdZuGgRvfvnEgb) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/4sv5wZjZMPWQ9KvZ6PQZzQ) | 4:08 | 2019-05-26\* | 2020-08-26 |
@@ -526,6 +526,7 @@
 | [Plantas Falsas](https://open.spotify.com/track/7fM8Y18DzAoNiDOv2ZGyJm) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:13 | 2019-06-19 | 2020-10-19 |
 | [Please](https://open.spotify.com/track/5JJDJ3AOd2tX1XjmH01COH) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Please](https://open.spotify.com/album/4tmHY5JBpYbGqryPBpJHgC) | 5:06 | 2020-10-30 | 2022-04-21 |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-02-25 | 2022-04-06 |
+| [Pluto](https://open.spotify.com/track/1od796XIEOAsfGEnUxAzGG) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Pluto](https://open.spotify.com/album/6gKmWARjknIU3EozW3pSPF) | 3:16 | 2023-02-07 |  |
 | [Pluto](https://open.spotify.com/track/4v2qF5diFRuFbTVHwZxNMp) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Pluto](https://open.spotify.com/album/4kYiNJPycfJZ3ZwBPzIWkt) | 3:16 | 2019-05-26\* | 2022-04-17 |
 | [Polar Light](https://open.spotify.com/track/5WrEKQ24ErKCUmr85a1t9f) | [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX) | [Tell Me](https://open.spotify.com/album/0jKHMxCcMBVTg7rVkzQzoH) | 5:38 | 2019-05-26\* | 2020-08-26 |
 | [Polaris](https://open.spotify.com/track/6Qng1hawspj0ddyexe0IHV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [We Are Friends, Vol\. 6](https://open.spotify.com/album/04EzEYc1Q1YHeDMxQAJR2P) | 9:45 | 2019-06-21 | 2020-08-26 |
@@ -736,7 +737,7 @@
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2019-05-26\* | 2022-04-21 |
 | [Ultra Marine](https://open.spotify.com/track/2LJvEAXalgDaUvIKELmP8x) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ultra Marine](https://open.spotify.com/album/16gfRtrbf4rErMfnQj6wRW) | 3:58 | 2021-01-16 | 2022-07-27 |
 | [Una Mattina](https://open.spotify.com/track/13AAovcay1SAw6EQuy9APc) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Una Mattina](https://open.spotify.com/album/2m4Kq6K36jpVNtSn2wQ7nn) | 1:48 | 2022-09-09 | 2022-11-14 |
-| [Una Mattina](https://open.spotify.com/track/61It0RwIboh4FD70zzTUoS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:48 | 2022-07-01 |  |
+| [Una Mattina](https://open.spotify.com/track/61It0RwIboh4FD70zzTUoS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:48 | 2022-07-01 | 2023-02-14 |
 | [Una Mattina](https://open.spotify.com/track/0BwqbV9rOnIZ1gSPTQbM3v) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Una Mattina](https://open.spotify.com/album/7kiWzbIU9fiB6dfOxKJAxl) | 1:48 | 2020-11-13 | 2022-04-19 |
 | [Unchained](https://open.spotify.com/track/6xAzjMg1rOv3amGihpzMw6) | [Catalon Tech](https://open.spotify.com/artist/03YgCJsrunICJVWiJpAnVy) | [Unchained](https://open.spotify.com/album/6xb5NzrQizO76iPRGlukoj) | 3:42 | 2019-06-19\* | 2020-10-22 |
 | [Unfamiliar](https://open.spotify.com/track/5N4zbU92aLx9Wrn16isoo8) | [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Alliance](https://open.spotify.com/album/6xEnoM0Mx27MTb4O5GF3V1) | 4:22 | 2021-06-10 | 2022-07-12 |

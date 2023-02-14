@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-140 songs - 9 hr 1 min
+141 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Good 4 Me](https://open.spotify.com/track/62gZS4H4ujfLXUSnr5aA85) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 3:24 | 2022-09-08 | 2022-11-11 |
 | [Got Em \(Sango Remix\)](https://open.spotify.com/track/42HJvTZUDb2gcbSOKevQI8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 3:41 | 2022-11-04 |  |
 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 | 2022-09-08 | 2022-11-11 |
+| [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 | 2023-02-09 |  |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-11-19 | 2023-02-03 |
-| [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2023-01-30 |  |
+| [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2023-01-30 | 2023-02-14 |
 | [Harder \(Shermanology Remix\)](https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Harder \(With Busta Rhymes\) \- Shermanology Remix](https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2) | 6:31 | 2022-10-27 | 2022-11-20 |
 | [Higher \- Benny T Mix](https://open.spotify.com/track/6OquvZzu2rxDicHVRoIhkq) | [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY), [Benny T](https://open.spotify.com/artist/0r2Hobrhm5Z7BLsQvwt1Pp) | [Higher](https://open.spotify.com/album/6n1LP56vBVnMloxVu3AUrL) | 7:25 | 2023-02-09 |  |
 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 | 2022-09-08 | 2022-12-02 |

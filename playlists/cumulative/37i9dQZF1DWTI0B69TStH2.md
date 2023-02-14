@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sonia pisze piosenki \| Playlista odświeżana w każdą środę.
 
-772 songs - 1 day 20 hr 51 min
+773 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,8 @@
 | [patrz pod nogi](https://open.spotify.com/track/5jn46we4JKO1hAZMS2DP4U) | [YASNO.](https://open.spotify.com/artist/5JeULU8rnukUiPQFAA8Q24) | [patrz pod nogi](https://open.spotify.com/album/6ePK5rc2ZeLTjA1VwCo84z) | 3:44 | 2022-08-29 | 2022-10-04 |
 | [Pech](https://open.spotify.com/track/0jtUmYFcAdtNGYDISfzM0t) | [pawlack](https://open.spotify.com/artist/4haIEVW7UmdASyascyUk3t) | [Pech](https://open.spotify.com/album/2K1UWwRPqtz2tnACV621Y3) | 3:35 | 2022-11-07 | 2022-12-01 |
 | [Penga Hajs](https://open.spotify.com/track/4hz6Cb3wWnrO4yibYdDTKt) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD), [BLOND 16](https://open.spotify.com/artist/7M7SClIkMjIZdbNJeFPqJn) | [Penga Hajs](https://open.spotify.com/album/2BDNfaZQtZVGglfKJiAwX2) | 3:09 | 2022-05-23 | 2022-06-21 |
-| [Peron](https://open.spotify.com/track/7FnGbdCpgtd3qpveOOeHfi) | [Misery Joy](https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo) | [Peron](https://open.spotify.com/album/6XmEvckv7cQ0NnAtCbNQsN) | 3:41 | 2023-01-10 |  |
+| [Peron](https://open.spotify.com/track/0jORxsvmrI2C2OzINhMaS1) | [Misery Joy](https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo) | [Peron](https://open.spotify.com/album/6UggltNUGkfMI1SgzDWk1q) | 3:41 | 2023-02-07 |  |
+| [Peron](https://open.spotify.com/track/7FnGbdCpgtd3qpveOOeHfi) | [Misery Joy](https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo) | [Peron](https://open.spotify.com/album/6XmEvckv7cQ0NnAtCbNQsN) | 3:41 | 2023-01-10 | 2023-02-14 |
 | [pictures](https://open.spotify.com/track/6YhLeRcdcjZpr1IAObs42S) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [pictures](https://open.spotify.com/album/03uOTdsfSlATsmucDGRvF2) | 3:11 | 2022-10-17 | 2023-01-11 |
 | [Pies](https://open.spotify.com/track/0ixMG4EKX6j7T14Au0pmAn) | [Mortas](https://open.spotify.com/artist/3jmw0cygDmSIPli8YbHmhd) | [Pies](https://open.spotify.com/album/62GrRDi98XJChJaEKYAabo) | 3:19 | 2023-01-24 |  |
 | [Piosenka noworoczna](https://open.spotify.com/track/7eeh7u3IzNkkYuCedwuCNd) | [Ranko Ukulele](https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC) | [Piosenka noworoczna](https://open.spotify.com/album/04VrZUlhQIXJfXhBzlnl1s) | 3:15 | 2022-07-11 | 2022-09-13 |

@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-140 songs - 8 hr 53 min
+141 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-10-08 | 2022-10-13 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2022-10-08 |  |
 | [Please Stay](https://open.spotify.com/track/7qAKvYovBPy0xYHhTPDvzx) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/2La7xTAa08WD8tdexulTGi) | 3:44 | 2021-01-25 | 2022-07-29 |
-| [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 | 2021-01-25 |  |
+| [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 | 2021-01-25 | 2023-02-14 |
+| [Please Stay](https://open.spotify.com/track/78iOQlrQHIglLkFDBUl28s) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/47SfPx3JFm4MxQZ3wEHrOO) | 3:44 | 2022-12-29 |  |
 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/6GRKTZWLyVSgHkXljLieMw) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Rather Be \(Acoustic Version\)](https://open.spotify.com/album/6A5p2vHqntNxFkQH3BSKGY) | 2:52 | 2021-01-25 | 2022-07-29 |
 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/70xYJHdWmz19ahK7emfqQi) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 1](https://open.spotify.com/album/7k0NBsULw2oXznJTpk3LFl) | 2:52 | 2021-01-25 | 2022-10-09 |
 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 | 2022-12-29 |  |

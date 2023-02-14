@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > 
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 179 songs - 10 hr 43 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 181 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 177 | [castle in the sky](https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:56 |
 | 178 | [wallflower](https://open.spotify.com/track/6ZB7xRozXGI5fBm3NtRhXL) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [smiling in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:50 |
 | 179 | [優しい恋人](https://open.spotify.com/track/20RdpyzBu94gLDFKYBtjBN) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [優しい恋人](https://open.spotify.com/album/0dpDAp1m2GCI9bZenj8Pb0) | 5:42 |
+| 180 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 |
+| 181 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
 
-Snapshot ID: `Mjc4LGI2NzU4ZTdmNzhkM2M5ZTg0Y2VmMzNkNTdjNTM4ODY5NTMxMTg0MTA=`
+Snapshot ID: `MjgwLDQ2MWFiY2Y5MWJkYmQzYjlkOTAwN2ZhMWEzNjBiY2VjY2U2NmQ5ZDE=`

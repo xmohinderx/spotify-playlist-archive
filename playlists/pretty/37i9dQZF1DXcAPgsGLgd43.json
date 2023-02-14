@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2598,
+  "num_followers": 2603,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGY2M2YxODAxNGNiNTZiMTllYTQyODQwYWYxMjkwYmMy",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDgxN2YwODQ5ZDFhZWQ0MmRlZGUwOWU5ODQ3OGI2YzM2",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -307,26 +307,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
-      },
-      "artists": [
-        {
-          "name": "Rene Rodrigezz",
-          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
-        },
-        {
-          "name": "Yellow Is The New White",
-          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Magalenha (feat. Sergio Mendes)",
         "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 209551,
       "name": "Magalenha (feat. Sergio Mendes)",
       "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
+      },
+      "artists": [
+        {
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
+        },
+        {
+          "name": "Yellow Is The New White",
+          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -487,6 +487,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Tribesmen",
         "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 366093,
       "name": "Quiribi - Yamil Remix",
       "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -611,30 +611,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
-      },
-      "artists": [
-        {
-          "name": "Michael Mendoza",
-          "url": "https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2"
-        },
-        {
-          "name": "Steve Andreas",
-          "url": "https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Dame",
         "url": "https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 214969,
       "name": "Dame",
       "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
+      },
+      "artists": [
+        {
+          "name": "Michael Mendoza",
+          "url": "https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2"
+        },
+        {
+          "name": "Steve Andreas",
+          "url": "https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -725,6 +725,30 @@
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
     },
     {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Umoja",
@@ -757,28 +781,24 @@
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+        "name": "Cuban Riddim",
+        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+      "duration_ms": 167619,
+      "name": "Cuban Riddim",
+      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -815,6 +835,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Villanueva",
+          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Calle ft. Villanueva",
+      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
       },
@@ -843,46 +883,6 @@
       "duration_ms": 195000,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Villanueva",
-          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Calle ft. Villanueva",
-      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Cuban Riddim",
-        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Cuban Riddim",
-      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-11-05 06:05:00",

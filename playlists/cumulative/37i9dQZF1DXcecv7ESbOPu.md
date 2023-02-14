@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-6,407 songs - 13 day 21 hr 25 min
+6,408 songs - 13 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2244,7 +2244,8 @@
 | [Gähda \- Extended Version](https://open.spotify.com/track/0PSpdRjJBjj3rRUTBoNICi) | [Adis](https://open.spotify.com/artist/4mzjimF31WZY4ufszXpq3I), [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Gähda \(Extended Version\)](https://open.spotify.com/album/6cRdaHz7CjbBMHrY7P0bvc) | 2:31 | 2022-09-29 | 2022-10-07 |
 | [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 | 2022-04-14 | 2022-04-22 |
 | [Går emot dig](https://open.spotify.com/track/66R8sysdfG2DHJhcq68c2x) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9) | [Går emot dig](https://open.spotify.com/album/1aDuEyC9hNWTMFDzFi1Ejx) | 2:45 | 2022-10-20 | 2022-10-28 |
-| [Går på moln](https://open.spotify.com/track/0nrT2Vo2gvKTDVvU6pt3vr) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/4Zrd2ewQwwuD79pFUFr42y) | 2:53 | 2023-02-09 |  |
+| [Går på moln](https://open.spotify.com/track/0nrT2Vo2gvKTDVvU6pt3vr) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/4Zrd2ewQwwuD79pFUFr42y) | 2:53 | 2023-02-09 | 2023-02-14 |
+| [Går på moln](https://open.spotify.com/track/6Hw7JFotTmhWdK2icPSaoT) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/5VR9DGZJqznBAYNECx1A1S) | 2:53 | 2023-02-09 |  |
 | [Göm din dröm](https://open.spotify.com/track/5o0LXWUdakP5oREo5eghCw) | [Damn!](https://open.spotify.com/artist/5dbNvlczE0ERU3qK30zC1U), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Göm din dröm](https://open.spotify.com/album/69U3ilXpXRk9EbuDYNdQ3M) | 5:33 | 2022-10-20 | 2022-10-28 |
 | [Gör Det Fast Det Svider](https://open.spotify.com/track/1beY9qKYgnoBMYpSttlIUe) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X) | [Gör Det Fast Det Svider](https://open.spotify.com/album/5FAwM4BJ4MMU0lUYjV7v9a) | 3:37 | 2022-02-11 | 2022-02-18 |
 | [Gör för ont](https://open.spotify.com/track/0JjzShJbqsGiKWT9z6LOyK) | [elsie](https://open.spotify.com/artist/5aszLs9wqWzonEhRKEsUbG) | [Gör för ont](https://open.spotify.com/album/2eMaV0v7dyBYBA64PyVYCS) | 2:50 | 2022-10-20 | 2022-10-28 |

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4320,
+  "num_followers": 4333,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMDZhZTA4MDRmZWYyY2ZmZjczNDg4NmUzOTZhZWJlNzUx",
+  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMGRkM2E3MWIzNGEyYzI0OTExMWFmNjA2N2Y1ZmFlNTg2",
   "tracks": [
     {
       "added_at": "2023-01-25 08:19:52",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Blooming Period",
-        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 206467,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
         "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 155708,
       "name": "Looking at you",
       "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Blooming Period",
+        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 206467,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "I'm",
         "url": "https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z"
       },
@@ -415,22 +399,6 @@
       "duration_ms": 228400,
       "name": "Maybe I am",
       "url": "https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -451,18 +419,34 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -479,6 +463,22 @@
       "duration_ms": 243037,
       "name": "mistaken",
       "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "\uc9dd\uc0ac\ub791 Crush",
-      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+      "duration_ms": 239674,
+      "name": "\uc9dd\uc0ac\ub791 Crush",
+      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -679,6 +663,22 @@
       "duration_ms": 199960,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-01-25 08:19:52",

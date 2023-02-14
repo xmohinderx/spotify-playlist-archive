@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Im Changjung\(임창정\)\)\) \(당신의 감성에 발라드, 려요\)
 
-728 songs - 1 day 23 hr 25 min
+730 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |
 | [Night We Shine](https://open.spotify.com/track/1wEVAO5UNyPn0Fh4H89fhK) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Night We Shine](https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn) | 3:51 | 2022-09-21 | 2023-01-11 |
+| [Nightmare \(Art\. SAEBIT\)\(With\. MINE\)](https://open.spotify.com/track/5fNSKLye8tniXk48rtoUTQ) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD), [MINE](https://open.spotify.com/artist/11RVbK7wyBMH4UzjELv6wq) | [ARTIST\. SAEBIT](https://open.spotify.com/album/1f9KclCcIDueccVILc3u3t) | 4:16 | 2023-02-13 |  |
 | [No good in good\-bye](https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:32 | 2022-01-03 | 2022-06-12 |
 | [No More Love](https://open.spotify.com/track/0FgzBnTAwEFcuO6bNYweaM) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:20 | 2022-03-24 | 2022-03-30 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2022-03-29 | 2022-04-16 |
@@ -711,6 +712,7 @@
 | [You’re the best of me](https://open.spotify.com/track/7uhDJuHhtfKwSM7TWNnZ8E) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [You’re the best of me](https://open.spotify.com/album/4F43zvJZ28xKAfvow1Hxlp) | 4:07 | 2022-03-24 | 2022-04-19 |
 | [zero gravity](https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [zero gravity](https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71) | 4:25 | 2022-08-18 | 2022-12-27 |
 | [가끔 니가 생각나](https://open.spotify.com/track/1bhk9mVrtzfb8oWpHWTs7t) | [황가람](https://open.spotify.com/artist/54STFHbpjhjhD6XvQjiZXS) | [가끔 니가 생각나](https://open.spotify.com/album/3EzagRzdV6LmjE6excYLV6) | 3:44 | 2022-03-31 | 2022-04-20 |
+| [가로등](https://open.spotify.com/track/30IgCzG2PsGmI4oIF0sINN) | [Suh Ro](https://open.spotify.com/artist/153lvXvOrAYaszs7cNMmQz) | [가로등](https://open.spotify.com/album/6YxU3Vja5XWChBsAAqKxcD) | 3:54 | 2023-02-13 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-10-01 | 2022-11-17 |
 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/3fLufMRaQboaen5AGMdCLT) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The 1st Mini Album '광화문에서 At Gwanghwamun'](https://open.spotify.com/album/1GtAHSUYEs5Jlx3ftm9Y5v) | 4:42 | 2021-12-23 | 2022-06-01 |
 | [그날의 그대여](https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Themselves \(Original Soundtrack\) Chapter\. 2](https://open.spotify.com/album/38pMPeUiYvIIFLnySQoLt6) | 4:13 | 2022-12-16 | 2023-02-09 |

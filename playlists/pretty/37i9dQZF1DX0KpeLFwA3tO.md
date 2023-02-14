@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sleaford Mods
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,642 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,697 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 121 | [Punk Rock Cliché](https://open.spotify.com/track/4s0DdV6CwjzFaZuIVKuj9x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk Rock Cliché](https://open.spotify.com/album/5hfLFZaRWTnYl0kcXeCSWE) | 3:22 |
 | 122 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU) | 4:40 |
 | 123 | [Cactus Tree](https://open.spotify.com/track/1RVRJDNvEuGI6S1jCUTVP0) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:59 |
-| 124 | [End of The Line](https://open.spotify.com/track/1bm2iagFnM4GmXJUrDlK85) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [End of The Line](https://open.spotify.com/album/6bzKH9DBpM32NRnpz4i8Va) | 2:58 |
+| 124 | [End of The Line](https://open.spotify.com/track/6CBIAlqfFn4KfKOwwhf7rk) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 2:58 |
 | 125 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 |
 | 126 | [it takes two](https://open.spotify.com/track/4kqN2QZY63RFEbx40O3t6Q) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 |
 | 127 | [Take A Ride \(Lights, Camera, Action\)](https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 3:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 149 | [Strangest Faces](https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Strangest Faces](https://open.spotify.com/album/2PQihGqcULN7NdvgqpDnLb) | 3:11 |
 | 150 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 
-Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGIzODA5OTA2NTA0Yjg3NWM1ZjIzYWUzNzBiNmQ0OGQ2`
+Snapshot ID: `MTY3NTk4NzIwMCwwMDAwMDAwMGE1ZDAxYjY4MDI4NmVjODc5OGNkYTU4MTYwYzEyNzQz`

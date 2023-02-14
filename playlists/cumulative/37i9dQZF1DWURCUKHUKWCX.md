@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-170 songs - 9 hr 23 min
+171 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-12-10 |  |
 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 | 2021-12-10 | 2023-01-04 |
 | [Blue Monday](https://open.spotify.com/track/4RnZtmISmXtxJGUlf8c7fq) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Blue Monday](https://open.spotify.com/album/3OSpNDiDEt7X7TNKPjBZWU) | 4:14 | 2022-01-28 |  |
+| [BORDERS](https://open.spotify.com/track/7kd29hQliuo3wqBZJfZj1F) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [BORDERS](https://open.spotify.com/album/7rKxm5ZbTSVErOoJs8K40C) | 2:59 | 2023-02-13 |  |
 | [Borrowed](https://open.spotify.com/track/2pWrBzstdy5nFXJK41Z7o6) | [Medard Fischer](https://open.spotify.com/artist/3t4ZeaE0esWgeBIZkaXkUX), [Arc Lab](https://open.spotify.com/artist/0IGJHTPr8pufzyn4W9clOq) | [Penumbras 2](https://open.spotify.com/album/2F5c4dq7RAcATzTnrkuEVo) | 5:32 | 2021-12-10 | 2023-01-04 |
 | [Breeze](https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ) | [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [my first piano: Rondo](https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo) | 3:26 | 2022-01-21 |  |
 | [Broderies](https://open.spotify.com/track/5jOm6pVRVXPvKF8Ipi3p3Y) | [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l) | [Broderies](https://open.spotify.com/album/66aD5XSM0gHMOvzopOi4Qy) | 2:28 | 2021-12-10 | 2023-01-04 |

@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-125 songs - 7 hr 19 min
+126 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 | 2022-09-06 |  |
 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 | 2022-01-14 |  |
 | [Amor en Zamba](https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK) | [Carolina Centurión](https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS) | [Amor en Zamba](https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz) | 4:23 | 2022-01-14 |  |
-| [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 |  |
+| [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 | 2023-02-14 |
 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2022-01-14 |  |
 | [Ay Chiquita](https://open.spotify.com/track/3tr24uGSSephvL4AqPxmfT) | [Alejandra Sosa](https://open.spotify.com/artist/4UW2J8cMmrhltV0CqKKIPO) | [Desde el Alba](https://open.spotify.com/album/01gWQ34wnl9b9q8B6YwhLQ) | 2:55 | 2022-01-14 | 2022-08-19 |
 | [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 | 2022-01-14 | 2022-08-13 |
@@ -95,6 +95,7 @@
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 |  |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 | 2022-09-07 |
+| [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 | 2023-01-20 |  |
 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |
 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 | 2022-01-14 |  |
 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 | 2022-01-14 |  |

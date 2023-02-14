@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=SpN82AmnQFmJzj\-NsDWW9g">Kamo Mphela</a>.
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=sOSAApXATj2ZsVxk64tUbw">Kamo Mphela</a>, <a href="https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC?si=7MsBurh4RaKDvdj\-VivKTQ">Bontle Smith</a> and <a href="https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=lKtO\-MMmScyxbrB73ex09g">Nobantu Vilakazi</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,879 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,340 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 |
 | 50 | [Sqhebe](https://open.spotify.com/track/0loNtdzHZnkNOqZ86PJPsl) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Dlala Regal](https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ricky Lenyora](https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ), [Almighty SA](https://open.spotify.com/artist/3hw3R4WjT7w3S4Vjnbwx7K) | [Sqhebe](https://open.spotify.com/album/4DdseqIRkHXlSgrrr1e6pQ) | 6:00 |
 
-Snapshot ID: `MTY3NTk4MDQzOSwwMDAwMDAwMDkzZjk3NGRlNzRiMjY5M2JjYTZhZDM5OTUyOGZkMTJi`
+Snapshot ID: `MTY3NjI3ODUyNywwMDAwMDAwMDcyN2FmMzhkZWUxMDc4NmU1NjJmNTJlMTcyNTE4MzUz`

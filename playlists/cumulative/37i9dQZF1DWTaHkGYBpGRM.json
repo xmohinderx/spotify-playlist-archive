@@ -1668,10 +1668,28 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 224285,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/47SfPx3JFm4MxQZ3wEHrOO"
+      },
+      "artists": [
+        {
+          "name": "Francois Klark",
+          "url": "https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/78iOQlrQHIglLkFDBUl28s"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alvaro Diaz & Sen Serra",
-  "num_followers": 512042,
+  "num_followers": 512061,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxNDkzMywwMDAwMDAwMDc0MDZiMTMxNDQ3NTRmYTY5ODUwZDJhMzUxYmZlMWM3",
+  "snapshot_id": "MTY3NjAxNDkzMywwMDAwMDAwMGUzOGNhN2QwNTIwNTc5NmYzYTRkZmRjODg1NDY4M2Mw",
   "tracks": [
     {
       "added_at": "2023-02-10 07:42:13",
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+        "name": "PANTIES Y BRASIERES",
+        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "PANTIES Y BRASIERES",
-        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 197383,
-      "name": "PANTIES Y BRASIERES",
-      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -603,18 +603,26 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+        "name": "Mi Gata (Remix)",
+        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 154626,
-      "name": "Kaleidosc\u00f3pica",
-      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+      "duration_ms": 246315,
+      "name": "Mi Gata - Remix",
+      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -651,6 +659,42 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
+        "name": "Clickiamos",
+        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Clickiamos",
+      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -671,30 +715,6 @@
       "duration_ms": 276835,
       "name": "Sufro",
       "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Mi Gata (Remix)",
-        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "Mi Gata - Remix",
-      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -739,30 +759,6 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "S\u00edntomas de Soltera",
-        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "S\u00edntomas de Soltera",
-      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -783,46 +779,26 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "Clickiamos",
-        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
+        "name": "S\u00edntomas de Soltera",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         },
         {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Clickiamos",
-      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Tu Silueta",
-        "url": "https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "HIT$ MUSIC",
-          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Tu Silueta",
-      "url": "https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx"
+      "duration_ms": 241908,
+      "name": "S\u00edntomas de Soltera",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -863,6 +839,22 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 181988,
+      "name": "Ojitos Rojos",
+      "url": "https://open.spotify.com/track/3LbiVjqY2chZ0q9oOwbluK"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -883,18 +875,26 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
         }
       ],
-      "duration_ms": 181988,
-      "name": "Ojitos Rojos",
-      "url": "https://open.spotify.com/track/3LbiVjqY2chZ0q9oOwbluK"
+      "duration_ms": 197333,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 207932,
       "name": "GATAS",
       "url": "https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "Despu\u00e9s Del Party",
+        "url": "https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Despu\u00e9s Del Party",
+      "url": "https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "Los Palos",
         "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 277714,
       "name": "Hot Sauce (feat. Ovi)",
       "url": "https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Despu\u00e9s Del Party",
-        "url": "https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Despu\u00e9s Del Party",
-      "url": "https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "dale Play",
+        "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "dale Play",
+      "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "Na Oficial",
         "url": "https://open.spotify.com/album/4BY13m0zpvQaNOWICBWNRR"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "dale Play",
-        "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "dale Play",
-      "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "48 Horas",
+        "url": "https://open.spotify.com/album/5uHCibcnxRyGMoVFde36jq"
+      },
+      "artists": [
+        {
+          "name": "Ballah",
+          "url": "https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7"
+        },
+        {
+          "name": "Oplus",
+          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "48 Horas",
+      "url": "https://open.spotify.com/track/27gKh0pcK0jbslrB9yCwk7"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "Mala Mala",
         "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
       },
@@ -1591,26 +1611,6 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
-        "name": "48 Horas",
-        "url": "https://open.spotify.com/album/5uHCibcnxRyGMoVFde36jq"
-      },
-      "artists": [
-        {
-          "name": "Ballah",
-          "url": "https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7"
-        },
-        {
-          "name": "Oplus",
-          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "48 Horas",
-      "url": "https://open.spotify.com/track/27gKh0pcK0jbslrB9yCwk7"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
         "name": "Dios Y Mi Fe",
         "url": "https://open.spotify.com/album/1SttuNOvnL3HVDHled7wRM"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 211968,
       "name": "Dios Y Mi Fe",
       "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "ODISEA",
-      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "ODISEA",
+      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "La Copa",
         "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 191693,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Delirio Y Tortura",
-        "url": "https://open.spotify.com/album/6PD9EoGEzIkzqusA8Z59oq"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Delirio Y Tortura",
-      "url": "https://open.spotify.com/track/1pyTTfElvt1z76JqKPMxzh"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1719,6 +1699,26 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
+        "name": "Delirio Y Tortura",
+        "url": "https://open.spotify.com/album/6PD9EoGEzIkzqusA8Z59oq"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Delirio Y Tortura",
+      "url": "https://open.spotify.com/track/1pyTTfElvt1z76JqKPMxzh"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1767,6 +1767,30 @@
     {
       "added_at": "2023-02-10 07:42:13",
       "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 167565,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
         "name": "Que casualidad",
         "url": "https://open.spotify.com/album/0fPJBmML3bER3OWEQMNymg"
       },
@@ -1795,46 +1819,6 @@
       "duration_ms": 141468,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/3fe0VRegFWBLeS5AonijLx"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        }
-      ],
-      "duration_ms": 158222,
-      "name": "Lamb",
-      "url": "https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 167565,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1883,6 +1867,38 @@
       "duration_ms": 233920,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/39D1XXTruO2OyjH3pf1mMy"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "duration_ms": 158222,
+      "name": "Lamb",
+      "url": "https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z"
+    },
+    {
+      "added_at": "2023-02-10 07:42:13",
+      "album": {
+        "name": "Juqueando",
+        "url": "https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Juqueando",
+      "url": "https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG"
     },
     {
       "added_at": "2023-02-10 07:42:13",
@@ -1947,22 +1963,6 @@
       "duration_ms": 140067,
       "name": "SENOR OFICIAL",
       "url": "https://open.spotify.com/track/1rrdKyAxsRnsBwUqQ9fD6U"
-    },
-    {
-      "added_at": "2023-02-10 07:42:13",
-      "album": {
-        "name": "Juqueando",
-        "url": "https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Juqueando",
-      "url": "https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG"
     },
     {
       "added_at": "2023-02-10 07:42:13",

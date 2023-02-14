@@ -8730,6 +8730,24 @@
     {
       "album": {
         "name": "Peron",
+        "url": "https://open.spotify.com/album/6UggltNUGkfMI1SgzDWk1q"
+      },
+      "artists": [
+        {
+          "name": "Misery Joy",
+          "url": "https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221540,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/0jORxsvmrI2C2OzINhMaS1"
+    },
+    {
+      "album": {
+        "name": "Peron",
         "url": "https://open.spotify.com/album/6XmEvckv7cQ0NnAtCbNQsN"
       },
       "artists": [
@@ -8740,7 +8758,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 221540,
       "name": "Peron",
       "url": "https://open.spotify.com/track/7FnGbdCpgtd3qpveOOeHfi"

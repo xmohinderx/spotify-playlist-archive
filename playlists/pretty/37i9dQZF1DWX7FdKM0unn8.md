@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,486 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,535 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 14 | [추억속의그대](https://open.spotify.com/track/5xtATcLzRFvpEAWlKcKivO) | [황치훈](https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE) | [황치훈1집](https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524) | 3:27 |
 | 15 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
 | 16 | [서른 즈음에](https://open.spotify.com/track/22hQftFZWw1XIowMmT8tAP) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:42 |
-| 17 | [아니 벌써 Already Now](https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제1집 Volume 1](https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH) | 5:34 |
+| 17 | [아니 벌써](https://open.spotify.com/track/3G29NaTgIthXfT0alMrTTH) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 새 노래 모음 \- 아니 벌써](https://open.spotify.com/album/348qDfPkg9JOms6C5aZmPv) | 5:35 |
 | 18 | [그대안의 블루](https://open.spotify.com/track/6z0rk521a5u6FHB8HHjXov) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZYu5hwriRTarKVPtCG23O) | 3:35 |
 | 19 | [못다핀 꽃한송이](https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:09 |
 | 20 | [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 I](https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw) | 4:44 |
 | 21 | [그 아픔까지 사랑한거야](https://open.spotify.com/track/2ghebdwe2pNXT4eL34T7pW) | [Jo Jung Hyun](https://open.spotify.com/artist/5pGIThF8jQKXCNkr9u8632) | [그 아픔까지 사랑한거야](https://open.spotify.com/album/55UfHK7SkjcooSkHtougQf) | 3:57 |
 | 22 | [일어나](https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:28 |
-| 23 | [내 마음에 주단을 깔고 Spread Silk On My Heart](https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제2집 Volume 2](https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38) | 5:57 |
+| 23 | [내 마음에 주단을 깔고](https://open.spotify.com/track/4uiY19nSBoYbRDWJ40vdaU) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 제2집 \- 내 마음에 주단을 깔고](https://open.spotify.com/album/03mvS9BXXbLSk3JqplSADQ) | 5:57 |
 | 24 | [섬소년](https://open.spotify.com/track/3cbYRbgcXmJsPWVTDM37sW) | [이정선](https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV) | [이정선 베스트](https://open.spotify.com/album/4amIFXgjq2CMs0WOXhhzvZ) | 4:26 |
 | 25 | [내 마음에 비친 내 모습](https://open.spotify.com/track/4w5jHmaPBwNN2Q9rOuYHUC) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 4:53 |
 | 26 | [가을이지나가는길목에서](https://open.spotify.com/track/0F8VPFPd53OxPYiINjc9bF) | [황치훈](https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE) | [황치훈1집](https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524) | 4:46 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGE2M2U3ZGZhODA4NDkyMjUwN2IxMDU2YTkzODUwYTkz`
+Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGEyZTNmNTIyM2I0MjdiYzVlMTBmNTQ5M2JlMWU4MjEz`

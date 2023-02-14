@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,725 likes - 227 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,894 likes - 227 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 105 | [Activated](https://open.spotify.com/track/0O5hn6LfWH2rhD0GTl3Gib) | [Mr Bilt](https://open.spotify.com/artist/5lnPvVsVpCm7XIQArLjxgc) | [Activated](https://open.spotify.com/album/5YnwJolIFeKsgwPmMc615n) | 2:17 |
 | 106 | [AIRPORT](https://open.spotify.com/track/4t6vk1gIVxICUtIFWrT0gS) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [AIRPORT](https://open.spotify.com/album/0Cm3jfZVjSdhIWFxEJ2nBh) | 2:10 |
 | 107 | [Endangered species](https://open.spotify.com/track/4qCHzjO8vGdW5dCAGZSnZd) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ) | [Endangered species](https://open.spotify.com/album/5DXbuP9LkdJLB7SXzYieJF) | 1:58 |
-| 108 | [Nothing Stays Forever](https://open.spotify.com/track/4xEllGKkPqykeyrmWfFwOT) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Nothing Stays Forever](https://open.spotify.com/album/2mwWimoYUMqHIuqZc3J5VR) | 3:42 |
+| 108 | [Nothing Stays Forever](https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/1P28erNO6UqJiM4m5T4uLY) | 3:42 |
 | 109 | [Stay at the Hotel](https://open.spotify.com/track/0EOgh8Si2DiYd1qjBUY66A) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Stay at the Hotel](https://open.spotify.com/album/6rCbBExCHAeMNd9PD7mQS8) | 2:35 |
 | 110 | [It Will Be Okay](https://open.spotify.com/track/0csJBTAnROtcbD5zKNxbEa) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Perspective](https://open.spotify.com/album/3NZcJBtYs1jDUcS3RA0Zz5) | 2:18 |
 | 111 | [Kick Back](https://open.spotify.com/track/0fiYMoRODdyelOSeuIg3mD) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Kick Back](https://open.spotify.com/album/54DDVudEhLEg1Si60x3Sh9) | 1:40 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 226 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 |
 | 227 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 |
 
-Snapshot ID: `MTY3NTc3NTAwMCwwMDAwMDAwMGIzMmNiNzBiMTU3MGYyZTNmYWI1NTVhNmM3MDViNDI0`
+Snapshot ID: `MTY3NTc3NTAwMCwwMDAwMDAwMGFiYTVkODc1NzM2OTQ2YTk5Zjk0MzUwNDM0MGJkNGRj`

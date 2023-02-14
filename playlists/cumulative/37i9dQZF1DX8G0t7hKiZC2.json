@@ -128,10 +128,28 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 301440,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
+    },
+    {
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/3b3aTLXOCOcd8P5QjFmvsX"
+      },
+      "artists": [
+        {
+          "name": "Urbxnxd",
+          "url": "https://open.spotify.com/artist/6tUxchkjqhlH1pY0TIMbaj"
+        }
+      ],
+      "date_added": "2021-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/3SYYo3b86EkchAZ1XSCiLa"
     },
     {
       "album": {

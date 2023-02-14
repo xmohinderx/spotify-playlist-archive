@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 747,559 likes - 191 songs - 9 hr 47 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 747,596 likes - 191 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
 | 2 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 3 | [Need You](https://open.spotify.com/track/2sUAvG1FJX14GCr3LAp73P) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Sam Riley](https://open.spotify.com/artist/7tZsqMkZU0zAdwnGHg2MB5) | [Need You](https://open.spotify.com/album/5YdJ8jI8bEauFCvk9q7hLv) | 2:36 |
-| 4 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 |
-| 5 | [Psycho](https://open.spotify.com/track/7AZsMkUwu9wgz2yA78a9oU) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Psycho](https://open.spotify.com/album/6N3jKknronDaQoRKwC8Pcd) | 2:51 |
-| 6 | [Dum Dum](https://open.spotify.com/track/42UU54WpkAm5aLfGucwY6F) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Dum Dum](https://open.spotify.com/album/5QjP2SGYlzyRuM32Wtx8ck) | 2:47 |
-| 7 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 |
+| 3 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 |
+| 4 | [Need You](https://open.spotify.com/track/2sUAvG1FJX14GCr3LAp73P) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Sam Riley](https://open.spotify.com/artist/7tZsqMkZU0zAdwnGHg2MB5) | [Need You](https://open.spotify.com/album/5YdJ8jI8bEauFCvk9q7hLv) | 2:36 |
+| 5 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 |
+| 6 | [Psycho](https://open.spotify.com/track/7AZsMkUwu9wgz2yA78a9oU) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Psycho](https://open.spotify.com/album/6N3jKknronDaQoRKwC8Pcd) | 2:51 |
+| 7 | [Dum Dum](https://open.spotify.com/track/42UU54WpkAm5aLfGucwY6F) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Dum Dum](https://open.spotify.com/album/5QjP2SGYlzyRuM32Wtx8ck) | 2:47 |
 | 8 | [Pressure](https://open.spotify.com/track/3wHV275mc0xs0fmJt8ITGX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Pressure](https://open.spotify.com/album/2HyVhCsCR2SPMgzi28QNoM) | 2:49 |
 | 9 | [Insides](https://open.spotify.com/track/6ahPq19N2CB1YcHKrs4890) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg), [JESSY KVGE](https://open.spotify.com/artist/7mhkgK8BCWTwGdsKPGwPgm) | [Insides](https://open.spotify.com/album/3IOlEaEF7q1mnrnrgufyF0) | 2:48 |
 | 10 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 190 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 |
 | 191 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 |
 
-Snapshot ID: `NDg4Niw5NTQ4Y2ZkOTdiZTFlN2NjNDBjMjU1YTMzMzUwMWQ1OGJiMThkYzY5`
+Snapshot ID: `NDg4OSw4ZTRkMDdkZTA3NjA5NzEwZDNhM2U2ZWYxNGI0MWNmYzNmOWFiZjU0`

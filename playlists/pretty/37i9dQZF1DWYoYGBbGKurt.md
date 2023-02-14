@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,532 likes - 514 songs - 19 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,616 likes - 514 songs - 19 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 155 | [What The Future Holds](https://open.spotify.com/track/2zsp2DlzDqW6hVc1wx6gkc) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [What The Future Holds](https://open.spotify.com/album/2OA4wIuF7wVpdWaSTShtvy) | 2:33 |
 | 156 | [Blue Chamber](https://open.spotify.com/track/3j5SA5i90SCJYWk1oZoXJR) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Blue Chamber](https://open.spotify.com/album/3fwujqbVojJ8V0f7X1lcRK) | 1:54 |
 | 157 | [Snow Horizon](https://open.spotify.com/track/4ltRGBrKpG7I3ZI2uzu7Z1) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Snow Horizon](https://open.spotify.com/album/1x1xiIx0wviK0tMAxEVCFL) | 1:55 |
-| 158 | [invisible](https://open.spotify.com/track/10wh7RPmiDo9tLlEanBw8t) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/6By1S4R5WehZI40pM64oKJ) | 3:06 |
+| 158 | [invisible](https://open.spotify.com/track/2akIrKOsAIT2RRFBnNk2jt) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Undone](https://open.spotify.com/album/4sc2FrxIY7XdP0oTIE1weg) | 3:06 |
 | 159 | [How It Used To Be](https://open.spotify.com/track/3Z5Xq5i6M14fGvF3qsmmCl) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [How It Used To Be](https://open.spotify.com/album/3Vt2YlUeVWP1eWWylg9BcC) | 3:12 |
 | 160 | [Soft Pillows](https://open.spotify.com/track/0CeqaB8bIDeEb2p4qALWOj) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Fuji Fields](https://open.spotify.com/album/2mO2hsdDktSQ3WXFoR1cP6) | 1:53 |
 | 161 | [Hidden](https://open.spotify.com/track/6qPWbkVpGoYpR4M2AemsnZ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hidden](https://open.spotify.com/album/2kdTXfpyFxQfqORc8NK7hg) | 1:52 |
@@ -523,4 +523,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 513 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 | 514 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 
-Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMGM1YWE2MTZiMjVlZjFhOGI0MTI0MmE5MmUyMWNhMjIy`
+Snapshot ID: `MTY3NTc3NTY1MywwMDAwMDAwMDk0ZDgzYTc5YjE1M2E0MTBhNDE1MTg0M2Y3ZmNkYjU0`

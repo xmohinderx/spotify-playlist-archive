@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Attack of the Killer Beast (Phonk)",
+        "url": "https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3"
+      },
+      "artists": [
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136110,
+      "name": "Attack of the Killer Beast (Phonk)",
+      "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 141576,
       "name": "Bota Tudo Nessa Porra",
       "url": "https://open.spotify.com/track/1LxyIcKnXGEGJulPYhTIVo"
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Cora\u00e7\u00e3o de Gelo",
       "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
@@ -8618,7 +8636,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"

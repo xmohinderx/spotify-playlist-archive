@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,379 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,388 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 95 | [Dark Horse](https://open.spotify.com/track/1i5PW20LSYwCQMjVQgSXVM) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 3:41 |
 | 96 | [Sweet Revenge](https://open.spotify.com/track/4UFQsCXZT7FjeqSPGxVVf2) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [The World Is Waiting](https://open.spotify.com/album/3hvlXTpTYSalmTQpAlrWs0) | 4:51 |
 | 97 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 |
-| 98 | [The Boy Is Mine](https://open.spotify.com/track/5z0VBCiFTGh4JqEpnVDHW0) | [Liv Lovelle](https://open.spotify.com/artist/7ickHWlQEBjYgCcOSPE6Ah) | [Liv Lovelle](https://open.spotify.com/album/2VK8ymLn3nFcEQE2quvoD9) | 2:25 |
+| 98 | [The Boy Is Mine](https://open.spotify.com/track/3zTwJYM0WBBqfX9dMCP9N1) | [Liv Lovelle](https://open.spotify.com/artist/7ickHWlQEBjYgCcOSPE6Ah) | [Liv Lovelle](https://open.spotify.com/album/1DItBaLve9ClYprD04gPnW) | 2:25 |
 | 99 | [In the Morning](https://open.spotify.com/track/5u2PCVTLGTsAPswB5D7B63) | [Able Heart](https://open.spotify.com/artist/1Qr7z3g1f7L93ZWdCKGSjV) | [In the Morning](https://open.spotify.com/album/1DJuHHnjcXPXO8nhOiRVIb) | 2:46 |
 | 100 | [Talk To Me](https://open.spotify.com/track/6575l4oguHCYFxeFPaJsnz) | [Juneau Marie](https://open.spotify.com/artist/6Y36VDxkSTewsgrtSaWhNV) | [Young](https://open.spotify.com/album/0zH28gbYSWhtlJHp9e5YAE) | 3:32 |
 | 101 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 229 | [Boyfriend](https://open.spotify.com/track/0i2xIlZCO0H3mSpxr2HzgK) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:45 |
 | 230 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
 | 231 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
-| 232 | [Catching Eyes \- Tom Ferry Remix](https://open.spotify.com/track/3sG6fCSurgklI2JZCkWhff) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA) | [Catching Eyes \(Tom Ferry Remix\)](https://open.spotify.com/album/0b3i1yo7dTxwIEnaH9pRGr) | 2:38 |
+| 232 | [Catching Eyes \- Tom Ferry Remix](https://open.spotify.com/track/49Izx6wu9IoJhTtTybsgi9) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA) | [Catching Eyes \(Tom Ferry Remix\)](https://open.spotify.com/album/4f1Y96TRHkqmMZvaDpJxHP) | 2:38 |
 | 233 | [Gimme That Sunshine](https://open.spotify.com/track/3X3Q0i7IsINhaDSXt4lGqj) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Animalistic](https://open.spotify.com/album/3ysb5nxgkEyUTEL1H5FRZR) | 3:20 |
 | 234 | [Wrong Direction](https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 4:08 |
 | 235 | [Right Here Waiting](https://open.spotify.com/track/6SmwzTGiGLMXmudkPtXR50) | [John Coggins](https://open.spotify.com/artist/3GNSeGfBuZWIfsBMUVJs10) | [Right Here Waiting](https://open.spotify.com/album/7tsBgeytDS9DGV53ApZD5x) | 4:30 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMGU4YTA1MTg0YWM1NGMyZDQxMzc5YjdjMDdhOWU2YmU0`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDY1MzdiYWNiYzA0YmY2ODY3MjI5OTgwM2M1ODdhNjFk`

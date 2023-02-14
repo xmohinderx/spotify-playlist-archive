@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Alizzz.",
-  "num_followers": 290804,
+  "num_followers": 290829,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMDAyY2I5Y2JiZDgxNmYwMGNmMTRmNGQ0NzhkOGI3MzE0",
+  "snapshot_id": "MTY3NjMxNDg0NiwwMDAwMDAwMGEwYWNmZDJkODJmNjZhNTk0MDIzODBkMDk0OGNhNGUz",
   "tracks": [
     {
       "added_at": "2023-02-10 06:00:00",
@@ -87,22 +87,6 @@
       "duration_ms": 242424,
       "name": "sanvalent\u00edn:(",
       "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
-        "name": "Tu Veneno",
-        "url": "https://open.spotify.com/album/1IsxF9dkpu7ZwV1LCndiXc"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 199210,
-      "name": "Tu Veneno",
-      "url": "https://open.spotify.com/track/0MzNLLx5SxavXd2eoRrpZC"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -835,6 +819,42 @@
       "duration_ms": 203380,
       "name": "Shorty 2",
       "url": "https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J"
+    },
+    {
+      "added_at": "2023-02-13 19:00:46",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/65BnTILTduIpEqP6YWHoIg"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 149072,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7ztCPFuZ2wD0C9VHQsLDHd"
+    },
+    {
+      "added_at": "2023-02-13 19:00:46",
+      "album": {
+        "name": "Me Siento Que No",
+        "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Nojutsu",
+          "url": "https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld"
+        }
+      ],
+      "duration_ms": 236655,
+      "name": "Me Siento Que No",
+      "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
     }
   ],
   "unique_name": "Novedades Indie",

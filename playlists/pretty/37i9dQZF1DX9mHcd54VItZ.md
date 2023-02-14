@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n?si=4mfc\_JrrS56ijx63lIbo\-A">Brynn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,072 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,077 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

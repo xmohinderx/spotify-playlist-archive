@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-205 songs - 11 hr 28 min
+206 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Hallelujah](https://open.spotify.com/track/6SjiIUxQw3QHhxC4jVdDic) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF) | [Thao & Mirah](https://open.spotify.com/album/4NweXr8UqiBh0PsZj6PQZn) | 4:08 | 2022-01-12 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/6AV1zIEKthWkvTQ2pWHydH) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF), [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Thao & Mirah](https://open.spotify.com/album/73gHZI1HuZBKRARYwCqqLC) | 4:08 | 2022-07-26 | 2022-12-24 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:43 | 2022-06-03 |  |
-| [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-07-26 |  |
+| [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-07-26 | 2023-02-14 |
 | [Happier](https://open.spotify.com/track/3cMNRFYGvnVoeK8f2qj4mq) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/55Gn4TGca0dhPw6flrfnUq) | 2:29 | 2022-01-12 | 2022-07-29 |
+| [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 | 2022-12-23 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2022-01-12 | 2022-08-04 |
 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 | 2022-08-03 |  |
 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2022-01-12 | 2022-11-12 |

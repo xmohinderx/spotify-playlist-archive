@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Karen Jonz, CSS
 
-322 songs - 18 hr 24 min
+326 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 | 2022-12-02 |  |
 | [Ela Tem Razão](https://open.spotify.com/track/07y63Bvc8jC9WNt7psG7K9) | [Taboo](https://open.spotify.com/artist/1qL8ZkjCQ1MPX0IsunOLC0) | [Taboo](https://open.spotify.com/album/0zngE17ncImExMEoivtMzr) | 2:51 | 2022-03-18 | 2023-01-28 |
 | [Eles](https://open.spotify.com/track/1VQJ6RjHsOSFhFvDpzNWOB) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Eles](https://open.spotify.com/album/5N5p9h37jMOiysf0bf3OWy) | 3:19 | 2022-06-24 | 2022-12-03 |
+| [Encontrar Você](https://open.spotify.com/track/7nJ3chTOrhNer02TI06a5M) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Encontrar Você](https://open.spotify.com/album/7qYYN1S3y39nMwSqybdpwC) | 3:05 | 2023-02-13 |  |
 | [enquanto isso...](https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ) | [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [enquanto isso...](https://open.spotify.com/album/31aNUqj3CvyC3r7rRSGbNS) | 3:23 | 2022-01-14 | 2022-01-22 |
 | [enterro dos ossos](https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [enterro dos ossos](https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH) | 2:51 | 2022-04-15 | 2022-05-07 |
 | [Errare Humanum Est](https://open.spotify.com/track/2v95wNLuJPSTlA77BzLgf5) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [O Paraíso](https://open.spotify.com/album/1D4MVmHzpqIF7OApaXpFTt) | 5:09 | 2023-01-13 |  |
@@ -151,6 +152,7 @@
 | [Lia](https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF) | [Lado Fim do Mundo](https://open.spotify.com/artist/66ItPiB5AheRX2jXy4vzZa) | [Lia](https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR) | 5:08 | 2022-01-14 | 2022-02-12 |
 | [Lobo](https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Lobo](https://open.spotify.com/album/5j0BG1bA5EcZwFieujIKhr) | 4:21 | 2022-07-15 |  |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
+| [Luz Negra](https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em) | [Madrid](https://open.spotify.com/artist/11hzfqXWbO20J9QE8OGZ37), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Luz Negra](https://open.spotify.com/album/6HRYVTqK8OkyBma12VFGmK) | 2:00 | 2023-02-13 |  |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 |  |
 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 | 2022-08-26 | 2023-01-21 |
 | [Mandando](https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Mandando](https://open.spotify.com/album/7H8Mbrgu2IA7oEYtCE8W63) | 3:37 | 2022-01-14 | 2022-05-14 |
@@ -159,6 +161,7 @@
 | [Maquiada](https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Olivier](https://open.spotify.com/artist/4UAqN2U4TLaw2XiSwkcm9y), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Maquiada](https://open.spotify.com/album/7ELgVDiXijxfvkv4zdlII0) | 2:56 | 2022-01-14 | 2022-09-24 |
 | [Maria em ''A Chapeuzinho Vermelho'' \(O Inferno Continua\)](https://open.spotify.com/track/6c20snZS7E1gALdTXfLfkA) | [KF](https://open.spotify.com/artist/62GXZfPVn5wjp9KOpyYx1c), [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di) | [Maria em ''A Chapeuzinho Vermelho'' \(O Inferno Continua\)](https://open.spotify.com/album/58QbiiTydiCdATW34rKDin) | 4:11 | 2022-06-10 | 2022-06-25 |
 | [Maria Paula](https://open.spotify.com/track/0po0yH3y2QlPVbmooVIGRd) | [Marchioretto](https://open.spotify.com/artist/6Pofo6Xaht29sV8Vkiitv3) | [Sussurros Que Não Cessam](https://open.spotify.com/album/2n9kV3pOP118yJ7J1LsfJC) | 2:47 | 2022-01-21 | 2023-01-28 |
+| [Marionettes](https://open.spotify.com/track/62cGlQHyY68JzvWYfsDnm4) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Marionettes](https://open.spotify.com/album/3WzEUeHTF99XBwQVwBQklC) | 2:46 | 2023-02-13 |  |
 | [Maya](https://open.spotify.com/track/2mW0xozZwF3JFpgYEUivRv) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Maya](https://open.spotify.com/album/4AdLRxbgubWzeTQZVz8ed6) | 3:24 | 2022-01-14 | 2022-03-18 |
 | [Me chama pra dançar](https://open.spotify.com/track/5hDaaCG21ULMZ6Ar4vjm2X) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [QNHMN / MCPD](https://open.spotify.com/album/5U5KGKrvKAyFrgF6UlvUgT) | 3:14 | 2022-05-06 | 2022-06-04 |
 | [me encontra lá :\)](https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [visions](https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9) | 2:04 | 2022-04-22 | 2022-06-18 |
@@ -232,6 +235,7 @@
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 | 2022-10-15 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 | 2022-10-29 |
+| [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 |  |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,726,557 likes - 210 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,726,683 likes - 210 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 166 | [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 |
 | 167 | [Hello](https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [Hello \(Adele Cover\)](https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW) | 3:50 |
 | 168 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
-| 169 | [I Will Follow You into the Dark](https://open.spotify.com/track/6nTZAOEov0ZHjL1MEqQO8C) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/07kMiTbasl5Cg9kxgiXPkt) | 3:11 |
+| 169 | [I Will Follow You into the Dark](https://open.spotify.com/track/7J0nRmmjMB5YAGC18mNI8i) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/572VK71bFKbZjcDkP7DVVi) | 3:11 |
 | 170 | [U Remind Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Spotify Singles](https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8) | 3:18 |
 | 171 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 |
 | 172 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 209 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 210 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGU5NjY1NjY1ZWIwMjcyNGNhYTAzOTRlYjk1ZTMwZDJl`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDZlYjIyYWRmMGE4ZWU4ZGE5NjkyNDViODZiODNlMzUw`

@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-142 songs - 8 hr 42 min
+143 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 | 2022-03-25 |  |
 | [Evermore](https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE) | 3:43 | 2022-03-25 | 2022-07-29 |
 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 | 2022-06-17 |  |
-| [Everything Is Free](https://open.spotify.com/track/09kqBDUB4VbAkjEEqPWgjI) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Everything Is Free](https://open.spotify.com/album/3DnPE3fxfRASFPsyJga5WV) | 4:17 | 2022-03-25 |  |
+| [Everything Is Free](https://open.spotify.com/track/09kqBDUB4VbAkjEEqPWgjI) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Everything Is Free](https://open.spotify.com/album/3DnPE3fxfRASFPsyJga5WV) | 4:17 | 2022-03-25 | 2023-02-14 |
+| [Everything Is Free](https://open.spotify.com/track/5lQzwaSn22jWxLPvrlSO0z) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Everything Is Free](https://open.spotify.com/album/75B0IhdJSK38pIcrhe4tTk) | 4:17 | 2023-01-27 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2022-03-25 |  |
 | [Falling Down](https://open.spotify.com/track/3r12NB6FyVZODCEtLypGsr) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/7zKNSKiHlAYEfH7XVn1Ee1) | 3:45 | 2022-06-17 |  |
 | [Falling Down](https://open.spotify.com/track/68GFPHr5LtadnQ8wOtramJ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/4h7Qc4WQRLAuyuRxEEDFkg) | 3:45 | 2022-03-25 | 2022-07-29 |

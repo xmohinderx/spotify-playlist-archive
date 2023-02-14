@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58282,
+  "num_followers": 58285,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDRmM2JkM2I0NGFkNDRjNjlmMjRmZjYwYzlhMDgyMDY0",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGFkZWY2OTk1MTA4ZWJjNjEyOTkxYTFiMzllM2U3Yzk3",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "What Did You Expect from The Vaccines?",
-        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "If You Wanna",
-      "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Yours Truly, Angry Mob (Deluxe)",
         "url": "https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "What Did You Expect from The Vaccines?",
+        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Satan i gatan (Bonus Version)",
-        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Jag kommer",
-      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Jag kommer",
+      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Mavericks",
-        "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
+        "name": "III",
+        "url": "https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5"
       },
       "artists": [
         {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+          "name": "Kite",
+          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
         }
       ],
-      "duration_ms": 255706,
-      "name": "What's The Point",
-      "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
+      "duration_ms": 205087,
+      "name": "Jonny Boy",
+      "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
     }
   ],
   "unique_name": "Spela Shoreline!",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Give It To Me (TikTok) [Remix]",
+        "url": "https://open.spotify.com/album/5oVwCen70A8H4kKHf1bily"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3vw1qbSopYw1XSXvw7D99u"
+    },
+    {
+      "album": {
         "name": "#doyalike",
         "url": "https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN"
       },
@@ -1979,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -2078,6 +2114,24 @@
       "duration_ms": 266920,
       "name": "Blue (feat. Blue Ivy)",
       "url": "https://open.spotify.com/track/2LjkT4gu5wO4JdeEYl0fMY"
+    },
+    {
+      "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "album": {
@@ -2776,7 +2830,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 110128,
       "name": "Clouded",
       "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
@@ -5368,24 +5422,6 @@
       "duration_ms": 171755,
       "name": "Give It To Me (Party Party) - Remix",
       "url": "https://open.spotify.com/track/17B3JX4cJdnY0jEkZPjNMO"
-    },
-    {
-      "album": {
-        "name": "Give It To Me (TikTok) [Remix]",
-        "url": "https://open.spotify.com/album/5oVwCen70A8H4kKHf1bily"
-      },
-      "artists": [
-        {
-          "name": "DJ Fronteo",
-          "url": "https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0"
-        }
-      ],
-      "date_added": "2023-01-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171850,
-      "name": "Give It To Me (TikTok) - Remix",
-      "url": "https://open.spotify.com/track/3vw1qbSopYw1XSXvw7D99u"
     },
     {
       "album": {
@@ -11856,6 +11892,32 @@
       "duration_ms": 151463,
       "name": "RUN IT UP",
       "url": "https://open.spotify.com/track/6LApARUJR0Yz4nZcHRTqrr"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Run This Town",
+      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
       "album": {

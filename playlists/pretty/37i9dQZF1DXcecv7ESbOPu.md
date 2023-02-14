@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,626 likes - 111 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,637 likes - 111 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 20 | [Higher](https://open.spotify.com/track/21lBst6VlolYzN4yiSkQwa) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [Higher](https://open.spotify.com/album/18Zi9G7TNN5CRlVlLoNSdF) | 2:50 |
 | 21 | [I Do](https://open.spotify.com/track/2VczHikelGxCHZZEI4smkO) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [I Do](https://open.spotify.com/album/3upLvmmkiUorkBrJrt3nrW) | 3:42 |
 | 22 | [Inga blommor växer på en sjömans grav](https://open.spotify.com/track/1BVSBKXD6cDyWcOPCSSxUs) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Inga blommor växer på en sjömans grav](https://open.spotify.com/album/712F3WMElfuYFcqqIivxvR) | 3:18 |
-| 23 | [Går på moln](https://open.spotify.com/track/0nrT2Vo2gvKTDVvU6pt3vr) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/4Zrd2ewQwwuD79pFUFr42y) | 2:53 |
+| 23 | [Går på moln](https://open.spotify.com/track/6Hw7JFotTmhWdK2icPSaoT) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/5VR9DGZJqznBAYNECx1A1S) | 2:53 |
 | 24 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 25 | [Drink And Shout](https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Drink And Shout](https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi) | 2:18 |
 | 26 | [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 110 | [Jaded](https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Jaded](https://open.spotify.com/album/1CjPzgqkAeSShcb3mQ4iNS) | 4:27 |
 | 111 | [Testimony](https://open.spotify.com/track/509Mlx0bUvu7R9x7NImszq) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Testimony](https://open.spotify.com/album/28RSauRhhuS4vEiQvRhd61) | 3:39 |
 
-Snapshot ID: `MTY3NjA1NjIxNiwwMDAwMDAwMGJlNTM1NmIzYTc1NmJjOWM1NDcwMDYwYjlkOWUwYWM3`
+Snapshot ID: `MTY3NjA1NjIxNiwwMDAwMDAwMDc0NmE5Y2FlNGJkMTAwZmRhYmFkOGYyOWQxZjdkYWY1`

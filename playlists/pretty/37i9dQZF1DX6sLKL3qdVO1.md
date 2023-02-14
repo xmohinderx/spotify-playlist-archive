@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual con KAROL G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,530 likes - 109 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,660 likes - 109 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

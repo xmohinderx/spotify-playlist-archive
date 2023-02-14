@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWWpLwNv0bd2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWWpLwNv0bd2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWWpLwNv0bd2)
 
-### [Latest Romance Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
+### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Love Tunes.<br/>Cover : Vaathi
+> Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-112 songs - 7 hr 37 min
+113 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 | 2022-06-20 | 2022-10-19 |
 | [Baby Gurl \- From "Coffee With Kadhal"](https://open.spotify.com/track/4QMMw7v3KYc7lXFWqPXd8L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Baby Gurl \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/7yiREHekAr0JxfJRyjTRmL) | 3:40 | 2022-07-15 | 2022-11-06 |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-03 |  |
+| [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 | 2023-02-13 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-29 |  |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-11-29 | 2022-06-21 |
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-04-22 |  |

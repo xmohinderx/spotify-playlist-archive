@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Cover: Bakar
 
-807 songs - 1 day 19 hr 4 min
+808 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 | 2022-12-02 |  |
 | [Blink](https://open.spotify.com/track/22rEAnPqaPscewQeBHVUX4) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Blink](https://open.spotify.com/album/5w2sFmpSZoeWlOtMYj3qUD) | 4:25 | 2022-12-16 | 2023-01-28 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-05-27 | 2022-08-27 |
-| [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 | 2023-01-13 |  |
+| [Blood Rushes](https://open.spotify.com/track/51IU4G5kECZsUHX2kT1OU3) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 3:33 | 2023-02-10 |  |
+| [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 | 2023-01-13 | 2023-02-14 |
 | [Bloodrush \- Edit](https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Bloodrush](https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G) | 3:37 | 2022-03-25 | 2022-06-04 |
 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 | 2022-07-15 | 2022-08-27 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-11 | 2022-06-25 |

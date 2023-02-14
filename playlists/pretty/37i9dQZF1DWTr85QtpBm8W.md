@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,784 likes - 102 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,788 likes - 102 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 94 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 |
 | 95 | [Summertimes](https://open.spotify.com/track/1pz2uIw3n8LTqa4w04jLWX) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Carte\-De\-Visite](https://open.spotify.com/album/3CtKKr1sTyL4XYLsYjw95A) | 5:01 |
 | 96 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 |
-| 97 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/7tuPytonFlywSkxbzeu4st), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 |
+| 97 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 |
 | 98 | [Tarazed](https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 5:03 |
 | 99 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 |
 | 100 | [Aegina Airlines](https://open.spotify.com/track/2qvXaAyYLBo6PaP85cb1Xn) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 2:48 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: AJ (\u8cf4\u715c\u54f2)",
+  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: \u5c41\u5b69 Ryan",
   "name": "Mandarin Hip Hop Stars",
   "tracks": [
     {
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Free Your Brain",
+        "url": "https://open.spotify.com/album/5rFeuZbuYz69kFgxyPR5U8"
+      },
+      "artists": [
+        {
+          "name": "CED",
+          "url": "https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179602,
+      "name": "Free Your Brain",
+      "url": "https://open.spotify.com/track/4Cc7WS2Bwutbfw2bYW43BC"
+    },
+    {
+      "album": {
         "name": "FREEWAY",
         "url": "https://open.spotify.com/album/6aLMjbqsqC5m7qHxkshUdI"
       },
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 160610,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7l4iGgJEtmhkHVkt5Qk7b1"
@@ -2940,6 +2958,28 @@
       "duration_ms": 133464,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/3uF3JTLme6p2C3gu6H1JAE"
+    },
+    {
+      "album": {
+        "name": "ONE n Only Crew (feat. ONE Team)",
+        "url": "https://open.spotify.com/album/6IAjffleWX6Dk2eduYTfGC"
+      },
+      "artists": [
+        {
+          "name": "\u5c41\u5b69 Ryan",
+          "url": "https://open.spotify.com/artist/5Uru7pLzT6nfOmJfTyZsAu"
+        },
+        {
+          "name": "ONE Team",
+          "url": "https://open.spotify.com/artist/6Yfvsl0hcQTneogc7g0trA"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141061,
+      "name": "ONE n Only Crew (feat. ONE Team)",
+      "url": "https://open.spotify.com/track/5IDormOBQKQwjrkWMKRxNh"
     },
     {
       "album": {
@@ -3892,7 +3932,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 70019,
       "name": "TBH",
       "url": "https://open.spotify.com/track/01SzF0Ire5LblttZGlWM58"
@@ -4196,7 +4236,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 228433,
       "name": "To Be A Better Person",
       "url": "https://open.spotify.com/track/00BQhfhY8Z5OucLi5O29eI"
@@ -5200,8 +5240,8 @@
       },
       "artists": [
         {
-          "name": "\u5c0f\u4eba",
-          "url": "https://open.spotify.com/artist/3DS2qM98Snm2gSQVfoFsx6"
+          "name": "Xiao Ren",
+          "url": "https://open.spotify.com/artist/6Mp1qMoH5cSd8Xw3R1Njpm"
         }
       ],
       "date_added": "2023-01-23",
@@ -9186,6 +9226,28 @@
       "duration_ms": 148700,
       "name": "\u963f\u59e8\u8acb\u770b\u8def",
       "url": "https://open.spotify.com/track/7q7VUsxuD16yRsnOdQAh7X"
+    },
+    {
+      "album": {
+        "name": "\u963f\u8cf4\u8036\u8b58",
+        "url": "https://open.spotify.com/album/0KvI0iDoLQAAQfzkg5tkAA"
+      },
+      "artists": [
+        {
+          "name": "\u8fea\u5b50",
+          "url": "https://open.spotify.com/artist/3dmZGAkQqy92mEHgEJXQ1Q"
+        },
+        {
+          "name": "Sowut",
+          "url": "https://open.spotify.com/artist/2kA3NTw3EqMs3ouKRTINLD"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217684,
+      "name": "\u963f\u8cf4\u8036\u8b58",
+      "url": "https://open.spotify.com/track/2kYvt7MQlhcLa6mSbDQooC"
     },
     {
       "album": {

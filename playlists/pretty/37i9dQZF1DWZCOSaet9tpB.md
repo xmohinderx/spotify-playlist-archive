@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla?si=rOvgRKa0SRCS2VvZTn9TLQ"> Wande Coal </a>  and <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=zbaOOn\_ERS\-WpSmwax1zxg"> Olamide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,166 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,288 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

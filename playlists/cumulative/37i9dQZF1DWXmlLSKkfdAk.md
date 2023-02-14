@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-296 songs - 18 hr 0 min
+297 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [I Want You Back](https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [I Want You Back](https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [I Want You Back](https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:46 | 2022-07-27 |  |
 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ETyJUNoFqlA91aVIKVxYO) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/1KfuTdbeGsWrcWmHjSLjDj) | 3:11 | 2021-11-12 | 2022-07-29 |
-| [I Will Follow You into the Dark](https://open.spotify.com/track/6nTZAOEov0ZHjL1MEqQO8C) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/07kMiTbasl5Cg9kxgiXPkt) | 3:11 | 2022-07-27 |  |
+| [I Will Follow You into the Dark](https://open.spotify.com/track/6nTZAOEov0ZHjL1MEqQO8C) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/07kMiTbasl5Cg9kxgiXPkt) | 3:11 | 2022-07-27 | 2023-02-14 |
+| [I Will Follow You into the Dark](https://open.spotify.com/track/7J0nRmmjMB5YAGC18mNI8i) | [Eddie Island](https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV) | [I Will Follow You into the Dark](https://open.spotify.com/album/572VK71bFKbZjcDkP7DVVi) | 3:11 | 2023-02-10 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2021-11-12 |  |
 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 | 2021-11-12 |  |
 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 | 2021-11-12 |  |

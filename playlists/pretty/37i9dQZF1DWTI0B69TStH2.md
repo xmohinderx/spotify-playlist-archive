@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sonia pisze piosenki \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,822 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,000 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 80 | [Jenot](https://open.spotify.com/track/6r4PxkbuSvSfEHe25E6xqR) | [Dłonie](https://open.spotify.com/artist/3Ya6VPgR8fqYmPsvA4Icpo) | [Goniłem Za Słońcem, Bo Myślałem, Że to Dojrzałe Mango](https://open.spotify.com/album/4pI2ZUHX6OciCfKmjzwpVl) | 3:44 |
 | 81 | [Apple Cake](https://open.spotify.com/track/3ngJEdR8mdQicBQn3PnSsS) | [Filip Sterniuk](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw), [Daniel Hawes](https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH) | [Apple Cake](https://open.spotify.com/album/4cXLQRQn0cOr7OQZMjvd7V) | 3:13 |
 | 82 | [Sophisticated Goodbye](https://open.spotify.com/track/0QTaPfXH02buzYDChmpwwb) | [Quiet Sirens](https://open.spotify.com/artist/4WfOt3WQp8JDzleKWALT07) | [Sophisticated Goodbye](https://open.spotify.com/album/0wEJkly1dPAIjaFyrOiTf6) | 3:57 |
-| 83 | [Peron](https://open.spotify.com/track/7FnGbdCpgtd3qpveOOeHfi) | [Misery Joy](https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo) | [Peron](https://open.spotify.com/album/6XmEvckv7cQ0NnAtCbNQsN) | 3:41 |
+| 83 | [Peron](https://open.spotify.com/track/0jORxsvmrI2C2OzINhMaS1) | [Misery Joy](https://open.spotify.com/artist/72fB4ZARnT6TxSh07y34Bo) | [Peron](https://open.spotify.com/album/6UggltNUGkfMI1SgzDWk1q) | 3:41 |
 | 84 | [Slam](https://open.spotify.com/track/27E5yq8sxohV65ATzdTWFK) | [Syndrom Paryski](https://open.spotify.com/artist/6YnAXTemIyynMlPKL2TEOv) | [Slam](https://open.spotify.com/album/5jAGi12XggZ29UvEz5gwvh) | 2:48 |
 | 85 | [Zbolałe serce](https://open.spotify.com/track/6kGgWNW2d1VxR8MoTcqCfO) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Jacek Sienkiewicz](https://open.spotify.com/artist/6fcsAWZGM9kW8wcGiPRWxY) | [Zbolałe serce](https://open.spotify.com/album/20MIyb4ORaFuDkwjZdIHA2) | 4:05 |
 | 86 | [MANHATTAN](https://open.spotify.com/track/6DIbsL72MuXNO7E2dTSVQ0) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D), [Young Tommy](https://open.spotify.com/artist/2Z67lp8D7dt0YnPpMOtT2P) | [MANHATTAN](https://open.spotify.com/album/1wdoCFZpv3IHIp7jgaCfVf) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Labirynt łez](https://open.spotify.com/track/6imvk6cbD9KRi8kCi6pUe1) | [Mateuff's Monday](https://open.spotify.com/artist/6uiVpp8RgrRzOiM2qa5R7O) | [Labirynt łez](https://open.spotify.com/album/6ZlMx6alwtqVQR9TLYr0xj) | 2:48 |
 | 100 | [All About It](https://open.spotify.com/track/1vWHLyDySd9R2Vi9MAnT4D) | [Black Radio](https://open.spotify.com/artist/6yFzr6tJ20oC1CTt0MLgmw) | [All About It](https://open.spotify.com/album/62C2i60VjjASVPMVsZV7xn) | 3:01 |
 
-Snapshot ID: `MTY3NTgxMDgwMCwwMDAwMDAwMDliYjMzYTNjNDhkNWIyMjUzYTNjZDc4Y2VjMDAzNjM3`
+Snapshot ID: `MTY3NTgxMDgwMCwwMDAwMDAwMDA2MWRkNjJhZjE2NDk4NzA4MDRmYWZjNzgyNTQxMmZl`

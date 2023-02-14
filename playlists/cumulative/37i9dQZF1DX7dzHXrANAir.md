@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-234 songs - 17 hr 2 min
+235 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Grains of Gold](https://open.spotify.com/track/5v7pQPsysLm14B8S8FjkZL) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Grains of Gold](https://open.spotify.com/album/0Vecaj0BC8QYqMGhQLnDGF) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Grande Anse](https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ) | [Felix Räuber](https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL) | [Grande Anse](https://open.spotify.com/album/23J4oBfI2idJvAmHIlDGzI) | 3:01 | 2022-04-01 | 2022-10-18 |
 | [Gymnopédie No\. 3 \- Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\) / Edit](https://open.spotify.com/track/47PBJyZe1MA0Menqa6l3lD) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Gymnopédie No\. 3 \[Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/2ibADMduteqGORYnJ74ReP) | 4:30 | 2022-03-25 | 2022-04-02 |
+| [Gymnopédies](https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gymnopédies](https://open.spotify.com/album/0Nda1Wpk7K7Wax1EsdvQuI) | 2:42 | 2023-02-10 |  |
 | [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2021-12-10 | 2022-04-02 |
 | [Hazy Day](https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO) | [Venceslas Catz](https://open.spotify.com/artist/3wIgEya8AysFHG4ZF0mA7E) | [Hazy Day](https://open.spotify.com/album/6n1pAvuKmfKQL3HHeFTZHD) | 4:17 | 2022-03-18 | 2022-08-14 |
@@ -189,7 +190,7 @@
 | [Reverie](https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO) | [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [Epilogue, Pt\. 1](https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p) | 3:00 | 2021-12-10 | 2022-07-28 |
 | [Rhythmicon](https://open.spotify.com/track/6OMhxlIR8Hrnbn8vtnCJrE) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M) | [Rhythmicon](https://open.spotify.com/album/6HJMeLoOUbqZkzLu2HxbCN) | 5:09 | 2022-01-21 | 2022-07-29 |
 | [Ring Out The Darkness](https://open.spotify.com/track/1evRU2VfGEISWDFYOwmhSO) | [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5) | [The Age Of Oddities](https://open.spotify.com/album/1D1XaClDiDPHJBhdVIZNOr) | 5:45 | 2021-12-10 | 2022-07-29 |
-| [Riva](https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Riva](https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w) | 3:58 | 2022-06-24 |  |
+| [Riva](https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Riva](https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w) | 3:58 | 2022-06-24 | 2023-02-14 |
 | [Robin's Cello \(Turtle Remix\)](https://open.spotify.com/track/2HsZYb6o0xeb1L3GN2GSdF) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm), [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Robin's Cello \(Turtle Remix\)](https://open.spotify.com/album/3hFKtQ0iqej2FPELXulXT9) | 4:53 | 2022-06-10 | 2022-08-04 |
 | [Rose in Abstract](https://open.spotify.com/track/2cbVl45bfPrJ5LkffGXEgd) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Rose In Abstract](https://open.spotify.com/album/6Hc12NeN4AfqHtdXhUvV6O) | 4:58 | 2021-12-10 | 2022-07-27 |
 | [Rose in Abstract \- Portico Quartet Remix](https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Rose In Abstract \(Portico Quartet Remix\)](https://open.spotify.com/album/13Hiad2UiJ7yU9oxvN8A6E) | 5:01 | 2022-09-23 | 2022-12-06 |

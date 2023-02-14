@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-110 songs - 7 hr 57 min
+112 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [나 항상 그대를](https://open.spotify.com/track/3M0WcSADmchmaHOpTu3E2q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 3:36 | 2021-08-12 | 2022-07-29 |
 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 | 2021-08-12 |  |
 | [내 마음에 비친 내 모습](https://open.spotify.com/track/4w5jHmaPBwNN2Q9rOuYHUC) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 4:53 | 2021-08-12 |  |
-| [내 마음에 주단을 깔고 Spread Silk On My Heart](https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제2집 Volume 2](https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38) | 5:57 | 2021-08-12 |  |
+| [내 마음에 주단을 깔고](https://open.spotify.com/track/4uiY19nSBoYbRDWJ40vdaU) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 제2집 \- 내 마음에 주단을 깔고](https://open.spotify.com/album/03mvS9BXXbLSk3JqplSADQ) | 5:57 | 2021-08-12 |  |
+| [내 마음에 주단을 깔고 Spread Silk On My Heart](https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제2집 Volume 2](https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38) | 5:57 | 2021-08-12 | 2023-02-14 |
 | [내 사랑 내곁에](https://open.spotify.com/track/3gAxHUsVXzbPIYXdSRcAS4) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 6집](https://open.spotify.com/album/3gR5zi7mJjPmX54c4BE8UP) | 4:23 | 2021-08-12 | 2022-07-29 |
 | [내 사랑 내곁에](https://open.spotify.com/track/5BKRpouE6rMJiSIa3rlUGu) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 6집](https://open.spotify.com/album/2p3UEiaV7CfDmdqJ90nm7A) | 4:23 | 2021-08-12 |  |
 | [내 사랑 내곁에](https://open.spotify.com/track/3gDuKLWDJwL11e8QvFPwXP) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [우리 모두 여기에 5](https://open.spotify.com/album/7LSJZBxyyazs65q6z4RPQ5) | 4:25 | 2021-08-12 | 2022-11-13 |
@@ -88,7 +89,8 @@
 | [슬퍼하지 말아요](https://open.spotify.com/track/0aAJL7KZVKZiQV4QAY87vI) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:08 | 2021-08-12 |  |
 | [슬퍼하지 말아요](https://open.spotify.com/track/6ia7CUmAFS7hIbo8IRNfZ9) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 4:08 | 2021-08-12 | 2022-07-29 |
 | [슬픈 인연 Original Version](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [나미](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 | 2021-08-12 |  |
-| [아니 벌써 Already Now](https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제1집 Volume 1](https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH) | 5:34 | 2021-08-12 |  |
+| [아니 벌써](https://open.spotify.com/track/3G29NaTgIthXfT0alMrTTH) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 새 노래 모음 \- 아니 벌써](https://open.spotify.com/album/348qDfPkg9JOms6C5aZmPv) | 5:35 | 2021-08-12 |  |
+| [아니 벌써 Already Now](https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제1집 Volume 1](https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH) | 5:34 | 2021-08-12 | 2023-02-14 |
 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 | 2021-08-12 |  |
 | [아름다운 강산](https://open.spotify.com/track/1f0a2W5KRLRuKw2g8Qc2OR) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 6:15 | 2021-08-12 | 2022-07-29 |
 | [아름다운 강산](https://open.spotify.com/track/2PcJyD7fkbfUmmjL7cviOF) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao) | 6:15 | 2021-08-12 | 2022-11-13 |

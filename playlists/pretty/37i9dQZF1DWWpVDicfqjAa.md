@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,721 likes - 76 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,747 likes - 76 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 24 | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/track/4ggADc9LlBu7cV0etZRzXc) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [Prince African Child](https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X), [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h) | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/album/2pHq11yAYqIR5P360eFXzk) | 6:01 |
 | 25 | [Comfy](https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Trillary Banks](https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY) | [Comfy](https://open.spotify.com/album/1WDYeelj0L1Xl4U4ZYOZKk) | 2:43 |
 | 26 | [Automotivo Delirante](https://open.spotify.com/track/6SHnki7ky8SRTBb12iF6AD) | [djfuryzl](https://open.spotify.com/artist/6CHfctV0xTse0qz9LGlpoK), [MC CAROL 011](https://open.spotify.com/artist/2nHLrRSXFJWJod42bGYxdP), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Melodias](https://open.spotify.com/album/4ZzJJHdw5ukhUC1XO3bewf) | 2:57 |
-| 27 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 |
+| 27 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 28 | [Got Em \(Sango Remix\)](https://open.spotify.com/track/42HJvTZUDb2gcbSOKevQI8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 3:41 |
 | 29 | [Montagem Guerreira](https://open.spotify.com/track/6o8vrzkQN8brqLVxycCVX5) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo) | 2:26 |
 | 30 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 75 | [Wild Youngster](https://open.spotify.com/track/7HuxkewJ7OwjUF70rklnBf) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Wild Youngster](https://open.spotify.com/album/39aavnu7FUfrhrUznSTYN6) | 3:26 |
 | 76 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 
-Snapshot ID: `MTY3NTkwODg1OCwwMDAwMDAwMDZjODlkYjEzZmI4YzYzODAzYmU2ODU3ZTNhZTBmNjAz`
+Snapshot ID: `MTY3NTkwODg1OCwwMDAwMDAwMDAyOGU1ZjQyNTExMWIzZGViNDExZmIxMTI4ZWYwNzcy`

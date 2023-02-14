@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,619 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,631 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 18 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
 | 19 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
 | 20 | [Run It Up](https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Run It Up](https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl) | 2:21 |
-| 21 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
-| 22 | [Cost of Loyalty](https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Cost of Loyalty](https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS) | 2:28 |
+| 21 | [Cost of Loyalty](https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Cost of Loyalty](https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS) | 2:28 |
+| 22 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
 | 23 | [Dangerous](https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF), [Lil Bouncer](https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh) | [Dangerous](https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK) | 2:42 |
 | 24 | [Face](https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA) | [G\-Mainey](https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Face](https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk) | 2:40 |
 | 25 | [One Day Left](https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [Thicker Than Water](https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x) | 4:25 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDJmOWVkMTkyZTk2NTc4OGFjZGM1YmQ0OTY1OWZlNDk1`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDU1MDY4ZjVlMjRiNTdhMjZjZjUyOWY4MzRjNjJiZGZk`

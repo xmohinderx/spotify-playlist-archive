@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1300,
+  "num_followers": 1302,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGJjNDQ2MWYwMzJjMzBjN2RkODgwOTQxYzc0M2M4Mzkw",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGUxOGQ3YTAwMjc3ODJjYzQwMzU4ODg3NDRhMjhjOTYz",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -303,26 +303,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Sofia the First: Once Upon a Princess",
-        "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
-      },
-      "artists": [
-        {
-          "name": "Cast - Sofia the First",
-          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Rise And Shine",
-      "url": "https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 162400,
       "name": "Todos a Moverse",
       "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Sofia the First: Once Upon a Princess",
+        "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Rise And Shine",
+      "url": "https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -403,26 +403,6 @@
       "duration_ms": 66613,
       "name": "The Potty Dance Song",
       "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -499,6 +479,26 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Please Come To My Party",
         "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 131600,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -631,22 +647,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Rocknoceros",
         "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Las 4 Estaciones, vol. 11",
         "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
+        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -819,6 +819,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Musi",
+        "url": "https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 64208,
+      "name": "Del plato a la boca",
+      "url": "https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Pink!",
         "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 184600,
       "name": "Nappin' Time",
       "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
-      },
-      "artists": [
-        {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
-        }
-      ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     }
   ],
   "unique_name": "Daily Rutina",

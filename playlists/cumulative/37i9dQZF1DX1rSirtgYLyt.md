@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-112 songs - 8 hr 23 min
+114 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 | 2022-07-08 |  |
 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 | 2022-06-24 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-06-24 |  |
+| [Built for Comfort](https://open.spotify.com/track/2qm4ndp7taYoHbvlQKDQAX) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Black & Blues Revisited](https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg) | 3:48 | 2023-02-13 |  |
 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 | 2022-06-24 |  |
 | [Change Is Gonna Come](https://open.spotify.com/track/6QEhyWyMPQ3cUtCsu5MRM2) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:02 | 2022-06-24 | 2022-07-29 |
 | [Change Is Gonna Come](https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:02 | 2022-07-08 |  |
@@ -72,6 +73,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 | 2022-07-08 |  |
 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 | 2022-06-24 |  |
 | [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 | 2023-01-06 |  |
+| [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 | 2023-02-13 |  |
 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A) | 4:36 | 2023-02-09 |  |
 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 | 2022-06-24 |  |
 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 | 2022-06-24 |  |

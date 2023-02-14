@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. chiiild on the cover.
 
-1,016 songs - 2 day 4 hr 10 min
+1,017 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-09-18 | 2021-11-13 |
 | [Ancient Dreams In A Modern Land](https://open.spotify.com/track/5q324gelss3QQAIejPFlD3) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/7J2lSz3yNfbiFEaVtQbYyx) | 3:26 | 2021-05-22 | 2021-06-05 |
 | [and it sounds like \(ice cream\)](https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [and it sounds like \(ice cream\)](https://open.spotify.com/album/6fWHxmatgCkHpC3BmECELk) | 2:35 | 2021-10-30 | 2022-02-26 |
+| [anesthetized](https://open.spotify.com/track/1LG5MEAvKXvuvrWprlOPWH) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [a/b\_\_1](https://open.spotify.com/album/1xT3XuUL2DMkNEJaZZm3MA) | 2:34 | 2023-02-13 |  |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-01-16 | 2021-03-27 |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-10-02 | 2022-01-22 |
 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 |  |
@@ -659,7 +660,7 @@
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-19 | 2021-07-31 |
 | [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 | 2022-04-22 | 2023-01-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-07-31 | 2021-08-14 |
-| [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 | 2022-08-05 |  |
+| [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 | 2022-08-05 | 2023-02-14 |
 | [Panic Attack](https://open.spotify.com/track/5aXqav0oqptwqmhdRrH5e8) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Panic Attack](https://open.spotify.com/album/72aADhEzG3mFn55ASNRahw) | 3:14 | 2022-02-04 | 2022-07-30 |
 | [Paper Hero](https://open.spotify.com/track/7vtMYNyyVfBfYZ2ppDncmk) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [Paper Hero](https://open.spotify.com/album/2mfolriJcum79EdIydGqM3) | 2:37 | 2020-10-29\* | 2020-11-04 |
 | [paranoia](https://open.spotify.com/track/11TXeRevqYzPNw2i2qsvzT) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Motel 6...paranoia](https://open.spotify.com/album/6g6IufYpFh84awZjdjRYql) | 3:15 | 2020-11-03 | 2020-12-07 |

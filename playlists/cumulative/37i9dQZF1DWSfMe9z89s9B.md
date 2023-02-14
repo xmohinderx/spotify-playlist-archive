@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Isaia Huron
 
-737 songs - 1 day 15 hr 47 min
+738 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Eternal](https://open.spotify.com/track/7ghQR7IEqOXnWu7qfHvw2W) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Eternal](https://open.spotify.com/album/4iQ3mUrnyOW7e1BMkbPfHh) | 2:40 | 2021-05-14 | 2022-07-11 |
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
+| [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 |  |
 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 | 2021-04-02 | 2022-07-27 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-10-28 |  |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-04-01 | 2022-07-16 |
@@ -512,7 +513,7 @@
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-25 | 2022-05-19 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-07-29 |  |
 | [Potential](https://open.spotify.com/track/1Wl7Rh9lUbQjA9RvHEiCbc) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/5U7pW6Www9PZzXB1JFrBtF) | 2:54 | 2022-04-01 | 2022-07-29 |
-| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2022-06-10 |  |
+| [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2022-06-10 | 2023-02-14 |
 | [Power](https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Power](https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms) | 2:48 | 2022-07-29 | 2022-08-20 |
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-09-10 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-21 |  |

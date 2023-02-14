@@ -2,7 +2,7 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> See you in the Laneway pit, yeah? Cover: BENEE
+> Music that's hard to define but easy to love Cover: BENEE
 
 736 songs - 1 day 17 hr 51 min
 

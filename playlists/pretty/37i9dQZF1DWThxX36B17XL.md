@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThxX36B17XL.md) - [plain](/playlists/plain/37i9dQZF1DWThxX36B17XL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWThxX36B17XL)
 
-### [This Is: Soda Stereo](https://open.spotify.com/playlist/37i9dQZF1DWThxX36B17XL)
+### [This Is Soda Stereo](https://open.spotify.com/playlist/37i9dQZF1DWThxX36B17XL)
 
 > No es música ligera, son canciones animales y cumplieron 30 años.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,326 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,557 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThxX36B17XL.md) - [plain]
 | 49 | [Nuestra Fe \- Remasterizado 2007](https://open.spotify.com/track/6c8DcjaMvJJFxygPtJdp51) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:36 |
 | 50 | [Claroscuro \- Remasterizado 2007](https://open.spotify.com/track/7JKYhH7ptVeyErBUbvUpZF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 4:04 |
 
-Snapshot ID: `MTYzNzE1NjUxNCwwMDAwMDAwMDI1YWVlOTQ4NDMwYTAzM2U3NjFhZTk5N2QwNDYxZjAx`
+Snapshot ID: `MTY3NjMwNDEzNiwwMDAwMDAwMDdjYmE1MzJiM2Q3NDc5MzI0ZTFjMzVkZjVkMjU4OWNh`

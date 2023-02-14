@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Sleaford Mods
 
-837 songs - 1 day 18 hr 23 min
+838 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [El Dorado](https://open.spotify.com/track/1G7gjVi7RTnivq0IhKpPfi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [El Dorado](https://open.spotify.com/album/35sMewPvkGqx8fwPlN7KQP) | 3:55 | 2022-03-25 | 2022-04-29 |
 | [Empty Lines](https://open.spotify.com/track/0pJUQFLsHdgBJ3aE20oZ9g) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Empty Lines](https://open.spotify.com/album/0DvvJI1aI0p1dHqi7KNEo0) | 3:20 | 2022-09-22 | 2022-11-11 |
 | [End of The Line](https://open.spotify.com/track/1bm2iagFnM4GmXJUrDlK85) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [End of The Line](https://open.spotify.com/album/6bzKH9DBpM32NRnpz4i8Va) | 2:58 | 2022-11-04 |  |
+| [End of The Line](https://open.spotify.com/track/6CBIAlqfFn4KfKOwwhf7rk) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 2:58 | 2023-02-10 |  |
 | [End of the World/A Game of Chess](https://open.spotify.com/track/61Wr8Uti1rMxMV0NBv2uOx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [End of the World](https://open.spotify.com/album/1uUnNVwOZxR4RGIZpAHgHS) | 3:56 | 2022-06-16 | 2022-08-05 |
 | [Endless Days](https://open.spotify.com/track/3o6QHspTNoFvqA8W1t4Rvr) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [Endless Days](https://open.spotify.com/album/5jLxXpuWeFoZS2mjq0y6iu) | 3:18 | 2022-02-18 | 2022-03-04 |
 | [Eugene \- Single Edit](https://open.spotify.com/track/0IDM4UxzlulbTqSDoMY1Sn) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Eugene](https://open.spotify.com/album/0WtyEWiFm9IWQ9pXBopnOH) | 3:12 | 2022-08-04 | 2022-09-23 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 256300,
+  "num_followers": 256532,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMGE4MmRmYzRlYjU5Y2QxNDkyYWU0MGE1ZmM3NGVkZTY0",
+  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMGUyYzI2NTZlMzFiNDViZDBmZWE4YzEzOGMzOGZmZjZj",
   "tracks": [
     {
       "added_at": "2023-01-31 18:51:13",
@@ -251,6 +251,38 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "The Perfect Drug",
+      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 224801,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "F & M (Deluxe)",
         "url": "https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1"
       },
@@ -299,38 +331,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 224801,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Lost Highway",
-        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "The Perfect Drug",
-      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "ANTI-ICON",
         "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 147181,
       "name": "Hydrochloride",
       "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Celldweller (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 302693,
       "name": "Switchback",
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -491,38 +507,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Anima Inferna",
-        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Skills in Pills",
-        "url": "https://open.spotify.com/album/0koBPzLDxkhwKrKb3JmJ9n"
-      },
-      "artists": [
-        {
-          "name": "Lindemann",
-          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Skills in Pills",
-      "url": "https://open.spotify.com/track/6hvBZMTNAJTCei1BxEATzK"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -555,18 +555,34 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+        "name": "Skills in Pills",
+        "url": "https://open.spotify.com/album/0koBPzLDxkhwKrKb3JmJ9n"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Lindemann",
+          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+      "duration_ms": 255680,
+      "name": "Skills in Pills",
+      "url": "https://open.spotify.com/track/6hvBZMTNAJTCei1BxEATzK"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Anima Inferna",
+        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
-      },
-      "artists": [
-        {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "www.pitchshifter.com",
+        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
+      },
+      "artists": [
+        {
+          "name": "Pitchshifter",
+          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Bites",
         "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 416706,
       "name": "Assimilate",
       "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Gravity Kills",
+        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+      },
+      "artists": [
+        {
+          "name": "Gravity Kills",
+          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Gravity Kills",
-        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
       "artists": [
         {
-          "name": "Gravity Kills",
-          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -863,22 +879,6 @@
       "duration_ms": 302950,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Killing Joke",
         "url": "https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 225466,
       "name": "Requiem - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Ofelia",
-        "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Ofelia",
-      "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
+        "name": "Ofelia",
+        "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
       },
       "artists": [
         {
-          "name": "SKYND",
-          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
         }
       ],
-      "duration_ms": 394285,
-      "name": "Jim Jones",
-      "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+      "duration_ms": 188613,
+      "name": "Ofelia",
+      "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1079,6 +1063,22 @@
       "duration_ms": 240159,
       "name": "Golgotha Tenement Blues",
       "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
+      },
+      "artists": [
+        {
+          "name": "SKYND",
+          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+        }
+      ],
+      "duration_ms": 394285,
+      "name": "Jim Jones",
+      "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
       "artists": [
         {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
         }
       ],
-      "duration_ms": 179733,
-      "name": "After the Flesh",
-      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
         }
       ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+      "duration_ms": 179733,
+      "name": "After the Flesh",
+      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
     },
     {
       "added_at": "2023-01-31 18:51:13",

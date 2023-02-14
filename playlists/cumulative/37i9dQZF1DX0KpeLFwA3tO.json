@@ -4119,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Taken By Force",
+        "url": "https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv"
+      },
+      "artists": [
+        {
+          "name": "CIVIC",
+          "url": "https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "End of The Line",
+      "url": "https://open.spotify.com/track/6CBIAlqfFn4KfKOwwhf7rk"
+    },
+    {
+      "album": {
         "name": "End of the World",
         "url": "https://open.spotify.com/album/1uUnNVwOZxR4RGIZpAHgHS"
       },

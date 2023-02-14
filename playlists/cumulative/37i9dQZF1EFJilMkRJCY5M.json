@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Love's Contagious",
+        "url": "https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139625,
+      "name": "Love's Contagious",
+      "url": "https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT"
+    },
+    {
+      "album": {
         "name": "Lena Stone",
         "url": "https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi"
       },
@@ -1184,6 +1202,24 @@
       "duration_ms": 185440,
       "name": "Somebody Else's Somebody",
       "url": "https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6"
+    },
+    {
+      "album": {
+        "name": "Someone Else's Heartbreak",
+        "url": "https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "Someone Else's Heartbreak",
+      "url": "https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB"
     },
     {
       "album": {

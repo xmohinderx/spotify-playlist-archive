@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 44 | [All Your Kisses \- Acoustic](https://open.spotify.com/track/1u5jjtVuVOimNEyfmIUzhA) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses \(Acoustic\)](https://open.spotify.com/album/4NI8xIoY0qojBv2fMU46f1) | 2:28 |
 | 45 | [Cherry Pie \(My Oh My\)](https://open.spotify.com/track/7piQg3hJYM8s3BlFEoLZh5) | [Noa Neal](https://open.spotify.com/artist/2eiRmGrpDvwwyVwkDWbtKD) | [Cherry Pie \(My Oh My\)](https://open.spotify.com/album/2VdmVBxp1ZRfDUjTjk6Gxw) | 3:04 |
 | 46 | [Strange Desire](https://open.spotify.com/track/7HgpfbhruGC6bX8BYzRlqo) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:05 |
-| 47 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 |
-| 48 | [Alles Om Me Heen](https://open.spotify.com/track/6y60mSvgI9Lld6W2O2p1WT) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg), [Jan van Duikeren](https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL) | [In Balans](https://open.spotify.com/album/2IrMLCRBXv2x69VSXjRJa6) | 3:00 |
+| 47 | [Alles Om Me Heen](https://open.spotify.com/track/6y60mSvgI9Lld6W2O2p1WT) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg), [Jan van Duikeren](https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL) | [In Balans](https://open.spotify.com/album/2IrMLCRBXv2x69VSXjRJa6) | 3:00 |
+| 48 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 |
 | 49 | [Destiny's Child](https://open.spotify.com/track/1ZSSboAHLZZUPhXgAfHA8J) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:42 |
 | 50 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 |
 | 51 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
 | 52 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `Mjc5Mzc0NTgsMDAwMDAwMDAzOTZlODBiNDM3MzZhZmYyM2E4N2VlN2I4NDg2ZmU3YQ==`
+Snapshot ID: `Mjc5Mzg4OTgsMDAwMDAwMDBlODc5MDVmOWFlNTJlMTE2YTUxYWI5OTUwZWUzYzYwOA==`

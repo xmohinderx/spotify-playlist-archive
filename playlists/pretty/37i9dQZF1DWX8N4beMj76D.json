@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8317,
+  "num_followers": 8330,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDliZmU2NDgzODdiMThhZDMxYmM3YTMwNzA2NWQwM2Jj",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZhNDgzNTVjMGIwODZhM2MwNjYyZTFmOTMyNGFhNThm",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -395,22 +395,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "From Her To Eternity (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 309280,
-      "name": "Avalanche - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 268853,
       "name": "Be for Real",
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "From Her To Eternity (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 309280,
+      "name": "Avalanche - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -455,22 +471,6 @@
       "duration_ms": 221093,
       "name": "I Can't Forget",
       "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Story Of Isaac",
-      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 482493,
       "name": "Always",
       "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Story Of Isaac",
+      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
     },
     {
       "added_at": "2018-12-06 19:29:22",

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1476,
+  "num_followers": 1478,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMGY1NzMzMDkwZjBmMDQzMTliMmY2ZGJlNTM4M2RmZTM1",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMGRhMzE0ZmQ5ZTQ0MzA4NGFiNDE5NmIxZmE2ZTU1MzIx",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 173097,
+      "name": "A Keeper",
+      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Rich Minion",
         "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 264506,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 173097,
-      "name": "A Keeper",
-      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Me, Myself & I",
         "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 379004,
       "name": "PRICE OF FAME",
       "url": "https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Nouveau western",
-        "url": "https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 274026,
-      "name": "Nouveau western",
-      "url": "https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Nouveau western",
+        "url": "https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 274026,
+      "name": "Nouveau western",
+      "url": "https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Welcome to Heaven",
         "url": "https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Backend",
-        "url": "https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 231409,
-      "name": "Backend",
-      "url": "https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 158728,
       "name": "Proud",
       "url": "https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Backend",
+        "url": "https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 231409,
+      "name": "Backend",
+      "url": "https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6"
     }
   ],
   "unique_name": "Zack Bia's Taste",

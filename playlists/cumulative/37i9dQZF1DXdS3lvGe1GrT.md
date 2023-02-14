@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Mon RovÎa \| Visual Artist: Bailey Elder
 
-413 songs - 1 day 1 hr 5 min
+414 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |
 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 | 2022-11-30 | 2023-01-12 |
 | [Moving Light](https://open.spotify.com/track/4MrpDYKdZ8CYsfTw3hnNma) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Moving Light](https://open.spotify.com/album/4t4E8cI5Nxb1jRPwqmNDbA) | 1:32 | 2022-08-03 | 2022-11-10 |
+| [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 | 2023-02-13 |  |
 | [Mutual Friends](https://open.spotify.com/track/70UulySjKVnV67gJRi9XzI) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Mend](https://open.spotify.com/album/7HRPtt8ht452JmyM5kogNE) | 3:41 | 2022-09-14 | 2022-12-01 |
 | [my energy](https://open.spotify.com/track/3tv44lTRadLuxXhMy6b2ZD) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 2:53 | 2022-09-28 | 2023-01-12 |
 | [My Weakness](https://open.spotify.com/track/70eeePOYW3D3GubmKM197H) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Highways](https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC) | 4:20 | 2022-10-19 | 2022-12-01 |

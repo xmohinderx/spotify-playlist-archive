@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diomedes Díaz
 
-85 songs - 6 hr 4 min
+86 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-09-02 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2022-09-02 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-21 | 2022-11-13 |
+| [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 |  |
 | [Regálame una Noche](https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:56 | 2022-09-02 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-09-02 |  |
 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 | 2022-10-21 | 2022-11-14 |

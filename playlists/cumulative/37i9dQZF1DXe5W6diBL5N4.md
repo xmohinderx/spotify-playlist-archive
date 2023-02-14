@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: VIVIZ \(비비지\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
+> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: KEY\(키\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-4,104 songs - 9 day 21 hr 55 min
+4,107 songs - 9 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1859,6 +1859,7 @@
 | [KILL BILL \(Feat\. Mckdaddy\)](https://open.spotify.com/track/1jDbrrHeRBPe52iwqILviv) | [AMONG](https://open.spotify.com/artist/4wqwexHergkBStFEbpOtsa), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [010\-BABY\-LIAR](https://open.spotify.com/album/0E2wsuM72fOvs8ehD5bx3e) | 2:22 | 2022-05-17 | 2022-05-28 |
 | [Kill Me](https://open.spotify.com/track/0MyYbB4t71qQ6Zm22JPaSr) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [Kill Me](https://open.spotify.com/album/25PwW0Up7QMQhyWP1QRTVQ) | 2:18 | 2022-05-09 | 2022-05-14 |
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-13 | 2022-06-21 |
+| [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-13 |  |
 | [Killing Me](https://open.spotify.com/track/7Apd6r1Y5VvasTkePjAFMX) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Again my life, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/6scK0RgdGrVzvroUjxuxud) | 3:10 | 2022-05-30 | 2022-06-14 |
 | [Killing Me Softly](https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U) | [YEONSOO](https://open.spotify.com/artist/6FmCROVFW3PQIlqoBYAocb) | [Killing Me Softly](https://open.spotify.com/album/0GJGagxsW2ICMbhu5E2rUq) | 4:07 | 2022-12-23 | 2023-01-11 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-01 | 2022-08-15 |
@@ -2801,6 +2802,7 @@
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-22 | 2022-07-05 |
 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 | 2022-10-17 | 2022-11-15 |
 | [RIRIA \(Feat\. RIO\)](https://open.spotify.com/track/6XP8su9paOGky7TIwUVMSR) | [Wooo!](https://open.spotify.com/artist/3cvCbj9p803KhhcymLpS9y), [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [SATURATION](https://open.spotify.com/album/1DYzFlP0f4yside6m1CmIi) | 4:04 | 2022-07-24 | 2022-08-10 |
+| [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-02-13 |  |
 | [Ritual](https://open.spotify.com/track/4prRyg18eZ0NiIeVLe6OQN) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Ritual](https://open.spotify.com/album/5NDZnHYEemHxdaJCSZDp9y) | 4:35 | 2022-05-11 | 2022-05-28 |
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-06-27 | 2022-07-05 |
 | [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 | 2022-12-11 | 2022-12-22 |
@@ -3848,6 +3850,7 @@
 | [Yeontral Park](https://open.spotify.com/track/1uMPBVNOaRvQXFdjTD2PXs) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [나는야 락스타 ! I’m a rockstar !](https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9) | 3:07 | 2022-11-20 | 2022-12-22 |
 | [YEPPI](https://open.spotify.com/track/3pQB0ZEurtXs6sH8udjdDp) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM), [Sun The Lily](https://open.spotify.com/artist/26ZzSEqe3BecaqkIRfzx3G) | [YEPPI](https://open.spotify.com/album/3w7E8sAM09goOjUJmEqFkt) | 3:03 | 2022-11-06 | 2022-12-22 |
 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 | 2022-06-28 | 2022-07-05 |
+| [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |
 | [Yesterday \(feat\. Myah Marie\)](https://open.spotify.com/track/47bCIsokTEi2EYlfPH0yBO) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td), [Hoonie](https://open.spotify.com/artist/0CPEc9L3MkZdwT5KdXmQ6t), [Myah Marie](https://open.spotify.com/artist/2bhKoNWwiNLxvkd1ynM8pV) | [Yesterday \(feat\. Myah Marie\)](https://open.spotify.com/album/3GnZDZlTltVVs6d7vhXZMP) | 3:09 | 2022-12-26 | 2023-01-12 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2022-06-21 |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2022-06-13 | 2022-06-19 |

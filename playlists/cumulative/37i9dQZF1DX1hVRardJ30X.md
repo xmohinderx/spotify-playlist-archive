@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: 3AM & Danny Ocean
 
-3,431 songs - 7 day 13 hr 42 min
+3,432 songs - 7 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-05-13 | 2022-05-20 |
 | [Bajo](https://open.spotify.com/track/7sNB4LjbVdcApb0YMQSPMG) | [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Bajo](https://open.spotify.com/album/0qgrn8W2Rj87k6t9vR7fEh) | 2:42 | 2022-04-15 | 2022-04-23 |
 | [Bajo La Luna](https://open.spotify.com/track/3SXAtkgPCf6VDixBfmEO9o) | [Don H](https://open.spotify.com/artist/1Jw4eaANZcZiKgXGCMLHOc) | [Bajo La Luna](https://open.spotify.com/album/0MzPakofPDrkSeVUkR2kdE) | 2:25 | 2022-05-13 | 2022-05-20 |
-| [Balinha de Coração](https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:16 | 2023-02-10 |  |
+| [Balinha de Coração](https://open.spotify.com/track/2wBMHYa50dcBf7NJoaHCPE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Balinha de Coração](https://open.spotify.com/album/2B3qZ6SDN8qohOl09NjjQl) | 2:16 | 2023-02-10 |  |
+| [Balinha de Coração](https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:16 | 2023-02-10 | 2023-02-14 |
 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 | 2022-03-04 | 2022-03-12 |
 | [Bam Bae](https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6Q9yaSKHTC2gtZtvIC3Ch9) | 2:34 | 2022-09-16 | 2022-09-24 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-04 | 2022-03-12 |

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-168 songs - 9 hr 46 min
+169 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Pukaar](https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [SHE](https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC) | 3:46 | 2021-12-06 |  |
 | [pyaar hai asli](https://open.spotify.com/track/1WUUDaIcbhfpT8zOSJSUq7) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [sakuna matata](https://open.spotify.com/album/1uTqbU7ucZyccnXtqtVsOc) | 3:58 | 2022-05-06 |  |
 | [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 | 2021-12-06 |  |
+| [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 | 2023-02-13 |  |
 | [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 | 2022-09-09 | 2022-11-24 |
 | [Risky](https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks) | [Risky](https://open.spotify.com/album/0RkRTVDy2rPJlvcRkllfvu) | 3:26 | 2021-12-06 |  |
 | [Roshni](https://open.spotify.com/track/3tFVhYNqkUVUbDH2H9KZtS) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Roshni](https://open.spotify.com/album/1wYUhTYNKkHSQRM3Gyb6Fb) | 3:53 | 2022-06-10 | 2022-09-15 |
@@ -174,7 +175,7 @@
 | [You and I](https://open.spotify.com/track/7EsRRR13vJUBY4w3melVOe) | [Saba](https://open.spotify.com/artist/4MfJpctdjE0XWsRmTJbCMY), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [You and I](https://open.spotify.com/album/6vo4H24QWt2XyqhqnZbArD) | 3:29 | 2021-12-06 | 2022-03-05 |
 | [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 |  |
 | [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 | 2021-12-06 | 2022-07-29 |
-| [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 | 2022-07-05 |  |
+| [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 | 2022-07-05 | 2023-02-14 |
 | [Zooted](https://open.spotify.com/track/62PH2BRDOFw0AHZYar3zfD) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Zooted](https://open.spotify.com/album/4yL8vNrO9vE7i59jK28Xhi) | 3:41 | 2021-12-06 | 2022-03-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

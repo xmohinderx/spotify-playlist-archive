@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421324,
+  "num_followers": 421551,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDg3ZDgxNzNjNThiYWRhODgyN2YwZTM1ZWFlMTU2NmQ4",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGM1NTA3NGY2YjRiM2Y4ZGEwODZjZDU2NzNjY2VlZWMx",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -179,6 +179,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Incrivel Jogando a Potranca",
+        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Incrivel Jogando a Potranca",
+      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 124238,
       "name": "Bagulho Louco",
       "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Incrivel Jogando a Potranca",
-        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Incrivel Jogando a Potranca",
-      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -331,6 +331,30 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 170410,
       "name": "Pra Gente Acordar",
       "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Devagarin",
         "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 135285,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     }
   ],
   "unique_name": "RADAR Brasil",

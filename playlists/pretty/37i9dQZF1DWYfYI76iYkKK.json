@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116447,
+  "num_followers": 116466,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMDM3MWRjYjQzMDhmZWE3NjViYTJjYTk2OTlkYzU5MzY0",
+  "snapshot_id": "MTY3NTk1ODQwMCwwMDAwMDAwMDUyNzU0ZTMyNzgzZWZiMzA0NTE4Y2NhMTJjZjM4MTFl",
   "tracks": [
     {
       "added_at": "2023-02-09 16:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
         "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
         "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
       },
@@ -287,38 +303,6 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "\u6084\u6084\u544a\u8a34\u4f60",
-        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
-      },
-      "artists": [
-        {
-          "name": "Christine Fan",
-          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "\u6084\u6084\u544a\u8a34\u4f60",
-      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 187369,
       "name": "If Only...",
       "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
+        "name": "\u6084\u6084\u544a\u8a34\u4f60",
+        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
+      },
+      "artists": [
+        {
+          "name": "Christine Fan",
+          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "\u6084\u6084\u544a\u8a34\u4f60",
+      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
     },
     {
       "added_at": "2023-02-09 16:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "\u9081\u5411\u4e09\u5341",
-        "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "\u6703\u4e0d\u6703 - \u4e0d\u63d2\u96fb\u7248",
-      "url": "https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
         "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
         "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
+        "name": "\u9081\u5411\u4e09\u5341",
+        "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "\u6703\u4e0d\u6703 - \u4e0d\u63d2\u96fb\u7248",
+      "url": "https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh"
     },
     {
       "added_at": "2023-02-09 16:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
         "name": "The Joy Of Sorrow",
         "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
+        "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
       },
       "artists": [
         {
-          "name": "HAOR",
-          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
+          "name": "\u674e\u6cbb\u5ef7",
+          "url": "https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd"
         }
       ],
-      "duration_ms": 247124,
-      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
+      "duration_ms": 244474,
+      "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
     },
     {
       "added_at": "2023-02-09 16:00:00",
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-        "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
+        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
       },
       "artists": [
         {
-          "name": "\u674e\u6cbb\u5ef7",
-          "url": "https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd"
+          "name": "HAOR",
+          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
         }
       ],
-      "duration_ms": 244474,
-      "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
+      "duration_ms": 247124,
+      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
     },
     {
       "added_at": "2023-02-09 16:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
     },
     {
       "added_at": "2023-02-09 16:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
-      },
-      "artists": [
-        {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
-        }
-      ],
-      "duration_ms": 290022,
-      "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
         "name": "\u771f\u7f8e",
         "url": "https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU"
       },
@@ -771,22 +755,6 @@
     {
       "added_at": "2023-02-09 16:00:00",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw"
-      },
-      "artists": [
-        {
-          "name": "WayV-KUN&XIAOJUN",
-          "url": "https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih"
-    },
-    {
-      "added_at": "2023-02-09 16:00:00",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 310933,
       "name": "\u966a\u8457\u4f60",
       "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
+        "name": "\u6211\u7684\u611b (Diva Classics - Part 4)",
+        "url": "https://open.spotify.com/album/5T601zJp4XTdgoyKucd9hE"
+      },
+      "artists": [
+        {
+          "name": "Rose Liu",
+          "url": "https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn"
+        }
+      ],
+      "duration_ms": 241179,
+      "name": "\u6211\u7684\u611b - Diva Classics - Part 4",
+      "url": "https://open.spotify.com/track/0uahazD3DNQw2XgLtWEoPC"
+    },
+    {
+      "added_at": "2023-02-09 16:00:00",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw"
+      },
+      "artists": [
+        {
+          "name": "WayV-KUN&XIAOJUN",
+          "url": "https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih"
     },
     {
       "added_at": "2023-02-09 16:00:00",

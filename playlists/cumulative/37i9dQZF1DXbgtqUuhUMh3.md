@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-388 songs - 22 hr 44 min
+389 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-03-03 | 2022-11-26 |
 | [A la vie a la mort](https://open.spotify.com/track/0vuc98OKwnmkAlbWuVqxzS) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A la vie a la mort](https://open.spotify.com/album/77wvNtDg6gy715Cm8CKaiP) | 2:49 | 2022-03-01 |  |
 | [A Rose](https://open.spotify.com/track/47HR7czICxN3fYcKaxA58D) | [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [When the Waves](https://open.spotify.com/album/2d5Hg07xtKifotQbKTz7Fa) | 3:45 | 2021-12-23 | 2022-02-28 |
+| [Aalam Tani](https://open.spotify.com/track/2u7YPthKHdP2MHPDnpzNLm) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Aalam Tani](https://open.spotify.com/album/1TjRs9gegBD9q15b461EiI) | 3:38 | 2023-02-09 |  |
 | [Aam Lamehlak](https://open.spotify.com/track/4H5TawRBzjTtnLUTLuOKx4) | [Rola Kadri](https://open.spotify.com/artist/16hd7FTdRn4rC2GoOoajDn) | [Aam Lamehlak](https://open.spotify.com/album/4X12JI0ML6Gu006TonDGRc) | 3:20 | 2021-12-23 | 2022-03-02 |
 | [Aamel Nasini](https://open.spotify.com/track/63bfjUj6fMBP6LgI0cHKX9) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Aamel Nasini](https://open.spotify.com/album/6JtgZQjsNoj5ZwA2MPJL78) | 3:25 | 2022-09-20 |  |
 | [Aamely Tayeb](https://open.spotify.com/track/18V3oQg7lBAqE0hV8jXiXe) | [Sabrin Elnegeli](https://open.spotify.com/artist/5QT2O4qD3uddGRJzTNMhVR) | [Aamely Tayeb](https://open.spotify.com/album/3LdfE3ksFJBHxA9LxphUGk) | 4:57 | 2022-03-01 | 2022-07-29 |
@@ -290,7 +291,7 @@
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2021-12-23 | 2022-03-02 |
 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-25 |  |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |
-| [Weino 2](https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino 2](https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7) | 2:10 | 2022-03-01 |  |
+| [Weino 2](https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino 2](https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7) | 2:10 | 2022-03-01 | 2023-02-14 |
 | [Wesh Jak](https://open.spotify.com/track/0xe1ffmycRFIiA0B8uBtGb) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Wesh Jak](https://open.spotify.com/album/1L9YrwHLZizSXgvSyPQVUx) | 2:49 | 2021-12-30 | 2022-02-27 |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2023-01-25 |  |
 | [Weslat Al Fekra](https://open.spotify.com/track/6Dolz1cbu6hURxPnpLyNYM) | [Nadine Fahad](https://open.spotify.com/artist/4vloTyzi91BkV0RhnGwsji) | [Weslat Al Fekra](https://open.spotify.com/album/7izEIo3KT8uqKWnx9Cm6xP) | 3:57 | 2021-12-23 | 2022-03-02 |

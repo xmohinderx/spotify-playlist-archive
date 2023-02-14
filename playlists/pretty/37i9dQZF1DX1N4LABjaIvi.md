@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain](/playlists/plain/37i9dQZF1DX1N4LABjaIvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1N4LABjaIvi)
 
-### [This Is: Luciano Pereyra](https://open.spotify.com/playlist/37i9dQZF1DX1N4LABjaIvi)
+### [This Is Luciano Pereyra](https://open.spotify.com/playlist/37i9dQZF1DX1N4LABjaIvi)
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,176 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,257 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 59 | [Historia De Amor](https://open.spotify.com/track/1GP3UgOdlHuZUpp44SNr45) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 4:12 |
 | 60 | [Tu Mano](https://open.spotify.com/track/6apokhLEbYesac4LHR6Utk) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:45 |
 
-Snapshot ID: `MTY0Mzk3OTgxNiwwMDAwMDAwMGE5M2NkNzEyZDQwNjNhMmJmZGI3NWYwNjhkZTc0YTVj`
+Snapshot ID: `MTY3NjMwNDE4NywwMDAwMDAwMGIzMTcwYzMyYTI4MzAxOTA4ZDk5N2I4ODFhN2FmZDMw`

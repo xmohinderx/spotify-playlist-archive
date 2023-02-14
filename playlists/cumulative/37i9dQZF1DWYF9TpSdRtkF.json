@@ -197,6 +197,40 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
+        "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "Nao Yokoyama (CV: Yui Watanabe)",
+          "url": "https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243813,
+      "name": "BORN ON DREAM! ~HANABI NIGHT~",
+      "url": "https://open.spotify.com/track/6W5HzMuv3qcqKd2TrGYFvG"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
         "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
       },
@@ -2598,7 +2632,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 265600,
       "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"

@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop.
 
-76 songs - 6 hr 19 min
+78 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 | 2022-04-11 |  |
 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 | 2022-12-29 |  |
 | [Gori Teri Aankhen](https://open.spotify.com/track/789k9pzKzORADvuOVU0ARy) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Gori Teri Aankhen](https://open.spotify.com/album/5G8dn5RbKidwf1RHRupOvp) | 5:00 | 2022-12-14 |  |
-| [Ho Gayi Hai Mohabbat Tumse](https://open.spotify.com/track/5EAE2BxFMZVLFkHtKbXVMf) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Ho Gayi Hai Mohabbat Tumse \- Single](https://open.spotify.com/album/6rbBQzYNhPr7bOSpHK4tsI) | 4:38 | 2022-04-11 |  |
+| [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 | 2023-02-13 |  |
+| [Ho Gayi Hai Mohabbat Tumse](https://open.spotify.com/track/5EAE2BxFMZVLFkHtKbXVMf) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Ho Gayi Hai Mohabbat Tumse \- Single](https://open.spotify.com/album/6rbBQzYNhPr7bOSpHK4tsI) | 4:38 | 2022-04-11 | 2023-02-14 |
 | [Hum \(Rok Sako Toh Rok Lo\)](https://open.spotify.com/track/6fvPWnXJ2F0yGAOXU1dCqa) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 3:10 | 2022-04-11 | 2022-12-30 |
 | [Jaana Hai Bollywood](https://open.spotify.com/track/09XIRSKpHvEPycP8pn3k3i) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:50 | 2022-12-29 |  |
 | [Jalwa](https://open.spotify.com/track/1alHWqMJiedYnajPifNBzQ) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 4:53 | 2022-12-29 |  |
@@ -64,12 +65,13 @@
 | [Paree](https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp) | 6:01 | 2022-06-01 |  |
 | [Phir Dhoom \(Kaise Bhoolegi Mera Naam\)](https://open.spotify.com/track/3UBehIY2U0LXORmDyOhy4O) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:03 | 2022-04-11 |  |
 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 | 2022-04-11 |  |
+| [Piya Re Piya Re](https://open.spotify.com/track/3BFD61XLrWnZTC1GBD2hxV) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam, Vol\. 68](https://open.spotify.com/album/1wlDZNTKj8fNS9b8MbmE0b) | 7:49 | 2023-02-13 |  |
 | [Purani Jeans](https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Ali Haider's Best Of The Best Vol\- 1](https://open.spotify.com/album/2Q4YL0QgSL985YNjtFWYkA) | 5:04 | 2022-04-11 |  |
 | [Pyaar Ke Pal](https://open.spotify.com/track/7dzXBjG9GHuvvpb0YkiZP2) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Best of Bollywood: KK](https://open.spotify.com/album/1RNb1kwVUmpsCb0ncWeuKJ) | 5:59 | 2022-04-11 |  |
 | [Raat Shabnami](https://open.spotify.com/track/0t6B3uOAmzEzf1o7fandDd) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Jaanam Samjha Karo](https://open.spotify.com/album/0LbuyS4guhU6d1LcfmpD0a) | 6:09 | 2022-04-11 |  |
 | [Sa Ni Dha Pa](https://open.spotify.com/track/2sF9kShaPgkYHT2lr2OCy8) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:06 | 2022-04-11 |  |
 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 | 2022-04-11 |  |
-| [Sali Tu Maney Nahi](https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Buri Baat Hai](https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu) | 4:04 | 2022-04-11 |  |
+| [Sali Tu Maney Nahi](https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Buri Baat Hai](https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu) | 4:04 | 2022-04-11 | 2023-02-14 |
 | [Sare Sapne](https://open.spotify.com/track/2KL8ae4zKqJmjeN0Mb8t90) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Jab \- Javed Akhtar &amp; Alka Yagnik](https://open.spotify.com/album/1LHDnDfAR4962AGmtVKzqp) | 4:43 | 2022-12-14 |  |
 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 | 2022-04-11 |  |
 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 | 2022-12-14 |  |

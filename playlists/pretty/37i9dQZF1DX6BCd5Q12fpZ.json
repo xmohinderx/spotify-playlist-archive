@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59850,
+  "num_followers": 59858,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGNkNTYwYTY3YTQ1MmJlNTJlZDdjMmY3ODY5ZTI2ZWIz",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDNiYzVkYzI3NzNmY2MwNTVhYWQxYjQyNjgzZjFlNjM0",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "La La Love",
         "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 182733,
       "name": "La La Love",
       "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 207594,
-      "name": "Glorious - Video Edit",
-      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 207594,
+      "name": "Glorious - Video Edit",
+      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
     },
     {
       "added_at": "2022-05-16 13:21:08",

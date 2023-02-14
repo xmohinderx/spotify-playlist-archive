@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,978 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,997 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weyna \- Wassim Younes](https://open.spotify.com/track/0Tv9RfkmEFwpR2phzJHf1F) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn) | [Weyna Wassim](https://open.spotify.com/album/539ieTc3bavENUkGBu4LxJ) | 6:42 |
+| 1 | [Weyna \- Wassim Younes Remix](https://open.spotify.com/track/0Tv9RfkmEFwpR2phzJHf1F) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn) | [Weyna \(Wassim Younes Remix\)](https://open.spotify.com/album/539ieTc3bavENUkGBu4LxJ) | 6:42 |
 | 2 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
 | 3 | [Fe Einy \- Deep House](https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 2:50 |
 | 4 | [M3ALLA2 FIKI](https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP) | [RABS](https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R) | [M3ALLA2 FIKI](https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ) | 4:00 |

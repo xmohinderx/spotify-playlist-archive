@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,157 likes - 80 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,338 likes - 80 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 50 | [Parallax](https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 06](https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo) | 8:05 |
 | 51 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 52 | [The Beauty and The Beat \- Radio Edit](https://open.spotify.com/track/2ymIkRgZYYMrwiFOtoRuE0) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [The Beauty and the Beat](https://open.spotify.com/album/6p0pJuq0d9YUC2AYd3Cviw) | 3:45 |
-| 53 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [Kiki](https://open.spotify.com/artist/3egKljtAbR7CjQCcvTfGld), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
+| 53 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [Kiki](https://open.spotify.com/artist/2KcuDXfSU3CCEuC85IO8e6), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
 | 54 | [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 |
 | 55 | [Make You Freak](https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Make You Freak](https://open.spotify.com/album/5NSptPSZRkY5uWJo7Hg0vg) | 3:48 |
 | 56 | [Ignition](https://open.spotify.com/track/12aJfQl9LbSgn0xuUytcil) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Ignition](https://open.spotify.com/album/63DLhpQmush82vpQXKizTq) | 6:42 |

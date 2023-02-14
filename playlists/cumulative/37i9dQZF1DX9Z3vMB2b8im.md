@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-157 songs - 9 hr 27 min
+159 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [Stray Dog](https://open.spotify.com/track/53wF0QyUtZZPr0ICH2YbDE) | [R.D\. Thomas](https://open.spotify.com/artist/1Gm0PlcJyn8iJmip82nnwq) | [What Circus Is This?](https://open.spotify.com/album/7v5ysOTgTm5Oe7VmIFxwNM) | 2:59 | 2023-01-06 |  |
 | [Suckers](https://open.spotify.com/track/2kzTSLMhU3lF6C0Hhmixmf) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Undergrowth Vol\. 2 \- EP](https://open.spotify.com/album/26cKtEqxlTxvKEsCl2mYpU) | 5:14 | 2021-12-10 | 2022-08-20 |
 | [Talking With Your Ghost](https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Homesick](https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af) | 3:00 | 2023-01-06 |  |
-| [The Art Of Getting By](https://open.spotify.com/track/2PjMTQ9KLmdPtT5IpYXTQo) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy) | 3:39 | 2022-06-10 |  |
+| [The Art Of Getting By](https://open.spotify.com/track/2PjMTQ9KLmdPtT5IpYXTQo) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy) | 3:39 | 2022-06-10 | 2023-02-14 |
 | [The Art Of Getting By](https://open.spotify.com/track/2vfZqRshDRTKm8unBA0o9W) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/1yCWoMwezzzzqrYueeHi6R) | 3:39 | 2021-12-10 | 2022-07-29 |
+| [The Art Of Getting By](https://open.spotify.com/track/43rWni1MoV8PKPDGjx3cN7) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/359XQJPJCYPhdOWWPiOa4n) | 3:39 | 2023-01-06 |  |
 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 | 2022-10-14 |  |
 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 | 2021-12-10 | 2022-10-15 |
 | [The Lucky One](https://open.spotify.com/track/7ykG7DK3hJB9RlznPZ9HNC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [The Lucky One](https://open.spotify.com/album/1HYyg1fjpUPVk1Tm9VRN1h) | 3:36 | 2022-10-14 |  |
@@ -162,7 +163,8 @@
 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 | 2021-12-10 |  |
 | [Whole \- demo](https://open.spotify.com/track/2NsW7nEPsgmqUqEO7GJ83F) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Whole \(demo\)](https://open.spotify.com/album/0kHwSWelfEdfr31kmH68Ue) | 3:08 | 2021-12-10 | 2022-10-15 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2021-12-10 | 2022-07-29 |
-| [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-06-10 |  |
+| [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-06-10 | 2023-02-14 |
+| [Whole Heart](https://open.spotify.com/track/5WwwqOnlmpiFyAdvtPArKS) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/7KdSuiLiFqg0i8CILunjpr) | 3:19 | 2023-01-06 |  |
 | [wholeness](https://open.spotify.com/track/2sZGejZUMzGuZMUgx27iQE) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [wholeness](https://open.spotify.com/album/0YAcw5LtpuU5ukwC5eMsP1) | 2:48 | 2023-01-06 |  |
 | [Will It All Work Out?](https://open.spotify.com/track/1vjVvXwVPiDPHKAIAGzgIu) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Will It All Work Out?](https://open.spotify.com/album/40j2OIM4NQpUr8DHxqm47p) | 2:32 | 2021-12-10 | 2022-11-26 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kemilly Santos, Damares",
-  "num_followers": 59150,
+  "num_followers": 59201,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMDgxNzA3NGVmNmY5NzYzNmM1N2Y2NTg1MzdmYzc0ZWMw",
+  "snapshot_id": "MTY3NjAzMTg2NCwwMDAwMDAwMGUwYWM1YWE5N2VkMDgyYjRjZDM1ODI4M2MyNjA3M2Ex",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Vou Deixar na Cruz",
-        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 334692,
-      "name": "Vou Deixar na Cruz",
-      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "H\u00e1 um Tempo",
         "url": "https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 284671,
       "name": "H\u00e1 um Tempo",
       "url": "https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Vou Deixar na Cruz",
+        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 334692,
+      "name": "Vou Deixar na Cruz",
+      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Pode Dormir Tranquilo",
-        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 288457,
-      "name": "Pode Dormir Tranquilo",
-      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "O Le\u00e3o",
         "url": "https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Despreocupa",
         "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "O Processo",
-        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 290816,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Eu Sou Mist\u00e9rio",
         "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 268510,
       "name": "Eu Sou Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "O Processo",
+        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 290816,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Mudou",
-        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 269183,
-      "name": "Ele N\u00e3o Mudou",
-      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ele N\u00e3o Mudou",
+        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 269183,
+      "name": "Ele N\u00e3o Mudou",
+      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        }
-      ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Deus Vai Te Honrar",
         "url": "https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 262250,
       "name": "Deus Vai Te Honrar",
       "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sou Eu",
+        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 402770,
       "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
       "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Sou Eu",
-        "url": "https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Tenha Paci\u00eancia",
-        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        }
-      ],
-      "duration_ms": 286096,
-      "name": "Tenha Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Vem Senhor",
         "url": "https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 312938,
       "name": "Vem Senhor",
       "url": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Tenha Paci\u00eancia",
+        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        }
+      ],
+      "duration_ms": 286096,
+      "name": "Tenha Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Aguenta Firme",
-        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 278314,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "O Noivo Vir\u00e1",
         "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Prepare o Culto",
+        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 360909,
+      "name": "Prepare o Culto",
+      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Que Tal",
         "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Prepare o Culto",
-        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
+        "name": "Aguenta Firme",
+        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
       },
       "artists": [
         {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 360909,
-      "name": "Prepare o Culto",
-      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
+      "duration_ms": 278314,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "N\u00e3o Vai Se Repetir",
         "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Jesus Est\u00e1 no Barco",
-        "url": "https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs"
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 258017,
-      "name": "Jesus Est\u00e1 no Barco",
-      "url": "https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e"
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 267000,
       "name": "Soldado Ferido (Ao Vivo)",
       "url": "https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Jesus Est\u00e1 no Barco",
+        "url": "https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 258017,
+      "name": "Jesus Est\u00e1 no Barco",
+      "url": "https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Voc\u00ea Disse",
         "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 277500,
       "name": "Voc\u00ea Disse",
       "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        }
+      ],
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t"
     },
     {
+      "added_at": "2023-02-14 00:13:58",
+      "album": {
+        "name": "Estrat\u00e9gia",
+        "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 364812,
+      "name": "Estrat\u00e9gia",
+      "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Ainda N\u00e3o Acabou",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Chore pra Deus",
-        "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 282888,
-      "name": "Chore pra Deus",
-      "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Sou Eu",
         "url": "https://open.spotify.com/album/0o8HSd47qb6yQxh8VKkFtz"
       },
@@ -1339,6 +1339,38 @@
       "duration_ms": 306355,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/3Jxxzv0FEqlL9rYaETaccs"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Chore pra Deus",
+        "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 282888,
+      "name": "Chore pra Deus",
+      "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Aquietai-Vos",
+        "url": "https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        }
+      ],
+      "duration_ms": 226751,
+      "name": "Aquietai-Vos",
+      "url": "https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1391,22 +1423,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Aquietai-Vos",
-        "url": "https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o"
-      },
-      "artists": [
-        {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        }
-      ],
-      "duration_ms": 226751,
-      "name": "Aquietai-Vos",
-      "url": "https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "A Resposta",
         "url": "https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W"
       },
@@ -1421,23 +1437,7 @@
       "url": "https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz"
     },
     {
-      "added_at": "2023-02-13 01:04:43",
-      "album": {
-        "name": "Estrat\u00e9gia",
-        "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 364812,
-      "name": "Estrat\u00e9gia",
-      "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
-    },
-    {
-      "added_at": "2023-02-13 01:04:43",
+      "added_at": "2023-02-14 00:13:58",
       "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"

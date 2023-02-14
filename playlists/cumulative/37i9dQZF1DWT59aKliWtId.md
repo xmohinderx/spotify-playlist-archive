@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Abraham Alexander
 
-629 songs - 1 day 14 hr 16 min
+630 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-06-24 | 2022-08-06 |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2021-12-10 | 2022-02-12 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-06-03 | 2022-10-15 |
-| [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 | 2023-01-13 |  |
+| [Blood Rushes](https://open.spotify.com/track/51IU4G5kECZsUHX2kT1OU3) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 3:33 | 2023-02-10 |  |
+| [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 | 2023-01-13 | 2023-02-14 |
 | [Blue](https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt) | [BATTS](https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Blue \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt) | 4:24 | 2022-04-27 | 2022-06-04 |
 | [Boomerang](https://open.spotify.com/track/3TIoOu5ZQwcHI41kH047gT) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Boomerang](https://open.spotify.com/album/58vNxqPKsR1XSGDhaoVdiT) | 2:48 | 2021-12-10 | 2022-03-05 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-05 | 2022-11-19 |

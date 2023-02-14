@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-920 songs - 1 day 23 hr 3 min
+922 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [BOOM BOOM POW](https://open.spotify.com/track/176dhFuPGuqsjHkNKiRzsf) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:02 | 2022-02-26 | 2022-03-01 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-30 | 2021-11-10 |
 | [born with horns](https://open.spotify.com/track/6HC6V5flWY29ON64Y7XNMS) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:27 | 2022-03-26 | 2022-03-28 |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-13 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-13 | 2022-04-22 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-26 |
 | [Brandy](https://open.spotify.com/track/0vcSw5C7LyKnvNaCXdFBoI) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [CITY PARK](https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk) | 3:36 | 2022-10-14 | 2022-10-28 |
@@ -291,7 +292,7 @@
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-28 |
 | [Grt Bang](https://open.spotify.com/track/62ukwaM2Fhx7GS3XAxq0bd) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Doktor](https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP), [Humla](https://open.spotify.com/artist/2A1RD6jdOBjFp3Mq3rnBj0), [TK27](https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv) | [58 tape vol.2](https://open.spotify.com/album/7HHLVMZhb65inJjT5tKmzq) | 2:51 | 2021-06-03 | 2021-06-05 |
 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 | 2022-11-19 |  |
-| [Hafo](https://open.spotify.com/track/6eUcpepLURwI798ZQvLGfP) | [Frank Wild](https://open.spotify.com/artist/0R9H03LigDXPEN5vKF0P0K), [Kafuu](https://open.spotify.com/artist/7Hv1wjA12NeyV1sQQOxes0) | [Hafo](https://open.spotify.com/album/3jAzPpkfU7vpVpFe7UY4QX) | 2:15 | 2022-12-02 |  |
+| [Hafo](https://open.spotify.com/track/6eUcpepLURwI798ZQvLGfP) | [Frank Wild](https://open.spotify.com/artist/0R9H03LigDXPEN5vKF0P0K), [Kafuu](https://open.spotify.com/artist/7Hv1wjA12NeyV1sQQOxes0) | [Hafo](https://open.spotify.com/album/3jAzPpkfU7vpVpFe7UY4QX) | 2:15 | 2022-12-02 | 2023-02-14 |
 | [HALLELUYAH](https://open.spotify.com/track/78ATgcb8QlEENe9fmBWmAL) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 3:25 | 2022-06-21 | 2022-07-07 |
 | [Hannah Montana](https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:38 | 2022-03-12 |  |
 | [Hannah Montana VIP](https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR\*](https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X) | 2:23 | 2022-04-17 | 2022-10-15 |
@@ -488,6 +489,7 @@
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-15 | 2022-12-28 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-12-24 | 2022-12-28 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-12-27 | 2023-02-01 |
+| [METAMORPHOSIS](https://open.spotify.com/track/4Po4guOVkRUjyrB5N0KqSv) | [ogu](https://open.spotify.com/artist/0PSLP8C3n2b0pFYGjURLcm) | [death](https://open.spotify.com/album/7or5Kwc9ThvKAKzPEbrdjq) | 2:22 | 2023-02-13 |  |
 | [MEZI ŘÁDKY](https://open.spotify.com/track/4cXpZAV27Oy4QSsH8op1qK) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [GOLDEN HILL](https://open.spotify.com/album/0DWMvuqLHUPrSlP8eLbvlJ) | 2:50 | 2023-01-31 | 2023-02-02 |
 | [mhm](https://open.spotify.com/track/3I8HRjgOKJmJ3t3JT1bgH9) | [WEN](https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [mhm](https://open.spotify.com/album/3SAvFQ2dRiXgZz3hbowNVy) | 2:20 | 2022-10-09 | 2022-10-23 |
 | [Microdosing](https://open.spotify.com/track/6TxQFHaRxBfI9CoNm0pa68) | [Lord D'Andre](https://open.spotify.com/artist/741hBrsW9QzyBjMdKoAobc), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Microdosing](https://open.spotify.com/album/6A6dtRTdRkDcIqmN81vAsW) | 2:35 | 2021-10-16 | 2021-10-23 |
@@ -674,7 +676,7 @@
 | [Roteiro](https://open.spotify.com/track/2eGGHH38jf9k9mstAXhkrM) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 2:17 | 2021-06-09 | 2021-06-16 |
 | [Rozdělený světy](https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Barvy](https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj) | 3:31 | 2021-03-27\* |  |
 | [Rozený vrah](https://open.spotify.com/track/1jOLEepLQN1uDjqJwieaZB) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:40 | 2022-06-14 | 2022-06-27 |
-| [RUMCAJS MILOVAL MANKU](https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4) | [Kabát](https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9) | [EL PRESIDENTO](https://open.spotify.com/album/2fz4P4mxu63oE9Pmd5Wpdx) | 2:59 | 2022-10-18 |  |
+| [RUMCAJS MILOVAL MANKU](https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4) | [Kabát](https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9) | [EL PRESIDENTO](https://open.spotify.com/album/2fz4P4mxu63oE9Pmd5Wpdx) | 2:59 | 2022-10-18 | 2023-02-14 |
 | [RUMCAJS MILOVAL MANKU](https://open.spotify.com/track/7yy1E4CAVun8vq75NMQ6FD) | [Kabát](https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9) | [RUMCAJS MILOVAL MANKU](https://open.spotify.com/album/4OsLPS6jNf11f1Mq1kYkZt) | 2:59 | 2022-10-04 | 2022-10-19 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2022-07-15 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-19 | 2021-08-29 |

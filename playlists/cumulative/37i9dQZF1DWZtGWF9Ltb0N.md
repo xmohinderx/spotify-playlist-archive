@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-429 songs - 1 day 8 hr 31 min
+430 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Lo\-Fi](https://open.spotify.com/track/2auyi2Lqfjnm9MimapjeCM) | [Subreachers](https://open.spotify.com/artist/5anOQQB50KujZ5xRZjj7m8) | [Best of LW: Bass](https://open.spotify.com/album/2EipzG2vDMFLzBblQNzsYP) | 5:41 | 2022-02-17 | 2022-10-04 |
 | [Loan Shark](https://open.spotify.com/track/2zyugikoilcZwUYx6wWm7O) | [Commodo](https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT) | [Loan Shark](https://open.spotify.com/album/53ph5Q7RAIoYT5n5HJUDeH) | 3:58 | 2022-02-17 | 2022-07-02 |
 | [Locomotive](https://open.spotify.com/track/1ZIfpuxWRddqs3hrX4mkso) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Full Flow](https://open.spotify.com/album/51F8dNpgxCMSWMY7iBIfoy) | 3:17 | 2022-02-17 |  |
+| [lone idol](https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [THE AGONOS CONNECTION](https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ) | 1:52 | 2023-02-13 |  |
 | [Lovesick](https://open.spotify.com/track/7CYx2bRMpWsuIeGLGfog9A) | [mrshl](https://open.spotify.com/artist/6mx8GoLPC0J23haeLRGmsR) | [You Know](https://open.spotify.com/album/6Gi8S39rqMjwmBkC70hRzp) | 3:59 | 2022-02-17 | 2022-07-02 |
 | [Lowdown](https://open.spotify.com/track/4M0ULmmNzwm1ryAFcDr2t0) | [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp) | [STN001](https://open.spotify.com/album/4LE6k9FLY4nYrX8uYfTLxJ) | 4:08 | 2022-07-15 | 2022-07-25 |
 | [Lowkey](https://open.spotify.com/track/21UzwDTWhOTFDgcVvRg2Cz) | [D\-Operation Drop](https://open.spotify.com/artist/1HPNuFHGG3y5YPOqmYOPk1) | [Wrong Dosage](https://open.spotify.com/album/26qP5AePWxuYazdqTDvXej) | 4:00 | 2022-02-17 | 2022-07-29 |
@@ -220,7 +221,7 @@
 | [Lurker](https://open.spotify.com/track/5rGPjCjKJUUcZpZB72hgOT) | [Wraz.](https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D) | [Signals](https://open.spotify.com/album/1JyY8FxMbZ3idqqW8fOSYJ) | 3:29 | 2022-02-17 |  |
 | [Luxurious](https://open.spotify.com/track/14mkG82JIFJi9CQnFfy6Rc) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Luxurious](https://open.spotify.com/album/57t09L0jx9NrkfMtyRA2hC) | 4:17 | 2022-02-17 | 2022-06-10 |
 | [Mage](https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Mage](https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H) | 3:18 | 2022-02-17 |  |
-| [Meaningless](https://open.spotify.com/track/3LCIjaKdbeCzWw5UQXYpkd) | [SBK](https://open.spotify.com/artist/3xwKCpbc3nMeh9ajAy7DQp) | [Problem City](https://open.spotify.com/album/4dXqrjWWp8gcyt6EqO59pt) | 6:37 | 2022-02-17 |  |
+| [Meaningless](https://open.spotify.com/track/3LCIjaKdbeCzWw5UQXYpkd) | [SBK](https://open.spotify.com/artist/3xwKCpbc3nMeh9ajAy7DQp) | [Problem City](https://open.spotify.com/album/4dXqrjWWp8gcyt6EqO59pt) | 6:37 | 2022-02-17 | 2023-02-14 |
 | [Medication](https://open.spotify.com/track/3lB0nER17ouKYxquio3XAW) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Undubbed EP](https://open.spotify.com/album/6U3jV3Auz0QDAR216BSIMI) | 4:41 | 2022-02-17 | 2022-04-09 |
 | [Meditate](https://open.spotify.com/track/4ocnWBdTUhEC5CAuIEy43s) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk) | [Buzuq Riddim / Meditate](https://open.spotify.com/album/1qy4QJlohE2hmMo4uIcwrq) | 5:42 | 2022-02-17 |  |
 | [Melki Tsedeq](https://open.spotify.com/track/005rn3AmWCSp2MIGanGHsc) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Melki Tsedeq / Trip To Atlantis](https://open.spotify.com/album/0rVYRk75YzkWXa6Y3ZT8Nk) | 4:54 | 2022-07-08 | 2023-01-14 |

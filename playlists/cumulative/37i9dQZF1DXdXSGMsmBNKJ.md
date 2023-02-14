@@ -4,12 +4,16 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Interest of Love\. \(JTBC 드라마 사랑의 이해의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-40 songs - 2 hr 18 min
+44 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2023-01-05 |  |
 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 | 2023-01-19 |  |
+| [Curated by Jung Garam](https://open.spotify.com/track/3JdHwiUk5Lyo2i63C8goFe) | [The Interest of Love](https://open.spotify.com/artist/3MdnqN2h7FgHmKtUYGm5Yy) | [The Interest of Love Audio Liners](https://open.spotify.com/album/3meZINckmvjt1bDS3UBddw) | 0:49 | 2023-02-14 |  |
+| [Curated by Keum Sae Rok](https://open.spotify.com/track/4DLxlk3LEWuSsSiulpqQlW) | [The Interest of Love](https://open.spotify.com/artist/3MdnqN2h7FgHmKtUYGm5Yy) | [The Interest of Love Audio Liners](https://open.spotify.com/album/3meZINckmvjt1bDS3UBddw) | 0:48 | 2023-02-14 |  |
+| [Curated by Mun Ka Young](https://open.spotify.com/track/3xFLsTmNtcRuO1s7kljfU4) | [The Interest of Love](https://open.spotify.com/artist/3MdnqN2h7FgHmKtUYGm5Yy) | [The Interest of Love Audio Liners](https://open.spotify.com/album/3meZINckmvjt1bDS3UBddw) | 0:23 | 2023-02-14 |  |
+| [Curated by Yoo Yeonseok](https://open.spotify.com/track/4aIa4Z05BaT1YwkTz0XQvD) | [The Interest of Love](https://open.spotify.com/artist/3MdnqN2h7FgHmKtUYGm5Yy) | [The Interest of Love Audio Liners](https://open.spotify.com/album/3meZINckmvjt1bDS3UBddw) | 0:42 | 2023-02-14 |  |
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2023-01-05 |  |
 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 | 2023-01-19 |  |
 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 | 2023-01-03 |  |

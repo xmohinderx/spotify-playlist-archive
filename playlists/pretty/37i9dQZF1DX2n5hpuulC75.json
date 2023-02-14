@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 248461,
+  "num_followers": 248530,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDdkYzVkZDE0NTY3NGU3NThlNzVlNGVkNzVkMGQ2Y2M0",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGZhNDVmNjUxNTMxNzgxNjRhYjNkNWExMGNiOGExMmNm",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -31,22 +31,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Edition",
         "url": "https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 115000,
       "name": "Edition",
       "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Hosoi",
@@ -211,6 +195,22 @@
       "duration_ms": 324106,
       "name": "Young",
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -339,22 +339,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -415,6 +399,22 @@
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -475,22 +475,6 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -599,6 +583,22 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "With You",
@@ -819,6 +803,22 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
+    },
+    {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",

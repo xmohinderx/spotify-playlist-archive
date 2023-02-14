@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5MYZm4P2AID.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5MYZm4P2AID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5MYZm4P2AID)
 
-### [Outer Banks Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DX5MYZm4P2AID)
+### [Outer Banks: Poguelandia](https://open.spotify.com/playlist/37i9dQZF1DX5MYZm4P2AID)
 
 > Once a pogue, always a pogue...Listen to music from Outer Banks and get ready for Poguelanida, tickets available now.
 
-123 songs - 7 hr 14 min
+124 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Not Another Drop](https://open.spotify.com/track/2SBt99MHENYHqCtfdDZFI7) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/7jHbdvxqWHOAAY7Rg0Cm39) | 3:56 | 2021-10-26 | 2022-07-29 |
 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 | 2021-10-26 |  |
 | [Paper Planes \- DFA Remix](https://open.spotify.com/track/1hCD7X2223N2Jt4MzKIe3C) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [DFA](https://open.spotify.com/artist/7Gprizzv3dHXNrhfR27Aua) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 5:52 | 2021-10-26 |  |
+| [Pogues Theme](https://open.spotify.com/track/2TzhYrAMAVPZU2gKHAnWiI) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Pogues Theme \(From The Netflix Series Outer Banks\)](https://open.spotify.com/album/58wGqs5bjIluzWqFLJUuAv) | 5:23 | 2023-02-13 |  |
 | [Pork Rind](https://open.spotify.com/track/2IrhshaSvChFM5VTzooXsn) | [Blackfoot Gypsies](https://open.spotify.com/artist/4wTY4zovD9wK63Wi4WhxGN) | [Handle It](https://open.spotify.com/album/6I3KcXTCNb5QWEmMxNGH6G) | 3:39 | 2021-10-26 |  |
 | [Pretty Woman Pass On By](https://open.spotify.com/track/3fDM0Os5zXsgIjn7yssQBV) | [Richard Marks](https://open.spotify.com/artist/6IL3lbNSKa384LcWJ6Aa7T) | [Never Satisfied: The Complete Works 1968 \-1976](https://open.spotify.com/album/3eu3SRkvkcgh8tW8p6YZKS) | 3:04 | 2021-10-26 |  |
 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 | 2021-10-26 |  |

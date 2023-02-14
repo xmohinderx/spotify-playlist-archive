@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Killer - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m"
+    },
+    {
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
       },

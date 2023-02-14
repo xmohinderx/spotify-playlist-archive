@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7JWqNxz28IX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7JWqNxz28IX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JWqNxz28IX)
 
-### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
+### [ragazzo triste: San Valentino Edition](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> 🩹 \(in cover, zeta\)
+> per un San Valentino col cuore così 💔  \(in cover, zeta\)
 
 177 songs - 7 hr 56 min
 

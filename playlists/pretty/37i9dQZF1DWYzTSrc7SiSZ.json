@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 646536,
+  "num_followers": 646665,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2MDE5OSwwMDAwMDAwMDM4NjUyNGUzMDI3NzlhNmFjZTFjZTI5NjIwNWY5ODM2",
+  "snapshot_id": "MTY3NjA2MDE5OSwwMDAwMDAwMDg1MmEyMjk2MTJlMzFmM2Q1NmMyZjBmODc2YTM1MzY4",
   "tracks": [
     {
       "added_at": "2023-02-10 20:16:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182000,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
+        "name": "ULTRA MAX",
+        "url": "https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK"
+      },
+      "artists": [
+        {
+          "name": "JAY MAX",
+          "url": "https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -895,6 +911,22 @@
       "duration_ms": 108586,
       "name": "No Eres T\u00fa, Soy Yo",
       "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -919,38 +951,6 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
-        "name": "ULTRA MAX",
-        "url": "https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK"
-      },
-      "artists": [
-        {
-          "name": "JAY MAX",
-          "url": "https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
         "name": "Somos Nada",
         "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 186000,
       "name": "Somos Nada",
       "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1303,6 +1303,42 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 223847,
+      "name": "Sola - Remix",
+      "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -1331,42 +1367,6 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 223847,
-      "name": "Sola - Remix",
-      "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
         "name": "Lluvia (Man120)",
         "url": "https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
         "name": "Singles 2019-2021",
         "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 224268,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-02-10 20:16:39",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-02-10 20:16:39",
       "album": {
-        "name": "duermo sin pijama",
-        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "duermo sin pijama",
-      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
-    },
-    {
-      "added_at": "2023-02-10 20:16:39",
-      "album": {
         "name": "Hace Mucho",
         "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 170487,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
+    },
+    {
+      "added_at": "2023-02-10 20:16:39",
+      "album": {
+        "name": "duermo sin pijama",
+        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "duermo sin pijama",
+      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
     },
     {
       "added_at": "2023-02-10 20:16:39",

@@ -7017,6 +7017,28 @@
     },
     {
       "album": {
+        "name": "Bossa Nights",
+        "url": "https://open.spotify.com/album/3kTZxtJ2MG7ksab8BS55dp"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "MALIWA",
+          "url": "https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Bossa Nights",
+      "url": "https://open.spotify.com/track/6FCk3QptG5PFXfIzE5eF5G"
+    },
+    {
+      "album": {
         "name": "Bossa Sportiva",
         "url": "https://open.spotify.com/album/63WOuJ8v84T98OC1W2ZgLE"
       },
@@ -29262,7 +29284,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 178500,
       "name": "Kanaan",
       "url": "https://open.spotify.com/track/5G5nj9Ie8asmAQp8b1JS2I"
@@ -40342,7 +40364,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 125647,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6"
@@ -61754,7 +61776,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 128366,
       "name": "Unter L\u00f6wen und Banditen",
       "url": "https://open.spotify.com/track/75HUZv6xss2ADArgzuCsYL"

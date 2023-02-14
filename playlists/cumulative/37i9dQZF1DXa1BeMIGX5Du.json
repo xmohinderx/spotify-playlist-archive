@@ -698,10 +698,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 257685,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/09kqBDUB4VbAkjEEqPWgjI"
+    },
+    {
+      "album": {
+        "name": "Everything Is Free",
+        "url": "https://open.spotify.com/album/75B0IhdJSK38pIcrhe4tTk"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257685,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/5lQzwaSn22jWxLPvrlSO0z"
     },
     {
       "album": {

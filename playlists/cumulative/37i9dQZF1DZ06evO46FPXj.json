@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 349767,
       "name": "777",
       "url": "https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv"
@@ -326,10 +326,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 279266,
       "name": "C/Pach",
       "url": "https://open.spotify.com/track/2GpAHcnQig6GvqDa9IPmgD"
+    },
+    {
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "C/Pach",
+      "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
     },
     {
       "album": {
@@ -892,6 +910,24 @@
     {
       "album": {
         "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242899,
+      "name": "Fold4,Wrap5",
+      "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
+    },
+    {
+      "album": {
+        "name": "LP5",
         "url": "https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4"
       },
       "artists": [
@@ -902,7 +938,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 242899,
       "name": "Fold4,Wrap5",
       "url": "https://open.spotify.com/track/3MwRwtkYfH1VzQ7VxGVvDL"
@@ -1262,10 +1298,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 428106,
       "name": "Leterel",
       "url": "https://open.spotify.com/track/0yLJpvsw4LWBvUcyAb7hBt"
+    },
+    {
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428106,
+      "name": "Leterel",
+      "url": "https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB"
     },
     {
       "album": {
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 529702,
       "name": "M4 Lema",
       "url": "https://open.spotify.com/track/4eWwa9ZlwAQXitxVia77P7"
@@ -2198,7 +2252,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 377279,
       "name": "Under BOAC",
       "url": "https://open.spotify.com/track/6ltZ0PKndphDBosI1ug2Vk"
@@ -2328,6 +2382,24 @@
       "duration_ms": 677200,
       "name": "Windwind",
       "url": "https://open.spotify.com/track/2MWTad6dU7uVS8VLV9VZPP"
+    },
+    {
+      "album": {
+        "name": "NTS Session 2",
+        "url": "https://open.spotify.com/album/2WDQyrKx5vBIFptYBEAxQY"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564524,
+      "name": "xflood",
+      "url": "https://open.spotify.com/track/0FidCk4TNQUd0QjuronWmO"
     },
     {
       "album": {

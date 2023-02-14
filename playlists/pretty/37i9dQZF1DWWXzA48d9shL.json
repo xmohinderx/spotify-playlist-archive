@@ -1,13 +1,29 @@
 {
   "description": "Rap from hell. Cover: Savage Ga$p",
-  "num_followers": 433486,
+  "num_followers": 434183,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NjYzNywwMDAwMDAwMDRiYjU1MzVlOTIzN2NmMTYwZTgwMjczY2FmMGU0NDNj",
+  "snapshot_id": "MTY3NjMyMDk5MiwwMDAwMDAwMDdmOTQxNDJkYjFmY2VmMTc2NmY2MDI0NzQ1MDE3MzM4",
   "tracks": [
+    {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "You Make Me Sick!",
+        "url": "https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 138299,
+      "name": "You Make Me Sick!",
+      "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
+    },
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
@@ -119,6 +135,26 @@
       "duration_ms": 84000,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
+    },
+    {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 140877,
+      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
     },
     {
       "added_at": "2022-11-09 14:43:01",
@@ -251,6 +287,22 @@
       "duration_ms": 163307,
       "name": "GOD MODE!",
       "url": "https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy"
+    },
+    {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "Mundane",
+        "url": "https://open.spotify.com/album/3FcW66sYKdwQF3QyiLj9aC"
+      },
+      "artists": [
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Mundane",
+      "url": "https://open.spotify.com/track/5JgqBNZilPgZLfOKlG939s"
     },
     {
       "added_at": "2022-12-14 15:33:39",
@@ -439,6 +491,22 @@
       "duration_ms": 141508,
       "name": "Shut It",
       "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
+    },
+    {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "Lovely 2",
+        "url": "https://open.spotify.com/album/0UijW3m8HrZZw35z2QBYIH"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        }
+      ],
+      "duration_ms": 114352,
+      "name": "Lovely 2",
+      "url": "https://open.spotify.com/track/30crz8PY2kecaVkO7fSoAA"
     },
     {
       "added_at": "2022-12-02 05:00:00",

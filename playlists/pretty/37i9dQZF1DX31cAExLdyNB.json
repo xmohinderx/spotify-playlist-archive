@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 57536,
+  "num_followers": 57574,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDkzYzc1MzgwMTMzNjcxNjBmYzI2ZjlhZTc3MWJhYmM0",
+  "snapshot_id": "MTY3NjMxNjE3MiwwMDAwMDAwMDlmNWRhMmQwMTEzYzkxNzlhYzg4NWU3NmIyZWQ1NDMz",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -351,6 +351,30 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-02-14 01:21:38",
+      "album": {
+        "name": "Invierno (Remix)",
+        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Invierno (Remix)",
+      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -755,6 +779,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 213896,
+      "name": "Lilas",
+      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
       },
@@ -783,22 +823,6 @@
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "\u018eD\u00c9N",
-        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 213896,
-      "name": "Lilas",
-      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -991,18 +1015,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 231050,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1019,6 +1043,22 @@
       "duration_ms": 302573,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1055,22 +1095,6 @@
       "duration_ms": 227992,
       "name": "Mirada Speed",
       "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1159,22 +1183,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Vine Hasta Marte",
-        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Vine Hasta Marte",
-      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "me acostumbro",
         "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
       },
@@ -1191,6 +1199,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Vine Hasta Marte",
+        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Vine Hasta Marte",
+      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Cuadros",
         "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
       },
@@ -1203,26 +1227,6 @@
       "duration_ms": 203625,
       "name": "Takotsubo",
       "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Realidades No Ordinarias, Vol. 2",
-        "url": "https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM"
-      },
-      "artists": [
-        {
-          "name": "Bardo Jos\u00e9",
-          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
-        },
-        {
-          "name": "Boris Vian",
-          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
-        }
-      ],
-      "duration_ms": 289335,
-      "name": "Realidades No Ordinarias",
-      "url": "https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

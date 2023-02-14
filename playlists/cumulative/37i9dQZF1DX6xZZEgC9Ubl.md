@@ -4,7 +4,7 @@
 
 > In your bag\. Cover: The Kid Laroi
 
-775 songs - 1 day 11 hr 14 min
+776 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [I Ate My Soul](https://open.spotify.com/track/5oCMkoVTUov4jKWzfkenAx) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [I Ate My Soul](https://open.spotify.com/album/3clwhikTAXNMVZ7vxW83Sn) | 1:44 | 2021-05-29 | 2022-07-01 |
 | [i can see clearly](https://open.spotify.com/track/0hTenOns6LBffrOtLg3rMe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP](https://open.spotify.com/album/6Vhnu49bSHfEnnuwiN1Rf7) | 3:13 | 2021-12-21 | 2022-03-02 |
 | [I Can't Sleep](https://open.spotify.com/track/5GWAraPLRsJ5EFMzqo0C3g) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Can't Sleep](https://open.spotify.com/album/02ZUqEVzRyGWTEaybFgRNB) | 3:22 | 2020-12-13\* | 2021-03-26 |
-| [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 | 2022-05-23 |  |
+| [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 | 2022-05-23 | 2023-02-14 |
 | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S) | 2:50 | 2022-09-23 | 2022-11-12 |
 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 | 2021-01-29 | 2021-02-26 |
 | [I Dont Want](https://open.spotify.com/track/4nA6tCQYqdjcHNYU6etCVP) | [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [I Dont Want](https://open.spotify.com/album/78ql7HzYwB4Ta2IhwuRvsr) | 1:54 | 2022-01-21 | 2022-04-19 |
@@ -545,6 +545,7 @@
 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 | 2022-10-07 |  |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* |  |
 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 | 2022-05-23 |  |
+| [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 |  |
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |
 | [Reasons](https://open.spotify.com/track/35b2aICqZwjqrS7eKAzrjE) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [Reasons](https://open.spotify.com/album/3YxFj4Y17Xv0ixJrMYy7Td) | 2:52 | 2021-01-15 | 2021-04-24 |
 | [Reckless](https://open.spotify.com/track/0v1Xh4IrmF4Rs1Vyir4VTG) | [Lago Link](https://open.spotify.com/artist/3YmUDDr6n2kobxSL8VjatA) | [Reckless](https://open.spotify.com/album/7kNLwaOWfmjx06VdlQGJBK) | 2:24 | 2020-12-13\* | 2021-02-26 |

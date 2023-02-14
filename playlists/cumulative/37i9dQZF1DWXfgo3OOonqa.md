@@ -2,9 +2,9 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: PABI
+> KLASS 2023: DANO
 
-811 songs - 1 day 11 hr 58 min
+813 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Gelatin](https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Gelatin](https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG) | 3:00 | 2022-03-10 | 2022-03-25 |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-12 | 2022-08-12 |
 | [Ghetto Psykos \(GS\)](https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ghetto Psykos \(GS\)](https://open.spotify.com/album/2edTCevZZxtQ4zK7MlVWXf) | 2:19 | 2023-02-09 |  |
+| [GIRL](https://open.spotify.com/track/7zeafSIdEHF8HoskBRkFto) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GIRL](https://open.spotify.com/album/0fN88KFmZW8TpFKmM5c7ss) | 2:51 | 2023-02-13 |  |
 | [GITT](https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [GITT](https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg) | 2:50 | 2022-09-29 | 2022-11-11 |
 | [GLIDER FÖRBI](https://open.spotify.com/track/79QHrdDudHItZ0EMtWmesM) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [GLIDER FÖRBI](https://open.spotify.com/album/4inwta0WyLnLg5RWICQExT) | 2:22 | 2022-12-01 | 2023-01-12 |
 | [Go](https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Go](https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV) | 2:14 | 2022-06-30 | 2022-09-16 |
@@ -327,7 +328,7 @@
 | [HAN SOLO](https://open.spotify.com/track/7M2rOpRflBu9TD5d4TfZqs) | [Dogbite](https://open.spotify.com/artist/0ZZPrdKQzbnAQhPcJCy2nH), [Chad Bogus](https://open.spotify.com/artist/2zgy03hn0IeW6pxKJYMLq1), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [<FORM](https://open.spotify.com/album/4eV7xu8aoqaPvxjRd7fbSN) | 3:29 | 2023-01-20 | 2023-02-10 |
 | [HARKI](https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [HARKI](https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz) | 2:00 | 2023-02-09 |  |
 | [Harraga](https://open.spotify.com/track/1zvjknh2u5bsN719NSBGmm) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 1:55 | 2021-12-16 | 2022-01-28 |
-| [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 | 2022-11-10 |  |
+| [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 | 2022-11-10 | 2023-02-14 |
 | [HASTA](https://open.spotify.com/track/15gz77s7cmPXwG8LRIyo4i) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [HASTA](https://open.spotify.com/album/38gRMNn70jO9l9iFFVEmnI) | 2:08 | 2022-06-02 | 2022-09-02 |
 | [Hasta La Vista](https://open.spotify.com/track/3VlZUWS05jwIjwQHDjVjJl) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Hasta La Vista](https://open.spotify.com/album/4oEKZ3gDIwbtlalClxc2HB) | 2:32 | 2022-12-01 | 2023-01-20 |
 | [Hattrick](https://open.spotify.com/track/2G0a0hEvKs38FSyhX2BmpF) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Hattrick](https://open.spotify.com/album/06GomdPQxAm5WE1Epeks0E) | 2:33 | 2022-06-09 | 2022-06-23 |
@@ -511,6 +512,7 @@
 | [MMX\-MRS](https://open.spotify.com/track/1zLqSH1pYoemWiIlL6jO7y) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [MMX\-MRS](https://open.spotify.com/album/0CgFSICbdu8ueVhiwSDZdh) | 2:35 | 2022-05-12 | 2022-06-03 |
 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 | 2022-02-17 | 2022-03-11 |
 | [Modeller](https://open.spotify.com/track/7svT4ypMkqp7IEltrK5eit) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [Modeller](https://open.spotify.com/album/0O4vSqdE9AMFQnbDgsIQ3V) | 1:58 | 2023-01-26 |  |
+| [MON FRÉRE](https://open.spotify.com/track/2C05qOxNv5SCtsgwOMOmgb) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [MON FRÉRE](https://open.spotify.com/album/6ptfYBuCBnjD0Ct1qkdPgz) | 1:33 | 2023-02-13 |  |
 | [MONACO](https://open.spotify.com/track/5JvQGmoHTGGuXTlbyZq0U0) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [MONACO](https://open.spotify.com/album/0EepVQhwDeJqt4EPR7VHZ1) | 2:25 | 2022-08-18 | 2022-10-21 |
 | [Monclizzy](https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Monclizzy](https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q) | 1:44 | 2022-11-17 | 2023-02-09 |
 | [Monster Under Sängen](https://open.spotify.com/track/5P5BS16fZQlzTAa9BV3DzF) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [Monster Under Sängen](https://open.spotify.com/album/1LWPXEEHx8ILVqnIPzNSIc) | 3:04 | 2022-10-06 | 2022-10-21 |

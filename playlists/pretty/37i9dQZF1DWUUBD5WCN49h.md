@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=aFVb2xGZRoCUk3Mc4z6AdQ"> Pawzz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,601 likes - 83 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,608 likes - 83 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

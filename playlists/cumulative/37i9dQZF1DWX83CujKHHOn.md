@@ -4,12 +4,13 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-334 songs - 20 hr 50 min
+335 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2021-12-06 |  |
 | [Above You](https://open.spotify.com/track/19EjekqEVLA9OMubwf2g7O) | [Sophie Morgan](https://open.spotify.com/artist/5z1vMO7unisAb7KsyzAVqW) | [Sons & Daughters EP](https://open.spotify.com/album/4I8FlhZ0Ex01DLa3UMkMTS) | 3:47 | 2021-12-06 | 2022-04-20 |
+| [All Comes Back To You](https://open.spotify.com/track/1XqWSF1yKnKdEkgZ2JWouq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [All Comes Back To You](https://open.spotify.com/album/7LIma3JhuhzLm30VHqvaNK) | 3:16 | 2023-02-10 |  |
 | [All Good](https://open.spotify.com/track/1DMB324qRaRdBhykzbE8Ts) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/2BpqinMlN0yFQ4gvmNRU3f) | 3:31 | 2021-12-06 | 2022-07-28 |
 | [All Good](https://open.spotify.com/track/7cQTqFHqB1MXYYHE5qFEUC) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:31 | 2022-06-17 | 2022-07-29 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-07-08 |  |
@@ -278,7 +279,7 @@
 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 | 2021-12-06 |  |
 | [Tell Me It's Over](https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:08 | 2022-07-08 | 2022-11-13 |
 | [Tell Me It's Over](https://open.spotify.com/track/7IilckkBVWxViiyT7hY8v5) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Tell Me It's Over](https://open.spotify.com/album/1lqZkRaUXtz1DWIjH3cIW1) | 3:08 | 2021-12-06 | 2022-07-28 |
-| [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 | 2021-12-06 |  |
+| [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 | 2021-12-06 | 2023-02-14 |
 | [That's Why You Go Away](https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Strange Foreign Beauty](https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO) | 4:13 | 2022-05-09 |  |
 | [The Call](https://open.spotify.com/track/341863z079BT4EFPiSw9DP) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [The Call](https://open.spotify.com/album/5L6RSDUhfwNAU87Pafcobr) | 3:07 | 2022-07-08 |  |
 | [The Call](https://open.spotify.com/track/7mP2FJJ9btHH3fpAKlNtmJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Prince Caspian Flees \(Deluxe\)](https://open.spotify.com/album/4CgnFtfTSfL8l7JMgz0tBk) | 3:07 | 2022-01-05 | 2022-04-21 |

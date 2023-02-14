@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-520 songs - 2 day 0 hr 54 min
+521 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Forcasa 3](https://open.spotify.com/track/2LcVp9i6vNpdIv6yexY38x) | [Bola](https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz) | [Soup](https://open.spotify.com/album/3J0fBkYqaw0sz69UxDPqT5) | 5:24 | 2022-04-13 |  |
 | [Forcasa 3 \- Single mix](https://open.spotify.com/track/5nVokpXQBQaLIV7T2rkTOC) | [Bola](https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz) | [One](https://open.spotify.com/album/1DYtCr4CyiiLIh1GlwxMjj) | 4:30 | 2022-04-13 | 2023-02-05 |
 | [Fracture](https://open.spotify.com/track/1LDfg9CitWWu8zKsUUvXXM) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour](https://open.spotify.com/album/3XbyyjH7pIjteFO5PTVONq) | 5:52 | 2022-04-13 | 2023-02-02 |
+| [Fracture](https://open.spotify.com/track/43R1YRNyjXK09pFBRpZjxM) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 5:54 | 2022-04-13 |  |
 | [From The Chestnut Parapet](https://open.spotify.com/track/3WdgW5tsHchmTj2ZE7ftAM) | [Jake Mandell](https://open.spotify.com/artist/4TEmw2MVWUXaE8rC5YftFh) | [Love Songs For Machines](https://open.spotify.com/album/19F77CZv3EJXdGEGsw0RdD) | 4:10 | 2022-04-13 | 2022-07-28 |
 | [Frosch](https://open.spotify.com/track/0Wo1zuzCZGSZfemRwzDIjf) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/5GFh1VWsv5TXj7CqLIXvsV) | 9:19 | 2022-04-13 | 2022-07-28 |
 | [Frosch](https://open.spotify.com/track/4PFAaMMu6Utdpx5WqRtAup) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/0vrWFaK9Cx73hVkQjGKuaZ) | 9:19 | 2022-04-13 |  |
@@ -405,7 +406,7 @@
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [Slow Knife](https://open.spotify.com/track/5TBXc1GBJ6PfEwoswqjxUD) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [µ20: 20 Years of Planet Mu](https://open.spotify.com/album/6MFhamY5fCtvAo17hpnZ4F) | 3:55 | 2022-04-13 | 2022-07-20 |
-| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 |  |
+| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 | 2023-02-14 |
 | [Sodastream](https://open.spotify.com/track/7eg52M91djAxgqiHxo03Xb) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy Of Choice](https://open.spotify.com/album/1rC2DXywY27u7qc1hIzx5J) | 5:51 | 2022-04-13 | 2022-07-25 |
 | [Soft Power](https://open.spotify.com/track/5fPp9JTVrne1sEJDivDDcC) | [Bone Head](https://open.spotify.com/artist/6k2X5Q2HpaokIZSlPPTyZY) | [Soft Power](https://open.spotify.com/album/6w5CqfaTeDxkptpMCZFfJA) | 8:01 | 2022-04-13 | 2022-07-29 |
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |

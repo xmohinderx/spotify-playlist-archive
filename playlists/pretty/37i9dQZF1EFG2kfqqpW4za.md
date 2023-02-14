@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 58 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 58 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 35 | [Reggae de Terreiro \(Ciência do Quintal\)](https://open.spotify.com/track/5VdkYKtQEESduHKaxG0hpV) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Jorge Du Peixe](https://open.spotify.com/artist/2yS2oUDkJ9M5xdCZLjnzL8) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 5:06 |
 | 36 | [Fogo e Água](https://open.spotify.com/track/1b6Vidw42PX4RJWbCFaCQP) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:18 |
 | 37 | [Nyah](https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 0:50 |
-| 38 | [Semente da Cura](https://open.spotify.com/track/1ZKqtdOXOzH3tCewYqMODU) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Monkey Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Semente da Cura](https://open.spotify.com/album/1I99YzDXHjfeKTf5qnP4UQ) | 3:46 |
-| 39 | [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 |
+| 38 | [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 |
+| 39 | [Semente da Cura](https://open.spotify.com/track/1ZKqtdOXOzH3tCewYqMODU) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Monkey Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Semente da Cura](https://open.spotify.com/album/1I99YzDXHjfeKTf5qnP4UQ) | 3:46 |
 | 40 | [Amizade Pura](https://open.spotify.com/track/6PBAUqWSj0HQFOU715kCLj) | [José Punho Forte Rodrigues](https://open.spotify.com/artist/2oHZ01dSsEw7B9bmyySKGo), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Amizade Pura](https://open.spotify.com/album/3zi8PK2lpLMQbyxTwlQwSy) | 3:40 |
 | 41 | [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 |
 | 42 | [Reggae Music, Part\. 2](https://open.spotify.com/track/5LAGe0KdxSBOdMneQmtkIP) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Reggae Music, Part\. 2](https://open.spotify.com/album/034z5UZvukEOwvQM5Bbf6a) | 3:46 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 57 | [Bob Rei](https://open.spotify.com/track/7kE6fG2ts21dvE5bnBNR2s) | [Diamba](https://open.spotify.com/artist/0LyH0e5DGvDiJTRCwi6EE7), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fraternidade Musical Diamba](https://open.spotify.com/album/6Kjfm3aWl9mvxQnN3Bnc5M) | 4:28 |
 | 58 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Mjc5Mzc0NDMsMDAwMDAwMDAyODY1NzViMmIzY2Q4YmEwZjQwZWNkZjcyYzUyNTZmZQ==`
+Snapshot ID: `Mjc5Mzg4ODMsMDAwMDAwMDA0ZWEwZjQ3YWE2NDI5MTA1NzIzODg1YjgzZThmZTg3Yw==`

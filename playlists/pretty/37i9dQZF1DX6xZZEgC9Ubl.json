@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: The Kid Laroi",
-  "num_followers": 1442586,
+  "num_followers": 1443053,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDNjMjNmMDU3YjNlZTNjN2Y4MTlkYmJlODU1YjhhZmY3",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGQzMTczYmI0ZjhmM2NhZDdkMWQ2YWM5NmU2ZmI0YzBj",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -185,6 +185,34 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
+      },
+      "artists": [
+        {
+          "name": "itssvd",
+          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
+        },
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
+        {
+          "name": "Dibyo",
+          "url": "https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t"
+        }
+      ],
+      "duration_ms": 120546,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
+    },
+    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Thousand Miles",
@@ -215,34 +243,6 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
-      },
-      "artists": [
-        {
-          "name": "itssvd",
-          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
-        },
-        {
-          "name": "CORBAL",
-          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        },
-        {
-          "name": "Dibyo",
-          "url": "https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t"
-        }
-      ],
-      "duration_ms": 120546,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "right here",
         "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "NUMB",
         "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 112500,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
-    },
-    {
-      "added_at": "2022-12-16 17:00:00",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -407,6 +391,22 @@
       "duration_ms": 157666,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
+    },
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 151704,
       "name": "ALWAYS DO",
       "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
         "url": "https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 165029,
       "name": "fools (can't help falling in love) (feat. Sody)",
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "God Mom",
+        "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
+      },
+      "artists": [
+        {
+          "name": "Mackned",
+          "url": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
@@ -979,22 +995,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "God Mom",
-        "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
-      },
-      "artists": [
-        {
-          "name": "Mackned",
-          "url": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "North Star",
-      "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "MIXED EMOTIONS",
-        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "MORBID MIND",
-      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Violets",
@@ -1315,6 +1299,22 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "MIXED EMOTIONS",
+        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "MORBID MIND",
+      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Proud of Myself",
+        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Proud of Myself",
+      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "The OC Season 3",
         "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 209583,
       "name": "Dying",
       "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Proud of Myself",
-        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Proud of Myself",
-      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "A SERIES OF UNFORTUNATE EVENTS",
+        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Seen It All Before",
@@ -1595,18 +1611,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "A SERIES OF UNFORTUNATE EVENTS",
-        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
+        "name": "V12 (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
       },
       "artists": [
         {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 215647,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+      "duration_ms": 177835,
+      "name": "V12 (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1657,24 +1677,28 @@
       "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "V12 (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
+        "name": "life in a locker (feat. Jomie & Skinny Atlas)",
+        "url": "https://open.spotify.com/album/4IZzvKDT1esT4v6MZWwBAs"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+        },
+        {
+          "name": "Skinny Atlas",
+          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
         }
       ],
-      "duration_ms": 177835,
-      "name": "V12 (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
+      "duration_ms": 170526,
+      "name": "life in a locker (feat. Jomie & Skinny Atlas)",
+      "url": "https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1709,44 +1733,20 @@
       "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "life in a locker (feat. Jomie & Skinny Atlas)",
-        "url": "https://open.spotify.com/album/4IZzvKDT1esT4v6MZWwBAs"
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
-        },
-        {
-          "name": "Skinny Atlas",
-          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
         }
       ],
-      "duration_ms": 170526,
-      "name": "life in a locker (feat. Jomie & Skinny Atlas)",
-      "url": "https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "i can't stop",
-        "url": "https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk"
-      },
-      "artists": [
-        {
-          "name": "Damien",
-          "url": "https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "i can't stop",
-      "url": "https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe"
+      "duration_ms": 188418,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff"
     },
     {
       "added_at": "2022-10-07 04:18:00",

@@ -4,12 +4,14 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-65 songs - 3 hr 7 min
+70 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/2maTvFNXG3K8yvfKTjSjVM) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2022-12-12 |  |
 | [Aura Bowls](https://open.spotify.com/track/13SfgjQv7gtBhewnS4Vcp3) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Droning Bowls](https://open.spotify.com/album/7Mm1anxbwaKYrq3xHEmjLL) | 2:14 | 2022-12-12 |  |
+| [Bheetar dekho](https://open.spotify.com/track/5h0CaDOGz03xtjBEERCpKi) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Chup rahen](https://open.spotify.com/album/3wwWKjuWGGcAGZ4jcAhxka) | 4:11 | 2023-02-13 |  |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-12-12 |  |
 | [Calming Crystal Bowls \(with River\)](https://open.spotify.com/track/2FPYEB8xE2kKVsbCJ9GWM3) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:30 | 2022-12-12 |  |
 | [Calming temple bowls](https://open.spotify.com/track/4c8rvGeLvuWxxXw71O60sF) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Resonance For Life](https://open.spotify.com/album/45U8NNZPfsn5FYoUgUdlMZ) | 2:24 | 2022-12-12 |  |
@@ -32,6 +34,7 @@
 | [Handpan Rain](https://open.spotify.com/track/5XDltyzAT7IkZeGu0lAKUf) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 2:50 | 2022-12-12 |  |
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-12-12 |  |
 | [Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/4du82N9n27ykNxac9eoYEN) | [Self Lovers](https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC) | [Beyond](https://open.spotify.com/album/3UG51jaBaJ1ylORsICu3eg) | 3:50 | 2022-12-12 |  |
+| [Heavenly Harmony \(with Ocean Waves\)](https://open.spotify.com/track/5a6nLJZ0vJITEDPvddKgvN) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Heavenly Harmony](https://open.spotify.com/album/0UNyqJLmNwlDwb5IxXaGeo) | 3:16 | 2023-02-13 |  |
 | [Heavenly Lakes](https://open.spotify.com/track/40g7lkBDUGABMbWzqcSxAv) | [Namtso Healing](https://open.spotify.com/artist/1WcNbQEr7rUYmTZ8wX79nT) | [Sacred River](https://open.spotify.com/album/7Jxz7WCwSPpawViRRIgiqC) | 3:03 | 2022-12-12 |  |
 | [Himalayan fall](https://open.spotify.com/track/6OcxaeuLwvO4CD8Ns4my1P) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Himalayan fall](https://open.spotify.com/album/3wiNGfzTvMAYHyEPrLimVw) | 2:46 | 2022-12-12 |  |
 | [Immortal Grounds \(Tibetan Bowls & Babbling Brook\)](https://open.spotify.com/track/3OOrH4Rsxde5KZW4kxhBrV) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 3:00 | 2022-12-12 |  |
@@ -63,6 +66,8 @@
 | [Sleep Stream \(Binaural\)](https://open.spotify.com/track/5iSbDMb5eviUXl3YtWxqMo) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Binaural Drones with Nature Textures](https://open.spotify.com/album/2vVYNRxKXoT1eaxDfuDECm) | 2:58 | 2022-12-12 |  |
 | [Solar](https://open.spotify.com/track/6wYwoGNZVKpw8mrpbraeZ4) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Solar](https://open.spotify.com/album/2RWgbPBlxEinNboWLMyFuz) | 2:40 | 2022-12-12 |  |
 | [Sound of Sarvastivada \(Sound Bath\)](https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf) | 2:34 | 2022-12-12 |  |
+| [Starry Night](https://open.spotify.com/track/0VfBUuUgvUfkpxujoNyHuv) | [Siyotanka](https://open.spotify.com/artist/6z7aFfuglPapY8jOgkpuH6) | [Starry Night](https://open.spotify.com/album/3dwR4XJPm8u2mWTohgbBgo) | 5:12 | 2023-02-13 |  |
+| [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-02-13 |  |
 | [The River Alciphei](https://open.spotify.com/track/7fSdPaTMNJFPzGK0As0OAu) | [Aparine](https://open.spotify.com/artist/0DU2vMP9JIdQmwgaCRDt0T) | [The River Alciphei](https://open.spotify.com/album/2KPidbMUDiDQZqO5ivo24F) | 3:00 | 2022-12-12 |  |
 | [Tibetan Bowl Healing](https://open.spotify.com/track/3I6EM6JA53GPfF3tfJ8fHN) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 3:40 | 2022-12-12 |  |
 | [Tibetan Chanting Bowls](https://open.spotify.com/track/198iy8AUqQgxdyaUGqMnfF) | [Ameliorate](https://open.spotify.com/artist/0tnDP3F11QVq1xIQ8jqrSm) | [Healing](https://open.spotify.com/album/53vkXb29Sbjw5d1r2lOx1M) | 3:01 | 2022-12-12 |  |

@@ -1,15 +1,15 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 104165,
+  "num_followers": 104195,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMGJlMjc2ZmUxMjdiODJkMmNkZjFhMjg2ZGZhZWQwOTZi",
+  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMDFjZDk3MmFkNmIxMGM0NzZjYzNhZmZiYWNkMDg4NTM2",
   "tracks": [
     {
-      "added_at": "2023-02-13 01:20:07",
+      "added_at": "2023-02-14 01:20:33",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Mil Maneras de Morir",
         "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 175718,
       "name": "NUDE",
       "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Limo",
         "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "5 A.M.",
-        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "5 A.M.",
-      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "i hope you're very unhappy without me",
-        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 125166,
-      "name": "De Na'",
-      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Daiquiri",
         "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 218918,
       "name": "Daiquiri",
       "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "i hope you're very unhappy without me",
+        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 125166,
+      "name": "De Na'",
+      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+        "name": "Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
       },
       "artists": [
         {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+      "duration_ms": 179813,
+      "name": "Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
         }
       ],
-      "duration_ms": 179813,
-      "name": "Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 159052,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "What More",
-      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "esc\u00e1pate",
         "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 149458,
+      "name": "What More",
+      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Nela",
-        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Nela",
-      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 173373,
       "name": "Prende",
       "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "\u00dasame",
-        "url": "https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV"
+        "name": "Cerquita del Mar",
+        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 203294,
-      "name": "\u00dasame",
-      "url": "https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d"
+      "duration_ms": 201230,
+      "name": "Cerquita del Mar",
+      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Cerquita del Mar",
-        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Cerquita del Mar",
-      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "VAIV\u00c9N",
         "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK"
     },
     {
       "added_at": "2023-01-20 01:55:27",

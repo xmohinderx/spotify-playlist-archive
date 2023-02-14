@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Let Her Burn",
+        "url": "https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/2mlgv5IPl77e37iGFMwNhv"
+    },
+    {
+      "album": {
         "name": "Destructible",
         "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
       },

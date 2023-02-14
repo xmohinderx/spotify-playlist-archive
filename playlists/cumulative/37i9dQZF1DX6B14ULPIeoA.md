@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6B14ULPIeoA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6B14ULPIeoA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6B14ULPIeoA)
 
-### [Día de la Candelaria: Tamales y Atole](https://open.spotify.com/playlist/37i9dQZF1DX6B14ULPIeoA)
+### [Café de Olla](https://open.spotify.com/playlist/37i9dQZF1DX6B14ULPIeoA)
 
-> Llegó la hora de pagar la tamaliza.
+> Con mucha dulzura y sabor para un momento de relax.
 
 185 songs - 9 hr 40 min
 

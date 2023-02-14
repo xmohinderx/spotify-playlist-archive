@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Get jiggy with 90s Bollywood. Cover - Khalnayak",
-  "name": "90's Dance Bollywood",
+  "description": "Get jiggy with 90s 'dhinchak' beats. Cover - Khalnayak",
+  "name": "90s Dance Bollywood",
   "tracks": [
     {
       "album": {
@@ -1145,6 +1145,32 @@
     },
     {
       "album": {
+        "name": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372613,
+      "name": "Main Khiladi Tu Anari",
+      "url": "https://open.spotify.com/track/75HJYgb0KguhgWBjpx5iWH"
+    },
+    {
+      "album": {
         "name": "Bade Miyan Chote Miyan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4SZP1rmZ6SLANWNsuml9Dt"
       },
@@ -1496,7 +1522,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 442698,
       "name": "Pi Pi Piya",
       "url": "https://open.spotify.com/track/2O5Oikwmg0dCUax8i9gKC6"

@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42717,
+  "num_followers": 42729,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk1NDc5OCwwMDAwMDAwMGYwMDZlOTIxMDA4MWJlOTU4YmU2MDJhZTgxODk4OWMz",
+  "snapshot_id": "MTY3NTk1NDc5OCwwMDAwMDAwMDZhNTZlZmQ1M2FmNjFhZWVjMjJkNDk3YTAyYzc3ZjM5",
   "tracks": [
     {
       "added_at": "2023-02-08 09:18:57",
@@ -419,18 +419,22 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "See You In Life",
-        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 241750,
-      "name": "See You In Life",
-      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -451,22 +455,18 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "See You In Life",
+        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 241750,
+      "name": "See You In Life",
+      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
     },
     {
-      "added_at": "2023-02-08 09:18:57",
+      "added_at": "2023-02-14 01:04:55",
       "album": {
-        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
         }
       ],
-      "duration_ms": 220471,
-      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
+      "duration_ms": 221596,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
+        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 220471,
+      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
         "name": "\u30ea\u30c8\u30eb\u30e1\u30ed\u30c7\u30a3",
         "url": "https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Pink Balloon / Sea Lions",
-        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Sea Lions",
-      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "added_at": "2023-02-08 09:18:57",
+      "album": {
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -709,20 +725,20 @@
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
     },
     {
-      "added_at": "2023-02-13 01:16:45",
+      "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
+        "name": "NOT IN ALMIGHTY",
+        "url": "https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov"
       },
       "artists": [
         {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
         }
       ],
-      "duration_ms": 221596,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
+      "duration_ms": 280084,
+      "name": "DOCUMENT",
+      "url": "https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -739,22 +755,6 @@
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
-    },
-    {
-      "added_at": "2023-02-08 09:18:57",
-      "album": {
-        "name": "NOT IN ALMIGHTY",
-        "url": "https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 280084,
-      "name": "DOCUMENT",
-      "url": "https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4"
     },
     {
       "added_at": "2023-02-08 09:18:57",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-02-08 09:18:57",
       "album": {
-        "name": "Wearing Blue",
-        "url": "https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T"
+        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
         }
       ],
-      "duration_ms": 247886,
-      "name": "Wearing Blue",
-      "url": "https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP"
+      "duration_ms": 327191,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

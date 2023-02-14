@@ -4886,7 +4886,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 221509,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2iQsPf30mmAN7mkP0esv5y"
@@ -7130,7 +7130,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -9902,10 +9902,28 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "album": {
+        "name": "death",
+        "url": "https://open.spotify.com/album/7or5Kwc9ThvKAKzPEbrdjq"
+      },
+      "artists": [
+        {
+          "name": "ogu",
+          "url": "https://open.spotify.com/artist/0PSLP8C3n2b0pFYGjURLcm"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142872,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/4Po4guOVkRUjyrB5N0KqSv"
     },
     {
       "album": {
@@ -12094,7 +12112,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -13836,7 +13854,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 225957,
       "name": "Sladkoto zlo",
       "url": "https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri"
@@ -14730,7 +14748,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -15786,7 +15804,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 187299,
       "name": "TOPA NA BANKETA",
       "url": "https://open.spotify.com/track/4AOUyrWRXMuSRG3eTWxizo"
@@ -16608,7 +16626,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 152133,
       "name": "VSE EDNO",
       "url": "https://open.spotify.com/track/4B4f0Jno4VnQA2a7R1kWgX"
@@ -19583,6 +19601,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+        "url": "https://open.spotify.com/album/7bKzqX7n3toD2Cf2u5AX8v"
+      },
+      "artists": [
+        {
+          "name": "Alisia",
+          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+      "url": "https://open.spotify.com/track/5NNE4zYPnE7bcT6OCt8B3w"
+    },
+    {
+      "album": {
         "name": "\u0422\u0438 \u043d\u0435 \u0441\u0438 \u0437\u0430 \u043c\u0435\u043d",
         "url": "https://open.spotify.com/album/0FeTfkOdeeDhTnEz7LCn7O"
       },
@@ -19722,7 +19758,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
@@ -19776,7 +19812,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 295657,
       "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"

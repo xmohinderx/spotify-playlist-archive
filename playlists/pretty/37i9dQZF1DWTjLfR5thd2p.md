@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > When the sun has set and you need to relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,472 likes - 367 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,484 likes - 367 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -332,7 +332,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 322 | [Passing](https://open.spotify.com/track/5zcpF7WRlnOavcP5fCqOlK) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:28 |
 | 323 | [A Letter](https://open.spotify.com/track/5dUnkSplnv6nM1JMWQbOwt) | [Rebecca Leonard](https://open.spotify.com/artist/5DLGvsb4nrnGyPue6Y6m1G) | [A Letter](https://open.spotify.com/album/6KmLpG31FYe9eYB4VoKM4v) | 2:07 |
 | 324 | [Daydream](https://open.spotify.com/track/2ybNkUxBLsr62fkVcqJ8OC) | [Patrica Vazquez](https://open.spotify.com/artist/3WwszcyQ0cJgmBo9YrHN0p) | [Daydream](https://open.spotify.com/album/7dMjCn2hQgcP4Vqll8M4BJ) | 1:52 |
-| 325 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 |
+| 325 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 |
 | 326 | [Air](https://open.spotify.com/track/4F65GPn78BrRvP638wEQZP) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Elements](https://open.spotify.com/album/0IEqefcK5zKtxaSX4q6Fr8) | 2:52 |
 | 327 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 |
 | 328 | [Desert Skies](https://open.spotify.com/track/55Mk4VZBG6PQBuNTDxFDrL) | [Demi Waters](https://open.spotify.com/artist/4HuQnipechn2us2JVcSX1b) | [Desert Skies](https://open.spotify.com/album/4EI988Bgp1IFzrVqPQ2o9u) | 2:33 |
@@ -376,4 +376,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 366 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 |
 | 367 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 
-Snapshot ID: `MTY2Mzk0MjQ4MywwMDAwMDAwMDkyYzQwYjNkNjc2ZWM5MTc3YTg2ODFmY2Q4MzUxZmE0`
+Snapshot ID: `MTY2Mzk0MjQ4MywwMDAwMDAwMDNlZWVlOWFmYmU3YWU3YmE3M2EzNjgxYzMxMzE3NTY0`

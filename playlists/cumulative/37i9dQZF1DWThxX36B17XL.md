@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWThxX36B17XL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWThxX36B17XL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWThxX36B17XL)
 
-### [This Is: Soda Stereo](https://open.spotify.com/playlist/37i9dQZF1DWThxX36B17XL)
+### [This Is Soda Stereo](https://open.spotify.com/playlist/37i9dQZF1DWThxX36B17XL)
 
 > No es música ligera, son canciones animales y cumplieron 30 años.
 

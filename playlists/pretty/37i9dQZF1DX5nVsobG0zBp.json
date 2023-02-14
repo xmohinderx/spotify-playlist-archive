@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 38359,
+  "num_followers": 38424,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzNDY3OSwwMDAwMDAwMDI4NTRiN2E2NDdkOWY4MTIwMWFhZjE5MDE2OTFmNTUx",
+  "snapshot_id": "MTY3NTkzNDY3OSwwMDAwMDAwMDczYzFmZjk0M2MxZGJmZTcxNDM2NTYzNzE4MmJhYmE5",
   "tracks": [
     {
       "added_at": "2023-02-09 09:24:39",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 185684,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -419,6 +415,26 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 257146,
-      "name": "300",
-      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 158114,
       "name": "1 de Abril",
       "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 257146,
+      "name": "300",
+      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "SYSTEM",
         "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
       "artists": [
         {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 260800,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -679,22 +695,6 @@
       "duration_ms": 290736,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 210618,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -975,18 +991,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "La Bella Mafia",
-        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
+        "name": "Dado",
+        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
         }
       ],
-      "duration_ms": 240594,
-      "name": "La Bella Mafia",
-      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
+      "duration_ms": 207720,
+      "name": "Dado",
+      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Dado",
-        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
-      },
-      "artists": [
-        {
-          "name": "Rony Fuego",
-          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
-        },
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Dado",
-      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
         "name": "METE1LIKE",
         "url": "https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 210415,
       "name": "METE1LIKE",
       "url": "https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "Conto",
-        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Conto",
-      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
+        "name": "Conto",
+        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Conto",
+      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
         "name": "FEELING",
         "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
       },
@@ -1123,30 +1123,6 @@
       "duration_ms": 225880,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
-        "name": "GOD MODE",
-        "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Prodigio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "benji price",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "GOD MODE",
-      "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1183,6 +1159,30 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
+        "name": "GOD MODE",
+        "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "duration_ms": 254117,
+      "name": "GOD MODE",
+      "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
-    },
-    {
-      "added_at": "2023-02-09 09:24:39",
-      "album": {
         "name": "\u00c9 ASSIM",
         "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "added_at": "2023-02-09 09:24:39",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
     },
     {
       "added_at": "2023-02-09 09:24:39",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-02-09 09:24:39",
       "album": {
-        "name": "Morte do Artista",
-        "url": "https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL"
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
       "artists": [
         {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 207658,
-      "name": "Morte do Artista",
-      "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     }
   ],
   "unique_name": "Rap Tuga Hits",

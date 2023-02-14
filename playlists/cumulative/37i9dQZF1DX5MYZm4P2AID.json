@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
   "description": "Once a pogue, always a pogue...Listen to music from Outer Banks and get ready for Poguelanida, tickets available now.",
-  "name": "Outer Banks Official Playlist ",
+  "name": "Outer Banks: Poguelandia",
   "tracks": [
     {
       "album": {
@@ -1572,6 +1572,24 @@
       "duration_ms": 352866,
       "name": "Paper Planes - DFA Remix",
       "url": "https://open.spotify.com/track/1hCD7X2223N2Jt4MzKIe3C"
+    },
+    {
+      "album": {
+        "name": "Pogues Theme (From The Netflix Series Outer Banks)",
+        "url": "https://open.spotify.com/album/58wGqs5bjIluzWqFLJUuAv"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323680,
+      "name": "Pogues Theme",
+      "url": "https://open.spotify.com/track/2TzhYrAMAVPZU2gKHAnWiI"
     },
     {
       "album": {

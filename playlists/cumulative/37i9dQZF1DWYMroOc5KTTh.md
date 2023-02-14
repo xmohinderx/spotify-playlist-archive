@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-421 songs - 1 day 5 hr 3 min
+422 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [Does It Make You Feel Good? \- Greg Wilson & Ché Wilson Remix](https://open.spotify.com/track/0uMJP6WWpVirk5V7SsIV42) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Greg Wilson](https://open.spotify.com/artist/5b8TksKkFbG2NoVG8d8YDN), [Ché Wilson](https://open.spotify.com/artist/0TpwHN8cpXYwikImisp8fn) | [Does It Make You Feel Good? \(Greg Wilson & Ché Wilson Remix\)](https://open.spotify.com/album/3o6I2UgtOSpXOdZTgFbXMz) | 7:51 | 2021-12-03 | 2022-07-14 |
 | [Don't Deal With Us \- Dusky Edit](https://open.spotify.com/track/2lMNNWVnpaJNKCyFFIkWeJ) | [Jt Company](https://open.spotify.com/artist/03QXzMZPP4vJXqhPDYJ9fh), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Don't Deal With Us \(Dusky Edit\)](https://open.spotify.com/album/2ZxAIw9NIcXVSQi6tgMNgo) | 3:36 | 2022-04-06 | 2022-04-15 |
 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 | 2022-08-01 | 2022-11-17 |
-| [Don't You Like It?](https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV) | 3:46 | 2022-09-05 |  |
+| [Don't You Like It?](https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV) | 3:46 | 2022-09-05 | 2023-02-14 |
 | [Don't You Like It?](https://open.spotify.com/track/6uJ7mMcjgOtY3PbQPnaPKO) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/1GOPldTzZzwjyr6GrstMvf) | 3:46 | 2021-12-03 | 2022-07-29 |
+| [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 | 2023-01-16 |  |
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-04-06 | 2022-10-08 |
 | [Down](https://open.spotify.com/track/7Gv5qT2rdcR0LenYPB9Spw) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Down](https://open.spotify.com/album/6gCVYIHf9thjGbxIZUO86x) | 3:17 | 2021-12-03 | 2022-07-05 |
 | [Dragonball Durag](https://open.spotify.com/track/62PclpoBFLl50PJpiJA5RT) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Dragonball Durag](https://open.spotify.com/album/63mrxbP4k9oZBR0LCfzZvo) | 3:01 | 2022-04-06 | 2022-04-14 |

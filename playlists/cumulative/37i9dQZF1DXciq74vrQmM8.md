@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ashnikko
 
-448 songs - 21 hr 7 min
+449 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Deepfake](https://open.spotify.com/track/12rjr4o42cqF77B2t8bvZ1) | [E L L E](https://open.spotify.com/artist/3bWw3wV5j8fYavSXcgOwPn) | [Deepfake](https://open.spotify.com/album/5etIvzB5KdXf4JVZTIhWrZ) | 2:23 | 2022-04-19 | 2022-04-29 |
 | [DEMONWHORES!](https://open.spotify.com/track/6t6pWJtbDZvaHaR6upvZbV) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [DEMONWHORES!](https://open.spotify.com/album/2gTJcARbWybrMvxYT0rjlz) | 2:25 | 2022-10-20 |  |
 | [Designer Sadness](https://open.spotify.com/track/68IpwT2OA86fmmSe9YoZS2) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Designer Sadness](https://open.spotify.com/album/49L8p4r6XSZa7SgaKpFGhK) | 2:40 | 2022-03-11 | 2022-04-01 |
+| [Destroy Me](https://open.spotify.com/track/2mlgv5IPl77e37iGFMwNhv) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:02 | 2023-02-13 |  |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-12-27 | 2022-07-08 |
 | [DEUX AMANTS MORT](https://open.spotify.com/track/6KoDCpiZlfb4mqCyWBPIkW) | [tommy.](https://open.spotify.com/artist/61sAraGpRoTyiM1pzlOFgp) | [DEUX AMANTS MORT](https://open.spotify.com/album/3TzDWayU6UnNxwQygzm047) | 2:53 | 2023-01-20 |  |
 | [Devils](https://open.spotify.com/track/1gXXDq6HH6nDFyIjsZzF4a) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Devils](https://open.spotify.com/album/3qwhc7GQ0YUwx11DZf7mEE) | 3:08 | 2022-09-22 |  |

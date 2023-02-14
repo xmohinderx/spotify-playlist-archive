@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain](/playlists/plain/37i9dQZF1DX0eXqYHdgDwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0eXqYHdgDwI)
 
-### [Canzoni Tristi](https://open.spotify.com/playlist/37i9dQZF1DX0eXqYHdgDwI)
+### [Canzoni Tristi \- San Valentino Edition](https://open.spotify.com/playlist/37i9dQZF1DX0eXqYHdgDwI)
 
-> it's ok not to be ok :'\(
+> canzoni su cui piangere 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,575 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,576 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 59 | [Outnumbered \- Acoustic](https://open.spotify.com/track/7FCdJdGEOBCHqZAYRoZAWV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered \(Acoustic\)](https://open.spotify.com/album/4nk0xj3tr6st2yzimGINin) | 3:54 |
 | 60 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDk0OTY2YmZjMzliNTQ5MDQ0NTA0MjFlNzU3YmZiMmU0`
+Snapshot ID: `MTY3NjMwMjM4NSwwMDAwMDAwMDg5ZGNkMDVjYjkxNmNmY2QyMjRlYjI3OTE5NGI4ODY2`

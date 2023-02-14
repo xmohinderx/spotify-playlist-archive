@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "La Casa No Existe",
+        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204814,
+      "name": "Ag\u00fcita del Equilibrio",
+      "url": "https://open.spotify.com/track/4tLVYBNIWBXpJjvXD1wYMX"
+    },
+    {
+      "album": {
         "name": "Altamar",
         "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 243282,
       "name": "Boli",
       "url": "https://open.spotify.com/track/6HJ7caKRim067gNfJqengL"
@@ -186,7 +204,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 259306,
       "name": "Ceguera",
       "url": "https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN"
@@ -327,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Tristes Tr\u00f3picos",
+        "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
+      },
+      "artists": [
+        {
+          "name": "Lolab\u00fam",
+          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237199,
+      "name": "El Ecuador",
+      "url": "https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH"
+    },
+    {
+      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
@@ -342,6 +378,24 @@
       "duration_ms": 345766,
       "name": "El Hijo del Altiplano",
       "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
+    },
+    {
+      "album": {
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202008,
+      "name": "Francisca Pizarro",
+      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
     },
     {
       "album": {
@@ -453,6 +507,24 @@
     },
     {
       "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235682,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
+    },
+    {
+      "album": {
         "name": "Alpamayo: Music From Peru and Ecuador",
         "url": "https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK"
       },
@@ -464,7 +536,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 244000,
       "name": "La lluvia (The Rain)",
       "url": "https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX"
@@ -482,7 +554,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 235133,
       "name": "La Ni\u00f1a Blanca",
       "url": "https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL"
@@ -504,6 +576,24 @@
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+    },
+    {
+      "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Mirla",
+      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "album": {
@@ -634,7 +724,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 341210,
       "name": "Panorama ayacuchano",
       "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
@@ -670,7 +760,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 170037,
       "name": "Pu\u00f1ales",
       "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
@@ -780,7 +870,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 149426,
       "name": "Sol de los Andes",
       "url": "https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu"
@@ -856,7 +946,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 216372,
       "name": "Sunch'u T'ikitay - Remastered",
       "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
@@ -896,7 +986,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 237960,
       "name": "Tatalitu (Chuntunqui)",
       "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
@@ -950,7 +1040,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 149040,
       "name": "Trote de Enquelga",
       "url": "https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD"
@@ -1052,7 +1142,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 246000,
       "name": "Viaje Andino",
       "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
@@ -1070,7 +1160,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 98346,
       "name": "Vuelo de Condor",
       "url": "https://open.spotify.com/track/6yan5kuNsniypFL72mTDDZ"
@@ -1088,7 +1178,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 441769,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/2jMJbe3zH9zc6m2yXrLlGP"
@@ -1106,7 +1196,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 218533,
       "name": "V\u00edrgenes del Sol",
       "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
@@ -1150,7 +1240,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 223047,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"

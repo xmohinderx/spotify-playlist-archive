@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > Lizzo & SZA, The Kid LAROI, d4vd, Linkin Park and more!<br/> Cover: Lizzo & SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,279 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,295 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

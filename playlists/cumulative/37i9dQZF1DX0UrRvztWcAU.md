@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-515 songs - 1 day 5 hr 0 min
+516 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Girl, I Wanna Lay You Down](https://open.spotify.com/track/4SeSBHW3My7RdB4UW0h1m9) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Fly Between Falls](https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d) | 3:38 | 2022-03-15 | 2022-12-14 |
 | [Give 'n' Take](https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/6ytNQJsLBaGmcms5dBlS0a) | 3:03 | 2021-12-16 | 2022-06-26 |
 | [Give It Up](https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ) | [Cut 'N' Move](https://open.spotify.com/artist/2OQkm6IvTu9MeHkGQQ4cSK) | [Peace, Love & Harmony](https://open.spotify.com/album/6Dvs8Sy0kCLhx0yDWvIhym) | 4:25 | 2022-03-15 | 2022-04-19 |
-| [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2022-03-15 |  |
+| [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2022-03-15 | 2023-02-14 |
 | [Give Me Your Love](https://open.spotify.com/track/4JAkY8n6XHse6pA5OpZA2W) | [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11), [Bianca Sings](https://open.spotify.com/artist/3hTMyEnHbZ2fTRod9AzqEo) | [Give Me Your Love](https://open.spotify.com/album/7GQ1wUTLwjXuvOo0GbGPSB) | 3:08 | 2022-06-03 | 2022-07-29 |
 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 | 2022-07-08 |  |
 | [Glorious](https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 3:04 | 2022-07-08 | 2022-11-18 |
@@ -323,6 +323,7 @@
 | [My Girl](https://open.spotify.com/track/2KpWmfFngrY4ZGTtdCQ6wW) | [Jackson Penn](https://open.spotify.com/artist/0RIQOtjWn0zYKSKfDYgukS) | [My Girl](https://open.spotify.com/album/4FJ1va8E0IPyLfDu2WdhVK) | 2:58 | 2021-12-16 | 2022-07-29 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2022-12-14 |  |
 | [Mystery](https://open.spotify.com/track/69ZdNv7ophVx0sS7Lhmwqt) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Mystery](https://open.spotify.com/album/7j2TldeDQMgDf2Sul1pHIN) | 3:29 | 2022-03-15 | 2022-04-20 |
+| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-02-14 |  |
 | [No Matter \(Basic Tape vs\. Frances\)](https://open.spotify.com/track/7mkm8ry8rZEzJ9C5wQZZrY) | [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [No Matter \(Basic Tape vs\. Frances\)](https://open.spotify.com/album/3UNZJKalAvsZuzsystxHCO) | 3:11 | 2021-12-16 | 2022-07-29 |
 | [No More](https://open.spotify.com/track/6oA7NzN7FgmXv7l7Y638HL) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [No More](https://open.spotify.com/album/7BPtpOen4tp6oTNMjFlTzi) | 3:03 | 2021-12-16 | 2022-07-29 |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-12 |

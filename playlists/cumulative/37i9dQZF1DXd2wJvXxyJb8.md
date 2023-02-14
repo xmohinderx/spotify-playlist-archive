@@ -4,7 +4,7 @@
 
 > Mc Danny ein!!! NÃO CONFUNDA
 
-218 songs - 10 hr 2 min
+219 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Nunca Vai Ser Eu](https://open.spotify.com/track/7hLMdZXOL5NpX7Lncqb8eo) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 2:21 | 2022-10-06 |  |
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-08-11 |  |
 | [Não Sei pra Que Fui Socar Forte \- Ela Ficou Apaixonada Oh Bct Desgraçada](https://open.spotify.com/track/0yH4Yrpmj2dopkwkwee8Fh) | [DJ L7 da ZN](https://open.spotify.com/artist/4u3gkhusFodh7ljxjEvK2a), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Gaby](https://open.spotify.com/artist/1KUJVKfhZXysFf5sxtsEyj) | [Não Sei pra Que Fui Socar Forte \- Ela Ficou Apaixonada Oh Bct Desgraçada](https://open.spotify.com/album/6gNZNKwN2Mk1o2nbCHevd7) | 2:17 | 2022-11-07 |  |
-| [O Neném Não É Neném](https://open.spotify.com/track/5j8zbxwXe6JLxotMrURWdl) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv) | [O Neném Não É Neném](https://open.spotify.com/album/4tZ6qgwfknAYQrQBIlKM0c) | 1:52 | 2023-01-18 |  |
+| [O Neném Não É Neném](https://open.spotify.com/track/3KYALkrEFKFnRAAhAvQcYE) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv) | [O Neném Não É Neném](https://open.spotify.com/album/2Q2NiqNbAeqWHnUS5dQWHH) | 1:52 | 2023-02-13 |  |
+| [O Neném Não É Neném](https://open.spotify.com/track/5j8zbxwXe6JLxotMrURWdl) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv) | [O Neném Não É Neném](https://open.spotify.com/album/4tZ6qgwfknAYQrQBIlKM0c) | 1:52 | 2023-01-18 | 2023-02-14 |
 | [O Poder Dessa Garota](https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP) | 2:16 | 2022-06-21 |  |
 | [ONDA DO BERIMBAU](https://open.spotify.com/track/7ypX1KnSLOXVykk0PnlUfV) | [dj eduardo da favela do pó](https://open.spotify.com/artist/0p95FDRp7XInSoqMSzu7G0), [MC MENOR MT](https://open.spotify.com/artist/3PmeaztIZK8SxIPsv6bQdI) | [ONDA DO BERIMBAU](https://open.spotify.com/album/5SEGtDxPUrAIbegNhKHljb) | 2:38 | 2022-05-26 | 2022-11-10 |
 | [Onlyfans](https://open.spotify.com/track/5lhoo6QYhXLYbUj3QkjWN7) | [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [G.O.N.D.P](https://open.spotify.com/album/1Nl7KHMglyUND0NJrDQJsh) | 2:35 | 2023-01-23 | 2023-02-01 |

@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Harm & Ease
 
-100 songs - 5 hr 43 min
+101 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cold Turkey](https://open.spotify.com/track/4ZsIidihgiyDrMnNlaqeBT) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [More Is More](https://open.spotify.com/album/7dyUmRuDiu9hoOnGnUick7) | 3:00 | 2023-02-10 |  |
 | [Congratulations On Your Breakup](https://open.spotify.com/track/6bELAHSqUKcVER7yMAyylW) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Congratulations On Your Breakup](https://open.spotify.com/album/1jkwK0FOwc3453D5qJIvPO) | 2:47 | 2023-02-10 |  |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 |  |
+| [Crossfire](https://open.spotify.com/track/7DCy072yus5XuBaQmTPbGJ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Crossfire](https://open.spotify.com/album/7oPE77KdN13utx2kqkYut1) | 3:46 | 2023-02-13 |  |
 | [Cybernumb](https://open.spotify.com/track/2ZWul0xOlfGRKf6413U2g9) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [Cybernumb](https://open.spotify.com/album/0izivztqlsTLAGwoHTeVRu) | 3:15 | 2023-02-10 |  |
 | [Dear Illusion](https://open.spotify.com/track/1TzVTyDssoHjSrXKfLZVtF) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Dear Illusion](https://open.spotify.com/album/0zxAtn3zFoZy51Uf6HAAGA) | 4:14 | 2023-02-10 |  |
 | [Dimensions](https://open.spotify.com/track/02uDync49349yroxMRqrEE) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Lightwork](https://open.spotify.com/album/6qjb8ZypDxCCIZUKYwjYlL) | 5:23 | 2023-02-10 |  |
@@ -59,7 +60,7 @@
 | [Kill Me Now](https://open.spotify.com/track/5F4DXPuidp77uNhSADYoSS) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/5SG7eSU143rWwwUQdgIRyg) | 2:25 | 2023-02-10 |  |
 | [Lay Down And Die](https://open.spotify.com/track/6qWeuAOPnNQSXVAOMQmvAX) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Lay Down And Die](https://open.spotify.com/album/5f2DADFOlyvJWTZJqgxAL8) | 4:25 | 2023-02-10 |  |
 | [Let Me Out](https://open.spotify.com/track/4IUZViuv8cdwJPw1IdmpIG) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:12 | 2023-02-10 |  |
-| [Living Proof](https://open.spotify.com/track/5IMEWTYYTUdXjkJzOAz7QZ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Living Proof](https://open.spotify.com/album/2BLMLPpILfCQ8PbjN8KCSS) | 3:56 | 2023-02-10 |  |
+| [Living Proof](https://open.spotify.com/track/5IMEWTYYTUdXjkJzOAz7QZ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Living Proof](https://open.spotify.com/album/2BLMLPpILfCQ8PbjN8KCSS) | 3:56 | 2023-02-10 | 2023-02-14 |
 | [Loner](https://open.spotify.com/track/1umtxmuiIr1FeflSHqxXcV) | [Riun Garner](https://open.spotify.com/artist/3dL6tboQBwjaIWIxNldpFR) | [Loner](https://open.spotify.com/album/1FCGbcjsANGhzsQj3JqHO3) | 3:03 | 2023-02-10 |  |
 | [Lose My Mind](https://open.spotify.com/track/4ynjpbhDHdIfp9BCdAVyJf) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Lose My Mind](https://open.spotify.com/album/2smSScm0nof8aR5qhof3la) | 3:49 | 2023-02-10 |  |
 | [Makeshift Paradise](https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Makeshift Paradise](https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A) | 3:15 | 2023-02-10 |  |

@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-213 songs - 11 hr 55 min
+215 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/2TyG4StdLQyrE4G4hV6pKO) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x) | 4:09 | 2022-07-26 | 2023-02-10 |
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:09 | 2021-12-09 | 2022-07-29 |
 | [Bound For The Floor](https://open.spotify.com/track/31PCgVHSfF31y58BPMt59H) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Bound For The Floor](https://open.spotify.com/album/02bm3jjVSoyLWTPgbsT3lN) | 2:53 | 2021-12-09 |  |
-| [Break My Heart](https://open.spotify.com/track/06d0ygZPk2Nfo3EdoO3Syo) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Break My Heart](https://open.spotify.com/album/49mUloajS5v2kqaGUScrCN) | 2:57 | 2022-07-26 |  |
+| [Break My Heart](https://open.spotify.com/track/06d0ygZPk2Nfo3EdoO3Syo) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Break My Heart](https://open.spotify.com/album/49mUloajS5v2kqaGUScrCN) | 2:57 | 2022-07-26 | 2023-02-14 |
 | [Break My Heart](https://open.spotify.com/track/17p2KjmEj2hzcLHvvhHo4B) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Break My Heart](https://open.spotify.com/album/56vRsRENuQQBiM6eyrCsB6) | 2:57 | 2021-12-09 | 2022-07-29 |
+| [Break My Heart](https://open.spotify.com/track/4Jv3e4LxQQigDxvXb61Gb6) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Break My Heart](https://open.spotify.com/album/6p172OGiKOSzD1S7DhV4G1) | 2:57 | 2023-02-10 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2022-12-23 | 2023-02-10 |
 | [Brief and Beautiful](https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY) | [Fahrenhaidt](https://open.spotify.com/artist/36YkPEVyrGPidekkTErnko) | [Memories of Tomorrow](https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY) | 3:39 | 2021-12-09 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-07-26 |  |
@@ -77,8 +78,9 @@
 | [Grow as We Go](https://open.spotify.com/track/5M6FVA0CEuN7iNqcq6LkG3) | [Finding Us](https://open.spotify.com/artist/3tuF9lI7xxtzNKt33uqxho), [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Grow as We Go](https://open.spotify.com/album/19VfOkSCXKOQM5yvYOiWCX) | 4:23 | 2021-12-09 |  |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:43 | 2022-05-23 |  |
 | [Hang with Me](https://open.spotify.com/track/5wMeDEn5Jt84L94MZQDBWg) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Hang With Me](https://open.spotify.com/album/3mhn3exUlPK5cIrS6szdCQ) | 3:07 | 2021-12-09 |  |
-| [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-07-26 |  |
+| [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-07-26 | 2023-02-14 |
 | [Happier](https://open.spotify.com/track/3cMNRFYGvnVoeK8f2qj4mq) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/55Gn4TGca0dhPw6flrfnUq) | 2:29 | 2021-12-09 | 2022-07-29 |
+| [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 | 2023-02-10 |  |
 | [Harvest Moon](https://open.spotify.com/track/46iRh6fYbnCJuOXCL1gU80) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Harvest Moon](https://open.spotify.com/album/7popmY4ZHEQeGDIDNBS2rR) | 5:15 | 2021-12-09 | 2022-07-29 |
 | [Harvest Moon](https://open.spotify.com/track/6DxpEG3H6I3RlZ8PGbYOdE) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Harvest Moon](https://open.spotify.com/album/1KXHufa5DxbNHV0C7WrC7Q) | 5:15 | 2022-07-26 | 2022-08-04 |
 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2021-12-09 | 2023-02-10 |

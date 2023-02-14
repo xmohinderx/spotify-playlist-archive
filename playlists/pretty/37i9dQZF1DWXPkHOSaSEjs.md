@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain](/playlists/plain/37i9dQZF1DWXPkHOSaSEjs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXPkHOSaSEjs)
 
-### [This Is: Los Pericos](https://open.spotify.com/playlist/37i9dQZF1DWXPkHOSaSEjs)
+### [This Is Los Pericos](https://open.spotify.com/playlist/37i9dQZF1DWXPkHOSaSEjs)
 
 > La mejor energía con los éxitos de Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,895 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,953 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 50 | [Rata China \- Live](https://open.spotify.com/track/1gcvVJO6c9l8g5dExldA6j) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:55 |
 | 51 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:19 |
 
-Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwMGEyYzJjM2YyYmE5MmY0NmE4YjkxYzQ1ZTJmZmU3M2Ey`
+Snapshot ID: `MTY3NjMwNDM4MSwwMDAwMDAwMDg1N2ZiMjJmNTk5ZTA1ZjY3MzhkZDE4MWVjNWVlNjhh`

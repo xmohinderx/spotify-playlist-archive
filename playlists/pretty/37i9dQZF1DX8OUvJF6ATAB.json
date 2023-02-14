@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 170270,
+  "num_followers": 170326,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg0NjgzNCwwMDAwMDAwMGI2MmE5NzBjMzU0ZGI5N2U0MzM3MWMzNDU2MGUzMWYx",
+  "snapshot_id": "MTY3Mjg0NjgzNCwwMDAwMDAwMGIxMjMyNWQ0NjkzMDVmY2VjMWJlNTliNjYwNTQ3MzRm",
   "tracks": [
     {
       "added_at": "2023-01-04 15:40:34",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 193310,
+      "name": "White Cyclosa",
+      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Improvisational Loops",
         "url": "https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU"
       },
@@ -653,22 +669,6 @@
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 193310,
-      "name": "White Cyclosa",
-      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
-    },
-    {
       "added_at": "2022-08-31 03:57:05",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -683,38 +683,6 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 220557,
-      "name": "One Shy Morning",
-      "url": "https://open.spotify.com/track/7i2bZi9EjbtOBWulvQikWm"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Ocean Dreams",
-        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
-      },
-      "artists": [
-        {
-          "name": "Aquarian Summer",
-          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Ocean Dreams",
-      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -739,34 +707,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
       },
       "artists": [
         {
-          "name": "Saloli",
-          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 282680,
-      "name": "Barcarolle",
-      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Yes! Come Parade With Us",
-        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
-      },
-      "artists": [
-        {
-          "name": "Leafcutter John",
-          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Yes! Come Parade With Us",
-      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
+      "duration_ms": 220557,
+      "name": "One Shy Morning",
+      "url": "https://open.spotify.com/track/7i2bZi9EjbtOBWulvQikWm"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -783,6 +735,54 @@
       "duration_ms": 201666,
       "name": "U Believe",
       "url": "https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
+      },
+      "artists": [
+        {
+          "name": "Saloli",
+          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Barcarolle",
+      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Ocean Dreams",
+        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
+      },
+      "artists": [
+        {
+          "name": "Aquarian Summer",
+          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Ocean Dreams",
+      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Yes! Come Parade With Us",
+        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
+      },
+      "artists": [
+        {
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Yes! Come Parade With Us",
+      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
     },
     {
       "added_at": "2022-04-12 01:39:04",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "You Look Different",
+        "url": "https://open.spotify.com/album/0gPZGQchGN8KElz6UnCjAT"
+      },
+      "artists": [
+        {
+          "name": "Fall Therapy",
+          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/419brxWLQEDoUQJTXuu7AK"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 325741,
       "name": "Beloved Exile",
       "url": "https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "You Look Different",
-        "url": "https://open.spotify.com/album/0gPZGQchGN8KElz6UnCjAT"
-      },
-      "artists": [
-        {
-          "name": "Fall Therapy",
-          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/419brxWLQEDoUQJTXuu7AK"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Gymnosphere: Song of the Rose",
-        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
-      },
-      "artists": [
-        {
-          "name": "Jordan De La Sierra",
-          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
-        }
-      ],
-      "duration_ms": 1495160,
-      "name": "Temple of Aesthetic Action",
-      "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "The Last Retention",
         "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Das Unheimliche",
-        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
+        "name": "Gymnosphere: Song of the Rose",
+        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
       "artists": [
         {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+          "name": "Jordan De La Sierra",
+          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Das Unheimliche",
-      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+      "duration_ms": 1495160,
+      "name": "Temple of Aesthetic Action",
+      "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Das Unheimliche",
+        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Das Unheimliche",
+      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2022-01-14 01:47:22",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Flying to America",
-        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
-      },
-      "artists": [
-        {
-          "name": "Marco Parisi",
-          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
-        }
-      ],
-      "duration_ms": 468500,
-      "name": "Flying to America",
-      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Whities 029",
         "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 403694,
       "name": "Waiting in Arisaig",
       "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Flying to America",
+        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marco Parisi",
+          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+        }
+      ],
+      "duration_ms": 468500,
+      "name": "Flying to America",
+      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
     },
     {
       "added_at": "2022-08-24 01:40:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Underwater Lament",
-      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Midnight Marker",
-        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
       },
       "artists": [
         {
-          "name": "Shy Layers",
-          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 190436,
-      "name": "Midnight Marker",
-      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
+      "duration_ms": 320933,
+      "name": "Underwater Lament",
+      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1283,6 +1267,22 @@
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Midnight Marker",
+        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
+      },
+      "artists": [
+        {
+          "name": "Shy Layers",
+          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
+        }
+      ],
+      "duration_ms": 190436,
+      "name": "Midnight Marker",
+      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1315,22 +1315,6 @@
       "duration_ms": 386000,
       "name": "Labyrinth (Exit)",
       "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
-      },
-      "artists": [
-        {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
-        }
-      ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Fear in a Handful of Dust",
-        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
         }
       ],
-      "duration_ms": 216892,
-      "name": "On a Hilltop Sat the Moon",
-      "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
-        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
+        "name": "Fear in a Handful of Dust",
+        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
       },
       "artists": [
         {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 369626,
-      "name": "Standing Crosswise in the Square",
-      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
+      "duration_ms": 216892,
+      "name": "On a Hilltop Sat the Moon",
+      "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
     },
     {
       "added_at": "2022-03-11 05:41:00",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
+        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
+      },
+      "artists": [
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+        }
+      ],
+      "duration_ms": 369626,
+      "name": "Standing Crosswise in the Square",
+      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "that day, on the beach",
         "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Recuerdos del Futuro",
-        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
-      },
-      "artists": [
-        {
-          "name": "Ishtarka",
-          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Recuerdos del Futuro",
-      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "A Bright Resemblance [Abridged]",
         "url": "https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 461397,
       "name": "A Bright Resemblance [Abridged]",
       "url": "https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Recuerdos del Futuro",
+        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
+      },
+      "artists": [
+        {
+          "name": "Ishtarka",
+          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "Recuerdos del Futuro",
+      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
     },
     {
-      "added_at": "2022-09-27 23:12:36",
-      "album": {
-        "name": "Inner Rage",
-        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Mondrag\u00f3n",
-          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
-        }
-      ],
-      "duration_ms": 374679,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
-    },
-    {
       "added_at": "2022-02-18 05:44:42",
       "album": {
         "name": "Zorza",
@@ -1583,6 +1567,22 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
+    },
+    {
+      "added_at": "2022-09-27 23:12:36",
+      "album": {
+        "name": "Inner Rage",
+        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Mondrag\u00f3n",
+          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
+        }
+      ],
+      "duration_ms": 374679,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
     },
     {
       "added_at": "2022-01-12 18:39:37",

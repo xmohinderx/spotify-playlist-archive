@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Crossfire",
+        "url": "https://open.spotify.com/album/7oPE77KdN13utx2kqkYut1"
+      },
+      "artists": [
+        {
+          "name": "Boston Levi",
+          "url": "https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226108,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/7DCy072yus5XuBaQmTPbGJ"
+    },
+    {
+      "album": {
         "name": "Cybernumb",
         "url": "https://open.spotify.com/album/0izivztqlsTLAGwoHTeVRu"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-14",
       "duration_ms": 236269,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/5IMEWTYYTUdXjkJzOAz7QZ"
