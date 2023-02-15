@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 202500,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq"
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e"
+      },
+      "artists": [
+        {
+          "name": "Choi Cello",
+          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC"
+    },
+    {
+      "album": {
         "name": "Lief",
         "url": "https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
@@ -1988,6 +2006,24 @@
       "duration_ms": 187058,
       "name": "Don\u2019t go home",
       "url": "https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3"
+    },
+    {
+      "album": {
+        "name": "MY ONLY 1 (Original Soundtrack from the WEBTOON)",
+        "url": "https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx"
+      },
+      "artists": [
+        {
+          "name": "jerd",
+          "url": "https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233561,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j"
     },
     {
       "album": {
@@ -3995,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "I'm Homeless",
+        "url": "https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "I'm Homeless",
+      "url": "https://open.spotify.com/track/5jYioe70lpLaSRgyhDA8ZJ"
+    },
+    {
+      "album": {
         "name": "I'MMORTAL",
         "url": "https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM"
       },
@@ -5031,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Love Lost",
+        "url": "https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3"
       },
@@ -5168,7 +5240,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
@@ -5364,6 +5436,24 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "album": {
@@ -6464,7 +6554,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 213866,
       "name": "Padding Today Over Yesterday",
       "url": "https://open.spotify.com/track/6LUgl6OWF68pXUOieX4k1Y"
@@ -7484,7 +7574,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 231428,
       "name": "SHINING!",
       "url": "https://open.spotify.com/track/5puMsDHMS36xxIeWHGY7nX"
@@ -8116,7 +8206,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 246529,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz"
@@ -8442,6 +8532,24 @@
       "duration_ms": 176000,
       "name": "Swimming In Stars",
       "url": "https://open.spotify.com/track/04VNf8zCO7uj1mvGBIp0vu"
+    },
+    {
+      "album": {
+        "name": "Swing Slam",
+        "url": "https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228580,
+      "name": "Swing Slam",
+      "url": "https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW"
     },
     {
       "album": {
@@ -8871,6 +8979,24 @@
     },
     {
       "album": {
+        "name": "tokki",
+        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "tokki",
+      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
+    },
+    {
+      "album": {
         "name": "Treat You Right \uc0ac\ub791\ud574\uc904\ub798",
         "url": "https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7"
       },
@@ -9034,7 +9160,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 252706,
       "name": "Unhappiness",
       "url": "https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh"
@@ -9290,7 +9416,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 387789,
       "name": "We Shine at Night",
       "url": "https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY"
@@ -9792,7 +9918,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 202653,
       "name": "WYA",
       "url": "https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA"
@@ -10142,6 +10268,24 @@
       "duration_ms": 258420,
       "name": "\uae34 \uafc8 A Long Dream",
       "url": "https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH"
+    },
+    {
+      "album": {
+        "name": "\uafc8\uc774\ub77c\uba74 \uc88b\uc744\uae4c Wish It Were a Dream",
+        "url": "https://open.spotify.com/album/1m2Yj8iAnUtCJ0BeWAAp5l"
+      },
+      "artists": [
+        {
+          "name": "Moskva Surfing Club",
+          "url": "https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285975,
+      "name": "\uafc8\uc774\ub77c\uba74 \uc88b\uc744\uae4c Wish It Were a Dream",
+      "url": "https://open.spotify.com/track/78FZO8IrNvegLUmCmJCgKm"
     },
     {
       "album": {

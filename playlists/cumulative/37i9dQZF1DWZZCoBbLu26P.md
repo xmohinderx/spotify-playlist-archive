@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bob The Drag Queen
 
-127 songs - 7 hr 14 min
+128 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 | 2021-06-29 |  |
 | [Work Mommi Work](https://open.spotify.com/track/7ltXYVoEQsyrwXcqALO0BR) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/3bO20sWKaLS0nUItWoi1LV) | 3:55 | 2022-03-10 |  |
 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 | 2021-06-29 | 2022-07-29 |
-| [Wrong Bitch](https://open.spotify.com/track/07PV0hY4wUx5W1jCCSK8pL) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/0pfOC2s36015PQ8Wh0xMaV) | 2:38 | 2022-03-10 |  |
+| [Wrong Bitch](https://open.spotify.com/track/07PV0hY4wUx5W1jCCSK8pL) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/0pfOC2s36015PQ8Wh0xMaV) | 2:38 | 2022-03-10 | 2023-02-15 |
+| [Wrong Bitch](https://open.spotify.com/track/1ekxUJlU9cZO6Lsi7qyGNK) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/2fAMXmf76FXGD4oVXqOA7T) | 2:38 | 2022-09-22 |  |
 | [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 2:38 | 2021-06-29 | 2022-07-29 |
 | [Yes Bitch! She Might Be!](https://open.spotify.com/track/6gSJM21icwHkqElZgMGDyh) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [Yes Bitch! She Might Be!](https://open.spotify.com/album/4ByvsCipPAeR5wqm4yGhWe) | 3:08 | 2021-06-29 |  |
 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 | 2021-06-29 |  |

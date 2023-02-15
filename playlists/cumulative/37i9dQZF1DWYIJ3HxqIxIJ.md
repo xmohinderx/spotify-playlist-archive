@@ -4,7 +4,7 @@
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-180 songs - 9 hr 20 min
+181 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BAD LIKE RIRI](https://open.spotify.com/track/1rnTvRuAHx6NRcpC4fSXeg) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [BAD LIKE RIRI](https://open.spotify.com/album/6plQgIsPgXrRsIa0zZCe5r) | 3:37 | 2021-10-15 | 2022-08-16 |
 | [Bang Bang](https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Bang Bang](https://open.spotify.com/album/78Df0kziilAoIaCTCvJtdA) | 4:03 | 2022-08-28 |  |
 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 | 2022-08-15 |  |
-| [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 | 2022-11-10 |  |
+| [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 | 2022-11-10 | 2023-02-15 |
+| [Best Friend](https://open.spotify.com/track/6GToD1V53S3LLIinqSS9Z8) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/2LmnM6QMAh2MucdanVamcm) | 3:18 | 2022-11-10 |  |
 | [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O) | 3:08 | 2021-10-15 | 2022-08-16 |
 | [Bitter](https://open.spotify.com/track/3sEd53ckwUr8bj2ZNFC5uS) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Bitter](https://open.spotify.com/album/2COrM61WP47xlOeh1N9XsR) | 2:54 | 2021-10-15 | 2022-08-16 |

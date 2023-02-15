@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-30 songs - 2 hr 2 min
+31 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A World Without Love](https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Eva Mikhailovna](https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F), [Eva and the Vagabond Tales](https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8) | [A World Without Love](https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL) | 3:47 | 2023-02-10 |  |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-02-10 |  |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-02-10 |  |
+| [Choices \(feat\. Phonte, Bemyfiasco & Kay Young\)](https://open.spotify.com/track/4i7ZLAOwsZwR3cBweCe7R6) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [To What End](https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm) | 3:42 | 2023-02-10 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-10 |  |
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-02-10 |  |
 | [Deep Focus](https://open.spotify.com/track/24dd7WJxHdaGSIcDF4MKMo) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE) | [Deep Focus](https://open.spotify.com/album/61yNWzit8KGbJJFRC6QoNd) | 1:56 | 2023-02-10 |  |
@@ -21,7 +22,7 @@
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-10 |  |
 | [Hooked \(Hot Stuff\)](https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Hooked \(Hot Stuff\)](https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq) | 2:51 | 2023-02-10 |  |
 | [In This World \- Resound NYC Version](https://open.spotify.com/track/5pSMxWIyMrXeGA4YoTSzdH) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Marisha Wallace](https://open.spotify.com/artist/5lJBW5kGx5upWCxF8ziEmi), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [In This World \(Resound NYC Version\)](https://open.spotify.com/album/2ICuN4YYh9ElukLUKgVGSY) | 4:33 | 2023-02-10 |  |
-| [Many Hats](https://open.spotify.com/track/6pe89GWj5gnG3nPEhAxiti) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [To What End](https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm) | 3:07 | 2023-02-10 |  |
+| [Many Hats](https://open.spotify.com/track/6pe89GWj5gnG3nPEhAxiti) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [To What End](https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm) | 3:07 | 2023-02-10 | 2023-02-15 |
 | [Meta Glass \(NikNak Remix\)](https://open.spotify.com/track/3Lde16rrCL5XTjfCn4HNP2) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [NikNak](https://open.spotify.com/artist/108DScSlOQbchNa78euBES) | [Philip Glass: Refractions](https://open.spotify.com/album/1YHge00YN4pCBekDUAYyAK) | 8:32 | 2023-02-10 |  |
 | [New Gospel](https://open.spotify.com/track/61lD6dHS3wv0CT3ayawfZQ) | [DrunkenLover](https://open.spotify.com/artist/4fWhd743irv8aSGwFCrykt), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [New Gospel](https://open.spotify.com/album/4BJiZyWxoYMKbYyOnMAUPt) | 2:43 | 2023-02-10 |  |
 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 | 2023-02-10 |  |

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-1,022 songs - 2 day 4 hr 4 min
+1,023 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-20 | 2022-02-11 |
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 | 2022-11-06 |
 | [das wat a laik](https://open.spotify.com/track/1mUE9n0v1gGCvdeHisDcvQ) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [das wat a laik](https://open.spotify.com/album/1NQykWN3SubZUTBCm9oOKX) | 1:23 | 2022-01-20 | 2022-01-28 |
-| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 | 2023-01-19 |  |
+| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 | 2023-01-19 | 2023-02-15 |
+| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1rBmGER5cjsRqorIGJGcnv) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/4mUvjgh6IUsYg95mRh6AQP) | 4:08 | 2023-02-10 |  |
 | [Dawn to Dusk](https://open.spotify.com/track/0fM5RgjEhuB9UYei2EEQUR) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Dawn to Dusk](https://open.spotify.com/album/6g16lvVzSTtKSutNr8qscW) | 2:37 | 2022-02-24 | 2022-03-18 |
 | [Dawn to Dusk \(AFTRSHOK Dawn Remix\)](https://open.spotify.com/track/0XfJL4J7RqwVr3A7dV4cBF) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Dawn to Dusk](https://open.spotify.com/album/78FBSbzPQmGYiLw4GJxZPJ) | 2:26 | 2022-05-26 | 2022-07-15 |
 | [day in time](https://open.spotify.com/track/79HkMbZ55DXxzxr3rJ9V8k) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl) | [day in time](https://open.spotify.com/album/0qCqIfRn94Thy4fF7H7Vuy) | 2:01 | 2022-07-21 | 2022-08-26 |

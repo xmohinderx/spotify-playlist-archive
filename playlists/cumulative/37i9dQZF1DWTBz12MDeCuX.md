@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-658 songs - 1 day 7 hr 40 min
+659 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [LOS](https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LOS](https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo) | 3:25 | 2022-06-16 | 2022-06-24 |
 | [Loser](https://open.spotify.com/track/1NjKGrKFajOZOtwgebtOJu) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Loser](https://open.spotify.com/album/6l8JPuOO6OUTFX4umiTyQL) | 2:39 | 2023-01-26 | 2023-02-10 |
 | [Love](https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [Love](https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl) | 3:02 | 2023-01-16 | 2023-01-23 |
-| [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 | 2023-01-26 |  |
+| [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 | 2023-01-26 | 2023-02-15 |
+| [Love \- Remix](https://open.spotify.com/track/3ftLcyt5pQA4Z3paDbI6wB) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [Love \- Remix](https://open.spotify.com/album/4YO6PeUBpVc9pI8d68q21r) | 3:02 | 2023-02-13 |  |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-26 |  |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [Lucky Luke](https://open.spotify.com/track/4ej3FXhGM9CVjvS4tJ2gtk) | [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY), [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Cany75](https://open.spotify.com/artist/25J0KcLLMB0IucsDJ4LocD), [OT](https://open.spotify.com/artist/122hwG9HcBJitZseVPce5T) | [Lucky Luke](https://open.spotify.com/album/5wcAF1i1PpvDvcauhMWUUg) | 2:44 | 2023-01-06 |  |

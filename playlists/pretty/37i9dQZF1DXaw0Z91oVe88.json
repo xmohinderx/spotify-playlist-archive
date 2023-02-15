@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2261,
+  "num_followers": 2268,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMDlkZDQxNzQ4OTc5MzJkNTdhNDRiNWZlMzRkMzQwY2E1",
+  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMGNjMWM0ODQ2MTI5YjA0MTU5ZDlmNjc3ZWExYTE0M2Qz",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 190893,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2023-01-26 05:00:03",

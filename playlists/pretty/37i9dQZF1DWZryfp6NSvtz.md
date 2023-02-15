@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: You Me At Six
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,672 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,886 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [New Mistake](https://open.spotify.com/track/3MTd2WF7AtrzKiieoWJWq5) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [New Mistake](https://open.spotify.com/album/71PWoq6U7RyWjjKnLtzfob) | 3:24 |
 | 50 | [eel](https://open.spotify.com/track/0OgYr8I50ZpaWDokhxLWQ0) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [eel](https://open.spotify.com/album/2PDe3qTrwBrPoBFRCVwglw) | 4:28 |
 
-Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDRmZDllNjZkZjgyMDI3YmVmZGQ1NjE5YjQzZTc3OGFk`
+Snapshot ID: `MTY3NjM4Nzc3NCwwMDAwMDAwMDk1ZjJlOGNkZjAwZTM5OTc2NWI4Nzk1ZGE5N2M1YzQ1`

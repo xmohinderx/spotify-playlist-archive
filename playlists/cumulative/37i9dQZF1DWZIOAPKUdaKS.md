@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-615 songs - 1 day 2 hr 48 min
+616 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Perseverance](https://open.spotify.com/track/7w2SNm2phmRjSwl8ftLR8z) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Perseverance](https://open.spotify.com/album/2cEfltCZou7ueF9UR6iNH5) | 2:14 | 2021-12-07 |  |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-07 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-07-20 |
-| [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [Vivien Chandra](https://open.spotify.com/artist/7bKshYPNnC71Zsu93Xi6hq), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-02-07 |  |
+| [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-02-07 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-07 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2021-12-07 | 2022-09-13 |
 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 | 2021-12-07 | 2022-08-13 |
@@ -511,6 +511,7 @@
 | [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2021-12-07 | 2022-07-20 |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2021-12-07 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-12-07 |  |
+| [Suddenly](https://open.spotify.com/track/7hy60O24UQtAaocRRt15aC) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Suddenly](https://open.spotify.com/album/7e4VNF26d7HRimD0jTdU4D) | 1:45 | 2023-02-14 |  |
 | [Sun Breaks Through](https://open.spotify.com/track/6Ad239Df39VssAdSMTkc02) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Sun Breaks Through](https://open.spotify.com/album/66FNyAjg9kupMwNvaJiqO6) | 1:58 | 2022-04-07 |  |
 | [Sun Burst](https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Sun Burst](https://open.spotify.com/album/3HwgvWlgKKUdxCRqUq645D) | 2:23 | 2021-12-07 | 2022-07-29 |
 | [Sun Burst](https://open.spotify.com/track/5HVNys0JzY4zi3slDnU0Bv) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Perceptions](https://open.spotify.com/album/2cAim7maiyIf86Y6PTdnrX) | 2:23 | 2022-07-28 | 2022-10-14 |

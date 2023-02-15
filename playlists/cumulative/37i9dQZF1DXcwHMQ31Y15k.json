@@ -572,10 +572,28 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 278400,
       "name": "Gemati",
       "url": "https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK"
+    },
+    {
+      "album": {
+        "name": "Gemati",
+        "url": "https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d"
+      },
+      "artists": [
+        {
+          "name": "Pakdhe Baz",
+          "url": "https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Gemati",
+      "url": "https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut"
     },
     {
       "album": {

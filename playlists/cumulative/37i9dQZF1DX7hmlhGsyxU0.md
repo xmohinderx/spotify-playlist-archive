@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-159 songs - 8 hr 36 min
+161 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,9 +109,10 @@
 | [Once Again](https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Once Again](https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c) | 2:20 | 2022-07-15 | 2022-11-08 |
 | [Parting](https://open.spotify.com/track/5gIxQgKK5izo6feBaF3irX) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG) | [Parting](https://open.spotify.com/album/18XE2H5QkQyOmildEwhnIJ) | 4:53 | 2022-04-01 | 2022-08-30 |
 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2022-04-22 | 2022-11-08 |
+| [Perceptions](https://open.spotify.com/track/0Vg0pWGNhanZaZX1K4u6RU) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality \#2](https://open.spotify.com/album/0q4yViidvirc5Oki1E7Lu6) | 2:52 | 2022-11-07 |  |
 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 | 2022-04-01 | 2022-07-29 |
 | [Perceptions](https://open.spotify.com/track/2p6aUfi3f2dP3CWzeyMj5W) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5Mg4X8prOVvFQTphWIxjSw) | 2:52 | 2022-11-07 | 2022-12-12 |
-| [Perceptions](https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6) | 2:52 | 2022-11-07 |  |
+| [Perceptions](https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6) | 2:52 | 2022-11-07 | 2023-02-15 |
 | [Perceptions](https://open.spotify.com/track/6PwLqNEDYKaVhNk7Aeonnu) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5ITO0u3GqWfE5wIx2nXbJ5) | 2:52 | 2022-11-07 | 2023-01-19 |
 | [Petrichor](https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN) | [Evalian Massey](https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ) | [Petrichor](https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX) | 1:19 | 2022-04-01 | 2022-09-03 |
 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 | 2022-04-01 |  |
@@ -119,8 +120,9 @@
 | [Pièce en forme de Habanera](https://open.spotify.com/track/0HXyG1Xx9jt8h8SMHWk6aB) | [Robin Chen](https://open.spotify.com/artist/4tMnF69hHcLlRyIWC7Zl0R), [Pedja Muzijevic](https://open.spotify.com/artist/38Trbd7NFKJMAjLWqIgl8s) | [Nightmusic: Romantic Encores from the 1994 International Violin Competition of Indianapolis](https://open.spotify.com/album/04U3ieGqEuzlAGphpUHbPm) | 2:58 | 2022-04-01 | 2022-06-17 |
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 | 2022-11-08 |
 | [Procyon](https://open.spotify.com/track/1s1lHjPIULWHiKyDnY6MdY) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/63k0EPkRUVxxvAG86udhxo) | 3:06 | 2022-11-07 | 2023-01-14 |
+| [Procyon](https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw) | 3:06 | 2022-11-07 |  |
 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 | 2022-04-01 | 2022-10-02 |
-| [Procyon](https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N) | 3:06 | 2022-11-07 |  |
+| [Procyon](https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N) | 3:06 | 2022-11-07 | 2023-02-15 |
 | [Procyon](https://open.spotify.com/track/72iLPdmzbCfua2zOBCm6L2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0) | 3:06 | 2022-11-07 | 2023-01-28 |
 | [Promenade \[Femme à l'ombrelle\]](https://open.spotify.com/track/4ydGUYycGcxIPRAgJIi4y5) | [Salvatore Lo Presti](https://open.spotify.com/artist/1W9M2kXXXrRLg4yWOmvNI6) | [Promenade \[Femme à l'ombrelle\]](https://open.spotify.com/album/7DMBeSnTViF6FXRTEJap5c) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [Pure Imagination \(arr\. piano\)](https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ) | [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI), [Leslie Bricusse](https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3), [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [World Sleep Day](https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt) | 3:23 | 2022-04-01 |  |

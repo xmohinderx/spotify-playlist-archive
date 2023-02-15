@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 215884,
       "name": "Laash",
       "url": "https://open.spotify.com/track/6mj3FPYhJKc5XCOwH5SHva"
@@ -2254,6 +2254,24 @@
       "duration_ms": 237102,
       "name": "Phook Phook",
       "url": "https://open.spotify.com/track/7m6oJJmeZZdD3KULxyQAEA"
+    },
+    {
+      "album": {
+        "name": "Poi Poi Poi",
+        "url": "https://open.spotify.com/album/4yP3aXTcYOOluPoqxQ2qbn"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177204,
+      "name": "Poi Poi Poi",
+      "url": "https://open.spotify.com/track/53tUcQoaQe0WHSAZyWyEiu"
     },
     {
       "album": {

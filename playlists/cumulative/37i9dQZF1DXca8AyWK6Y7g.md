@@ -4,7 +4,7 @@
 
 > in Paris we wear pink! 🗼🥐🇫🇷🥖 Cover: Dove Cameron & Sabrina Carpenter
 
-1,519 songs - 3 day 5 hr 32 min
+1,520 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,7 +982,8 @@
 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 | 2020-06-12 | 2020-12-12 |
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2019-09-29 | 2020-01-16 |
 | [One Day](https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:24 | 2021-05-18 | 2021-08-20 |
-| [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-20 |  |
+| [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-20 | 2023-02-15 |
+| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-03 |  |
 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 | 2021-04-19 | 2021-11-20 |
 | [One More Weekend](https://open.spotify.com/track/4jNRzwGdqkcF11lAvdVHu2) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/3lVIrwQD1GiFpK8tlCF5t6) | 2:22 | 2021-01-25 | 2022-01-08 |
 | [Only A Fool \(with Pink Sweat$\)](https://open.spotify.com/track/4iWKQu7GcqRl1aVll2PD20) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Only A Fool \(with Pink Sweat$\)](https://open.spotify.com/album/0S1Htad88OcJyqR1KlpgZ6) | 2:46 | 2020-05-31 | 2021-11-10 |

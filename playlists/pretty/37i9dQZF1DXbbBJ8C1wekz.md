@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,676 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,767 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 54 | [Disfarce](https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6) | 2:56 |
 | 55 | [Bvlgari](https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [4tune](https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ) | [Bvlgari](https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS) | 3:08 |
 | 56 | [Meu Corre](https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Corre](https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr) | 2:50 |
-| 57 | [Fiquei Rico Cedo](https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Fiquei Rico Cedo](https://open.spotify.com/album/4PlhyAkvqUyaxsmbFtRyNS) | 3:48 |
-| 58 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 57 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 58 | [Fiquei Rico Cedo](https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Fiquei Rico Cedo](https://open.spotify.com/album/4PlhyAkvqUyaxsmbFtRyNS) | 3:48 |
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [Drink Azul](https://open.spotify.com/track/6Bfk5Zu1FvwmCVx9QiTUOh) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [Daja](https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9) | [Drink Azul](https://open.spotify.com/album/5t4q2IxXCgVUcFhb8IUg9l) | 2:45 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGViZGIyYTJkNjc5OTM0MTc0MTEwZDJlNzU5ZmZlOTIx`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDM3Njg5ZTlhYzg3YmQ3MTA2ZTNkZDljODc1YjIwMzky`

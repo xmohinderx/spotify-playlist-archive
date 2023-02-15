@@ -4,7 +4,7 @@
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-185 songs - 9 hr 40 min
+186 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [De que manera te olvido](https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:56 | 2022-09-23 | 2022-11-14 |
 | [Desde Morro](https://open.spotify.com/track/6TwsRLgwejP77ylo34Vctk) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [Desde Morro](https://open.spotify.com/album/2vsAneQL6444468DFoAd2Y) | 2:49 | 2022-01-12 | 2022-06-11 |
 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 | 2022-01-12 |  |
+| [Detrás De Los Cerros](https://open.spotify.com/track/5o7kBjb3R4RGsLxpa39T3A) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Detrás De Los Cerros](https://open.spotify.com/album/1CKIzQI1dh2y1Cy6u0Uj67) | 4:31 | 2022-09-23 |  |
 | [Disfruto Lo Malo](https://open.spotify.com/track/5HvaVlVPH3xx3dWIJ48ISI) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Disfruto Lo Malo](https://open.spotify.com/album/0Kn9cUiC86JccXiSn2ijH3) | 3:50 | 2022-01-12 | 2022-07-28 |
 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 | 2022-01-12 |  |
 | [Donde Me Lleve La Luna](https://open.spotify.com/track/1x2mu6UzJr0SPNR6UFaHQx) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:07 | 2022-01-12 | 2022-07-28 |
@@ -178,7 +179,7 @@
 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 | 2022-01-12 |  |
 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 | 2022-01-12 | 2023-02-08 |
 | [Traigo Canciones](https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:53 | 2022-01-12 | 2022-12-14 |
-| [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 | 2022-01-12 |  |
+| [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 | 2022-01-12 | 2023-02-15 |
 | [Tristes recuerdos \- Con banda](https://open.spotify.com/track/4iaXKn6fDsCV37m73fVnBm) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Que viva Chihuahua!](https://open.spotify.com/album/3uPJqVWTGUuul4P4r5ltJi) | 2:50 | 2022-01-12 | 2022-09-24 |
 | [Un Millon De Rosas](https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Un Millon De Rosas](https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev) | 2:59 | 2022-01-12 |  |
 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 | 2022-01-12 | 2022-07-29 |

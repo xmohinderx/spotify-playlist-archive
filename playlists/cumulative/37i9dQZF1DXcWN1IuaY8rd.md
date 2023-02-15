@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-42 songs - 2 hr 15 min
+43 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [落書きペイジ](https://open.spotify.com/track/7lP713bUiokrSjRcztjzgp) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [落書きペイジ](https://open.spotify.com/album/5OlJdcTJzsJMoCSsJmIwXM) | 3:25 | 2021-05-26 | 2022-07-29 |
 | [蒼い炎](https://open.spotify.com/track/0XTGeSFcD73mgRgl8VSL6S) | [ITOWOKASHI](https://open.spotify.com/artist/1xwuTSJVlnBEOecAEHGRfY) | [アイオライト/蒼い炎](https://open.spotify.com/album/45IYPFvMoKBAxbWvbCNVbX) | 4:01 | 2021-05-26 |  |
 | [覚悟](https://open.spotify.com/track/6rLRxO604qgyY4frl7Kvnv) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 | 2021-05-26 |  |
+| [限界突破](https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [HC 2023 episode 1 \-THE GHOST/限界突破\-](https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI) | 3:30 | 2023-02-14 |  |
 | [黎明](https://open.spotify.com/track/5cYI9415dBr2nIuCmxId8g) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:59 | 2021-05-26 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

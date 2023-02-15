@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 146891,
+  "num_followers": 147018,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDFiODU5ZWU5OThlMGVjZjgxNTBlZjc3MGJmNmUzNTMw",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMGVlODI3M2JiMTUxNjIzOTViZmM4OGJkNTFjNmY4ZDI1",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -534,11 +534,15 @@
         {
           "name": "Coldplay",
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
+      "duration_ms": 239215,
+      "name": "Princess of China",
+      "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -803,22 +807,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/09ZcYBGFX16X8GMDrvqQwt"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV"
       },
@@ -835,6 +823,22 @@
       "duration_ms": 208205,
       "name": "Brother (feat. Gavin DeGraw)",
       "url": "https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/09ZcYBGFX16X8GMDrvqQwt"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1079,8 +1083,8 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
       "artists": [
         {
@@ -1088,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 215706,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1239,8 +1243,8 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
       },
       "artists": [
         {
@@ -1248,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+      "duration_ms": 215706,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
     },
     {
       "added_at": "2022-11-17 15:48:46",

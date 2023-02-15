@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=yz1Vvh5_SOG8KvIia4cDXg\"> Nasty C </a>",
-  "num_followers": 109812,
+  "num_followers": 109920,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMDI3M2QwYzM0YTUwYzE3OTVkNmI1OWQ1ZDU3M2U2MzE4",
+  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMGMzNDEzYmU2NzJkZGZjMjYyMjkzOGM0Njc0ZDg0NmI4",
   "tracks": [
     {
       "added_at": "2023-01-27 08:14:19",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
         }
       ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+      "duration_ms": 175428,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -363,22 +367,18 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Khuli Chana",
-          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 175428,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
+    },
+    {
+      "added_at": "2023-01-27 08:14:19",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 200846,
       "name": "My Way",
       "url": "https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2"
-    },
-    {
-      "added_at": "2023-01-27 08:14:19",
-      "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
-        "name": "Alaye Toh Se Gogo",
-        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Alaye Toh Se Gogo",
-      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
-    },
-    {
-      "added_at": "2023-01-27 08:14:19",
-      "album": {
         "name": "Ball Till We Fall",
         "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
+    },
+    {
+      "added_at": "2023-01-27 08:14:19",
+      "album": {
+        "name": "Alaye Toh Se Gogo",
+        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Alaye Toh Se Gogo",
+      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "added_at": "2023-01-27 08:14:19",
+      "album": {
         "name": "Koobi",
         "url": "https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 160418,
       "name": "Koobi",
       "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
-    },
-    {
-      "added_at": "2023-01-27 08:14:19",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
+        "name": "YP & Azanti, Vol. 1",
+        "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Long Way from Home",
+      "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+    },
+    {
+      "added_at": "2023-01-27 08:14:19",
+      "album": {
         "name": "Romantic Rivals",
         "url": "https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE"
       },
@@ -1339,22 +1359,18 @@
     {
       "added_at": "2023-01-27 08:14:19",
       "album": {
-        "name": "YP & Azanti, Vol. 1",
-        "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
+        "name": "Quarantunes",
+        "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Long Way from Home",
-      "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+      "duration_ms": 220434,
+      "name": "Midf (Money I Dey Find)",
+      "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
     },
     {
       "added_at": "2023-01-27 08:14:19",
@@ -1375,22 +1391,6 @@
       "duration_ms": 208968,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
-    },
-    {
-      "added_at": "2023-01-27 08:14:19",
-      "album": {
-        "name": "Quarantunes",
-        "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
-      },
-      "artists": [
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        }
-      ],
-      "duration_ms": 220434,
-      "name": "Midf (Money I Dey Find)",
-      "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
     },
     {
       "added_at": "2023-01-27 08:14:19",

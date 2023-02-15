@@ -7274,10 +7274,6 @@
       },
       "artists": [
         {
-          "name": "Vivien Chandra",
-          "url": "https://open.spotify.com/artist/7bKshYPNnC71Zsu93Xi6hq"
-        },
-        {
           "name": "v i v",
           "url": "https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX"
         }
@@ -9092,6 +9088,24 @@
       "duration_ms": 148000,
       "name": "Stundom",
       "url": "https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt"
+    },
+    {
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7e4VNF26d7HRimD0jTdU4D"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105643,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7hy60O24UQtAaocRRt15aC"
     },
     {
       "album": {

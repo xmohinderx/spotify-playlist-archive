@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 78526,
+  "num_followers": 78678,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGZhOGNhMDA2OTkwY2E2NTE4NDVmNTk2NWZhOWEwMDZj",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGU3ZTE0ZjZmZmVhODVjODY1NGJkOTNlNzM2Zjk4ZDJj",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Probl\u00e8mes D'amour (All Versions)",
-        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
-      },
-      "artists": [
-        {
-          "name": "Alexander Robotnick",
-          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
-        }
-      ],
-      "duration_ms": 420653,
-      "name": "Probl\u00e8mes d'Amour - Original",
-      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Alientronic",
-        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
+        "name": "Probl\u00e8mes D'amour (All Versions)",
+        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
       },
       "artists": [
         {
-          "name": "Ellen Allien",
-          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+          "name": "Alexander Robotnick",
+          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
         }
       ],
-      "duration_ms": 382531,
-      "name": "Bowie in Harmony",
-      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
+      "duration_ms": 420653,
+      "name": "Probl\u00e8mes d'Amour - Original",
+      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -415,18 +399,34 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
       },
       "artists": [
         {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
         }
       ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Alientronic",
+        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "duration_ms": 382531,
+      "name": "Bowie in Harmony",
+      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -447,18 +447,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
         }
       ],
-      "duration_ms": 257880,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+      "duration_ms": 207960,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
       "added_at": "2021-10-22 11:07:27",

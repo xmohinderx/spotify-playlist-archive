@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Namora aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
+> Namora Aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
 
 137 songs - 7 hr 26 min
 

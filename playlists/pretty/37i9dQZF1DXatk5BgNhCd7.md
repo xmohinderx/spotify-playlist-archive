@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Maluma & Marc Anthony en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,436 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,483 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 34 | [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 |
 | 35 | [No Soy Un 10](https://open.spotify.com/track/3S3WhDTKcVtuRfWfJulLuE) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [No Soy Un 10](https://open.spotify.com/album/1w15wkI8Fnelrb4dMkCiFr) | 2:14 |
 | 36 | [Aqui No Es](https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Aqui No Es](https://open.spotify.com/album/39ONwIdsefek7bPlFV75an) | 3:08 |
-| 37 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
+| 37 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 38 | [Sopita](https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Sopita](https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I) | 3:26 |
 | 39 | [Cumbia Despechada \(feat\. Gino Mella\)](https://open.spotify.com/track/0i38plpKu7S0NCIh8PfcFM) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Cumbia Despechada](https://open.spotify.com/album/6LW0dk5JXVmNLHOCIzoim2) | 2:44 |
 | 40 | [Éxitos x Siempre: Yo Tomo Licor / El Polvito del Amor / Yo Tomo / Yo Me Enamoré](https://open.spotify.com/track/66ykf0soCVZkZ06TNM9amH) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Éxitos x Siempre: Yo Tomo Licor / El Polvito del Amor / Yo Tomo / Yo Me Enamoré](https://open.spotify.com/album/0YaCH7Jn1POPciuotWpZcV) | 6:33 |

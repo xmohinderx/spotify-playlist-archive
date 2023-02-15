@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,058 likes - 108 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,082 likes - 108 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 84 | [be free](https://open.spotify.com/track/2mIRpmCuxooyLSbvbwrUZo) | [michaelachel](https://open.spotify.com/artist/4ZwwHAFJx5G4tEtZmzT8nz) | [be free](https://open.spotify.com/album/2u3i07xf3yDqfTC6poQyNl) | 3:05 |
 | 85 | [Moonlight](https://open.spotify.com/track/5UJpWEkhzsXoJovMIucA40) | [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm) | [Moonlight](https://open.spotify.com/album/67rAl7Wgeww2btQu9hNq2C) | 3:32 |
 | 86 | [Gemerlap Rasa \(feat\. Shelomita\)](https://open.spotify.com/track/1bosLB6RKND7EdrSlaTGOe) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5), [Shelomita](https://open.spotify.com/artist/2HeBrvt6tFniDO1jOwZuyf) | [Gemerlap Rasa \(feat\. Shelomita\)](https://open.spotify.com/album/7wo30gCCCYEHeGmwJYz1un) | 3:28 |
-| 87 | [you're just my type](https://open.spotify.com/track/60C0f699yyz9Sbwst0nEOG) | [Jonathan Tinne](https://open.spotify.com/artist/6WO2DV4CMeEs2b96NPUxC9), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [you're just my type](https://open.spotify.com/album/7nnt1g5UHEoWh6qOwv1mju) | 4:07 |
+| 87 | [you're just my type](https://open.spotify.com/track/60C0f699yyz9Sbwst0nEOG) | [Jonathan Tinne](https://open.spotify.com/artist/6WO2DV4CMeEs2b96NPUxC9), [Delorians](https://open.spotify.com/artist/7c3zuPnyGMfWn1ZFUkjtAY) | [you're just my type](https://open.spotify.com/album/7nnt1g5UHEoWh6qOwv1mju) | 4:07 |
 | 88 | [Time](https://open.spotify.com/track/5XEiJvTVMUbFBKSTHuP5jj) | [biner](https://open.spotify.com/artist/6gMit71XhKLMED3KMbR7Wu), [Myranti](https://open.spotify.com/artist/3VHPXrStWCq2DfqeKgTvTX), [Scwrn](https://open.spotify.com/artist/4LjugR2RX2PxZjNqH8nfTH) | [Time](https://open.spotify.com/album/7AIKBtfVT7m774QuKWTwPy) | 3:32 |
 | 89 | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/album/5SP4C1eYeOVwLxqK2sxkW7) | 3:08 |
 | 90 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 |

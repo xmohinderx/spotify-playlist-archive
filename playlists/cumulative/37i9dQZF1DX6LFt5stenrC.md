@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-123 songs - 3 hr 19 min
+124 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bubble Guppies Theme Song](https://open.spotify.com/track/7u5zwVTZDkcAxu3N3z1NVI) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 0:38 | 2022-04-15 | 2022-10-14 |
 | [Butterbean’s Café Theme Song](https://open.spotify.com/track/0THSVjku93B00R0cBT3zcC) | [Butterbean’s Cafe](https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D) | [Butterbean's Fairy Best Songs](https://open.spotify.com/album/3rFpVT6Tb4AEJlyd1Mwai8) | 0:33 | 2022-04-15 | 2022-11-25 |
 | [Butterbean’s Café Theme Song](https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV) | [Butterbean’s Cafe](https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D) | [Butterbean's Fairy Best Songs](https://open.spotify.com/album/2jjc0iu6j4tfpOgXxDtRLQ) | 0:33 | 2022-04-15 | 2022-10-13 |
+| [Butterbean’s Café Theme Song](https://open.spotify.com/track/3JN9cM1iL3hPRJhr25EEDz) | [Butterbean’s Cafe](https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D) | [Butterbean's Fairy Best Songs](https://open.spotify.com/album/4jqR1prSV2h7ZywExnC6NJ) | 0:33 | 2023-01-27 |  |
 | [Call Me, Beep Me! \(The Kim Possible Song\)](https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Songs from Kim Possible \(Original Soundtrack\)](https://open.spotify.com/album/611TrABNivsGExe1eqIRur) | 2:37 | 2022-04-15 |  |
 | [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 | 2023-01-27 |  |
 | [Doc McStuffins Theme Song](https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Doc McStuffins: The Doc Is In](https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE) | 0:56 | 2022-04-15 |  |
@@ -92,7 +93,7 @@
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/15wnCuuVPp9DVRwz4E3uGC) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/30bd7R8eBRBJizOc0VNwUK) | 1:31 | 2022-04-15 |  |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s) | 1:31 | 2022-04-15 | 2022-11-24 |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/0UhvB5gwwLXH4kCAyyo4dL) | 1:31 | 2022-04-15 | 2022-10-14 |
-| [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 | 2022-04-15 |  |
+| [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 | 2022-04-15 | 2023-02-15 |
 | [Sesame Street Theme \- 2019 Mix](https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: What's the Number?](https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km) | 1:53 | 2022-04-15 | 2023-01-02 |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-04-15 |  |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |

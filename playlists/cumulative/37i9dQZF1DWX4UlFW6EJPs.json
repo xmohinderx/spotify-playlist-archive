@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "Aventine",
+        "url": "https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329821,
+      "name": "Fuel to Fire",
+      "url": "https://open.spotify.com/track/3fHDbOrSf2IQhLeKaShLS4"
+    },
+    {
+      "album": {
         "name": "Keseimbangan",
         "url": "https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,025 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,623 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [生きる者](https://open.spotify.com/track/1gWFywqKdCcPqYxQL95Obj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [土曜ドラマ「探偵ロマンス」オリジナル・サウンドトラック](https://open.spotify.com/album/5Nv9W616gFxR6b1m4mTnpc) | 4:41 |
 | 50 | [Sansantaruya](https://open.spotify.com/track/0RZRrJnxUtLHXDX0jyEB5g) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Sansantaruya](https://open.spotify.com/album/7JihRr3RNTdxNkzWHHdL8f) | 3:36 |
 
-Snapshot ID: `MTY3NjI3MzYxNCwwMDAwMDAwMDY1NzUxNTFiMGJiMDRmNjQ3NGQ2YWRjODBlMmM0NmQ3`
+Snapshot ID: `MTY3NjM1OTg0MSwwMDAwMDAwMDUyMDkwZDBmMWNhMDlmNmY2ZjI4YjRjMTY5OGRjOTEy`

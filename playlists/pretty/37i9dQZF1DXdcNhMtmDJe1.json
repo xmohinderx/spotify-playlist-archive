@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 76015,
+  "num_followers": 76041,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGY3ZDg3OWY5YzJhMjM3MTFmNGU5OGNmNzhjMTBhY2Q4",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGJhNmVkNmFkMjRhOGM2ZDVkZDJiN2IyNjVhYmRiNTkw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -827,34 +827,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 438560,
-      "name": "Piano Concerto in F Major: III. Allegro con brio",
-      "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -879,6 +851,34 @@
       "duration_ms": 426866,
       "name": "Oh, Kay!: Overture",
       "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro con brio",
+      "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
     },
     {
       "added_at": "2022-08-05 04:02:00",

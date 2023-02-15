@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Daniela Ara\u00fajo",
-  "num_followers": 233887,
+  "num_followers": 234008,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMDA3NTQ0MGEyYzM1ZDczZmJiYjUzOWI2ZWYwOTg5NjJl",
+  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMDE3MDI4NmYwYWU1ODYxNTc2MzdkY2VjMGU3MDM3MGM1",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 224485,
       "name": "Deus Cuida de Mim",
       "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 337525,
       "name": "Eu e o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Intimidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Intimidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus",
         "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 301623,
       "name": "Ningu\u00e9m Explica Deus",
       "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Intimidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Intimidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Minha Ess\u00eancia",
-        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Jay Santana",
-          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
-        }
-      ],
-      "duration_ms": 269354,
-      "name": "Descansa",
-      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Ac\u00fastico, Vol. 2",
         "url": "https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n"
       },
@@ -983,22 +963,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
+        "name": "Minha Ess\u00eancia",
+        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
       "artists": [
         {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
         },
         {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+          "name": "Jay Santana",
+          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
         }
       ],
-      "duration_ms": 237510,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+      "duration_ms": 269354,
+      "name": "Descansa",
+      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1015,6 +995,26 @@
       "duration_ms": 252874,
       "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        },
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 237510,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
     },
     {
+      "added_at": "2023-02-15 01:28:06",
+      "album": {
+        "name": "Vulner\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Vulner\u00e1vel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Weslei Santos no Ess\u00eancia Sessions",
@@ -1347,22 +1363,6 @@
       "duration_ms": 257155,
       "name": "Ao \u00danico",
       "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
-    },
-    {
-      "added_at": "2023-02-14 01:07:17",
-      "album": {
-        "name": "Vulner\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Vulner\u00e1vel - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa"
     },
     {
       "added_at": "2023-02-03 03:00:00",

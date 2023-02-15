@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Namora aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
+> Namora Aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,366,471 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,370,089 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 | 50 | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/track/78g5lnALTioTYBjkyxmvlJ) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd) | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/album/1KfEJhSwMWfx4QpQLuK3IA) | 2:53 |
 
-Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMGE4OGI3ZWQyM2NlY2YyMThmNDQ1ZmQ3ZWQxYTc0ZWNk`
+Snapshot ID: `MTY3NjM4MTY5OCwwMDAwMDAwMDA1NDNhNjgwOWQ2NzQ5MDgwMTg4NzRlZWY0Mzc4ZDcy`

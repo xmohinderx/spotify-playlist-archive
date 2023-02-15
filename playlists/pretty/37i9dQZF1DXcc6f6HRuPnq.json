@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 69750,
+  "num_followers": 69860,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NDI5MCwwMDAwMDAwMDI2OGEzYjA1MjFjODg4YzFkMDZiNGFkMDNlNmRkODUz",
+  "snapshot_id": "MTY3NTg1NDI5MCwwMDAwMDAwMGZiZDE4YWE4NmEwZjk5NjU1MTk2MDhhMWZkNDUwYjIx",
   "tracks": [
     {
       "added_at": "2023-02-08 11:04:50",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "On Late Nights",
         "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 269702,
       "name": "On Late Nights",
       "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "My Blues Pathway",
-        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
-      },
-      "artists": [
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Struggle for Grace",
-      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189640,
       "name": "Me And The Blues",
       "url": "https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "My Blues Pathway",
+        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Struggle for Grace",
+      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "Golden Selection (Remastered)",
         "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 165026,
       "name": "Everytime I Get to Drinkin' - Remastered",
       "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "She Puts Me In The Mood",
-      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "Shake Down",
         "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 292040,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "She Puts Me In The Mood",
+      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Mama's Still Got The Blues",
-        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Mama's Still Got The Blues",
+        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
         "name": "Packing My Bags",
         "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
       },
       "artists": [
         {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+          "name": "Jantso Jokelin",
+          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Midnight Hour Blues",
-      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+      "duration_ms": 219915,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -1091,22 +1107,6 @@
       "duration_ms": 263037,
       "name": "Wish Her Well",
       "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
-      },
-      "artists": [
-        {
-          "name": "Jantso Jokelin",
-          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
-        }
-      ],
-      "duration_ms": 219915,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
     },
     {
       "added_at": "2023-02-08 11:04:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-08 11:04:50",
       "album": {
-        "name": "Nail Jumping",
-        "url": "https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 148003,
-      "name": "Blue Because Of You",
-      "url": "https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X"
-    },
-    {
-      "added_at": "2023-02-08 11:04:50",
-      "album": {
         "name": "Ike & Tina Turner - The Complete Collection",
         "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 142720,
       "name": "Suffering The Blues",
       "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
+    },
+    {
+      "added_at": "2023-02-08 11:04:50",
+      "album": {
+        "name": "Nail Jumping",
+        "url": "https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 148003,
+      "name": "Blue Because Of You",
+      "url": "https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X"
     },
     {
       "added_at": "2023-02-08 11:04:50",

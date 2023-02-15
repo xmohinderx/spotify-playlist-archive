@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Bielzin",
-  "num_followers": 93900,
+  "num_followers": 94052,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTU2MiwwMDAwMDAwMDk4MTFjNmY1MjEzZTRiNjk4ZjNiNWUwMjlhMWJhOWQ4",
+  "snapshot_id": "MTY3NjI5NTU2MiwwMDAwMDAwMGQ1YjQxMTQwM2E4MjZiNGUwYjFkYWJlMTY0ODU1OWZk",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
     },
     {
-      "added_at": "2023-02-14 01:10:34",
+      "added_at": "2023-02-15 01:12:02",
       "album": {
         "name": "Turista",
         "url": "https://open.spotify.com/album/2vYVeLDr48qREuBxam5IYI"
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Mente De Malandra",
-        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "Mente De Malandra",
-      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Fio a Fio",
         "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Mente De Malandra",
+        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "Mente De Malandra",
+      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
     },
     {
       "added_at": "2023-02-10 03:01:00",

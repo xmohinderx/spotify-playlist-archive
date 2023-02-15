@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Detra\u0301s De Los Cerros",
+        "url": "https://open.spotify.com/album/1CKIzQI1dh2y1Cy6u0Uj67"
+      },
+      "artists": [
+        {
+          "name": "Regina Costa",
+          "url": "https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271139,
+      "name": "Detra\u0301s De Los Cerros",
+      "url": "https://open.spotify.com/track/5o7kBjb3R4RGsLxpa39T3A"
+    },
+    {
+      "album": {
         "name": "Disfruto Lo Malo",
         "url": "https://open.spotify.com/album/0Kn9cUiC86JccXiSn2ijH3"
       },
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 199230,
       "name": "Tristango",
       "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"

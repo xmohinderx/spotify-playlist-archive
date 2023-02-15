@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-206 songs - 11 hr 31 min
+208 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Growing Pains \- Acoustic](https://open.spotify.com/track/47yx240eURgVYhEDLWGcis) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Growing Pains \(Acoustic\)](https://open.spotify.com/album/3pMzaAUU1EZeBZvrysTdGK) | 3:13 | 2022-01-12 |  |
 | [Hallelujah](https://open.spotify.com/track/6SjiIUxQw3QHhxC4jVdDic) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF) | [Thao & Mirah](https://open.spotify.com/album/4NweXr8UqiBh0PsZj6PQZn) | 4:08 | 2022-01-12 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/6AV1zIEKthWkvTQ2pWHydH) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF), [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Thao & Mirah](https://open.spotify.com/album/73gHZI1HuZBKRARYwCqqLC) | 4:08 | 2022-07-26 | 2022-12-24 |
-| [Hallelujah I Love Her So](https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:43 | 2022-06-03 |  |
+| [Hallelujah I Love Her So](https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:43 | 2022-06-03 | 2023-02-15 |
+| [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 | 2022-12-23 |  |
 | [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-07-26 | 2023-02-14 |
 | [Happier](https://open.spotify.com/track/3cMNRFYGvnVoeK8f2qj4mq) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/55Gn4TGca0dhPw6flrfnUq) | 2:29 | 2022-01-12 | 2022-07-29 |
 | [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 | 2022-12-23 |  |
@@ -119,7 +120,8 @@
 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 | 2022-11-11 |  |
 | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/track/7uUmhF2T52mfYZryoHrz8D) | [SoSo!](https://open.spotify.com/artist/71aIra258gd74xusYNlIfO) | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/album/0yUHXSc7Ze9iusKBfBQi1x) | 3:56 | 2022-01-12 | 2022-11-12 |
 | [Jolene](https://open.spotify.com/track/7hrge11llf19mkVU82QO71) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Jolene](https://open.spotify.com/album/2TkTBM7Ohi9sl2GxMVDJM9) | 3:40 | 2022-01-12 | 2022-06-04 |
-| [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 |  |
+| [Landslide](https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK) | 3:38 | 2022-12-23 |  |
+| [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 | 2023-02-15 |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2022-01-12 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-08-29 | 2022-11-13 |
 | [Landslide](https://open.spotify.com/track/30TJojIypyhX15vrYGti0G) | [Joseph Neville](https://open.spotify.com/artist/4abYx9Wwc8WxkCPgtfg0qV), [Samantha Melillo](https://open.spotify.com/artist/6vgtiLBz4eTU8iJwzu4zWL) | [Landslide](https://open.spotify.com/album/0HAxAaQRtNYEGB6tXau8HK) | 3:20 | 2022-01-12 |  |

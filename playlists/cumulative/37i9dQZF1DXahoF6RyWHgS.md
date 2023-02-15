@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-145 songs - 8 hr 45 min
+146 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Hasta la Piel](https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 4:01 | 2020-05-28 | 2022-08-27 |
 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 | 2020-05-28 |  |
 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78s Volume IV](https://open.spotify.com/album/6qCccqKzNPWnQwP0jTGgYK) | 2:33 | 2020-05-28 | 2022-07-29 |
-| [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 | 2022-01-11 |  |
+| [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 | 2022-01-11 | 2023-02-15 |
 | [Kiko and the Lavender Moon](https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Kiko](https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w) | 3:35 | 2022-01-11 |  |
 | [Kind Of Latin Rhythm](https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG) | 7:21 | 2022-01-11 |  |
 | [Kind Of Latin Rhythm](https://open.spotify.com/track/34wO7W3ir2VEuSD9pz8BAo) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/7ce4eayVRU30ueZdLhisCQ) | 7:21 | 2022-01-11 | 2022-07-29 |
@@ -112,6 +112,7 @@
 | [Oracion caribe](https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 2:40 | 2020-05-28 |  |
 | [Oracion Caribe](https://open.spotify.com/track/2suXSczsXESGn9XsWvfPJG) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:43 | 2020-05-28 | 2022-07-29 |
 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 | 2022-01-11 | 2022-11-13 |
+| [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2020-05-28 |  |
 | [Paga la Cuenta Sinvergüenza](https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [The Best of Chicha: Cumbias, Vol\. 5 \(Spicy Tropical Sounds from Perú\)](https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn) | 3:13 | 2020-05-28 | 2022-07-29 |
 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2020-05-28 |  |
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2020-05-28 | 2022-07-29 |

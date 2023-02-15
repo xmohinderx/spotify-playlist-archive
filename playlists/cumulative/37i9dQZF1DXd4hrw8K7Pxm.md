@@ -4,13 +4,14 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-81 songs - 4 hr 53 min
+84 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2020-10-16 |  |
 | [A Thousand Years](https://open.spotify.com/track/1xKQ533l7XXlbFL8m60x4a) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 3:41 | 2020-10-16 | 2022-07-29 |
-| [A Thousand Years](https://open.spotify.com/track/3RQ5iyYQCmNPoUUQNYpHae) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 3:41 | 2020-10-16 |  |
+| [A Thousand Years](https://open.spotify.com/track/3RQ5iyYQCmNPoUUQNYpHae) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 3:41 | 2020-10-16 | 2023-02-15 |
+| [A Thousand Years](https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:41 | 2020-10-16 |  |
 | [Always On My Mind](https://open.spotify.com/track/036pGlJwc9ZVFJNLmniSbF) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:15 | 2020-10-16 |  |
 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 | 2020-10-16 |  |
 | [Best Thing I Never Had](https://open.spotify.com/track/0aH8rQRwqcy3NBEIx79orQ) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Best Thing I Never Had](https://open.spotify.com/album/3S2aWcQsvuwdgockqAjmkd) | 3:03 | 2020-10-16 |  |
@@ -45,9 +46,10 @@
 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2020-10-16 |  |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2020-10-16 | 2022-07-29 |
 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 | 2020-10-16 |  |
-| [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2020-10-16 |  |
+| [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2020-10-16 | 2023-02-15 |
 | [Let Her Go](https://open.spotify.com/track/3vEEkb5YDQSqRfZGGs3PiV) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Let Her Go](https://open.spotify.com/album/5Ugz4RCogKbxzvd5LGC4JA) | 2:52 | 2020-10-16 | 2022-11-13 |
 | [Let Her Go](https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/6zUsMpfw5Nif1o0kYtidiR) | 2:52 | 2020-10-16 | 2022-07-29 |
+| [Let Her Go](https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:52 | 2020-10-16 |  |
 | [Let It Go](https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Let It Go](https://open.spotify.com/album/1Qz3RQIIaZFs53H51f0oMD) | 4:04 | 2020-10-16 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 | 2020-10-16 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/3QRoTJ1vIlh3e5Ze8kph1b) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/4s93zlqCp8gzg7znyuB933), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2SW2MjxjlpLRba9xJJD3ni) | 2:56 | 2020-10-16 |  |
@@ -86,7 +88,8 @@
 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 | 2020-10-16 |  |
 | [Wonderwall](https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:00 | 2020-10-16 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2020-10-16 |  |
-| [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 | 2020-10-16 |  |
+| [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 | 2020-10-16 | 2023-02-15 |
+| [Yellow](https://open.spotify.com/track/2wrRcjk6zBa1IcZWOwBAxy) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/5d5Ekx6AcVFzC2lJyVQCbH) | 4:14 | 2020-10-16 |  |
 | [Yellow](https://open.spotify.com/track/6lQgAddTsoie2795TU2Oqa) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/3qTl5f2s43FPr6QBToxM2X) | 4:14 | 2020-10-16 | 2022-11-13 |
 | [Yellow](https://open.spotify.com/track/0V3U7zeVUEOqbiYzzXnw0a) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/6tr7N2OwQIVJvb2eKykcUx) | 4:17 | 2020-10-16 | 2022-07-29 |
 

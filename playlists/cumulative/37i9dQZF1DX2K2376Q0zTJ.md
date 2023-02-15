@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  玉名ラーメン
 
-696 songs - 1 day 17 hr 32 min
+697 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [E\-CAN\-Z](https://open.spotify.com/track/34BEyBPn5KD6sxQyQvdOVV) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/5g4Z6IX5rMUjNXx5zycNsz) | 2:06 | 2022-08-02 | 2023-01-04 |
 | [earth meal](https://open.spotify.com/track/6vrO9JB1gegoOymM7dKEvH) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [earth meal](https://open.spotify.com/album/18iSzwpWqE7KpqGmMwJSKX) | 3:50 | 2022-07-05 | 2022-08-03 |
 | [Easy Breezy](https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:28 | 2022-09-06 | 2022-10-05 |
+| [ebi](https://open.spotify.com/track/4l0n7YEXB9KQSV0DR3SpcT) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 3:01 | 2023-02-14 |  |
 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2022-12-06 | 2023-01-04 |
 | [EGO](https://open.spotify.com/track/6eF5e6pzfAy0gpadkTn967) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [EGO](https://open.spotify.com/album/4WDwvcz9PiXN2bNDXrhiQ8) | 3:39 | 2022-10-04 | 2022-11-09 |
 | [emoh](https://open.spotify.com/track/3KzPu0fG8Asq0VInuhpNgo) | [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [lIlI](https://open.spotify.com/artist/3C9jQZpt6PiB9HBAodpZV6) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 3:41 | 2023-02-01 |  |
@@ -148,7 +149,7 @@
 | [Girls Don't Cry, too](https://open.spotify.com/track/36AVK0sMRECrwa8t7KH788) | [Ms.Machine](https://open.spotify.com/artist/1yQ3avKs2mL4Qjd1nakH3z) | [Ms.Machine](https://open.spotify.com/album/6751FqqoDIMJ7286GgGBtP) | 1:43 | 2023-02-01 |  |
 | [Gloomy Sunday](https://open.spotify.com/track/6IzP5UdwWCdIeOoWYzbi2u) | [Litsuka Aisawa](https://open.spotify.com/artist/41cgME6A74wwiWf5cYw4cW) | [Gloomy Sunday](https://open.spotify.com/album/6Judq0HVv7kxpfsz58KwRM) | 2:11 | 2022-02-01 | 2022-03-08 |
 | [GLOW UP](https://open.spotify.com/track/6LwxS7U95Uh5OniZle9Yaz) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [CASPER](https://open.spotify.com/artist/3v99rtFa7nHVnkAp1Zmv0f) | [CHARLESS](https://open.spotify.com/album/5K7dhxzecs0N0i7EfPETaB) | 3:12 | 2022-10-04 | 2022-11-09 |
-| [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 | 2023-02-01 |  |
+| [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 | 2023-02-01 | 2023-02-15 |
 | [Golden Night](https://open.spotify.com/track/3PQg5Ff6xZZBoWdb9jKTxm) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/5g4Z6IX5rMUjNXx5zycNsz) | 3:36 | 2022-08-02 | 2022-09-07 |
 | [Good end](https://open.spotify.com/track/1Zs0ZOrWk7QhEIC7JMAnTr) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Someone's melody](https://open.spotify.com/album/0mUMRgmYGOEfDvbDM4IOHt) | 3:59 | 2023-01-03 | 2023-02-02 |
 | [Good\-bye](https://open.spotify.com/track/57rBRd4rgoSHNIerxDKMoC) | [Umi Shizukuda](https://open.spotify.com/artist/5hSpibCO0xGnObSoIlKwLS) | [Where around the city](https://open.spotify.com/album/0N4SiiqViJSMhCjjeyihtV) | 2:57 | 2023-01-03 | 2023-02-02 |

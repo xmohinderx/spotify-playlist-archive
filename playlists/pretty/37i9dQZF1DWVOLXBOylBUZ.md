@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de KAROL G y Romeo Santos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,775 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,946 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 27 | [Hey Shorty](https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Hey Shorty](https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l) | 3:14 |
 | 28 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 29 | [Yo Le Llego](https://open.spotify.com/track/1m28FeDd0YPat4G7h3sdUk) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [Yo Le Llego](https://open.spotify.com/album/4ZkXZuQ9lilbToGIDF0pCC) | 3:47 |
-| 30 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 |
+| 30 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki), [SymCamp](https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 |
 | 31 | [ME CONFUNDÍ](https://open.spotify.com/track/1zJu4BcvtYqrmAgurFe5hE) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [ME CONFUNDÍ](https://open.spotify.com/album/74dGoM9MUgfpW3YIWnvL4G) | 2:36 |
 | 32 | [Nalgaje](https://open.spotify.com/track/0nWJ4Bmjm6lJ3OeK6kWd8L) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Nalgaje](https://open.spotify.com/album/6b6Po1VRuXrZAQauWeBK8D) | 3:39 |
 | 33 | [Zelle](https://open.spotify.com/track/7MuD8KuyemFZEgSDdswWYj) | [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Zelle](https://open.spotify.com/album/3ayrptGKPNuCBElQJiYQeY) | 3:31 |

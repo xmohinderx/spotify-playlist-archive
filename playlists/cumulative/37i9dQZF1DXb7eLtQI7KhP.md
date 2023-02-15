@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-120 songs - 5 hr 33 min
+122 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,11 @@
 | [Look Ahead](https://open.spotify.com/track/6YCLKWqMCgiAu7GR2eFMKL) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Look Ahead](https://open.spotify.com/album/70ccS4xYLs6F0jqnLMvlhQ) | 2:40 | 2022-04-28 |  |
 | [Lucid Air](https://open.spotify.com/track/0c4UV2Y0OuKBIYxI5p4du4) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 2:33 | 2022-04-28 |  |
 | [Luminous](https://open.spotify.com/track/0a3yJynCpqxbcoxdI5qLsI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Luminous](https://open.spotify.com/album/1fcPItFxNR27pS3EBcOt0K) | 2:28 | 2022-04-28 |  |
+| [Majestic Sky](https://open.spotify.com/track/6h76YDPycRG0nGSIHxFxzP) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Majestic Sky](https://open.spotify.com/album/5RHZVIZAuCXStOzIbCmCa1) | 3:40 | 2023-02-14 |  |
 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 | 2022-04-28 | 2022-07-28 |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2022-04-28 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2022-04-28 |  |
+| [Nebula Horizon](https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Nebula Horizon](https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C) | 1:55 | 2023-02-14 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-04-28 |  |
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-04-28 |  |
 | [Night Hours](https://open.spotify.com/track/595IK0mHtBt377GbAtWMwm) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Night Hours](https://open.spotify.com/album/0DHdHcnU3zcZ6SoJDSj3jb) | 2:15 | 2022-04-28 |  |

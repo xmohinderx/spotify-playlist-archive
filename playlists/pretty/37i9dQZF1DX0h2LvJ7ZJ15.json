@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 709064,
+  "num_followers": 711129,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMDQ2MzVhNjJhNGJjM2U3MzkzNDJkNTJiOWNkM2ZkYTI3",
+  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMDYxYjQ5MzNmMGI3YjJkNzI5OTAwYmQ1MjY1NGI5YmNk",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "The Arrival: Part I (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi"
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
       },
       "artists": [
         {
-          "name": "Aaryan Shah",
-          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
         }
       ],
-      "duration_ms": 279250,
-      "name": "Renegade - (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4"
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -207,22 +207,6 @@
       "duration_ms": 448000,
       "name": "Swing Lynn - Slowed Version",
       "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "green to blue (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 187068,
-      "name": "green to blue - slowed + reverbed",
-      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -927,6 +911,26 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
+      },
+      "artists": [
+        {
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Us and Them",
         "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
       },
@@ -951,22 +955,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "My Head In The Sky",
-        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "ZRobb",
-          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         },
         {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
         }
       ],
-      "duration_ms": 95108,
-      "name": "I Don't Trust Nobody - Slowed and Reverb",
-      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     }
   ],
   "unique_name": "slowed and reverbed",

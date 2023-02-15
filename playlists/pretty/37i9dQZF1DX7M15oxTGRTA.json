@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 63152,
+  "num_followers": 63232,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMDE0MzczYTM1YjFiNThjYjU1OGNmZjY3NTllZmNmN2Vj",
+  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMGZhMGFjNDQzMjRhNDJkMmIwMjBmODU2MGY2NTAyZjgw",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Hot Tub Smooth Sounds",
-        "url": "https://open.spotify.com/album/6wmux9b2RmC5LzpN9a8wA6"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Caught Up In the Rapture - Single Version",
-      "url": "https://open.spotify.com/track/3rkDgf97gFGDEmFUrALomV"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -1047,22 +1031,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -1091,6 +1059,22 @@
       "duration_ms": 225573,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1411,22 +1395,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Injoy",
-        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
-      },
-      "artists": [
-        {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Running In And Out Of My Life",
-      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Injoy",
+        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Running In And Out Of My Life",
+      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Jazzy Soul",
+        "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up In the Rapture",
+      "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Vicious & Fresh",
-        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
-      },
-      "artists": [
-        {
-          "name": "Liz Hogue",
-          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
-        }
-      ],
-      "duration_ms": 357560,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Vows Of Love",
         "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 254000,
       "name": "Is This the End",
       "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Vicious & Fresh",
+        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
+      },
+      "artists": [
+        {
+          "name": "Liz Hogue",
+          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
+        }
+      ],
+      "duration_ms": 357560,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Operator Please Put Me Through",
-        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
+        "name": "Saci Perer\u00ea",
+        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
       },
       "artists": [
         {
-          "name": "Jesse James",
-          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
         }
       ],
-      "duration_ms": 307760,
-      "name": "I Can Do Bad By Myself",
-      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
+      "duration_ms": 245800,
+      "name": "Amor Natural",
+      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Saci Perer\u00ea",
-        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
+        "name": "Operator Please Put Me Through",
+        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
       },
       "artists": [
         {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+          "name": "Jesse James",
+          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Amor Natural",
-      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+      "duration_ms": 307760,
+      "name": "I Can Do Bad By Myself",
+      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
     },
     {
       "added_at": "2023-01-19 17:27:16",

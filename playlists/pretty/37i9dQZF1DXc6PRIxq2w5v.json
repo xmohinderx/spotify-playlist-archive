@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: shiso",
-  "num_followers": 103405,
+  "num_followers": 103541,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQzNzAyOCwwMDAwMDAwMDYzZWMxMTQxM2E1NmExN2Q3MWY1ZWU3YjE2NjY2MGZk",
+  "snapshot_id": "MTY3NTQzNzAyOCwwMDAwMDAwMDY0NWMwYjIyMGNmMmI3Y2I2MWNmMTc2NDBmZmE4NGU5",
   "tracks": [
     {
       "added_at": "2023-02-03 15:10:28",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
+        "name": "Flow Rei Davi",
+        "url": "https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Flow Rei Davi",
+      "url": "https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 182415,
       "name": "MORADIA",
       "url": "https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
-        "name": "Flow Rei Davi",
-        "url": "https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 118285,
-      "name": "Flow Rei Davi",
-      "url": "https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP"
     },
     {
       "added_at": "2023-02-03 15:10:28",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-02-03 15:10:28",
       "album": {
-        "name": "Sou Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec"
-      },
-      "artists": [
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "Kenedy Gomes",
-          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 230156,
-      "name": "Sou Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
-    },
-    {
-      "added_at": "2023-02-03 15:10:28",
-      "album": {
         "name": "Old Self",
         "url": "https://open.spotify.com/album/7d0fYSrAQ24j4PW78OyCN9"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 230062,
       "name": "Old Self",
       "url": "https://open.spotify.com/track/0Ry0fuuon25rXmMWus1YSn"
+    },
+    {
+      "added_at": "2023-02-03 15:10:28",
+      "album": {
+        "name": "Sou Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "Kenedy Gomes",
+          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 230156,
+      "name": "Sou Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
     },
     {
       "added_at": "2023-02-03 15:10:28",

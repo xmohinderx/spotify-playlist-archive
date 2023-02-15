@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6402,
+  "num_followers": 6443,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNjgzNywwMDAwMDAwMDJlNjdkYmZhNTgwODM4ZjJkMWU0MmZmNDgwZjg4MDc1",
+  "snapshot_id": "MTY3NjM2MDg0NywwMDAwMDAwMDI4ZDM1NjQ1MzY0YjkyZGY4ZDFhY2I4ZTdlYjJjMTE2",
   "tracks": [
     {
       "added_at": "2023-02-03 06:47:17",
@@ -117,6 +117,26 @@
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
+      "added_at": "2023-02-15 00:55:46",
+      "album": {
+        "name": "Fxxxnds",
+        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
+      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+    },
+    {
       "added_at": "2023-02-03 06:47:17",
       "album": {
         "name": "Good Person (2022)",
@@ -207,22 +227,6 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
-        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
         "name": "The Hyena on the Keyboard, Pt. 4",
         "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
       },
@@ -243,18 +247,18 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
       "artists": [
         {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
+      "duration_ms": 226560,
+      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
       "added_at": "2023-02-03 06:47:17",
@@ -271,6 +275,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
     },
     {
       "added_at": "2023-02-03 06:47:17",
@@ -307,6 +327,22 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -323,22 +359,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2023-02-03 06:47:17",
@@ -631,22 +651,6 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
         "name": "DA DA!",
         "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
       },
@@ -659,6 +663,22 @@
       "duration_ms": 225125,
       "name": "busy guy",
       "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2023-02-03 06:47:17",
@@ -783,22 +803,6 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
-        "name": "Confession (Ditto X Chuu (LOONA))",
-        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Confession (Ditto X Chuu (LOONA))",
-      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
         "name": "NDGGA",
         "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
       },
@@ -815,6 +819,22 @@
     {
       "added_at": "2023-02-03 06:47:17",
       "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "added_at": "2023-02-03 06:47:17",
+      "album": {
         "name": "A New Decade",
         "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 219813,
       "name": "Should Not Love You",
       "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2023-02-03 06:47:17",
-      "album": {
-        "name": "Again & Again",
-        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
-        },
-        {
-          "name": "KOYO",
-          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Again & Again (Feat. KOYO)",
-      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     },
     {
       "added_at": "2023-02-03 06:47:17",

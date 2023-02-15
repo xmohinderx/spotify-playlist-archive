@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 55515,
+  "num_followers": 55549,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDgzZDllYjc1ZTUzYWM4ZGYwZTBlMmNlYzkyNTViOTg0",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGZmODE5MDE4MjIwMjk3ZDEzNjBjYjM1ZDc4MjUzYmFi",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "The Rawkers (I <3 U SO Edition)",
         "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Cocotte",
-        "url": "https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR"
+        "name": "Lambs Anger",
+        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
       },
       "artists": [
         {
-          "name": "Teenage Bad Girl",
-          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
         }
       ],
-      "duration_ms": 262240,
-      "name": "Cocotte",
-      "url": "https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP"
+      "duration_ms": 218493,
+      "name": "Gay Dentists",
+      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
     }
   ],
   "unique_name": "Bloghouse",

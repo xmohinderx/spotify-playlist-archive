@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 115291,
+  "num_followers": 115333,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGY3MTQ5ZTI2ZDkzZjA1ZDcxNTRmYjM2MzZiMTVkMDIx",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGNlNzc4Y2E1MWMyMjUyNzNhZjI1ZmRmMDMzZmEwZWRi",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
@@ -351,6 +335,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 168000,
       "name": "Palace of the Tiger Women",
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -929,24 +929,20 @@
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
+        "name": "Legend Of The Jivaro",
+        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
       },
       "artists": [
         {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "Bas Sheva",
-          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
+      "duration_ms": 174800,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -965,20 +961,24 @@
       "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Legend Of The Jivaro",
-        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },
       "artists": [
         {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "Bas Sheva",
+          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
+      "duration_ms": 179800,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
     },
     {
       "added_at": "2021-01-20 03:50:53",

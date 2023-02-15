@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 271226,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 181196,
       "name": "Afrocumbia",
       "url": "https://open.spotify.com/track/1jFlWNnMgnj70vLipPSDQh"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 327373,
       "name": "Aquel Viejo Motel",
       "url": "https://open.spotify.com/track/1ULashXhcais89ErjcZhtY"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 236216,
       "name": "Ay Mi Gallina (Afrobeat-Chalupa)",
       "url": "https://open.spotify.com/track/5OaT8Yz1jyrlBnYww7kOrb"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 182760,
       "name": "Borracha (with Fernando Echavarria)",
       "url": "https://open.spotify.com/track/4G0reXgEs8cCO1cSIrVpdD"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 288330,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/2G4HJfWP7AB5hGOng8riOO"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 207500,
       "name": "Co\u0301mo No Amarte",
       "url": "https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 277106,
       "name": "Cuando lleguen los millones",
       "url": "https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 220890,
       "name": "Cubeta",
       "url": "https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR"
@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Los Piratas",
+        "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109062,
+      "name": "El Pan De Estefan\u00eda",
+      "url": "https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW"
+    },
+    {
+      "album": {
         "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
         "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
       },
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 239637,
       "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
       "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 237586,
       "name": "En Silencio Te Amar\u00e9",
       "url": "https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 185476,
       "name": "Estoy Enamorao",
       "url": "https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR"
@@ -1090,7 +1112,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 170440,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/7KsoGh3SoKaBYdPBzcoAYT"
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 220560,
       "name": "Hasta que amanezca",
       "url": "https://open.spotify.com/track/1PyvGC0CyvQxAHfdnO12ax"
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 198241,
       "name": "La Noche Pinta Buena",
       "url": "https://open.spotify.com/track/6kRdDtXzVavPnQHOdwesss"
@@ -1468,7 +1490,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 211712,
       "name": "La Rumba Va Sola",
       "url": "https://open.spotify.com/track/2Tq7LsEmUR2tRIEn3tRkOt"
@@ -1504,7 +1526,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 260432,
       "name": "La Vamo a Tumb\u00e1",
       "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
@@ -1562,7 +1584,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 220250,
       "name": "Late Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6pxmJVuPm6qiNE6BfGD2VU"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 160429,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3r71UoGicsU90BSDylT9Mh"
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 280906,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139"
@@ -1870,7 +1892,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 335120,
       "name": "Mosaico Lo de La Chula",
       "url": "https://open.spotify.com/track/7sVuK1lX6dLMr6e4mYpOeM"
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 226128,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
@@ -2078,7 +2100,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 210538,
       "name": "Pa' la Calle",
       "url": "https://open.spotify.com/track/0iZet9i0d0BTnnNF8g0bxY"
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 279866,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
@@ -2396,7 +2418,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 248400,
       "name": "Salsa & Choke (feat. \u00d1ejo)",
       "url": "https://open.spotify.com/track/4OfK9MAPV8MvRWMxxPpU1m"
@@ -2454,7 +2476,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 197120,
       "name": "Sombrerito Paname\u00f1o",
       "url": "https://open.spotify.com/track/2mlE4Nomgi64jt3SEk2UsB"
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 246162,
       "name": "Swagga",
       "url": "https://open.spotify.com/track/6xIivNQAp0kv41t74WjDRL"
@@ -2656,7 +2678,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 200946,
       "name": "Tres Perlas",
       "url": "https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB"
@@ -2732,7 +2754,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 334132,
       "name": "Un Vestido Bonito",
       "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
@@ -2750,7 +2772,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 343144,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/4WTmcNrXNwJ3Mi0VJhBt2f"
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 202299,
       "name": "Una Invitaci\u00f3n",
       "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 335360,
       "name": "Ven a Medell\u00edn",
       "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 234720,
       "name": "Vestirte de Amor (La Flor)",
       "url": "https://open.spotify.com/track/5VOJ5LaKmEfIoc08GV0X6V"
@@ -3128,7 +3150,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 226731,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"

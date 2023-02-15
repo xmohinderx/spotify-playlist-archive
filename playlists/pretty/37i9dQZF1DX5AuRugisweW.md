@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,184 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,202 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 50 | [Gwine Dig A Hole To Put The Devil In \(142\-B\-1\)](https://open.spotify.com/track/1j3oXJcbQdarDIMWq91yKo) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Leadbelly ARC & Library of Congress Recordings Vol\. 2 \(1935\)](https://open.spotify.com/album/3uCRRCs7gE3acXQUjNpLmF) | 2:32 |
 | 51 | [Devil Got My Woman](https://open.spotify.com/track/20j35mjwZq5Jt3HA0T9Bp2) | [Paul Geremia](https://open.spotify.com/artist/6WjX0aTaDpid6wC4l09oWS) | [Self Portrait in Blues](https://open.spotify.com/album/3lkwobatvIadTglWDDGavY) | 4:29 |
 | 52 | [Lungs](https://open.spotify.com/track/0tBAT5NugCTPG3W5mKpbn4) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:29 |
-| 53 | [Crossroads](https://open.spotify.com/track/0BfVCv8lMEHxEWZlo85Zso) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [The USA Records Blues Story](https://open.spotify.com/album/2jCNz707qCyk1BOV66BaD2) | 2:45 |
+| 53 | [CrossRoads](https://open.spotify.com/track/1J14bmebdXtMFCOMFLI4y7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/60uHS2b93aPUAkZNVGNrQw) | 2:48 |
 | 54 | [Hellhound on My Trail \- Take 1](https://open.spotify.com/track/1JKsia6kNlSeqDnPfJgKvH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:05 |
 | 55 | [The Devil Is A Busy Man](https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Live in '63](https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO) | 4:47 |
 | 56 | [Crossroads \- Crossroad 2 Box/Set Version/Live Version](https://open.spotify.com/track/6SeQ9g3IQEh5Hpdg8psO1Q) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Crossroads 2 \(Live In The Seventies\)](https://open.spotify.com/album/2vTifPgCfp6q3dyJApxS9D) | 5:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 59 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 60 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MTY3Mjc2MTIzMywwMDAwMDAwMDk4OWJkNTg3NzFmOWE3ZTRhNjhiYjk3YWQ0MzU3MGI3`
+Snapshot ID: `MTY3Mjc2MTIzMywwMDAwMDAwMDZjZWMxZjFmMjNjOGYyNzY5MDQyOGZhOWFkOWNjZWU5`

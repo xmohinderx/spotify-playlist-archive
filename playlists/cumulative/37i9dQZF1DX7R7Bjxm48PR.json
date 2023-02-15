@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Consideration",
+        "url": "https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147830,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/65lddH3h121XMhXaVkazVG"
+    },
+    {
+      "album": {
         "name": "Continuation",
         "url": "https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj"
       },
@@ -686,10 +704,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 135000,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2"
+    },
+    {
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/64fE93vuSuTXASPp1ItvYV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Hoedemaker",
+          "url": "https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/2NoXn9TM5FaSOiQyUW8nGb"
     },
     {
       "album": {
@@ -1266,6 +1302,24 @@
       "duration_ms": 199250,
       "name": "Nattljus",
       "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
+    },
+    {
+      "album": {
+        "name": "Nebula Horizon",
+        "url": "https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00c9vilo",
+          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Nebula Horizon",
+      "url": "https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU"
     },
     {
       "album": {
@@ -2418,6 +2472,24 @@
       "duration_ms": 150500,
       "name": "With Dreams In Mind",
       "url": "https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy"
+    },
+    {
+      "album": {
+        "name": "\u00c5\u030aterh\u00e4mtning",
+        "url": "https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU"
+      },
+      "artists": [
+        {
+          "name": "\u00c5mliden",
+          "url": "https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "\u00c5\u030aterh\u00e4mtning",
+      "url": "https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7R7Bjxm48PR"

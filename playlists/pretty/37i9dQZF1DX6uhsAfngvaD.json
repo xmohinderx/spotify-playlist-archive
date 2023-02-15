@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 274858,
+  "num_followers": 274928,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDY2Mzg5NzhiZjIzNTEwZjVlMDcyZDJjYWY0NmJmMTA3",
+  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDhhOGUxYzdhZjkzNGJmNzVkMTNmMzExN2JhNGYwZjk5",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Smothered",
-        "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
-      },
-      "artists": [
-        {
-          "name": "Oberhofer",
-          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "What Does It Mean To Me?",
-      "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Heavy Days",
         "url": "https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 227683,
       "name": "Heavy Days",
       "url": "https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Smothered",
+        "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
+      },
+      "artists": [
+        {
+          "name": "Oberhofer",
+          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "What Does It Mean To Me?",
+      "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -863,6 +863,38 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+      },
+      "artists": [
+        {
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Is This Where It Ends",
+        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 242943,
+      "name": "Is This Where It Ends",
+      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "rest up",
         "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
@@ -879,18 +911,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
       "artists": [
         {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -927,22 +959,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Ways To Get Out (Deluxe)",
         "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
       },
@@ -975,6 +991,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -995,22 +1027,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Is This Where It Ends",
-        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 242943,
-      "name": "Is This Where It Ends",
-      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Love Addict",
-        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
-      },
-      "artists": [
-        {
-          "name": "Sugar High",
-          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Mahjong Room",
         "url": "https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+      },
+      "artists": [
+        {
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        }
-      ],
-      "duration_ms": 239260,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "monochrome blue",
         "url": "https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 256403,
       "name": "come over x",
       "url": "https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "duration_ms": 239260,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Irrational",
+        "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
+      },
+      "artists": [
+        {
+          "name": "Erthlings",
+          "url": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
+        }
+      ],
+      "duration_ms": 203992,
+      "name": "Irrational",
+      "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Present Tense",
         "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Irrational",
-        "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
+        "name": "Ethernity",
+        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
       },
       "artists": [
         {
-          "name": "Erthlings",
-          "url": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
         }
       ],
-      "duration_ms": 203992,
-      "name": "Irrational",
-      "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
+      "duration_ms": 160262,
+      "name": "Just Like Fireflies",
+      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1323,22 +1339,6 @@
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "So Humble The Afternoon",
-        "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 322840,
-      "name": "So Humble the Afternoon",
-      "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
     }
   ],
   "unique_name": "Dreampop",

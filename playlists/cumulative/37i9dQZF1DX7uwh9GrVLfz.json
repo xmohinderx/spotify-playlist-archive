@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30cb\u30fc\u30cf\u30aa!!!! (ni-hao! )",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u5c11\u5e74\u30ca\u30a4\u30d5 (Shonen Knife )",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "album": {
+        "name": "BeachBoys",
+        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "BeachBoys",
+      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
     },
     {
       "album": {
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 188728,
       "name": "fidget",
       "url": "https://open.spotify.com/track/5BBIkuTSziatSanSvNCEC4"
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 119316,
       "name": "Last train",
       "url": "https://open.spotify.com/track/0aqtaUsdAK5GFeVod6s7x6"
@@ -3029,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Manifest for a New Average",
+        "url": "https://open.spotify.com/album/4miHktZHb5pite8cVELcDW"
+      },
+      "artists": [
+        {
+          "name": "LOBSTER",
+          "url": "https://open.spotify.com/artist/09LIsBVBw0w9ALpqyQTRZQ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291625,
+      "name": "Manifest for a New Average",
+      "url": "https://open.spotify.com/track/0R3B5VMV8tEAjw3UrgEfCj"
+    },
+    {
+      "album": {
         "name": "WATERCLOSET MUSIC",
         "url": "https://open.spotify.com/album/2NkjtvZKEum2sKqUOLC7CG"
       },
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 190813,
       "name": "Montage",
       "url": "https://open.spotify.com/track/2hpSNLEJiIGSq225w85rqN"
@@ -3551,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "OUR BEST PLACE",
+        "url": "https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK"
+      },
+      "artists": [
+        {
+          "name": "Shonen Knife",
+          "url": "https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Nice Day",
+      "url": "https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK"
+    },
+    {
+      "album": {
         "name": "DREAMS NEVER END",
         "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
       },
@@ -3580,7 +3634,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 177443,
       "name": "No more \u30b9\u30c6\u30fc\u30c8\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK"
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 222160,
       "name": "RIGHT NOW",
       "url": "https://open.spotify.com/track/1d5nuyjooXOIlGDluTPlTH"
@@ -5548,7 +5602,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 203453,
       "name": "The Dream Is Not Dead",
       "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
@@ -5768,6 +5822,24 @@
       "duration_ms": 198320,
       "name": "Toy Box",
       "url": "https://open.spotify.com/track/5nLEnUwxoVzpj7PX6VZtFl"
+    },
+    {
+      "album": {
+        "name": "TRAIN-TRAIN",
+        "url": "https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233366,
+      "name": "TRAIN-TRAIN",
+      "url": "https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks"
     },
     {
       "album": {
@@ -6590,6 +6662,24 @@
       "duration_ms": 165800,
       "name": "\u304a\u5148\u660e\u308b\u3059\u304e\u3066\u4f55\u3082\u898b\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/6Ce1HBP51AdZB3RRzKzJTG"
+    },
+    {
+      "album": {
+        "name": "\u304f\u305d\u3063\u305f\u308c\u4eba\u751f\u6700\u60aa\u306e",
+        "url": "https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "\u304f\u305d\u3063\u305f\u308c\u4eba\u751f\u6700\u60aa\u306e",
+      "url": "https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a"
     },
     {
       "album": {
@@ -8348,7 +8438,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 219893,
       "name": "\u661f\u7a7a\u306e\u4e0b\u3067",
       "url": "https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v"

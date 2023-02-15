@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 326088,
+  "num_followers": 326153,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDBjODkzZDgzZGE4ZTFhM2ZlYzIzMmZhMGQ3NzI3NWM3",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDdjMTI4NjRiNWMyOWVkZWRkMzA4NWZmMjVmNjRmYTE3",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Night Solace",
         "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnes op.4",
-        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 171071,
-      "name": "Nocturnes op.4",
-      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Scent Of New Days",
         "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 142625,
       "name": "The Scent Of New Days",
       "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Nocturnes op.4",
+        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "Nocturnes op.4",
+      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
-      },
-      "artists": [
-        {
-          "name": "Ky\u016bka",
-          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sand and Stars",
         "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 269904,
       "name": "Sand and Stars",
       "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
+      },
+      "artists": [
+        {
+          "name": "Ky\u016bka",
+          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 140000,
       "name": "Leaves and Light",
       "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Some Other Place",
-        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
-      },
-      "artists": [
-        {
-          "name": "Meredi",
-          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "Some Other Place",
-      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "night walk",
         "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 194517,
       "name": "night walk",
       "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "duration_ms": 253169,
+      "name": "Some Other Place",
+      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,106 +1063,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "145",
-        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
-      },
-      "artists": [
-        {
-          "name": "Patrik Berg Almkvisth",
-          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
-        },
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
-        }
-      ],
-      "duration_ms": 141602,
-      "name": "145 - Revisited",
-      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 262464,
-      "name": "your sonnet",
-      "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "orange sky",
-        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 190670,
-      "name": "orange sky",
-      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "A Cloud Passed",
-        "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
-      },
-      "artists": [
-        {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
-        }
-      ],
-      "duration_ms": 136078,
-      "name": "A Cloud Passed",
-      "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Shards",
         "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
       },
@@ -1183,6 +1083,106 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "145",
+        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 141602,
+      "name": "145 - Revisited",
+      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "orange sky",
+        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 190670,
+      "name": "orange sky",
+      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 262464,
+      "name": "your sonnet",
+      "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "A Cloud Passed",
+        "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "duration_ms": 136078,
+      "name": "A Cloud Passed",
+      "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Song For Katie",
         "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "9-Feb-2022 \"All For E\"",
-        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Morawietz",
-          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
-        }
-      ],
-      "duration_ms": 244937,
-      "name": "9-Feb-2022 \"All For E\"",
-      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "An Evening Scene",
         "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 144625,
       "name": "An Evening Scene",
       "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "9-Feb-2022 \"All For E\"",
+        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Morawietz",
+          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
+        }
+      ],
+      "duration_ms": 244937,
+      "name": "9-Feb-2022 \"All For E\"",
+      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
-      },
-      "artists": [
-        {
-          "name": "Nel Swerts",
-          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
-        }
-      ],
-      "duration_ms": 151397,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Summer Flowers",
-        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
       },
       "artists": [
         {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+          "name": "Nel Swerts",
+          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
         }
       ],
-      "duration_ms": 144654,
-      "name": "Summer Flowers",
-      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
+      "duration_ms": 151397,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1327,6 +1311,22 @@
       "duration_ms": 130084,
       "name": "Stay Longer",
       "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Summer Flowers",
+        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Summer Flowers",
+      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
     }
   ],
   "unique_name": "Soft Piano",

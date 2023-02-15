@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,002 songs - 4 day 19 hr 13 min
+2,004 songs - 4 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,6 +1281,7 @@
 | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/track/7yBlRDQym5EHJ64dgvynb5) | [Back Talk](https://open.spotify.com/artist/7rTfJoe4FkV7lkbS83vNdF), [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [The Fame Riot](https://open.spotify.com/artist/1BuJYwafbXyUE1sj1WY50f) | [Nothing New \(feat\. the Fame Riot\)](https://open.spotify.com/album/0aevdFoYYULtVZuxRTnKPD) | 3:32 | 2019-12-16 | 2019-12-27 |
 | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9) | 3:25 | 2022-06-29 | 2022-07-16 |
 | [nothing.](https://open.spotify.com/track/64CoN1ndUe3zZogxhvz1zg) | [Maheer](https://open.spotify.com/artist/23oTHOSgkJ4IGc9I5U5WJA) | [nothing.](https://open.spotify.com/album/1ZEz2SA5sYC8BbEpxBCkNl) | 3:14 | 2022-02-21 | 2022-03-10 |
+| [Novilunio](https://open.spotify.com/track/29JxtBYr9tWhx8ERRfUEkP) | [Juan Cruz Goldín](https://open.spotify.com/artist/3OmUV4pqODu6UoF1XGNUO2) | [Malasartes](https://open.spotify.com/album/7nqxH05BH05jw6uYhPEH3X) | 3:19 | 2023-02-15 |  |
 | [Nterini](https://open.spotify.com/track/4xAUEwVbO5BhqsH49CAOhI) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/1gMIIzT2Pjr1RiUGtx0DKR) | 3:43 | 2021-08-28 | 2021-09-11 |
 | [Null Zone](https://open.spotify.com/track/1GTKGgt1vsPyfkDi5Cci5D) | [Nathan Jo](https://open.spotify.com/artist/0ZfpcAF716riIelTgj5hlh), [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [Null Zone](https://open.spotify.com/album/0lgkkQCnQlFomjHcv7RwxR) | 5:55 | 2021-04-30 | 2021-05-16 |
 | [Number I Could Call](https://open.spotify.com/track/6OzHWS0TON5mN09AIjpAYU) | [Vita Schmidt](https://open.spotify.com/artist/7bkrFxOcOZFC5fw0VpbGEz) | [Number I Could Call](https://open.spotify.com/album/3KuIeShQaoTi02shrOSuBy) | 3:27 | 2019-10-21 | 2019-11-16 |
@@ -1420,6 +1421,7 @@
 | [Reaching](https://open.spotify.com/track/3OYkaKbx3bLP1Rt91SylaS) | [KT Laine](https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13) | [Knock Knee](https://open.spotify.com/album/7Mn60NcnLfnAxZfVpQBjNX) | 4:08 | 2022-12-04 | 2023-01-03 |
 | [Ready](https://open.spotify.com/track/4GcfHmZTTUNB72ALAKoQFu) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/6GDTlhYBPBsFWAk847WzMf) | 3:48 | 2021-11-19 | 2021-12-08 |
 | [Real Bad](https://open.spotify.com/track/06Ujlx2Yzh4e5PD1HOsRd3) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Real Bad](https://open.spotify.com/album/32UTYhe65KCxUNqKSefo3i) | 2:18 | 2020-09-11 | 2020-09-24 |
+| [Real Men](https://open.spotify.com/track/1kP8uzzdQIpXhvbJVa8Zwx) | [Seeymoore Bell](https://open.spotify.com/artist/2eJToyA6Fd8NfyWsbbJgYj) | [Real Men](https://open.spotify.com/album/3tYhO2ysT8Wvn2lmZHFAqZ) | 2:47 | 2023-02-15 |  |
 | [Reason Enough](https://open.spotify.com/track/4NiJNnjPOEn888eY3R5jaw) | [Stormin' Norman](https://open.spotify.com/artist/4UapLj1YVATnTBcTUGGOBp) | [Reason Enough](https://open.spotify.com/album/3Q2UKovTxsONCWRY5koThA) | 3:02 | 2022-02-18 | 2022-03-07 |
 | [Rebecca's Song](https://open.spotify.com/track/2FF1wek1k9jRlUMZQfpqqk) | [Night Teacher](https://open.spotify.com/artist/5XboTqSD1RnWR5vkwsHxDt) | [Night Teacher](https://open.spotify.com/album/4EKTpwT5LQlRz4UQ7ULk8v) | 3:24 | 2020-09-28 | 2020-10-08 |
 | [Receipts](https://open.spotify.com/track/4nA0z8xySwq7Nt39ee307k) | [Sophie Dorsten](https://open.spotify.com/artist/5CdWY3kUKjlO7gDpdW2JXR), [Alex Dorsten](https://open.spotify.com/artist/0n8DZSotJdu0tz4cFTZHNF) | [Receipts](https://open.spotify.com/album/4LJbO3nVPwpADmyqcM8f2M) | 3:43 | 2021-10-16 | 2021-10-31 |

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 54027,
+  "num_followers": 54103,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDU3NDM4MzUxNTQ1NjIwNGFiMTVkYjgwODZlMTllMjVl",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDVlNWZlNTg4M2E1NWZmYmRmZTZkNTM1NDhkZDUzODQ5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 197437,
       "name": "Maggie's Farm - Remastered",
       "url": "https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "The Golden Age of Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Down the Dustpipe",
         "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 174093,
       "name": "Had Me a Real Good Time - 2010 Remaster",
       "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Hoople",
-        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "The Golden Age of Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
     },
     {
       "added_at": "2020-12-01 05:01:00",

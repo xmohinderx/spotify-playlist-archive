@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 27830,
+  "num_followers": 28423,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3MzE4NiwwMDAwMDAwMGE4ZjE4ZGZhYTE5NDg0NmUxMmE5NDMzODg0NDZhMTVi",
+  "snapshot_id": "MTY3NTk3MzE4NiwwMDAwMDAwMDgzNTMyNDJhZjJlMGNhOTRkZGJlM2IwYzQzNGM5ODU0",
   "tracks": [
     {
       "added_at": "2023-01-12 03:03:40",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
@@ -349,20 +349,20 @@
       "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2023-01-12 02:18:34",
@@ -381,20 +381,20 @@
       "url": "https://open.spotify.com/track/3v1okTkFTXHX6IZp0rEd4L"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
         }
       ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
       "added_at": "2022-12-12 18:21:31",
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6td6C7NuSCqYgrP3XrBC8a"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Spiritual Instinct",
-        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 300503,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 188050,
       "name": "Out of Mind",
       "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Spiritual Instinct",
+        "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 300503,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "We're Not Here to Be Loved",
         "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "11\u202211\u202211",
         "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
-      "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Aurora",
@@ -683,6 +667,22 @@
       "duration_ms": 242755,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
+    },
+    {
+      "added_at": "2023-02-15 00:34:54",
+      "album": {
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
+      },
+      "artists": [
+        {
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+        }
+      ],
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-15 00:34:54",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+        "name": "Nuclear Daisies",
+        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Nuclear Daisies",
+          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
+      "duration_ms": 194181,
+      "name": "Heaven in Your Head",
+      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
     },
     {
       "added_at": "2023-01-04 01:56:44",
@@ -811,6 +811,22 @@
       "duration_ms": 274000,
       "name": "nine gates",
       "url": "https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -845,20 +861,20 @@
       "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Nuclear Daisies",
-        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
+        "name": "Urban Twilight (Remaster)",
+        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
       },
       "artists": [
         {
-          "name": "Nuclear Daisies",
-          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
+          "name": "Oeil",
+          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Heaven in Your Head",
-      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
+      "duration_ms": 230197,
+      "name": "Strawberry Cream",
+      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -875,22 +891,6 @@
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
-      },
-      "artists": [
-        {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
-        }
-      ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -925,7 +925,23 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2022-08-03 04:20:04",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
+      },
+      "artists": [
+        {
+          "name": "Muted Color",
+          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
+        }
+      ],
+      "duration_ms": 241548,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
+    },
+    {
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "Cabin Fever",
         "url": "https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty"
@@ -943,22 +959,6 @@
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
-    },
-    {
-      "added_at": "2022-08-03 04:20:04",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
-      },
-      "artists": [
-        {
-          "name": "Muted Color",
-          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
-        }
-      ],
-      "duration_ms": 241548,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
       "added_at": "2022-09-21 00:37:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Colour Trip",
         "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-12 18:23:41",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "Heaven Inches Away",
+        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
         }
       ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+      "duration_ms": 240500,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1089,36 +1089,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2022-12-12 18:23:41",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
       "artists": [
         {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Too Wild",
-        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
-      },
-      "artists": [
-        {
-          "name": "Seasurfer",
-          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Too Wild",
-      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -1137,7 +1121,23 @@
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
-      "added_at": "2023-02-14 01:01:51",
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Too Wild",
+        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
+      },
+      "artists": [
+        {
+          "name": "Seasurfer",
+          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Too Wild",
+      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
+    },
+    {
+      "added_at": "2023-02-15 00:34:54",
       "album": {
         "name": "All We've Ever Known",
         "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"

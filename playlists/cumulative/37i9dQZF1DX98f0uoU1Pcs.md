@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-392 songs - 21 hr 0 min
+394 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,9 @@
 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 | 2022-01-07 | 2022-03-26 |
 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2021-10-07 | 2022-01-08 |
 | [Don't Press Me](https://open.spotify.com/track/3snZmVX4C2BBsDvGBuggyq) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Don't Press Me](https://open.spotify.com/album/0aJVIbtBQh6UzJZEB88SCj) | 1:50 | 2022-06-17 | 2022-08-27 |
-| [Doomscrollers](https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Doomscrollers](https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I) | 4:23 | 2022-12-09 |  |
+| [Doomscrollers](https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Breaking the Balls of History](https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns) | 4:23 | 2023-02-13 |  |
+| [Doomscrollers](https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Doomscrollers](https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I) | 4:23 | 2022-12-09 | 2023-02-15 |
+| [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 | 2023-02-14 |  |
 | [Dreaming](https://open.spotify.com/track/2kToRThSr8ZXjdxCdsQVt4) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/7ACE2v21yYt28fIF3TD1xZ) | 2:09 | 2021-10-07 | 2022-03-12 |
 | [Dreamsickle](https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Dreamsickle](https://open.spotify.com/album/54uFsfnaWKjg2r4ZjyGx1O) | 2:27 | 2022-01-07 |  |
 | [Drifter](https://open.spotify.com/track/4uFObcsm7fZuH5aHarcfbr) | [Rotten Mind](https://open.spotify.com/artist/7o7zpXvp9gkBEEy67YkXvo) | [Drifter](https://open.spotify.com/album/1WVpLeTbS3RBBh5aQjT5bI) | 3:34 | 2022-03-02 | 2022-11-05 |
@@ -189,8 +191,8 @@
 | [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/45ihy5mszA5zmv7GchLZib) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 | 2023-01-24 |  |
 | [In The Blood](https://open.spotify.com/track/4ogMXaW5JVBAxCDPgXTh28) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [In The Blood](https://open.spotify.com/album/4Kn57eDhYst8I1zKrDJQbn) | 3:57 | 2022-08-26 | 2022-10-08 |
 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 | 2022-01-07 |  |
-| [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 | 2023-01-27 |  |
-| [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 | 2023-02-04 |
+| [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 | 2023-01-27 | 2023-02-15 |
+| [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 |  |
 | [It Might Get Dark](https://open.spotify.com/track/7JTcb32OsQAYibVKnOZ2q2) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [It Might Get Dark](https://open.spotify.com/album/3W8PCtSpEBUw4VCpvlAYbh) | 3:36 | 2021-10-07 | 2022-02-22 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn) | 4:46 | 2023-02-13 |  |
 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 | 2022-01-07 | 2022-11-22 |

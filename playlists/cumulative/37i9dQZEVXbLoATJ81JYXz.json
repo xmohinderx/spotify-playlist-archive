@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 172306,
       "name": "All My Life (Where Have You Been)",
       "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
@@ -8044,7 +8044,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 183508,
       "name": "Grytan",
       "url": "https://open.spotify.com/track/2y8vVlyyZG9TLHY2MrNrTp"
@@ -8490,6 +8490,24 @@
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "HARKI",
+        "url": "https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120624,
+      "name": "HARKI",
+      "url": "https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik"
     },
     {
       "album": {
@@ -13980,7 +13998,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 147690,
       "name": "Misslyckad & hatad",
       "url": "https://open.spotify.com/track/3OqnzptKSFrtjr3sldBD1F"
@@ -14581,6 +14599,24 @@
     },
     {
       "album": {
+        "name": "NIKE TECH",
+        "url": "https://open.spotify.com/album/08a792ESvwxAwZMm7PIb5g"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "NIKE TECH",
+      "url": "https://open.spotify.com/track/0qoHXE9U0eeZtlWyQqUdCo"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -14744,7 +14780,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 183414,
       "name": "Now I Know",
       "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
@@ -22688,7 +22724,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 221913,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/43xz0Ed6oE5r3FSblGZtE0"

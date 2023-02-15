@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,155 likes - 116 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,310 likes - 116 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 11 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 12 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 |
 | 13 | [Nights Like This \(Acoustic\)](https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Nights Like This \(Acoustic\)](https://open.spotify.com/album/18mm5k1571gbV8zGOZu9f3) | 3:43 |
-| 14 | [Running Up That Hill](https://open.spotify.com/track/5EDaeu3f5G4FihamaJuqPt) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4xpf8l2iDVN8N9FbMlUMNf) | 4:29 |
+| 14 | [Running Up That Hill](https://open.spotify.com/track/64nuOnXck45GgD9y6smVBf) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/7x9C3MvulfI2QC5atdWm3s) | 4:29 |
 | 15 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 |
 | 16 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
 | 17 | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW) | 3:51 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 81 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
 | 82 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 |
 | 83 | [Without You](https://open.spotify.com/track/1SesKQRY9HNlqbOtCGYWMa) | [Salty Snacks](https://open.spotify.com/artist/5rXaOEzB1J3SPGCwb6yVcG) | [Without You](https://open.spotify.com/album/3v8B4HwyvJA7WolDLNMWVM) | 2:59 |
-| 84 | [Heartbeats](https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer) | 2:42 |
+| 84 | [Heartbeats](https://open.spotify.com/track/3YhqdNOlcWkgHvgvToS1Js) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/5BNClcSV7si2IuFWmbly4g) | 2:42 |
 | 85 | [Hero \- Acoustic](https://open.spotify.com/track/57QIbBSc8Nps1mCsFoj2qI) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Hero \(Acoustic\)](https://open.spotify.com/album/4599YqrC5uiNbqYZ2JsPVs) | 2:44 |
 | 86 | [You Should Probably Leave](https://open.spotify.com/track/1prVTg8CTVuD9vSkCyYKd5) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [You Should Probably Leave](https://open.spotify.com/album/6TCGUGBCzeVZ1hAWQmpdyM) | 4:06 |
 | 87 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
@@ -101,14 +101,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 91 | [Apologize](https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Apologize](https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna) | 3:01 |
 | 92 | [Love Will Tear Us Apart](https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 3:27 |
 | 93 | [Speak Your Heart](https://open.spotify.com/track/3d4k38C0dO6BWOkPn62eey) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s), [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Speak Your Heart](https://open.spotify.com/album/6XWyL2HcchIDLcTQCcE4Hy) | 3:47 |
-| 94 | [That's Life](https://open.spotify.com/track/5JIpqw0avFfnDk6fCa5QRZ) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:32 |
+| 94 | [That's Life](https://open.spotify.com/track/0cApK7WFfFoBLYdgEAXoOM) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:32 |
 | 95 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
 | 96 | [Attention](https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Attention](https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk) | 4:04 |
 | 97 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 | 98 | [Why Can't This Be Love \- Acoustic](https://open.spotify.com/track/6xbrXbl246JZgrMqmmnFiC) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ) | [Live Under the Alcove \(Acoustic\)](https://open.spotify.com/album/1eJDIxSvFENwf7w02NSmVy) | 3:48 |
 | 99 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 |
 | 100 | [Cannonball](https://open.spotify.com/track/3zU6Sm45Jpd3uaI8sFnT8c) | [Chlara](https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc) | [\#acousticNOW5](https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU) | 3:55 |
-| 101 | [Love Is a Battlefield](https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:41 |
+| 101 | [Love Is a Battlefield](https://open.spotify.com/track/6hi5gIwL3pKSDPZQj7eoKz) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:41 |
 | 102 | [Supermarket Flowers](https://open.spotify.com/track/10a6GUpyRLdfadUPRL5wBg) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw), [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Covers EP](https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs) | 2:25 |
 | 103 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 |
 | 104 | [The Unforgiven](https://open.spotify.com/track/5qzzFRYW7fbG7UMVK79GkN) | [Fatin Majidi](https://open.spotify.com/artist/0ddd7w9reaR40shckQqUep) | [The Unforgiven](https://open.spotify.com/album/1uS73kkNltHKdmBzk8yjsS) | 6:35 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 115 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 | 116 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 
-Snapshot ID: `MTY3NDE3NjQwMCwwMDAwMDAwMDU2NWE3YmNhMzY2NWNhMjlkZjNjOWRiYmYyZDY0NzJi`
+Snapshot ID: `MTY3NDE3NjQwMCwwMDAwMDAwMGE3ZDhmMTg5ODFjM2U2MTQ3ZmI0ZmE5YjE2MjA5OThi`

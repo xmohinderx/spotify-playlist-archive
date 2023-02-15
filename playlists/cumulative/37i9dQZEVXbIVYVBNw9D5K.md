@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-600 songs - 1 day 6 hr 24 min
+601 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,10 +523,11 @@
 | [Sır](https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sır](https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx) | 3:09 | 2021-08-01 | 2021-08-13 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Taksim](https://open.spotify.com/track/5jIaEzm69OQiXgpJN3MSdo) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Taksim](https://open.spotify.com/album/1QraVWAxVEwY8tD1GcH1im) | 3:11 | 2022-03-22 | 2022-03-24 |
-| [TALIBANA](https://open.spotify.com/track/3sytQy6VsGAHTcogXkoT1U) | [ahmet atilla kirazoğlu](https://open.spotify.com/artist/0Kp2Fb4bEY3DHE1Z1LpNHw), [Batusyex](https://open.spotify.com/artist/6lG7ZvNf1ZOqZOVZLSEvKE), [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [TALIBANA](https://open.spotify.com/album/5J9UVnMhQ2AzcB0QbtB9v4) | 2:38 | 2023-02-13 |  |
+| [TALIBANA](https://open.spotify.com/track/3sytQy6VsGAHTcogXkoT1U) | [ahmet atilla kirazoğlu](https://open.spotify.com/artist/0Kp2Fb4bEY3DHE1Z1LpNHw), [Batusyex](https://open.spotify.com/artist/6lG7ZvNf1ZOqZOVZLSEvKE), [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [TALIBANA](https://open.spotify.com/album/5J9UVnMhQ2AzcB0QbtB9v4) | 2:38 | 2023-02-13 | 2023-02-15 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2022-12-24 | 2023-02-04 |
 | [TALIBANA](https://open.spotify.com/track/4XCXLyuJMstvowCIn6HKAr) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/77sKCUHUyapmQKRwmHLmpL) | 2:38 | 2023-02-11 | 2023-02-14 |
 | [TALIBANA](https://open.spotify.com/track/5pItIXivjDrUzI2iIhKIVK) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [TALIBANA](https://open.spotify.com/album/6hAD0e4SiI1FQR7K265VrV) | 2:38 | 2023-02-08 | 2023-02-10 |
+| [TALIBANA](https://open.spotify.com/track/6Hb3NG8sgieX9YLP9xlakc) | [RaiderXD](https://open.spotify.com/artist/5yO9Fbc34OQ5SjxTzjeUEJ), [Runalex](https://open.spotify.com/artist/06bL2Kkvy4W2q6XtPmMyGe), [Lanceas](https://open.spotify.com/artist/2pVVQpwsN9hJn6ey9Xk15M) | [TALIBANA](https://open.spotify.com/album/4GftAA4wJXaXvDmhnl2XYK) | 2:38 | 2023-02-14 |  |
 | [Tamam Aşkım](https://open.spotify.com/track/2pqe4vRhVzf6lHN4rzOTiB) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Aramam](https://open.spotify.com/album/2TJGVc8r8FEzYTlUCAGWMO) | 3:38 | 2021-07-01 | 2021-07-16 |
 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 | 2022-11-02 | 2022-11-06 |
 | [Tek Tabanca](https://open.spotify.com/track/3GXsNll1tpH9h9R3ygsEmB) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Tek Tabanca](https://open.spotify.com/album/6IZwq14LBnRItURc1H4r4Y) | 4:23 | 2021-04-18 | 2021-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,982 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,006 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 10 | [Pagans](https://open.spotify.com/track/0Xyftuei3haQjJYiNOnInS) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:18 |
 | 11 | [slipping through](https://open.spotify.com/track/3WjnzIoKOXzc6ACN6josm3) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe), [Phossa](https://open.spotify.com/artist/6AU0w0tbAckR0HR5PQ0GCa) | [slipping through](https://open.spotify.com/album/63CB1rmFQCIuyB6uBs06h2) | 3:41 |
 | 12 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
-| 13 | [Yoga](https://open.spotify.com/track/00nlvJd1e6EGFc2dzssl9g) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/6m6KVNLn58mxPUmAzhLBjS) | 2:59 |
+| 13 | [Yoga](https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw) | 2:59 |
 | 14 | [Steppin' Out](https://open.spotify.com/track/09pdsqqnGXRFoYniEaN3K8) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [In The Moment](https://open.spotify.com/album/7kkcPuNl08Px6nPiP1t227) | 3:49 |
 | 15 | [MYMYMY](https://open.spotify.com/track/2u6cLpLObWT0Y1GItScu5m) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe) | [MYMYMY](https://open.spotify.com/album/2uo4FDheiZ1REn6O6nYC2S) | 2:31 |
 | 16 | [Wildfire](https://open.spotify.com/track/2y4JYg13inOeo0TruYNmLj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:56 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 78 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MTY2ODE2NDY1MywwMDAwMDAwMDRkYTYzZDM3YmIwNzc3M2UwYWE0YjI2NWE4ODA5ODJi`
+Snapshot ID: `MTY2ODE2NDY1MywwMDAwMDAwMGFjNzYxMWY3MzkyMjM0OTUzYjUwOWE3Zjg2ZDMwMzAx`

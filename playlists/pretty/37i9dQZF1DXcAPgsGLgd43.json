@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2603,
+  "num_followers": 2610,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDgxN2YwODQ5ZDFhZWQ0MmRlZGUwOWU5ODQ3OGI2YzM2",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGQxMWYyZDEwMGUzZTVhMmU0ZjQyNjgzMWNhMGJkOTFl",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -611,30 +611,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7"
-      },
-      "artists": [
-        {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "HVMZA",
-          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
-        },
-        {
-          "name": "Marocco",
-          "url": "https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt"
-        }
-      ],
-      "duration_ms": 214969,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 172258,
       "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+        },
+        {
+          "name": "Marocco",
+          "url": "https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt"
+        }
+      ],
+      "duration_ms": 214969,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Cumbia Tropical",
-        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
-      },
-      "artists": [
-        {
-          "name": "Ilary Montanari",
-          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
-        }
-      ],
-      "duration_ms": 381899,
-      "name": "Cumbia Tropical",
-      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Bandolera",
@@ -915,6 +899,22 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
+      },
+      "artists": [
+        {
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
+        }
+      ],
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     },
     {
       "added_at": "2021-10-29 16:47:33",

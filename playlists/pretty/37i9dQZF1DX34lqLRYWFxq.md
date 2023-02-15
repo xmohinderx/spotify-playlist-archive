@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Harm & Ease
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,298 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,309 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 87 | [The Other Side](https://open.spotify.com/track/0RdlsPJtgSVIPTJdvrzxgI) | [Softlung](https://open.spotify.com/artist/3bPf4HK72edXHH3hDfJ4KZ) | [The Other Side](https://open.spotify.com/album/19SUU9vaGZp0Rb2TcWu1u8) | 3:27 |
 | 88 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 |
 | 89 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 |
-| 90 | [Kill Me Now](https://open.spotify.com/track/5F4DXPuidp77uNhSADYoSS) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/5SG7eSU143rWwwUQdgIRyg) | 2:25 |
+| 90 | [Kill Me Now](https://open.spotify.com/track/4WNmQaFqd3FGqQSX9ReaIu) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/0LKlnmeznPsNwd6NtdabNe) | 2:25 |
 | 91 | [Tough Love](https://open.spotify.com/track/62O4kLoFoWtXDIQhdrxXk5) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Never Before Seen, Never Again Found](https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7) | 3:17 |
 | 92 | [We Will Meet in a Hurricane](https://open.spotify.com/track/0ptgwpIUXqm43ZXyJQHOd1) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [We Will Meet in a Hurricane](https://open.spotify.com/album/6gemVAAwxUNRukrLtwOEeC) | 3:22 |
 | 93 | [DONOVAN & BRADY](https://open.spotify.com/track/3iUp6VjdGdplNyeyoNG6Cf) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [DONOVAN & BRADY](https://open.spotify.com/album/3Derf1rv012rMiG9QbeOYf) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [only way out](https://open.spotify.com/track/0DCbCYsPpg6sYVFzEOMG8e) | [Little Destroyer](https://open.spotify.com/artist/5knA7MWjServ1IJdZc8Scw) | [1134](https://open.spotify.com/album/6HSfqnWEDXDLItXz7PonBf) | 2:24 |
 | 100 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 |
 
-Snapshot ID: `MTY3NjMwMjk3MSwwMDAwMDAwMDliNDFiZjI0NWIzMGMxNTgzYWJiYjM1NjY0OGNjNzk5`
+Snapshot ID: `MTY3NjMwMjk3MSwwMDAwMDAwMDA4NzkxNGI1Y2I1ZWZmZjE0ODcxNWZhNDYyMmM1Zjhi`

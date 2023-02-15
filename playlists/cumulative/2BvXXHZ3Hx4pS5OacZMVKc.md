@@ -4,10 +4,11 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-233 songs - 12 hr 14 min
+235 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4 Love](https://open.spotify.com/track/77ZQty250PUGzm4NZYiO2Q) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [4 LOVE](https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe) | 3:03 | 2023-02-14 |  |
 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 | 2022-06-03 |  |
 | [About Me](https://open.spotify.com/track/5hiatfPmopoExZRZ2O1g5S) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/1WeVEXpJ5649s2XA0WBN0i) | 2:34 | 2022-02-03 | 2022-09-15 |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
@@ -88,6 +89,7 @@
 | [Get Out Here](https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Get Out Here](https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3) | 4:04 | 2023-01-17 |  |
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 |  |
 | [Give Up On You](https://open.spotify.com/track/1Ju1JMsx9zmVxAHYnt7Iv9) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Give Up On You](https://open.spotify.com/album/3fWEMGfQhcEp7rm0A2V5Ni) | 2:35 | 2022-02-03 | 2022-09-15 |
+| [Gone](https://open.spotify.com/track/0imRyOIkwxkEzdNikpK3UM) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [4 LOVE](https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe) | 2:39 | 2023-02-14 |  |
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 |  |
 | [Gravity](https://open.spotify.com/track/5rz7AN785YRvMctnkqaawn) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Gravity](https://open.spotify.com/album/6BBRX0hnu6rjmrR3brUPhi) | 3:27 | 2022-02-03 | 2022-09-15 |
 | [Hardwired](https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Hardwired](https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n) | 5:02 | 2022-02-03 | 2022-09-15 |

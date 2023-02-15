@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 221552,
       "name": "Crank",
       "url": "https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9"
@@ -2192,6 +2192,32 @@
       "duration_ms": 243500,
       "name": "Cry My Name",
       "url": "https://open.spotify.com/track/5gJKGE7dk8OTULVIPIxWKn"
+    },
+    {
+      "album": {
+        "name": "Daring To Love (Asteroid Remix)",
+        "url": "https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Susana",
+          "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
+        },
+        {
+          "name": "Asteroid",
+          "url": "https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Daring To Love - Asteroid Remix",
+      "url": "https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1"
     },
     {
       "album": {
@@ -5408,7 +5434,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 178125,
       "name": "Light & Shade",
       "url": "https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB"
@@ -6438,7 +6464,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 170000,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb"
@@ -8457,6 +8483,32 @@
     },
     {
       "album": {
+        "name": "Say You're Mine",
+        "url": "https://open.spotify.com/album/7bmSPSRgocYPZWKo0tl97O"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Nat Monday",
+          "url": "https://open.spotify.com/artist/7G88hDyqhJEz3JsSm16EOr"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254015,
+      "name": "Say You're Mine",
+      "url": "https://open.spotify.com/track/0DsVTUIuQnee3d7oBiValW"
+    },
+    {
+      "album": {
         "name": "Screwdriver",
         "url": "https://open.spotify.com/album/07QCMIgF4a3tKj7NN2ESeE"
       },
@@ -10290,6 +10342,28 @@
       "duration_ms": 194511,
       "name": "Trust You",
       "url": "https://open.spotify.com/track/69put4h88TnxaArojbc15b"
+    },
+    {
+      "album": {
+        "name": "Ultrasonic (Maarten de Jong Remix)",
+        "url": "https://open.spotify.com/album/4jmtDrE4oy8oIHuE6XbcBT"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Maarten de Jong",
+          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161169,
+      "name": "Ultrasonic - Maarten de Jong Remix",
+      "url": "https://open.spotify.com/track/3FOVlKA27vbAj8OWb8ukiY"
     },
     {
       "album": {

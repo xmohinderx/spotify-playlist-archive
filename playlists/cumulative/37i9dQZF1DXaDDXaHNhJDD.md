@@ -2,7 +2,7 @@
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Your ultimate playlist for the best in Mollywood!<br/>Cover: Jaya Jaya Jaya Jaya Hey
+> Your ultimate playlist for the best in Mollywood!<br/>Cover: Romancham
 
 112 songs - 7 hr 24 min
 

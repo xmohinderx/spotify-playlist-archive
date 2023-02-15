@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State for when you're feeling unstoppable.
+> Hip hop heat from the Lone Star State for when you're feeling unstoppable\. Featuring artists like Sauce Walka, Sosamann, Peso Peso, Voochie P, and the rest of The Sauce Familia! Stay in the mix with TrapboyDre10k, LilCJ Kasino, and DJ Chose.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,313 likes - 40 songs - 1 hr 49 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,316 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 39 | [Sade](https://open.spotify.com/track/7EAmJUOFvxOnuyDS9IprQm) | [Voochie P](https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3) | [Everybody Eats P](https://open.spotify.com/album/2MvBnhcmyA7ef97pP8whvo) | 2:41 |
 | 40 | [95 in Florida](https://open.spotify.com/track/1jxaFsfy6eCo6NJSfS5LCY) | [Sayso P](https://open.spotify.com/artist/3iPUvFz1vmWkwgIkYhIEUz), [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Game Related](https://open.spotify.com/album/300waQoZStpTTKW2ed61Uo) | 2:20 |
 
-Snapshot ID: `NDI3MixjMTY3ODBmMDM5YzNkOWVkMmQ0ZGU1MTg5NWQ0ZmE2MWQ1NzQwNmRk`
+Snapshot ID: `NDI3Myw3MmI4YjEzYTg1MzgwYzhiMmM0MjI1Y2FhZThjMzc0N2YwNzBjMmI1`

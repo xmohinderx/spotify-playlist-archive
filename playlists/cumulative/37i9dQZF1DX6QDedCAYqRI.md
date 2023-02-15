@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-122 songs - 7 hr 50 min
+123 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Sticky Leaves](https://open.spotify.com/track/4qlIIxYpHFE4z4IncQrn2N) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/2pWwQGSsGVaYiPEf5GS57D) | 3:52 | 2022-06-01 |  |
 | [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 | 2022-06-01 |  |
 | [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 | 2021-08-19 | 2022-10-15 |
+| [Sunscreen](https://open.spotify.com/track/0EjoG8ZT8TCd51ymUAe160) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/0kTbbvO1d1OFGtjnxt0nT7) | 2:49 | 2022-06-01 |  |
 | [Sunscreen](https://open.spotify.com/track/0W7xlf67zsK37ByIPR6bm8) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/3ccYKuSYirTP5lJ3wKYhNM) | 2:49 | 2021-08-19 | 2022-07-29 |
-| [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-06-01 |  |
+| [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-06-01 | 2023-02-15 |
 | [Talking to Myself](https://open.spotify.com/track/6x0ftAis9Td4BqUdUTB4ul) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [Talking to Myself](https://open.spotify.com/album/1d8IyFdAR2yI8p4Hr7h8qM) | 3:12 | 2021-08-19 |  |
 | [The City \(You're Missing from Me\)](https://open.spotify.com/track/11T9cbGsdEN0i6OtFb4vBw) | [Loner Lunar](https://open.spotify.com/artist/1a5i97z1wFTOZy3rYWRWIS) | [The City \(You're Missing from Me\)](https://open.spotify.com/album/6MsIhjNXOcMNcCOYlakpQz) | 4:16 | 2021-08-19 |  |
 | [The Dreamer](https://open.spotify.com/track/2sHwZ5U9tsUOx4JexhyPDe) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [The Dreamer](https://open.spotify.com/album/7JV6qaYj4yXUc16ucSexnO) | 4:02 | 2022-06-01 | 2022-11-13 |

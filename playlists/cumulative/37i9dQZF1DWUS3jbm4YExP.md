@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-492 songs - 1 day 12 hr 12 min
+493 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-03-30 | 2022-05-25 |
 | [Amazone](https://open.spotify.com/track/3b41lO2hVuWUPuXUU48JxS) | [Djosa](https://open.spotify.com/artist/6fbLoqbGYp98LrFDp4GMeC) | [Super\-Sonic Family](https://open.spotify.com/album/1iuCyYELL21E3Tc9TeszT3) | 3:59 | 2021-10-06 | 2022-05-26 |
 | [An ba jouk \- Olivier Portal Playin' 4 The Beach Remix](https://open.spotify.com/track/75clowU1UTWTs5MG2jtKJB) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF), [Olivier Portal](https://open.spotify.com/artist/4LcB4qomBlRnu8X1VoX0BD) | [An ba jouk](https://open.spotify.com/album/3LfyJ0F4uG3jpiAho5Jjir) | 6:12 | 2021-10-06 | 2022-06-01 |
+| [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-02-14 |  |
 | [Anima latina](https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Anima latina](https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ) | 6:37 | 2021-10-06 |  |
 | [AO Longo Do Rio](https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 4:34 | 2021-10-06 |  |
 | [AO Longo Do Rio](https://open.spotify.com/track/1guNEjxD2ZIxKti8jtMehV) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [AO Longo Do Rio](https://open.spotify.com/album/6ceZRBfduXzV866yCtMzxV) | 4:34 | 2021-10-06 | 2022-07-01 |
@@ -211,7 +212,7 @@
 | [House of Lett](https://open.spotify.com/track/0t43FxUgWcEMRqKAykWn0k) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [House of Lett](https://open.spotify.com/album/5qT4xMAIC4PAaGFjq2WfN6) | 5:45 | 2021-10-06 | 2022-07-20 |
 | [How It Goes](https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Music Save Me \(One More Time\)](https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU) | 4:16 | 2021-10-06 | 2023-02-04 |
 | [Hummingbird](https://open.spotify.com/track/5WMTkgZIDJ9s6s2OBS3RsE) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 4:31 | 2021-10-06 | 2022-07-28 |
-| [Hummingbird](https://open.spotify.com/track/6K48CHl2KAbKniFKaJzoV3) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 4:31 | 2021-10-06 |  |
+| [Hummingbird](https://open.spotify.com/track/6K48CHl2KAbKniFKaJzoV3) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 4:31 | 2021-10-06 | 2023-02-15 |
 | [Hustle](https://open.spotify.com/track/5YR9LQu1dLJtSc7hgS0inh) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Hustle](https://open.spotify.com/album/0iciGKIP2q1Dip0uuVZ7cq) | 5:18 | 2021-10-06 | 2022-07-10 |
 | [Hymne à la vie](https://open.spotify.com/track/7JPcKTrV5SJWzs0nFX67KR) | [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj), [Le Super Mojo](https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd) | [Hymne à la vie](https://open.spotify.com/album/2a4R962oV50JOO5l91C52L) | 4:05 | 2021-10-06 | 2022-07-29 |
 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 | 2021-10-06 |  |
@@ -366,7 +367,7 @@
 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 | 2021-10-06 | 2022-04-21 |
 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 | 2022-04-08 | 2022-05-25 |
 | [Polaroid Banana](https://open.spotify.com/track/7px3JpqWmEluCvhkhnfBLL) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G) | [Liquid Saloon](https://open.spotify.com/album/1wTshZlAEBoiMjxb4tWN5W) | 5:55 | 2021-10-06 | 2022-07-26 |
-| [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-02-04 |  |
+| [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-02-03 |  |
 | [Porsche 944](https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Marvin](https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO) | 3:55 | 2021-10-06 |  |
 | [Pretty Boys \(feat\. Khruangbin\)](https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 5:48 | 2021-10-06 |  |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-11-20 |

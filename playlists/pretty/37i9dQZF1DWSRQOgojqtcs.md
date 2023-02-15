@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,985 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,003 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 21 | [Lay Me Down](https://open.spotify.com/track/7a60lyI9Wy3eezBpGZ37Ni) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:03 |
 | 22 | [Pisces Problems](https://open.spotify.com/track/5UjX3Om5Cbob1U4nVxT69q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Pisces Problems](https://open.spotify.com/album/4vRA6Vhc1ukjXJEsybdIiB) | 4:14 |
 | 23 | [Crazy](https://open.spotify.com/track/5UIq2zbapMbSU7Z2SEq8j0) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:42 |
-| 24 | [Hancoq \- Cards](https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt) | 3:15 |
+| 24 | [Cards](https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt) | 3:15 |
 | 25 | [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 |
 | 26 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 |
 | 27 | [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 86 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 87 | [Kong Foo Sing](https://open.spotify.com/track/0tQLJssKmS3zYc9QW4nikt) | [Regurgitator](https://open.spotify.com/artist/6n3YUZcayLRuAunJUUelvz) | [Tu\-Plang](https://open.spotify.com/album/3sScP5vSCKBsNhBn4Sxm3h) | 3:01 |
 | 88 | [Shelf Life](https://open.spotify.com/track/4iGKYlDQN4mClpQWAySTyE) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Shelf Life](https://open.spotify.com/album/1MuRNoPRyJ5ylxa7h3D8Nm) | 4:51 |
-| 89 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [DJ Horse](https://open.spotify.com/artist/4hCK913HvW0zFRKEKrgukR), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:12 |
+| 89 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:05 |
 | 90 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 |
 | 91 | [our love](https://open.spotify.com/track/4GD5zKQulrtq3KgI0abVtE) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [popstyle](https://open.spotify.com/album/1BmbeoQLkG0FCFyjS9MeU5) | 2:38 |
 | 92 | [Come On](https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 2:49 |

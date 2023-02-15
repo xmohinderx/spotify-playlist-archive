@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,034 likes - 101 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,185 likes - 101 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 23 | [Calming Bowls](https://open.spotify.com/track/65A12U2jKBo95338kC8lqc) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Calming Bowls](https://open.spotify.com/album/5lzWTvXfhA60WLzQ6T3M4F) | 3:04 |
 | 24 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 |
 | 25 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 |
-| 26 | [Root Chakra \- Singing Bowl Only](https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
+| 26 | [Root Chakra \- Singing Bowl Only](https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
 | 27 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 |
 | 28 | [Texture Bowl 2](https://open.spotify.com/track/1AlSN7oXoEyG6XrJ3wvswK) | [Antique Bronze](https://open.spotify.com/artist/7ku4TYmlNvkaNzUvXLw6PX) | [Texture Bowl 2](https://open.spotify.com/album/18xPYoIjGjzQxmwGp0TzNt) | 3:42 |
 | 29 | [Crystal Bowl](https://open.spotify.com/track/1MDmrmYQFYLMaxan60iMmL) | [Voz Cristal](https://open.spotify.com/artist/0hhAuaCqqItxB9wzqDeWhw) | [Crystal Bowl](https://open.spotify.com/album/396hWZSFCkjPOr93k4aatg) | 3:01 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 53 | [Perpetual Bowl](https://open.spotify.com/track/70VqRL6Yjrm0NTwZWZ5do3) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:45 |
 | 54 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 |
 | 55 | [Gong Bath 1 \- Loopable](https://open.spotify.com/track/1zYzED3dU4r74IhiqhCiWu) | [A Sound Healer](https://open.spotify.com/artist/7tBUl1HEvXqQ9Ws2oenI5d) | [Gong Bath Sound Meditations](https://open.spotify.com/album/5T8EhrYCTyHntUYgKFAvkH) | 3:45 |
-| 56 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 |
+| 56 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 |
 | 57 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 |
 | 58 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 |
 | 59 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 |

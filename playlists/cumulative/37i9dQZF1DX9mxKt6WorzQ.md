@@ -4,12 +4,12 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-77 songs - 3 hr 32 min
+78 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [190 Hz Train Cart](https://open.spotify.com/track/59pBGvi5FUnEhLiptNfkYO) | [Zound Effectz](https://open.spotify.com/artist/1gXnErhxU6okboLE4hXzfE) | [Trains](https://open.spotify.com/album/3ERFNp6zkwTixHX0wUy7Y3) | 2:06 | 2022-07-29 |  |
-| [500 Hz Train Passing By](https://open.spotify.com/track/0hPJlFzAdYmmbHAH1HkruU) | [The Train spotter](https://open.spotify.com/artist/33Y7mnlPZciDSqY3zKKIuz) | [Train Sounds And Noises](https://open.spotify.com/album/6lwXMt7haok7iOhlyq1MFh) | 3:55 | 2022-07-29 |  |
+| [500 Hz Train Passing By](https://open.spotify.com/track/0hPJlFzAdYmmbHAH1HkruU) | [The Train spotter](https://open.spotify.com/artist/33Y7mnlPZciDSqY3zKKIuz) | [Train Sounds And Noises](https://open.spotify.com/album/6lwXMt7haok7iOhlyq1MFh) | 3:55 | 2022-07-29 | 2023-02-15 |
 | [Accelerating Train](https://open.spotify.com/track/0mj67mjTTiKXtzLdF8DY2D) | [The Train spotter](https://open.spotify.com/artist/33Y7mnlPZciDSqY3zKKIuz) | [Train Sounds And Noises](https://open.spotify.com/album/6lwXMt7haok7iOhlyq1MFh) | 2:54 | 2022-07-29 |  |
 | [All Aboard](https://open.spotify.com/track/53Vv5zT2BZUB6HsKR1ZYC0) | [Taivas](https://open.spotify.com/artist/458m1hra3eVTKqtfyAqRnt) | [Off The Rail](https://open.spotify.com/album/2q9pluDNqPcfU5BpLtad0q) | 1:29 | 2022-09-29 |  |
 | [All On Board The Night Train](https://open.spotify.com/track/70eIVBEHRJecN0lXjE6JIq) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Rumbling Sleep](https://open.spotify.com/album/0lQgSkapGUsZPzCnI3MqAt) | 1:46 | 2022-07-29 |  |
@@ -20,6 +20,7 @@
 | [Calming Trains Passing](https://open.spotify.com/track/3ECW5iX2Ec99jRqysjTjLG) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 3:42 | 2022-07-29 |  |
 | [Cart Noise](https://open.spotify.com/track/7e4oU48H5NtPiUFTUNPtsW) | [Track Circuit](https://open.spotify.com/artist/7i2c7GB766bUWAiBN6yHuZ) | [The Sound Of Trains](https://open.spotify.com/album/33poigFw5SFmd6JjPh3kkA) | 3:07 | 2022-07-29 |  |
 | [Commuting](https://open.spotify.com/track/12zMnav0pnKWuN0vjmSS2k) | [Zound Effectz](https://open.spotify.com/artist/1gXnErhxU6okboLE4hXzfE) | [Trains](https://open.spotify.com/album/3ERFNp6zkwTixHX0wUy7Y3) | 3:26 | 2022-07-29 |  |
+| [Cover Your Tracks](https://open.spotify.com/track/5MLwmFhHgseCZmssTddT98) | [Flying Scotsman](https://open.spotify.com/artist/5qkluBrPqnaUHdhcrdvLUL) | [Cover Your Tracks](https://open.spotify.com/album/7hMKYqDhWQv6Bl3jy2jHAw) | 2:18 | 2023-02-14 |  |
 | [Dark Windy Train Ride](https://open.spotify.com/track/7xeKsRRrf2iK1KsCUjidg6) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 3:26 | 2022-07-29 |  |
 | [Deep Noise From A Train](https://open.spotify.com/track/5iIkcQKPchNUCEswr61GqQ) | [FX Factory](https://open.spotify.com/artist/409gC0geMBaOqqq230slNU) | [Train Sound Effects](https://open.spotify.com/album/1bGI7fSb2szvXYOsr5xx3H) | 3:43 | 2022-07-29 |  |
 | [Ear plugs On Train](https://open.spotify.com/track/52fdttDpxSGWFvjNQC1MtF) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 2:40 | 2022-07-29 |  |

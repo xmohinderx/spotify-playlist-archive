@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Breaking the Balls of History",
+        "url": "https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns"
+      },
+      "artists": [
+        {
+          "name": "Quasi",
+          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263551,
+      "name": "Doomscrollers",
+      "url": "https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD"
+    },
+    {
+      "album": {
         "name": "Doomscrollers",
         "url": "https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I"
       },
@@ -1638,10 +1656,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 263551,
       "name": "Doomscrollers",
       "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
+    },
+    {
+      "album": {
+        "name": "Downtown Side",
+        "url": "https://open.spotify.com/album/6e4SRIycocguic8fluMqNe"
+      },
+      "artists": [
+        {
+          "name": "Grocer",
+          "url": "https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221461,
+      "name": "Downtown Side",
+      "url": "https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn"
     },
     {
       "album": {
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 184462,
       "name": "insomniac",
       "url": "https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu"
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 184462,
       "name": "insomniac",
       "url": "https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R"

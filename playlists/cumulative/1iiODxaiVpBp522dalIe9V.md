@@ -2,7 +2,7 @@
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State for when you're feeling unstoppable.
+> Hip hop heat from the Lone Star State for when you're feeling unstoppable\. Featuring artists like Sauce Walka, Sosamann, Peso Peso, Voochie P, and the rest of The Sauce Familia! Stay in the mix with TrapboyDre10k, LilCJ Kasino, and DJ Chose.
 
 229 songs - 10 hr 25 min
 

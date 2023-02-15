@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,375 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,395 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Malsain et sauf](https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Malsain et sauf](https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN) | 3:14 |
 | 2 | [Mérité](https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mérité](https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk) | 2:42 |
-| 3 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:23 |
+| 3 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 |
 | 4 | [Aujourd'hui](https://open.spotify.com/track/5MTqsR5MkKldD4SJW4WuzA) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Aujourd'hui](https://open.spotify.com/album/0I2xADY0REmzWzcaY1xcZ3) | 3:12 |
 | 5 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
 | 6 | [Dunk On 'Em](https://open.spotify.com/track/0u4Q7fpXtrTAHTPYCKcoIA) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [FIYAH](https://open.spotify.com/album/7LhkTAJ8NTMhMbynv8RQav) | 3:11 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 28 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 |
 | 29 | [Sans II](https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Sans II](https://open.spotify.com/album/3hoKvPaEu9R4wk0VJ3OsWE) | 3:41 |
 | 30 | [Floating](https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison \(Deluxe\)](https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH) | 2:24 |
-| 31 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 |
+| 31 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:30 |
 | 32 | [Allumette](https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Allumette](https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA) | 4:39 |
 | 33 | [No Bap](https://open.spotify.com/track/6INVu5L6ciTAFVR64nIF4w) | [Brxnsxn](https://open.spotify.com/artist/0U5NHWybzoxuiGX7ZtTaej), [VersA](https://open.spotify.com/artist/6TkJXTbnYkCRcedHK8XTrC), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [No Bap](https://open.spotify.com/album/20wZbBu2CTnHuakNixVf1H) | 3:58 |
 | 34 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 |

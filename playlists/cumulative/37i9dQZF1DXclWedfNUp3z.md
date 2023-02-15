@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-344 songs - 23 hr 46 min
+346 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A6](https://open.spotify.com/track/4jHFTIMaUlstRzPw3X51tt) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A6](https://open.spotify.com/album/6D5FRD3BY343kVUw5MFQVa) | 4:16 | 2021-10-20 | 2022-04-21 |
 | [Absolute Sensitivity](https://open.spotify.com/track/6EgHKLUAPtLqfvAVYx5PMr) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 6:04 | 2021-10-20 | 2022-07-29 |
 | [Afterrain](https://open.spotify.com/track/2NceltBWeS2qRzVVvz5TuT) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Kinoe](https://open.spotify.com/album/7289VPvd4QJR0L0W0LenmM) | 3:56 | 2021-10-20 | 2022-07-29 |
-| [Ailments](https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:29 | 2021-10-20 |  |
+| [Ailments](https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:29 | 2021-10-20 | 2023-02-15 |
 | [Air Flows](https://open.spotify.com/track/55wACBXq7gogSECrvlwXOB) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Air Flows](https://open.spotify.com/album/0WxLQCwh31spbbNsTrTOxU) | 4:55 | 2021-10-20 | 2022-07-29 |
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
 | [Alma](https://open.spotify.com/track/57y2pyz7GhZLKJxlogyoKV) | [Maddrigal](https://open.spotify.com/artist/3XZYeRXAdvgdNYxESV8Gbk) | [Alma](https://open.spotify.com/album/2xHpyX2kcipvxZTE8Xto6s) | 2:45 | 2021-10-20 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [Descanso](https://open.spotify.com/track/4BpFpfhvmc76mQ4xsoHRma) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 1:35 | 2021-10-20 | 2022-07-20 |
 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 | 2021-10-20 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2021-10-20 |  |
+| [Dharma](https://open.spotify.com/track/4xQ81l1RAd6ENI35BOyHSe) | [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Drama](https://open.spotify.com/album/1oBRW1HLgaXu599c0PD6BA) | 7:36 | 2023-02-14 |  |
 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 | 2021-10-20 |  |
 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 | 2021-12-28 |  |
 | [Dream World](https://open.spotify.com/track/7nm3diBRCGqzLMNT9aJPPQ) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [A Little Night Music: Aural Apparitions from the Geographic North](https://open.spotify.com/album/3Gd318rDShK1Ds12n3AATc) | 5:11 | 2021-10-20 | 2022-07-27 |
@@ -123,7 +124,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-10-20 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-20 | 2022-04-25 |
 | [greenery](https://open.spotify.com/track/7o9CLXoW831csQxsnP4JkH) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:52 | 2021-10-20 | 2022-09-02 |
-| [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 | 2023-01-06 |  |
+| [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 | 2023-01-06 | 2023-02-15 |
 | [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 | 2021-10-20 |  |
 | [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 | 2022-12-01 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
@@ -328,6 +329,7 @@
 | [Untitled \#1](https://open.spotify.com/track/76OcZrqKbSjdieuZANmhCC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Ocean No Longer Wants Us](https://open.spotify.com/album/19ES9czYSnkJaASi8hlZPC) | 8:21 | 2021-10-20 | 2022-06-10 |
 | [V.](https://open.spotify.com/track/2mKht77kfPCde5fOCIBfSi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/0JFGc8K3o9Dl1NR9JLTF8b) | 2:48 | 2021-10-20 | 2022-04-21 |
 | [V.](https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC) | 2:48 | 2021-10-20 | 2022-11-22 |
+| [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 |  |
 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-20 | 2022-04-21 |
 | [Wake Me Softly](https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wake Me Softly](https://open.spotify.com/album/6ARc0MH301kItHchIEZJST) | 4:30 | 2021-10-20 | 2022-07-01 |

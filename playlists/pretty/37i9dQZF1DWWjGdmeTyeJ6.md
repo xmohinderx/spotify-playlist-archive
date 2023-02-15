@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: LANNDS\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,018 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,289 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 55 | [SEE ME GIVE IT](https://open.spotify.com/track/69IORvhAh5xA3P2o9iI2NW) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [SEE ME GIVE IT](https://open.spotify.com/album/61BmA7b5VBmT0CuEViZLrC) | 3:20 |
 | 56 | [Eclipse](https://open.spotify.com/track/6aNxRcSTbWKRTOaqJII9Dx) | [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Eclipse](https://open.spotify.com/album/2FwmZVJ5OJqPkmb26sZDEJ) | 4:23 |
 
-Snapshot ID: `MTY3NjA0NTg5NywwMDAwMDAwMGE5ODEyYjc1YjA4YTZjMTY0NDJmNjRiZjYxMThjYjM4`
+Snapshot ID: `MTY3NjM5NDcxOCwwMDAwMDAwMDVkMDE4NTFiNTk2M2U1ODFlMjczZGZmZDMxZjI0MjVh`

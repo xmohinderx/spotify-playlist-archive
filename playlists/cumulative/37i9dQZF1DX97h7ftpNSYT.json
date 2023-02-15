@@ -696,7 +696,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 256162,
       "name": "Dark Knight Dummo (Feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD"
@@ -6491,6 +6491,28 @@
     },
     {
       "album": {
+        "name": "Brick Factory Vol 1",
+        "url": "https://open.spotify.com/album/4M0XASCcGYb4qqagBCJ9tu"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Thugg",
+          "url": "https://open.spotify.com/artist/6s2PAhysMWjWh8f5nF9LCo"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/3uraOG1IkQZUhYiblPTNac"
+    },
+    {
+      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -7558,7 +7580,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"

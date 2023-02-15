@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0643\u062a\u0634\u0641\u0648\u0627 \u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629 \n\u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0645\u064a\u0645\u0629 \u0637\u0627\u0644\u0628 ",
+  "description": "\u0627\u0643\u062a\u0634\u0641\u0648\u0627 \u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629 \n\u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636 ",
   "name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629",
   "tracks": [
     {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Al Oyoun Al Sod",
+        "url": "https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308168,
+      "name": "Al Oyoun Al Sod",
+      "url": "https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq"
+    },
+    {
+      "album": {
         "name": "Al Sourah",
         "url": "https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 240247,
       "name": "AlNeskha AlJadeeda",
       "url": "https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR"
@@ -338,6 +356,24 @@
       "duration_ms": 187626,
       "name": "Entaha",
       "url": "https://open.spotify.com/track/3TNLk413ZyKiUNU2IPYLUW"
+    },
+    {
+      "album": {
+        "name": "Mant Fahem",
+        "url": "https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42"
+      },
+      "artists": [
+        {
+          "name": "Abass Ibrahim",
+          "url": "https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301898,
+      "name": "Fahem",
+      "url": "https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai"
     },
     {
       "album": {
@@ -912,7 +948,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 247500,
       "name": "Sara Barg",
       "url": "https://open.spotify.com/track/611PXXtuU51ToWk55udzWo"
@@ -984,7 +1020,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 315683,
       "name": "Taaal",
       "url": "https://open.spotify.com/track/3Co2k0LgcbC1DbHjK5Yi2C"
@@ -1042,6 +1078,24 @@
       "duration_ms": 279477,
       "name": "Thekrak (16)",
       "url": "https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st"
+    },
+    {
+      "album": {
+        "name": "Wainah",
+        "url": "https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306573,
+      "name": "Wainah",
+      "url": "https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ"
     },
     {
       "album": {
@@ -1110,7 +1164,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 169429,
       "name": "Yalghair",
       "url": "https://open.spotify.com/track/0euUlVRj9fSXSFkpmTM50j"
@@ -1558,6 +1612,24 @@
       "duration_ms": 206280,
       "name": "\u0643\u0644\u0645\u0646\u064a",
       "url": "https://open.spotify.com/track/4SWldutKma2NvU850zeEkd"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+        "url": "https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216189,
+      "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+      "url": "https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB"
     },
     {
       "album": {

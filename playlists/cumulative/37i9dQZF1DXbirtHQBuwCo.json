@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2eWXD2RzxuukaKuNXr5odA"
+      },
+      "artists": [
+        {
+          "name": "HEUN",
+          "url": "https://open.spotify.com/artist/4ulWyVHfnZcF0mR9FlRH2c"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "911",
+      "url": "https://open.spotify.com/track/0eZhYAlCbRabmUwBTySHzz"
+    },
+    {
+      "album": {
         "name": "[LUVSONG]",
         "url": "https://open.spotify.com/album/1UXIoR8FHsrfE52VVxzoGn"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 156984,
       "name": "BURN-OUT",
       "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 151211,
       "name": "camellia",
       "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 225391,
       "name": "COMFY",
       "url": "https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3"
@@ -2507,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "BrotherSu",
+          "url": "https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/248ZX6OVcMc8xJPIO6YtE0"
+    },
+    {
+      "album": {
         "name": "Dear My",
         "url": "https://open.spotify.com/album/0qEXktHXsW5MW0VMGBRYHX"
       },
@@ -2857,6 +2897,42 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6FRHKt7ZI6tmQOBle6EMPV"
+      },
+      "artists": [
+        {
+          "name": "Roydo",
+          "url": "https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/6TZDHtfAyLBrhS71qNofFG"
+    },
+    {
+      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -3157,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Evident",
+      "url": "https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7"
+    },
+    {
+      "album": {
         "name": "Flowering",
         "url": "https://open.spotify.com/album/1ZJIW5OQGZC3Cb6EScdoP5"
       },
@@ -3327,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS"
+      },
+      "artists": [
+        {
+          "name": "BAYLEE",
+          "url": "https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B"
+    },
+    {
+      "album": {
         "name": "Feel this breeze (with JoeSwan)",
         "url": "https://open.spotify.com/album/29BiVBoVV6U8PuoOzFVPHA"
       },
@@ -3368,7 +3484,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
@@ -3937,6 +4053,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "popeye",
+          "url": "https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190457,
+      "name": "GOOD BYE SONG",
+      "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
+    },
+    {
+      "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
@@ -4166,6 +4304,28 @@
       "duration_ms": 177506,
       "name": "Hello (Feat. MINHYUK LEE (HUTA))",
       "url": "https://open.spotify.com/track/6MCyFFKPrmTLQGPtW9H34W"
+    },
+    {
+      "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91500,
+      "name": "Hey Steve",
+      "url": "https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg"
     },
     {
       "album": {
@@ -4564,7 +4724,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 195150,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
@@ -5766,7 +5926,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
@@ -6446,7 +6606,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 183364,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM"
@@ -8010,7 +8170,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 128750,
       "name": "Scent",
       "url": "https://open.spotify.com/track/1neROuQxafANebAEXLRFWf"
@@ -8050,7 +8210,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 190500,
       "name": "Seesaw (Feat. Kim Seheon)",
       "url": "https://open.spotify.com/track/1yPQEJhbHYJ7U0wUg6dyfR"
@@ -9054,6 +9214,32 @@
       "duration_ms": 203280,
       "name": "The palette",
       "url": "https://open.spotify.com/track/2Op59QTlYBCbevk4WVQwK7"
+    },
+    {
+      "album": {
+        "name": "pool vol. 1 - the way you move",
+        "url": "https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149479,
+      "name": "the way you move",
+      "url": "https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb"
     },
     {
       "album": {

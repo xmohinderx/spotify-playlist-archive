@@ -4,7 +4,7 @@
 
 > KLASS 2023: DANO
 
-813 songs - 1 day 12 hr 2 min
+814 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Hårda tider](https://open.spotify.com/track/6q9eLSWnQgnlcKHqM2S53y) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Hårda tider](https://open.spotify.com/album/5xI31kQCHeTIytMfj5eWdG) | 2:54 | 2022-04-07 | 2022-05-06 |
 | [Högt Om Mig](https://open.spotify.com/track/0e9Remd7sQcEFohQKU4XNv) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [Högt Om Mig](https://open.spotify.com/album/0vGEghYckhYdihpztznA62) | 2:43 | 2022-08-26 | 2022-09-30 |
 | [Hörnet](https://open.spotify.com/track/01uI9VO72RAcAQA8E01Qbq) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Hörnet](https://open.spotify.com/album/3b9yiYuzsFKgExHdHNmzpR) | 3:25 | 2022-03-04 | 2022-04-22 |
+| [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-02-14 |  |
 | [I ett case](https://open.spotify.com/track/69NpPwkjb1hPTCMvh03R2j) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [I ett case](https://open.spotify.com/album/7C5xM9Vo6c3FHaIGLnL5xo) | 3:38 | 2022-05-26 | 2022-06-17 |
 | [ICarly](https://open.spotify.com/track/5iIKuZuPGxeXtML0MT64ja) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [ICarly](https://open.spotify.com/album/7rIfd1u1D5Iyjj2bZCfWO7) | 2:31 | 2022-04-28 | 2022-05-27 |
 | [ICE](https://open.spotify.com/track/1J65eQXlOu1vaCbDMLnSFa) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W), [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [ICE](https://open.spotify.com/album/02NfIXW9br0vAa0NcHr4XU) | 3:06 | 2022-09-22 | 2022-10-14 |
@@ -465,7 +466,7 @@
 | [Länge Leve Vi](https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Länge Leve Vi](https://open.spotify.com/album/41ZBBb4dGrgz1mc3O4BegY) | 2:41 | 2022-01-27 | 2022-05-20 |
 | [Längtar hem](https://open.spotify.com/track/5BHVGoISwPbLgMQRW6VsKN) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Längtar hem](https://open.spotify.com/album/5QtlDGOcFzKC2Fio1KviVx) | 2:55 | 2022-03-10 | 2022-04-08 |
 | [M.I.A](https://open.spotify.com/track/64jrnru6MMrKMUpgDNBlvi) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [M.I.A](https://open.spotify.com/album/6Xakhvb7BiuvGK1S12OQUN) | 3:00 | 2023-02-09 |  |
-| [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2022-12-08 |  |
+| [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2022-12-08 | 2023-02-15 |
 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 | 2022-01-06 | 2022-05-13 |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-11-04 |
 | [MALI](https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MALI](https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK) | 2:34 | 2021-12-16 | 2022-02-11 |

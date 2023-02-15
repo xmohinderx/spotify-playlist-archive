@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: \u7a32\u8449\u6d69\u5fd7",
+  "description": "The biggest rock artists in Japan right now! Cover: a flood of circle",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "B.O.Y.",
+        "url": "https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK"
+      },
+      "artists": [
+        {
+          "name": "Ivy to Fraudulent Game",
+          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242278,
+      "name": "B.O.Y.",
+      "url": "https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K"
+    },
+    {
+      "album": {
         "name": "Baby's Alright",
         "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 269782,
       "name": "Dani",
       "url": "https://open.spotify.com/track/5ykMYNZv2E8iPKZFkuxJC6"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 297806,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/1CrnXecXRz73LB25Vw3ND7"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 324336,
       "name": "Kujira no Stage",
       "url": "https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 191373,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs"
@@ -3007,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "OUR BEST PLACE",
+        "url": "https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK"
+      },
+      "artists": [
+        {
+          "name": "Shonen Knife",
+          "url": "https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Nice Day",
+      "url": "https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK"
+    },
+    {
+      "album": {
         "name": "Nihil Pip Viper",
         "url": "https://open.spotify.com/album/0ksgy0hgDdzlVey9LueA5v"
       },
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
@@ -4505,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "THE PROMISE",
+        "url": "https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg"
+      },
+      "artists": [
+        {
+          "name": "DOPING PANDA",
+          "url": "https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "THE PROMISE",
+      "url": "https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp"
+    },
+    {
+      "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8"
       },
@@ -4664,7 +4718,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 221574,
       "name": "tokoshie no karuma",
       "url": "https://open.spotify.com/track/47tjvNVA09DT1ohm6TV0Rg"
@@ -5108,6 +5162,24 @@
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219146,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
     },
     {
       "album": {
@@ -6500,7 +6572,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 247952,
       "name": "\u30c9\u30ec\u30df",
       "url": "https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC"
@@ -8638,6 +8710,24 @@
       "duration_ms": 265466,
       "name": "\u9583\u5149 - English ver.",
       "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"
+    },
+    {
+      "album": {
+        "name": "HC 2023 episode 1 -THE GHOST/\u9650\u754c\u7a81\u7834-",
+        "url": "https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI"
+      },
+      "artists": [
+        {
+          "name": "GLAY",
+          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "\u9650\u754c\u7a81\u7834",
+      "url": "https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj"
     },
     {
       "album": {

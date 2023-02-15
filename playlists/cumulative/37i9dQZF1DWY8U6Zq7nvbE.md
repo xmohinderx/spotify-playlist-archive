@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-320 songs - 17 hr 16 min
+321 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2023-01-04 |  |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-11-11 |  |
 | [Bruises \- Guitar Acoustic](https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:46 | 2021-03-11 | 2022-11-26 |
-| [Bullet \- Stripped](https://open.spotify.com/track/44II9PuFOHXHRbORLDr6Kt) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3WXIxadM9t6tHIbDdeUjUU) | 3:09 | 2023-01-20 |  |
+| [Bullet \- Stripped](https://open.spotify.com/track/44II9PuFOHXHRbORLDr6Kt) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3WXIxadM9t6tHIbDdeUjUU) | 3:09 | 2023-01-20 | 2023-02-15 |
+| [Bullet \- Stripped](https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3XXF972ndwpoopGkCF6749) | 3:09 | 2023-01-20 |  |
 | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW) | 3:51 | 2023-01-20 |  |
 | [Carry It Well \- Acoustic](https://open.spotify.com/track/5WD2D369riKav4v92rzFjz) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well \(Acoustic\)](https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX) | 3:46 | 2022-11-25 |  |
 | [Chasing after the moon](https://open.spotify.com/track/3iBYSJKwt7BLhyAbjZIIot) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing after the moon](https://open.spotify.com/album/14TbHE0RpXdAI5JLHGMrAo) | 3:58 | 2021-03-11 | 2022-07-29 |

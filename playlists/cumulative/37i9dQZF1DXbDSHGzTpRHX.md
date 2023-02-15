@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-174 songs - 8 hr 56 min
+175 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Hollywood](https://open.spotify.com/track/1RiiGHLsoWe1rH2jB9OBNI) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/0g6leOTleM7GMkiEyyFpbM) | 4:01 | 2019-12-10 | 2022-11-13 |
 | [Hollywood](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:01 | 2019-12-10 | 2022-07-29 |
 | [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 | 2019-12-10 |  |
-| [Honey, I](https://open.spotify.com/track/0fKgIfltjBZFvgaWdYlWEr) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/5au7m8lFVWix4Ic4RzF3Dw) | 2:33 | 2019-12-10 |  |
+| [Honey, I](https://open.spotify.com/track/0fKgIfltjBZFvgaWdYlWEr) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/5au7m8lFVWix4Ic4RzF3Dw) | 2:33 | 2019-12-10 | 2023-02-15 |
+| [Honey, I](https://open.spotify.com/track/1EhSlF9Ngdp8YkP0aMOBhm) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/1TrshbQSRh22hQatHBXJgm) | 2:33 | 2019-12-10 |  |
 | [Honey, I](https://open.spotify.com/track/1QfwkymZqi0qfwU8SXjzWH) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/65X1glJxmpe9Ak0CZV9qI1) | 2:33 | 2019-12-10 | 2022-07-29 |
 | [Honeypie](https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Honeypie](https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ) | 2:15 | 2019-12-10 | 2022-07-29 |
 | [Honeypie](https://open.spotify.com/track/6hm5IhXExtryvlKgT1bV9s) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Beat the Summer Heat](https://open.spotify.com/album/5Euc3hA6j2DR6i2p94Ld2F) | 2:15 | 2019-12-10 | 2022-11-13 |

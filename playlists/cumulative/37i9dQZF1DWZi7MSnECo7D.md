@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Karen Jonz, CSS
 
-326 songs - 18 hr 35 min
+327 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Experimento de Observação 5353](https://open.spotify.com/track/5Y9LpbRCeLibZyaYlPTC0H) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [o k a m i](https://open.spotify.com/artist/4HRfnwOL9EYmUQBhG3qSWK) | [Experimento de Observação 5353](https://open.spotify.com/album/2mRXxoWKQoXB9uoIOcX6Mm) | 3:01 | 2022-01-14 | 2022-02-19 |
 | [Falando Sério](https://open.spotify.com/track/6oQiksehsvL3A50lhrKBNL) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Falando Sério](https://open.spotify.com/album/2pRsp6mekgKMBHelCp2UPA) | 2:27 | 2022-03-25 | 2022-04-29 |
 | [Fases](https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y) | 4:18 | 2022-06-17 | 2022-07-09 |
-| [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 |  |
+| [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 | 2023-02-15 |
+| [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 | 2023-02-13 |  |
 | [Feito pra Durar](https://open.spotify.com/track/1KXxGHLdrdwhXKYzuIa3Qv) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Feito pra Durar](https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU) | 5:01 | 2022-02-04 |  |
 | [Festa dos Pássaros](https://open.spotify.com/track/3ga8WGrJaOtraqnPuNDRwv) | [Mais Uma](https://open.spotify.com/artist/6HQ0ZYL7kr8o0wboWtPgLu) | [Festa dos Pássaros](https://open.spotify.com/album/3EbmGa3BkcI24ZdctxdApW) | 4:03 | 2022-01-14 | 2022-03-26 |
 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 | 2022-01-21 |  |

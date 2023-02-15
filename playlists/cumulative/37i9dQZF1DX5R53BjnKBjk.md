@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
 
-264 songs - 13 hr 41 min
+268 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,10 @@
 | [Carnaval](https://open.spotify.com/track/1c7HUxuSqQLOm5T5bK2fB8) | [ZAINA](https://open.spotify.com/artist/6jJhhdjcxwEekmGV2cBvOW) | [Carnaval](https://open.spotify.com/album/5dbVY5NJpmtcIV4CeBlqgN) | 3:07 | 2022-02-18 | 2022-04-29 |
 | [Carpe Diem](https://open.spotify.com/track/7iGVqFzpfBCg8Q8fJHSPl5) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I) | [Carpe Diem](https://open.spotify.com/album/600kV0xSMSL0FKL175DcVv) | 2:40 | 2022-01-21 | 2022-02-05 |
 | [carta do futuro](https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [MUNDO POSITIVO](https://open.spotify.com/album/4VKiP4fLjXO8Y98TIAUuFo) | 1:37 | 2022-12-02 | 2023-01-28 |
-| [Casal Desgraça](https://open.spotify.com/track/1RGMYjYw9gAfP5rz8R2ZHV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Casal Desgraça](https://open.spotify.com/album/2wzCQxJVQ2G7x2mV5azI5j) | 2:43 | 2022-12-09 |  |
-| [Castigo](https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0) | 2:19 | 2022-11-25 |  |
+| [Casal Desgraça](https://open.spotify.com/track/1RGMYjYw9gAfP5rz8R2ZHV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Casal Desgraça](https://open.spotify.com/album/2wzCQxJVQ2G7x2mV5azI5j) | 2:43 | 2022-12-09 | 2023-02-15 |
+| [Casal Desgraça](https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Casal Desgraça](https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL) | 2:43 | 2023-02-13 |  |
+| [Castigo](https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0) | 2:19 | 2022-11-25 | 2023-02-15 |
+| [Castigo](https://open.spotify.com/track/5vemlYP97ehJmUD7Bz9gEX) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/6EWfXhL6OLdsVauEYCT4u6) | 2:19 | 2023-02-13 |  |
 | [Celebração do Xingu ao Congo](https://open.spotify.com/track/2o96Fy3tpJkB9OWl2Yl77r) | [Mbé](https://open.spotify.com/artist/4BX83dK6A0IGZuCbnLfNv2) | [ROCINHA](https://open.spotify.com/album/4OvfJwaPFkTOnHJyXoZj8c) | 4:39 | 2022-01-07 | 2022-08-13 |
 | [celular](https://open.spotify.com/track/4Favpt6XGeo3pQ7x9lgfEe) | [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2), [adieu](https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik) | [0800](https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf) | 3:09 | 2022-09-09 | 2022-12-10 |
 | [Chama Grana](https://open.spotify.com/track/6z5ShAbGvJjDMUPksnZh1i) | [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP), [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [POR SUA CAUSA](https://open.spotify.com/album/670ZOn9MBhuXQzuRoDXW0p) | 3:29 | 2022-01-14 | 2022-02-12 |
@@ -95,7 +97,8 @@
 | [Eu Voltei](https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly) | [Versa Libertália](https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht) | [Uma Nova Forma de Enxergar a Vida](https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl) | 3:51 | 2022-04-01 | 2022-09-20 |
 | [Ex\-Melhor Amigo](https://open.spotify.com/track/7m604nggEys9csDMi0pTsC) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Ex\-Melhor Amigo](https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b) | 4:02 | 2022-08-19 | 2022-12-03 |
 | [faking it](https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [faking it](https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN) | 2:31 | 2022-02-25 | 2022-09-24 |
-| [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 |  |
+| [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 | 2023-02-15 |
+| [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 | 2023-02-13 |  |
 | [Fica Comigo](https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0) | [Ana Lélia](https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm) | [Fica Comigo](https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS) | 3:38 | 2022-12-09 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 | 2022-02-04 | 2022-09-24 |
 | [Florianópolis](https://open.spotify.com/track/4cyzdFwju6h0gXmxSDb2gk) | [Tuany](https://open.spotify.com/artist/2Duysb9mqQW8ds4D0F6Knb) | [Longe Daqui](https://open.spotify.com/album/4TMd5W0fAfdYAwWB4lEHqi) | 4:04 | 2022-01-07 | 2022-08-30 |
@@ -154,7 +157,8 @@
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [Máfia](https://open.spotify.com/track/2ATyqTOa2IROqjP1laQGle) | [Lil Keef](https://open.spotify.com/artist/4W3yMfi6HUVxWEq2qVt7Nt) | [Máfia](https://open.spotify.com/album/63wxSYDicTNV3n5ueRtaU5) | 2:04 | 2023-01-27 | 2023-02-14 |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
-| [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 |  |
+| [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 | 2023-02-13 |  |
+| [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 | 2023-02-15 |
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |
 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 | 2023-01-13 |  |
 | [Nossa História](https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q) | [Nossa História](https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC) | 2:40 | 2022-09-30 |  |

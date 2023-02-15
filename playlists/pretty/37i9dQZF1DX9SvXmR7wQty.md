@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Marilyne Léonard, Les Louanges, Ichon et Isabelle Boulay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,977 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,978 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 46 | [Koo Koo Fun \(feat\. Tiwa Savage, DJ Maphorisa & Bianca Costa\) \(Julio Masidi Remix\)](https://open.spotify.com/track/0HH4liqntlo3KQmKiRKJsv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [Koo Koo Fun \(Remixes\)](https://open.spotify.com/album/2FHaIfUZWS9PSRqQUU0u48) | 3:05 |
 | 47 | [Pas d'casque ben soul](https://open.spotify.com/track/6JkgB8I9NqTGYTOEPAc0X3) | [Tom Folly](https://open.spotify.com/artist/4vNtkEivYgKJKHk99G9jLz) | [Folking tard](https://open.spotify.com/album/0Yqz3UIq9JRRehQ51gKT4S) | 3:01 |
 | 48 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 |
-| 49 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:23 |
+| 49 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 |
 | 50 | [Daddy](https://open.spotify.com/track/43eoqH9CIZqy7VXLnwwMnu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:17 |
 
 Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDMwYjUyZThkMjgwZThhMDhkMjI0NzQ1ODI1MGZkMjJi`

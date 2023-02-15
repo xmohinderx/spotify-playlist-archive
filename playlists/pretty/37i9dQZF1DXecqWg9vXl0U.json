@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Kali Uchis.",
-  "num_followers": 40762,
+  "num_followers": 40806,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMDA1N2I1YmY1YjRmMWI4NzViYzEyZWM1NmFiYjIwNGI4",
+  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMDYzOTg1OTkwMDk3MWIwOGM0NTA5NTY1OTg5Yzk2MGYy",
   "tracks": [
     {
       "added_at": "2023-02-10 06:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Amor Variado",
-        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 126227,
-      "name": "Espinas De Rosas",
-      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "Amor Variado",
+        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 126227,
+      "name": "Espinas De Rosas",
+      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -915,38 +915,6 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "me pongo un poco sad",
-        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
-      },
-      "artists": [
-        {
-          "name": "tom\u00e1sss",
-          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "me pongo un poco sad",
-      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -967,22 +935,34 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Un Impulso",
-        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
       },
       "artists": [
         {
-          "name": "iiis",
-          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
-        },
-        {
-          "name": "Florencia Quinteros",
-          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 233387,
-      "name": "Un Impulso",
-      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
+      "duration_ms": 100500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "me pongo un poco sad",
+        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
+      },
+      "artists": [
+        {
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "me pongo un poco sad",
+      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1003,6 +983,22 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
         "name": "Una noche que nunca termina",
         "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
       },
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "Un Impulso",
+        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Florencia Quinteros",
+          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
         }
       ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+      "duration_ms": 233387,
+      "name": "Un Impulso",
+      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Gravedad",
-        "url": "https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Gravedad",
-      "url": "https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 239965,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "Gravedad",
+        "url": "https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Gravedad",
+      "url": "https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK"
-      },
-      "artists": [
-        {
-          "name": "Billy Miamor",
-          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
-    },
-    {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
         "name": "Para Hacernos Bien",
         "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 190806,
       "name": "Para Hacernos Bien",
       "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
+    },
+    {
+      "added_at": "2023-02-10 06:00:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK"
+      },
+      "artists": [
+        {
+          "name": "Billy Miamor",
+          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
     },
     {
       "added_at": "2023-02-10 06:00:00",

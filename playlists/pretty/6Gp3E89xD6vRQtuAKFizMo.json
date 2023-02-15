@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44414,
+  "num_followers": 44415,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjA3OSwzYzQ2MzRkZjI5MGQ2MDMwMDc2MjZkNGZiNjE3MGEzMWRjYjhlYjAw",
+  "snapshot_id": "NjA4MCxkNzNlOWRhOGU0YTRlM2Y0Yjg2MWExNDc1ZmYzMDM0Y2RjYmJiYTk1",
   "tracks": [
     {
       "added_at": "2023-02-03 06:37:11",
@@ -1175,6 +1175,22 @@
       "duration_ms": 215238,
       "name": "Da Homies",
       "url": "https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye"
+    },
+    {
+      "added_at": "2023-02-14 21:23:56",
+      "album": {
+        "name": "GOIN' ROUND",
+        "url": "https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto"
+      },
+      "artists": [
+        {
+          "name": "SMITHWORKS",
+          "url": "https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS"
+        }
+      ],
+      "duration_ms": 145914,
+      "name": "GOIN' ROUND",
+      "url": "https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe"
     }
   ],
   "unique_name": "Dim Mak New Releases",

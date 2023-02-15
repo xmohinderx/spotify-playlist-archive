@@ -162,6 +162,24 @@
     {
       "album": {
         "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1JGTdkOpyxYH1hsqZ2z7yR"
+      },
+      "artists": [
+        {
+          "name": "Marti West",
+          "url": "https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128863,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/6lHampBGU7RjwJ5Eb7AGou"
+    },
+    {
+      "album": {
+        "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/6qN25gVpE9nWvfQUanNfi8"
       },
       "artists": [
@@ -172,7 +190,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 128863,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/7cMRVNlOuqlkPmd9E5sacW"
@@ -1015,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163414,
+      "name": "Hallelujah I Love Her So",
+      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
+    },
+    {
+      "album": {
         "name": "Hallelujah I Love Her So",
         "url": "https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf"
       },
@@ -1026,7 +1062,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H"
@@ -1582,6 +1618,24 @@
     {
       "album": {
         "name": "Love, The Time Is Now",
+        "url": "https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143842,
+      "name": "Love, The Time Is Now",
+      "url": "https://open.spotify.com/track/1lyMIOFj8fddSUNVnPwZ5r"
+    },
+    {
+      "album": {
+        "name": "Love, The Time Is Now",
         "url": "https://open.spotify.com/album/46HlGccHfYbuywxnAMhEUw"
       },
       "artists": [
@@ -1592,7 +1646,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 143842,
       "name": "Love, The Time Is Now",
       "url": "https://open.spotify.com/track/2X2ltpPYs3HykJgy4aLEPx"

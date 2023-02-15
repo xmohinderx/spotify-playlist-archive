@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,412 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,393 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 |
 | 8 | [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard](https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv) | 2:05 |
 | 9 | [Frühstück am Bett](https://open.spotify.com/track/4nbPDsu8jgMtWCj8qnANtX) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Frühstück am Bett](https://open.spotify.com/album/4rBnwHH6maKF0WbAi3OTHA) | 2:35 |
-| 10 | [Scheiß drauf](https://open.spotify.com/track/0mqYUVw9Y4SFR5HwLtixVc) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Scheiß drauf](https://open.spotify.com/album/3vD1dWifnWS1IRyJgywEJc) | 2:31 |
-| 11 | [Indigo](https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Indigo](https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd) | 2:17 |
+| 10 | [Indigo](https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Indigo](https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd) | 2:17 |
+| 11 | [Scheiß drauf](https://open.spotify.com/track/0mqYUVw9Y4SFR5HwLtixVc) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Scheiß drauf](https://open.spotify.com/album/3vD1dWifnWS1IRyJgywEJc) | 2:31 |
 | 12 | [Deja Vu](https://open.spotify.com/track/088AALvEe9JhLFSNZe9axa) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Deja Vu](https://open.spotify.com/album/5IiELU5sxBPtW71GF2QlK7) | 2:42 |
-| 13 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 |
-| 14 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 |
+| 13 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 |
+| 14 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 |
 | 15 | [Vollnarkose](https://open.spotify.com/track/2xH7rLuS7c3k0cwsb4hkeG) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Vollnarkose](https://open.spotify.com/album/0c37Xnqx3Yu9RrgkoLolW3) | 2:47 |
-| 16 | [Klippe](https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Klippe](https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl) | 2:38 |
-| 17 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 |
+| 16 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 |
+| 17 | [Klippe](https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Klippe](https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl) | 2:38 |
 | 18 | [Deep](https://open.spotify.com/track/64FUVo53H9BeVcDQzYC12U) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Deep](https://open.spotify.com/album/035bTv89zj1lEFLElT979D) | 2:26 |
 | 19 | [Strassenlichter](https://open.spotify.com/track/7cTCN89RGvzAWMtx0tko6J) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Strassenlichter](https://open.spotify.com/album/1pRsFERBKpqIEPIU1Shs7R) | 2:06 |
 | 20 | [Nie wieder lieben](https://open.spotify.com/track/76L2zQcFKry2jymKVskX1H) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Nie wieder lieben](https://open.spotify.com/album/7CgxVFIWA5xaE7EpkZspKx) | 3:12 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [VW Touran](https://open.spotify.com/track/3CZJpEyyglszjKaI8xuz3Z) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [VW Touran](https://open.spotify.com/album/332wFxLbxlhMXF4rdXugN5) | 3:07 |
 | 30 | [My Boy](https://open.spotify.com/track/2PQ8NakpjpxgeEYpYPJWNQ) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [My Boy](https://open.spotify.com/album/1OPAXBEGLOMOH7JWreyHMf) | 2:45 |
 | 31 | [unser outro](https://open.spotify.com/track/02gROagmZFL4Bq6wZcMNcu) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [unser outro](https://open.spotify.com/album/4b57lz0ovywOxXdwO1Yzsd) | 3:17 |
-| 32 | [Walkie Talkie Booty Call \- Mausipop Version](https://open.spotify.com/track/2WW6cIIBiRIxHOTQ4MSgxe) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Walkie Talkie Booty Call \(Mausipop Version\)](https://open.spotify.com/album/5ezWr8v98gPIA9NoUcfh0o) | 2:06 |
-| 33 | [Stuck in My Head](https://open.spotify.com/track/1GSOAXoDgZaLuV0bgLQQtG) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Stuck in My Head](https://open.spotify.com/album/5jeJQGoMtrCbLk841fVXoC) | 2:38 |
-| 34 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 |
-| 35 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
+| 32 | [Stuck in My Head](https://open.spotify.com/track/1GSOAXoDgZaLuV0bgLQQtG) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Stuck in My Head](https://open.spotify.com/album/5jeJQGoMtrCbLk841fVXoC) | 2:38 |
+| 33 | [Walkie Talkie Booty Call \- Mausipop Version](https://open.spotify.com/track/2WW6cIIBiRIxHOTQ4MSgxe) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Walkie Talkie Booty Call \(Mausipop Version\)](https://open.spotify.com/album/5ezWr8v98gPIA9NoUcfh0o) | 2:06 |
+| 34 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
+| 35 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 |
 | 36 | [Kein Limit](https://open.spotify.com/track/2MsDRBxvDMIrRuaqGikmIu) | [Liyah](https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR) | [Kein Limit](https://open.spotify.com/album/6cWFbbsBwQ2YXk6B2cfoAi) | 2:32 |
 | 37 | [genug](https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [genug](https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ) | 3:42 |
 | 38 | [Gib Mir Deine Liebe \- ÄTNA Edit](https://open.spotify.com/track/5AkN6pp0GOyXazmuhVhSzE) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Gib Mir Deine Liebe \(ÄTNA Edit\)](https://open.spotify.com/album/7DAbqaaxY7zgCYT1DN6YT0) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Come Oblivion](https://open.spotify.com/track/0Ma5tlwPggGeLREymwSRRj) | [Gemma Ray](https://open.spotify.com/artist/2yFINwzZpVkgFhKLpuAAle) | [Gemma Ray & The Death Bell Gang](https://open.spotify.com/album/6lNtWS3Xj1gtj9yg7bwGKq) | 3:47 |
 | 50 | [Verrückt nach dir](https://open.spotify.com/track/6JvbriIzMHaGk2oIKuaFyQ) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Verrückt nach dir](https://open.spotify.com/album/4NH3NexFiXUSlLgsz7HvLN) | 2:57 |
 
-Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMDMzYTk4ZmJkM2RjNzg1ZTE3YjZmNzdlZDAzNTZmZjJl`
+Snapshot ID: `MTY3NTIwNjAwMCwwMDAwMDAwMGMwOTE3NjBhZWI4ZDU3Y2M2ZmY3ZjBjMTc5OTJkMTFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sore \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,733 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,728 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 42 | [we don't have to be alone](https://open.spotify.com/track/5FpTK4Z1piJvDuuq3vmtxA) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [we don't have to be alone](https://open.spotify.com/album/0ZLZ0eD69PGmrtuRYvfxz3) | 3:55 |
 | 43 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 |
 | 44 | [Summer's Not Arrived](https://open.spotify.com/track/6vhCWtwqEddPTXs58QWZKZ) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Brighter Days](https://open.spotify.com/album/0WIU7w0fq1XlGt0NaYob4B) | 3:24 |
-| 45 | [Feel This Love](https://open.spotify.com/track/3JKllHjbLp56oRExQRnbAr) | [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm), [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Feel This Love](https://open.spotify.com/album/5g8ZhcJuUMnobkn9weEhan) | 3:32 |
+| 45 | [FEEL THIS LOVE](https://open.spotify.com/track/6KhmAo0Um7GuSKA2ZfQ3dz) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU), [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm) | [Feel This Love](https://open.spotify.com/album/0bAhbt0LqaL4Bmct6gb6CZ) | 3:32 |
 | 46 | [Afterglows](https://open.spotify.com/track/7l5PXeGa7zA8uHGVmnEZk0) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Afterglows](https://open.spotify.com/album/4rITnQeJvDzwZ4nhvFeCtv) | 5:27 |
 | 47 | [want more](https://open.spotify.com/track/11I4dJxNvPVf3TBqiqHVbz) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [want more](https://open.spotify.com/album/0hKVDrwUxKUpWb90IiWsrM) | 2:41 |
 | 48 | [I Hope You Die](https://open.spotify.com/track/3APupcckOdS9qT1AKvghU3) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE) | [I Hope You Die](https://open.spotify.com/album/0VMubKy7eSXdE0hm7hIMQg) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 |
 | 75 | [HATSUDAI](https://open.spotify.com/track/0tmBHngPORavXL8PNt0yxI) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [HATSUDAI](https://open.spotify.com/album/4NkjZyInIja9q5mmcM3wK8) | 3:50 |
 
-Snapshot ID: `MTY3NTk2MzcxNSwwMDAwMDAwMGQ1OTc1NzY0NDIyMjY1MjI3NTYxOTc3MjI5ZTQxNzEw`
+Snapshot ID: `MTY3NTk2MzcxNSwwMDAwMDAwMDQwY2I3NDg0ZDI3MTcxNTQ4MDM5ZmE2OGUwZDZmZTgy`

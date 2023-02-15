@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Eric Bibb
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,199 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,260 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 7 | [Undefeated](https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu) | [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Undefeated](https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi) | 2:07 |
 | 8 | [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 |
 | 9 | [Bad to the Bone \- Extended Version](https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU) | 4:17 |
-| 10 | [Rob & Steal](https://open.spotify.com/track/5sSIvAgFY8I2t4zfUxksyc) | [Tony Holiday](https://open.spotify.com/artist/1GGf6x5AG09cZo9sDRnhAA) | [Rob & Steal](https://open.spotify.com/album/3rhQ4CWzaLuYdZFsGPTeP2) | 2:48 |
+| 10 | [Rob & Steal](https://open.spotify.com/track/5sSIvAgFY8I2t4zfUxksyc) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Rob & Steal](https://open.spotify.com/album/3rhQ4CWzaLuYdZFsGPTeP2) | 2:48 |
 | 11 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 |
 | 12 | [Say My Name](https://open.spotify.com/track/67k7KL7HTCrVUdMnBVbO7L) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Say My Name](https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl) | 3:52 |
 | 13 | [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 |

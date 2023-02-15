@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-126 songs - 8 hr 47 min
+127 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [IMPULSE](https://open.spotify.com/track/1IHvLqS4SGHGoYpSZ4HX1K) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [IMPULSE](https://open.spotify.com/album/1wjLLEUjAhTH7kQShxCazW) | 6:04 | 2022-05-06 |  |
 | [Impulsive](https://open.spotify.com/track/2Nad5qEns5mquszOfuBVgn) | [Kormz](https://open.spotify.com/artist/0UK0iefjYjY0ggoqK1Ifos), [StillZ](https://open.spotify.com/artist/6Zw8mgfAFYRQdzjPDNLdf9) | [Molecule EP](https://open.spotify.com/album/6mfopSAnzxRc4vlcZd48qi) | 4:26 | 2022-05-06 |  |
 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 | 2022-06-20 | 2023-02-09 |
+| [Infinity](https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Genesis](https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy) | 4:09 | 2022-08-12 |  |
 | [Is It Possible](https://open.spotify.com/track/6n2P6oGffDzXReGv3boofn) | [Furniss](https://open.spotify.com/artist/6Atar0bD8ULP5VWw3SlU3X) | [Is It Possible / Sinister](https://open.spotify.com/album/1ynrxjXnaTpGqqZhs5Gte5) | 4:24 | 2022-05-06 | 2022-07-26 |
 | [Journey \- VIP 2](https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW) | [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH) | [Journey \(VIP 2\)](https://open.spotify.com/album/3Ocehutu2kFyNmxrNLhWvN) | 3:44 | 2022-05-06 | 2022-07-29 |
 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 | 2022-05-06 |  |
@@ -128,7 +129,7 @@
 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 | 2022-05-06 |  |
 | [Wake Up Slap](https://open.spotify.com/track/55a942Wv0pAKp9cWRVsKtC) | [latesleeper](https://open.spotify.com/artist/0mYppjWLd9Exq6AXEEuuwd), [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Bushwa / Wake Up Slap](https://open.spotify.com/album/4vaZtAmL21hHx8wGi2MHWu) | 3:54 | 2022-05-06 | 2022-07-18 |
 | [Whoom](https://open.spotify.com/track/0O9QfUm4Yvwwu8BuJV09aa) | [CYBEAR](https://open.spotify.com/artist/4UNJLLYjd2asvIIy78pXfh) | [Whoom](https://open.spotify.com/album/23Jr5Trk9iqDK2OTtklM3q) | 3:58 | 2022-05-06 | 2022-07-29 |
-| [Why Should I](https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Why Should I](https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL) | 4:46 | 2022-05-06 |  |
+| [Why Should I](https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Why Should I](https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL) | 4:46 | 2022-05-06 | 2023-02-15 |
 | [WORRY](https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [WORRY](https://open.spotify.com/album/1ezsJZwtpUEi2a9WIYMbai) | 3:36 | 2022-05-06 | 2022-07-29 |
 | [Yeah Boi](https://open.spotify.com/track/2ehFv6rdhCW1tqrSiMeP1J) | [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Yeah Boi](https://open.spotify.com/album/3y7T1xHlf94vLD2qJy5be6) | 4:31 | 2022-05-06 | 2022-07-29 |
 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 | 2022-05-06 |  |

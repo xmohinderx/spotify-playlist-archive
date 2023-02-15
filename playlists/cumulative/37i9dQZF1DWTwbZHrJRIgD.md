@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Kapoor & Sons
 
-78 songs - 5 hr 3 min
+79 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Chor Bazari](https://open.spotify.com/track/39BHH1e0vfpLHCBKFedsDZ) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Hits of Saif](https://open.spotify.com/album/6vlSJXSNKktM81QgS16R9v) | 4:17 | 2022-10-12 | 2022-11-13 |
 | [Chor Bazari](https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:17 | 2022-07-17 |  |
 | [Chor Bazari \(From "Love Aaj Kal "\)](https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:17 | 2022-03-09 | 2022-07-29 |
-| [Daayein Baayein](https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Daayein Baayein \- Single](https://open.spotify.com/album/6LeVMwAkOPwOsphWbMMcLa) | 3:34 | 2023-02-13 |  |
+| [Daayein Baayein](https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Daayein Baayein \- Single](https://open.spotify.com/album/6LeVMwAkOPwOsphWbMMcLa) | 3:34 | 2023-02-13 | 2023-02-15 |
+| [Daayein Baayein](https://open.spotify.com/track/1wRU4dzyc2MkfJpQHJvyr3) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Daayein Baayein](https://open.spotify.com/album/1eokFcXKZQYKosrnKrJvyG) | 3:34 | 2023-02-13 |  |
 | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu) | 4:39 | 2022-08-08 |  |
 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 | 2022-03-09 |  |
 | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/track/6shPaz0rzOAGatiY6X6zLQ) | [Taniskaa Sanghvi](https://open.spotify.com/artist/17slvN7PVFyVcRtWJchRqU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/album/6542lxPaayNLGe9DbKBU8I) | 2:50 | 2022-03-09 |  |

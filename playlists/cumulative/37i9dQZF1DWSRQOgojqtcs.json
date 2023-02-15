@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Cards",
+        "url": "https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt"
+      },
+      "artists": [
+        {
+          "name": "Hancoq",
+          "url": "https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9"
+    },
+    {
+      "album": {
         "name": "Smiling with No Teeth",
         "url": "https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ"
       },
@@ -904,20 +922,12 @@
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "DJ Horse",
-          "url": "https://open.spotify.com/artist/4hCK913HvW0zFRKEKrgukR"
-        },
-        {
-          "name": "notsick",
-          "url": "https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq"
         }
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 132923,
+      "duration_ms": 125100,
       "name": "FEAST",
       "url": "https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP"
     },
@@ -1192,24 +1202,6 @@
       "duration_ms": 181250,
       "name": "H.G.S",
       "url": "https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef"
-    },
-    {
-      "album": {
-        "name": "Cards",
-        "url": "https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt"
-      },
-      "artists": [
-        {
-          "name": "Hancoq",
-          "url": "https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W"
-        }
-      ],
-      "date_added": "2022-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195653,
-      "name": "Hancoq - Cards",
-      "url": "https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9"
     },
     {
       "album": {

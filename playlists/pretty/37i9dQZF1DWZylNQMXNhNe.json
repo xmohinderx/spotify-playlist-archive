@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Jotta A",
-  "num_followers": 218555,
+  "num_followers": 218586,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMDZjZGEzYzFhZGM2MjI2NWZiOTE4YmE2MGMxM2Y2NGVl",
+  "snapshot_id": "MTY3NjA1MDk2OCwwMDAwMDAwMGViNWNiZDJjNGQwY2NhY2JhODVjYjQ3MjZkNWZlZWI0",
   "tracks": [
     {
       "added_at": "2023-02-10 17:42:48",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
+        "name": "te vi na festa (e nem doeu)",
+        "url": "https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 121176,
+      "name": "te vi na festa (e nem doeu)",
+      "url": "https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC"
+    },
+    {
+      "added_at": "2023-02-10 17:42:48",
+      "album": {
         "name": "BOROGOD\u00d3 pt.1",
         "url": "https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 169411,
       "name": "S\u00f3cia",
       "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
-    },
-    {
-      "added_at": "2023-02-10 17:42:48",
-      "album": {
-        "name": "te vi na festa (e nem doeu)",
-        "url": "https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 121176,
-      "name": "te vi na festa (e nem doeu)",
-      "url": "https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC"
     },
     {
       "added_at": "2023-02-10 17:42:48",
@@ -855,8 +855,8 @@
     {
       "added_at": "2023-02-10 17:42:48",
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg"
+        "name": "AMEIANOITE",
+        "url": "https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 166013,
+      "duration_ms": 165996,
       "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP"
+      "url": "https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL"
     },
     {
       "added_at": "2023-02-10 17:42:48",

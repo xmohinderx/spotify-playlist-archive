@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The freshest indie sounds from Japan. Cover: GEZAN & Million Wish Collective",
+  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30b7\u30fc\u30f3\u6700\u5148\u7aef\u3092\u7279\u96c6\u3002Cover: Yogee New Waves",
   "name": "Edge!",
   "tracks": [
+    {
+      "album": {
+        "name": "1/2 SLEEP -\u534a\u5206\u5bdd\u3066\u308b-",
+        "url": "https://open.spotify.com/album/7zD8nN4p6Qsvg0E8CLPH7Y"
+      },
+      "artists": [
+        {
+          "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
+          "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171810,
+      "name": "1/2 SLEEP -\u534a\u5206\u5bdd\u3066\u308b-",
+      "url": "https://open.spotify.com/track/5Fm7NT5HjWONIM00j8ht2R"
+    },
+    {
+      "album": {
+        "name": "A.Y.A",
+        "url": "https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220405,
+      "name": "A.Y.A",
+      "url": "https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO"
+    },
     {
       "album": {
         "name": "Afraid??",
@@ -100,6 +136,24 @@
       "duration_ms": 273777,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS"
+    },
+    {
+      "album": {
+        "name": "BEATING UP MYSELF",
+        "url": "https://open.spotify.com/album/10uSUm4kURSuzZX7sO0YkL"
+      },
+      "artists": [
+        {
+          "name": "Bearwear",
+          "url": "https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182962,
+      "name": "BEATING UP MYSELF",
+      "url": "https://open.spotify.com/track/2ugohDT7qduGWCq6EYUjzQ"
     },
     {
       "album": {
@@ -367,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Odorata",
+        "url": "https://open.spotify.com/album/4Uro4jb3EOXAOe12k8aEPD"
+      },
+      "artists": [
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+        },
+        {
+          "name": "Tamaki Roy",
+          "url": "https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109581,
+      "name": "Every Breath",
+      "url": "https://open.spotify.com/track/2XzlXqeqHeRRfPKKWyhUra"
+    },
+    {
+      "album": {
         "name": "everywhere",
         "url": "https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK"
       },
@@ -408,7 +484,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 174589,
       "name": "Far Dreams - feat. Misi Ke",
       "url": "https://open.spotify.com/track/3ArK2i4nAkdyZbWNUSe1O0"
@@ -448,7 +524,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 169185,
       "name": "friday",
       "url": "https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u"
@@ -510,7 +586,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 241858,
       "name": "GPS",
       "url": "https://open.spotify.com/track/07p84hBZV8ViWuSLXtCvfF"
@@ -564,7 +640,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 269195,
       "name": "HARU NO UTA",
       "url": "https://open.spotify.com/track/70IHg9snNwcH3UxT9F7FLM"
@@ -723,6 +799,24 @@
     },
     {
       "album": {
+        "name": "I'm crazy about you",
+        "url": "https://open.spotify.com/album/5XHJf95RhazX1ph1wcSWVm"
+      },
+      "artists": [
+        {
+          "name": "SAMOEDO",
+          "url": "https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262833,
+      "name": "I'm crazy about you",
+      "url": "https://open.spotify.com/track/4pYbG8qYXru9a4y2vzsKlr"
+    },
+    {
+      "album": {
         "name": "SHUNKA RYOUGEN",
         "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
       },
@@ -806,7 +900,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 175824,
       "name": "LaLaLa",
       "url": "https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d"
@@ -918,7 +1012,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 180863,
       "name": "Love in vein",
       "url": "https://open.spotify.com/track/2tG5vFDMQKphCWaqffQ0uF"
@@ -1012,6 +1106,24 @@
       "duration_ms": 192540,
       "name": "My Innocence",
       "url": "https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO"
+    },
+    {
+      "album": {
+        "name": "HARU NEMURI on Audiotree Live",
+        "url": "https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197023,
+      "name": "narashite - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA"
     },
     {
       "album": {
@@ -1314,7 +1426,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 110000,
       "name": "sad but dancing, happy but crying",
       "url": "https://open.spotify.com/track/5GGw2ve0iVKmzSbjOghU5T"
@@ -1595,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Stance",
+        "url": "https://open.spotify.com/album/2RRan31zrhKGzTyJol4UeA"
+      },
+      "artists": [
+        {
+          "name": "Arakoi",
+          "url": "https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471124,
+      "name": "Stance",
+      "url": "https://open.spotify.com/track/7IVvxzu1Iu1H1KQek5oaxY"
+    },
+    {
+      "album": {
         "name": "Stand by Me",
         "url": "https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs"
       },
@@ -1794,7 +1924,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 334193,
       "name": "tea valley street - feat. \u5c0f\u6797\u7d14\u5e73",
       "url": "https://open.spotify.com/track/7aTJm3VJgY39IS6oAbGTEc"
@@ -1892,7 +2022,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 321704,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/45gbM4zsiz7ekoIaqD2hKZ"
@@ -1982,7 +2112,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 221695,
       "name": "Try it",
       "url": "https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2"
@@ -2733,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "\u60d1\u661f\u6570\u73e0\u3064\u306a\u304e",
+        "url": "https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30b3\u30eb\u30e0\u306e\u5c71\u3005",
+          "url": "https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267948,
+      "name": "\u60d1\u661f\u6570\u73e0\u3064\u306a\u304e",
+      "url": "https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5"
+    },
+    {
+      "album": {
         "name": "\u6625\u3088\u3001\u604b",
         "url": "https://open.spotify.com/album/158n63trUTwgLxptMqxA7h"
       },
@@ -2859,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "\u6d41\u6d6a",
+        "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
+    },
+    {
+      "album": {
         "name": "\u6d77\u304c\u304d\u3053\u3048\u308b",
         "url": "https://open.spotify.com/album/2N7nCxZj9sNB8eTo5ZOj31"
       },
@@ -2870,7 +3036,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 256917,
       "name": "\u6d77\u304c\u304d\u3053\u3048\u308b",
       "url": "https://open.spotify.com/track/6SDLJ9Rv5EF91UogxwRvRj"

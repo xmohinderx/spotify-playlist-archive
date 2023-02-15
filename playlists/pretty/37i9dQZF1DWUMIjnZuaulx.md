@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Jekalyn Carr
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,820 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,930 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 73 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 74 | [More Than Enough](https://open.spotify.com/track/3qLQuhUegj9nStFKE2zUhq) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 7:39 |
 | 75 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
-| 76 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 |
+| 76 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 |
 | 77 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 |
 | 78 | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh) | [Juan Winans](https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV) | 2:59 |
 | 79 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Praise His Holy Name \- Steppers Remix](https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Praise His Holy Name \(Steppers Remix\)](https://open.spotify.com/album/7uZOD4qSnjVHDwv8Od0aZP) | 3:45 |
 | 100 | [Victory Remix](https://open.spotify.com/track/33725qjUklLUs5uZhN7Vtt) | [Kenny Lewis & One Voice](https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Victory Remix](https://open.spotify.com/album/5D8ulRfzaLnRI9faAnvOQl) | 6:04 |
 
-Snapshot ID: `MTY3NjAyMzAzNSwwMDAwMDAwMGJkYmQxOWI0NTNjMjI1ZjI1Y2FhYTc5MjhjNTQwMjVi`
+Snapshot ID: `MTY3NjAyMzAzNSwwMDAwMDAwMDkwMTU3MGE4ZDIwYWYzMTgzYzZmMjUxZjYzZmUwZGY5`

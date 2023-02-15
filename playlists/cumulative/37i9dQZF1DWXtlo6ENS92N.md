@@ -2,7 +2,7 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> B bole toh Bollywood's biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Pathaan
+> B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Pathaan
 
 84 songs - 5 hr 30 min
 

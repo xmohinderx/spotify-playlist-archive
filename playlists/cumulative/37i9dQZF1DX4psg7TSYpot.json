@@ -222,6 +222,24 @@
     {
       "album": {
         "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/3BpiHBjL4wQkOoQY6chNjR"
+    },
+    {
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
       },
       "artists": [
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 209533,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/55ohkobgvIBzEjVc66RwfS"
@@ -322,10 +340,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 297268,
       "name": "Change The World - Acoustic",
       "url": "https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV"
+    },
+    {
+      "album": {
+        "name": "Change The World (Acoustic)",
+        "url": "https://open.spotify.com/album/6NvmDNr7wCSqG7vMsdLyPw"
+      },
+      "artists": [
+        {
+          "name": "Striking Matches",
+          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297268,
+      "name": "Change The World - Acoustic",
+      "url": "https://open.spotify.com/track/1KNej6mE6NT21O4ArqqLLR"
     },
     {
       "album": {
@@ -420,6 +456,24 @@
     {
       "album": {
         "name": "Dare You To Move (Acoustic)",
+        "url": "https://open.spotify.com/album/7dUNOUAXKoXqI9kZOU7Viw"
+      },
+      "artists": [
+        {
+          "name": "Ryan de Mel",
+          "url": "https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246611,
+      "name": "Dare You To Move - Acoustic",
+      "url": "https://open.spotify.com/track/0bOCAiSF04TziDFLSQ1fLr"
+    },
+    {
+      "album": {
+        "name": "Dare You To Move (Acoustic)",
         "url": "https://open.spotify.com/album/01FzZJ8CCSjIRD52xKOYTB"
       },
       "artists": [
@@ -448,7 +502,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 246611,
       "name": "Dare You To Move - Acoustic",
       "url": "https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx"
@@ -740,10 +794,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS"
+    },
+    {
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163414,
+      "name": "Hallelujah I Love Her So",
+      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
     },
     {
       "album": {
@@ -1047,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "album": {
         "name": "I Want You Back",
         "url": "https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO"
       },
@@ -1076,7 +1166,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
@@ -1246,6 +1336,24 @@
     {
       "album": {
         "name": "& Covers",
+        "url": "https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK"
+      },
+      "artists": [
+        {
+          "name": "Cattle & Cane",
+          "url": "https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218175,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c"
+    },
+    {
+      "album": {
+        "name": "& Covers",
         "url": "https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2"
       },
       "artists": [
@@ -1256,7 +1364,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L"

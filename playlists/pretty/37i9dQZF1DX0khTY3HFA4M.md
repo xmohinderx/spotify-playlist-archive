@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,350 likes - 500 songs - 19 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,561 likes - 500 songs - 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 133 | [Thoughts](https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [Thoughts](https://open.spotify.com/album/0uJfLdYRrEz5FSeyyNulr9) | 3:10 |
 | 134 | [Malibu Beach](https://open.spotify.com/track/1ArKZD80jzua2wUN4s2x9k) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Malibu Beach](https://open.spotify.com/album/4Lebroomej0ECH0FE4dmTD) | 2:02 |
 | 135 | [kyoto dreams](https://open.spotify.com/track/3lIAnCXbiCOBWL01Ed1JBS) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [kyoto dreams](https://open.spotify.com/album/6ww8h7P2uLu9uNYpCHvsKo) | 1:41 |
-| 136 | [Waking](https://open.spotify.com/track/4Z4tyBpfEFrSvE0UeDAnum) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Waking](https://open.spotify.com/album/6lLSBtjC6x5hY9j7LyPaI3) | 2:00 |
+| 136 | [Waking](https://open.spotify.com/track/4Z4tyBpfEFrSvE0UeDAnum) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA), [Labbra\-Lofi](https://open.spotify.com/artist/0iz0wDAmK8xK3MTD4VUatq) | [Waking](https://open.spotify.com/album/6lLSBtjC6x5hY9j7LyPaI3) | 2:00 |
 | 137 | [On Repeat](https://open.spotify.com/track/1Hi4ZCPOlKxcd64wKVO4zd) | [Wolly](https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD) | [On Repeat](https://open.spotify.com/album/5q9oCGRW2WQtFEw9VkYAsu) | 1:22 |
 | 138 | [Soulmate](https://open.spotify.com/track/6iCSkJSmXWnuWM6tt2KkcM) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Soulmate](https://open.spotify.com/album/0jY4ExgcYDZZjtXXByPevz) | 1:58 |
 | 139 | [Afterglow](https://open.spotify.com/track/2wYmvZTZuJ9ztq9tI5BBcD) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afterglow](https://open.spotify.com/album/4LYclO71Nf6yDzyIi97zv9) | 2:08 |

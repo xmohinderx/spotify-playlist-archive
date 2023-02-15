@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: LizNoir",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u7dd2\u65b9\u6075\u7f8e (Megumi Ogata)",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 234000,
       "name": "Adolescence",
       "url": "https://open.spotify.com/track/5wiN2xtxIthUK9RokrTRRo"
+    },
+    {
+      "album": {
+        "name": "Adore me",
+        "url": "https://open.spotify.com/album/2hWqJDQNpjwUgJaIAPoJbn"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5d0e\u30a8\u30ea\u30a4",
+          "url": "https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Adore me",
+      "url": "https://open.spotify.com/track/7BZOrVN1JyV5uNbQicYHK6"
     },
     {
       "album": {
@@ -1025,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Kanaeru",
+        "url": "https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn"
+      },
+      "artists": [
+        {
+          "name": "\u8af8\u661f\u3059\u307f\u308c",
+          "url": "https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Kanaeru",
+      "url": "https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO"
+    },
+    {
+      "album": {
         "name": "Kasuka de Tashika",
         "url": "https://open.spotify.com/album/3KAKSIP686ycCtJEVLdTGs"
       },
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 220866,
       "name": "Kodokunagunshyuu",
       "url": "https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz"
@@ -1382,6 +1418,24 @@
       "duration_ms": 301800,
       "name": "more<STRONGLY",
       "url": "https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm"
+    },
+    {
+      "album": {
+        "name": "TV Animation \"Sugar Apple Fairy Tale\" Opening Theme Song \"Musical\"",
+        "url": "https://open.spotify.com/album/5jpCso9ad465aE5oXKYg3s"
+      },
+      "artists": [
+        {
+          "name": "Minori Suzuki",
+          "url": "https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "Musical",
+      "url": "https://open.spotify.com/track/5nkNdlVIIs9Agg4nzZSuwR"
     },
     {
       "album": {
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 198840,
       "name": "Someday is Today",
       "url": "https://open.spotify.com/track/6EWkOjcPts0EqPXWKuEteW"
@@ -1965,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Accept Me",
+        "url": "https://open.spotify.com/album/01mwZNYSgocU74KTUP6ggB"
+      },
+      "artists": [
+        {
+          "name": "miru",
+          "url": "https://open.spotify.com/artist/2kwk4UlOqGO3R6Jw2Gy89A"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257228,
+      "name": "Walk my own line",
+      "url": "https://open.spotify.com/track/39DTwVwjK8VbYiMmvITpq8"
+    },
+    {
+      "album": {
         "name": "Anata to Watashi wo Tsunagumono",
         "url": "https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph"
       },
@@ -2048,7 +2120,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 274613,
       "name": "Youthful Graffiti",
       "url": "https://open.spotify.com/track/2m1LtT7aAmHs1MxzmQLStx"
@@ -2336,7 +2408,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 203433,
       "name": "\u30a8\u30af\u30ea\u30d7\u30b9",
       "url": "https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx"
@@ -2840,7 +2912,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 309791,
       "name": "\u5728\u308a\u3057\u65e5",
       "url": "https://open.spotify.com/track/5NnSYrQ6Co0Zs8EzjKcpib"
@@ -2938,6 +3010,24 @@
       "duration_ms": 219408,
       "name": "\u5e0c\u671b\u306e\u6e26",
       "url": "https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u30b0\u300230th",
+        "url": "https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs"
+      },
+      "artists": [
+        {
+          "name": "\u7dd2\u65b9\u6075\u7f8e",
+          "url": "https://open.spotify.com/artist/3iWEXjM1gU5lpPuRYgpNwt"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "\u5fae\u7b11\u307f\u306e\u7206\u5f3e",
+      "url": "https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM"
     },
     {
       "album": {

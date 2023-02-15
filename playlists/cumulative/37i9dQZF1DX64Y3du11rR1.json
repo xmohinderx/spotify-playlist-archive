@@ -994,6 +994,24 @@
     {
       "album": {
         "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/5BNClcSV7si2IuFWmbly4g"
+      },
+      "artists": [
+        {
+          "name": "John T",
+          "url": "https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162783,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/3YhqdNOlcWkgHvgvToS1Js"
+    },
+    {
+      "album": {
+        "name": "Heartbeats",
         "url": "https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer"
       },
       "artists": [
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 162783,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu"
@@ -1572,10 +1590,28 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 221000,
       "name": "Love Is a Battlefield",
       "url": "https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37"
+    },
+    {
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Love Is a Battlefield",
+      "url": "https://open.spotify.com/track/6hi5gIwL3pKSDPZQj7eoKz"
     },
     {
       "album": {
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 269066,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/5EDaeu3f5G4FihamaJuqPt"
@@ -1900,6 +1936,24 @@
       "duration_ms": 269066,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/5WIZSelxfTnvPWFRGPNB5j"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7x9C3MvulfI2QC5atdWm3s"
+      },
+      "artists": [
+        {
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/64nuOnXck45GgD9y6smVBf"
     },
     {
       "album": {
@@ -2368,6 +2422,24 @@
     {
       "album": {
         "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/0cApK7WFfFoBLYdgEAXoOM"
+    },
+    {
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
       },
       "artists": [
@@ -2378,7 +2450,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 212560,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/5JIpqw0avFfnDk6fCa5QRZ"

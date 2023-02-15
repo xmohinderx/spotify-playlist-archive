@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "A Word Of Science",
+        "url": "https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321266,
+      "name": "A Case Of Funk",
+      "url": "https://open.spotify.com/track/3IhbaLQTVbsf3Amai4onue"
+    },
+    {
+      "album": {
         "name": "A Day in a Life",
         "url": "https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye"
       },
@@ -8996,7 +9014,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 450099,
       "name": "Weathered Gate",
       "url": "https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l"

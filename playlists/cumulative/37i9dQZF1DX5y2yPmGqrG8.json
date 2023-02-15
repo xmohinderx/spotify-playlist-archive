@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 149869,
       "name": "10",
       "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 99400,
       "name": "Bloodwork",
       "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
@@ -1550,6 +1550,24 @@
     {
       "album": {
         "name": "Cabara\u00fa",
+        "url": "https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392107,
+      "name": "Cabara\u00fa",
+      "url": "https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU"
+    },
+    {
+      "album": {
+        "name": "Cabara\u00fa",
         "url": "https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0"
       },
       "artists": [
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 223773,
       "name": "Caged At Last",
       "url": "https://open.spotify.com/track/6SruU1URjdHmZQmo4oMBjo"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 477000,
       "name": "Crystal Candles for Magical Days - Kathia Rudametkin Remix",
       "url": "https://open.spotify.com/track/6dVZD0tFFz0XoX5sCmMIQp"
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 265124,
       "name": "Garden",
       "url": "https://open.spotify.com/track/4ITPubj0RkBFfsAA1WGCUl"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 870876,
       "name": "Geomancy",
       "url": "https://open.spotify.com/track/5uV5f0B9eYzoN5kkpd63KX"
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 242624,
       "name": "Hypnagogia",
       "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 277103,
       "name": "i am a strange loop",
       "url": "https://open.spotify.com/track/30UMPVKK8ZgXWnze3eqcFv"
@@ -4549,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+    },
+    {
+      "album": {
         "name": "Lemon Day",
         "url": "https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE"
       },
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 348131,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN"
@@ -5826,7 +5862,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 260592,
       "name": "Peradam - Brian Eno Remix",
       "url": "https://open.spotify.com/track/1MOw1EJpA0rp7wXSgH0eV8"
@@ -5920,7 +5956,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
@@ -6330,7 +6366,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 413529,
       "name": "Resta Qui",
       "url": "https://open.spotify.com/track/3RbYNnTGydL55K42h9bvoq"
@@ -6688,6 +6724,24 @@
     {
       "album": {
         "name": "Shadows",
+        "url": "https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483594,
+      "name": "Sais",
+      "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
+    },
+    {
+      "album": {
+        "name": "Shadows",
         "url": "https://open.spotify.com/album/5kxdPzutcONxecJmXUIj2c"
       },
       "artists": [
@@ -6842,7 +6896,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 233274,
       "name": "SILHOUETTE",
       "url": "https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe"
@@ -8460,7 +8514,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 264121,
       "name": "Unbraid - Spotify Singles",
       "url": "https://open.spotify.com/track/1C97lxx3UJQev7Wl5KOeDr"
@@ -8518,7 +8572,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 231648,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
@@ -8648,6 +8702,24 @@
       "duration_ms": 293280,
       "name": "Veils and Mirrors",
       "url": "https://open.spotify.com/track/3WWOniXQOWprUhfWkIsmXe"
+    },
+    {
+      "album": {
+        "name": "Ventus",
+        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
+      },
+      "artists": [
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304831,
+      "name": "Ventus",
+      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
       "album": {
@@ -9074,7 +9146,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 257692,
       "name": "Wurlitzer",
       "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"

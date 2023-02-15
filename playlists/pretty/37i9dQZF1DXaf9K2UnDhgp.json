@@ -1,12 +1,12 @@
 {
   "description": "Riffing around the Christmas tree. Cover: My Chemical Romance",
-  "num_followers": 183147,
+  "num_followers": 183098,
   "original_name": "Rock Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODIzMywwMDAwMDAwMGJmNTJlY2VlNzU5YTBjYjNkZGUzOTc5ODYzZmZjYjNj",
+  "snapshot_id": "MTY3MTU1ODIzMywwMDAwMDAwMDk2NjBhNDhlMWI2ZWFjODgyNjFjZmEzYzg5ZThhZDM4",
   "tracks": [
     {
       "added_at": "2022-12-20 17:34:45",
@@ -123,17 +123,21 @@
     {
       "added_at": "2022-12-20 17:34:45",
       "album": {
-        "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
-        "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
+        "name": "We Wish You a Metal Xmas.. (..And a Headbanging New Year)",
+        "url": "https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo"
       },
       "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
         {
           "name": "Lemmy",
           "url": "https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd"
         },
         {
-          "name": "Billy Gibbons",
-          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+          "name": "Billy F. Gibbons",
+          "url": "https://open.spotify.com/artist/63qWU22uKztlKgZcZmL4Qy"
         },
         {
           "name": "Dave Grohl",
@@ -142,7 +146,7 @@
       ],
       "duration_ms": 240160,
       "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/0eL99mrX8qVKgYJU46QHUb"
+      "url": "https://open.spotify.com/track/4BbZ1gB8vktu71ALv0Qjt7"
     },
     {
       "added_at": "2022-12-20 17:34:45",

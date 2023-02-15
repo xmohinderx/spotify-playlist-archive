@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Luke Bar$",
-  "num_followers": 1532,
+  "num_followers": 1553,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE0MzE3NiwwMDAwMDAwMGY5ZWM1MGMzYzcwMzEzZWJmM2IwZGE0NjM5ZGMwMWZh",
+  "snapshot_id": "MTY3NjM0MTI3OSwwMDAwMDAwMDUxMjMzYmFlMzQ4MjczMDFkZTdlYjZiNDNiN2ZhYTI1",
   "tracks": [
     {
       "added_at": "2023-01-13 06:38:06",
@@ -75,6 +75,38 @@
       "duration_ms": 157857,
       "name": "Wouldn't Get Far",
       "url": "https://open.spotify.com/track/2j3GupY7wtH9SWpOVdSMcd"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "Say My Peace",
+        "url": "https://open.spotify.com/album/2gQS83M28R41uN2kRz1X17"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Say My Peace",
+      "url": "https://open.spotify.com/track/11fDFZrFvVKoht9u7v6drZ"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "think too much",
+        "url": "https://open.spotify.com/album/0awp4O7GSidy92EhzLlnYh"
+      },
+      "artists": [
+        {
+          "name": "Oompa",
+          "url": "https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "think too much",
+      "url": "https://open.spotify.com/track/1J1RoFqxgRfLsEZjCd2SxM"
     },
     {
       "added_at": "2023-01-24 06:33:20",
@@ -165,34 +197,58 @@
       "url": "https://open.spotify.com/track/6ZivcaQAhE7jxwObzte6Uk"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2023-02-14 02:21:19",
       "album": {
-        "name": "DSM",
-        "url": "https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol"
+        "name": "Working In My Favor",
+        "url": "https://open.spotify.com/album/4H94tKMIDgcG6RSuMqTi7F"
       },
       "artists": [
+        {
+          "name": "Dylvinci",
+          "url": "https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS"
+        },
+        {
+          "name": "RealYungPhil",
+          "url": "https://open.spotify.com/artist/4DnRQspXhzqgCMkJJmOS4T"
+        }
+      ],
+      "duration_ms": 71775,
+      "name": "Working In My Favor",
+      "url": "https://open.spotify.com/track/67Rjgdp4QOKASWBoWtSYov"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "Allegedly",
+        "url": "https://open.spotify.com/album/70l8Voq04MxVKRuH3vrqzz"
+      },
+      "artists": [
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        },
         {
           "name": "Van Buren Records",
           "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
         },
         {
-          "name": "Meech BOLD",
-          "url": "https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE"
-        },
-        {
           "name": "Jiles",
           "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
         }
       ],
-      "duration_ms": 166380,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3luKbicsES7gnLnEGng1yg"
+      "duration_ms": 175945,
+      "name": "Allegedly",
+      "url": "https://open.spotify.com/track/28VyxEa0auuQGjtkgJMQlr"
     },
     {
-      "added_at": "2022-12-30 14:03:25",
+      "added_at": "2023-02-14 02:21:19",
       "album": {
         "name": "28",
-        "url": "https://open.spotify.com/album/6Sj1wSGDehk5Ok1qE3rnQW"
+        "url": "https://open.spotify.com/album/0IDJP7NDfpAjaVvFgK4y0d"
       },
       "artists": [
         {
@@ -200,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
         }
       ],
-      "duration_ms": 150047,
-      "name": "28",
-      "url": "https://open.spotify.com/track/1twKDUOnBLyUu9sZl4pAwy"
+      "duration_ms": 165067,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/7CDkBYPgUXIArjTHbhWh5v"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -317,22 +373,6 @@
       "url": "https://open.spotify.com/track/5BwGvMLx9eTDR9XFNZ9tiQ"
     },
     {
-      "added_at": "2022-09-30 22:42:10",
-      "album": {
-        "name": "Lord Flow",
-        "url": "https://open.spotify.com/album/4dAIVG07ZNhZvlt6ToMgWU"
-      },
-      "artists": [
-        {
-          "name": "King OSF",
-          "url": "https://open.spotify.com/artist/5VYWaw1z5luk9NZqMIX2fh"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "Lord Flow",
-      "url": "https://open.spotify.com/track/5me40Wxw2M3Ubpcac1w8Mo"
-    },
-    {
       "added_at": "2022-09-09 19:33:50",
       "album": {
         "name": "sex! money! violence!",
@@ -407,6 +447,22 @@
       "duration_ms": 171764,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1YWISuNcZgLHivxlvhPIs1"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "After Life",
+        "url": "https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU"
+      },
+      "artists": [
+        {
+          "name": "Gogo.",
+          "url": "https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "After Life",
+      "url": "https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv"
     },
     {
       "added_at": "2023-01-24 06:33:20",
@@ -513,22 +569,6 @@
       "url": "https://open.spotify.com/track/4IBMVdxph7uAxwIZDiFHza"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Mask On",
-        "url": "https://open.spotify.com/album/2zlI0V7y7VANrVeARmm6bx"
-      },
-      "artists": [
-        {
-          "name": "Stizzy Leftlane",
-          "url": "https://open.spotify.com/artist/2dQwBBED5oUeKyHYU7R5VN"
-        }
-      ],
-      "duration_ms": 139755,
-      "name": "Mask On",
-      "url": "https://open.spotify.com/track/4rMRJg6GAZi98tHsKVOSy3"
-    },
-    {
       "added_at": "2023-01-31 05:32:56",
       "album": {
         "name": "Angels Never Die",
@@ -569,6 +609,26 @@
       "url": "https://open.spotify.com/track/1ytaL04DRs5sUnkhCyCWZH"
     },
     {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "The Influence",
+        "url": "https://open.spotify.com/album/3ic9LgzMpIIz41UE7mN9RF"
+      },
+      "artists": [
+        {
+          "name": "BoriRock",
+          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
+        },
+        {
+          "name": "Chef Bogey",
+          "url": "https://open.spotify.com/artist/1CFjckqJgBYkqiOdMZBApF"
+        }
+      ],
+      "duration_ms": 135523,
+      "name": "The Influence",
+      "url": "https://open.spotify.com/track/4Ye971Dh5wBY3mmCC22mjm"
+    },
+    {
       "added_at": "2023-01-31 05:32:56",
       "album": {
         "name": "FIRST DAY OUT",
@@ -585,6 +645,38 @@
       "url": "https://open.spotify.com/track/2rCH6Q7FE7H3yZatfRX1Y0"
     },
     {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "Block Boy",
+        "url": "https://open.spotify.com/album/3XhgCa0JymF78MJWSl58iu"
+      },
+      "artists": [
+        {
+          "name": "EX",
+          "url": "https://open.spotify.com/artist/1kuxVqj06JMxr4m6SiZQzM"
+        }
+      ],
+      "duration_ms": 115252,
+      "name": "Block Boy",
+      "url": "https://open.spotify.com/track/3HygFOwtJmPuDPp53LyA9R"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "Ready To Live",
+        "url": "https://open.spotify.com/album/00x8hakmBSeA3hvJZ2D5cx"
+      },
+      "artists": [
+        {
+          "name": "Stizzy Leftlane",
+          "url": "https://open.spotify.com/artist/2dQwBBED5oUeKyHYU7R5VN"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/4NmiPYqUTIDewcgp5d2avd"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "MIA Freestyle",
@@ -599,6 +691,22 @@
       "duration_ms": 131092,
       "name": "MIA Freestyle",
       "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
+    },
+    {
+      "added_at": "2023-02-14 02:21:19",
+      "album": {
+        "name": "Curry Motion",
+        "url": "https://open.spotify.com/album/5IFqvsErwiWdmAELuKIwRm"
+      },
+      "artists": [
+        {
+          "name": "Kealen Ives",
+          "url": "https://open.spotify.com/artist/7cT3GDK4WNe5ObGzdUbGds"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Curry Motion",
+      "url": "https://open.spotify.com/track/19yMfcA2plhflpjs9sEUp8"
     },
     {
       "added_at": "2023-01-24 06:33:20",
@@ -653,24 +761,20 @@
       "url": "https://open.spotify.com/track/2ifGjIXn7elSfKdkyfiQCS"
     },
     {
-      "added_at": "2022-12-30 14:03:25",
+      "added_at": "2023-02-14 02:21:19",
       "album": {
-        "name": "Tears At My Door",
-        "url": "https://open.spotify.com/album/73mq8Q0tIOQ8tlfWGOKRfL"
+        "name": "CAP PACK 2",
+        "url": "https://open.spotify.com/album/1dD3bqHKXeipNtOZvcd2g0"
       },
       "artists": [
         {
-          "name": "Nyce Hitz",
-          "url": "https://open.spotify.com/artist/7E7gGJ4hAftdA2KwiUW4TT"
-        },
-        {
-          "name": "Tye Cooper",
-          "url": "https://open.spotify.com/artist/22T9IoG6irjUof5gzBK8kE"
+          "name": "Clark D",
+          "url": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
         }
       ],
-      "duration_ms": 231081,
-      "name": "Tears At My Door",
-      "url": "https://open.spotify.com/track/1gi4IwXjio2b7rabdSbrgq"
+      "duration_ms": 198013,
+      "name": "ME AND MY MUSE",
+      "url": "https://open.spotify.com/track/5A39A4kS505mQ8VSAAi6kn"
     },
     {
       "added_at": "2022-12-30 14:03:25",
@@ -729,26 +833,6 @@
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "Christmas in 6",
-        "url": "https://open.spotify.com/album/5rDayfk2s1XFr2Em7cnjGY"
-      },
-      "artists": [
-        {
-          "name": "Michael Christmas",
-          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
-        },
-        {
-          "name": "Ricky Felix",
-          "url": "https://open.spotify.com/artist/6fCDrr1iHSs1lmuJQ7cI6W"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Shaquille O'Neal",
-      "url": "https://open.spotify.com/track/1pn2A373ZsEUyX1FtEccOZ"
-    },
-    {
       "added_at": "2023-01-24 06:33:20",
       "album": {
         "name": "no handouts",
@@ -769,30 +853,6 @@
       "url": "https://open.spotify.com/track/5LCvqLTWzSibMtSqXuxQY4"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Offsides",
-        "url": "https://open.spotify.com/album/5nrhXsKDoqe3XXeYFf7OJM"
-      },
-      "artists": [
-        {
-          "name": "Avenue",
-          "url": "https://open.spotify.com/artist/1zmCAD5TrrZxSJ9SJJ0PxE"
-        },
-        {
-          "name": "Chase N. Cashe",
-          "url": "https://open.spotify.com/artist/6E2HWaoTqTZdHMWPbdsojr"
-        },
-        {
-          "name": "Hil Holla",
-          "url": "https://open.spotify.com/artist/3CxR5r0rfx3xPxIswkgm0p"
-        }
-      ],
-      "duration_ms": 201312,
-      "name": "Offsides",
-      "url": "https://open.spotify.com/track/5AxqdQDciWmbklClPebKp1"
-    },
-    {
       "added_at": "2022-10-25 18:05:16",
       "album": {
         "name": "OXBLOOD",
@@ -807,90 +867,6 @@
       "duration_ms": 223281,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/6XzKrby7QrKlvCJpIL4gFp"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Demon",
-        "url": "https://open.spotify.com/album/7izPjrAkBHW720mOBLsizQ"
-      },
-      "artists": [
-        {
-          "name": "Gogo.",
-          "url": "https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp"
-        },
-        {
-          "name": "Maka 3.0",
-          "url": "https://open.spotify.com/artist/7zrePIYKlWxpTJkSaJge69"
-        }
-      ],
-      "duration_ms": 267977,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/5lbUq4I5aA8a8KXD4F74mu"
-    },
-    {
-      "added_at": "2023-01-13 06:38:06",
-      "album": {
-        "name": "Long As I Live",
-        "url": "https://open.spotify.com/album/2N95cCOlPG0EtDrCcNM4zk"
-      },
-      "artists": [
-        {
-          "name": "P. Lowe",
-          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
-        },
-        {
-          "name": "M&n Pro",
-          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
-        },
-        {
-          "name": "Lennie de Souza",
-          "url": "https://open.spotify.com/artist/4cPlcdKPhfmqJkkKc1ay4U"
-        }
-      ],
-      "duration_ms": 298166,
-      "name": "Long As I Live",
-      "url": "https://open.spotify.com/track/2zyD7OKTv8zPNIjCl0SNdY"
-    },
-    {
-      "added_at": "2023-01-13 06:38:06",
-      "album": {
-        "name": "BillyBlue",
-        "url": "https://open.spotify.com/album/5GSY7gTZ8mZkNTeA6MgXo0"
-      },
-      "artists": [
-        {
-          "name": "Riel Santana",
-          "url": "https://open.spotify.com/artist/5lqkAKnq679k0QQWD3tqcd"
-        },
-        {
-          "name": "Heavyjay809",
-          "url": "https://open.spotify.com/artist/3vqLRQhAdNZHnzSYbGmstr"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "BillyBlue",
-      "url": "https://open.spotify.com/track/1XV9RTgnzM9tN5fS5Be1qu"
-    },
-    {
-      "added_at": "2022-09-16 21:07:32",
-      "album": {
-        "name": "Come Find Me",
-        "url": "https://open.spotify.com/album/2XQzzUca8vgM20qmAek72T"
-      },
-      "artists": [
-        {
-          "name": "Olu Vibez",
-          "url": "https://open.spotify.com/artist/4gWss5WLhs76gUsFACX7Rz"
-        },
-        {
-          "name": "Israel Wusu",
-          "url": "https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f"
-        }
-      ],
-      "duration_ms": 151462,
-      "name": "Come Find Me",
-      "url": "https://open.spotify.com/track/01uqWW7DLwj0L7DCq9yX34"
     },
     {
       "added_at": "2022-06-07 21:56:35",

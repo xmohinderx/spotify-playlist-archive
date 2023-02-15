@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,471 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,475 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 7 | [Candy](https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Candy](https://open.spotify.com/album/1670DOyCe1tpTfBNuOswI9) | 3:05 |
 | 8 | [Gone Without a Trace](https://open.spotify.com/track/4fFFpyXVskyIZYV7zi0eoc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:02 |
 | 9 | [Exit](https://open.spotify.com/track/3mOVlLxsQ5LHBqPJl4djqU) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Exit](https://open.spotify.com/album/0NM4Gbbp3Hz1dj6pulp9R6) | 2:15 |
-| 10 | [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 |
+| 10 | [Best Friend](https://open.spotify.com/track/6GToD1V53S3LLIinqSS9Z8) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/2LmnM6QMAh2MucdanVamcm) | 3:18 |
 | 11 | [10's & 8's \(no 4's or 5's\)](https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [burnt ur clothes & changed the addy](https://open.spotify.com/album/1glKNCGA70lAvykhx0Onr2) | 2:45 |
 | 12 | [Blessed](https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Blessed](https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn) | 2:42 |
 | 13 | [MEXICO](https://open.spotify.com/track/5lM91CtjHLkREYf1CVdcbE) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MEXICO](https://open.spotify.com/album/285ln9j6Hny71rTh3rV65n) | 2:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 64 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 65 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 |
 
-Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMDc5YTQ1NTI1ZTVjZWVjOThiZTliZTk0YzA0NWM5YmNh`
+Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGE1MzlmODEyY2EwOWJkMDAxYTc0MmY5NmUyNzVmMDkz`

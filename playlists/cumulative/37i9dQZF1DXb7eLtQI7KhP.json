@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Majestic Sky",
+        "url": "https://open.spotify.com/album/5RHZVIZAuCXStOzIbCmCa1"
+      },
+      "artists": [
+        {
+          "name": "Wolf Keller",
+          "url": "https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Majestic Sky",
+      "url": "https://open.spotify.com/track/6h76YDPycRG0nGSIHxFxzP"
+    },
+    {
+      "album": {
         "name": "Mi Manchi Tu",
         "url": "https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg"
       },
@@ -1118,6 +1136,24 @@
       "duration_ms": 199250,
       "name": "Nattljus",
       "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
+    },
+    {
+      "album": {
+        "name": "Nebula Horizon",
+        "url": "https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00c9vilo",
+          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Nebula Horizon",
+      "url": "https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU"
     },
     {
       "album": {

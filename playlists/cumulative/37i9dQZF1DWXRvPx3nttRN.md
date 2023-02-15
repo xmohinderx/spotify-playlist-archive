@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-379 songs - 21 hr 20 min
+380 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/0CpgnSp5byPjRH0CzKTSWh) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Banho Acustico](https://open.spotify.com/album/4vvacVa2MbxLJ8uteNCFpV) | 3:18 | 2022-04-22 | 2022-11-13 |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2022-04-22 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 | 2021-03-12 | 2022-07-29 |
-| [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-04-22 |  |
+| [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-04-22 | 2023-02-15 |
+| [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2022-12-29 |  |
 | [Rather Be](https://open.spotify.com/track/4Y9ZPnecYXbE7KxDVRq0Cm) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 4:07 | 2021-03-12 | 2022-07-29 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2022-04-22 |  |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/2U0MVjmeIZGbbLhpL779l3) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Armada Chill 2019](https://open.spotify.com/album/5D4ZiP5BzUEolrRIsRtoRY) | 2:49 | 2022-04-22 | 2022-11-13 |

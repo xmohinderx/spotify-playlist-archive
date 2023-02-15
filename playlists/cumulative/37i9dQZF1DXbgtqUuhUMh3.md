@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-389 songs - 22 hr 48 min
+390 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bye](https://open.spotify.com/track/7lY4RKaXEbN9bepG5s5Kmz) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Bye](https://open.spotify.com/album/1vSr7VaSNYP2LqjvRZNEM3) | 3:15 | 2021-12-23 | 2022-03-01 |
 | [Can't Catch an Emotion](https://open.spotify.com/track/13MrjxkZGZ0okmOSkOlhaI) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Can't Catch an Emotion](https://open.spotify.com/album/5of8QSNXq5V0sO7bZuBtpU) | 4:24 | 2021-12-23 | 2022-02-27 |
 | [Chakhs Taraktah](https://open.spotify.com/track/7qnpqHdclXCDhWvNHepCQI) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Chakhs Taraktah](https://open.spotify.com/album/11RTGKtmWUTH2uNaftoOaU) | 4:32 | 2022-03-01 | 2022-07-29 |
+| [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-15 |  |
 | [Circus](https://open.spotify.com/track/185g8LSwyx0rx2efD6riRx) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Issa & Assouad](https://open.spotify.com/artist/5P4gYpIeDqVMdkWnIHScSM) | [Circus](https://open.spotify.com/album/3ry7upEBDarprt1XVXNSf2) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Come With Me](https://open.spotify.com/track/2vbmlZNT3GNex5DaE1kO0h) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Desert](https://open.spotify.com/track/2wDTjlvBMKgx3rhKZH7270) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Desert](https://open.spotify.com/album/3OdBtnlIzgwXnOHxgOgPOJ) | 5:04 | 2021-12-30 | 2022-02-19 |
@@ -310,7 +311,7 @@
 | [Yallah Rouh](https://open.spotify.com/track/3uWSYjmimNU6BKRTktp6MS) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Yallah Rouh](https://open.spotify.com/album/3oouovHnQ89O7clarzK0mD) | 3:14 | 2022-11-15 |  |
 | [YAMMI](https://open.spotify.com/track/1QHZJihSD4Ks6yNOaUJBVe) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [YAMMI](https://open.spotify.com/album/7D7510MFKUTrZN96Ax5uvl) | 2:51 | 2022-11-15 |  |
 | [Yamta Asteree7](https://open.spotify.com/track/0vMQ4yqyzo5UfyqwvKAMg0) | [Jamila El Badaoui](https://open.spotify.com/artist/15f0HYupDbduH3FmzJTpR5) | [Yamta Asteree7](https://open.spotify.com/album/5wWfxh07EOBfhIDmmXhoCa) | 3:55 | 2021-12-23 | 2022-03-02 |
-| [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 | 2022-11-15 |  |
+| [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 | 2022-11-15 | 2023-02-15 |
 | [Ye3een Allah](https://open.spotify.com/track/0w86ou81C8EBmVX9d2iiRs) | [Rahma](https://open.spotify.com/artist/7e8oZBA2CzhtiIccMn3vzb) | [Ye3een Allah](https://open.spotify.com/album/5LFmrysFicaRvxDKu2iXLn) | 2:54 | 2022-01-27 | 2022-01-29 |
 | [Yimken Habbeit](https://open.spotify.com/track/6CJ3zYkU5nsAssMHoERjw6) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 4:22 | 2022-09-20 | 2022-11-10 |
 | [Yimken Habbeit](https://open.spotify.com/track/76nBJMgYcFtsKE0XcJsBRU) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Yimken Habbeit](https://open.spotify.com/album/0XSgYexDXczW9KcugAcaUC) | 4:22 | 2022-03-01 | 2022-07-28 |

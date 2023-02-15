@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black & dark metal. Cover: Dimmu Borgir",
-  "num_followers": 418122,
+  "num_followers": 418284,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwMTY2MCwwMDAwMDAwMDNiZGQ4MmI2ZGM0ZWNlNGFiYmVmNWU5MGU5NjExODc4",
+  "snapshot_id": "MTY3NjAwMTY2MCwwMDAwMDAwMGVmM2FkNDI5Mjg3NDQ3YTYwMThkYTIwNjFjMDVkNmI0",
   "tracks": [
     {
       "added_at": "2023-02-10 04:01:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Blood Fire Death",
-        "url": "https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs"
+        "name": "Enthrone Darkness Triumphant",
+        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
       "artists": [
         {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 516266,
-      "name": "A Fine Day to Die",
-      "url": "https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS"
+      "duration_ms": 313360,
+      "name": "Mourning Palace",
+      "url": "https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Enthrone Darkness Triumphant",
-        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
+        "name": "Blood Fire Death",
+        "url": "https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs"
       },
       "artists": [
         {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
         }
       ],
-      "duration_ms": 313360,
-      "name": "Mourning Palace",
-      "url": "https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw"
+      "duration_ms": 516266,
+      "name": "A Fine Day to Die",
+      "url": "https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
+        "name": "In Sorte Diaboli",
+        "url": "https://open.spotify.com/album/4iW5SJA2EZbx5YRfKCUoAm"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 309213,
+      "name": "The Serpentine Offering",
+      "url": "https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
         "name": "In The Nightside Eclipse",
         "url": "https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Bathory",
-        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Hades",
-      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "Arson",
         "url": "https://open.spotify.com/album/2swBN6MZL9myFcJPgqQR2V"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "In Sorte Diaboli",
-        "url": "https://open.spotify.com/album/4iW5SJA2EZbx5YRfKCUoAm"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 309213,
-      "name": "The Serpentine Offering",
-      "url": "https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "De Mysteriis Dom Sathanas",
         "url": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 381853,
       "name": "De Mysteriis Dom Sathanas",
       "url": "https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Bathory",
+        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
+      },
+      "artists": [
+        {
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -471,22 +471,6 @@
       "duration_ms": 277996,
       "name": "Compulsion for Cruelty",
       "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "Nordland I",
-        "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 334973,
-      "name": "Ring of Gold",
-      "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -535,6 +519,22 @@
       "duration_ms": 421680,
       "name": "In the Shadow of the Horns - Studio",
       "url": "https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Nordland I",
+        "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
+      },
+      "artists": [
+        {
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+        }
+      ],
+      "duration_ms": 334973,
+      "name": "Ring of Gold",
+      "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
+        "name": "Pure Holocaust",
+        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Unsilent Storms In The North Abyss",
+      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
         "name": "Bergtatt",
         "url": "https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "Under the Sign of the Black Mark",
-        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Call from the Grave",
-      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Pure Holocaust",
-        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Unsilent Storms In The North Abyss",
-      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "Existence Is Futile",
         "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
       },
@@ -679,6 +663,38 @@
       "duration_ms": 274093,
       "name": "How Many Tears to Nurture a Rose?",
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Under the Sign of the Black Mark",
+        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
+      },
+      "artists": [
+        {
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Call from the Grave",
+      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "At The Heart Of Winter",
+        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 509640,
+      "name": "Withstand The Fall Of Time",
+      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -783,38 +799,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Morbid Tales (Expanded Version)",
-        "url": "https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH"
-      },
-      "artists": [
-        {
-          "name": "Celtic Frost",
-          "url": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Into the Crypts of Rays",
-      "url": "https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "At The Heart Of Winter",
-        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 509640,
-      "name": "Withstand The Fall Of Time",
-      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "Cruelty & The Beast",
         "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
       },
@@ -831,6 +815,38 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
+        "name": "Damned In Black",
+        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 411400,
+      "name": "Damned In Black",
+      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Morbid Tales (Expanded Version)",
+        "url": "https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH"
+      },
+      "artists": [
+        {
+          "name": "Celtic Frost",
+          "url": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Into the Crypts of Rays",
+      "url": "https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
         "name": "Under A Funeral Moon",
         "url": "https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj"
       },
@@ -843,6 +859,22 @@
       "duration_ms": 306880,
       "name": "Under a Funeral Moon - Studio",
       "url": "https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Anthems To The Welkin At Dusk",
+        "url": "https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M"
+      },
+      "artists": [
+        {
+          "name": "Emperor",
+          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+        }
+      ],
+      "duration_ms": 314906,
+      "name": "Ye Entrancemperium",
+      "url": "https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -879,18 +911,18 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Anthems To The Welkin At Dusk",
-        "url": "https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M"
+        "name": "Battles in the North",
+        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
       },
       "artists": [
         {
-          "name": "Emperor",
-          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
         }
       ],
-      "duration_ms": 314906,
-      "name": "Ye Entrancemperium",
-      "url": "https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE"
+      "duration_ms": 274586,
+      "name": "Blashyrkh - Mighty Ravendark",
+      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -907,22 +939,6 @@
       "duration_ms": 409840,
       "name": "Winter Bane",
       "url": "https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "Battles in the North",
-        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Blashyrkh - Mighty Ravendark",
-      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 294610,
       "name": "Angels Hung from the Arches of Heaven",
       "url": "https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "Damned In Black",
-        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 411400,
-      "name": "Damned In Black",
-      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Kiss The Goat",
-        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
-      },
-      "artists": [
-        {
-          "name": "Lord Belial",
-          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Satan Divine",
-      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "Apocalyptic Raids",
         "url": "https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU"
       },
@@ -1455,34 +1439,18 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Acts Of God",
-        "url": "https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp"
+        "name": "Kiss The Goat",
+        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
       },
       "artists": [
         {
-          "name": "Immolation",
-          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
+          "name": "Lord Belial",
+          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
         }
       ],
-      "duration_ms": 256553,
-      "name": "Apostle",
-      "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
-        "name": "Sworn to the Dark",
-        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "Satan's Hunger",
-      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
+      "duration_ms": 239133,
+      "name": "Satan Divine",
+      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -1499,6 +1467,22 @@
       "duration_ms": 285000,
       "name": "Night of the Blasphemy",
       "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Sworn to the Dark",
+        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "Satan's Hunger",
+      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
     },
     {
       "added_at": "2023-02-10 04:01:00",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
+        "name": "Acts Of God",
+        "url": "https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp"
+      },
+      "artists": [
+        {
+          "name": "Immolation",
+          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
+        }
+      ],
+      "duration_ms": 256553,
+      "name": "Apostle",
+      "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
         "name": "Noktvrn",
         "url": "https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-10 04:01:00",
       "album": {
-        "name": "Arising Realm",
-        "url": "https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX"
-      },
-      "artists": [
-        {
-          "name": "Ragnarok",
-          "url": "https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq"
-        }
-      ],
-      "duration_ms": 258690,
-      "name": "God Is Wasted",
-      "url": "https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh"
-    },
-    {
-      "added_at": "2023-02-10 04:01:00",
-      "album": {
         "name": "Emperor / Wrath Of The Tyrant",
         "url": "https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 382293,
       "name": "Cosmic Keys To My Creations",
       "url": "https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH"
+    },
+    {
+      "added_at": "2023-02-10 04:01:00",
+      "album": {
+        "name": "Arising Realm",
+        "url": "https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX"
+      },
+      "artists": [
+        {
+          "name": "Ragnarok",
+          "url": "https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq"
+        }
+      ],
+      "duration_ms": 258690,
+      "name": "God Is Wasted",
+      "url": "https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh"
     },
     {
       "added_at": "2023-02-10 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,256 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,275 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 17 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 18 | [Radioactive \- Acoustic Version](https://open.spotify.com/track/3gpLCZcf7RTqvgQKZCEpOT) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Radioactive \(Acoustic Version\)](https://open.spotify.com/album/6bRyQvILVlQcFuqI9DDjUN) | 3:13 |
 | 19 | [Sorry](https://open.spotify.com/track/36eJpXzNjDktQDqr88mtQ3) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Sorry](https://open.spotify.com/album/38CdD0Vt4B0gVCAYcGv5gX) | 3:12 |
-| 20 | [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 |
+| 20 | [Let Her Go](https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:52 |
 | 21 | [Always On My Mind](https://open.spotify.com/track/036pGlJwc9ZVFJNLmniSbF) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:15 |
 | 22 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 |
 | 23 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 |
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/3QRoTJ1vIlh3e5Ze8kph1b) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/4s93zlqCp8gzg7znyuB933), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2SW2MjxjlpLRba9xJJD3ni) | 2:56 |
 | 41 | [Use Somebody](https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 3:24 |
 | 42 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 |
-| 43 | [A Thousand Years](https://open.spotify.com/track/3RQ5iyYQCmNPoUUQNYpHae) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 3:41 |
+| 43 | [A Thousand Years](https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:41 |
 | 44 | [Best Thing I Never Had](https://open.spotify.com/track/0aH8rQRwqcy3NBEIx79orQ) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Best Thing I Never Had](https://open.spotify.com/album/3S2aWcQsvuwdgockqAjmkd) | 3:03 |
 | 45 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 |
 | 46 | [Happy \(Acoustic\)](https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [UnCovered](https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D) | 2:36 |
 | 47 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
 | 48 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 49 | [I Should've Known Better](https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [This Side](https://open.spotify.com/album/22nQdZSid64plYdy5zRHew) | 4:27 |
-| 50 | [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 |
+| 50 | [Yellow](https://open.spotify.com/track/2wrRcjk6zBa1IcZWOwBAxy) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/5d5Ekx6AcVFzC2lJyVQCbH) | 4:14 |
 | 51 | [When We Were Young](https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/73srYNTUXbpxSTlDwzfV5Q) | 4:34 |
 | 52 | [One Republic Mash\-Up](https://open.spotify.com/track/0Qn7h2I9Fajtj7lgvkho8y) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Covers Part III](https://open.spotify.com/album/0I5Ex3qsCsSPEZ1wlgVsE7) | 2:37 |
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MTYwMjg3MDYxNSwwMDAwMDAwMGNjNmNhZTg1ZTM3OWRkMzUzOWVjN2FlMThmMzc5NWFi`
+Snapshot ID: `MTYwMjg3MDYxNSwwMDAwMDAwMDM0NDczYzhkMmE1OGE3ZDcyNjk0NTEwN2U1YzQxZjU5`

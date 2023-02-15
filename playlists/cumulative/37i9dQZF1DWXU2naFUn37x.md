@@ -4,13 +4,13 @@
 
 > La casa dello street rap italiano\. Cover: Paky
 
-220 songs - 10 hr 16 min
+221 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/album/7jMQtpxqAVNMyVHsel5OZq) | 2:21 | 2022-05-11 | 2022-05-27 |
 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 | 2022-05-26 | 2022-06-24 |
-| [2 Minuti](https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [2 Minuti](https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF) | 2:30 | 2023-01-19 |  |
+| [2 Minuti](https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [2 Minuti](https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF) | 2:30 | 2023-01-19 | 2023-02-15 |
 | [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 | 2023-01-27 |
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-11 | 2022-09-09 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-08-13 |
@@ -107,6 +107,7 @@
 | [Hobby](https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Hobby](https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP) | 2:02 | 2023-01-26 |  |
 | [HOUMA](https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [HOUMA](https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3) | 2:44 | 2022-05-26 | 2022-06-17 |
 | [Hustle](https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:36 | 2022-06-02 | 2022-12-02 |
+| [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Il Doc 3](https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk) | 3:31 | 2023-02-14 |  |
 | [Il Ferro di Čechov](https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 3:11 | 2022-11-17 | 2022-12-24 |
 | [Impliqué](https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Impliqué](https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC) | 2:28 | 2022-12-15 |  |
 | [Incelofanata](https://open.spotify.com/track/4BTsPU8475oogvce7JnbN7) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 1:53 | 2023-01-26 |  |

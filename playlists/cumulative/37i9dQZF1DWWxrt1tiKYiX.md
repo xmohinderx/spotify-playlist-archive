@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-145 songs - 8 hr 5 min
+146 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [I Do \- Acoustic](https://open.spotify.com/track/5pjzipvnlBtoDZ3UrH7WzP) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Acoustic chill 2020](https://open.spotify.com/album/46hH4VHo5r4juSC3POdSTm) | 2:36 | 2022-10-14 | 2022-11-13 |
 | [I Do \- Acoustic](https://open.spotify.com/track/65kVMNO2Q0RGw8zEnXA2E3) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [I Do \(Acoustic\)](https://open.spotify.com/album/0wkXv1imF91qYQeBzXhkAA) | 2:36 | 2022-01-28 | 2022-07-29 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/3EXg4D2T5PY1NBP2aiBWrf) | 3:06 | 2022-01-28 | 2022-07-29 |
-| [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 |  |
+| [i don't wanna know \- acoustic](https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG) | 3:06 | 2022-12-09 |  |
+| [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 | 2023-02-15 |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 | 2022-12-03 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:07 | 2022-07-15 | 2022-11-17 |

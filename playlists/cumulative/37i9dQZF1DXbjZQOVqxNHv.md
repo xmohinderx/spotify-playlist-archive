@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-521 songs - 2 day 1 hr 0 min
+522 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [7\. 8.](https://open.spotify.com/track/0WDpaAaA00mtAgAqdy0oLY) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Temple of Transparent Balls](https://open.spotify.com/album/3CLcbsO6tpY7aR6juM7xGL) | 6:11 | 2022-04-13 | 2022-07-18 |
 | [7:39 \(Original Cassette Demo\)](https://open.spotify.com/track/3ljWp6Bq1jblzaq3o88Dz4) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Transmissions Sampler](https://open.spotify.com/album/37pEDgAKRQQvpd1PYfckdj) | 8:29 | 2022-04-13 | 2023-02-02 |
 | [A Case Of Funk](https://open.spotify.com/track/6U6jFPOOJkx7dt23lPCYeP) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 5:19 | 2022-04-13 | 2023-02-02 |
+| [A Case Of Funk](https://open.spotify.com/track/3IhbaLQTVbsf3Amai4onue) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni) | 5:21 | 2022-04-13 |  |
 | [A Day in a Life](https://open.spotify.com/track/1FTHcqxQ3B3FdTl9id6XlG) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [A Day in a Life](https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye) | 5:35 | 2022-04-13 | 2022-07-29 |
 | [A Journey To Reedham \- 7am Mix](https://open.spotify.com/track/5XslkyGArAf9RQorFIC7M0) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Big Loada](https://open.spotify.com/album/27mYcqBm2VpBorjYaXKshh) | 6:35 | 2022-04-13 | 2023-02-03 |
 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 | 2022-04-13 |  |
@@ -502,7 +503,7 @@
 | [Water From A Vine Leaf](https://open.spotify.com/track/0yVxhYqGFfwGeZRyqUERWx) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 7:04 | 2022-04-13 |  |
 | [Water From A Vine Leaf](https://open.spotify.com/track/2XyXV61Fvo5ytBLvVRgTbX) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo III](https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew) | 7:05 | 2022-04-13 | 2022-07-29 |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2022-04-13 |  |
-| [Weathered Gate](https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Weathered Well](https://open.spotify.com/album/0hEej2KGxKpMeRZfJa7vUv) | 7:30 | 2022-04-13 |  |
+| [Weathered Gate](https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Weathered Well](https://open.spotify.com/album/0hEej2KGxKpMeRZfJa7vUv) | 7:30 | 2022-04-13 | 2023-02-15 |
 | [Welcome To Europe](https://open.spotify.com/track/06IBaBxYWm6l0UF7CR5irf) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Welcome To Europe](https://open.spotify.com/album/4POvGmdCOn1RedjJRHA4tb) | 4:36 | 2022-04-13 | 2022-07-29 |
 | [Wet Tip Hen Ax](https://open.spotify.com/track/0BHE7cwodOlQ8ctYFK8NzO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:17 | 2022-04-13 | 2022-07-28 |
 | [When Face Was Face](https://open.spotify.com/track/0clXhth0BU2STcyntZqmsc) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:05 | 2022-04-13 | 2022-09-19 |

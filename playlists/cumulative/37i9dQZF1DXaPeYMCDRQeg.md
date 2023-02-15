@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-208 songs - 14 hr 0 min
+209 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-03-14 | 2023-02-11 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 | 2022-03-14 | 2022-11-13 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/7ozvuHnA1zWzuTvReLChVL) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 4:09 | 2021-12-15 | 2022-07-29 |
+| [All Mine](https://open.spotify.com/track/1NTkBmlvXj3R4nHNbRvQhI) | [Bahja Rodriguez](https://open.spotify.com/artist/7BmPndqloczpnUH2Xu8G29) | [All Mine](https://open.spotify.com/album/5HfRomFAcnSvhGJEDMFE3J) | 2:49 | 2023-02-14 |  |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2023-02-10 |  |
 | [Already Lost](https://open.spotify.com/track/2q5KwOx7FDpEFhpPPVgnxA) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Already Lost \(Singhara Remix\)](https://open.spotify.com/album/4Dk5hkydLtH8S0p9FiHI5i) | 3:33 | 2023-02-10 |  |
 | [Already There](https://open.spotify.com/track/67MpXN05qxu09WaM98n6RD) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/2Yz7RFQXL1Ug3lkv2OXbgN) | 3:32 | 2021-12-15 | 2022-07-29 |

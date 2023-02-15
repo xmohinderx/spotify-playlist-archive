@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-801 songs - 1 day 21 hr 50 min
+802 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 | 2022-11-11 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 | 2022-07-29 |
 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 | 2022-05-23 | 2022-08-06 |
-| [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2023-02-11 |
+| [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 |  |
 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 | 2022-10-07 |  |
 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 | 2022-07-08 | 2022-12-03 |
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
@@ -168,7 +168,7 @@
 | [Consequences](https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Consequences](https://open.spotify.com/album/11am3mDeSxGDV8rrGpJwVP) | 3:45 | 2022-11-17 | 2022-12-15 |
 | [Contingency Song](https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Contingency Song](https://open.spotify.com/album/2Vlh2FhevwagFT6TICYYmU) | 6:31 | 2022-11-17 | 2023-02-08 |
 | [control](https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [control](https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru) | 2:56 | 2023-01-13 | 2023-01-26 |
-| [Control Theory](https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Control Theory](https://open.spotify.com/album/0pTqApEaeKpZkskygWIXdf) | 1:59 | 2022-12-09 |  |
+| [Control Theory](https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Control Theory](https://open.spotify.com/album/0pTqApEaeKpZkskygWIXdf) | 1:59 | 2022-12-09 | 2023-02-15 |
 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 | 2022-04-15 | 2022-06-11 |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-26 | 2022-08-27 |
 | [Cosmic Gloom](https://open.spotify.com/track/3mdIQJJq43lXYpGcBKWYfU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Cosmic Gloom](https://open.spotify.com/album/1ZijZNiEcbRIzSWhqGtkhq) | 3:30 | 2021-06-02 | 2022-04-18 |
@@ -367,6 +367,7 @@
 | [I Don't Care Anymore](https://open.spotify.com/track/1sCJKCB2D3HDeajRF4e0Pb) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [I Don't Care Anymore](https://open.spotify.com/album/08a5rDtR4l3XVJzuPuLUDn) | 4:50 | 2022-04-29 | 2022-05-10 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-03-05 | 2022-03-27 |
 | [i had a dream that you died](https://open.spotify.com/track/3S7qHSnfJDGjiTsvSMd92e) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [i had a dream that you died](https://open.spotify.com/album/5Sr54ojlK5V66jCFnVCfMM) | 2:18 | 2022-07-22 | 2022-08-06 |
+| [I Hate My Phone](https://open.spotify.com/track/0EKz6IH6AoMseG0MRPPvNZ) | [Austin Weber](https://open.spotify.com/artist/05bnFEwruBiBgJH8uW4vo6) | [I Hate My Phone](https://open.spotify.com/album/6Wa2M8IXr8J0phdOjRgGED) | 3:02 | 2023-01-27 |  |
 | [I hope that u think of me](https://open.spotify.com/track/6z2EwIB2wTLdXJZ6LdYAPm) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope that you think of me](https://open.spotify.com/album/1V4vQajofq6f3vlSQBziJa) | 2:08 | 2021-03-05 | 2022-04-05 |
 | [I Know Why](https://open.spotify.com/track/4Rp7XbUyJJOuVZNUyzCLYZ) | [Tombstones in Their Eyes](https://open.spotify.com/artist/15nZziu6BOdIcHkcZdLQk5) | [A Higher Place](https://open.spotify.com/album/18PS14LfqdWwcg2AB38M8f) | 3:41 | 2022-07-08 | 2022-08-27 |
 | [I Love My Boyfriend](https://open.spotify.com/track/2IIFeudT6BVFwiwydHK4BM) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [The Loneliest Girl](https://open.spotify.com/album/37waqzLFCA6XQtWlODc1Zq) | 4:06 | 2022-03-26 | 2022-04-30 |
@@ -598,7 +599,7 @@
 | [Satan](https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6) | 3:16 | 2022-03-04 | 2022-04-29 |
 | [Say It](https://open.spotify.com/track/30JVtfd4ayV6g4OylyesV5) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Say It](https://open.spotify.com/album/18iJRLRwdzvZAzeb82ApaT) | 3:14 | 2022-01-28 | 2022-04-26 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 |  |
-| [Secrecies \- feat\. Sam Austins](https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Secrecies \(feat\. Sam Austins\)](https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl) | 2:18 | 2023-01-13 |  |
+| [Secrecies \- feat\. Sam Austins](https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Secrecies \(feat\. Sam Austins\)](https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl) | 2:18 | 2023-01-13 | 2023-02-15 |
 | [Separate](https://open.spotify.com/track/7xDXYH1X9IQ7dz3eHfF3n4) | [Animal House](https://open.spotify.com/artist/00w16W0gQFQuBJv6EpxjqK) | [Separate](https://open.spotify.com/album/46yB7lebTWqoQv3tO09JVT) | 5:26 | 2022-12-09 | 2022-12-15 |
 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 | 2022-10-21 | 2023-01-18 |
 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-19 | 2022-11-10 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 161401,
+  "num_followers": 161852,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMDZhMDQ1YWM4ZGFmNGE4ZmVkMTA2ZmJmZjIzYmM3MWU5",
+  "snapshot_id": "MTY3NDgwNDYyOSwwMDAwMDAwMDQ1YzZmMDczZWVhMDdkNDcxNjU1NjJlNjBkZTdiMGE2",
   "tracks": [
     {
       "added_at": "2023-01-20 02:08:11",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
-      "added_at": "2023-02-14 00:41:29",
+      "added_at": "2023-02-15 01:20:13",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 167893,
       "name": "As\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "El Amor De Su Vida",
-      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Pistiando y Cantando",
+        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "El Ahuate",
+      "url": "https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios - Bonus Track",
       "url": "https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Pistiando y Cantando",
-        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "El Ahuate",
-      "url": "https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Homenaje A La M\u00fasica Michoacana",
+        "url": "https://open.spotify.com/album/0WGiwrPUKQ1Wxf3UQbqw9k"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 145444,
+      "name": "La Peda",
+      "url": "https://open.spotify.com/track/07VdDPdVATetvjl5wfhvC3"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "De Lo M\u00e1s Interesante (En Vivo)",
         "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 139000,
       "name": "De Lo M\u00e1s Interesante - En Vivo",
       "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Homenaje A La M\u00fasica Michoacana",
-        "url": "https://open.spotify.com/album/0WGiwrPUKQ1Wxf3UQbqw9k"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 145444,
-      "name": "La Peda",
-      "url": "https://open.spotify.com/track/07VdDPdVATetvjl5wfhvC3"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "El Karma",
-        "url": "https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 214276,
       "name": "Desde Hoy",
       "url": "https://open.spotify.com/track/2oJCZJAyJgW6tfPTER8nYJ"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "El Karma",
+        "url": "https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 158746,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/44kCjKg7BV3AnqF2brVIME"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "En Contra De Mi Voluntad",
         "url": "https://open.spotify.com/album/2aN7waichOQyWVoEECWerE"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 203746,
       "name": "Mi Primer Derrota",
       "url": "https://open.spotify.com/track/4Ld21k19Z6tMuwRcKGM4Sd"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 158746,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/44kCjKg7BV3AnqF2brVIME"
     },
     {
       "added_at": "2023-01-20 02:08:11",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-965 songs - 2 day 2 hr 43 min
+966 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Home for Christmas](https://open.spotify.com/track/3E0fq2gqsNbQo5paAuEcmc) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Home for Christmas](https://open.spotify.com/album/7H5YWCG8buEmoYUF2uDl6H) | 3:52 | 2021-11-23 | 2022-12-31 |
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-30 | 2022-12-28 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-30 | 2022-05-07 |
-| [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-01-10 |  |
+| [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-01-10 | 2023-02-15 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/6Kvo2pdl5JPTvYKgaq5lYm) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly Hopeless](https://open.spotify.com/album/6IcKjirOFkykNCjo6O7wD9) | 3:24 | 2022-01-29 | 2022-03-13 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/7esGcqsNB1vSVAeVDfOW1c) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hopelessly Hopeless](https://open.spotify.com/album/47IT3hOIZeu74pmfsNDaJH) | 3:15 | 2023-01-21 |  |
 | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/track/4rU71m6Drus4eG3S4AQu3e) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/album/55OiMlnjge6GQzNwWsBNrR) | 2:23 | 2022-04-10 | 2022-08-09 |
@@ -704,6 +704,7 @@
 | [Pinne for landet](https://open.spotify.com/track/0jefzmTNGgqmxVgMbNWdOa) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/1ekZkKGOkHcbZY9aHr5Xsj) | 3:17 | 2022-04-16 | 2022-04-20 |
 | [Pinne for landet](https://open.spotify.com/track/0oXVouNs5TbKXbeZfgkpzi) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Pinne for landet](https://open.spotify.com/album/6mxmtvGf8ED28YVNMo8xY7) | 2:59 | 2023-01-09 | 2023-01-29 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
+| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-14 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-03 | 2022-12-11 |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-04-11 | 2021-05-21 |
 | [popstjerner](https://open.spotify.com/track/5aaz7Q04d09DQ3GXyabxqw) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SÅ KLART DET GJØR VONDT](https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj) | 2:54 | 2022-10-01 | 2022-10-03 |

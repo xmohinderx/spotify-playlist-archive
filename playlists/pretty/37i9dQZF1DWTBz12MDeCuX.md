@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,469 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,896 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 7 | [NAPOLEON](https://open.spotify.com/track/49EO0VHHts92I0ZRrbLCKF) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [NAPOLEON](https://open.spotify.com/album/7Ikc5Wa5WJR8durhYokDsg) | 2:23 |
 | 8 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 9 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
-| 10 | [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 |
+| 10 | [Love \- Remix](https://open.spotify.com/track/3ftLcyt5pQA4Z3paDbI6wB) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [Love \- Remix](https://open.spotify.com/album/4YO6PeUBpVc9pI8d68q21r) | 3:02 |
 | 11 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
 | 12 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 | 13 | [Unsere Stadt](https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Unsere Stadt](https://open.spotify.com/album/2swQqkbjqMKNi0LyEm1ZS6) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [Baby Blizzard \- Babycor3 Version](https://open.spotify.com/track/0UGh6ZoRrcNsAHMzdBH7Ix) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard \(Babycor3 Version\)](https://open.spotify.com/album/01ptxLzi6VNqLBUUuBdH1O) | 1:53 |
 
-Snapshot ID: `MTY3NjI3OTk0OCwwMDAwMDAwMDZjY2FkNTliNmUzYmZjNDkyMzgxYTAyMzk2Njg2ZjA2`
+Snapshot ID: `MTY3NjI3OTk0OCwwMDAwMDAwMDU1ZGQwZDM3YTc5OThmYzI5NzNjNzIzODVmOTA0NDkz`

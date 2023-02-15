@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Go Mental",
       "url": "https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j"
@@ -860,6 +860,36 @@
       "duration_ms": 142400,
       "name": "Human Error",
       "url": "https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP"
+    },
+    {
+      "album": {
+        "name": "I Like Bass",
+        "url": "https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269049,
+      "name": "I Like Bass",
+      "url": "https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN"
     },
     {
       "album": {
@@ -1260,7 +1290,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 190451,
       "name": "Out Of My Mind - Firelite Remix",
       "url": "https://open.spotify.com/track/3JHovHnnsfABjDje2COLe9"
@@ -1630,7 +1660,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 272594,
       "name": "The Limelight",
       "url": "https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY"
@@ -1907,6 +1937,32 @@
     },
     {
       "album": {
+        "name": "Unsung Heroes",
+        "url": "https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Unsung Heroes",
+      "url": "https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ"
+    },
+    {
+      "album": {
         "name": "Until the Day I Die",
         "url": "https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV"
       },
@@ -1970,7 +2026,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 171742,
       "name": "WE AIN'T THE SAME",
       "url": "https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE"

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Mauro Henrique",
-  "num_followers": 112890,
+  "num_followers": 112918,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGEwYjBjYzNlYmQ4Y2EzODdhNzIxZWZiZGQ4MDhkMTlj",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDM0Yzc0NGVjY2I0M2IwMDViZDgwNTQ3YmViYjIwMzE2",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Glorificar Cristo, Edificar a Igreja",
+        "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
+      },
+      "artists": [
+        {
+          "name": "Projeto Sola",
+          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
+        }
+      ],
+      "duration_ms": 324617,
+      "name": "Glorificar",
+      "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 562285,
       "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Glorificar Cristo, Edificar a Igreja",
-        "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
-      },
-      "artists": [
-        {
-          "name": "Projeto Sola",
-          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
-        }
-      ],
-      "duration_ms": 324617,
-      "name": "Glorificar",
-      "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
       "artists": [
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-01-20 03:00:00",

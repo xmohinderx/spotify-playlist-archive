@@ -1,15 +1,95 @@
 {
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: LizNoir",
-  "num_followers": 19589,
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u7dd2\u65b9\u6075\u7f8e (Megumi Ogata)",
+  "num_followers": 19633,
   "original_name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NjE1NywwMDAwMDAwMGI3MzA1Nzk3NTU0OThkOWM1ZDllM2M3OWJiY2VkZjUx",
+  "snapshot_id": "MTY3NjM4NjgwMCwwMDAwMDAwMDdjNDc3NWRjNmJmNjA2ZWM5ZDk5ZjFlZDg4OTJlYmJj",
   "tracks": [
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u30b0\u300230th",
+        "url": "https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs"
+      },
+      "artists": [
+        {
+          "name": "\u7dd2\u65b9\u6075\u7f8e",
+          "url": "https://open.spotify.com/artist/3iWEXjM1gU5lpPuRYgpNwt"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u5fae\u7b11\u307f\u306e\u7206\u5f3e",
+      "url": "https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "Adore me",
+        "url": "https://open.spotify.com/album/2hWqJDQNpjwUgJaIAPoJbn"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5d0e\u30a8\u30ea\u30a4",
+          "url": "https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Adore me",
+      "url": "https://open.spotify.com/track/7BZOrVN1JyV5uNbQicYHK6"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "TV Animation \"Sugar Apple Fairy Tale\" Opening Theme Song \"Musical\"",
+        "url": "https://open.spotify.com/album/5jpCso9ad465aE5oXKYg3s"
+      },
+      "artists": [
+        {
+          "name": "Minori Suzuki",
+          "url": "https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Musical",
+      "url": "https://open.spotify.com/track/5nkNdlVIIs9Agg4nzZSuwR"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "Kanaeru",
+        "url": "https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn"
+      },
+      "artists": [
+        {
+          "name": "\u8af8\u661f\u3059\u307f\u308c",
+          "url": "https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Kanaeru",
+      "url": "https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "Accept Me",
+        "url": "https://open.spotify.com/album/01mwZNYSgocU74KTUP6ggB"
+      },
+      "artists": [
+        {
+          "name": "miru",
+          "url": "https://open.spotify.com/artist/2kwk4UlOqGO3R6Jw2Gy89A"
+        }
+      ],
+      "duration_ms": 257228,
+      "name": "Walk my own line",
+      "url": "https://open.spotify.com/track/39DTwVwjK8VbYiMmvITpq8"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Blue sky summer",
         "url": "https://open.spotify.com/album/2C0beHgSym70jHddwmAdIW"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/6nLJ5Klq7CopWGPwSSIwlM"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "MAI CREATE",
         "url": "https://open.spotify.com/album/7mUcmA9APA1846FlUU2Saz"
@@ -41,7 +121,7 @@
       "url": "https://open.spotify.com/track/2OjXVTkhLlWFX0crP4rv9m"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Fantastic Future - From CrosSing",
         "url": "https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5"
@@ -57,7 +137,7 @@
       "url": "https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u50d5\u3089\u306f\u30b8\u30fc\u30cb\u30a2\u30b9",
         "url": "https://open.spotify.com/album/2UdDEwy5BGWdCkZb1WLwwk"
@@ -73,7 +153,7 @@
       "url": "https://open.spotify.com/track/0AQ3THxWg1FlDZkVZqXrzn"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "flower",
         "url": "https://open.spotify.com/album/36HyrkBpXHLFLWUkErDT1L"
@@ -89,7 +169,7 @@
       "url": "https://open.spotify.com/track/7F2ElpBUHRNJdVsPGFUfer"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Happy-go-Journey",
         "url": "https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN"
@@ -105,7 +185,7 @@
       "url": "https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Invincible Love",
         "url": "https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W"
@@ -121,7 +201,7 @@
       "url": "https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "fruitful spring",
         "url": "https://open.spotify.com/album/4pXEaekMG4wN2fVw5Sr3l2"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/1Jo233eMpitC6mjiWOjf6t"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "sugar",
         "url": "https://open.spotify.com/album/2ZE4s8OFq6hrU2rBgn9nxs"
@@ -169,7 +249,7 @@
       "url": "https://open.spotify.com/track/2675zqM1O6irmmtUWamczG"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Key to My Heart",
         "url": "https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM"
@@ -185,7 +265,7 @@
       "url": "https://open.spotify.com/track/1NmvymljWwjFk64R6N24So"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u795e\u69d8\u3060\u3063\u3066\u6c7a\u3081\u3089\u308c\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/3MTBwqAJsTMUGmH23PtEyB"
@@ -201,7 +281,7 @@
       "url": "https://open.spotify.com/track/1X1ifUFJiBuK9r6VfqzoVd"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u30c9\u30e9\u30e0\u5f0f\u63a2\u67fb\u6a5f",
         "url": "https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs"
@@ -217,7 +297,7 @@
       "url": "https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Not as Dramatic As...",
         "url": "https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR"
@@ -233,7 +313,7 @@
       "url": "https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Kasuka de Tashika",
         "url": "https://open.spotify.com/album/3KAKSIP686ycCtJEVLdTGs"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/6Bx2R4IgTs5BUoFblQGSE7"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
@@ -265,7 +345,7 @@
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Shiko",
         "url": "https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Ashita no Katachi",
         "url": "https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Toward the shining coin",
         "url": "https://open.spotify.com/album/4IBmwnClSwCNGQYtGHOS01"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/1VIaJmFwKP4ds1lmrEjXdh"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Loud Hailer",
         "url": "https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "LOVE CRAZY",
         "url": "https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "New Drama Paradise",
         "url": "https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Glorious World",
         "url": "https://open.spotify.com/album/3kc1IWeGVtouG2Ed0ri8Up"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/4WubGHh5wpK1781749ZRvu"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "FROZEN MIDNIGHT",
         "url": "https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Meitei (Special Ver.)",
         "url": "https://open.spotify.com/album/6rI4zRU8isqVVCETurwbNl"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "My Tale",
         "url": "https://open.spotify.com/album/4CtOKxZsZXOWBHbJjnLoWT"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/6wWKDglEzL9JfiTnJmOSeo"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "appside",
         "url": "https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa"
@@ -441,7 +521,7 @@
       "url": "https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Love\u221eVision",
         "url": "https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX"
@@ -457,7 +537,7 @@
       "url": "https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u96c6\u7d50\u306e\u679c\u3066\u306b",
         "url": "https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa"
@@ -473,7 +553,7 @@
       "url": "https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u9670/\u967d",
         "url": "https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3"
@@ -489,7 +569,7 @@
       "url": "https://open.spotify.com/track/0YRch7aOaE6Q3lE9mQozZZ"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u30b5\u30b5\u30af\u30ec",
         "url": "https://open.spotify.com/album/1mGfeVdYbYLNGlRUB6hi1f"
@@ -505,7 +585,7 @@
       "url": "https://open.spotify.com/track/004Q7TsEI92sZ2r5iEiZGt"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "more<STRONGLY",
         "url": "https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao"
@@ -521,7 +601,7 @@
       "url": "https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
         "url": "https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq"
@@ -537,7 +617,7 @@
       "url": "https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u30b7\u30e5\u30ac\u30fc\u30fb\u30b7\u30e5\u30ac\u30fc\u30fb\u30b9\u30d1\u30a4\u30b9",
         "url": "https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO"
@@ -553,7 +633,7 @@
       "url": "https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "NO CONCEPT",
         "url": "https://open.spotify.com/album/0lijekjn4uTYjgA86q7z8p"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/59RdrGoDM2L9eWjI2PcCpw"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Jewel",
         "url": "https://open.spotify.com/album/28gvT9yWbfSljtWqXzf469"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/5g5EmGmq6cYSuJan0gIlXE"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "WINNER",
         "url": "https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp"
@@ -601,7 +681,7 @@
       "url": "https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Anata to Watashi wo Tsunagumono",
         "url": "https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph"
@@ -617,7 +697,7 @@
       "url": "https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "LOVE&MOON",
         "url": "https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf"
@@ -633,7 +713,7 @@
       "url": "https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Atrium",
         "url": "https://open.spotify.com/album/6YHWqToIXhOKMGVqCZO0Eh"
@@ -649,7 +729,7 @@
       "url": "https://open.spotify.com/track/7uzF5J8bX6g548Grw5IDGg"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "OPENING THEME FROM TV SERIES \u201dBIBLIOPHILE PRINCESS\u201d",
         "url": "https://open.spotify.com/album/2qGFHbqCOWEZt5cs4IgiPv"
@@ -665,7 +745,7 @@
       "url": "https://open.spotify.com/track/2leYGEirFsGtl6fuQwXVXT"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "VISIONS (feat. \u5bfa\u5cf6\u62d3\u7be4)",
         "url": "https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY"
@@ -685,7 +765,7 @@
       "url": "https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "\u306f\u3058\u307e\u308b\u30a6\u30a7\u30eb\u30ab\u30e0",
         "url": "https://open.spotify.com/album/0y90vkehxEb8od71BXqX4h"
@@ -701,7 +781,7 @@
       "url": "https://open.spotify.com/track/1tIr5G5H8l4h2jUTCDZio5"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Sounds of Love",
         "url": "https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq"
@@ -717,7 +797,7 @@
       "url": "https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN"
     },
     {
-      "added_at": "2023-02-03 03:49:17",
+      "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Kyokansarenakutemoiijanai",
         "url": "https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p"
@@ -731,86 +811,6 @@
       "duration_ms": 233017,
       "name": "Kyokansarenakutemoiijanai",
       "url": "https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw"
-    },
-    {
-      "added_at": "2023-02-03 03:49:17",
-      "album": {
-        "name": "\u30a8\u30af\u30ea\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/6rGaUpBPHfsQlvLYSpwpYG"
-      },
-      "artists": [
-        {
-          "name": "NACHERRY",
-          "url": "https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y"
-        }
-      ],
-      "duration_ms": 203433,
-      "name": "\u30a8\u30af\u30ea\u30d7\u30b9",
-      "url": "https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx"
-    },
-    {
-      "added_at": "2023-02-03 03:49:17",
-      "album": {
-        "name": "Kodokunagunshyuu",
-        "url": "https://open.spotify.com/album/0Llu5DAYhTsWr43Hvhwaup"
-      },
-      "artists": [
-        {
-          "name": "Takehito Koyasu",
-          "url": "https://open.spotify.com/artist/6LrHNyRFO2meXtX0WhXkBM"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Kodokunagunshyuu",
-      "url": "https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz"
-    },
-    {
-      "added_at": "2023-02-03 03:49:17",
-      "album": {
-        "name": "\u5728\u308a\u3057\u65e5",
-        "url": "https://open.spotify.com/album/0Asi1rjLIiuCqhw1SuMNpK"
-      },
-      "artists": [
-        {
-          "name": "Earphones",
-          "url": "https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p"
-        }
-      ],
-      "duration_ms": 309791,
-      "name": "\u5728\u308a\u3057\u65e5",
-      "url": "https://open.spotify.com/track/5NnSYrQ6Co0Zs8EzjKcpib"
-    },
-    {
-      "added_at": "2023-02-03 03:49:17",
-      "album": {
-        "name": "Someday is Today",
-        "url": "https://open.spotify.com/album/7vQS8O03Zs6FhViFKG9rq1"
-      },
-      "artists": [
-        {
-          "name": "\u9ad9\u6a4b \u30df\u30ca\u30df",
-          "url": "https://open.spotify.com/artist/4MkBd1szO83sKICDexbrRx"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Someday is Today",
-      "url": "https://open.spotify.com/track/6EWkOjcPts0EqPXWKuEteW"
-    },
-    {
-      "added_at": "2023-02-03 03:49:17",
-      "album": {
-        "name": "11-Eleven-",
-        "url": "https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8"
-      },
-      "artists": [
-        {
-          "name": "Shirai Yusuke",
-          "url": "https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Youthful Graffiti",
-      "url": "https://open.spotify.com/track/2m1LtT7aAmHs1MxzmQLStx"
     }
   ],
   "unique_name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",

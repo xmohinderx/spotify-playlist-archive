@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Welisson
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,662 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,675 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 25 | [Jet](https://open.spotify.com/track/3a4UKC6g1unfjkzj8apo5r) | [Xandrê](https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Jet](https://open.spotify.com/album/49xDVwPvwt4cqd7a5ugVrn) | 2:18 |
 | 26 | [Atlas](https://open.spotify.com/track/3YsdZggiGGgqyHlzG39QOu) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf) | [Atlas](https://open.spotify.com/album/5iieLwrwbzjobOhhhc4Jey) | 3:17 |
 | 27 | [Solteira](https://open.spotify.com/track/0awcm7cDTbDQ2Az8KWshUu) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti), [WENDELHIT](https://open.spotify.com/artist/48T7hXvFu12hXxvbdhPSnw), [Capellary](https://open.spotify.com/artist/2Gv5fOKrK4BnAhVZu4FfFN) | [Solteira](https://open.spotify.com/album/65CXCusK5d01o2exmiXprm) | 3:22 |
-| 28 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 |
+| 28 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki), [SymCamp](https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 |
 | 29 | [Coração Vazio](https://open.spotify.com/track/5bzPLOmAJgn3rPizh2G5Ug) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [LIPE DIIAS](https://open.spotify.com/artist/5ZP5AjyyoxnUHkehbCz9Wj) | [Coração Vazio](https://open.spotify.com/album/6Th3EYNkzHEkGzzxhlVkHd) | 2:13 |
 | 30 | [Amo\(r\) Frontal](https://open.spotify.com/track/5hD0juwLCRiE4MmC4Nlvig) | [jonV](https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E) | [Amo\(r\) Frontal](https://open.spotify.com/album/4LlkREGWuz9sZ4Qitbs0yG) | 2:19 |
 | 31 | [Plug Mais Triste do Mundo](https://open.spotify.com/track/0rzcH8Io9TpUiSuMJhRzJT) | [Slime France](https://open.spotify.com/artist/0nK1mGGnGT9Wu0oQMFhypK), [Dujazz](https://open.spotify.com/artist/0RclCtbyB3MrnPJzTwuZ5X), [Wissz](https://open.spotify.com/artist/7jIftxM758J3nD3Q24ZCrh), [ogkayan](https://open.spotify.com/artist/3x74426rgRTlcru6b0hm3J), [ZIN420SHAWTY](https://open.spotify.com/artist/5P15FiV8xrhpiDFfB3nsDl) | [Plug Mais Triste do Mundo](https://open.spotify.com/album/4wOG0HXBl5FPJT2z31axL6) | 3:17 |

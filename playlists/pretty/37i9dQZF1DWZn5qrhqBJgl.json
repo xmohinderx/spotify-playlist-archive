@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 89865,
+  "num_followers": 89952,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMDdjMzNjMDA5YTcwNmM3NjlmMTJmMWQyNTgxNDhjYWZi",
+  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMGQ3M2YxMDQxMTkxMjk1ZjU3YWVhOGQ1YWJlMzU2Mjhm",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Birdie_",
-        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Birdie_ - Instrumental",
-      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 129098,
       "name": "Spectra",
       "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Birdie_",
+        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Birdie_ - Instrumental",
+      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Palms",
-        "url": "https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45"
-      },
-      "artists": [
-        {
-          "name": "JordanXL",
-          "url": "https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq"
-        }
-      ],
-      "duration_ms": 152213,
-      "name": "Palms",
-      "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Draai Je Om",
         "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
       },
@@ -587,6 +571,38 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45"
+      },
+      "artists": [
+        {
+          "name": "JordanXL",
+          "url": "https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+      },
+      "artists": [
+        {
+          "name": "ElNasser",
+          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Act Upon",
         "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 131000,
       "name": "Peepers",
       "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
-      },
-      "artists": [
-        {
-          "name": "ElNasser",
-          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "SMOK",
-        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
       "artists": [
         {
-          "name": "Sinan \u00d6ktem",
-          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
         }
       ],
-      "duration_ms": 160793,
-      "name": "SMOK",
-      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -699,6 +683,22 @@
       "duration_ms": 166885,
       "name": "Rahat - Instrumental",
       "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "SMOK",
+        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
+      },
+      "artists": [
+        {
+          "name": "Sinan \u00d6ktem",
+          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
+        }
+      ],
+      "duration_ms": 160793,
+      "name": "SMOK",
+      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Sadkid",
-        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
-      },
-      "artists": [
-        {
-          "name": "Samtozi",
-          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Sadkid",
-      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "If You Show Me Love",
         "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 90044,
       "name": "If You Show Me Love",
       "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Sadkid",
+        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
+      },
+      "artists": [
+        {
+          "name": "Samtozi",
+          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Sadkid",
+      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Emot",
         "url": "https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 174315,
       "name": "Coco - Instrumental",
       "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",

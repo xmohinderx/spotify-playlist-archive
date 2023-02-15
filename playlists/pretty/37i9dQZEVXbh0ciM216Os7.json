@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5MzM0MjAsMDAwMDAwMDA5ZTY3YWY1OWY5MTg5MjJhMWNiYjcxYTA5NGM3NWQ4NA==",
+  "snapshot_id": "Mjc5MzM0MjAsMDAwMDAwMDBkYTA3OWY2Mzk5NjMxZGJlOTBmYzQxNDI3MjZlMjkwYg==",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -87,6 +87,46 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "A World Without Love",
+        "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Eva Mikhailovna",
+          "url": "https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F"
+        },
+        {
+          "name": "Eva and the Vagabond Tales",
+          "url": "https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8"
+        }
+      ],
+      "duration_ms": 227846,
+      "name": "A World Without Love",
+      "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 241311,
+      "name": "Dead World",
+      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "GRRR Live!",
         "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
       },
@@ -103,6 +143,22 @@
       "duration_ms": 293720,
       "name": "Tumbling Dice - Live",
       "url": "https://open.spotify.com/track/4mn5riACKGOZbADntB95wE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "The Muffin Man (Metal Version)",
+        "url": "https://open.spotify.com/album/2mvUfnVH97YRGRMTOf2WsI"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 179418,
+      "name": "The Muffin Man (Metal Version)",
+      "url": "https://open.spotify.com/track/4uG5WQGWXWKLC7QY7K8uGk"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -127,62 +183,6 @@
       "duration_ms": 273274,
       "name": "In This World - Resound NYC Version",
       "url": "https://open.spotify.com/track/5pSMxWIyMrXeGA4YoTSzdH"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Dead World",
-        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 241311,
-      "name": "Dead World",
-      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "The Muffin Man (Metal Version)",
-        "url": "https://open.spotify.com/album/2mvUfnVH97YRGRMTOf2WsI"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 179418,
-      "name": "The Muffin Man (Metal Version)",
-      "url": "https://open.spotify.com/track/4uG5WQGWXWKLC7QY7K8uGk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "A World Without Love",
-        "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Eva Mikhailovna",
-          "url": "https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F"
-        },
-        {
-          "name": "Eva and the Vagabond Tales",
-          "url": "https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8"
-        }
-      ],
-      "duration_ms": 227846,
-      "name": "A World Without Love",
-      "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -459,46 +459,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "the ordinary is ordinary because it ordinarily repeats",
-        "url": "https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 377999,
-      "name": "the ordinary is ordinary because it ordinarily repeats",
-      "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Stratus Fear",
         "url": "https://open.spotify.com/album/6OePwglJkYNFzdb2j9BVAJ"
       },
@@ -515,22 +475,6 @@
       "duration_ms": 158123,
       "name": "Stratus Fear",
       "url": "https://open.spotify.com/track/4B0yHjBY3tvb7nWCJKU4Oa"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "The Gorge '98",
-        "url": "https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 593404,
-      "name": "Tube - Live",
-      "url": "https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -555,6 +499,62 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "the ordinary is ordinary because it ordinarily repeats",
+        "url": "https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 377999,
+      "name": "the ordinary is ordinary because it ordinarily repeats",
+      "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "The Gorge '98",
+        "url": "https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 593404,
+      "name": "Tube - Live",
+      "url": "https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "To What End",
         "url": "https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm"
       },
@@ -562,11 +562,23 @@
         {
           "name": "Oddisee",
           "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        },
+        {
+          "name": "BeMyFiasco",
+          "url": "https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
         }
       ],
-      "duration_ms": 187494,
-      "name": "Many Hats",
-      "url": "https://open.spotify.com/track/6pe89GWj5gnG3nPEhAxiti"
+      "duration_ms": 222240,
+      "name": "Choices (feat. Phonte, Bemyfiasco & Kay Young)",
+      "url": "https://open.spotify.com/track/4i7ZLAOwsZwR3cBweCe7R6"
     },
     {
       "added_at": "2023-02-10 05:00:00",

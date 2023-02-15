@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Amalgam",
+        "url": "https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k"
+      },
+      "artists": [
+        {
+          "name": "Maru Gomes",
+          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "Amalgam",
+      "url": "https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP"
+    },
+    {
+      "album": {
         "name": "Amaprinces Bend",
         "url": "https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR"
       },
@@ -1997,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185512,
+      "name": "Heugstatt",
+      "url": "https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa"
+    },
+    {
+      "album": {
         "name": "Bathtub Chill",
         "url": "https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ"
       },
@@ -2768,6 +2804,42 @@
       "duration_ms": 146500,
       "name": "Leaf To Leaf",
       "url": "https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B"
+    },
+    {
+      "album": {
+        "name": "Lenore",
+        "url": "https://open.spotify.com/album/2MWwckYbwVNNIjhnF5GTGw"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158432,
+      "name": "Lenore",
+      "url": "https://open.spotify.com/track/2DXTpqaCHn4PmcyLyWTSXY"
+    },
+    {
+      "album": {
+        "name": "Les yeux",
+        "url": "https://open.spotify.com/album/7nb8BHc3PIAZxK6hRlzR3i"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pavoni",
+          "url": "https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137242,
+      "name": "Les yeux",
+      "url": "https://open.spotify.com/track/3Hse4yS1QfDHzq7lVEwarD"
     },
     {
       "album": {

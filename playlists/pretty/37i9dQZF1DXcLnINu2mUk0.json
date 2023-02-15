@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26173,
+  "num_followers": 26209,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMGMwODcwYjhkYjQwNjlkZWNiYmIwYjJlN2M1MmFmNjky",
+  "snapshot_id": "MTY3NTk4NzIwMCwwMDAwMDAwMDc1Njc1ZmQ0YzY3ZDk2ZWZkNTg5Y2Y2NzQ5MDk3MTUy",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Acabou",
-        "url": "https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr"
-      },
-      "artists": [
-        {
-          "name": "MEGGY",
-          "url": "https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd"
-        },
-        {
-          "name": "Joy Jnr",
-          "url": "https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4"
       },
@@ -1043,18 +1023,42 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Hoje \u00c9 Hoje",
-        "url": "https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL"
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr"
       },
       "artists": [
         {
-          "name": "TYKID",
-          "url": "https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4"
+          "name": "MEGGY",
+          "url": "https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd"
+        },
+        {
+          "name": "Joy Jnr",
+          "url": "https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Hoje \u00c9 Hoje",
-      "url": "https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF"
+      "duration_ms": 212903,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq"
+      },
+      "artists": [
+        {
+          "name": "Ziki Ks",
+          "url": "https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "777",
+      "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
     }
   ],
   "unique_name": "Seda",

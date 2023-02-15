@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Harm & Ease
 
-101 songs - 5 hr 47 min
+102 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [January](https://open.spotify.com/track/3EAOQqsj22CuKtTvmPpKC1) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [January](https://open.spotify.com/album/4ADN9dF6lAY3saVz1hFPWu) | 4:36 | 2023-02-10 |  |
 | [Judy Gnarland](https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Judy Gnarland](https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K) | 2:52 | 2023-02-10 |  |
 | [Just a Boy](https://open.spotify.com/track/0HL2BZqdCwVO19FaUGylu5) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [The Sixty90’s](https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6) | 3:48 | 2023-02-10 |  |
-| [Kill Me Now](https://open.spotify.com/track/5F4DXPuidp77uNhSADYoSS) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/5SG7eSU143rWwwUQdgIRyg) | 2:25 | 2023-02-10 |  |
+| [Kill Me Now](https://open.spotify.com/track/4WNmQaFqd3FGqQSX9ReaIu) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/0LKlnmeznPsNwd6NtdabNe) | 2:25 | 2023-02-13 |  |
+| [Kill Me Now](https://open.spotify.com/track/5F4DXPuidp77uNhSADYoSS) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Kill Me Now](https://open.spotify.com/album/5SG7eSU143rWwwUQdgIRyg) | 2:25 | 2023-02-10 | 2023-02-15 |
 | [Lay Down And Die](https://open.spotify.com/track/6qWeuAOPnNQSXVAOMQmvAX) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Lay Down And Die](https://open.spotify.com/album/5f2DADFOlyvJWTZJqgxAL8) | 4:25 | 2023-02-10 |  |
 | [Let Me Out](https://open.spotify.com/track/4IUZViuv8cdwJPw1IdmpIG) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:12 | 2023-02-10 |  |
 | [Living Proof](https://open.spotify.com/track/5IMEWTYYTUdXjkJzOAz7QZ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Living Proof](https://open.spotify.com/album/2BLMLPpILfCQ8PbjN8KCSS) | 3:56 | 2023-02-10 | 2023-02-14 |

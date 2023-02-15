@@ -2,9 +2,9 @@
 
 ### [New Music Friday Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country music releases in one playlist! Featuring Megan Moroney, Luke Combs, Bailey Zimmerman and more.
+> All of the newest country music releases in one playlist! Featuring Kelsea Ballerini, Megan Moroney, Luke Combs and more.
 
-2,741 songs - 6 day 5 hr 38 min
+2,742 songs - 6 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Bleed](https://open.spotify.com/track/1grI6XCzv8xD3agR9gUpRl) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Bleed](https://open.spotify.com/album/3sBXsP0zgyV9t5HfLf6hEb) | 3:25 | 2023-01-27 | 2023-02-04 |
 | [Blessed](https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Blessed](https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol) | 3:18 | 2022-04-29 | 2022-05-14 |
 | [Blind Eye](https://open.spotify.com/track/23BotmH1vhUlQoocFYoRuJ) | [Lou Ridley](https://open.spotify.com/artist/67GbNlaClUAmqMkGHhkAl4) | [Angel/Outlaw](https://open.spotify.com/album/0Bk0joK9vhSCb77s7RsroR) | 3:08 | 2021-12-31 | 2022-02-19 |
+| [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 | 2023-02-15 |  |
 | [Blindspot](https://open.spotify.com/track/7esYMuwrOfO33o1wGP8WHK) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI) | [6 Songs to Midnight](https://open.spotify.com/album/3ByapYH3dkjtEmc868ucv8) | 2:42 | 2022-02-25 | 2022-05-14 |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2022-02-11 | 2022-02-26 |
 | [Blood \- Stripped](https://open.spotify.com/track/5IcLHAgujNfQtYnBGtMCNU) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Blood \(Stripped\)](https://open.spotify.com/album/38rjOGriFo6WcVtbsTH2pi) | 4:37 | 2022-11-04 | 2022-11-12 |

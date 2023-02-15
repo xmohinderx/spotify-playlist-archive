@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,913 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,940 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 45 | [Gotas y cuencos de cuarzo](https://open.spotify.com/track/7vIOggIr837ocFBosnqJtY) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Gotas y cuencos de cuarzo](https://open.spotify.com/album/6JvcnqO2qRFsIl8g8JpvPz) | 4:08 |
 | 46 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 | 47 | [A State of Serenity](https://open.spotify.com/track/176IOSw9ni8nujE5dohokG) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV) | 2:18 |
-| 48 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
+| 48 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd), [Christa Michell](https://open.spotify.com/artist/7LsExUBUuJG7PbZyDkEqDU) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
 | 49 | [Following The River](https://open.spotify.com/track/0rrzl2wTpwlNBAnVkYfhQE) | [Vic Mars](https://open.spotify.com/artist/2tYp7DE60TXJCdsdZVw1ph) | [Inner Roads and Outer Paths](https://open.spotify.com/album/7zbAxpPRQbSmbxbkcAU8Z4) | 2:35 |
 | 50 | [संस्कृतम्](https://open.spotify.com/track/6EbrUXsMQwQbtPdW9uCDlC) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 3:34 |
 | 51 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 |

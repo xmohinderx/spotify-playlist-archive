@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Double Lz
 
-1,283 songs - 2 day 17 hr 56 min
+1,284 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [Dapper Dan](https://open.spotify.com/track/5oSVp3OnIeMa5rhvXc2dsw) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z) | [Dapper Dan](https://open.spotify.com/album/6FOc4Y5ybx1U9Bg5ZoEiMM) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Dark Days \(feat\. Kojey Radical\)](https://open.spotify.com/track/5DnO74JMfDrGasa0DWXqyc) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Dark Days \(feat\. Kojey Radical\)](https://open.spotify.com/album/0CuYJriC5GvIxkcjasXBQL) | 3:02 | 2020-09-26 | 2020-11-03 |
 | [DARK N COLD](https://open.spotify.com/track/3nXukLw1jwI7Wuyvmknh78) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz) | [DARK N COLD](https://open.spotify.com/album/5ZeJ7rJwb2vZyNUqziNot8) | 3:01 | 2020-08-01 | 2020-08-21 |
-| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 | 2023-01-20 |  |
+| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 | 2023-01-20 | 2023-02-15 |
+| [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1rBmGER5cjsRqorIGJGcnv) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/4mUvjgh6IUsYg95mRh6AQP) | 4:08 | 2023-02-10 |  |
 | [Dave Flow](https://open.spotify.com/track/5ajPDIvcDgbg0THed3G8To) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Dave Flow](https://open.spotify.com/album/4C5NX9Ihp0F1z5HQ7iHR2P) | 3:38 | 2023-01-13 |  |
 | [Day in the Life](https://open.spotify.com/track/0qSSfVh97cz3Wqp6NB9Y4d) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Day in the Life](https://open.spotify.com/album/10A56zZC5Y41O4ZdVmfVhU) | 3:08 | 2020-07-13 | 2020-11-06 |
 | [Day Of The Dead \(feat\. Teezandos & Young A6\)](https://open.spotify.com/track/475BmXvvId9ixtDbZW3QxF) | [Block 6](https://open.spotify.com/artist/4greawD4iPVecLHKENer73), [Pressplay](https://open.spotify.com/artist/2O4Kmd6YNhta38MQ1VDMI1), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix), [Young A6](https://open.spotify.com/artist/0VLbPNdrtGwHO1xlxodxYm) | [Day Of The Dead \(feat\. Young A6 & Lucii\)](https://open.spotify.com/album/7EqjZvkj8qHXQv2jTF7D56) | 3:07 | 2020-11-03 | 2020-11-13 |

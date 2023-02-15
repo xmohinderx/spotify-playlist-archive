@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie music\. Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,622 likes - 68 songs - 4 hr 0 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,618 likes - 68 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 67 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 |
 | 68 | [Human Too](https://open.spotify.com/track/2PUHkK7V8XSoquIV8Skj7h) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:44 |
 
-Snapshot ID: `Nzc0OSw5NDhiNGU5MjA0MDM5MDM4NGFkMmI1NTAxMmJmMTdhNzk4YmFhMGI1`
+Snapshot ID: `Nzc3NCwzMWU0NjQxZjkzZWRlZDQwYWNkNDFkZGJhMjBiMDQzNTNhN2U4ZTVk`

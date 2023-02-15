@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 204896,
+  "num_followers": 205080,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMGEwYzg1ZWMyMTE5Yzk3OWM5NzYyYTllMzI5ZTA2NWMz",
+  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMDI0NjE1MDIwNTdiZGY5NTk3MzQ3N2MxZDAxNzk4ODFi",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Your Smiling Face",
-      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Waking & Dreaming",
         "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234040,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Robbie Dupree",
         "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213973,
       "name": "Steal Away - Remastered",
       "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
     },
     {
       "added_at": "2020-01-07 15:31:11",

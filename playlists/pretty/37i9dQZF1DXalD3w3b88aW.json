@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11279,
+  "num_followers": 11284,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDBhODQ1YzlkMDgxNDFmOGQyYmRmNjdmNTVmYmRjMDM3",
+  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDcxZjU3MDNhZmYwNzYxNmFlOTRjNjNhM2ZkM2EzMDI0",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Danity Kane",
-        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "Come Over Interlude",
-      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 94440,
       "name": "Use Your Heart - Interlude",
       "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Danity Kane",
+        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 104093,
+      "name": "Come Over Interlude",
+      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Soul Of A Woman",
-        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
-      },
-      "artists": [
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 76533,
-      "name": "Don't Go Away (Interlude)",
-      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Acoustic Soul",
         "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 84600,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Soul Of A Woman",
+        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
+      },
+      "artists": [
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 76533,
+      "name": "Don't Go Away (Interlude)",
+      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 76173,
+      "name": "The Meaning - Interlude",
+      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 39600,
       "name": "J.L (Interlude)",
       "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 76173,
-      "name": "The Meaning - Interlude",
-      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Usher",
-        "url": "https://open.spotify.com/album/0euolARSHQGtySLAWUvilr"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Interlude 2 (Can't Stop)",
-      "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Kima, Keisha & Pam",
         "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 158030,
       "name": "There Will Be No Fuck Tonight (Interlude)",
       "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Usher",
+        "url": "https://open.spotify.com/album/0euolARSHQGtySLAWUvilr"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Interlude 2 (Can't Stop)",
+      "url": "https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk"
     },
     {
       "added_at": "2022-12-03 05:29:16",

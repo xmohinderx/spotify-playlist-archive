@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Hit 2",
-  "num_followers": 73385,
+  "num_followers": 73483,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI2Mzk3NSwwMDAwMDAwMGVkMTk2ZjQ0NDI5ODVhZDRiMmEyM2JmYmU4YjZiMTgw",
+  "snapshot_id": "MTY3NjM4MDE1NCwwMDAwMDAwMGNlNmFhZGVkNTIzZTVlOWFiOTFiZjZhMjUxMmFjMjg3",
   "tracks": [
     {
       "added_at": "2022-11-10 07:23:27",
@@ -185,6 +185,26 @@
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
     },
     {
+      "added_at": "2023-02-14 13:09:14",
+      "album": {
+        "name": "Madhura Gathamaa (From \"Shaakuntalam\") [Telugu] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0Xkh3ns9WTdJZ5Eiqo3UKx"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 329138,
+      "name": "Madhura Gathamaa",
+      "url": "https://open.spotify.com/track/1mIEW1GeYaAahoBIBOhUnB"
+    },
+    {
       "added_at": "2022-12-19 10:39:37",
       "album": {
         "name": "Sridevi Chiranjeevi (From \"Waltair Veerayya\")",
@@ -247,18 +267,10 @@
     {
       "added_at": "2023-02-13 04:52:55",
       "album": {
-        "name": "Praanaana Paatale Paaduthundi (From \"Rudhrudu\")",
-        "url": "https://open.spotify.com/album/5vgNpqvKA9AEBoPrkw2TZt"
+        "name": "Praanaana Paatale Paaduthundi (From \"Rudhrudu\") - Single",
+        "url": "https://open.spotify.com/album/05hyYazaTTt1bjIVp4aLFx"
       },
       "artists": [
-        {
-          "name": "Dharan Kumar",
-          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
-        },
-        {
-          "name": "Viswanathan\u2013Ramamoorthy",
-          "url": "https://open.spotify.com/artist/3bACGAZLK8w1OVWOncgtKm"
-        },
         {
           "name": "Sathyaprakash",
           "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
@@ -270,11 +282,23 @@
         {
           "name": "Emcee D",
           "url": "https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8"
+        },
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Viswananthan - Ramamoorthy",
+          "url": "https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4"
+        },
+        {
+          "name": "Rakendumouli Vennelakanti",
+          "url": "https://open.spotify.com/artist/2u01Y3Z5HdRB02sTynRkNh"
         }
       ],
       "duration_ms": 287783,
       "name": "Praanaana Paatale Paaduthundi (From \"Rudhrudu\")",
-      "url": "https://open.spotify.com/track/1L1uyD7kB3v1wB0cyXWrNs"
+      "url": "https://open.spotify.com/track/3Vrx4SGSBjcsbtFwqb1Ueo"
     },
     {
       "added_at": "2023-02-03 08:23:44",

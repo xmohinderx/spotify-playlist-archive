@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 131250,
       "name": "</3",
       "url": "https://open.spotify.com/track/14154tJOTjeyeOyhnqP4QM"
@@ -6106,7 +6106,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -7590,7 +7590,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -8260,7 +8260,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "jak nie wr\u00f3c\u0119 po p\u00f3\u0142nocy",
       "url": "https://open.spotify.com/track/1pCekfmD7qmOpKnTgttGcu"
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 185973,
       "name": "KETCHUP",
       "url": "https://open.spotify.com/track/1yiGGRGdHEc1F3jF5jEVmH"
@@ -11940,7 +11940,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14140,7 +14140,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -18608,6 +18608,28 @@
       "duration_ms": 158117,
       "name": "szkoda",
       "url": "https://open.spotify.com/track/5P55cj0rKTa3aZijhAhGNd"
+    },
+    {
+      "album": {
+        "name": "SZK\u0141O",
+        "url": "https://open.spotify.com/album/3apSNqEdoAErCK8PSgWKCt"
+      },
+      "artists": [
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191552,
+      "name": "SZK\u0141O",
+      "url": "https://open.spotify.com/track/2u9r9shEIK9mgKOzCXclHf"
     },
     {
       "album": {

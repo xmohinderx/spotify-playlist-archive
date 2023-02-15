@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-880 songs - 1 day 23 hr 43 min
+881 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [Midnight Flight](https://open.spotify.com/track/3g5WeIzhUqA4aXeSCUBwo4) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Midnight Flight](https://open.spotify.com/album/0an4k7xSVyd367rh9TOdtT) | 2:59 | 2019-10-25 | 2021-01-31 |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-18 | 2021-05-14 |
 | [Mine \(Night\)](https://open.spotify.com/track/48VADu4d52jUY0yl1Lyvtr) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Mine \(Night\)](https://open.spotify.com/album/5QxSzOO4ak5PkgAd3tH3Kq) | 3:45 | 2019-06-22 | 2019-10-26 |
-| [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-17 |  |
+| [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-17 | 2023-02-15 |
 | [Miss You](https://open.spotify.com/track/2JKUye1VGGeLUdQ5Z8OZhe) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Carmen Rose](https://open.spotify.com/artist/72bGdAOgypgnjHAGgDdOBh) | [Miss You](https://open.spotify.com/album/49T8KuSMzfODRFcPJrVbmZ) | 3:12 | 2019-06-21 | 2020-01-04 |
 | [Missed You \- Bonus Track](https://open.spotify.com/track/6TooMkzB9xE9FM9qxuEQeX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2gWDbNPfFcIR1EewwlvyqJ) | 2:24 | 2020-06-12 | 2020-09-18 |
 | [Missing You](https://open.spotify.com/track/0LcNMuOiULmxJK3bdHTfDF) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Missing You \- EP](https://open.spotify.com/album/4DOC4Vu1nbDlVetELknFhP) | 3:34 | 2019-05-25\* | 2020-04-03 |
@@ -617,6 +617,7 @@
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2020-08-14 | 2022-07-29 |
 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-04-29 |  |
 | [Picture Of Us](https://open.spotify.com/track/0MUGiVxBMDEEeUyZj76k8Z) | [TW3LV](https://open.spotify.com/artist/6HQrFqkRbG8U170khtqoVn), [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Picture Of Us](https://open.spotify.com/album/5nRC7Ej8nz1S6RsMqsVV4i) | 3:16 | 2019-06-26 | 2019-08-27 |
+| [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-09 |  |
 | [Playing Games](https://open.spotify.com/track/0W45ni3uikr9z0vPjlBIDw) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Playing Games](https://open.spotify.com/album/6dCOtN7GClSd0Y6PNEFion) | 2:21 | 2019-10-25 | 2019-11-09 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2019-06-03 | 2019-08-21 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-16 | 2021-12-29 |

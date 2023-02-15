@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18751,
+  "num_followers": 18755,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGFiZDIzYjM2YzhhOGE4NWU5YzhjOWQ1NDA2ZmM1NDkx",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGNkMWMxZTM0ODhmMDJlNmE5MWRlNTQwNzE1NDNiZGI3",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -627,22 +627,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 235429,
-      "name": "Speak to Me",
-      "url": "https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 196693,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 235429,
+      "name": "Speak to Me",
+      "url": "https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc"
     },
     {
       "added_at": "2019-09-20 18:34:06",

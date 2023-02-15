@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,341 likes - 104 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,956 likes - 104 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 5 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
 | 6 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 |
 | 7 | [Back That Up To The Beat \- sped up version](https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:12 |
-| 8 | [Give It To Me \(Timbaland, Nelly Furtado\) \- Sped Up Version](https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Give It To Me \(Timbaland, Nelly Furtado\) \- Sped Up Version](https://open.spotify.com/album/5RDftn20SS29X7kuwJdDQw) | 3:01 |
+| 8 | [](https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Give It To Me \(Timbaland, Nelly Furtado\) \- Sped Up Version](https://open.spotify.com/album/5RDftn20SS29X7kuwJdDQw) | 0:00 |
 | 9 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
 | 10 | [One Kiss \(Dua Lipa\) \- Sped Up Version](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \(Dua Lipa\) \- Sped Up Version](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 |
 | 11 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |

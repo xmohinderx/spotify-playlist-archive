@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Jambu
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,121 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,114 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 9 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
 | 10 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 |
 | 11 | [Enquanto houver um tempo e um troco](https://open.spotify.com/track/6wgbLCBFMvXiuBcQqdQvgw) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Enquanto houver um tempo e um troco](https://open.spotify.com/album/2kSJgaX9BAuPjvUir1EbCJ) | 3:25 |
-| 12 | [Roda de Samba](https://open.spotify.com/track/76w8SddmizXDzaWPbjIReN) | [Machete Bomb](https://open.spotify.com/artist/0BjJ3oYFwa2SUn567mGSOQ), [Thestrow](https://open.spotify.com/artist/6g4hzSCDDvT32K7MHCAgZh), [Fred 04](https://open.spotify.com/artist/5A2086GuTCtARHKB1mvAB7), [Niko Kamada](https://open.spotify.com/artist/6cxbSvqARgOPBGsfTrrZux), [Alienação Afrofuturista](https://open.spotify.com/artist/6SDw7meBBAwiwI92SnXZ77), [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Roda de Samba](https://open.spotify.com/album/33rrMRMSOpe8SeiG0ugeLN) | 3:37 |
+| 12 | [Roda de Samba](https://open.spotify.com/track/76w8SddmizXDzaWPbjIReN) | [Machete Bomb](https://open.spotify.com/artist/0BjJ3oYFwa2SUn567mGSOQ), [Thestrow](https://open.spotify.com/artist/6g4hzSCDDvT32K7MHCAgZh), [Fred 04](https://open.spotify.com/artist/5A2086GuTCtARHKB1mvAB7), [Niko Kamada](https://open.spotify.com/artist/6cxbSvqARgOPBGsfTrrZux), [Alienação Afrofuturista](https://open.spotify.com/artist/6SDw7meBBAwiwI92SnXZ77), [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O), [Japa System](https://open.spotify.com/artist/22wEDxjZ5uSSfU9VrU8ztS) | [Roda de Samba](https://open.spotify.com/album/33rrMRMSOpe8SeiG0ugeLN) | 3:37 |
 | 13 | [Calmaria \(Sessions\)](https://open.spotify.com/track/5al7dvnBhJEhNpi8XCpSi0) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Sessions Navala](https://open.spotify.com/album/4kxhOEzCII1AlWcMiG6E9s) | 4:03 |
 | 14 | [Dia a dia](https://open.spotify.com/track/0fHAEHVcqD104hdGo9JfZC) | [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Dia a dia](https://open.spotify.com/album/6sIPN7Do9PfxlS2LUAFD55) | 3:33 |
 | 15 | [Não Quero Mudar](https://open.spotify.com/track/32DOQVhMr9YTetdnZgA0AY) | [Rockstrada](https://open.spotify.com/artist/5FrbfTAZzH4ZxWQZ1ctXtm), [Vespas Mandarinas](https://open.spotify.com/artist/39wvetWmzobDSXSkCHPEcv) | [Não Quero Mudar](https://open.spotify.com/album/0VhZmawNhSQWuRaXOGvfk1) | 2:59 |

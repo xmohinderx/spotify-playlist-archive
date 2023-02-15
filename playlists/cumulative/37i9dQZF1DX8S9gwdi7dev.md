@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-137 songs - 8 hr 24 min
+138 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Cannibal](https://open.spotify.com/track/6E7QcFSHgspdzwHxpYP9Vj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spooky Halloween Hits](https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq) | 3:14 | 2022-10-24 | 2022-11-13 |
 | [Cannibal](https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal](https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ) | 3:14 | 2021-10-27 | 2022-07-29 |
 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 | 2021-10-27 |  |
-| [Chrissy, Wake Up](https://open.spotify.com/track/4Ov2fry0a3OSJMca7FF4NR) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/46XFVGwSxul3vUb3IqsXiZ) | 1:05 | 2022-10-24 |  |
+| [Chrissy, Wake Up](https://open.spotify.com/track/4Ov2fry0a3OSJMca7FF4NR) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/46XFVGwSxul3vUb3IqsXiZ) | 1:05 | 2022-10-24 | 2023-02-15 |
+| [Chrissy, Wake Up](https://open.spotify.com/track/6W3lwoUqT9FzP3FhpWNq5F) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/1EQWKaOzUPSQv9kKqrTMzK) | 1:05 | 2023-01-27 |  |
 | [Chrissy, Wake Up](https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb) | 1:05 | 2022-09-23 | 2022-11-23 |
 | [Close Your Eyes](https://open.spotify.com/track/31wuIxZijQbPi4Wy6oWGfJ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:55 | 2022-09-23 | 2022-10-23 |
 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 | 2021-10-27 | 2022-10-24 |

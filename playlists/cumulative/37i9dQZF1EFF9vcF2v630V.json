@@ -416,10 +416,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 207009,
       "name": "History",
       "url": "https://open.spotify.com/track/1OA8mjWFtbYqGHEP4N5lUd"
+    },
+    {
+      "album": {
+        "name": "Story of Me",
+        "url": "https://open.spotify.com/album/18sE9lHzw8d61riXaA14Ny"
+      },
+      "artists": [
+        {
+          "name": "Megan McKenna",
+          "url": "https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207009,
+      "name": "History",
+      "url": "https://open.spotify.com/track/24zwkDcBw7P3usV9r6Szrb"
     },
     {
       "album": {

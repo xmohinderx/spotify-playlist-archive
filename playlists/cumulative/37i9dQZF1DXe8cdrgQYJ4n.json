@@ -387,6 +387,32 @@
     },
     {
       "album": {
+        "name": "TOAST",
+        "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "End Better (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty"
+    },
+    {
+      "album": {
         "name": "Fashion Hoarder",
         "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
       },
@@ -402,7 +428,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 187061,
       "name": "Fashion Hoarder",
       "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"

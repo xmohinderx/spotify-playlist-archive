@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: The Heavenly Idol \(성스러운 아이돌\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-114 songs - 6 hr 58 min
+115 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz) | 4:31 | 2022-05-09 |  |
 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 | 2022-05-09 |  |
 | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj) | 3:14 | 2022-05-09 |  |
+| [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 | 2023-02-14 |  |
 | [그땐 내가 먼저 웃어볼게](https://open.spotify.com/track/0gYMkoKZZHsXAPBWd92gJh) | [JOO WON TAK](https://open.spotify.com/artist/2xiWDvlMPYGgbTIzySLyO8) | [바이트미 \(Original Webtoon Soundtrack\) Pt.24](https://open.spotify.com/album/2SbPuwSFkGEeqYYvTsQRsW) | 3:16 | 2023-01-26 |  |
 | [내가 미안해](https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX) | [Rumy](https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL) | [바이트미 \(Original Webtoon Soundtrack\) Pt\. 9](https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6) | 3:26 | 2022-10-14 |  |
 | [동행](https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [동행 \(웹툰 '제독의 괴물아내' OST X 정홍일\)](https://open.spotify.com/album/768NZNG8kbhEJxqJBIilaM) | 4:11 | 2022-05-09 |  |

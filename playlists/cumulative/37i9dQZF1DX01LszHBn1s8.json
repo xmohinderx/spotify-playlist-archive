@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3vw1qbSopYw1XSXvw7D99u"
@@ -2802,10 +2802,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 65454,
       "name": "Chrissy, Wake Up",
       "url": "https://open.spotify.com/track/4Ov2fry0a3OSJMca7FF4NR"
+    },
+    {
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/1EQWKaOzUPSQv9kKqrTMzK"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6W3lwoUqT9FzP3FhpWNq5F"
     },
     {
       "album": {
@@ -5763,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Virales 2023 (Remix)",
+        "url": "https://open.spotify.com/album/4kBdAUwwyMiqujwkvoC2ya"
+      },
+      "artists": [
+        {
+          "name": "DJ Fronteo",
+          "url": "https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171884,
+      "name": "Give It To Me - Remix",
+      "url": "https://open.spotify.com/track/0M8TRZjKSJcraBX3AjhGyp"
+    },
+    {
+      "album": {
         "name": "Give It To Me (remix)",
         "url": "https://open.spotify.com/album/01HWykM4zshtCogjuNibl8"
       },
@@ -7876,6 +7912,32 @@
     {
       "album": {
         "name": "It's Corn",
+        "url": "https://open.spotify.com/album/1DRwgQ7v0G6otmNL70S6iH"
+      },
+      "artists": [
+        {
+          "name": "Tariq",
+          "url": "https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        },
+        {
+          "name": "Recess Therapy",
+          "url": "https://open.spotify.com/artist/0WSxLJRrB4L65JhNxIajE2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "It's Corn",
+      "url": "https://open.spotify.com/track/15iXvMt4bYvp1xfIscveRW"
+    },
+    {
+      "album": {
+        "name": "It's Corn",
         "url": "https://open.spotify.com/album/6k2aT1q9lervaS6Iy3Fqg9"
       },
       "artists": [
@@ -7894,7 +7956,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 167733,
       "name": "It's Corn",
       "url": "https://open.spotify.com/track/4mxSjy9pz9JxWlNKU28PVm"
@@ -13288,6 +13350,24 @@
     {
       "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
+    },
+    {
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi"
       },
       "artists": [
@@ -13298,7 +13378,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 279250,
       "name": "Renegade - (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4"

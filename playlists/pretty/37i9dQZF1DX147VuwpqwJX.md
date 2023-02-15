@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,715 likes - 102 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,781 likes - 102 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 27 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 |
 | 28 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 29 | [Lite Werk](https://open.spotify.com/track/2ClaJ5SohcbFiwUDZsk7TY) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/2vzMFec2lQn8bZWvljJayj) | 2:26 |
-| 30 | [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 |
+| 30 | [Wig](https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 3:40 |
 | 31 | [Beat This](https://open.spotify.com/track/6sTpK1cObW1UyFhBxppv6A) | [Loffe Beats](https://open.spotify.com/artist/4z77fjfHsC4fG2aQPzAM1B), [Matyouz Ladurée](https://open.spotify.com/artist/48QmwhiTUwxtV7nAQhGcBp), [Typhoon Angels](https://open.spotify.com/artist/1QvTkIUsNVZhjy5jEQ1vvF), [Tofu Quing](https://open.spotify.com/artist/2OezS1el3JqrjcyQRZVTiK) | [Beat This](https://open.spotify.com/album/73l09Riz34dqh0LXqZzima) | 3:39 |
 | 32 | [PINKROOM](https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:10 |
 | 33 | [Da Function](https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5), [Warren B](https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 3:12 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 101 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 |
 | 102 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMGI5NDc3ODA1ZDg5N2JhZjg0MDM2NDVjMDJmN2FiODM4`
+Snapshot ID: `MTY3NDc5NTY2MCwwMDAwMDAwMGM5ZTE1ZGQ1NzYzMWNiZGVmOGVjMDk1NjJmZmUzYmM3`

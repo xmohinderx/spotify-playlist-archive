@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-169 songs - 8 hr 55 min
+170 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Daylight](https://open.spotify.com/track/7K1fqeaZKX2fGH2ddOfPUC) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK), [Hysaze](https://open.spotify.com/artist/0OvAdt4y8gH1lnUOCRxf9D), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Daylight](https://open.spotify.com/album/2T874FXcRt9kwIags5Zckc) | 3:30 | 2021-11-26 | 2022-05-19 |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2022-02-01 | 2022-05-19 |
 | [Diaspora Girl \- ShiShi Remix](https://open.spotify.com/track/6pjiVpOdBStjHq2DSEpKnD) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f), [ASADI](https://open.spotify.com/artist/7kzEfOaqiXkhhTh7qMPVLj), [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9) | [Diaspora Girl \(ShiShi Remix\)](https://open.spotify.com/album/2PFIAmGeu3V5zLRkzJaIvU) | 4:14 | 2021-11-26 | 2022-05-19 |
+| [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-14 |  |
 | [DRXGS](https://open.spotify.com/track/0HWJbGrwVbmXWelYMDJtid) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sara Fajira](https://open.spotify.com/artist/5YwqDzUzArjMlfxI6sQRgP) | [DRXGS](https://open.spotify.com/album/2hpy6JvNQTxNTbysJTRoPU) | 2:52 | 2021-11-26 | 2022-05-19 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-02-01 | 2022-05-19 |
 | [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit](https://open.spotify.com/artist/4NrIN5zzc1DXEGbvsPlpOM) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 | 2022-09-16 | 2023-01-11 |

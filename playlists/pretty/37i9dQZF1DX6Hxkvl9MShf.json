@@ -1,29 +1,13 @@
 {
   "description": "Melodic house and techno to concentrate the mind.",
-  "num_followers": 9767,
+  "num_followers": 9941,
   "original_name": "Melodic Rhythm Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAxNDYxMywwMDAwMDAwMDY1NTEzZWRiODk3Njg2NTM0MjE0Zjk5NDU2Njg1YzAx",
+  "snapshot_id": "MTY3NjM4NDE4NSwwMDAwMDAwMDUwYjZmYmUwZWYxYTg5Y2E4NTE3MDJmM2MxZTMwZmFk",
   "tracks": [
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Wrath / Envy",
-        "url": "https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 201645,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO"
-    },
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
@@ -107,22 +91,6 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0UvAiiyVwwmZ0z0YowDcxK"
-      },
-      "artists": [
-        {
-          "name": "Grand Soleil",
-          "url": "https://open.spotify.com/artist/7dhbDPq0PhEbcf3PB1f4R8"
-        }
-      ],
-      "duration_ms": 265537,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5XS5y3JmxNyp39AM1G5LKc"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
         "name": "Clearance",
         "url": "https://open.spotify.com/album/32i7uXRwJK36jBrjndQ7m8"
       },
@@ -135,22 +103,6 @@
       "duration_ms": 326250,
       "name": "Clearance",
       "url": "https://open.spotify.com/track/4Xs8dQwj1Ic4FyCcCyRKYq"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Take Me Home (Flow)",
-        "url": "https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f"
-      },
-      "artists": [
-        {
-          "name": "VELDA",
-          "url": "https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn"
-        }
-      ],
-      "duration_ms": 371967,
-      "name": "Melodic Flow",
-      "url": "https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -203,6 +155,142 @@
       "duration_ms": 227665,
       "name": "Out of Reach",
       "url": "https://open.spotify.com/track/7Bp5A16DdqfuQRT8VycDyD"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Cygnus A",
+        "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "duration_ms": 201029,
+      "name": "Propulsion",
+      "url": "https://open.spotify.com/track/5sHP9Y0mhhxC1j7AtsqOvT"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/5zeYZeKbnrF0jNt6AYCHY4"
+      },
+      "artists": [
+        {
+          "name": "Pableno",
+          "url": "https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h"
+        }
+      ],
+      "duration_ms": 272929,
+      "name": "Wood",
+      "url": "https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/1MN98hNKJJ2vwqeuUxafaC"
+      },
+      "artists": [
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        },
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/7LtMkKuPFGYkzCmKsn9Iqs"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Fragaria / Deflexus",
+        "url": "https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C"
+      },
+      "artists": [
+        {
+          "name": "Twelwe",
+          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
+        }
+      ],
+      "duration_ms": 345678,
+      "name": "Fragaria",
+      "url": "https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ"
+      },
+      "artists": [
+        {
+          "name": "Damian Holden",
+          "url": "https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM"
+        },
+        {
+          "name": "David Dumeau",
+          "url": "https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Explorer",
+        "url": "https://open.spotify.com/album/6RzLGMfBS4YSydph8v3X7G"
+      },
+      "artists": [
+        {
+          "name": "Avenue One",
+          "url": "https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA"
+        }
+      ],
+      "duration_ms": 207878,
+      "name": "Explorer",
+      "url": "https://open.spotify.com/track/73ZGLBW8CcalAp74aNp04Z"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Procyon",
+        "url": "https://open.spotify.com/album/07rzxct9bZTdMmoVlE0g7g"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 240983,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/5gvDnP06VUVHoXguSa61GN"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Cygni",
+        "url": "https://open.spotify.com/album/1bisz6k9iWqxXgFhI40NDk"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 218421,
+      "name": "Cygni",
+      "url": "https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -319,22 +407,6 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
-        "name": "Cygnus A",
-        "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
-      },
-      "artists": [
-        {
-          "name": "Brendon Moeller",
-          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
-        }
-      ],
-      "duration_ms": 201029,
-      "name": "Propulsion",
-      "url": "https://open.spotify.com/track/5sHP9Y0mhhxC1j7AtsqOvT"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
         "name": "Melodic Mind",
         "url": "https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS"
       },
@@ -367,58 +439,6 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/5zeYZeKbnrF0jNt6AYCHY4"
-      },
-      "artists": [
-        {
-          "name": "Pableno",
-          "url": "https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h"
-        }
-      ],
-      "duration_ms": 272929,
-      "name": "Wood",
-      "url": "https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/1MN98hNKJJ2vwqeuUxafaC"
-      },
-      "artists": [
-        {
-          "name": "Boxer",
-          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
-        },
-        {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Over & Over",
-      "url": "https://open.spotify.com/track/7LtMkKuPFGYkzCmKsn9Iqs"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Fragaria / Deflexus",
-        "url": "https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C"
-      },
-      "artists": [
-        {
-          "name": "Twelwe",
-          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
-        }
-      ],
-      "duration_ms": 345678,
-      "name": "Fragaria",
-      "url": "https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
         "name": "Balmy",
         "url": "https://open.spotify.com/album/2w24KFSj3y18ardZ75SIMm"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 310714,
       "name": "Crepuscular",
       "url": "https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ"
-      },
-      "artists": [
-        {
-          "name": "Damian Holden",
-          "url": "https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM"
-        },
-        {
-          "name": "David Dumeau",
-          "url": "https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -483,38 +483,6 @@
       "duration_ms": 221694,
       "name": "The Night Drive",
       "url": "https://open.spotify.com/track/5hb2q1B9k3GbH5S5G7St8V"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Explorer",
-        "url": "https://open.spotify.com/album/6RzLGMfBS4YSydph8v3X7G"
-      },
-      "artists": [
-        {
-          "name": "Avenue One",
-          "url": "https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA"
-        }
-      ],
-      "duration_ms": 207878,
-      "name": "Explorer",
-      "url": "https://open.spotify.com/track/73ZGLBW8CcalAp74aNp04Z"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Procyon",
-        "url": "https://open.spotify.com/album/07rzxct9bZTdMmoVlE0g7g"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 240983,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/5gvDnP06VUVHoXguSa61GN"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -587,22 +555,6 @@
       "duration_ms": 289655,
       "name": "Ambedo",
       "url": "https://open.spotify.com/track/2zM04tPo64cBenFH8ySe4j"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Cygni",
-        "url": "https://open.spotify.com/album/1bisz6k9iWqxXgFhI40NDk"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 218421,
-      "name": "Cygni",
-      "url": "https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -863,22 +815,6 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
       },
@@ -899,6 +835,22 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
+        "name": "Wrath / Envy",
+        "url": "https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 201645,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
         "name": "Rwanda",
         "url": "https://open.spotify.com/album/2EJha1iSDvG06t7tUrkrnV"
       },
@@ -911,26 +863,6 @@
       "duration_ms": 195243,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/0tPk6OPi760BD6C5WtqcqG"
-    },
-    {
-      "added_at": "2023-01-06 14:16:53",
-      "album": {
-        "name": "Destroying the Commons (The Noam Chomsky Music Project)",
-        "url": "https://open.spotify.com/album/5j49qhDj0R2sNiYhyvsgUl"
-      },
-      "artists": [
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        },
-        {
-          "name": "Ian Urbina",
-          "url": "https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Biologically Unique",
-      "url": "https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL"
     },
     {
       "added_at": "2023-01-06 14:16:53",
@@ -1251,6 +1183,22 @@
     {
       "added_at": "2023-01-06 14:16:53",
       "album": {
+        "name": "Take Me Home (Flow)",
+        "url": "https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f"
+      },
+      "artists": [
+        {
+          "name": "VELDA",
+          "url": "https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn"
+        }
+      ],
+      "duration_ms": 371967,
+      "name": "Melodic Flow",
+      "url": "https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -1375,6 +1323,58 @@
       "duration_ms": 258196,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Destroying the Commons (The Noam Chomsky Music Project)",
+        "url": "https://open.spotify.com/album/5j49qhDj0R2sNiYhyvsgUl"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        },
+        {
+          "name": "Ian Urbina",
+          "url": "https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Biologically Unique",
+      "url": "https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0UvAiiyVwwmZ0z0YowDcxK"
+      },
+      "artists": [
+        {
+          "name": "Grand Soleil",
+          "url": "https://open.spotify.com/artist/7dhbDPq0PhEbcf3PB1f4R8"
+        }
+      ],
+      "duration_ms": 265537,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5XS5y3JmxNyp39AM1G5LKc"
+    },
+    {
+      "added_at": "2023-01-06 14:16:53",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
     },
     {
       "added_at": "2023-01-06 14:16:53",

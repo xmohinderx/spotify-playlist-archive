@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 82155,
+  "num_followers": 82193,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDg5OTI1OWY3MTAzY2Q5NmRkNDFjMjRiYTlmMTc0ZWU2",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDk5MjYxNzQ4YTkwZTg3YmFiMGRhYjUyN2M1YTA1YTE5",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -595,22 +595,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
-      },
-      "artists": [
-        {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Orere-Elejigbo",
-      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 364706,
       "name": "Living Music",
       "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+      },
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Orere-Elejigbo",
+      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -659,22 +659,18 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
       "artists": [
         {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        },
-        {
-          "name": "The Afro Sounders",
-          "url": "https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8"
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
         }
       ],
-      "duration_ms": 483986,
-      "name": "Alo Mi Alo (Parts 1 & 2)",
-      "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     }
   ],
   "unique_name": "Classic Afropop",

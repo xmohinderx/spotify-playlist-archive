@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 27128,
+  "num_followers": 27162,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGNjMzU3NDdkNWIzYTNkOWY1ZmVlNTgwOTFhZGUyMDMw",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGUzNmVkZGUzMDAyOTNlMmQzNDE4Yzg4YTQxNTBjYzYx",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Edici\u00f3n de Coleccion",
+        "url": "https://open.spotify.com/album/4UXEtKzIdri2r9YxbFK3Oo"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 277345,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1cjnsRW2d8Fy2gk3M8uIpA"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 180853,
       "name": "Tomando Cerveza",
       "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Alpaquitay",
-        "url": "https://open.spotify.com/album/1ZigilzcTvEmshQoYyPfhT"
-      },
-      "artists": [
-        {
-          "name": "Pata Amarilla",
-          "url": "https://open.spotify.com/artist/3LeEUjPpHudINewdGztaG4"
-        }
-      ],
-      "duration_ms": 242390,
-      "name": "Acabas Conmigo",
-      "url": "https://open.spotify.com/track/7rjG8mw40BN1wObtAXWfBS"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Alpaquitay",
+        "url": "https://open.spotify.com/album/1ZigilzcTvEmshQoYyPfhT"
+      },
+      "artists": [
+        {
+          "name": "Pata Amarilla",
+          "url": "https://open.spotify.com/artist/3LeEUjPpHudINewdGztaG4"
+        }
+      ],
+      "duration_ms": 242390,
+      "name": "Acabas Conmigo",
+      "url": "https://open.spotify.com/track/7rjG8mw40BN1wObtAXWfBS"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Yo Soy el Amor, Vol. 15",
         "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 340653,
       "name": "Yo Soy el Amor",
       "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -903,34 +903,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Edici\u00f3n de Coleccion",
-        "url": "https://open.spotify.com/album/4UXEtKzIdri2r9YxbFK3Oo"
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
       "artists": [
         {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 277345,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1cjnsRW2d8Fy2gk3M8uIpA"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Huayno, Vol. 2",
-        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
-      },
-      "artists": [
-        {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Sihuarsito",
-      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -951,6 +935,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Huayno, Vol. 2",
+        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
+      },
+      "artists": [
+        {
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Sihuarsito",
+      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Huayno Music of Peru, Vol. 1",
         "url": "https://open.spotify.com/album/6BmF9UOYhJPnn4QqWscWfs"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
       },
       "artists": [
         {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

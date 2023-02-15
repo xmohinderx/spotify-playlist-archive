@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Central Cee, YG and more\. Cover: NAV
 
-2,249 songs - 4 day 8 hr 59 min
+2,251 songs - 4 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-01-21 | 2022-02-05 |
 | [Nice Guy](https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Nice Guy](https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8) | 2:53 | 2022-10-21 | 2022-10-29 |
 | [Nino](https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Nino](https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno) | 2:29 | 2022-04-15 | 2022-04-29 |
+| [No 808’s \(feat\. Vory\)](https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [No 808’s \(feat\. Vory\)](https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z) | 3:20 | 2023-02-14 |  |
 | [No Attempts](https://open.spotify.com/track/4yCV8Sue17TOavzbqDKT6A) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts](https://open.spotify.com/album/7w8fmv7ujaSegwGZVbkHGr) | 3:16 | 2022-11-18 | 2022-11-30 |
 | [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/track/5Wh2yfCIUydSKzkBe9Ta9d) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/album/0mxoJVqUVCaqj62OlqBTun) | 3:16 | 2022-11-18 | 2022-12-03 |
 | [No Biggie](https://open.spotify.com/track/00oRfr5OEgNfvLSKLEcJhp) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [No Biggie](https://open.spotify.com/album/0OKewi7TDzhOdiCl3ILJLv) | 2:25 | 2022-08-19 | 2022-08-27 |
@@ -2118,6 +2119,7 @@
 | [Up All Night](https://open.spotify.com/track/2KF1l4TqQ1e6NiblLyrnWC) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Up All Night](https://open.spotify.com/album/437kvwYTzkpwEnWe0ev5wc) | 3:09 | 2022-11-25 | 2022-12-03 |
 | [Up Now](https://open.spotify.com/track/041tcdUrubp4zfyD6YvywT) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Up Now](https://open.spotify.com/album/1EQhq2oyWd0EW5c0wZ3Uvt) | 2:34 | 2022-02-11 | 2022-02-26 |
 | [Up There](https://open.spotify.com/track/1WNqjTgA1Km06ql7EpNAiM) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Up There](https://open.spotify.com/album/29hfwE0CF1DUhaXv6rbUih) | 2:14 | 2022-08-05 | 2022-08-13 |
+| [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 | 2023-02-14 |  |
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-29 | 2022-08-13 |
 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 | 2022-02-25 | 2022-03-12 |
 | [USED2KNOW](https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WITH OR WITHOUT YOU](https://open.spotify.com/album/34SV634wGtLESb5QalBf32) | 2:33 | 2022-01-28 | 2022-02-05 |

@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-120 songs - 7 hr 55 min
+121 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,8 +116,9 @@
 | [What You Lookin' At](https://open.spotify.com/track/1f0icmRczUDXSMiNPfP9qS) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Infinity & Beyond](https://open.spotify.com/album/3SO7TGOEi3KCBtQRg90Hej) | 2:30 | 2021-11-19 |  |
 | [What's the Word](https://open.spotify.com/track/2fm15dc1NTbaXdghv4EXIR) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/3SLZJoCclmowCidyh42q8M) | 3:26 | 2022-07-01 |  |
 | [What's the Word](https://open.spotify.com/track/4pVBU8AVMZqrugxypjFUQW) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [What's the Word](https://open.spotify.com/album/7lkkhnb54OpXYb9213VKNU) | 3:26 | 2021-11-19 | 2022-07-29 |
-| [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 | 2022-07-01 |  |
+| [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 | 2022-07-01 | 2023-02-15 |
 | [Wig](https://open.spotify.com/track/40n4caMKy5TSzxKtKOeKRp) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/16oQd9JhXxh1swlhdFzedL) | 3:40 | 2021-11-19 | 2022-07-29 |
+| [Wig](https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 3:40 | 2023-01-27 |  |
 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 | 2021-11-19 |  |
 | [Work](https://open.spotify.com/track/3WXUvkBTSkZfMIsp8dKzvy) | [A.](https://open.spotify.com/artist/5Oi5eqLshqruHdSmWvJPdF), [Dr\. Bass & the Experiment](https://open.spotify.com/artist/1xKoV5VuDzJRiLnXBa1eNw) | [Work](https://open.spotify.com/album/4FiqaznOQwBo6C7oAA8oNH) | 2:10 | 2021-11-19 |  |
 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 | 2021-11-19 |  |

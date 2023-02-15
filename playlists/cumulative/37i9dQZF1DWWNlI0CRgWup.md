@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Nuit Incolore
+> Découvrez notre sélection des artistes à suivre\. Photo : Stéphane
 
 90 songs - 4 hr 48 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,976 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,998 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 36 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 |
 | 37 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [U.GOT](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 |
 | 38 | [Censura e Prazer](https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Nael](https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Censura e Prazer](https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog) | 3:55 |
-| 39 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 |
-| 40 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 |
+| 39 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 |
+| 40 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 |
 | 41 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 |
 | 42 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 |
 | 43 | [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 45 | [Tempo pra Perder](https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Tempo pra Perder](https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF) | 3:14 |
 | 46 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 |
 | 47 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 |
-| 48 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 |
-| 49 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 |
+| 48 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 |
+| 49 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 |
 | 50 | [Recíproco](https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt) | [Victor JR](https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo), [Ingrid Milanez](https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Recíproco](https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E) | 3:00 |
 | 51 | [Eterno Esquema](https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Eterno Esquema](https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB) | 2:13 |
 | 52 | [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 | 75 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
 
-Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMDZmOTE0OTI0MmU4YTVmMWE2OGY5ZjY3ZmY0YWY0MjI2`
+Snapshot ID: `MTY3NTM5MzI2MCwwMDAwMDAwMGI2ODFkN2MzOWE0MTc1N2Y2ZWYxMzBmNjRiMDk1MmNi`

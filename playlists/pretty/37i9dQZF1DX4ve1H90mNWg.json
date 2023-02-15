@@ -1,68 +1,116 @@
 {
   "description": "Texas music breaking waves. Cover, Beyonce",
-  "num_followers": 7458,
+  "num_followers": 7495,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE0MTYyMiwwMDAwMDAwMDE1NTg1NTBkMTg4YzI0NDZhODUwMzQ5NDIyM2RmODA5",
+  "snapshot_id": "MTY3NjM0MDk5OCwwMDAwMDAwMDJmYWE0Y2I5OTg5ZDRiZTIzYWU3MTUxYjc0YTFkYjY2",
   "tracks": [
     {
-      "added_at": "2023-01-31 05:07:02",
+      "added_at": "2023-02-14 02:16:38",
       "album": {
-        "name": "KRZY TRAIN (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/4O2XiThg74B4NEOOkwjt4k"
+        "name": "CUFF IT",
+        "url": "https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 230136,
-      "name": "KRZY TRAIN (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6z1wjotHhyP3gALKVbSc6p"
+      "duration_ms": 249406,
+      "name": "CUFF IT - WETTER REMIX",
+      "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
     },
     {
-      "added_at": "2023-01-31 05:07:02",
+      "added_at": "2023-02-14 02:16:38",
       "album": {
-        "name": "Primetime",
-        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
+        "name": "Bring the Pain Freestyle",
+        "url": "https://open.spotify.com/album/5qBiucIZlFXmjvxg5WbANN"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+      "duration_ms": 139022,
+      "name": "Bring the Pain Freestyle",
+      "url": "https://open.spotify.com/track/0xJOleOjMRmV7xhvBT2Iqz"
     },
     {
-      "added_at": "2023-01-31 05:07:02",
+      "added_at": "2023-02-14 02:16:38",
       "album": {
-        "name": "Peppermint Tea",
-        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         }
       ],
-      "duration_ms": 189412,
-      "name": "Peppermint Tea",
-      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+      "duration_ms": 295761,
+      "name": "Doo Wop (That Thing) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS"
+    },
+    {
+      "added_at": "2023-02-14 02:16:38",
+      "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/6shVFUa8VZJHPfb3nHATy3"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/2LbuYHVsm5whjGY9S06im3"
+    },
+    {
+      "added_at": "2023-02-14 02:16:38",
+      "album": {
+        "name": "Call Me Squalla Dos",
+        "url": "https://open.spotify.com/album/2bIYIWO9EHUXsMjGz3iqQj"
+      },
+      "artists": [
+        {
+          "name": "Squalla",
+          "url": "https://open.spotify.com/artist/6K2OIj5Zjagg9rmHIL7FCD"
+        }
+      ],
+      "duration_ms": 137185,
+      "name": "Sippin N Flippin",
+      "url": "https://open.spotify.com/track/6IZGYfH3FuClSfANQLP2PF"
+    },
+    {
+      "added_at": "2023-02-14 02:16:38",
+      "album": {
+        "name": "Unusual Pt. 2",
+        "url": "https://open.spotify.com/album/1RsdQmw3hJrbfTJpTgBrO4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 148285,
+      "name": "Unusual Pt. 2",
+      "url": "https://open.spotify.com/track/7qlTw5lLKgmrcUMNmCP8hO"
     },
     {
       "added_at": "2023-01-31 05:07:02",
@@ -163,6 +211,26 @@
     {
       "added_at": "2023-01-31 05:07:02",
       "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 189412,
+      "name": "Peppermint Tea",
+      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
         "name": "Rodeo (feat. Big Jade)",
         "url": "https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx"
       },
@@ -183,6 +251,22 @@
     {
       "added_at": "2023-01-31 05:07:02",
       "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/38dgV2LVNvLbXHBMDTDTu3"
       },
@@ -195,6 +279,26 @@
       "duration_ms": 245890,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/2GCdv6n5zVMStigQcmjp68"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "KRZY TRAIN (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/4O2XiThg74B4NEOOkwjt4k"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "KRZY TRAIN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6z1wjotHhyP3gALKVbSc6p"
     },
     {
       "added_at": "2023-01-24 06:28:43",
@@ -379,22 +483,6 @@
       "duration_ms": 157074,
       "name": "YM",
       "url": "https://open.spotify.com/track/6ovL4bnn861hLOuWMBP6Am"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "Feel Like Tha Water",
-        "url": "https://open.spotify.com/album/5gAxaj2asJ4n2GHiQGS3LW"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        }
-      ],
-      "duration_ms": 138477,
-      "name": "Feel Like Tha Water",
-      "url": "https://open.spotify.com/track/2d7Eka0hgFWAzH5Ib6DgYc"
     },
     {
       "added_at": "2023-01-24 06:28:43",
@@ -627,22 +715,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "Fleeting Moments",
-        "url": "https://open.spotify.com/album/7C9qDeBiKvRqDGlF6YH7yk"
-      },
-      "artists": [
-        {
-          "name": "Startheonly1ne",
-          "url": "https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt"
-        }
-      ],
-      "duration_ms": 147833,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/6vnxhuPZeymZdk9UoPLQeE"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "The Electron Song",
         "url": "https://open.spotify.com/album/1FcsfNLDWJRI8cMSnNcrAN"
       },
@@ -779,42 +851,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "They Want It, But No",
-      "url": "https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 249241,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/48cH50ZdsbX4ehT9e1ARl9"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "Lebra Jolie",
         "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
       },
@@ -947,22 +983,6 @@
       "duration_ms": 127441,
       "name": "Not My N*gga",
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2023-01-24 06:28:43",

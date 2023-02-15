@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=sOSAApXATj2ZsVxk64tUbw">Kamo Mphela</a>, <a href="https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC?si=7MsBurh4RaKDvdj\-VivKTQ">Bontle Smith</a> and <a href="https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=lKtO\-MMmScyxbrB73ex09g">Nobantu Vilakazi</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,340 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,788 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

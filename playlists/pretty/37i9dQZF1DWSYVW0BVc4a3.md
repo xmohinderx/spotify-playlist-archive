@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: SILK
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,115 likes - 152 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,266 likes - 152 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

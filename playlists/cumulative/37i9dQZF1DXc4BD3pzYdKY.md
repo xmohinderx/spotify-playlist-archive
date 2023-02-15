@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Da' T.R.U.T.H.
 
-753 songs - 1 day 13 hr 55 min
+754 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Can't Lose](https://open.spotify.com/track/7qA50FpI5cdD4WB8JHdUof) | [RIYL](https://open.spotify.com/artist/0b6wDAeyxmC3Xzpl7JaxfB), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Can't Lose](https://open.spotify.com/album/5XxCt6XqhaKtiYgJA5L3Yk) | 2:22 | 2022-02-27 | 2022-04-21 |
 | [Can't Tell It All](https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:42 | 2021-12-11 | 2022-01-14 |
 | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/track/3U8RSjBoIeaKrZflJkzPNd) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Deuces](https://open.spotify.com/artist/7nbV86re4AiI8C726Efapf) | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/album/5R47KD9aQmmXumlBAK333I) | 2:22 | 2022-02-04 | 2022-02-13 |
-| [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 | 2022-08-06 |  |
+| [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 | 2022-08-06 | 2023-02-15 |
 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 | 2022-04-29 | 2022-08-07 |
 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 | 2022-04-29 | 2022-07-26 |
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-28 |  |
@@ -331,6 +331,7 @@
 | [In Awe \(Live Performance\)](https://open.spotify.com/track/5goNJmUi7j897rieTFe17d) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [The Last Take](https://open.spotify.com/artist/313pwacN8Wf7ae4iC4JGfv) | [In Awe \(Live Performance\)](https://open.spotify.com/album/5EBP0IA68JttHLCEvmH0fa) | 3:24 | 2021-12-11 | 2022-05-29 |
 | [In Christ](https://open.spotify.com/track/5tpdyvZ3cRVPPR6koEyg6H) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci), [Akavelli](https://open.spotify.com/artist/5XBo0wn5x7ihlMmOgQhz48), [Tomi Abdon](https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux) | [In Christ](https://open.spotify.com/album/7rDG8GrtObQcl9AH2XtFzu) | 3:07 | 2022-08-06 | 2022-09-12 |
 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-12 | 2022-08-07 |
+| [in my head.](https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [tylerhateslife](https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC) | 3:23 | 2023-01-27 |  |
 | [in my head.](https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [in my head.](https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01) | 3:23 | 2022-11-11 | 2023-02-10 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-29 | 2022-08-07 |
 | [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-11-25 | 2023-01-28 |

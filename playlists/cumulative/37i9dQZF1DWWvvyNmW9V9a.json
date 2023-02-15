@@ -5896,6 +5896,32 @@
     {
       "album": {
         "name": "It's Corn",
+        "url": "https://open.spotify.com/album/1DRwgQ7v0G6otmNL70S6iH"
+      },
+      "artists": [
+        {
+          "name": "Tariq",
+          "url": "https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        },
+        {
+          "name": "Recess Therapy",
+          "url": "https://open.spotify.com/artist/0WSxLJRrB4L65JhNxIajE2"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "It's Corn",
+      "url": "https://open.spotify.com/track/15iXvMt4bYvp1xfIscveRW"
+    },
+    {
+      "album": {
+        "name": "It's Corn",
         "url": "https://open.spotify.com/album/6k2aT1q9lervaS6Iy3Fqg9"
       },
       "artists": [
@@ -5914,7 +5940,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 167733,
       "name": "It's Corn",
       "url": "https://open.spotify.com/track/4mxSjy9pz9JxWlNKU28PVm"

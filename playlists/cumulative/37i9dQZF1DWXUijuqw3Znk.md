@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-340 songs - 19 hr 54 min
+341 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,11 +95,12 @@
 | [Fair Wind](https://open.spotify.com/track/2ms7j0upec0K7luDsstdBI) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [FLOCC](https://open.spotify.com/album/7dAqulrkYexBBsAAbSEmb4) | 2:38 | 2022-05-11 | 2022-07-28 |
 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 | 2022-05-11 | 2022-07-28 |
 | [FIREWORKS](https://open.spotify.com/track/6QBy66P7M5zzetwg4ut6iw) | [IndEgo Aid](https://open.spotify.com/artist/5qGemt8SgMneJacS62LXRA), [COKEONSOBER](https://open.spotify.com/artist/2wg8fxRqlaJxAL97oqvXVz) | [EVP : Earth Venturing Poetry](https://open.spotify.com/album/0RTZlNxjj7lwrgjqod3b1G) | 3:14 | 2022-05-11 | 2022-07-29 |
-| [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-05-11 |  |
+| [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-05-11 | 2023-02-15 |
 | [Flashing \(Feat\. HanYoHan, OLNL\)](https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [HanYoHan](https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:14 | 2022-05-11 | 2023-01-06 |
 | [Flex Forever](https://open.spotify.com/track/6jvr4hLUk5sDSuC5hyWZEq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Flex Forever](https://open.spotify.com/album/3ZkvR9Ma1eAh8E9IuVPsQm) | 3:19 | 2022-05-11 | 2022-07-21 |
 | [Flip](https://open.spotify.com/track/2wCgfAzLWEo390ngYq6S9s) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:31 | 2022-05-11 | 2022-07-28 |
 | [Flow Away](https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:44 | 2022-07-22 |  |
+| [Fly Away](https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn) | [BXB](https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo) | [Intro: Flight and a new beginning](https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy) | 2:43 | 2023-02-14 |  |
 | [Forever](https://open.spotify.com/track/2UbelwIXVqlm9lBkXygpsg) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/3jSS7cVFrQoKytaPafmqJa) | 4:21 | 2022-05-11 | 2022-07-24 |
 | [Forever \(Prod\. By GRAY\)](https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 4:21 | 2022-07-22 |  |
 | [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 | 2022-05-11 | 2023-02-04 |

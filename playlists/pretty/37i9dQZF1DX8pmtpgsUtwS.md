@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,651 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,674 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 30 | [Pata Nahin](https://open.spotify.com/track/6JclMezRpieefEcYchmSe5) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Pata Nahin](https://open.spotify.com/album/2YIzspPB4PB1fb7JWc5qlj) | 3:29 |
 | 31 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 |
 | 32 | [Tum Sang](https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Tum Sang](https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl) | 3:04 |
-| 33 | [Ja Ja Re](https://open.spotify.com/track/7fVYiLYOph8btMb6BxCTZP) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sattar Khan](https://open.spotify.com/artist/0wART8J53ZbpAN7kFqkqjn) | [Ja Ja Re](https://open.spotify.com/album/52U7TP7dILVI4hue1faGh2) | 3:42 |
-| 34 | [Sakhi](https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ) | [Dhaiwat](https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob), [Vidushi Kalpana Zokarkar](https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV) | [Sakhi](https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ) | 4:19 |
+| 33 | [Sakhi](https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ) | [Dhaiwat](https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob), [Vidushi Kalpana Zokarkar](https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV) | [Sakhi](https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ) | 4:19 |
+| 34 | [Ja Ja Re](https://open.spotify.com/track/7fVYiLYOph8btMb6BxCTZP) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sattar Khan](https://open.spotify.com/artist/0wART8J53ZbpAN7kFqkqjn) | [Ja Ja Re](https://open.spotify.com/album/52U7TP7dILVI4hue1faGh2) | 3:42 |
 | 35 | [Saahiba](https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Saahiba](https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV) | 4:54 |
 | 36 | [Palkan Lagi](https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM) | [Pragya Dasgupta](https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9), [Jai Kothari](https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4) | [Palkan Lagi](https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg) | 2:49 |
 | 37 | [Ahir Bhairav](https://open.spotify.com/track/3izOUe13B7GBFb181eKujB) | [Honeysuckle Weekends](https://open.spotify.com/artist/30Jmjb5tjtHwwAX51M2yn2) | [Ahir Bhairav](https://open.spotify.com/album/0WrdiH1EH8dv7DMf1HieYW) | 5:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 46 | [HUES Of DAWN](https://open.spotify.com/track/0Vpe8MGbNeVD5dRIPY3gZa) | [Keshav Mohankumar](https://open.spotify.com/artist/5G29sllOnlnqJf5SGyEP1u), [sai shiv](https://open.spotify.com/artist/1bYiS5Rw8rpm8JxDoEUWga), [Sujayeendra Rao](https://open.spotify.com/artist/53sLC21LuaFVnLHAPk80FE), [Samrudh Srinivas](https://open.spotify.com/artist/5sm5js0tVo2wEgBVTmOwX7), [Shamith S Gowda](https://open.spotify.com/artist/5f7jMNBP9S7osyGl7wPz7i) | [HUES Of DAWN](https://open.spotify.com/album/3vbnOOJa9AL5DXz0zSSbOX) | 4:10 |
 | 47 | [Dehi](https://open.spotify.com/track/3dcxfK2dv5Wx41biEuRiZd) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Dehi](https://open.spotify.com/album/3JwEPc7W3rVTRv0rfHaHw5) | 4:33 |
 | 48 | [Bheegi Ankhiyaan](https://open.spotify.com/track/2GO3WlGrxjrPvnAXyfrZwy) | [Yugaant](https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv), [Krishna Bongane](https://open.spotify.com/artist/31Lwc4zHeIfdjNcs30wxNC) | [Bheegi Ankhiyaan](https://open.spotify.com/album/0Uz86ubX2WUXDWlCTqdWvj) | 6:31 |
-| 49 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
+| 49 | [High](https://open.spotify.com/track/1ejKjr17tS1xJdfnUroTdK) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 2:46 |
 | 50 | [Manwa](https://open.spotify.com/track/1hGwx6Sr7kzdycdPBoIQ2C) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Manwa](https://open.spotify.com/album/1VcBUBWM2GZZZhBWMo3ZNZ) | 3:59 |
 
-Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDQwMTY0Njk1YjY4MmVjYTFiNDhmOWI0NzMzZTBmMzhm`
+Snapshot ID: `MTY3NTMzMjk1OSwwMDAwMDAwMDk1OGZiNDY1ODc3OGZiYWNkNWRlOGYwZTE2MDQ4ODQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,407 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,447 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 27 | [Norty](https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Young Kieff](https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4) | [Onward](https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc) | 2:33 |
 | 28 | [Vio](https://open.spotify.com/track/2NLmRhd8PyUozDQRSnQ8RD) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Vio](https://open.spotify.com/album/6WC4uEu0ZKRQbbT86dLKW1) | 2:12 |
 | 29 | [Miami Vibes](https://open.spotify.com/track/028ScBVIUAYXeuiFvGki1e) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [898](https://open.spotify.com/album/3H8MfVpMUsydvLI5pbVUde) | 1:16 |
-| 30 | [NANANA](https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [NANANA](https://open.spotify.com/album/4kb9GNszUZkwCyvjdNn6go) | 3:53 |
+| 30 | [NANANA](https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [NANANA](https://open.spotify.com/album/4kb9GNszUZkwCyvjdNn6go) | 3:53 |
 | 31 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 |
 | 32 | [To' Tu Size](https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [To' Tu Size](https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2) | 2:56 |
 | 33 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 |

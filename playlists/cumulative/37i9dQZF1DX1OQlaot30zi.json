@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 212571,
       "name": "BAD DREAMS",
       "url": "https://open.spotify.com/track/6FRBKBK66QxI5EgAjx4Q5p"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 205085,
       "name": "CHIEF KEEF",
       "url": "https://open.spotify.com/track/5VcqW0d3xQjarpgAq76z7M"
@@ -11957,6 +11957,44 @@
     },
     {
       "album": {
+        "name": "Il Doc 3",
+        "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211429,
+      "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
+      "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
+    },
+    {
+      "album": {
         "name": "Il Lungo Viaggio",
         "url": "https://open.spotify.com/album/5pBR0lNjj02gNnEpW4m0HL"
       },
@@ -17008,7 +17046,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 180244,
       "name": "Nebbia",
       "url": "https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE"
@@ -21086,7 +21124,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-15",
       "duration_ms": 146000,
       "name": "Quando scrivo che sto male",
       "url": "https://open.spotify.com/track/6cCtiEqH1w7T2JH9odkBsO"

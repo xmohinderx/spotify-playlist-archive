@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,810 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,818 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 86 | [Heat Wave](https://open.spotify.com/track/1aM6FDnkN9iZZGwfxaz10Y) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [Slow Motion](https://open.spotify.com/album/6IryNbCY54sqtBcOL2vY60) | 3:32 |
 | 87 | [Bitter](https://open.spotify.com/track/5CtRiLuaTYS5LYvqocWPsq) | [CUB](https://open.spotify.com/artist/05IBfj7YDIhBkZRjoC7w4f), [Taylor J\. Frost](https://open.spotify.com/artist/2hrew4PnAbzEkeDMrNFJ4Z) | [Bitter](https://open.spotify.com/album/3tBdGynDpZNwQowRU39mTe) | 2:22 |
 | 88 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
-| 89 | [Honey, I](https://open.spotify.com/track/0fKgIfltjBZFvgaWdYlWEr) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/5au7m8lFVWix4Ic4RzF3Dw) | 2:33 |
+| 89 | [Honey, I](https://open.spotify.com/track/1EhSlF9Ngdp8YkP0aMOBhm) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/1TrshbQSRh22hQatHBXJgm) | 2:33 |
 | 90 | [90's Green Screen](https://open.spotify.com/track/7yXkyxotSbVF1mkP2KNjEA) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bad Sports](https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI) | 3:10 |
 | 91 | [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 |
 | 92 | [Could Be a Curse](https://open.spotify.com/track/2iuhthdVVoMu3gc735MOkh) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Next to The Sun](https://open.spotify.com/album/06nJsKOOzPhANRdoTRIQLl) | 6:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGUwNzk2MjI1YjliMGJiOTk3OTYxMzIyZTMyOTA4ODk1`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDYxYjk2ZjEwMDNlNzUxMmZmZTk5NTYxZDc0NzIwZTZi`

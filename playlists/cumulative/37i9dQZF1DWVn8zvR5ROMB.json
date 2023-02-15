@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "All of the newest country music releases in one playlist! Featuring Megan Moroney, Luke Combs, Bailey Zimmerman and more.",
+  "description": "All of the newest country music releases in one playlist! Featuring Kelsea Ballerini, Megan Moroney, Luke Combs and more.",
   "name": "New Music Friday Country",
   "tracks": [
     {
@@ -4982,6 +4982,24 @@
       "duration_ms": 188138,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/23BotmH1vhUlQoocFYoRuJ"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-544 songs - 1 day 7 hr 40 min
+545 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Higher](https://open.spotify.com/track/2dEMhq5qrP52ooZrtaPRTZ) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Higher](https://open.spotify.com/album/2Iozy73N8xt57vKBASmLu3) | 2:35 | 2021-12-28 | 2022-06-07 |
 | [Higher Love](https://open.spotify.com/track/12mlmqLn7OQUHEAZz5Myio) | [REVIVAL](https://open.spotify.com/artist/6N9gkxHYjNxaGY8gTgPD0L) | [Higher Love](https://open.spotify.com/album/5obUfTD0qjXxiQY3lroCHJ) | 3:12 | 2022-03-24 | 2022-04-20 |
 | [Hit 'Em](https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk) | [Refract](https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm) | [Hit 'Em](https://open.spotify.com/album/5pZ7OHl8T2iycRLdBTwMvR) | 3:00 | 2021-12-16 | 2022-10-05 |
-| [Home](https://open.spotify.com/track/57nbwxwiq9szIHvdnaikKo) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Home](https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA) | 4:14 | 2022-03-24 |  |
+| [Home](https://open.spotify.com/track/57nbwxwiq9szIHvdnaikKo) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Home](https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA) | 4:14 | 2022-03-24 | 2023-02-15 |
 | [Home](https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Home](https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i) | 3:54 | 2021-12-16 |  |
 | [Horrorshow](https://open.spotify.com/track/7j3yHIUcCQzuQv3fiQp4BN) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Horrorshow](https://open.spotify.com/album/1Dv5tHT8KndXXPwubxunDS) | 3:25 | 2022-05-23 | 2022-05-30 |
 | [Hunters Lullaby 2020](https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Hunters Lullaby 2020](https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv) | 2:53 | 2022-07-22 |  |
@@ -339,6 +339,7 @@
 | [Noon](https://open.spotify.com/track/3RxUBny41YbvA2zus4vWYA) | [Sylence](https://open.spotify.com/artist/0H6s1CbpvyZpA3hmZmuDxh) | [Noon](https://open.spotify.com/album/67ygLpPD068nalfKqNAfj6) | 3:36 | 2021-12-16 | 2022-06-22 |
 | [Now Or Never](https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Now Or Never](https://open.spotify.com/album/5PGcKMeUweI7SezXoIUkX8) | 3:54 | 2021-12-16 | 2022-06-13 |
 | [NRG](https://open.spotify.com/track/7pla1KbEojTBfSBAfO8QqG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [NRG](https://open.spotify.com/album/373ndAg7ONIo6b9h0620rU) | 3:43 | 2022-12-27 | 2023-01-03 |
+| [NRG OVERLOAD](https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [NRG OVERLOAD](https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5) | 3:24 | 2023-02-14 |  |
 | [On My Own](https://open.spotify.com/track/2xw66v4Dh3IDfSNwVHeDDq) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [On My Own](https://open.spotify.com/album/1M0OzVgrF1lKmteWYmDP7g) | 3:50 | 2022-06-12 | 2022-06-27 |
 | [One More Night](https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [One More Night](https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID) | 3:17 | 2022-07-07 |  |
 | [One More Track](https://open.spotify.com/track/1s36TgCXpzV2SidScpapiR) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [One More Track](https://open.spotify.com/album/4KwMAyGEhGjeH9igAWcM3w) | 3:37 | 2022-12-27 | 2023-01-03 |

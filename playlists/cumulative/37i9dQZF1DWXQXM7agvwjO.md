@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sore \(Indonesia\)
 
-592 songs - 1 day 11 hr 31 min
+593 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2022-07-28 | 2022-09-02 |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-21 | 2022-05-27 |
 | [Favourite Fancy](https://open.spotify.com/track/5yMwuzROEjjtgiR6NATaQX) | [Weaties](https://open.spotify.com/artist/0foXRONshhoO2y3oAlvMwc) | [Dreamland Ecstasy](https://open.spotify.com/album/5FpdtfuwZWFH5Iibn9MKDC) | 4:00 | 2022-06-30 | 2022-08-26 |
-| [Feel This Love](https://open.spotify.com/track/3JKllHjbLp56oRExQRnbAr) | [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm), [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Feel This Love](https://open.spotify.com/album/5g8ZhcJuUMnobkn9weEhan) | 3:32 | 2022-12-15 |  |
+| [FEEL THIS LOVE](https://open.spotify.com/track/6KhmAo0Um7GuSKA2ZfQ3dz) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU), [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm) | [Feel This Love](https://open.spotify.com/album/0bAhbt0LqaL4Bmct6gb6CZ) | 3:32 | 2023-02-09 |  |
+| [Feel This Love](https://open.spotify.com/track/3JKllHjbLp56oRExQRnbAr) | [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm), [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Feel This Love](https://open.spotify.com/album/5g8ZhcJuUMnobkn9weEhan) | 3:32 | 2022-12-15 | 2023-02-15 |
 | [Feeling Free](https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Feeling Free](https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt) | 2:41 | 2022-05-12 | 2022-06-10 |
 | [Fernweh \- Live](https://open.spotify.com/track/5KuGDy6XfdlqNNIQ3Ad7X2) | [Wake up, Iris !](https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1) | [Live at Wedding Concert](https://open.spotify.com/album/65wUHq01WHP7qO0ZRTvrpA) | 5:32 | 2022-08-18 | 2022-08-26 |
 | [Fish in a Can \- feat\. Oscar Lolang](https://open.spotify.com/track/2tWeWrvsVB7sK9KopCcpwE) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh), [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ) | [Fish in a Can \(feat\. Oscar Lolang\)](https://open.spotify.com/album/3F1aLofaKvFzU3u91tmKwF) | 4:00 | 2023-01-19 | 2023-02-03 |
