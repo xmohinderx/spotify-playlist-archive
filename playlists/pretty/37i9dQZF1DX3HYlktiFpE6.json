@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 97494,
+  "num_followers": 97523,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGVlZjFiZjA4M2ZlNzU1MGUxNWI1YTg0NWU1MzJhNzUw",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGM3YzljY2NlOGRiZjZlY2M3YWNiZWMyNTE3NTNlNDM3",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "No Ego",
+        "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "duration_ms": 174618,
+      "name": "No Ego",
+      "url": "https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Under the Influence: Holiday Edition",
         "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 160840,
       "name": "Text Me Merry Christmas (feat. Kristen Bell)",
       "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "No Ego",
-        "url": "https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv"
-      },
-      "artists": [
-        {
-          "name": "Citizen Queen",
-          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
-        }
-      ],
-      "duration_ms": 174618,
-      "name": "No Ego",
-      "url": "https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7"
     },
     {
       "added_at": "2021-12-24 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Francis Mercier, Nitefreak and Idd Aziz.",
-  "num_followers": 422356,
+  "num_followers": 422453,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDVlOTExNjliZmI1YmZhODlmNGZjNzU1ZTY0MDc5NjQ0",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGNkNTAzYmE1N2JhMjg5MGM1N2QyYzc4NjJjMTViODMw",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        },
-        {
           "name": "Nitefreak",
           "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
       "duration_ms": 226500,
@@ -291,7 +291,7 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Know Now feat. Pot\u00e9",
+        "name": "Know Now",
         "url": "https://open.spotify.com/album/2VwCecHsXzKvlm43gppca2"
       },
       "artists": [
@@ -305,7 +305,7 @@
         }
       ],
       "duration_ms": 194356,
-      "name": "Know Now feat. Pot\u00e9 - Edit",
+      "name": "Know Now - Edit",
       "url": "https://open.spotify.com/track/2rEVzghm2OUiI2dLMPPZtI"
     },
     {
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Just Dance #DQH1",
+        "url": "https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 128437,
+      "name": "We Should Get Lost",
+      "url": "https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "YEAH (feat. ClockClock)",
         "url": "https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 158847,
       "name": "YEAH (feat. ClockClock)",
       "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Just Dance #DQH1",
-        "url": "https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "We Should Get Lost",
-      "url": "https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Do You Feel The Same? (OCULA Remix)",
-        "url": "https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Do You Feel The Same? - OCULA Remix",
-      "url": "https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "What a Night",
         "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Do You Feel The Same? (OCULA Remix)",
+        "url": "https://open.spotify.com/album/6wdkY0pX5shDrKlGRZX1Gw"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Do You Feel The Same? - OCULA Remix",
+      "url": "https://open.spotify.com/track/588upfdUtSJ3Mvsqvyqzhs"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -759,26 +759,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
-        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4abMdLwbfQ9oH3Vo3P4b0D"
       },
       "artists": [
         {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         },
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Big Ever",
-          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         }
       ],
-      "duration_ms": 255133,
-      "name": "COPY COPY - Logic1000 & Big Ever Remix",
-      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
+      "duration_ms": 202311,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/4MWH2STcoLMilY6onCxMcb"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -803,22 +799,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4abMdLwbfQ9oH3Vo3P4b0D"
+        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
+        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
       },
       "artists": [
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
         },
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
         }
       ],
-      "duration_ms": 202311,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/4MWH2STcoLMilY6onCxMcb"
+      "duration_ms": 255133,
+      "name": "COPY COPY - Logic1000 & Big Ever Remix",
+      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "In Chicago (Danny Avila Remix)",
-        "url": "https://open.spotify.com/album/2q0KcucKDieWkpxU6HfZ0I"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "In Chicago - Danny Avila Remix",
-      "url": "https://open.spotify.com/track/4zp3dg8V6fsfCr8d6JIYfg"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "I Am Machine",
         "url": "https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "In Chicago (Danny Avila Remix)",
+        "url": "https://open.spotify.com/album/2q0KcucKDieWkpxU6HfZ0I"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "In Chicago - Danny Avila Remix",
+      "url": "https://open.spotify.com/track/4zp3dg8V6fsfCr8d6JIYfg"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Les Pays Bass",
+        "url": "https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "From Ashes To Love",
         "url": "https://open.spotify.com/album/1ZDr9iC66zHjnAfaMdp3Ew"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Les Pays Bass",
-        "url": "https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 150923,
-      "name": "How We Do",
-      "url": "https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Complete Me (feat. Self Esteem)",
         "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Stuck In My Head",
+        "url": "https://open.spotify.com/album/6GU79ScuP8XkpKkF9XYl2O"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 177275,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/11HvSQfrH10VPKN6ldSJ60"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Second Line",
         "url": "https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 251520,
       "name": "Second Line",
       "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Stuck In My Head",
-        "url": "https://open.spotify.com/album/6GU79ScuP8XkpKkF9XYl2O"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 177275,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/11HvSQfrH10VPKN6ldSJ60"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Washed Away",
-        "url": "https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG"
+        "name": "do my own thing",
+        "url": "https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 216178,
-      "name": "Washed Away",
-      "url": "https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC"
+      "duration_ms": 222165,
+      "name": "do my own thing",
+      "url": "https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1235,26 +1239,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "do my own thing",
-        "url": "https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 222165,
-      "name": "do my own thing",
-      "url": "https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Tarazed",
         "url": "https://open.spotify.com/album/03fHzOcSrqgaYKiKjs0Ldn"
       },
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/35bV3kqNrxxTovzo5vzkux"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/1rl6SwDgpQD3p5YjT2D1as"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Just For Tonight (feat. Franklin)",
         "url": "https://open.spotify.com/album/1oaPzHvQJz3k494QZOGLtY"
       },
@@ -1307,6 +1275,38 @@
       "duration_ms": 187694,
       "name": "Just For Tonight (feat. Franklin)",
       "url": "https://open.spotify.com/track/7qvS5oikoZH2yU2hVnmZJU"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/35bV3kqNrxxTovzo5vzkux"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/1rl6SwDgpQD3p5YjT2D1as"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Washed Away",
+        "url": "https://open.spotify.com/album/09QoxAzvcxepAkN38JOdlG"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 216178,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/6HAqSeXoh0A95Ao3qR6TNC"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Earthbound",
+        "url": "https://open.spotify.com/album/6NrVNDu3HnJRPAD3eiGaKv"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "Earthbound",
+      "url": "https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1U8DGxnL8G7H8nh8xP4T6E"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 273756,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5BPNLhLl3G1ouRbofll8Ya"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Earthbound",
-        "url": "https://open.spotify.com/album/6NrVNDu3HnJRPAD3eiGaKv"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "Earthbound",
-      "url": "https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Bamboleo",
+        "url": "https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Look in Your Eyes",
         "url": "https://open.spotify.com/album/1nGRDyu3n9B8O6brrJRVxD"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 176375,
       "name": "Home",
       "url": "https://open.spotify.com/track/1HnnDwgK9nnZAPPIyqYczs"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Bamboleo",
-        "url": "https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 180003,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Genie's Wish",
+        "url": "https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 367741,
+      "name": "Genie's Wish",
+      "url": "https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Future Funk",
         "url": "https://open.spotify.com/album/4FvskDWaBTBkxFJ7XinCrQ"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 451750,
       "name": "I Found Love",
       "url": "https://open.spotify.com/track/4ZABvHWz0DV9YoHEs7s4ha"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Genie's Wish",
-        "url": "https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 367741,
-      "name": "Genie's Wish",
-      "url": "https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1687,26 +1687,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Fire Sign (RAC Mix)",
-        "url": "https://open.spotify.com/album/6vNOW7ylitzceazHQCHrRx"
+        "name": "Love & Peace",
+        "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
       },
       "artists": [
         {
-          "name": "TRY",
-          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         },
         {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
         },
         {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+          "name": "3rd Dale Universe",
+          "url": "https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Fire Sign (RAC Mix)",
-      "url": "https://open.spotify.com/track/473diKaBabTSEuRy3oyZ4B"
+      "duration_ms": 360025,
+      "name": "Love & Peace",
+      "url": "https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1731,26 +1731,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Love & Peace",
-        "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
+        "name": "Fire Sign (RAC Mix)",
+        "url": "https://open.spotify.com/album/6vNOW7ylitzceazHQCHrRx"
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "TRY",
+          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
         },
         {
-          "name": "VE/RA",
-          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         },
         {
-          "name": "3rd Dale Universe",
-          "url": "https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N"
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
         }
       ],
-      "duration_ms": 360025,
-      "name": "Love & Peace",
-      "url": "https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH"
+      "duration_ms": 220000,
+      "name": "Fire Sign (RAC Mix)",
+      "url": "https://open.spotify.com/track/473diKaBabTSEuRy3oyZ4B"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Club Chennai",
+        "url": "https://open.spotify.com/album/6YNdraBe2RbxqWLLSdMHJR"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "duration_ms": 145312,
+      "name": "Club Chennai",
+      "url": "https://open.spotify.com/track/1Tw1ikzex7FQ1Gk2yomtjf"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "VODKA REDBULL",
         "url": "https://open.spotify.com/album/2wPn6Gz0LvDQ7OvnaxGDp2"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 410807,
       "name": "Why",
       "url": "https://open.spotify.com/track/57DdjHOuMdbgVW6eGcQDdZ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Club Chennai",
-        "url": "https://open.spotify.com/album/6YNdraBe2RbxqWLLSdMHJR"
-      },
-      "artists": [
-        {
-          "name": "aboywithabag",
-          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
-        }
-      ],
-      "duration_ms": 145312,
-      "name": "Club Chennai",
-      "url": "https://open.spotify.com/track/1Tw1ikzex7FQ1Gk2yomtjf"
     },
     {
       "added_at": "2023-02-10 05:00:00",

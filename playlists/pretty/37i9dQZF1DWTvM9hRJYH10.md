@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Walker County
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,967 likes - 141 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,009 likes - 141 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 113 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 |
 | 114 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 |
 | 115 | [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 |
-| 116 | [Made 4](https://open.spotify.com/track/3gEBsL6Z7BBAbi1Ajyoqhz) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/30LUVX6hFMmieW3evMB6FR) | 2:49 |
+| 116 | [Made 4](https://open.spotify.com/track/4COnGh5sbj0RDu4dlXQ1TO) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/6Eacil6L3AjYDm3eLYDR8I) | 2:49 |
 | 117 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 |
 | 118 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 |
 | 119 | [Fireworks](https://open.spotify.com/track/3Y7omwsDJdFCPnfzrlU4J6) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Fireworks](https://open.spotify.com/album/1jjaT5DFXEu1bJUEiH6k5a) | 3:09 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 140 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 141 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDI5YmRlNTZhY2QzMGMyZTlmNjRlNDcxYTk5N2Y5MzI1`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDBiMGI0YzMyOTNjYjYwMzE2NWZiN2IzZjJhMjA0OWU5`

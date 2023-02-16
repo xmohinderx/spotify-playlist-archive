@@ -56,10 +56,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 117266,
       "name": "Adios Saturn",
       "url": "https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117266,
+      "name": "Adios Saturn",
+      "url": "https://open.spotify.com/track/7HmsqYHRq6RJ9Ecfodc42J"
     },
     {
       "album": {
@@ -586,6 +604,24 @@
     {
       "album": {
         "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369013,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
         "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
       },
       "artists": [
@@ -596,7 +632,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 369013,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/20x7Yl5RbR4KVXbm3zrfJT"
@@ -1694,6 +1730,24 @@
     {
       "album": {
         "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "Tribal Secret",
+      "url": "https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
         "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
       },
       "artists": [
@@ -1704,7 +1758,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 232826,
       "name": "Tribal Secret",
       "url": "https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb"

@@ -1,13 +1,157 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: October London. Updates every Wednesday.",
-  "num_followers": 184986,
+  "description": "The best new R&B by independent artists and labels. Cover: Dende. Updates every Wednesday.",
+  "num_followers": 185186,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjIyMTkyOCwwMDAwMDAwMDlkZjFhZGZkYTY4Nzg2ZTllOTk0MmVkYWQxNmM0OGY2",
+  "snapshot_id": "MTY3NjQ4NDA1NywwMDAwMDAwMDJjYTQ4OWYwNWJkZjZjNzM3ZWFkNWVhNGFiMjA0NTQy",
   "tracks": [
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/2sUj3b8zQW0vXbM5vskKDi"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 174377,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/49CxhjWWJtrK3tWpguzBa1"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Look What You've Done",
+        "url": "https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 312727,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Holy Matrimony",
+        "url": "https://open.spotify.com/album/6Cn27nojC5fxgmg9UssgBH"
+      },
+      "artists": [
+        {
+          "name": "Biako",
+          "url": "https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ"
+        },
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        }
+      ],
+      "duration_ms": 212891,
+      "name": "Holy Matrimony",
+      "url": "https://open.spotify.com/track/7epsNaprQlgiZKNJeUwvKk"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "I Need a Man",
+        "url": "https://open.spotify.com/album/22FtOJEh5b0I4MvcTzXLfC"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/6Psfq1J15VrKfpBX4yrk6n"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Good Soup",
+        "url": "https://open.spotify.com/album/6Ht6MZtQ6q3KGA3XPJRxE5"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 165090,
+      "name": "Good Soup",
+      "url": "https://open.spotify.com/track/6v5ScPhmqynAcnDv5MwZiA"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Kill For Me",
+        "url": "https://open.spotify.com/album/7pZtsED6CbIjHuYpKl1xNJ"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 102751,
+      "name": "Kill For Me",
+      "url": "https://open.spotify.com/track/2yfHDd0rPoElTIYyHo5G41"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1aVD37MunPyJLvoqzHCT0H"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/7yzGxiFYEvIKDF8O631SfD"
+        },
+        {
+          "name": "Rob Milton",
+          "url": "https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl"
+        },
+        {
+          "name": "Kreion",
+          "url": "https://open.spotify.com/artist/7LISCndpoLbnClw5EKFciA"
+        }
+      ],
+      "duration_ms": 248732,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/11hMudTCmm4xDRFhuZj150"
+    },
+    {
+      "added_at": "2023-02-15 18:00:57",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/7jpDZj2yrIlw3zjErexyNs"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 172357,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/6cCyjraOsNKQtIEt3Qmn1R"
+    },
     {
       "added_at": "2023-02-10 19:40:32",
       "album": {

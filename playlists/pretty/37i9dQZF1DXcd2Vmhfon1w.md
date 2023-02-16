@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,475 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,643 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 27 | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/track/0qZXZnRY8HnJSwnXW3qxwu) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/album/0wge0858QmI3lcVnbJkZD7) | 4:20 |
 | 28 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 29 | [Afloja](https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/13U39sti555PIUZA7VGUJu) | 3:24 |
-| 30 | [Sorry Not Sorry](https://open.spotify.com/track/6avzLyDdk3Qjxpazk6EeU1) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/2EaPSAMGWUxg9OGTCmEUFu) | 3:32 |
+| 30 | [Sorry Not Sorry](https://open.spotify.com/track/1tgmLnQepRcuHYGj0pgObJ) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/3kGwvdxAA643sChHnAF9Nl) | 3:32 |
 | 31 | [Nanai](https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Nanai](https://open.spotify.com/album/73HBLirEmtxzVgwdkNjgVD) | 2:52 |
 | 32 | [Sudores fríos](https://open.spotify.com/track/4OuiDQdjh3I7aswGHyT0rC) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:35 |
 | 33 | [La Mili](https://open.spotify.com/track/3JZQr9C0hQbhs0uV98KLMo) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [La Mili](https://open.spotify.com/album/5IpcI6X72fiNGb23A0208k) | 2:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 54 | [Ojos Verdes](https://open.spotify.com/track/5uE3JWZGT0JybAFVLkTlJE) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Ojos Verdes](https://open.spotify.com/album/66cFPe1d4WUwhcqQRxePLK) | 3:10 |
 | 55 | [Pa que lo gocen \(feat\. Dollar Selmouni & Blasfem\)](https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Yipiyou](https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH) | 3:40 |
 
-Snapshot ID: `MTY3NjM4MDMwNiwwMDAwMDAwMDc3MDQ5ZTA1ODM3ZTQxOWMzOGFmOTBmMzUzNjQ0N2Nl`
+Snapshot ID: `MTY3NjM4MDMwNiwwMDAwMDAwMDI1ZDM2ODQ2ODlmYmU2NTU2ZmZlZWQ5OWQyNGYzNDIz`

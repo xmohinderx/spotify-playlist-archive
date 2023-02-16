@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,474 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,494 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 |
 | 2 | [Whiskey in the Jar](https://open.spotify.com/track/1rJCuds0vDMAjF5RdZU7bq) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Hell's Ditch \(Expanded Edition\)](https://open.spotify.com/album/6vWXyEHqnvo4C5xniFTmR8) | 2:41 |
 | 3 | [Drunken Sailor](https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 2:56 |
-| 4 | [The Galway Girl](https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA) | [Sharon Shannon](https://open.spotify.com/artist/3RIGLFSO0Kko3nUX3ZlHCa), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [The Diamond Mountain Sessions](https://open.spotify.com/album/0TlKDECAhgxns4WLP9uAly) | 3:00 |
+| 4 | [The Galway Girl](https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA) | [Sharon Shannon](https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [The Diamond Mountain Sessions](https://open.spotify.com/album/0TlKDECAhgxns4WLP9uAly) | 3:00 |
 | 5 | [Tell Me Ma](https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 2:43 |
 | 6 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 7 | [The Rocky Road To Dublin](https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [The High Kings](https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A) | 3:16 |

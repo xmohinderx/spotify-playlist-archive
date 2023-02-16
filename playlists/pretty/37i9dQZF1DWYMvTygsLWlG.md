@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 ### [Love Ballads: Michael Bublé Takeover](https://open.spotify.com/playlist/37i9dQZF1DWYMvTygsLWlG)
 
-> Ready for Valentine’s Day? Michael Bublé got you covered!
+> Sit back and enjoy Michael Bublé’s favorite love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968,209 likes - 67 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969,134 likes - 67 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 66 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 67 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 |
 
-Snapshot ID: `MTY3NjA0NDIzMiwwMDAwMDAwMDQ3NmNmZWMxOWU4ZTU4OGVhYTc2ZDdmMjk5OTZjMjRj`
+Snapshot ID: `MTY3NjQ2NjU0NCwwMDAwMDAwMDk5MzgyYzhjYzFmYjFiNmY2MTY4YjY0MjMyY2FmNzA0`

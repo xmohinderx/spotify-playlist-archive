@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 214196,
       "name": "Daayein Baayein",
       "url": "https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 214196,
       "name": "Daayein Baayein",
       "url": "https://open.spotify.com/track/1wRU4dzyc2MkfJpQHJvyr3"
@@ -742,6 +742,24 @@
       "duration_ms": 246741,
       "name": "Khulke Jeene Ka",
       "url": "https://open.spotify.com/track/1XFZMenJ30FfGOsj8X5sqf"
+    },
+    {
+      "album": {
+        "name": "Kismat",
+        "url": "https://open.spotify.com/album/3Pj09oQmFIEHp4c4vyj7V2"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Kismat",
+      "url": "https://open.spotify.com/track/4ayiP1wbII3kw0Ru6TP8rJ"
     },
     {
       "album": {
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 199050,
       "name": "Udja",
       "url": "https://open.spotify.com/track/3wcG9v5Z22SjvWsK7YGJvC"

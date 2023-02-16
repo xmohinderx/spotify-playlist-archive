@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "album": {
         "name": "BM (London View)",
         "url": "https://open.spotify.com/album/4oB0i1S43BE1uM7eopeurT"
       },
@@ -11390,10 +11408,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 128039,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/3196FTomYwgmYSSwqsm0d1"
+    },
+    {
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/5ngylQLcJJDWjT8TWR9iaL"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7f63h8h5cWmec69yXvrkBm"
     },
     {
       "album": {
@@ -19165,6 +19201,28 @@
     },
     {
       "album": {
+        "name": "Tata X Jenn Carter - OTR Cypher x tell 'em",
+        "url": "https://open.spotify.com/album/5g7VqnfFn2NYxflf7eEkfr"
+      },
+      "artists": [
+        {
+          "name": "lmaopay",
+          "url": "https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K"
+        },
+        {
+          "name": "starrstain",
+          "url": "https://open.spotify.com/artist/2hcYnsObiMj0BPiXsGFPyX"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95425,
+      "name": "Tata X Jenn Carter - OTR Cypher x tell 'em",
+      "url": "https://open.spotify.com/track/65UofZIeqIMCEcICfWnsCw"
+    },
+    {
+      "album": {
         "name": "Tata X Jenn Carter - OTR Cypher x tell \u2018em",
         "url": "https://open.spotify.com/album/7upsoKXSOs1yqtGdaN0Eqj"
       },
@@ -21244,7 +21302,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"

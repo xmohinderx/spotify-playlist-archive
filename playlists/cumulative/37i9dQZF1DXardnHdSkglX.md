@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-178 songs - 10 hr 46 min
+179 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 | 2021-12-09 |  |
 | [O Samba é Meu Dom](https://open.spotify.com/track/1xvF5QCzObDTJi1jDqK9y0) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Samba é Meu Dom](https://open.spotify.com/album/3uC7h8E2fgHMiksDQCerNv) | 4:20 | 2021-12-09 |  |
 | [Over My Shoulder](https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi) | [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Soft Lounge Favorites](https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK) | 3:40 | 2022-08-01 |  |
-| [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-01 |  |
+| [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-01 | 2023-02-16 |
+| [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 | 2023-01-19 |  |
 | [Peaches](https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs) | 3:16 | 2021-12-09 | 2022-07-29 |
 | [Poker Face \(Bossa Version\)](https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:03 | 2021-12-09 | 2022-06-15 |
 | [Positions \- Bossa Version](https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl) | [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Positions \(Bossa Version\)](https://open.spotify.com/album/218e30ooDSv9hrL6127O7b) | 3:50 | 2022-12-21 |  |

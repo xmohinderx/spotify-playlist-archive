@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,870 likes - 384 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,234 likes - 384 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 80 | [Picnick](https://open.spotify.com/track/6CyYIjbUN6lMnkQUH2c0Lj) | [La Boucle](https://open.spotify.com/artist/6R14Zw9WcySCc35CvliDbV) | [Picnick](https://open.spotify.com/album/2ywLc02L8RRBeQsPlSBUFo) | 3:10 |
 | 81 | [It's just a phase](https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [It's just a phase](https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN) | 2:18 |
 | 82 | [Take Me Home](https://open.spotify.com/track/5jAekgB85XBqftUCFnwjzY) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Take Me Home](https://open.spotify.com/album/2cLV825YiKZOxONjRFckV4) | 2:08 |
-| 83 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 |
+| 83 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 |
 | 84 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 |
 | 85 | [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 |
 | 86 | [Dauner](https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Dauner](https://open.spotify.com/album/6Sw481IbHxVz3HBQPcNxeM) | 2:51 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 383 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 384 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGNlM2E1NzdjZGIxZDQ5NDRiZjliZTRhODFkMjJlYzZl`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDUzNjk5YWQ0NmZkNjYwZTI1NGUxMDczY2Y5ZmRhMDEy`

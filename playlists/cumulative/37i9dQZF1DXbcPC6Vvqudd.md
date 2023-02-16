@@ -2,7 +2,7 @@
 
 ### [Night Rain](https://open.spotify.com/playlist/37i9dQZF1DXbcPC6Vvqudd)
 
-> Pouring rain and occasional rolling thunder.
+> Sleep with sounds of pouring rain and occasional rolling thunder.
 
 413 songs - 18 hr 29 min
 

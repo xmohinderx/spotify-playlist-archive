@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42734,
+  "num_followers": 42744,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5Mzg2MywwMDAwMDAwMDI1ZTkxMDE3MjFiNmQ4NmM1ZTM4MjM2NjM3NzA3ZjZj",
+  "snapshot_id": "MTY3NjM5Mzg2MywwMDAwMDAwMDA5OTQwOGQ2ODZiZGVkNGM4NGMxNjUwMDk5M2VlNGQ3",
   "tracks": [
     {
       "added_at": "2023-02-09 14:59:58",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
     },
     {
-      "added_at": "2023-02-15 01:05:23",
+      "added_at": "2023-02-16 01:18:29",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-09 14:59:58",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-02-09 14:59:58",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 221596,
       "name": "Proof",
       "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
+    },
+    {
+      "added_at": "2023-02-09 14:59:58",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-02-09 14:59:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-09 14:59:58",
       "album": {
-        "name": "Pink Balloon / Sea Lions",
-        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Sea Lions",
-      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
-    },
-    {
-      "added_at": "2023-02-09 14:59:58",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "added_at": "2023-02-09 14:59:58",
+      "album": {
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
     },
     {
       "added_at": "2023-02-09 14:59:58",

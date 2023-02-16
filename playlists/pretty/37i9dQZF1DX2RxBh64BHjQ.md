@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5kxnZh8gXyXdIvCWbDMevT">Eem Triplin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,732,925 likes - 99 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,733,364 likes - 99 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 39 | [Goodbye](https://open.spotify.com/track/5FaVpZEBZKGGYIMsVyBiVu) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23 2x](https://open.spotify.com/album/4pTWt5Fl7H3xcxavhRxL9X) | 2:48 |
 | 40 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 41 | [Where U From](https://open.spotify.com/track/7La3vkQJ8Jb5CyuymXFNTR) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 2:41 |
-| 42 | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Baby Drill](https://open.spotify.com/artist/43H1E3rdpJ3vvWmG63uBGn) | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/album/54nj9Z5fG99q1jgoiew0Zd) | 2:24 |
+| 42 | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/album/54nj9Z5fG99q1jgoiew0Zd) | 2:24 |
 | 43 | [4GOD II](https://open.spotify.com/track/0AypHPJVKS6aN54zs1UZNc) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [4GOD II](https://open.spotify.com/album/5pgNt5QUGCJdDeux6gATIS) | 2:41 |
 | 44 | [Whippin It](https://open.spotify.com/track/1FukL3J30psHixQeIdN0ed) | [Bslime](https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Love Me or Don't](https://open.spotify.com/album/5EHLCGL63KH1tIn82vAQoY) | 2:57 |
 | 45 | [Ain’t Right](https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Main Bird](https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo) | 2:06 |

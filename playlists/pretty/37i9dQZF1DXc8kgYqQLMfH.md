@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,182 likes - 515 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,316 likes - 515 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 277 | [Memories From Summer](https://open.spotify.com/track/14q9dOn3R4uJtyg0owI1JT) | [Dylan Boote](https://open.spotify.com/artist/4rS5YqGle242fTdHjfNk6L) | [Memories From Summer](https://open.spotify.com/album/046GDsndzjqWsDkjAhaWfM) | 2:02 |
 | 278 | [Astral Projection](https://open.spotify.com/track/5JpOdFmdumMpJ6WYovtLt4) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [Audiorealm](https://open.spotify.com/artist/6CxmksukboadF6WqD1KuE1) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:53 |
 | 279 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 |
-| 280 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 |
+| 280 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 |
 | 281 | [Winter Dawn](https://open.spotify.com/track/5YU5fWdQqKjYPy8kigeWKl) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [powerslacker](https://open.spotify.com/artist/1jawOx8A29jhyEQfnm7gMX) | [Winter Dawn](https://open.spotify.com/album/4tqF2LrvOFESOFRoe0Zl0J) | 2:37 |
 | 282 | [Oblivious](https://open.spotify.com/track/6JGRktSYyPOqIlUqxuEKQD) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Oblivious](https://open.spotify.com/album/3W0zN0qXJxk0Syqim6RQuV) | 1:57 |
 | 283 | [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 |
@@ -524,4 +524,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 514 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 515 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY3NTc3MzY0MiwwMDAwMDAwMGU0ZjA5NDczYmUzODIyYTQxYjQwOGJmMTgxODhjZjcw`
+Snapshot ID: `MTY3NTc3MzY0MiwwMDAwMDAwMDJjNjRhMWRlOTI4OWM5YjI5NzZhYzQ1ZGZiZDhjOTll`

@@ -1815,6 +1815,32 @@
     },
     {
       "album": {
+        "name": "It's Dangerous To Go Alone",
+        "url": "https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Hrishikesh Hirway",
+          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
+        },
+        {
+          "name": "Ty Demo",
+          "url": "https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0c8msQ2gqWJOlrPUV7IxIY"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO"
       },
@@ -1834,7 +1860,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 206571,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS"

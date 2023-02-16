@@ -2,9 +2,9 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: DANO
+> KLASS 2023: MOHELÁ
 
-814 songs - 1 day 12 hr 5 min
+815 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bra kväll](https://open.spotify.com/track/3fn38lky1wEnGfZOpu4eqA) | [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [Bra kväll](https://open.spotify.com/album/0ycDtHMYMcGlahQPg36PAs) | 2:31 | 2022-04-14 | 2022-05-06 |
 | [Bra Snart](https://open.spotify.com/track/2NiMsdOoFl6i7J1XKJUwpx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:58 | 2022-11-17 | 2022-12-02 |
 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 | 2021-12-16 | 2022-11-25 |
+| [BRAZIL](https://open.spotify.com/track/0MNNXGTgc5wL5MPOGkEZNE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [BRAZIL](https://open.spotify.com/album/67KMwvlewFdeXnTnUNWKXu) | 2:30 | 2023-02-15 |  |
 | [Brevet](https://open.spotify.com/track/2DGlspVkq3a1Nlqtij7Fba) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Brevet](https://open.spotify.com/album/1Yn5thhBSdeUtmeoB2cIje) | 3:07 | 2022-04-07 | 2022-04-26 |
 | [BRING EM](https://open.spotify.com/track/1NwBoKLOfxUYTc0CsHfN3K) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:55 | 2022-11-24 | 2023-01-27 |
 | [BRODIE](https://open.spotify.com/track/2P2KwUw2Tdhry4DX34WkSQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [BRODIE](https://open.spotify.com/album/731Z71rhXYS6ZYR2cmqR2n) | 2:41 | 2022-08-18 | 2022-09-23 |
@@ -166,7 +167,7 @@
 | [Chocolata](https://open.spotify.com/track/27G9K6OFL17tQc14q5EUEA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-08 | 2023-01-06 |
 | [Chris Rock](https://open.spotify.com/track/3tbV2Cn1pCM4hhFSh70QwY) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Chris Rock](https://open.spotify.com/album/3TcgBgu9kU7jGEJjKXvByQ) | 2:19 | 2023-02-02 |  |
 | [Cirkel](https://open.spotify.com/track/7joU4tyNjJr0QUqAXQVkAX) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Cirkel](https://open.spotify.com/album/3X5YvPFQsyFmi6c6JxmQKw) | 2:23 | 2022-01-13 | 2022-02-04 |
-| [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozz6y](https://open.spotify.com/artist/4wpkcmQdt0QczYmULMLxsN) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 | 2023-01-26 |  |
+| [CIRKELN](https://open.spotify.com/track/6QEn8jCSoKaKWDGtyOImfs) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [CIRKELN](https://open.spotify.com/album/034NP4cFA56qqv2kUV1vfI) | 3:07 | 2023-01-26 |  |
 | [City](https://open.spotify.com/track/6fAUEo8PA6XrfZkU0pfnmK) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [City](https://open.spotify.com/album/5lgINLDSMBBIKqrSHDWYYq) | 2:22 | 2022-06-09 | 2022-08-16 |
 | [City \(feat\. A36\)](https://open.spotify.com/track/3o3L7pnXxyytOVPYJOm93W) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [City \(feat\. A36\)](https://open.spotify.com/album/1q1NTZmXxIkRSpH8y59Dy8) | 2:36 | 2022-04-07 | 2022-04-15 |
 | [CLAP CLAP](https://open.spotify.com/track/5CrDbsRpo7CqWeP2xjD3kr) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:32 | 2022-09-01 | 2022-09-30 |
@@ -512,7 +513,7 @@
 | [Mitt i prick](https://open.spotify.com/track/1fOAy8tUHchc6OulnLBzlE) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Mitt i prick](https://open.spotify.com/album/3U1fzI8jAwSqoHwBjOf7ys) | 2:29 | 2021-12-16 | 2022-05-27 |
 | [MMX\-MRS](https://open.spotify.com/track/1zLqSH1pYoemWiIlL6jO7y) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [MMX\-MRS](https://open.spotify.com/album/0CgFSICbdu8ueVhiwSDZdh) | 2:35 | 2022-05-12 | 2022-06-03 |
 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 | 2022-02-17 | 2022-03-11 |
-| [Modeller](https://open.spotify.com/track/7svT4ypMkqp7IEltrK5eit) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [Modeller](https://open.spotify.com/album/0O4vSqdE9AMFQnbDgsIQ3V) | 1:58 | 2023-01-26 |  |
+| [Modeller](https://open.spotify.com/track/7svT4ypMkqp7IEltrK5eit) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [Modeller](https://open.spotify.com/album/0O4vSqdE9AMFQnbDgsIQ3V) | 1:58 | 2023-01-26 | 2023-02-16 |
 | [MON FRÉRE](https://open.spotify.com/track/2C05qOxNv5SCtsgwOMOmgb) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [MON FRÉRE](https://open.spotify.com/album/6ptfYBuCBnjD0Ct1qkdPgz) | 1:33 | 2023-02-13 |  |
 | [MONACO](https://open.spotify.com/track/5JvQGmoHTGGuXTlbyZq0U0) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [MONACO](https://open.spotify.com/album/0EepVQhwDeJqt4EPR7VHZ1) | 2:25 | 2022-08-18 | 2022-10-21 |
 | [Monclizzy](https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Monclizzy](https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q) | 1:44 | 2022-11-17 | 2023-02-09 |

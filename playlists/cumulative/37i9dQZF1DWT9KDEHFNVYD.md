@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-317 songs - 1 day 5 hr 33 min
+318 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Edge Of Wonder \- Andrew Weatherall remix](https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [Oscillations 2019](https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU) | 9:03 | 2021-07-30 | 2023-01-26 |
 | [El Camino](https://open.spotify.com/track/6For0xsv97TPl1X1093Lpv) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Sei Still](https://open.spotify.com/album/0BpHN04KTTokAjsMHHP1oz) | 7:48 | 2021-07-30 | 2023-01-26 |
 | [El Camino](https://open.spotify.com/track/5MkxQg7z6vqgbVKdLdyaFh) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Camino](https://open.spotify.com/album/7zmF5OYpcjJ75jDvuTjwix) | 7:54 | 2021-07-30 | 2022-07-29 |
-| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 |  |
+| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 | 2023-02-16 |
 | [Electronic Track 15](https://open.spotify.com/track/3CAmwEqxHr7vXX30VfrJ6B) | [Cecil Leuter](https://open.spotify.com/artist/700j6BXXlji6HaEhmN2YjX) | [Luke Vibert's Nuggets](https://open.spotify.com/album/0DCe05QuXwQB5d42nynTc6) | 1:31 | 2021-07-30 | 2023-01-26 |
 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2021-11-05 | 2023-01-26 |
 | [Equilibrio](https://open.spotify.com/track/7jkbwPOYDsXxtOLfj6YWG5) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [Uno de Estos Días](https://open.spotify.com/album/4bkFmSdZeSN3ZgP8ouFBhU) | 4:52 | 2021-07-30 | 2023-01-26 |
@@ -168,6 +168,7 @@
 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 | 2021-07-30 | 2023-01-26 |
 | [Make Out Fade Out](https://open.spotify.com/track/2dMunf6FJIBck5WtLCre2m) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Make Out Fade Out](https://open.spotify.com/album/5aZ4yTNIFcb1zBLqVm7w4a) | 3:11 | 2021-07-30 | 2023-01-26 |
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-07-30 | 2023-02-10 |
+| [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 | 2021-07-30 |  |
 | [Mexican Grand Prix](https://open.spotify.com/track/2lUeYhDWj09OWxoadPib3f) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Hardcore Will Never Die, But You Will](https://open.spotify.com/album/6JTor8A7s5GeWGnUtXZg5h) | 5:17 | 2021-07-30 | 2023-01-26 |
 | [Mexican Grand Prix](https://open.spotify.com/track/4uK0yMnGBVMZa6c8UeHVpV) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Hardcore Will Never Die, but You Will \(Music for a Forgotten Future\)](https://open.spotify.com/album/7w4z35rOtFKt9gHRTU6Qil) | 5:17 | 2021-07-30 | 2022-07-29 |
 | [Millionenspiel](https://open.spotify.com/track/3OgOIKocYHVBXuqncsV7hc) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [The Lost Tapes](https://open.spotify.com/album/6sSNM2yGp1jPKUEwhPldmm) | 5:49 | 2021-07-30 | 2023-01-26 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-176 songs - 9 hr 46 min
+177 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Smokin Loud](https://open.spotify.com/track/1gS0Q8S8jOaetLdL4Ji798) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Bombony Montana](https://open.spotify.com/artist/5sIpYN3jl80npXJ3GkcWG5) | [Smokin' Loud](https://open.spotify.com/album/7G9mS8OL44JTMd9vGKoRas) | 3:01 | 2023-01-17 | 2023-02-15 |
 | [Social Drive](https://open.spotify.com/track/3SWWgc3aAbor9oRs3fRpzb) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Social Drive](https://open.spotify.com/album/4vrHUkGiWCrgL4adOzIyL7) | 4:31 | 2022-02-04 | 2022-04-22 |
 | [Solo pienso en ti](https://open.spotify.com/track/2hLyWkdMjWsudBEvJ5bokV) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Solo pienso en ti](https://open.spotify.com/album/0kmMqkeWJZbgTwtE7yGonU) | 4:43 | 2023-02-14 |  |
-| [Sorry Not Sorry](https://open.spotify.com/track/6avzLyDdk3Qjxpazk6EeU1) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/2EaPSAMGWUxg9OGTCmEUFu) | 3:32 | 2022-11-29 |  |
+| [Sorry Not Sorry](https://open.spotify.com/track/1tgmLnQepRcuHYGj0pgObJ) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/3kGwvdxAA643sChHnAF9Nl) | 3:32 | 2023-02-14 |  |
+| [Sorry Not Sorry](https://open.spotify.com/track/6avzLyDdk3Qjxpazk6EeU1) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/2EaPSAMGWUxg9OGTCmEUFu) | 3:32 | 2022-11-29 | 2023-02-16 |
 | [Soy Así](https://open.spotify.com/track/5a16CSPDkcFU6rkZe3XaLN) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1tITJo6GckWZXtVmadfh0Q) | [Soy Así](https://open.spotify.com/album/6iuIeaHrNp5wnIWipKPTCs) | 2:42 | 2022-01-21 | 2022-02-05 |
 | [Subsidio](https://open.spotify.com/track/0dpWPLQzGd9w4Lk482aYSl) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Subsidio](https://open.spotify.com/album/4NVmsTpkmWzVqd0LGKw98M) | 2:08 | 2022-02-04 | 2022-03-17 |
 | [Sudores fríos](https://open.spotify.com/track/3fTPnf1cNtC8k6nrT0j9wm) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:35 | 2022-01-21 | 2022-08-11 |

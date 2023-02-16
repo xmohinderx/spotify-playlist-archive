@@ -18,8 +18,8 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Pajane",
-          "url": "https://open.spotify.com/artist/2o4A9oTZPZJXTR9VIRVHQ4"
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
         }
       ],
       "date_added": "2023-02-10",
@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "To What End",
+        "url": "https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Toine Jameson",
+          "url": "https://open.spotify.com/artist/5Sql9pzSHGCzUJUXvtZCcK"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Bartenders (feat. Toine Jameson)",
+      "url": "https://open.spotify.com/track/0127mZaKLNesIX582WB4R1"
+    },
+    {
+      "album": {
         "name": "4th Feb (Stay Awake) / BC",
         "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
       },
@@ -138,7 +160,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 222240,
       "name": "Choices (feat. Phonte, Bemyfiasco & Kay Young)",
       "url": "https://open.spotify.com/track/4i7ZLAOwsZwR3cBweCe7R6"

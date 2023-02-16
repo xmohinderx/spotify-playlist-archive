@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "14 De Febrero",
+      "url": "https://open.spotify.com/track/2GZmcIwvFeu3NgKu1HJL4u"
+    },
+    {
+      "album": {
         "name": "Parodias",
         "url": "https://open.spotify.com/album/2GAby8ddMfsAJqZD2VQKKN"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 183716,
       "name": "6 A.M.",
       "url": "https://open.spotify.com/track/5axSTOstQDAbVdq4fUTJdP"
@@ -4794,7 +4812,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -6014,7 +6032,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -8968,7 +8986,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -14958,7 +14976,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 230360,
       "name": "San Valentont\u00edn",
       "url": "https://open.spotify.com/track/6ENUnIGZD3PLWtfligVj0f"
@@ -20008,6 +20026,24 @@
       "duration_ms": 197578,
       "name": "Yes t0 Heaven",
       "url": "https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG"
+    },
+    {
+      "album": {
+        "name": "Yes To Heaven",
+        "url": "https://open.spotify.com/album/16WkTNmbOwEvcILisyzoPR"
+      },
+      "artists": [
+        {
+          "name": "August",
+          "url": "https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Yes To Heaven",
+      "url": "https://open.spotify.com/track/4yGwZVc0GFdUl48wqdtbQ8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-181 songs - 10 hr 37 min
+182 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [LA ARAÑA](https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:28 | 2022-08-19 | 2022-09-10 |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-22 | 2022-08-21 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-29 | 2022-07-20 |
-| [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 | 2022-08-19 |  |
+| [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 | 2022-08-19 | 2023-02-16 |
+| [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0pIsxvDSRvF3FLhWLALMgv) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/6g3jnQwT91lVUzOydlZjqD) | 4:22 | 2022-10-28 |  |
 | [La Foto](https://open.spotify.com/track/6ubfIxvIdkcICVNzsdvdFc) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ), [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Foto](https://open.spotify.com/album/5ks9k8UqomuzIKdhSuDaPP) | 3:33 | 2022-08-19 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-07-19 |  |
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-07-19 |  |

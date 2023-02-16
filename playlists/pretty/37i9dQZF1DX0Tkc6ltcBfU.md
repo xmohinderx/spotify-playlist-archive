@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Luh Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,489 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,693 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 38 | [Check \(feat\. Big Yavo\)](https://open.spotify.com/track/3g2H2JmJKe7NZyZBIMXgN3) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Check \(feat\. Big Yavo\)](https://open.spotify.com/album/6NUnyYTNV94AbTehZ3BHRM) | 2:10 |
 | 39 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 40 | [Roll A opp](https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wrong Turn](https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ) | 3:18 |
-| 41 | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Baby Drill](https://open.spotify.com/artist/43H1E3rdpJ3vvWmG63uBGn) | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/album/54nj9Z5fG99q1jgoiew0Zd) | 2:24 |
+| 41 | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Brody Trippin \(feat\. Baby Drill\)](https://open.spotify.com/album/54nj9Z5fG99q1jgoiew0Zd) | 2:24 |
 | 42 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 |
 | 43 | [Where U From](https://open.spotify.com/track/7La3vkQJ8Jb5CyuymXFNTR) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 2:41 |
 | 44 | [I Got A Bag \(feat\. Hotboii\)](https://open.spotify.com/track/7rGzPK1JTUn91efeiIidNo) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [I Got A Bag \(feat\. Hotboii\)](https://open.spotify.com/album/09393QYm3Cx97sFoSEvjzE) | 3:21 |

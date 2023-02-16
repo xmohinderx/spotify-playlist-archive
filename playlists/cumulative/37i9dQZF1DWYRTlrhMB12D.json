@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Soulful Hindi songs for your nostalgic journey",
+  "description": "Soulful Hindi songs for your nostalgic journey. Cover - Kabhi Kabhie",
   "name": "Old is Gold",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 265743,
       "name": "Aaja Sanam Madhur Chandni Men",
       "url": "https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 315613,
       "name": "Ajib Dastan Hai Yeh",
       "url": "https://open.spotify.com/track/1O5qA3XSUP6Kxn0eeSJls4"
@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Humforlatadidi",
+        "url": "https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein (Duet)",
+      "url": "https://open.spotify.com/track/3fv7fFA81kccqQc7FV5c7Y"
+    },
+    {
+      "album": {
         "name": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA"
       },
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 229506,
       "name": "Suhana Safar Aur Yeh Mausam",
       "url": "https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt"

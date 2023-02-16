@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,819 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,827 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 36 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
 | 37 | [Emeline](https://open.spotify.com/track/5AF6aEjNuG70gDimdRjdjm) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Emeline](https://open.spotify.com/album/4DhZ3Eo72uzvPMYK1sAsU4) | 5:29 |
 | 38 | [Gemini 6](https://open.spotify.com/track/6dpYNwActwOmOSSHPAoXqP) | [Luigi Sambuy](https://open.spotify.com/artist/5no6pWQNuMmpuefVKYpgN7) | [Gemini](https://open.spotify.com/album/5MsAnix8HLsf5vvvQ8QfBw) | 3:41 |
-| 39 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
+| 39 | [way back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
 | 40 | [Soul Sounds \- Mixed](https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py) | [Kenny Dixon Jr.](https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb) | [DJ\-Kicks \(DJ Tennis\) \[DJ Mix\]](https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV) | 4:45 |
 | 41 | [Rosa](https://open.spotify.com/track/43TKPr2WIPlVQvMkSvLObb) | [Tenzella](https://open.spotify.com/artist/3CyQmSqQ54BXTXWNfSWeob) | [Hard Grind EP](https://open.spotify.com/album/4zwYh7yWfO4s6F7py2XzPZ) | 5:32 |
 | 42 | [DONE TALKING](https://open.spotify.com/track/2eH96WPbHQgPO6Uvx1z8Vz) | [Elheist](https://open.spotify.com/artist/73tncYO4BybWmBBjDdDIA0) | [WHOLESOME GOODY](https://open.spotify.com/album/1378uqFFvW3Gb64y4SC8R9) | 3:07 |

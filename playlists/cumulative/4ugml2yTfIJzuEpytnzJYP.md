@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-191 songs - 12 hr 3 min
+192 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Keep It Low \(INZO Remix\)](https://open.spotify.com/track/5q0qSXk9GZHsyrovYMogO8) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Leisure Season Vol\. 1 Remixed](https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH) | 2:37 | 2022-02-25 | 2022-08-23 |
 | [Kindness Mistaken For Weakness](https://open.spotify.com/track/5de6yMWZWQo6jk3G1ZvsYv) | [Ape Suit](https://open.spotify.com/artist/6kiXpyEqFD9Ozhq0zRihH9) | [Maybe This is It](https://open.spotify.com/album/6pWW9h61nbbreHBnKv5aWs) | 3:48 | 2021-09-17 | 2022-02-28 |
 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 | 2022-10-14 |  |
+| [Labyrinth](https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Labyrinth](https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa) | 3:18 | 2023-02-15 |  |
 | [Lessons](https://open.spotify.com/track/1hrKjYBJDWZw4xWLIOPIT3) | [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Lessons](https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy) | 2:32 | 2022-01-17 | 2022-02-18 |
 | [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 | 2022-12-16 |  |
 | [Lost Souls \- ATYYA Remix](https://open.spotify.com/track/60KhEnHybUOC0a0ziqR9Yb) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Lost Souls \(ATYYA Remix\)](https://open.spotify.com/album/09yEzA91373rOjUnxYzrIk) | 4:03 | 2022-09-17 | 2022-10-17 |

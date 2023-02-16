@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 302620,
+  "num_followers": 302757,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5MDc2NywwMDAwMDAwMDE5YzgxY2U1MDkyNWUzMGUwNzRiNWQxMTIxOTMwNzdi",
+  "snapshot_id": "MTY3NjUwNjQ5OSwwMDAwMDAwMDljZWQ4NGYyYjNjNzRlYjk4MDQ1M2IwMzgwMWU0MGQz",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
+      "added_at": "2023-02-16 01:24:04",
+      "album": {
+        "name": "You Do It",
+        "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
+      },
+      "artists": [
+        {
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
+        }
+      ],
+      "duration_ms": 441840,
+      "name": "You Do It",
+      "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Living Room Songs",
@@ -121,22 +137,6 @@
       "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
     },
     {
-      "added_at": "2022-03-11 05:43:48",
-      "album": {
-        "name": "Resonant Bodies",
-        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        }
-      ],
-      "duration_ms": 144320,
-      "name": "Looking You In Silence",
-      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Syro",
@@ -151,6 +151,22 @@
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
+      "added_at": "2022-03-11 05:43:48",
+      "album": {
+        "name": "Resonant Bodies",
+        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        }
+      ],
+      "duration_ms": 144320,
+      "name": "Looking You In Silence",
+      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -233,22 +249,6 @@
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Clube Da Esquina",
-        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Clube Da Esquina N\u00ba 2",
-      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
-    },
-    {
       "added_at": "2023-02-14 16:06:07",
       "album": {
         "name": "Ventus",
@@ -267,18 +267,34 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
+        "name": "Clube Da Esquina",
+        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 208040,
-      "name": "Boreal Kiss Pt. 1",
-      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+      "duration_ms": 218600,
+      "name": "Clube Da Esquina N\u00ba 2",
+      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -299,34 +315,34 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
       "artists": [
         {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+      "duration_ms": 208040,
+      "name": "Boreal Kiss Pt. 1",
+      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-02-15 23:48:26",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Dot",
+        "url": "https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "dal:um",
+          "url": "https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+      "duration_ms": 238857,
+      "name": "Dot",
+      "url": "https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -345,6 +361,22 @@
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Gelis",
@@ -361,22 +393,6 @@
       "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
-      "added_at": "2023-01-04 15:40:13",
-      "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 546586,
-      "name": "amb23 - 2",
-      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Waende",
@@ -391,6 +407,22 @@
       "duration_ms": 232742,
       "name": "Waende",
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
+    },
+    {
+      "added_at": "2023-01-04 15:40:13",
+      "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 546586,
+      "name": "amb23 - 2",
+      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
     },
     {
       "added_at": "2022-09-30 02:45:34",
@@ -461,22 +493,6 @@
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Existenzmaximum - EP",
@@ -491,6 +507,22 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -543,6 +575,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -573,22 +621,6 @@
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Space 1",
-      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
-    },
-    {
       "added_at": "2023-01-12 02:09:54",
       "album": {
         "name": "Antidotes 2",
@@ -603,22 +635,6 @@
       "duration_ms": 200724,
       "name": "An Avalanche",
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Selected Public Works, Vol. 5",
-        "url": "https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn"
-      },
-      "artists": [
-        {
-          "name": "Lightbath",
-          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
-        }
-      ],
-      "duration_ms": 86601,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
     },
     {
       "added_at": "2022-12-20 19:24:22",
@@ -637,6 +653,22 @@
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Selected Public Works, Vol. 5",
+        "url": "https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn"
+      },
+      "artists": [
+        {
+          "name": "Lightbath",
+          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
+        }
+      ],
+      "duration_ms": 86601,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Broken Hearted Kota",
@@ -653,22 +685,6 @@
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
-      "added_at": "2022-10-14 13:00:12",
-      "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 347981,
-      "name": "Vision of Self",
-      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Coconut Mango",
@@ -683,6 +699,22 @@
       "duration_ms": 325489,
       "name": "Coconut Mango",
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+    },
+    {
+      "added_at": "2022-10-14 13:00:12",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 347981,
+      "name": "Vision of Self",
+      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -719,22 +751,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Wurlitzer",
-        "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
-      },
-      "artists": [
-        {
-          "name": "Leifur James",
-          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
-        }
-      ],
-      "duration_ms": 257692,
-      "name": "Wurlitzer",
-      "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh"
       },
@@ -765,6 +781,22 @@
       "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Pipopapipo",
+        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
       "added_at": "2022-03-30 05:08:29",
       "album": {
         "name": "Cabara\u00fa",
@@ -783,50 +815,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Pipopapipo",
-        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
+        "name": "Wurlitzer",
+        "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
       },
       "artists": [
         {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+          "name": "Leifur James",
+          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "REMNANT",
-        "url": "https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV"
-      },
-      "artists": [
-        {
-          "name": "Lorn",
-          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
-        }
-      ],
-      "duration_ms": 233274,
-      "name": "SILHOUETTE",
-      "url": "https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe"
-    },
-    {
-      "added_at": "2022-08-03 03:05:22",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+      "duration_ms": 257692,
+      "name": "Wurlitzer",
+      "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
     }
   ],
   "unique_name": "Deep Listening",

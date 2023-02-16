@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Jessy Bulbo en portada.
 
-794 songs - 1 day 23 hr 41 min
+795 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Nadie Ha Podido Atarte el Corazón](https://open.spotify.com/track/62kbzo8w3amTsFKMvSs07y) | [Somas Cure](https://open.spotify.com/artist/6CbW2cJt7Yz9EY1e6ewfFC) | [Nadie Ha Podido Atarte el Corazón](https://open.spotify.com/album/3He1jch3jfIkAG4PQPBnMf) | 3:24 | 2022-12-02 | 2022-12-17 |
 | [Nadie Me Entiende \- Versión Sad](https://open.spotify.com/track/0HBmBw4YNgafXkdvcA7FPn) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende \(Versión Sad\)](https://open.spotify.com/album/1nQf3yrIW8borS1FUsLm41) | 2:37 | 2022-12-23 | 2023-01-21 |
 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 | 2022-11-25 | 2022-12-10 |
+| [Nieves de Enero](https://open.spotify.com/track/2cMvvo3hBlDDUpj5YaGIle) | [La Miseria De Juan Acatlan](https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff) | [El Laberinto de la Suciedad](https://open.spotify.com/album/1HPPmX8AjjQ8ytv8rTF8BK) | 2:34 | 2023-02-15 |  |
 | [Night Shade](https://open.spotify.com/track/77o6uEDPOIfoyWIudAkrnO) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 3:40 | 2022-08-26 | 2022-09-10 |
 | [Nights and Days](https://open.spotify.com/track/53yecxPHJzKcqI80wUXVrC) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Nights and Days](https://open.spotify.com/album/2GYLSVI5JRtTywMfxNNcJu) | 4:04 | 2022-08-12 | 2022-09-03 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2022-12-31 |

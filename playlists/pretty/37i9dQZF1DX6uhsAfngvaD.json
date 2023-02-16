@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 274928,
+  "num_followers": 274994,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDhhOGUxYzdhZjkzNGJmNzVkMTNmMzExN2JhNGYwZjk5",
+  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMGQyMzZiNzgwNzVhNDNkYzM5NDUyODJkOTFkMTFkYzkw",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Is This Where It Ends",
+        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 242943,
+      "name": "Is This Where It Ends",
+      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Liquid",
-        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Jay II",
         "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
@@ -879,34 +879,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Is This Where It Ends",
-        "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
+        "name": "Liquid",
+        "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
         }
       ],
-      "duration_ms": 242943,
-      "name": "Is This Where It Ends",
-      "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+      "duration_ms": 166000,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -923,6 +907,22 @@
       "duration_ms": 135375,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "What We Left Behind",
-        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
-      },
-      "artists": [
-        {
-          "name": "Hydromag",
-          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
-        }
-      ],
-      "duration_ms": 235462,
-      "name": "What We Left Behind",
-      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 195225,
       "name": "Picnic In The Rain",
       "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "What We Left Behind",
+        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
+      },
+      "artists": [
+        {
+          "name": "Hydromag",
+          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
+        }
+      ],
+      "duration_ms": 235462,
+      "name": "What We Left Behind",
+      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "monochrome blue",
-        "url": "https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a"
-      },
-      "artists": [
-        {
-          "name": "modernlove.",
-          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
-        }
-      ],
-      "duration_ms": 256403,
-      "name": "come over x",
-      "url": "https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "monochrome blue",
+        "url": "https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a"
+      },
+      "artists": [
+        {
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+        }
+      ],
+      "duration_ms": 256403,
+      "name": "come over x",
+      "url": "https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "In Manchester",
         "url": "https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU"
       },
@@ -1239,6 +1239,38 @@
       "duration_ms": 173476,
       "name": "In Manchester",
       "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Present Tense",
+        "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 216343,
+      "name": "Where The Light Used To Lay",
+      "url": "https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Irrational",
+        "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
+      },
+      "artists": [
+        {
+          "name": "Erthlings",
+          "url": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
+        }
+      ],
+      "duration_ms": 203992,
+      "name": "Irrational",
+      "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1271,38 +1303,6 @@
       "duration_ms": 205225,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Irrational",
-        "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
-      },
-      "artists": [
-        {
-          "name": "Erthlings",
-          "url": "https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe"
-        }
-      ],
-      "duration_ms": 203992,
-      "name": "Irrational",
-      "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Present Tense",
-        "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 216343,
-      "name": "Where The Light Used To Lay",
-      "url": "https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8"
     },
     {
       "added_at": "2022-07-06 15:18:34",

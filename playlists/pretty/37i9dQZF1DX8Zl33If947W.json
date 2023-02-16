@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 113975,
+  "num_followers": 114227,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMGU5MGVlNGNkNDk5NzY4MTc2YzZhZGE3N2VjODA0ZDNm",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDNkMjBjYjEwY2RkNjM4YWY4ODU3MWM2MzE2Yjc5ZDQ4",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Kleiner Finger Schwur",
         "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 168306,
       "name": "Kleiner Finger Schwur",
       "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -93,23 +93,7 @@
       "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
     },
     {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Triebwerke",
-        "url": "https://open.spotify.com/album/1C7cbYCvAR2A3e7zOQriFg"
-      },
-      "artists": [
-        {
-          "name": "Alligatoah",
-          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
-        }
-      ],
-      "duration_ms": 218964,
-      "name": "Willst du",
-      "url": "https://open.spotify.com/track/3FcqFCeCD6QRtRo6WGLCnC"
-    },
-    {
-      "added_at": "2023-02-15 01:30:32",
+      "added_at": "2023-02-16 01:12:36",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -127,6 +111,22 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Triebwerke",
+        "url": "https://open.spotify.com/album/1C7cbYCvAR2A3e7zOQriFg"
+      },
+      "artists": [
+        {
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Willst du",
+      "url": "https://open.spotify.com/track/3FcqFCeCD6QRtRo6WGLCnC"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Nur getr\u00e4umt",
-      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -855,26 +855,18 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Sommer",
-        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
       },
       "artists": [
         {
-          "name": "Beatzarre & Djorkaeff",
-          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
-        },
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        },
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
         }
       ],
-      "duration_ms": 180146,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+      "duration_ms": 225481,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
     }
   ],
   "unique_name": "Liebeslieder",

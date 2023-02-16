@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 299049,
       "name": "Ese (Thank You)",
       "url": "https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX"
@@ -1392,6 +1392,24 @@
       "duration_ms": 303674,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW"
+    },
+    {
+      "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "album": {

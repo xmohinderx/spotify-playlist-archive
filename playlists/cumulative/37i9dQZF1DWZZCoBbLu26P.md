@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bob The Drag Queen
 
-128 songs - 7 hr 17 min
+130 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 | 2021-06-29 |  |
 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 | 2023-02-09 |  |
 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [The Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 | 2022-03-10 |  |
-| [God Save This Queen](https://open.spotify.com/track/1NrFiVUw6ShoxK9DnkxwN3) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/15Jeu3LbvhcNOqC7mER3Jl) | 3:14 | 2022-03-10 |  |
+| [God Save This Queen](https://open.spotify.com/track/1NrFiVUw6ShoxK9DnkxwN3) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/15Jeu3LbvhcNOqC7mER3Jl) | 3:14 | 2022-03-10 | 2023-02-16 |
 | [God Save This Queen](https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40) | 3:14 | 2021-06-29 | 2022-07-29 |
+| [God Save This Queen](https://open.spotify.com/track/7gDcVXlWdaNTewQqEEzd1a) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/1EquwaplprBYC9n146AuPG) | 3:14 | 2022-09-22 |  |
 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 | 2022-03-10 |  |
 | [Gummy Bear](https://open.spotify.com/track/4UrPEMYcZyFdgHqboEByoS) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Gummy Bear](https://open.spotify.com/album/2iC7FrB4GwEdVaPOan1JMr) | 2:49 | 2022-09-22 | 2023-02-10 |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2023-02-09 |  |
@@ -76,8 +77,9 @@
 | [London](https://open.spotify.com/track/1XoOdlKTaLhg4RouORhowS) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/7MtBOfcnTleOXzDniwiqs3) | 3:20 | 2021-06-29 |  |
 | [Looks \(feat\. Aquaria\)](https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX) | [Linux](https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Everybody Hates Linux](https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X) | 4:14 | 2021-06-29 |  |
 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 | 2022-03-10 |  |
+| [Low](https://open.spotify.com/track/0UoAFuSMQthMwieDb51kWK) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/6vnhjj2LzTM3mZKrOhN4N6) | 3:21 | 2022-09-22 |  |
 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 | 2021-06-29 | 2022-07-29 |
-| [Low](https://open.spotify.com/track/72O7RzL3rL255Ma4FLLKUX) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/4cUeNiykyP1omwNWxlvyYA) | 3:21 | 2022-03-10 |  |
+| [Low](https://open.spotify.com/track/72O7RzL3rL255Ma4FLLKUX) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/4cUeNiykyP1omwNWxlvyYA) | 3:21 | 2022-03-10 | 2023-02-16 |
 | [Lucky](https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 13](https://open.spotify.com/artist/4hBZXuGcH9E94jD3A0Bn3r) | [Lucky](https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q) | 3:44 | 2021-06-29 |  |
 | [Lush \(feat\. IMMA / MESS\)](https://open.spotify.com/track/3OHliYj2Jt3tp6Hld5x420) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs), [IMMA / MESS](https://open.spotify.com/artist/0Yhl8K3JQWGTtu1ChnrG2B) | [Lush \(feat\. IMMA / MESS\) \- EP](https://open.spotify.com/album/0ZEeqClHG4W6tkmzB4gI5W) | 6:27 | 2021-06-29 | 2022-09-23 |
 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 | 2021-06-29 |  |

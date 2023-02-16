@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Dottie Andersson, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: H\u00f8lgersson, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 189399,
       "name": "42 Herzen",
       "url": "https://open.spotify.com/track/2sJsHAgb3cIfOSYohlTb9e"
@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Aus Versehen",
+        "url": "https://open.spotify.com/album/0DKnHfkVsduQ3BqgFUPPeE"
+      },
+      "artists": [
+        {
+          "name": "THORE",
+          "url": "https://open.spotify.com/artist/4r4K9z8DHNLLCc8ki4zQlc"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Aus Versehen",
+      "url": "https://open.spotify.com/track/5Cbf6IvCxAVDe30eN8xpSX"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3kSkMxHZPCUquLZl1FV05z"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 214193,
       "name": "Bicycle Day",
       "url": "https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 169400,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/0PuhSSYUnuZL7WsKjPhLEC"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 228501,
       "name": "COLORS",
       "url": "https://open.spotify.com/track/1TtwDlSTYBh9N5GOITGOig"
@@ -1816,6 +1834,24 @@
       "duration_ms": 213171,
       "name": "coraz\u00f3n",
       "url": "https://open.spotify.com/track/4CMsK4ruUHWiMX385XkyXQ"
+    },
+    {
+      "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/7vpe5uEzl2S7n4c6pmiV09"
+      },
+      "artists": [
+        {
+          "name": "Kya Kyani",
+          "url": "https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122678,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt"
     },
     {
       "album": {
@@ -3259,6 +3295,32 @@
     },
     {
       "album": {
+        "name": "Electric Days EP",
+        "url": "https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a"
+      },
+      "artists": [
+        {
+          "name": "Smash TV",
+          "url": "https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP"
+        },
+        {
+          "name": "Kiki",
+          "url": "https://open.spotify.com/artist/0J6ta07IexUM2US1ey9Rrx"
+        },
+        {
+          "name": "June Coco",
+          "url": "https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313986,
+      "name": "Flashing Excitement",
+      "url": "https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7"
+    },
+    {
+      "album": {
         "name": "Flatterndes Herz",
         "url": "https://open.spotify.com/album/7wMRjqu90pwlGDMXijXOTp"
       },
@@ -3292,6 +3354,24 @@
       "duration_ms": 164272,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6owOP78lODxI05xYo1NX8V"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/1zkgKmKl0xwGctO0NRo0wz"
+      },
+      "artists": [
+        {
+          "name": "LUNYA",
+          "url": "https://open.spotify.com/artist/42NbfguO5qr3hJSahHb8kL"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2n6d8M2SdikeId7Q0udvh8"
     },
     {
       "album": {
@@ -4272,6 +4352,24 @@
     {
       "album": {
         "name": "Hologram",
+        "url": "https://open.spotify.com/album/7K1AACMxBSSTCoCKbUM8eG"
+      },
+      "artists": [
+        {
+          "name": "Buridan",
+          "url": "https://open.spotify.com/artist/2mOHwtga6C4ES7wkxmmT4g"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396198,
+      "name": "Hologram",
+      "url": "https://open.spotify.com/track/23df8gbzAWOfsfUbXxQCDb"
+    },
+    {
+      "album": {
+        "name": "Hologram",
         "url": "https://open.spotify.com/album/6etgircCabewA3pqdJCZnH"
       },
       "artists": [
@@ -4556,7 +4654,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 277640,
       "name": "i feel ok",
       "url": "https://open.spotify.com/track/5WXAgqbEG8boPRvCWAYaRu"
@@ -4974,6 +5072,24 @@
       "duration_ms": 246500,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/4fvTClWxZdGYNHjoHu7zXl"
+    },
+    {
+      "album": {
+        "name": "ALTARE",
+        "url": "https://open.spotify.com/album/2C5JN9X6sONdXFgRwk0aOF"
+      },
+      "artists": [
+        {
+          "name": "Die Gruppe K\u00f6nig",
+          "url": "https://open.spotify.com/artist/2G6TxtGYxSQreE5jk6w3eO"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Jagen",
+      "url": "https://open.spotify.com/track/3SoRTfoCmMsGbmJro8YT2I"
     },
     {
       "album": {
@@ -5728,6 +5844,24 @@
       "duration_ms": 236750,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1sujufWMEC5T0fJtMrB9oN"
+    },
+    {
+      "album": {
+        "name": "Lost a Friend",
+        "url": "https://open.spotify.com/album/572V1LjH5twTL1apGbJHHI"
+      },
+      "artists": [
+        {
+          "name": "H\u00f8lgersson",
+          "url": "https://open.spotify.com/artist/2k0bO9lJMRhfgp76EHNNSa"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Lost a Friend",
+      "url": "https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7"
     },
     {
       "album": {
@@ -9072,7 +9206,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 246236,
       "name": "strassenz\u00fcgelichterketten",
       "url": "https://open.spotify.com/track/2xOnvMpJu2klPqlfQ87YK4"
@@ -9469,6 +9603,24 @@
     },
     {
       "album": {
+        "name": "The Beauty and the Beat",
+        "url": "https://open.spotify.com/album/6p0pJuq0d9YUC2AYd3Cviw"
+      },
+      "artists": [
+        {
+          "name": "Sound Support",
+          "url": "https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225911,
+      "name": "The Beauty and The Beat - Radio Edit",
+      "url": "https://open.spotify.com/track/2ymIkRgZYYMrwiFOtoRuE0"
+    },
+    {
+      "album": {
         "name": "The Day You Leave",
         "url": "https://open.spotify.com/album/7uh4dGroVB7fcsvQjrS8K0"
       },
@@ -9606,7 +9758,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 234107,
       "name": "The Music that You Play",
       "url": "https://open.spotify.com/track/4WXonPwFzmd0liy8V5iCRG"

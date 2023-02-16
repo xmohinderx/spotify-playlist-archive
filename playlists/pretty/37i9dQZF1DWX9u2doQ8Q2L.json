@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 354189,
+  "num_followers": 355904,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM4NjgwMCwwMDAwMDAwMDgwM2MwMDQ5OGExOTIwNzQzZmM0ZmFmOTk4ZjBhNWY4",
+  "snapshot_id": "MTY3NjM4NjgwMCwwMDAwMDAwMGY2ZjdmMmU1MDRiNTMwN2Q4MDBhMjBiOTQ5N2NiZDAy",
   "tracks": [
     {
       "added_at": "2023-02-14 15:00:00",
@@ -48,7 +48,7 @@
       "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
-        "url": "https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu"
+        "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
       "artists": [
         {
@@ -62,7 +62,7 @@
       ],
       "duration_ms": 194017,
       "name": "Structure Of Romance (feat. Kyoko Koizumi)",
-      "url": "https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp"
+      "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -87,22 +87,18 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "\u30d4\u30f3\u30af\u306e\u9aea",
-        "url": "https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b"
+        "name": "Pink Hair",
+        "url": "https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t"
       },
       "artists": [
         {
           "name": "Furui Riho",
           "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
         }
       ],
       "duration_ms": 177357,
-      "name": "\u30d4\u30f3\u30af\u306e\u9aea",
-      "url": "https://open.spotify.com/track/56V7casJFyKngwOksqwWD0"
+      "name": "Pink Hair",
+      "url": "https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -199,8 +195,8 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "Venus Flytrap feat. \u4f50\u85e4\u5343\u4e9c\u5983",
-        "url": "https://open.spotify.com/album/3mbtkBajQNmdtmKi6pnANY"
+        "name": "Venus Flytrap feat. Chiaki Sato",
+        "url": "https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v"
       },
       "artists": [
         {
@@ -213,8 +209,8 @@
         }
       ],
       "duration_ms": 225967,
-      "name": "Venus Flytrap feat. \u4f50\u85e4\u5343\u4e9c\u5983",
-      "url": "https://open.spotify.com/track/7KRfQEpO97OMMD4Edc1YTw"
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -651,6 +647,38 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
         "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
         "url": "https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR"
       },
@@ -675,38 +703,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "Vandalize",
-      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
         "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
       },
@@ -723,22 +719,18 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "uin",
-          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -759,18 +751,22 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
         }
       ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+      "duration_ms": 174219,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -948,7 +944,7 @@
       "added_at": "2023-02-14 15:00:00",
       "album": {
         "name": "Hemoglobin",
-        "url": "https://open.spotify.com/album/7Jsq2IKv5WtT3qr2ngDcwR"
+        "url": "https://open.spotify.com/album/5NwzqDVeihK0Ux79ONOSN5"
       },
       "artists": [
         {
@@ -958,7 +954,7 @@
       ],
       "duration_ms": 212333,
       "name": "Hemoglobin",
-      "url": "https://open.spotify.com/track/3eMMHxs39HdrGUBSvO8uP6"
+      "url": "https://open.spotify.com/track/4qG5wKxtM4f7A46P24tTLv"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -1115,22 +1111,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "Return of The Sofakingdom",
-        "url": "https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7"
-      },
-      "artists": [
-        {
-          "name": "PUNPEE",
-          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
-        }
-      ],
-      "duration_ms": 131714,
-      "name": "Operation : Multiverse of Love",
-      "url": "https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "BE THE GROOVE",
         "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
       },
@@ -1147,6 +1127,46 @@
       "duration_ms": 164800,
       "name": "BE THE GROOVE",
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "Return of The Sofakingdom",
+        "url": "https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "duration_ms": 131714,
+      "name": "Operation : Multiverse of Love",
+      "url": "https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u4e3b\u984c\u6b4c\u2161",
+        "url": "https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e0b\u7a40\u96c4",
+          "url": "https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI"
+        },
+        {
+          "name": "Otomo Yoshihide",
+          "url": "https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03"
+        },
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 372858,
+      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u4e3b\u984c\u6b4c\u2161",
+      "url": "https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -1183,30 +1203,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u4e3b\u984c\u6b4c\u2161",
-        "url": "https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u4e0b\u7a40\u96c4",
-          "url": "https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI"
-        },
-        {
-          "name": "Otomo Yoshihide",
-          "url": "https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03"
-        },
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
-        }
-      ],
-      "duration_ms": 372858,
-      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u4e3b\u984c\u6b4c\u2161",
-      "url": "https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "\u30e9\u30d6\u3058\u3083\u3093",
         "url": "https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF"
       },
@@ -1223,22 +1219,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "GOOD GAME",
-        "url": "https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc"
-      },
-      "artists": [
-        {
-          "name": "chelmico",
-          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
-        }
-      ],
-      "duration_ms": 199657,
-      "name": "GOOD GAME",
-      "url": "https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "\u4e00\u7b4b\u5dee\u3059",
         "url": "https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm"
       },
@@ -1251,6 +1231,22 @@
       "duration_ms": 185681,
       "name": "\u4e00\u7b4b\u5dee\u3059",
       "url": "https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "GOOD GAME",
+        "url": "https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "GOOD GAME",
+      "url": "https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -1319,6 +1315,22 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -1371,22 +1383,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
-      },
-      "artists": [
-        {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "paradigm",
         "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
       },
@@ -1403,18 +1399,18 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
       },
       "artists": [
         {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
         }
       ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "added_at": "2023-02-14 15:00:00",
@@ -1467,26 +1463,6 @@
     {
       "added_at": "2023-02-14 15:00:00",
       "album": {
-        "name": "curtain call",
-        "url": "https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        },
-        {
-          "name": "Gagle",
-          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "This Is The Night",
-      "url": "https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9"
-    },
-    {
-      "added_at": "2023-02-14 15:00:00",
-      "album": {
         "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
         "url": "https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0"
       },
@@ -1503,6 +1479,26 @@
       "duration_ms": 206949,
       "name": "\u9aa8\u307e\u3067\u611b\u3057\u3066",
       "url": "https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ"
+    },
+    {
+      "added_at": "2023-02-14 15:00:00",
+      "album": {
+        "name": "curtain call",
+        "url": "https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        },
+        {
+          "name": "Gagle",
+          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "This Is The Night",
+      "url": "https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9"
     },
     {
       "added_at": "2023-02-14 15:00:00",

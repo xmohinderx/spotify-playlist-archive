@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,357 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,368 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 50 | [Mil Ballenas](https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Mil Ballenas](https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI) | 3:53 |
 | 51 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 |
 | 52 | [Desde El Aire](https://open.spotify.com/track/33aREui72FtjhZjNYI0LrL) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [Desde El Aire](https://open.spotify.com/album/2ZOgFqnfkHo7M8QFusU276) | 2:38 |
-| 53 | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0AcUxNrUimUbnZjfU1d1Eo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/5FVZFjAVNaOm7X9erzp905) | 4:22 |
+| 53 | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0pIsxvDSRvF3FLhWLALMgv) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/6g3jnQwT91lVUzOydlZjqD) | 4:22 |
 | 54 | [Contale al Mundo](https://open.spotify.com/track/4O7e6tCSxIDQlX3I1Qe2en) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Días Nuestros](https://open.spotify.com/album/2ZL8Em4DCh1zvSKb06zxHx) | 2:57 |
 | 55 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 |
 | 56 | [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 100 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 |
 | 101 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDVjYTQ4YzhjMWM2ODY4ZTc2YWYzMzBiMmY1NjQwZmMx`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDJhNjY1YjVkOWM5MmU2MGM5N2FjNTI2MGFjYzg3N2Jm`

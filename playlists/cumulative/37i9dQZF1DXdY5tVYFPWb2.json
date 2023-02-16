@@ -1846,10 +1846,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 212333,
       "name": "Hemoglobin",
       "url": "https://open.spotify.com/track/3eMMHxs39HdrGUBSvO8uP6"
+    },
+    {
+      "album": {
+        "name": "Hemoglobin",
+        "url": "https://open.spotify.com/album/5NwzqDVeihK0Ux79ONOSN5"
+      },
+      "artists": [
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Hemoglobin",
+      "url": "https://open.spotify.com/track/4qG5wKxtM4f7A46P24tTLv"
     },
     {
       "album": {
@@ -4544,7 +4562,7 @@
     {
       "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
-        "url": "https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu"
+        "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
       "artists": [
         {
@@ -4559,6 +4577,28 @@
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194017,
+      "name": "Structure Of Romance (feat. Kyoko Koizumi)",
+      "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
+    },
+    {
+      "album": {
+        "name": "Structure Of Romance (feat. Kyoko Koizumi)",
+        "url": "https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Kyoko Koizumi",
+          "url": "https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
       "duration_ms": 194017,
       "name": "Structure Of Romance (feat. Kyoko Koizumi)",
       "url": "https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp"
@@ -5169,6 +5209,28 @@
     },
     {
       "album": {
+        "name": "Venus Flytrap feat. Chiaki Sato",
+        "url": "https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225967,
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH"
+    },
+    {
+      "album": {
         "name": "Venus Flytrap feat. \u4f50\u85e4\u5343\u4e9c\u5983",
         "url": "https://open.spotify.com/album/3mbtkBajQNmdtmKi6pnANY"
       },
@@ -5184,7 +5246,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 225967,
       "name": "Venus Flytrap feat. \u4f50\u85e4\u5343\u4e9c\u5983",
       "url": "https://open.spotify.com/track/7KRfQEpO97OMMD4Edc1YTw"

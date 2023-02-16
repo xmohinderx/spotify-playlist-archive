@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMGNjMWM0ODQ2MTI5YjA0MTU5ZDlmNjc3ZWExYTE0M2Qz",
+  "snapshot_id": "MTY3NDcwOTIwMywwMDAwMDAwMDYxYjgzMDlhZjk4NmE5ZGI5OGVmZDQ3ZGQzYjYwMDY2",
   "tracks": [
     {
       "added_at": "2023-01-26 05:00:03",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
-      },
-      "artists": [
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 218886,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
       "added_at": "2023-01-26 05:00:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-26 05:00:03",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
-    },
-    {
-      "added_at": "2023-01-26 05:00:03",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-01-26 05:00:03",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
     },
     {
       "added_at": "2023-01-26 05:00:03",

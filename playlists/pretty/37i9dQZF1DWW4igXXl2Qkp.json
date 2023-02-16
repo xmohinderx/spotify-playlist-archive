@@ -1,28 +1,28 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Tay B",
-  "num_followers": 201428,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Wizz Havinn",
+  "num_followers": 201609,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg3NTYwMCwwMDAwMDAwMGRkNjljYmI4ZWViZDQzNmY2YTc0MjUxMDEwMjNlZDU2",
+  "snapshot_id": "MTY3NjQ4MDQwMCwwMDAwMDAwMGI3Zjc0MjQ2NjJkOTkwMTBlM2FmNjEwM2UwOTI2ODVi",
   "tracks": [
     {
-      "added_at": "2023-02-08 17:00:00",
+      "added_at": "2023-02-15 17:00:00",
       "album": {
-        "name": "4eva In My Bag (Deluxe)",
-        "url": "https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm"
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
       "artists": [
         {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
         }
       ],
-      "duration_ms": 136455,
-      "name": "Pay 2 Play",
-      "url": "https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ"
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -41,6 +41,90 @@
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
     },
     {
+      "added_at": "2023-02-15 17:00:00",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "Black Bape Jeans",
+        "url": "https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0"
+      },
+      "artists": [
+        {
+          "name": "Z1ON",
+          "url": "https://open.spotify.com/artist/5PZk9yjQV61SRk7YYK6L5a"
+        }
+      ],
+      "duration_ms": 123743,
+      "name": "Black Bape Jeans",
+      "url": "https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn"
+    },
+    {
+      "added_at": "2023-02-15 17:00:00",
+      "album": {
+        "name": "jersey luv",
+        "url": "https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        },
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "jersey luv",
+      "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "THE BOOK OF ENOCH",
+        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+      },
+      "artists": [
+        {
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "THE BOOK OF ENOCH",
+      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "4eva In My Bag (Deluxe)",
+        "url": "https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "duration_ms": 136455,
+      "name": "Pay 2 Play",
+      "url": "https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ"
+    },
+    {
       "added_at": "2023-02-08 17:00:00",
       "album": {
         "name": "Not Done",
@@ -55,6 +139,38 @@
       "duration_ms": 156000,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
+        "name": "Krazy",
+        "url": "https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh"
+      },
+      "artists": [
+        {
+          "name": "T$AN",
+          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+        }
+      ],
+      "duration_ms": 173681,
+      "name": "Krazy",
+      "url": "https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "AL Roker",
+        "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "duration_ms": 100179,
+      "name": "AL Roker",
+      "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -73,6 +189,58 @@
       "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
+      "added_at": "2023-02-15 17:00:00",
+      "album": {
+        "name": "Trust Fund",
+        "url": "https://open.spotify.com/album/51iB1U1CKjjelyP3ZE8oje"
+      },
+      "artists": [
+        {
+          "name": "Llainwire",
+          "url": "https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA"
+        }
+      ],
+      "duration_ms": 101621,
+      "name": "Trust Fund",
+      "url": "https://open.spotify.com/track/5qUHj7OWz9kkViP6DaELEc"
+    },
+    {
+      "added_at": "2023-02-15 17:00:00",
+      "album": {
+        "name": "With The Stars",
+        "url": "https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8"
+      },
+      "artists": [
+        {
+          "name": "Fazer",
+          "url": "https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY"
+        },
+        {
+          "name": "YL",
+          "url": "https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr"
+        }
+      ],
+      "duration_ms": 212091,
+      "name": "With The Stars",
+      "url": "https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf"
+    },
+    {
+      "added_at": "2023-02-01 17:00:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras"
+      },
+      "artists": [
+        {
+          "name": "NDO Dee",
+          "url": "https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ"
+        }
+      ],
+      "duration_ms": 108007,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW"
+    },
+    {
       "added_at": "2023-02-08 17:00:00",
       "album": {
         "name": "CONCRETE",
@@ -87,42 +255,6 @@
       "duration_ms": 120216,
       "name": "WE UP!",
       "url": "https://open.spotify.com/track/6gkx7beLILfdau11eptyDa"
-    },
-    {
-      "added_at": "2023-02-08 17:00:00",
-      "album": {
-        "name": "Wild ASF",
-        "url": "https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ"
-      },
-      "artists": [
-        {
-          "name": "Duece Uno",
-          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 150048,
-      "name": "Wild ASF",
-      "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
-    },
-    {
-      "added_at": "2023-02-01 17:00:00",
-      "album": {
-        "name": "Black Bape Jeans",
-        "url": "https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0"
-      },
-      "artists": [
-        {
-          "name": "Z1ON",
-          "url": "https://open.spotify.com/artist/5PZk9yjQV61SRk7YYK6L5a"
-        }
-      ],
-      "duration_ms": 123743,
-      "name": "Black Bape Jeans",
-      "url": "https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn"
     },
     {
       "added_at": "2023-01-27 02:03:01",
@@ -161,20 +293,20 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
-      "added_at": "2023-02-08 17:00:00",
+      "added_at": "2023-02-01 17:00:00",
       "album": {
-        "name": "THE BOOK OF ENOCH",
-        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4vbimvX7WTr9r0b0GRJS5D"
       },
       "artists": [
         {
-          "name": "Armani Jordan",
-          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
         }
       ],
-      "duration_ms": 149446,
-      "name": "THE BOOK OF ENOCH",
-      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+      "duration_ms": 104021,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/76vLQOQ5Ni3hmjkSW5tzpj"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -193,6 +325,22 @@
       "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
     },
     {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Naismith",
+        "url": "https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "duration_ms": 181067,
+      "name": "Naismith",
+      "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
+    },
+    {
       "added_at": "2023-02-08 17:00:00",
       "album": {
         "name": "France",
@@ -209,20 +357,20 @@
       "url": "https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9"
     },
     {
-      "added_at": "2023-02-08 17:00:00",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Krazy",
-        "url": "https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh"
+        "name": "Score Or Die",
+        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
       },
       "artists": [
         {
-          "name": "T$AN",
-          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
         }
       ],
-      "duration_ms": 173681,
-      "name": "Krazy",
-      "url": "https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5"
+      "duration_ms": 163872,
+      "name": "Score Or Die",
+      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -239,22 +387,6 @@
       "duration_ms": 112133,
       "name": "Specialty",
       "url": "https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4"
-    },
-    {
-      "added_at": "2023-02-01 17:00:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras"
-      },
-      "artists": [
-        {
-          "name": "NDO Dee",
-          "url": "https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ"
-        }
-      ],
-      "duration_ms": 108007,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -291,6 +423,26 @@
     {
       "added_at": "2023-02-08 17:00:00",
       "album": {
+        "name": "Wild ASF",
+        "url": "https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ"
+      },
+      "artists": [
+        {
+          "name": "Duece Uno",
+          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Wild ASF",
+      "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
+    },
+    {
+      "added_at": "2023-02-08 17:00:00",
+      "album": {
         "name": "Too Close (Love Is Free)",
         "url": "https://open.spotify.com/album/1n4RZBgK4tySWakLbCZ9sv"
       },
@@ -303,54 +455,6 @@
       "duration_ms": 112846,
       "name": "Too Close (Love Is Free)",
       "url": "https://open.spotify.com/track/1VTcUP7CoyVH3HA7ITPEmB"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Naismith",
-        "url": "https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 181067,
-      "name": "Naismith",
-      "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
-    },
-    {
-      "added_at": "2023-02-01 17:00:00",
-      "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4vbimvX7WTr9r0b0GRJS5D"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        }
-      ],
-      "duration_ms": 104021,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/76vLQOQ5Ni3hmjkSW5tzpj"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Score Or Die",
-        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
-      },
-      "artists": [
-        {
-          "name": "Rundown Choppaboy",
-          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
-        }
-      ],
-      "duration_ms": 163872,
-      "name": "Score Or Die",
-      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -373,22 +477,6 @@
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "AL Roker",
-        "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
-      },
-      "artists": [
-        {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
-        }
-      ],
-      "duration_ms": 100179,
-      "name": "AL Roker",
-      "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
-    },
-    {
       "added_at": "2023-01-18 23:52:13",
       "album": {
         "name": "SHELLS",
@@ -403,26 +491,6 @@
       "duration_ms": 230333,
       "name": "UnderWater",
       "url": "https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Law & Order pt. 2",
-        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "50jittsteppa",
-          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
-        }
-      ],
-      "duration_ms": 239303,
-      "name": "Law & Order pt. 2",
-      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
       "added_at": "2023-02-01 17:00:00",
@@ -687,22 +755,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "blessings & curses",
-        "url": "https://open.spotify.com/album/0muRadh3yV9mTLXOqKNEZO"
-      },
-      "artists": [
-        {
-          "name": "Marques Martin",
-          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
-        }
-      ],
-      "duration_ms": 126920,
-      "name": "blessings & curses",
-      "url": "https://open.spotify.com/track/31G6ToFLmLA9J8ws9wx8Ul"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/4VUhVSDn8ZjHWbDdL6qjsw"
       },
@@ -735,42 +787,6 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/4IJNKb3VUcvi3uz7ZKJK6s"
-      },
-      "artists": [
-        {
-          "name": "KILJ",
-          "url": "https://open.spotify.com/artist/2pIP61k0TIAFjna6vnALMp"
-        },
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 133799,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4ud97R0WbQ3Crsza51Q6cQ"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Jwett Stalker",
-        "url": "https://open.spotify.com/album/7unTqRtrzDbZomSeaOvUGb"
-      },
-      "artists": [
-        {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
-        }
-      ],
-      "duration_ms": 133244,
-      "name": "Jwett Stalker",
-      "url": "https://open.spotify.com/track/72FP16D3O7W6eWPjHIlBFi"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
         "name": "Shadows 4",
         "url": "https://open.spotify.com/album/32SA1u7qaPOLesIPXb606I"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 120680,
       "name": "Billy",
       "url": "https://open.spotify.com/track/1HUGH6K8uKM2z8OR92JmAc"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Motion Man",
-        "url": "https://open.spotify.com/album/6JVl7vf5aBSQIiFr8mDYMd"
-      },
-      "artists": [
-        {
-          "name": "Lil Stamp",
-          "url": "https://open.spotify.com/artist/0thLKTCGsAi1zuwNddkyDB"
-        }
-      ],
-      "duration_ms": 117712,
-      "name": "Motion Man",
-      "url": "https://open.spotify.com/track/3k0FSuoQjeivsadIwthYDF"
     },
     {
       "added_at": "2023-01-18 17:00:00",

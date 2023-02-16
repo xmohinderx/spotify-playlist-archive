@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Marcos Yaroide y DOMINICO GONZALEZ",
-  "num_followers": 117776,
+  "num_followers": 117873,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxODg3OSwwMDAwMDAwMGM0MWE1MDg5MTUwNzRlMWZiOWE4OTIyNzQ1NWQ2YjM1",
+  "snapshot_id": "MTY3NjAxODg3OSwwMDAwMDAwMDg0OWE5OTE3MGFiODRiZmU1NzIwYjZiNWJjNzUzNzEy",
   "tracks": [
     {
       "added_at": "2023-02-10 08:42:52",
@@ -159,30 +159,18 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "Coritos (En Vivo)",
-        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+        "name": "No yo, sino Cristo",
+        "url": "https://open.spotify.com/album/2aj1MTq3fawslSGrdWcwa9"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 687091,
-      "name": "Coritos (En Vivo)",
-      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+      "duration_ms": 310775,
+      "name": "No yo, sino Cristo",
+      "url": "https://open.spotify.com/track/7s6zVg1x8HPprD36GB642Z"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -267,18 +255,30 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "No yo, sino Cristo",
-        "url": "https://open.spotify.com/album/2aj1MTq3fawslSGrdWcwa9"
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 310775,
-      "name": "No yo, sino Cristo",
-      "url": "https://open.spotify.com/track/7s6zVg1x8HPprD36GB642Z"
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -391,6 +391,42 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 228645,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
+        "name": "Veintidos",
+        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 183663,
+      "name": "Veintidos",
+      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/63n3Muw9lQISQScVsrx0i2"
       },
@@ -415,58 +451,6 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "Veintidos",
-        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 183663,
-      "name": "Veintidos",
-      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 228645,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
-        "name": "Te seguir\u00e9",
-        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 302149,
-      "name": "Te seguir\u00e9",
-      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
         "name": "Poema (Remix)",
         "url": "https://open.spotify.com/album/3dLjaByozvJs91ooszGEEp"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 201000,
       "name": "Poema - Remix",
       "url": "https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
+        "name": "Te seguir\u00e9",
+        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 302149,
+      "name": "Te seguir\u00e9",
+      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "ETERNOS",
-        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
+        "name": "FLUIR 2",
+        "url": "https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
         }
       ],
-      "duration_ms": 159508,
-      "name": "ETERNOS",
-      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
+      "duration_ms": 313720,
+      "name": "Cordero y Le\u00f3n",
+      "url": "https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "FLUIR 2",
-        "url": "https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ"
+        "name": "ETERNOS",
+        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
       },
       "artists": [
         {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 313720,
-      "name": "Cordero y Le\u00f3n",
-      "url": "https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj"
+      "duration_ms": 159508,
+      "name": "ETERNOS",
+      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
+        "name": "Dios Es Bueno",
+        "url": "https://open.spotify.com/album/2rOluTl61G1MwqMpyWHakZ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 327705,
+      "name": "Dios Es Bueno",
+      "url": "https://open.spotify.com/track/4wfvNQKM203PFuZujbOzZ3"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
         "name": "Sublime (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/7EkuHD09hqQ1R7NFCaYTwY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 311296,
       "name": "Sublime (Versi\u00f3n Deluxe)",
       "url": "https://open.spotify.com/track/1VCnvQdxhf9uYwRraCP8nv"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
-        "name": "Dios Es Bueno",
-        "url": "https://open.spotify.com/album/2rOluTl61G1MwqMpyWHakZ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 327705,
-      "name": "Dios Es Bueno",
-      "url": "https://open.spotify.com/track/4wfvNQKM203PFuZujbOzZ3"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
-        "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 402283,
-      "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
-      "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
         "name": "Yo tengo fe Remix (feat Apostoles del Rap & Se\u00f1or F & Glow & Marto)",
         "url": "https://open.spotify.com/album/3APbhhcKnoyahpf9MDPNy9"
       },
@@ -943,22 +927,6 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "Por Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 165681,
-      "name": "Por Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
         "name": "SIENTE EL REGGAETON",
         "url": "https://open.spotify.com/album/4B9RyEnFoZSLJ0ekGxHxpK"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 194526,
       "name": "SIENTE EL REGGAETON",
       "url": "https://open.spotify.com/track/2vhFbfy8EjbIB6GB9Wb4mB"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
+        "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+        "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 402283,
+      "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+      "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
+        "name": "Por Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Por Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
-      },
-      "artists": [
-        {
-          "name": "Addy Juarez",
-          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
-        }
-      ],
-      "duration_ms": 331040,
-      "name": "Libertad Me Das",
-      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
         "name": "Como fuego",
         "url": "https://open.spotify.com/album/4FGTqRDztDeVermnA0nDod"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216255,
       "name": "Como fuego",
       "url": "https://open.spotify.com/track/7vqQ82TNU2xrvF8kJatgX2"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
+      },
+      "artists": [
+        {
+          "name": "Addy Juarez",
+          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
+        }
+      ],
+      "duration_ms": 331040,
+      "name": "Libertad Me Das",
+      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
     },
     {
       "added_at": "2023-02-10 08:42:52",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2023-02-10 08:42:52",
       "album": {
+        "name": "M\u00f3ntate al Bus (Elegidos)",
+        "url": "https://open.spotify.com/album/4kaomZ0tJuS2ZnGoe5tgTm"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        },
+        {
+          "name": "Paz",
+          "url": "https://open.spotify.com/artist/0C6ubDEUuFamp6Qg8pokXo"
+        },
+        {
+          "name": "Fati",
+          "url": "https://open.spotify.com/artist/6FggjSsAWUNoDZ6cyI8SPA"
+        }
+      ],
+      "duration_ms": 172677,
+      "name": "M\u00f3ntate al Bus - Elegidos",
+      "url": "https://open.spotify.com/track/6GI9MH1QvGxTW6dWK8BjV7"
+    },
+    {
+      "added_at": "2023-02-10 08:42:52",
+      "album": {
         "name": "Vital",
         "url": "https://open.spotify.com/album/1hNnHKX0Wc13SoBckomh5r"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 321849,
       "name": "Puedo Enfrentar el Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3upZcCPBgSqNXSpg2mkYcL"
-    },
-    {
-      "added_at": "2023-02-10 08:42:52",
-      "album": {
-        "name": "M\u00f3ntate al Bus (Elegidos)",
-        "url": "https://open.spotify.com/album/4kaomZ0tJuS2ZnGoe5tgTm"
-      },
-      "artists": [
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        },
-        {
-          "name": "Paz",
-          "url": "https://open.spotify.com/artist/0C6ubDEUuFamp6Qg8pokXo"
-        },
-        {
-          "name": "Fati",
-          "url": "https://open.spotify.com/artist/6FggjSsAWUNoDZ6cyI8SPA"
-        }
-      ],
-      "duration_ms": 172677,
-      "name": "M\u00f3ntate al Bus - Elegidos",
-      "url": "https://open.spotify.com/track/6GI9MH1QvGxTW6dWK8BjV7"
     },
     {
       "added_at": "2023-02-10 08:42:52",

@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 12194,
+  "num_followers": 12195,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDg3YTgwNjA2ZDU3Y2JjYTIyODhiYmRkZjRmYTQ0MDcz",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDY5YWNhYmUzOTkzY2JhNzdhNjgxNjQxZTZlNjBiMjU2",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Belly",
         "url": "https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 123141,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "This Is The Day (Full Band Version)",
-        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
-      },
-      "artists": [
-        {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
-        }
-      ],
-      "duration_ms": 282274,
-      "name": "This Is The Day - Full Band Version",
-      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Never Compare",
         "url": "https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 267237,
       "name": "Never Compare",
       "url": "https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "This Is The Day (Full Band Version)",
+        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 282274,
+      "name": "This Is The Day - Full Band Version",
+      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 181000,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
     },
     {
       "added_at": "2022-12-08 23:00:00",

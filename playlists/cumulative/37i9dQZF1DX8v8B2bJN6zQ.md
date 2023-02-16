@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-96 songs - 5 hr 39 min
+97 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 | 2021-12-17 |  |
 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 | 2021-12-17 | 2022-11-19 |
 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 | 2022-09-09 |  |
-| [Help \- Habstrakt Remix](https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0BWVarGXfyt5P8qzejiRWc) | 3:32 | 2021-12-17 |  |
+| [Help \(Habstrakt Remix\)](https://open.spotify.com/track/6H8Sn4FMIBN8oyyLL6DLNk) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0RRi5wRA7xSQE0UCjUczgC) | 3:32 | 2022-09-09 |  |
+| [Help \- Habstrakt Remix](https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0BWVarGXfyt5P8qzejiRWc) | 3:32 | 2021-12-17 | 2023-02-16 |
 | [Highest In The Room](https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Highest In The Room](https://open.spotify.com/album/1sSGaUZ48mi8qd0KR21RZo) | 2:26 | 2021-12-17 |  |
 | [Humanity \- Synthatic Remix](https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB) | [Phanatic](https://open.spotify.com/artist/3rXo1ftXCIJPhThJP73LV4), [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Humanity \(Synthatic Remix\)](https://open.spotify.com/album/2RrjZmY3sLeX0itnL8z3qs) | 5:49 | 2022-03-25 | 2022-06-25 |
 | [Hurricane](https://open.spotify.com/track/0UsHoWFDb9jC8Yle4IWQtc) | [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Kim Lima](https://open.spotify.com/artist/3dDCkiPicg1X7L2epUqjEb) | [Hurricane](https://open.spotify.com/album/2U74VfkQCQ7tybQ0aNSOQ5) | 4:24 | 2022-04-01 | 2022-04-23 |

@@ -4,13 +4,14 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-302 songs - 15 hr 52 min
+303 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 0:00 | 2022-11-01 | 2022-12-14 |
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-20 | 2022-11-29 |
-| [100%](https://open.spotify.com/track/7110PZYRgMvQzLnHYR2XWI) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [100%](https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7) | 1:58 | 2022-11-22 |  |
+| [100%](https://open.spotify.com/track/6crPfYeErp8nLWJruIn9Uj) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [100%](https://open.spotify.com/album/2VOZbR74O3ZWqJzg8GsFdH) | 1:58 | 2023-02-13 |  |
+| [100%](https://open.spotify.com/track/7110PZYRgMvQzLnHYR2XWI) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [100%](https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7) | 1:58 | 2022-11-22 | 2023-02-16 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-15 | 2022-08-20 |
 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 | 2022-08-17 |  |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-22 |

@@ -2,7 +2,7 @@
 
 ### [Starring Shah Rukh Khan](https://open.spotify.com/playlist/37i9dQZF1DWZ2bQuX4pBHH)
 
-> Essential tracks of Shah Rukh Khan all in one playlist
+> Essential tracks of Shah Rukh Khan, all in one playlist
 
 116 songs - 10 hr 45 min
 

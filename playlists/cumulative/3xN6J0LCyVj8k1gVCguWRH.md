@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,004 songs - 4 day 19 hr 19 min
+2,007 songs - 4 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,6 +1141,7 @@
 | [Mente Abierta](https://open.spotify.com/track/6ge0qOGtIfOFffrolRwATf) | [La Celestina](https://open.spotify.com/artist/4z2nLiLZGEJXchuGSz372L), [Kibray](https://open.spotify.com/artist/6hZnPkH97yaZcmztPdmLfM) | [Mente Abierta](https://open.spotify.com/album/1Gu550mpeubxNbzx9IcC8E) | 3:35 | 2022-11-25 | 2022-12-17 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-01 | 2022-07-27 |
 | [Merlot](https://open.spotify.com/track/7Lxm6B9EJkMAQIRbUuR9J6) | [B\. Weaver](https://open.spotify.com/artist/59RuXTKHrXQN6smNr5stVk) | [Merlot](https://open.spotify.com/album/4wCyt6Qt7ID7f6m6HLxOeO) | 3:50 | 2021-09-12 | 2021-09-28 |
+| [METAPHOR](https://open.spotify.com/track/7vzyUpvHpHcNjmO0ihe0dJ) | [CAPSULE](https://open.spotify.com/artist/4ILSGJ6h30d3KuJLnzk0EZ) | [METAPHOR](https://open.spotify.com/album/5xxo8K1ckY4juG2wCRdtjg) | 3:26 | 2023-02-16 |  |
 | [Meteors](https://open.spotify.com/track/0CBaaXYtRTHpmzmg8DCiew) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 2:38 | 2020-08-03 | 2020-08-20 |
 | [Mhmm](https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc) | [Toak](https://open.spotify.com/artist/0wipVeeTuOwzVpl2RgSa2z) | [Tears of a Poet](https://open.spotify.com/album/6XmRyDUGMU3De1f6sJRkjb) | 2:47 | 2023-01-23 |  |
 | [Miami](https://open.spotify.com/track/4gilCVXzumEV2KupA2qb3b) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Miami](https://open.spotify.com/album/6evDUjijB4kgR6z5G8vb9C) | 2:51 | 2020-03-30 | 2020-04-09 |
@@ -1727,6 +1728,7 @@
 | [The Last Word](https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33) | [Olivia Burnette](https://open.spotify.com/artist/2B5P0MxeVJINZAnyEueoCJ) | [The Last Word](https://open.spotify.com/album/5dLDguHx5T0EiedBxwJhs3) | 3:16 | 2023-01-23 |  |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |
 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 | 2022-01-14 | 2022-01-30 |
+| [The Not Knowing](https://open.spotify.com/track/5AEC5qjIsjG3VD2oE9W0uL) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [The Groovalution](https://open.spotify.com/artist/1j2cai95XouuVw0utqMW34), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Fancy AF](https://open.spotify.com/album/4QA5JW3muURfJHduM05kJB) | 2:30 | 2023-02-16 |  |
 | [The One](https://open.spotify.com/track/3UDeCMBXvqomGF7I0W2jLf) | [Brownsuede](https://open.spotify.com/artist/2cGslndmeHnGFbe1S2ESGQ) | [The One](https://open.spotify.com/album/0eMQV9QNcSYcxc5egJQ7Cj) | 3:51 | 2021-01-15 | 2021-02-04 |
 | [The Phoenix](https://open.spotify.com/track/0wbeDJqozIJTwUdcMyIWkY) | [Jiminy](https://open.spotify.com/artist/0DVSk2VRBLx4C5ct9WyjAz) | [The Phoenix](https://open.spotify.com/album/0i1p2bNbsAO6ABc3c6xgM6) | 4:07 | 2023-01-27 |  |
 | [The Pile](https://open.spotify.com/track/0Eg9YGBwaWEXTN361wqFbd) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Cleveland Watkiss](https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc) | [The Pile](https://open.spotify.com/album/21QlUkuCNm1HPOkJV5RwWG) | 8:04 | 2021-08-14 | 2021-09-05 |
@@ -1823,6 +1825,7 @@
 | [TYWT](https://open.spotify.com/track/2rugTlWNmn7ldRwG3TXwEG) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Goodbye](https://open.spotify.com/album/2RpNIBUoTDNK9pKzc7XNu7) | 3:01 | 2019-11-14 | 2019-12-04 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2020-08-20 | 2023-02-12 |
 | [U](https://open.spotify.com/track/44e2FBJjmKBZ5p91outqFL) | [Kris Kollins](https://open.spotify.com/artist/7EifOG1WZeuewV3Y9LqYmG) | [U](https://open.spotify.com/album/7DVIyXYiqn9hiFivjw7yhL) | 2:49 | 2022-04-22 | 2022-05-19 |
+| [u don't know my name](https://open.spotify.com/track/4e4ppYcISGMAoUJ5nb6PjO) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/4tkjpSjpdsEDrmeqJkp6b5) | 3:28 | 2023-02-16 |  |
 | [u don't know my name](https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil) | 3:28 | 2022-07-29 | 2022-08-14 |
 | [U Got My Love](https://open.spotify.com/track/5faSMGZR0FOBglFQ3z0VSg) | [GzLz](https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT) | [2 FACED](https://open.spotify.com/album/3Np0K5nIpCnyyrO9iap1MQ) | 3:12 | 2022-05-25 | 2022-06-12 |
 | [U Know](https://open.spotify.com/track/6Bct1tem9fRFYib5zDUxk6) | [Idow](https://open.spotify.com/artist/5wfp7hjVYwUUfEIWWyFnNf) | [Summer's Over](https://open.spotify.com/album/0otzmYeGTOXk0Z9iQwIe5B) | 3:00 | 2021-12-24 | 2022-01-09 |

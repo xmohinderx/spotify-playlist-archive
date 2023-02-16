@@ -1,44 +1,164 @@
 {
   "description": "An eclectic mix frequently updated by Danger Mouse. ",
-  "num_followers": 69659,
+  "num_followers": 69678,
   "original_name": "Danger Mouse Jukebox",
   "owner": {
     "name": "Danger Mouse",
     "url": "https://open.spotify.com/user/dangermouse_official"
   },
-  "snapshot_id": "MTg3MCxjNTBkOWE0YzBhNTdhMmU1OWMxYjQzM2UzZWU5NTU5ZmRhODI2ZmI4",
+  "snapshot_id": "MTg4OCxmNmM5ZGM5N2U0OTlhNjEzMTM3NTZkZjY5YzBiZTc3YjY2ZTI5Y2Qx",
   "tracks": [
     {
-      "added_at": "2023-01-09 15:34:43",
+      "added_at": "2023-02-15 15:05:08",
       "album": {
-        "name": "Positive Vibes Matter",
-        "url": "https://open.spotify.com/album/2LglN1kAycEF7w3aRaPRfS"
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/35ijJQxoNP5CFPirb2cFZL"
       },
       "artists": [
         {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         }
       ],
-      "duration_ms": 98129,
-      "name": "Morning Thanks",
-      "url": "https://open.spotify.com/track/1mxZoHaljilujrhsrsCOA0"
+      "duration_ms": 130113,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/0bOLtBY40nRz5j91IRBK5p"
     },
     {
-      "added_at": "2023-01-09 15:34:43",
+      "added_at": "2023-02-15 15:08:56",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
+        "name": "Who Made You You?",
+        "url": "https://open.spotify.com/album/3NPg7S5fTbeY8vav4IEGK7"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
         }
       ],
-      "duration_ms": 202230,
-      "name": "Revenge Of The Number",
-      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+      "duration_ms": 249557,
+      "name": "Who Made You You?",
+      "url": "https://open.spotify.com/track/7KzpYHoKk6CT0PBwBgPQzQ"
+    },
+    {
+      "added_at": "2023-02-15 15:09:17",
+      "album": {
+        "name": "Recovery Time",
+        "url": "https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        },
+        {
+          "name": "St Francis Hotel",
+          "url": "https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9"
+        }
+      ],
+      "duration_ms": 223042,
+      "name": "Recovery Time",
+      "url": "https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm"
+    },
+    {
+      "added_at": "2023-02-15 15:06:28",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2023-02-15 15:06:35",
+      "album": {
+        "name": "Give Me A Smile / Trust Issues",
+        "url": "https://open.spotify.com/album/3rpJMentZ5PYGvdpFhh4X1"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Give Me A Smile",
+      "url": "https://open.spotify.com/track/3TNBIfXlFViatbC1DdfyK7"
+    },
+    {
+      "added_at": "2023-02-15 15:06:57",
+      "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "4th of July",
+      "url": "https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF"
+    },
+    {
+      "added_at": "2023-02-15 15:08:29",
+      "album": {
+        "name": "Shadow of the Cherry",
+        "url": "https://open.spotify.com/album/3q39MLZ59YkeWDR6KkSfPj"
+      },
+      "artists": [
+        {
+          "name": "Morabeza Tobacco",
+          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
+        }
+      ],
+      "duration_ms": 292391,
+      "name": "Saturnus",
+      "url": "https://open.spotify.com/track/00prDywHwnS670dcxYZ1TP"
+    },
+    {
+      "added_at": "2023-02-15 15:08:13",
+      "album": {
+        "name": "Being Dead",
+        "url": "https://open.spotify.com/album/1wlJKfttXxkTetL5oEYVCU"
+      },
+      "artists": [
+        {
+          "name": "New German Cinema",
+          "url": "https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Being Dead",
+      "url": "https://open.spotify.com/track/0pxePpdqpqC9bAMSp5fecG"
+    },
+    {
+      "added_at": "2023-02-15 15:13:35",
+      "album": {
+        "name": "Entering Heaven Alive",
+        "url": "https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 179955,
+      "name": "A Tree on Fire from Within",
+      "url": "https://open.spotify.com/track/5zkPmg2nZSD1rFOJ1kIC4P"
     },
     {
       "added_at": "2023-01-09 15:34:43",
@@ -57,6 +177,22 @@
       "url": "https://open.spotify.com/track/2DImJ3iyp97ioGJjKcR6Ub"
     },
     {
+      "added_at": "2023-02-15 15:23:12",
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/1nuwSoEwYyUH4kE3wazjk0"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 165223,
+      "name": "Sirens II",
+      "url": "https://open.spotify.com/track/3u3aZHNjqQl23lVk0VyFuo"
+    },
+    {
       "added_at": "2023-01-09 15:34:43",
       "album": {
         "name": "Open",
@@ -71,26 +207,6 @@
       "duration_ms": 258522,
       "name": "Fresh Haze",
       "url": "https://open.spotify.com/track/5DmcPcKTCA2jRwOXJk7ovR"
-    },
-    {
-      "added_at": "2023-01-11 15:02:03",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/0sha8x8efYCYnUumqo83Xt"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 171357,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2mCBaxu4FAl9TvqhkKebgY"
     },
     {
       "added_at": "2023-01-09 15:34:43",
@@ -687,38 +803,6 @@
     {
       "added_at": "2023-01-09 15:34:43",
       "album": {
-        "name": "Viking Bank",
-        "url": "https://open.spotify.com/album/62PGGlgGRY8GoPGnKJQQgo"
-      },
-      "artists": [
-        {
-          "name": "Pierre Barouh",
-          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Altitude",
-      "url": "https://open.spotify.com/track/1P64MVqMlfPvpzbOlZlLu6"
-    },
-    {
-      "added_at": "2023-01-09 15:34:43",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 199217,
-      "name": "A1 Bakery Pledge of Allegiance",
-      "url": "https://open.spotify.com/track/16qVOWyR3r6rsZ4SWP1fC3"
-    },
-    {
-      "added_at": "2023-01-09 15:34:43",
-      "album": {
         "name": "Green Again",
         "url": "https://open.spotify.com/album/1djc8byesAMHdmPQnezRjz"
       },
@@ -733,36 +817,20 @@
       "url": "https://open.spotify.com/track/2w2iYbQq4HjDw1kraCnDDA"
     },
     {
-      "added_at": "2023-01-09 15:34:43",
+      "added_at": "2023-02-15 15:15:37",
       "album": {
-        "name": "Words We Won't Wear",
-        "url": "https://open.spotify.com/album/1hvEgpxamiZv4qFTH0aKSZ"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5bhProSDpcORA4Jw4Ew5JJ"
       },
       "artists": [
         {
-          "name": "AUSTYN GILLETTE",
-          "url": "https://open.spotify.com/artist/6yJQjVEMtTJ1zrC68C0WCs"
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
         }
       ],
-      "duration_ms": 173605,
-      "name": "Acquainted with Being Adrift",
-      "url": "https://open.spotify.com/track/3jsODJ91a3Oy8nOX1yVSYt"
-    },
-    {
-      "added_at": "2023-01-09 15:34:43",
-      "album": {
-        "name": "Winter Forever Cries",
-        "url": "https://open.spotify.com/album/47SPDKt5j6VOfBUVSVeziv"
-      },
-      "artists": [
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        }
-      ],
-      "duration_ms": 71687,
-      "name": "Oscar",
-      "url": "https://open.spotify.com/track/1hO8CdAxIQy9CJga6ETx5S"
+      "duration_ms": 243413,
+      "name": "Miracle Fruit",
+      "url": "https://open.spotify.com/track/7JM1c8Vn3tl00JPYLcHWN1"
     }
   ],
   "unique_name": "Danger Mouse Jukebox",

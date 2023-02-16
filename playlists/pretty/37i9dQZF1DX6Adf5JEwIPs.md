@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Frontera, Marca Registrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,729 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,807 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 |
 | 20 | [Mis Inicios](https://open.spotify.com/track/0qCnsxBWxryOfQsYaR5djF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Mis Inicios](https://open.spotify.com/album/6wbQbh65C32xuaQdGFNUrU) | 3:38 |
 | 21 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
-| 22 | [Lagrimas De Un Niño](https://open.spotify.com/track/5008QIm75DiVaG2IdZQJTd) | [Mac Rockelle](https://open.spotify.com/artist/0J9W7WVIGjIzrNFeu7gHb2), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Lagrimas De Un Niño](https://open.spotify.com/album/2FB6vRnbnFlqScryy4bxsp) | 3:56 |
+| 22 | [Lagrimas De Un Niño](https://open.spotify.com/track/5008QIm75DiVaG2IdZQJTd) | [Mac Rockelle](https://open.spotify.com/artist/0J9W7WVIGjIzrNFeu7gHb2), [OHGEESY](https://open.spotify.com/artist/5SzKq8OqaiqfAOG1sIMVdX) | [Lagrimas De Un Niño](https://open.spotify.com/album/2FB6vRnbnFlqScryy4bxsp) | 3:56 |
 | 23 | [La Mamá de Mis Chamacos](https://open.spotify.com/track/5WDdQ8qbchRydPBtCVy4ip) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [La Mamá de Mis Chamacos](https://open.spotify.com/album/6ZFkFiTnslNwFtXVuTnJy3) | 3:12 |
 | 24 | [Los Dos Compadres](https://open.spotify.com/track/6EHoTu5Lrxz0t2hZ1ru1Pu) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Los Dos Compadres](https://open.spotify.com/album/3iFyFOjKbEqTp5nxdRq8aC) | 3:31 |
 | 25 | [Te Hicieron Para Mi \- En Vivo](https://open.spotify.com/track/0pPlERIxUO5m23J818bofQ) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Te Hicieron Para Mi \(En Vivo\)](https://open.spotify.com/album/6b6HlPDTinB8Y2WF5XrMTG) | 3:45 |

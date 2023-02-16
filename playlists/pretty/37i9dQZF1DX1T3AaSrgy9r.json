@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 84421,
+  "num_followers": 84516,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDUwZThhMDRkY2Q5MDYxYTYxYTJkZjZiNzYxOGQ5Njlk",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGQxYmI4MGFkMTM0ZTAxMzM5OGUzMDUyYmIwNDc3MDY5",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Gettin' High On Your Own Supply",
-        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
-      },
-      "artists": [
-        {
-          "name": "Apollo 440",
-          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Stop the Rock - Apollo 440 Mix",
-      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 218026,
       "name": "Red Alert - Jaxx Radio Mix",
       "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Gettin' High On Your Own Supply",
+        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
+      },
+      "artists": [
+        {
+          "name": "Apollo 440",
+          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Stop the Rock",
+      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Wreckage",
         "url": "https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 287426,
       "name": "Supermoves",
       "url": "https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "Black Steel",
-      "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 411466,
       "name": "Open Up - Remastered",
       "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "Black Steel",
+      "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Makes Me Wanna Die",
+      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 387066,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Makes Me Wanna Die",
-      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
     },
     {
       "added_at": "2021-07-14 17:36:34",

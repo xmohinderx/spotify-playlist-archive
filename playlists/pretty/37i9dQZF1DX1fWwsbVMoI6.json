@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Cuarteto Continental de Alberto Marav\u00ed",
-  "num_followers": 91513,
+  "num_followers": 91550,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDFlMDA5MmM1NmRiMzU1ZWY1OTIyY2NjMDIxNjllZGNj",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMGI2MzNmZjA0N2EwZWUxOWE3MDQ3ODU5YWE1NmM3ODZm",
   "tracks": [
     {
       "added_at": "2023-02-03 05:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
-      },
-      "artists": [
-        {
-          "name": "Deyvis Orosco",
-          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
         "name": "D\u00edas Felices",
         "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 276192,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
+    },
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
     },
     {
       "added_at": "2023-02-03 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "Tu Amor Fue una Mentira, Vol. 11",
-        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
-      },
-      "artists": [
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
         "name": "Imposible Olvidarte",
         "url": "https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "El Futuro De La Cumbia",
-        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
+        "name": "Tu Amor Fue una Mentira, Vol. 11",
+        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
       },
       "artists": [
         {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
         }
       ],
-      "duration_ms": 277296,
-      "name": "Te Burlaste de Mi",
-      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
+      "duration_ms": 213826,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
     },
     {
       "added_at": "2023-02-03 05:01:00",
@@ -787,6 +771,22 @@
       "duration_ms": 195696,
       "name": "Mi Carin\u0303ito",
       "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+    },
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "El Futuro De La Cumbia",
+        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
+      },
+      "artists": [
+        {
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+        }
+      ],
+      "duration_ms": 277296,
+      "name": "Te Burlaste de Mi",
+      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
     },
     {
       "added_at": "2023-02-03 05:01:00",

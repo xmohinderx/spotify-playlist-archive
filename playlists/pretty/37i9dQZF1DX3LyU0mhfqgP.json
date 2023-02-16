@@ -1,12 +1,12 @@
 {
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Liniker",
-  "num_followers": 1119833,
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Peach PRC",
+  "num_followers": 1119279,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA2MjE4MCwwMDAwMDAwMGI1ZGZhZjA4ZDVjOWE5MWYwMjdjMzA5YmE4NGU4ODgy",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGU2NjZjZjc0YmJkZDc5Yzg3Y2U4NjY4ZjUyOGQxMThl",
   "tracks": [
     {
       "added_at": "2023-02-10 20:49:40",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-02-10 20:49:40",
       "album": {
-        "name": "Indigo Borboleta Anil",
-        "url": "https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 259234,
-      "name": "Lili",
-      "url": "https://open.spotify.com/track/38zhkcKqpewDo3MrMF2G0E"
-    },
-    {
-      "added_at": "2023-02-10 20:49:40",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 193381,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Perfect For You",
+        "url": "https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 178398,
+      "name": "Perfect For You",
+      "url": "https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP"
     },
     {
       "added_at": "2023-02-10 20:49:40",
@@ -79,8 +79,8 @@
     {
       "added_at": "2023-02-10 20:49:40",
       "album": {
-        "name": "AMEIANOITE",
-        "url": "https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 165996,
+      "duration_ms": 166013,
       "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL"
+      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
     },
     {
       "added_at": "2023-02-10 20:49:40",
@@ -159,6 +159,22 @@
       "duration_ms": 212830,
       "name": "All Over This Party",
       "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "added_at": "2023-02-10 20:49:40",
+      "album": {
+        "name": "Indigo Borboleta Anil",
+        "url": "https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 259234,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/38zhkcKqpewDo3MrMF2G0E"
     },
     {
       "added_at": "2023-02-10 20:49:40",

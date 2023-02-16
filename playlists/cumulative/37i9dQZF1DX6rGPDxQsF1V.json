@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "<a href=\"spotify:playlist:37i9dQZF1DXayDMsJG9ZBv\">Hot Hits Japan</a>\u3001\u3082\u3057\u304f\u306f<a href=\"spotify:playlist:37i9dQZF1DXafb0IuPwJyF\">Tokyo Super Hits</a>\u306b10\u9031\u4ee5\u4e0a\u30ea\u30b9\u30c8\u30fb\u30a4\u30f3\u3057\u305f\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Olivia Rodrigo",
+  "description": "<a href=\"spotify:playlist:37i9dQZF1DXayDMsJG9ZBv\">Hot Hits Japan</a>\u3001\u3082\u3057\u304f\u306f<a href=\"spotify:playlist:37i9dQZF1DXafb0IuPwJyF\">Tokyo Super Hits</a>\u306b10\u9031\u4ee5\u4e0a\u30ea\u30b9\u30c8\u30fb\u30a4\u30f3\u3057\u305f\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Harry Styles",
   "name": "On Replay -\u30e1\u30ac\u30d2\u30c3\u30c8\u30fb\u30ea\u30d7\u30ec\u30a4-",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "album": {
@@ -269,6 +287,24 @@
     },
     {
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/3iBELbeLc9pRmmauovD5rI"
       },
@@ -386,7 +422,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 241866,
       "name": "EVERBLUE",
       "url": "https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW"
@@ -576,7 +612,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 214200,
       "name": "Heaven's Drive",
       "url": "https://open.spotify.com/track/7tk8fRLFuD2CfZVE9Teygc"
@@ -938,6 +974,24 @@
       "duration_ms": 164106,
       "name": "Never Be Us",
       "url": "https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov"
+    },
+    {
+      "album": {
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "album": {
@@ -1890,7 +1944,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"

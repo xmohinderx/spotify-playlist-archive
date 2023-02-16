@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Adele",
+        "url": "https://open.spotify.com/album/4H5jQH3OFxQaxfqI6uuqGH"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185709,
+      "name": "Adele",
+      "url": "https://open.spotify.com/track/2oFXROGfVUg247YtNKeQw1"
+    },
+    {
+      "album": {
         "name": "Shir Khan Presents Exploited",
         "url": "https://open.spotify.com/album/7BYZOxdBeuzrkEiCTXFbqT"
       },
@@ -170,7 +188,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 253250,
       "name": "Al Sur - Elijah Minnelli Remix",
       "url": "https://open.spotify.com/track/7uStWg5Y1EPDGyspwcoNGC"
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 228671,
       "name": "Arigatou",
       "url": "https://open.spotify.com/track/0LoecvlFjKjIvZo4OLybXK"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 284986,
       "name": "Broken - Planningtohope Planningtorock Remix",
       "url": "https://open.spotify.com/track/3FsRsRIbYeaJjL4Ubs1tXZ"
@@ -865,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Estado L\u00edquido",
+        "url": "https://open.spotify.com/album/1P4MSPwag9zLph3aFa20qI"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197596,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/0CMJvuT5UWYekzP7pGp6YL"
+    },
+    {
+      "album": {
         "name": "Cavala",
         "url": "https://open.spotify.com/album/2oqeWF1PmpQYaQlD3ZX6gR"
       },
@@ -952,10 +988,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 290812,
       "name": "Coconut Warrior - Tristan Arp Firefly Dub",
       "url": "https://open.spotify.com/track/25DkMEmHFEgd6VVakK7NwE"
+    },
+    {
+      "album": {
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+      },
+      "artists": [
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
       "album": {
@@ -996,7 +1050,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 554748,
       "name": "Contains Multitudes",
       "url": "https://open.spotify.com/track/2aMLvHpLA3tctPo13sCNY7"
@@ -1156,6 +1210,24 @@
       "duration_ms": 556363,
       "name": "Dep First Draft - Extended Mix",
       "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+    },
+    {
+      "album": {
+        "name": "+/-",
+        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226006,
+      "name": "Detune",
+      "url": "https://open.spotify.com/track/66PV2NZFhSyPGIu1sguSGz"
     },
     {
       "album": {
@@ -1513,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Ey Ey Ay Ay Ey",
+        "url": "https://open.spotify.com/album/0DtNGAydyAu90RRQQlI5By"
+      },
+      "artists": [
+        {
+          "name": "Aleroj",
+          "url": "https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Ey Ey Ay Ay Ey",
+      "url": "https://open.spotify.com/track/1u9EsSivxOyR10WaxgLbry"
+    },
+    {
+      "album": {
         "name": "MATA",
         "url": "https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX"
       },
@@ -1546,6 +1636,24 @@
       "duration_ms": 333092,
       "name": "F1nk",
       "url": "https://open.spotify.com/track/0cezUHycKrtWymg2GngU1O"
+    },
+    {
+      "album": {
+        "name": "Switch Remixes",
+        "url": "https://open.spotify.com/album/4McmUjehvx3ayzIrmqEBVL"
+      },
+      "artists": [
+        {
+          "name": "The Black Ghosts",
+          "url": "https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346760,
+      "name": "Face - Switch Remix",
+      "url": "https://open.spotify.com/track/0CdgeovgwEjDFI2rHrBkZn"
     },
     {
       "album": {
@@ -1732,6 +1840,24 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4az2wznRc4hPHy94DdabI0"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/7w7rUZJKHDSB5Naqw3vcxM"
     },
     {
       "album": {
@@ -2008,6 +2134,28 @@
       "duration_ms": 243600,
       "name": "Happy Birthday!",
       "url": "https://open.spotify.com/track/5X3CY39DE81DkmOuNQArp0"
+    },
+    {
+      "album": {
+        "name": "Arkangelo",
+        "url": "https://open.spotify.com/album/6K8mnwi7yLgfWHd6YhB2ei"
+      },
+      "artists": [
+        {
+          "name": "Pablo Suzuki \u30b9\u30ba\u30ad",
+          "url": "https://open.spotify.com/artist/1jTLoAuKfeNHUOJSsP00Wn"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144921,
+      "name": "Haribo (feat. M\u00a5SS KETA)",
+      "url": "https://open.spotify.com/track/0A7If5kMN0HCinXsocoXmc"
     },
     {
       "album": {
@@ -2396,7 +2544,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 299779,
       "name": "Kickdrums!!!",
       "url": "https://open.spotify.com/track/7dOUqDtdOyQlJY28VoiVEo"
@@ -2480,7 +2628,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 213600,
       "name": "La Mujer Dormida",
       "url": "https://open.spotify.com/track/2MTe2I1QXBjzENkgtMYEFZ"
@@ -2527,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/0ltM1qrSb6iUi6hCowCfNT"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313846,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0SfYt5CDimIbJgluvzHj1O"
+    },
+    {
+      "album": {
         "name": "Lulua",
         "url": "https://open.spotify.com/album/0ntgJ37Nt3BzNJvHAKl8KQ"
       },
@@ -2542,6 +2708,28 @@
       "duration_ms": 159500,
       "name": "Lulua",
       "url": "https://open.spotify.com/track/2WnymPWYNlVL0Sn7YSS8Gk"
+    },
+    {
+      "album": {
+        "name": "B\u0118\u00c3TF\u00d3\u00d8T Remixes",
+        "url": "https://open.spotify.com/album/72PvyITk8VPI6KrCMjpSOC"
+      },
+      "artists": [
+        {
+          "name": "B\u0118\u00c3TF\u00d3\u00d8T",
+          "url": "https://open.spotify.com/artist/2d9UgZFb4N4JSmq1B3D42P"
+        },
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282948,
+      "name": "L\u0100\u0178F - Populous Remix",
+      "url": "https://open.spotify.com/track/4g6EgaPqsjjXCOORdluqxP"
     },
     {
       "album": {
@@ -2586,6 +2774,28 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
+    },
+    {
+      "album": {
+        "name": "METACURSE",
+        "url": "https://open.spotify.com/album/7DHK1O4rT7xHUtv3mM2S59"
+      },
+      "artists": [
+        {
+          "name": "Awkward Moments",
+          "url": "https://open.spotify.com/artist/7cOkx7Bfr5L9j5VVkOAWXW"
+        },
+        {
+          "name": "Ghost Culture",
+          "url": "https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308610,
+      "name": "METACURSE",
+      "url": "https://open.spotify.com/track/22UD2I40vDexjsB925wEEM"
     },
     {
       "album": {
@@ -3774,7 +3984,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 225540,
       "name": "Soul People",
       "url": "https://open.spotify.com/track/2RH0lY59PbHvyc1HeV5WDb"
@@ -4044,7 +4254,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 326997,
       "name": "Terremer",
       "url": "https://open.spotify.com/track/6AGBwWnclQUlyGreoPyTh4"
@@ -4232,7 +4442,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 234643,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/0mAtoUpFgo6JHBH5KumKVY"
@@ -4280,7 +4490,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 194377,
       "name": "Tukoh Taka (CupcakKe Remix)",
       "url": "https://open.spotify.com/track/08zhVsjNVgpUazOCvpdpa2"
@@ -4520,10 +4730,36 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"
+    },
+    {
+      "album": {
+        "name": "Welcome To My Island (Remix)",
+        "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202494,
+      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
+      "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,861 likes - 98 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,123 likes - 98 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 68 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 |
 | 69 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
 | 70 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
-| 71 | [100%](https://open.spotify.com/track/7110PZYRgMvQzLnHYR2XWI) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [100%](https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7) | 1:58 |
+| 71 | [100%](https://open.spotify.com/track/6crPfYeErp8nLWJruIn9Uj) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [100%](https://open.spotify.com/album/2VOZbR74O3ZWqJzg8GsFdH) | 1:58 |
 | 72 | [Panamera](https://open.spotify.com/track/0EAWZdQCUjJjXCDzJmn8Xw) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Dj Koringa MPC](https://open.spotify.com/artist/15QRURY8n9h2p03T91Fxi9), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Panamera](https://open.spotify.com/album/66sPGdwWCdc7u2k078e0sb) | 5:44 |
 | 73 | [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 |
 | 74 | [Meia Noite](https://open.spotify.com/track/09K1zzSVtouqzXBvAlmIG5) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Meia Noite](https://open.spotify.com/album/2A57QH1NYD9kKOvtUWa7k5) | 2:24 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 97 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 98 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY3NjMwMDA2NywwMDAwMDAwMGNiMzQ4NTc4MDJiYjlmODg1OGFmMjU0ZWEyYTA3ZGJk`
+Snapshot ID: `MTY3NjMwMDA2NywwMDAwMDAwMDRlNjk5MzU0YWFhMDAzOGRhZDA0NGUzNjdmZmIyYWY2`

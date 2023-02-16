@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "hajimari",
+        "url": "https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169185,
+      "name": "friday",
+      "url": "https://open.spotify.com/track/0kIwLXLFVA2UT8Q6OrqICw"
+    },
+    {
+      "album": {
         "name": "friday",
         "url": "https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2"
       },
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 169185,
       "name": "friday",
       "url": "https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u"

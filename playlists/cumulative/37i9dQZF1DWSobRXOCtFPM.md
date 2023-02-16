@@ -2,7 +2,7 @@
 
 ### [Carl Cox' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWSobRXOCtFPM)
 
-> Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+> Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks \- celebrating his brand new LP "Electronic Generations" with you\. From Carl: "I made this entirely live, by jamming with my machines and recording the tracks as I played them\. Alongside this I’ve included a live EP "Mindset" made in collaboration with the legendary Christopher Coe and I’ve added a bunch of tracks by live electronic artists that have inspired me whilst on this new adventure in live electronic performance! Enjoy!" Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
 129 songs - 12 hr 37 min
 

@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Hoss It",
+        "url": "https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx"
+    },
+    {
+      "album": {
         "name": "I Can't Die as Well",
         "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
       },
@@ -1122,6 +1140,24 @@
       "duration_ms": 136160,
       "name": "In der Stadt und auf dem Land",
       "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3cvFLfcf7Thbc2eNZCSCaC"
+      },
+      "artists": [
+        {
+          "name": "Violle",
+          "url": "https://open.spotify.com/artist/1LT5t6vbSfuIWmnFjcqdTg"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0oarRMUaejvKWmGEmvqGcn"
     },
     {
       "album": {
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 181366,
       "name": "Oneness",
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 278276,
       "name": "Sawbones",
       "url": "https://open.spotify.com/track/1wEVp9aggdrXG39gQQ6Gn7"

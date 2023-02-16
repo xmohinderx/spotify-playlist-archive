@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "album": {
         "name": "Pipopapipo",
         "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
       },
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 212909,
       "name": "Presente y pasado",
       "url": "https://open.spotify.com/track/5gJRzZRvusVHbuAtheMRt9"
@@ -4792,7 +4810,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 224000,
       "name": "Travel",
       "url": "https://open.spotify.com/track/0SnD5awSAVP2Kn4bAFdXDY"

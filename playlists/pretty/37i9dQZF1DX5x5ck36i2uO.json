@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7199,
+  "num_followers": 7211,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMDVmNzY4YmYwZjViYTkyOGJiMzE2NGZiNmEzNjM1MTc2",
+  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMGRiZGNlZWJlYWQ2NzM3YzIxYTEyZjZjMzU0NzczMzBl",
   "tracks": [
     {
       "added_at": "2023-01-25 01:26:56",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Show Me the Money 8 Final",
         "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 182868,
       "name": "010",
       "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "0&4",
+      "url": "https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "INSTANT (feat. SUMIN)",
         "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "0&4",
-      "url": "https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 93039,
-      "name": "Human fever",
-      "url": "https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Life+unconsciousness",
         "url": "https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/6lmSfkbYSpI6zgLjzkZ4WS"
     },
     {
       "added_at": "2023-01-25 01:26:56",

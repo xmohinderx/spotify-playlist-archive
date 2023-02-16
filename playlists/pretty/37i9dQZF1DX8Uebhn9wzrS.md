@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,305 likes - 500 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,225 likes - 500 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 118 | [Routine](https://open.spotify.com/track/5886ShvnT5q06RUEWLJTQN) | [Glenn Chiller](https://open.spotify.com/artist/2u2WBbKVjvQbLj8AfmogTy) | [Routine](https://open.spotify.com/album/477N14uXgEe09LNO244sA0) | 2:21 |
 | 119 | [Our Temple](https://open.spotify.com/track/5Tk3DZXaRa85xJUpA8bK6G) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Our Temple](https://open.spotify.com/album/3MoAy8CdUguGJfL15kF8ow) | 2:38 |
 | 120 | [Scilla](https://open.spotify.com/track/2Rl8YG9SFOrLXz4Jsr5TYV) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Scilla](https://open.spotify.com/album/6sUwRgas8r3CSikO2W4CCr) | 2:35 |
-| 121 | [Frozen Lake](https://open.spotify.com/track/0XNljnXDVqbp2H22H2sJmX) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers Vol\. 7](https://open.spotify.com/album/22JIJVzzJpXo1cI917Ymh4) | 2:28 |
+| 121 | [Frozen Lake](https://open.spotify.com/track/6EO6ElRq0FZo8x6QAoMr2I) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers, Vol\. 7](https://open.spotify.com/album/2IBaDCogQmvw5B8cVQqbIt) | 2:28 |
 | 122 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 |
 | 123 | [snowskiing](https://open.spotify.com/track/6kJCXQEhZdVR5wZ010LWvs) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [snowskiing](https://open.spotify.com/album/0gQGpLcIulOqJy2UwfOskP) | 2:52 |
 | 124 | [makossa](https://open.spotify.com/track/6qEJJTi2E6Wm5V1WgZ5M2c) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [makossa](https://open.spotify.com/album/6xqbqYdVcOYWV5rls4OLVY) | 1:17 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Get Off Your Horse](https://open.spotify.com/track/0M0toTLY69gmI8ddjadJnt) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Get Off Your Horse](https://open.spotify.com/album/1XPQ8nrf1I19sLHhN6IbGo) | 2:08 |
 | 500 | [Sun Meets Moon](https://open.spotify.com/track/3gEAPIikCAa8ch4IT1mmwe) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Sun Meets Moon](https://open.spotify.com/album/0CLlGhAKoLPlaHGkY6ttrv) | 2:38 |
 
-Snapshot ID: `MTY3NjMwMDIyNywwMDAwMDAwMDFmNzZjYjk1ZmMwODk5ZTc3NjAxNjAzNzBiODQ1YzNj`
+Snapshot ID: `MTY3NjMwMDIyNywwMDAwMDAwMDMzYTUwZDAyOGRjNTk1ODdjYjE5ZTM5ZGM1MTkwMTA0`

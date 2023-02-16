@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X x Gabry Ponte x Alida
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,015 likes - 26 songs - 1 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,024 likes - 26 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 19 | [Lay Low \(Nick Strand x Mio Remix\)](https://open.spotify.com/track/2mxBOb8OJa9VaYT454hKvD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd), [Mio](https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr) | [Lay Low \(Nick Strand x Mio Remix\)](https://open.spotify.com/album/3trIk2OuY1TMPHENvlMLy3) | 2:22 |
 | 20 | [Lay Low \(Tiësto VIP Mix\)](https://open.spotify.com/track/3arD8N1yRHfbNe6kI3vyZF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low \(Tiësto VIP Mix\)](https://open.spotify.com/album/2eoM5rDP2qp7MV5FE7p3wr) | 2:39 |
 | 21 | [A Shaman’s Mantra](https://open.spotify.com/track/6bPtNfftPzeFNTTtfiUgD3) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Shaman EP](https://open.spotify.com/album/4Kr0R4hyXt1nBrKVyjTHvj) | 3:03 |
-| 22 | [Shadow\(Phonk Remix\)](https://open.spotify.com/track/4MY2EUZIoXyzrhUiUNXFR5) | [Triplo Max](https://open.spotify.com/artist/5vie0556qntEu1EgA7ijtF) | [Shadow \(Phonk Remix\)](https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm) | 2:14 |
+| 22 | [Shadow \(Phonk Remix\)](https://open.spotify.com/track/4MY2EUZIoXyzrhUiUNXFR5) | [Triplo Max](https://open.spotify.com/artist/5vie0556qntEu1EgA7ijtF) | [Shadow \(Phonk Remix\)](https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm) | 2:14 |
 | 23 | [Elegibo \(Uma Historia De Ifa\)](https://open.spotify.com/track/2Tr1U7YMP4Z9x4ItgHB34o) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Elegibo \(Uma Historia De Ifa\)](https://open.spotify.com/album/0UI7aUhxJM6okLB8P2MYrK) | 2:29 |
 | 24 | [Be Somebody \- Achilles Club Mix](https://open.spotify.com/track/6aPyvA6WN4Pt6qW1SAWybY) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU) | [Be Somebody \(Achilles Club Mix\)](https://open.spotify.com/album/0EkXlNBvNWFkp5xDvRnl8k) | 2:38 |
 | 25 | [Monster \(feat\. LUM!X, Gabry Ponte\) \- Slowed Version](https://open.spotify.com/track/1USYre3e8uUmpeY9fwKsp2) | [Nightcore Slowed Down Tunes](https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs) | [Monster \(feat\. LUM!X, Gabry Ponte\) \[Slowed Version\]](https://open.spotify.com/album/0rDwHNE8nm9Icdgzecewx1) | 2:45 |

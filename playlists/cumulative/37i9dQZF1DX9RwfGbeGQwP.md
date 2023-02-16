@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,121 songs - 1 day 18 hr 17 min
+1,123 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
 | [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [skylarks](https://open.spotify.com/artist/1d1Go2fDIrLgYVWCnrvKow) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
-| [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 |  |
+| [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
+| [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 |  |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 |  |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 |  |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
@@ -590,7 +591,8 @@
 | [Luxem](https://open.spotify.com/track/7G6K6wus8NPuemQimVk0RZ) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [Luxem](https://open.spotify.com/album/3mv6InwNLFS6SFRA9tRMWV) | 3:13 | 2022-09-16 | 2022-09-23 |
 | [Madeira Sunset](https://open.spotify.com/track/1dOnUDc9VDA19G4r7DZVD3) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [Madeira Sunset](https://open.spotify.com/album/7cCsZzdBEW7RLcV4GA2CKs) | 1:20 | 2022-12-16 |  |
 | [Madrid Rooftops](https://open.spotify.com/track/23YCK4La8rdnMaCJsKmASn) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Madrid Rooftops](https://open.spotify.com/album/7xc78kT0G37voamAL8lvxE) | 1:42 | 2022-08-19 | 2023-01-07 |
-| [magic carpet](https://open.spotify.com/track/1wSm4s2eBFNVA53PEcmaZj) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/7pRhs0ly7WIBNNOWPXCMlp) | 2:36 | 2022-12-23 |  |
+| [magic carpet](https://open.spotify.com/track/1wSm4s2eBFNVA53PEcmaZj) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/7pRhs0ly7WIBNNOWPXCMlp) | 2:36 | 2022-12-23 | 2023-02-16 |
+| [magic carpet](https://open.spotify.com/track/5GCddGbEwEqFF9zHwnj1ib) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/3EZavwo1gshsgEem0R0NVf) | 2:36 | 2023-02-13 |  |
 | [magic carpet](https://open.spotify.com/track/6dwDDqVN2XgPnirvrYGEW4) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/1RmYNGVXwvRrXIvFvP9K7R) | 2:36 | 2022-11-25 | 2022-12-11 |
 | [magic carpet](https://open.spotify.com/track/6m7GJPzOoXkruUw4aIZSxC) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/7BLc4eJB3AwCkkdafmeQUV) | 2:36 | 2022-12-09 | 2022-12-24 |
 | [magic hands](https://open.spotify.com/track/3V7GFUmncAqH8ypxsJUben) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [magic hands](https://open.spotify.com/album/6lVENqVP8tppoJO9BYIYPo) | 1:46 | 2022-01-27 | 2022-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,002 likes - 27 songs - 1 hr 48 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,016 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 25 | [Blabba Mouth](https://open.spotify.com/track/3bD2otc9SMNu2xrTnb6uzk) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Lampa](https://open.spotify.com/artist/22zTDDhRWSaYtHlMHaz1Ej) | [DDD100](https://open.spotify.com/album/6jVJmsjVJchboBgsfWAPbj) | 6:17 |
 | 26 | [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 |
 | 27 | [A+ Mentality](https://open.spotify.com/track/6SUpiUkn6Cithp0ofyoh5g) | [Willdabeast](https://open.spotify.com/artist/4naFHw38cWUbiBKizrxaQx), [Glyph](https://open.spotify.com/artist/6VREHBNeXScftrRNu4RQQ5) | [A+ Mentality](https://open.spotify.com/album/2eVBTqjm5X9Hh0VFKEewge) | 4:34 |
+| 28 | [Labyrinth](https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Labyrinth](https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa) | 3:18 |
 
-Snapshot ID: `MjExNixlY2EyOTcyYzUwMGUwYTIzOTMxOWRjZWNhMzE2YjUzM2MzYjhmNmRk`
+Snapshot ID: `MjExNyxhZmM1NzYwYTlmNjUwMmI5OWUzMzVmYjlhNjE5ZmUyZDY4MTMxYjQ5`

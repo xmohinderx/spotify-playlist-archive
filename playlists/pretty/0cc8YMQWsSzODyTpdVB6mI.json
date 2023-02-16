@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 45077,
+  "num_followers": 45082,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAzNSxlMTA4NDZjYjY5NzJjOTZhY2JjZTUwNTAyZGViY2ExM2JiYTU0YThl",
+  "snapshot_id": "MzAzNyw3NmRkYmM4MzgzZWE4ZDM1NmJmMjAzMDJiOGVlNTEyOTUzOTk2MWI5",
   "tracks": [
+    {
+      "added_at": "2023-02-15 20:12:38",
+      "album": {
+        "name": "Shiver & Gold (Ares Carter Remix)",
+        "url": "https://open.spotify.com/album/6kNJhblzEXoMD6HmsxWTuy"
+      },
+      "artists": [
+        {
+          "name": "Imanos",
+          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
+        },
+        {
+          "name": "Ares Carter",
+          "url": "https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Shiver & Gold - Ares Carter Remix",
+      "url": "https://open.spotify.com/track/4WXXl3fsIg5GiuXYluadV8"
+    },
     {
       "added_at": "2023-02-08 09:46:04",
       "album": {

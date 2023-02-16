@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 29952,
+  "num_followers": 29989,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyNTg2NiwwMDAwMDAwMDMyZGMxNGRlZGJiNGQ5NjQ3YTY2ZWE3OTAwM2UxMzQ4",
+  "snapshot_id": "MTY3NjAyNTg2NiwwMDAwMDAwMDExZWZlM2Y5NzZlNjhkODZmMWJlNjlkNTU5NjhmYmNi",
   "tracks": [
     {
       "added_at": "2022-06-09 11:11:30",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "Brighter Days / Tin Roof",
+        "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Brighter Days / Tin Roof",
-        "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
     },
     {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
@@ -859,6 +843,22 @@
       "duration_ms": 2526933,
       "name": "ALONE WITH GOD (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Nailed (Live)",
         "url": "https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 397531,
       "name": "Nailed - Live",
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH"
-      },
-      "artists": [
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 209437,
-      "name": "Na Me Be This",
-      "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
-    },
-    {
       "added_at": "2022-06-09 11:11:30",
       "album": {
         "name": "Jesus",
@@ -1323,6 +1307,22 @@
       "duration_ms": 454040,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH"
+      },
+      "artists": [
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 209437,
+      "name": "Na Me Be This",
+      "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
     },
     {
       "added_at": "2022-06-09 11:11:30",

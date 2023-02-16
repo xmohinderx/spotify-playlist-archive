@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Daniela Ara\u00fajo",
-  "num_followers": 234008,
+  "num_followers": 234101,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMDE3MDI4NmYwYWU1ODYxNTc2MzdkY2VjMGU3MDM3MGM1",
+  "snapshot_id": "MTY3NjAzMTgyNywwMDAwMDAwMDU1NDU4YzBkYWI3ZDkxMjE4OGMxMWQ0ZTk1ZGYyNmFi",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 281480,
+      "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 281480,
-      "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n"
-      },
-      "artists": [
-        {
-          "name": "Ton Molinari",
-          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
-        },
-        {
-          "name": "Arco e Flecha",
-          "url": "https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "At\u00e9 Que Tu Sejas o Primeiro - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n"
+      },
+      "artists": [
+        {
+          "name": "Ton Molinari",
+          "url": "https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao"
+        },
+        {
+          "name": "Arco e Flecha",
+          "url": "https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "At\u00e9 Que Tu Sejas o Primeiro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
     },
     {
+      "added_at": "2023-02-16 01:33:33",
+      "album": {
+        "name": "Vulner\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Vulner\u00e1vel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
@@ -1071,26 +1087,6 @@
       "duration_ms": 437014,
       "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Mais Que Uma Voz",
-      "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1115,6 +1111,26 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 242005,
+      "name": "Mais Que Uma Voz",
+      "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 225677,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Aprender Com a Vida (Piano e Voz)",
-        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 258044,
-      "name": "Aprender Com a Vida - Piano e Voz",
-      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Apenas um Rascunho (feat. Eli Soares)",
-        "url": "https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV"
+        "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
       },
       "artists": [
         {
-          "name": "Kleuder Le\u00e3o",
-          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
         }
       ],
-      "duration_ms": 222176,
-      "name": "Apenas um Rascunho (feat. Eli Soares)",
-      "url": "https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo"
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1215,6 +1211,26 @@
       "duration_ms": 206053,
       "name": "Nova Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Apenas um Rascunho (feat. Eli Soares)",
+        "url": "https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV"
+      },
+      "artists": [
+        {
+          "name": "Kleuder Le\u00e3o",
+          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 222176,
+      "name": "Apenas um Rascunho (feat. Eli Soares)",
+      "url": "https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 307319,
       "name": "Prossiga",
       "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
-    },
-    {
-      "added_at": "2023-02-15 01:28:06",
-      "album": {
-        "name": "Vulner\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Vulner\u00e1vel - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa"
     },
     {
       "added_at": "2023-02-03 03:00:00",

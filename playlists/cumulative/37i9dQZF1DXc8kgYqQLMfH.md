@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-866 songs - 1 day 8 hr 38 min
+867 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [dotted patterns](https://open.spotify.com/track/4Fwg4pKDRfFUVetKK1xPQK) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [dotted patterns](https://open.spotify.com/album/6KiGjR8rUyJmrVNYrTXl0V) | 2:08 | 2022-11-25 |  |
 | [Double Space X](https://open.spotify.com/track/6sN8hNfLvBLGPr7leeL9tR) | [Filippinoboh](https://open.spotify.com/artist/0wJZLo1pCWYUKTaWe4JLZc) | [Double Space X](https://open.spotify.com/album/3DOga8y8M4FYdAxzfGFunt) | 1:50 | 2022-07-15 |  |
 | [Down By The Docks](https://open.spotify.com/track/5llK7Ua6MiBxZouPpwPm5r) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Down By The Docks](https://open.spotify.com/album/5eWu3EphAuVNzkhp7MAyu8) | 3:01 | 2022-07-22 |  |
-| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 |  |
+| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 | 2023-02-16 |
+| [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 |  |
 | [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 |  |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Meteor Girl](https://open.spotify.com/artist/7zR241sHjOON8QmwtFNOut) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 |  |

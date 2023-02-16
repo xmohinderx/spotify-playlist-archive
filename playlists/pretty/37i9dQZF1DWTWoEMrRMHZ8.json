@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 333775,
+  "num_followers": 333842,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMGI5MDgxOTEzYmY0N2Y1ODE3NGQzMjJhMDlkMGE3ZTg3",
+  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMGQwOTI1YjljNGNlM2I1Zjc3NTcyZTQ0MDkwMDk1Zjk4",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
     },
     {
+      "added_at": "2023-02-16 00:15:04",
+      "album": {
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 228477,
+      "name": "J\u00e1 ouviu falar de amor?",
+      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Meu Parceiro Belchior",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
-      "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 228477,
-      "name": "J\u00e1 ouviu falar de amor?",
-      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
-    },
-    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "ESTRELA",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
-      },
-      "artists": [
-        {
-          "name": "Helena Elis",
-          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "On",
-      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Dorme Pretinho",
         "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
       },
@@ -1321,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "Distantes e T\u00e3o Pr\u00f3ximos",
         "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
@@ -1343,21 +1327,21 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+        "name": "On",
+        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Helena Elis",
+          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
         }
       ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+      "duration_ms": 205800,
+      "name": "On",
+      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "Solid\u00f5es",
         "url": "https://open.spotify.com/album/5KSBEMVST0zTeiBadYWcsG"
@@ -1375,6 +1359,22 @@
       "duration_ms": 139137,
       "name": "Solid\u00f5es",
       "url": "https://open.spotify.com/track/68yYJHwo574Ok3PRHHRxMZ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
-        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        },
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        }
-      ],
-      "duration_ms": 261056,
-      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
-      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
+        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        },
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        }
+      ],
+      "duration_ms": 261056,
+      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
+      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Nossos Planos",
-        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 176968,
-      "name": "Nossos Planos",
-      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Meu",
         "url": "https://open.spotify.com/album/0qKsUMabSYKb7SxdDymMU7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 241696,
       "name": "Meu",
       "url": "https://open.spotify.com/track/2Koa7RU0dFe641DJfMHHdd"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Nossos Planos",
+        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 176968,
+      "name": "Nossos Planos",
+      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
+        },
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        }
+      ],
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Ef\u00eamera (Remix)",
         "url": "https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G"
       },
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
         "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
@@ -1665,7 +1665,7 @@
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "Bom Parto",
         "url": "https://open.spotify.com/album/3ZwcCK5QY3nxCuJzfoWRcF"
@@ -1757,7 +1757,7 @@
       "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
         "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
@@ -1849,7 +1849,7 @@
       "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
     },
     {
-      "added_at": "2023-02-15 00:52:30",
+      "added_at": "2023-02-16 00:15:04",
       "album": {
         "name": "\u00c1gua do Mar",
         "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"

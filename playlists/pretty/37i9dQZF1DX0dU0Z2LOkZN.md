@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,281 likes - 207 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,394 likes - 207 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 87 | [Winning Streak](https://open.spotify.com/track/35pK1tKZTKiV5rBrWhJda1) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Winning Streak](https://open.spotify.com/album/5RB6khKXxt3nLn9ZDGksyV) | 2:11 |
 | 88 | [Motion Blur](https://open.spotify.com/track/6iYdBrHjTSmmDgPZO4EXfU) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/4p61zb20E3SOhgS1M3IkZi) | 2:01 |
 | 89 | [Blue in Beat](https://open.spotify.com/track/13e9XXZyk48sapCt1dOc7F) | [Modern Station](https://open.spotify.com/artist/6Ad14T1O6qOJNr5U4IVKcP), [gb](https://open.spotify.com/artist/6E6X72HwmT5KHhi4Os8iV9), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Blue in Beat](https://open.spotify.com/album/09VnonQgbKNcUsTsisjhhf) | 1:41 |
-| 90 | [Résidus De Vin Rouge](https://open.spotify.com/track/3ZfcXWfqwGNkZMvtJ14LRg) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/1ZJPwm5z4rTzmZO5biQvAP) | 2:42 |
+| 90 | [Résidus De Vin Rouge](https://open.spotify.com/track/0RKz5Th7aELM7GyEB5eI5y) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:42 |
 | 91 | [Love Gone](https://open.spotify.com/track/13YF85tcO7tABHpidBnpgG) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [Love Gone](https://open.spotify.com/album/7iUGacygA2lhtNlGVBtSMb) | 2:34 |
 | 92 | [Trying](https://open.spotify.com/track/3B7LH6PsoSR0ugLZYAFUOm) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Trying](https://open.spotify.com/album/5frkVKVHWYsKq6HBlGh0un) | 2:34 |
 | 93 | [Wood](https://open.spotify.com/track/53cubSUB0K8iC0jzdnAuvP) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Wood](https://open.spotify.com/album/3fy00lFlifuP1PjxvqxpVF) | 2:21 |
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 197 | [Purple Days](https://open.spotify.com/track/6swspKnhCXVuhtjjn3CKWX) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/1wyIN2PaYsXq1dFQouQjTg) | 1:54 |
 | 198 | [Edinburgh slang](https://open.spotify.com/track/6dXurVV82jPnWs5cuaN0Vt) | [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Edinburgh slang](https://open.spotify.com/album/7DdYxJN9CQSky3dcaQJXko) | 3:42 |
 | 199 | [Stallone](https://open.spotify.com/track/4yS1f5mRw7WpewybCK30NH) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Stallone](https://open.spotify.com/album/5rGVab7VkQioQOBIwnQgEu) | 2:23 |
-| 200 | [Jet Ski Gelato Bounce](https://open.spotify.com/track/440keVdWKqHJbmINkJnhH7) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/1ZJPwm5z4rTzmZO5biQvAP) | 2:35 |
+| 200 | [Jet Ski Gelato Bounce](https://open.spotify.com/track/2D4mtDRmbV0mtyYJVCDs1j) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:35 |
 | 201 | [Arazonac](https://open.spotify.com/track/6APUu7ZLdzw2HHFlhKlEGE) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Arazonac](https://open.spotify.com/album/7qR5FtJB8efzUbfXOxJcUI) | 2:42 |
 | 202 | [Five O](https://open.spotify.com/track/4ILkbRkRUZ7a6M5aRF1OOk) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Five O](https://open.spotify.com/album/0GWI5iKdYVJCPS1AokKeoq) | 2:00 |
 | 203 | [No I'm Not](https://open.spotify.com/track/4zOROJs3orKU3RKrGMHSlF) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [No I'm Not](https://open.spotify.com/album/26HIl4OP3vjM0Hqw9nRanY) | 1:52 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 206 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 207 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDA0NWU3ODM5YWE2MTI5YzBjMmM1ZTM5ZTBhZmJlNmYz`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDUxYzllMzFjNTY1Y2ZmM2ZmMGNhZmNkYWU1ZTA1MDMw`

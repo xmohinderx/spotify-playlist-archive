@@ -1,13 +1,97 @@
 {
-  "description": "The soundtrack to the internet. Cover: midwxst & Denzel Curry",
-  "num_followers": 1293684,
+  "description": "The soundtrack to the internet. Cover: Ken Carson",
+  "num_followers": 1294503,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5MzAyNCwwMDAwMDAwMDVhM2I5ZDQ2MDcyOTYzMGRmMmRmNTdjMjkxYWMxYmI4",
+  "snapshot_id": "MTY3NjQ4NDU4NCwwMDAwMDAwMGZkMjM3M2IxNTJkZmQ3MGY1MjM1MjJlYzNiMGRmZjhk",
   "tracks": [
+    {
+      "added_at": "2023-02-15 15:48:18",
+      "album": {
+        "name": "i need u",
+        "url": "https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
+    },
+    {
+      "added_at": "2023-01-06 16:07:46",
+      "album": {
+        "name": "NS+ (ULTRA)",
+        "url": "https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "NEVEREVER",
+      "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
+    },
+    {
+      "added_at": "2023-01-25 05:00:00",
+      "album": {
+        "name": "Tally (with Denzel Curry)",
+        "url": "https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 147745,
+      "name": "Tally (with Denzel Curry)",
+      "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
+    },
+    {
+      "added_at": "2023-02-14 16:35:41",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "added_at": "2022-10-18 15:56:06",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
     {
       "added_at": "2023-02-14 16:35:41",
       "album": {
@@ -35,6 +119,22 @@
     {
       "added_at": "2023-02-09 20:50:09",
       "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
+    },
+    {
+      "added_at": "2023-02-09 20:50:09",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -53,26 +153,6 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-01-25 05:00:00",
-      "album": {
-        "name": "Tally (with Denzel Curry)",
-        "url": "https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 147745,
-      "name": "Tally (with Denzel Curry)",
-      "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
-    },
-    {
       "added_at": "2023-02-10 18:26:46",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -89,20 +169,20 @@
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
-      "added_at": "2023-01-25 05:00:00",
+      "added_at": "2022-11-15 16:13:36",
       "album": {
-        "name": "Dead n Gone",
-        "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
+        "name": "ascend.mp3",
+        "url": "https://open.spotify.com/album/3EbJ2nv3t3hByvhI9Xozcv"
       },
       "artists": [
         {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+          "name": "mimofr",
+          "url": "https://open.spotify.com/artist/6z69NxGmRyHCMFhOZ8H1Va"
         }
       ],
-      "duration_ms": 66803,
-      "name": "Dead n Gone",
-      "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
+      "duration_ms": 256052,
+      "name": "ascend.mp3",
+      "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
     },
     {
       "added_at": "2023-01-30 15:26:21",
@@ -137,6 +217,38 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
+      "added_at": "2023-01-13 05:04:00",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-01-25 05:00:00",
+      "album": {
+        "name": "Dead n Gone",
+        "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
+      },
+      "artists": [
+        {
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+        }
+      ],
+      "duration_ms": 66803,
+      "name": "Dead n Gone",
+      "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
+    },
+    {
       "added_at": "2023-01-30 15:27:56",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -169,22 +281,6 @@
       "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
-      "added_at": "2023-01-05 14:56:59",
-      "album": {
-        "name": "New Opp",
-        "url": "https://open.spotify.com/album/7okGnhb1jybiMuNXIkhEkl"
-      },
-      "artists": [
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        }
-      ],
-      "duration_ms": 93857,
-      "name": "New Opp",
-      "url": "https://open.spotify.com/track/3Kk1uJa4bqAkewVpUAU19W"
-    },
-    {
       "added_at": "2023-02-09 20:50:09",
       "album": {
         "name": "Tr\u00ebndi",
@@ -199,22 +295,6 @@
       "duration_ms": 148693,
       "name": "Fukit",
       "url": "https://open.spotify.com/track/2QJLqxLXlzMiApFS6eBY4G"
-    },
-    {
-      "added_at": "2023-02-14 16:35:41",
-      "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -377,6 +457,22 @@
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
     },
     {
+      "added_at": "2022-12-19 15:09:33",
+      "album": {
+        "name": "yeaaaa",
+        "url": "https://open.spotify.com/album/4m744Byj6lR19EMBtzhBLH"
+      },
+      "artists": [
+        {
+          "name": "Rollin Thrax",
+          "url": "https://open.spotify.com/artist/7h5WosWv7dJz3XxcTSsqqj"
+        }
+      ],
+      "duration_ms": 128056,
+      "name": "yeaaaa",
+      "url": "https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Luv Is Rage",
@@ -391,22 +487,6 @@
       "duration_ms": 236000,
       "name": "Top",
       "url": "https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW"
-    },
-    {
-      "added_at": "2023-02-09 20:50:09",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
     },
     {
       "added_at": "2022-09-12 19:59:46",
@@ -557,22 +637,6 @@
       "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
     },
     {
-      "added_at": "2022-11-15 16:13:36",
-      "album": {
-        "name": "ascend.mp3",
-        "url": "https://open.spotify.com/album/3EbJ2nv3t3hByvhI9Xozcv"
-      },
-      "artists": [
-        {
-          "name": "mimofr",
-          "url": "https://open.spotify.com/artist/6z69NxGmRyHCMFhOZ8H1Va"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "ascend.mp3",
-      "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Whole Lotta Red",
@@ -637,22 +701,6 @@
       "url": "https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp"
     },
     {
-      "added_at": "2022-12-19 15:09:33",
-      "album": {
-        "name": "yeaaaa",
-        "url": "https://open.spotify.com/album/4m744Byj6lR19EMBtzhBLH"
-      },
-      "artists": [
-        {
-          "name": "Rollin Thrax",
-          "url": "https://open.spotify.com/artist/7h5WosWv7dJz3XxcTSsqqj"
-        }
-      ],
-      "duration_ms": 128056,
-      "name": "yeaaaa",
-      "url": "https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma"
-    },
-    {
       "added_at": "2023-01-27 05:07:00",
       "album": {
         "name": "TAN",
@@ -669,22 +717,6 @@
       "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
     },
     {
-      "added_at": "2023-01-13 05:04:00",
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
       "added_at": "2023-01-27 05:07:00",
       "album": {
         "name": "LONG WAY",
@@ -699,22 +731,6 @@
       "duration_ms": 129899,
       "name": "LONG WAY",
       "url": "https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD"
-    },
-    {
-      "added_at": "2023-01-06 16:07:46",
-      "album": {
-        "name": "NS+ (ULTRA)",
-        "url": "https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "NEVEREVER",
-      "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
     },
     {
       "added_at": "2023-01-04 15:02:53",
@@ -779,22 +795,6 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2022-10-18 15:56:06",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1084,7 +1084,7 @@
       "added_at": "2022-08-31 03:01:24",
       "album": {
         "name": "you're a parasite",
-        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
+        "url": "https://open.spotify.com/album/1ZJR20NLRKNzzSbQvwkFMK"
       },
       "artists": [
         {
@@ -1094,7 +1094,7 @@
       ],
       "duration_ms": 152450,
       "name": "you're a parasite",
-      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+      "url": "https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1391,86 +1391,6 @@
       "duration_ms": 123428,
       "name": "COINCIDENCE",
       "url": "https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "hell yeah",
-        "url": "https://open.spotify.com/album/6NPKOCB3H4TGR6EfUcCxB6"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        }
-      ],
-      "duration_ms": 118740,
-      "name": "hell yeah",
-      "url": "https://open.spotify.com/track/7GGE6Ye9dzjx1ANzDDqVNM"
-    },
-    {
-      "added_at": "2022-10-21 05:21:05",
-      "album": {
-        "name": "Penthouse Shordy",
-        "url": "https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S"
-      },
-      "artists": [
-        {
-          "name": "Dom Corleo",
-          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
-        }
-      ],
-      "duration_ms": 126615,
-      "name": "Penthouse Shordy",
-      "url": "https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv"
-    },
-    {
-      "added_at": "2022-10-21 05:21:05",
-      "album": {
-        "name": "Face no Book",
-        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Face no Book",
-      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
-    },
-    {
-      "added_at": "2023-01-11 15:49:19",
-      "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4"
-    },
-    {
-      "added_at": "2022-10-11 14:15:39",
-      "album": {
-        "name": "Poland",
-        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 83200,
-      "name": "Poland",
-      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     }
   ],
   "unique_name": "Internet People",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,909 likes - 147 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,086 likes - 147 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 66 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 |
 | 67 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 | 68 | [Easy](https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [Easy](https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE) | 3:45 |
-| 69 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 |
+| 69 | [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 |
 | 70 | [Yesterday](https://open.spotify.com/track/1xIbBG0sbYTo1fwxGFgz5m) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [Yesterday](https://open.spotify.com/album/2g2QcxEqthJXbm2HZ0n6v4) | 3:08 |
 | 71 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
 | 72 | [Rebel Rebel](https://open.spotify.com/track/5mZYRyOPWVlTtPGWHJCbAL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 2:45 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 146 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 | 147 | [Shape of You](https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 3:34 |
 
-Snapshot ID: `MTY3NDEzMjY3NSwwMDAwMDAwMDhkNDU2ZWFjNzc0ZTdhZDk2YzMzYjRiMTYwNjdmYTkz`
+Snapshot ID: `MTY3NDEzMjY3NSwwMDAwMDAwMGZhMjNlZGM2YzA0YzBkMWI3ZWQwYmY0ZjY5ZGVjZWJk`

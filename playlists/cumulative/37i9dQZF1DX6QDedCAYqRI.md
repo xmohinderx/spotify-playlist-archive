@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-123 songs - 7 hr 53 min
+124 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [ifyoulovesomeone](https://open.spotify.com/track/4eECknCDvsXWYyacuycw4J) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [ifyoulovesomeone](https://open.spotify.com/album/2Kva6Kzzr5m8k70U4dQA0r) | 3:26 | 2021-08-19 |  |
 | [Impressions](https://open.spotify.com/track/039KCeBrprEJiYqqt33diP) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2) | 4:40 | 2022-06-01 |  |
 | [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 | 2021-08-19 | 2023-01-07 |
+| [In Love](https://open.spotify.com/track/0sWyfN0hKIpXKNOV8dRxBe) | [Beautiful Chorus](https://open.spotify.com/artist/1bL7zNdRZRQtgMnMpsCh0K) | [In Love](https://open.spotify.com/album/7za6ocoexnSTCcj6iArDqW) | 2:24 | 2023-02-15 |  |
 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 | 2021-08-19 |  |
 | [Inside Out](https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Inside Out](https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV) | 3:53 | 2021-08-19 |  |
 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 | 2022-06-01 |  |
@@ -105,7 +106,7 @@
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-06-01 |  |
 | [Sticky Leaves](https://open.spotify.com/track/1j9UotLEYOEdebJQTQtcnX) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Sticky Leaves](https://open.spotify.com/album/6Llq7REmvVXsfrslrQXn7T) | 3:52 | 2021-08-19 | 2022-07-29 |
 | [Sticky Leaves](https://open.spotify.com/track/4qlIIxYpHFE4z4IncQrn2N) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/2pWwQGSsGVaYiPEf5GS57D) | 3:52 | 2022-06-01 |  |
-| [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 | 2022-06-01 |  |
+| [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 | 2022-06-01 | 2023-02-16 |
 | [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 | 2021-08-19 | 2022-10-15 |
 | [Sunscreen](https://open.spotify.com/track/0EjoG8ZT8TCd51ymUAe160) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/0kTbbvO1d1OFGtjnxt0nT7) | 2:49 | 2022-06-01 |  |
 | [Sunscreen](https://open.spotify.com/track/0W7xlf67zsK37ByIPR6bm8) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/3ccYKuSYirTP5lJ3wKYhNM) | 2:49 | 2021-08-19 | 2022-07-29 |

@@ -1784,10 +1784,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 210466,
       "name": "Maihime",
       "url": "https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc"
+    },
+    {
+      "album": {
+        "name": "Maihime",
+        "url": "https://open.spotify.com/album/6VZQnpPyngzoTH4H3f5LOO"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lily",
+          "url": "https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Maihime",
+      "url": "https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab"
     },
     {
       "album": {
@@ -5431,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba / UFO\u3092\u547c\u3076\u30c0\u30f3\u30b9 / \u30e1\u30c7\u30e5\u30fc\u30b5 / \u6708\u306e\u8e0a\u308a\u5b50",
+        "url": "https://open.spotify.com/album/6wgWmznoimZdSy6lpzFfja"
+      },
+      "artists": [
+        {
+          "name": "Pop Never Dies",
+          "url": "https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba",
         "url": "https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s"
       },
@@ -5442,7 +5478,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 271893,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30bd\u30a6\u30eb\u30fb\u30cf\u30c3\u30d4\u30fc\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ"

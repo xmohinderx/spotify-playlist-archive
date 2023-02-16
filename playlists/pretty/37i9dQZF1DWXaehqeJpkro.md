@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,029 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,012 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 66 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
 | 67 | [I Still](https://open.spotify.com/track/7gkzWnzYtxsnT7VaAefDVU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still](https://open.spotify.com/album/51apaO1KFFjLvJuPkJjFxb) | 3:07 |
 | 68 | [On That Day](https://open.spotify.com/track/4fx2P5JDZ7hszBkTxzftQL) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [On That Day](https://open.spotify.com/album/7hcTxoEyYvl75urS0ee3Sl) | 3:39 |
-| 69 | [why break up?](https://open.spotify.com/track/3UPjb91Fwm7u2tAm92Bk0p) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [why break up?](https://open.spotify.com/album/5HNo3CgDzuDx2AeGcUqJA6) | 4:07 |
+| 69 | [우리 왜 헤어져야 해](https://open.spotify.com/track/1ZNz6s0I6XIy4HSWTz8n7n) | [Shin Yae Young](https://open.spotify.com/artist/1vGhlV6Gl9KqTskeFMlafE) | [우리 왜 헤어져야 해](https://open.spotify.com/album/6kVU7bkf0nUWmp7gzMtJJc) | 4:07 |
 | 70 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
 | 71 | [Others love easily, but I can’t](https://open.spotify.com/track/4K7P2h6dwnEK2TMvIxT7p9) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Others love easily, but I can’t](https://open.spotify.com/album/6XuFfy91eQUfCm1SyKZjqi) | 4:20 |
 | 72 | [모르시죠](https://open.spotify.com/track/2bLCWejmjDZS32CWswfdhK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/0yhmrnMwKTcXZhBwM1HJ1w) | 3:35 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 98 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
 | 99 | [Happy](https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/54NpbHDAJ6dRu46WYZxDJq) | 4:12 |
 | 100 | [For each other's sake](https://open.spotify.com/track/0Br1zQ0fUgzeYcQqrvBOqO) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [For each other's sake](https://open.spotify.com/album/7AOE9KYI6l3X8oSiEeOVdB) | 4:16 |
-| 101 | [Live Well](https://open.spotify.com/track/7ICInvaSc128iJAeA6F2E5) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Live Well](https://open.spotify.com/album/4NA7NJq9Twvt0cFyyu1gEU) | 3:23 |
+| 101 | [잘 살고 있다](https://open.spotify.com/track/5DcfR5OUbFk8udKJy0eS0X) | [V.O.S](https://open.spotify.com/artist/2GVQEwCrjKgK2f62Az4k5a) | [잘 살고 있다](https://open.spotify.com/album/2iBBFyQki3kNXAPHQ9FAFN) | 3:23 |
 | 102 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 |
 | 103 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
 | 104 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
@@ -122,13 +122,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 112 | [Let's Have a Drink](https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [ATELIER](https://open.spotify.com/album/4SBAMHsdBsKeyDb7EqzUV6) | 3:30 |
 | 113 | [My regards](https://open.spotify.com/track/1E7lMFb6c4p60DEJ8te3Be) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My regards](https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl) | 3:51 |
 | 114 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
-| 115 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz·buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:14 |
+| 115 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
 | 116 | [The Way To Say Goodbye](https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/123HZKvdhxbDBSkRgWYCHz) | 5:07 |
 | 117 | [Enough](https://open.spotify.com/track/5TCgUf31UGoFXQkpgINv9j) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:52 |
 | 118 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |
 | 119 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 |
 | 120 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 |
-| 121 | [No love, No Heartbreak](https://open.spotify.com/track/0zFmyYg4HuqFIj4DsNvmu8) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [No love, No Heartbreak](https://open.spotify.com/album/6NEkqFF70eFJD5aPheRBFu) | 3:30 |
+| 121 | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/track/3tfbmc7CnKpxjYxRzw578H) | [Baek Jiyoung](https://open.spotify.com/artist/6wuXpPyCkN6CGUTwRWwsj3) | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/album/3RZW3LGXITrs99vsrzHJQ2) | 3:30 |
 | 122 | [Destiny](https://open.spotify.com/track/2FPUCbxMXpyvQxORsq2zAD) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [puberty](https://open.spotify.com/album/3CBSSb5UntgYQxHzcnMe6u) | 4:24 |
 | 123 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 124 | [My Way](https://open.spotify.com/track/4fOfwLHQJz49Q8T1jrz54I) | [Lee Soo](https://open.spotify.com/artist/0wJ9JgzAlq9nif4ye4WrAR) | [돈꽃 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/3mZ0f6rcDBYhQAFfNMCNH3) | 4:38 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 149 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 150 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGJlNWIwZTE3MTNjMWExMzRhZTNhZmMyZjEyNTlkNWY3`
+Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGNkYTIwZjM1M2QyNjM1MmU3ZDRhMDkyNDM0MmIwYzMx`

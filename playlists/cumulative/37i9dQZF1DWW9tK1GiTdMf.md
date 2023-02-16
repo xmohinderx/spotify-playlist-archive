@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in cover sethu ❤️‍🩹
 
-387 songs - 17 hr 50 min
+388 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 | 2022-08-12 |
 | [Carrello di SHEIN](https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY) | [Carrello di SHEIN](https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV) | 2:09 | 2022-10-13 | 2022-11-25 |
 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 | 2023-02-02 |  |
-| [Cause Perse](https://open.spotify.com/track/2KTkK87bVywhsBfgsXOQ0Q) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/7wuqjRiVDHVE2LLO1gAKqf) | 2:21 | 2023-02-09 |  |
+| [Cause Perse](https://open.spotify.com/track/2KTkK87bVywhsBfgsXOQ0Q) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/7wuqjRiVDHVE2LLO1gAKqf) | 2:21 | 2023-02-09 | 2023-02-16 |
+| [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-02-15 |  |
 | [Cazzo vuoi?!](https://open.spotify.com/track/47fWFRXXsKLiRU9tiZod01) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Cazzo vuoi?!](https://open.spotify.com/album/4i3MJHgOwvndM23ew1NKHO) | 2:32 | 2022-11-03 | 2022-11-25 |
 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 | 2022-07-14 | 2022-09-30 |
 | [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 | 2022-07-29 |

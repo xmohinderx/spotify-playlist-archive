@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 116328,
+  "num_followers": 116340,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDkxNjNjN2VjNjdjYWYwZTg5NTA2NWNiN2ZjZDRjYjIw",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDc4ODZhZTkyODhkNTA1ZGIzOTY1ZWJkYTEzOTVjM2Y1",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "3 O'Clock Blues - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The Great Conspiracy (Bonus Track Version)",
         "url": "https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 392440,
       "name": "Too Many Do",
       "url": "https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
       "added_at": "2018-02-28 19:55:41",

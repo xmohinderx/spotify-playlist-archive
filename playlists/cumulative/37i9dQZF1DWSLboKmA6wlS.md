@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: VYBES\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Yes Indeed\. Artwork: Isu Kim
 
-277 songs - 17 hr 43 min
+278 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [ปากดี \(unfriend\)](https://open.spotify.com/track/5JstDXzOAWNx7s2dM8QXRw) | [AmadiVa](https://open.spotify.com/artist/3G72GHwK73pbTGxn96BgIi) | [ปากดี \(unfriend\)](https://open.spotify.com/album/0WTF6yjnXfJtTfDR5vU2cD) | 4:05 | 2022-12-01 | 2022-12-09 |
 | [ผมที่นั่งดูละครคุณธรรมอย่างโดดเดี่ยว](https://open.spotify.com/track/1aVYnfieK0AUohY1hKAs37) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผมที่นั่งดูละครคุณธรรมอย่างโดดเดี่ยว](https://open.spotify.com/album/5w9h5X3g8khfl6NiKR6Ejx) | 3:46 | 2022-11-11 |  |
 | [ผู้รอที่ดี](https://open.spotify.com/track/4FGLCKzV68hg3rfxhWuLn6) | [Green krits](https://open.spotify.com/artist/69ZdQWlb61bBAYH57HUQkK) | [ผู้รอที่ดี](https://open.spotify.com/album/5VsIROlxmGrQi2X5lQqXMV) | 3:03 | 2022-09-15 | 2022-09-24 |
-| [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/track/4k7fbj0Am3jaOPshgAgEw5) | [BABEPOOM](https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK) | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/album/0IydaxB2YsOTSkxSJT4cyu) | 3:40 | 2023-01-27 |  |
+| [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/track/4k7fbj0Am3jaOPshgAgEw5) | [BABEPOOM](https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK) | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/album/0IydaxB2YsOTSkxSJT4cyu) | 3:40 | 2023-01-27 | 2023-02-16 |
 | [ฝังใจ](https://open.spotify.com/track/3yySZ2pd0wWkw9ktaJH8A0) | [PINGx](https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh) | [ฝังใจ](https://open.spotify.com/album/0tTmHlb7SdcGel4RFRqzCJ) | 3:48 | 2022-09-23 | 2022-09-30 |
 | [ฝันกลางวัน](https://open.spotify.com/track/7nRuOKoNmkEFJv6NEMHiwq) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh), [1 NICE](https://open.spotify.com/artist/6X6URzPQwR6Emsi2FK2cyY) | [ฝันกลางวัน](https://open.spotify.com/album/7o2OSUOknl2jSwUKfPN1mM) | 3:10 | 2022-12-23 | 2023-01-21 |
 | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/track/5DnhH2JCCCajA2TIGA6mjK) | [Pleng Panisara](https://open.spotify.com/artist/6D2uyheaWIGxPsdhMe35GQ) | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/album/0lnjp5dqMJmLSjvrImzCcU) | 3:55 | 2022-12-08 |  |
@@ -243,6 +243,7 @@
 | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/track/38LqNoIo76nP28GGevEeE2) | [DVSH](https://open.spotify.com/artist/2Te1zJ4GHWtiKqWMTHg48Z), [MANGKORN](https://open.spotify.com/artist/2vRBQnwBMKxz1Hs5RFKTcr) | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/album/6z7fiueLiYb8ASKiyfaKOR) | 4:07 | 2022-09-29 | 2022-12-09 |
 | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/track/1R22HeagVHQck7v9m8wRA0) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/album/5uN9xdTandou9yZVSoX6R0) | 2:26 | 2022-10-12 | 2022-10-29 |
 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-11 |  |
+| [เลื่อนชั้น](https://open.spotify.com/track/2YTFJXAknO23Q2PfWx6Js7) | [Yes Indeed](https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx) | [เลื่อนชั้น](https://open.spotify.com/album/10DmBTP6XZ0IwCU2LKG8xz) | 3:49 | 2023-02-15 |  |
 | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu) | [Nutty Natchaya](https://open.spotify.com/artist/5rrQBPWh522YmC6sVnIPGQ) | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/album/3VU7s7BWenLkU6CWnQKUT0) | 4:19 | 2022-09-29 | 2022-11-19 |
 | [เหงื่อไหล \(SWEAT\)](https://open.spotify.com/track/0S9nuh0rQ9JXbBMiRdKwfK) | [Top Piyawat](https://open.spotify.com/artist/71m4LLBxWq8qffIpb98r4F) | [เหงื่อไหล \(SWEAT\)](https://open.spotify.com/album/1EkO7WHy5l8wbbQieLFRaN) | 3:24 | 2023-02-10 |  |
 | [เหมือนเธอมีเวทมนตร์เลยอะ](https://open.spotify.com/track/51MJ7f4UGlM54fgomimzXP) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [เหมือนเธอมีเวทมนตร์เลยอะ](https://open.spotify.com/album/7uOl8Ib0nQ09pLkSuk6DcT) | 4:36 | 2023-01-27 | 2023-02-11 |

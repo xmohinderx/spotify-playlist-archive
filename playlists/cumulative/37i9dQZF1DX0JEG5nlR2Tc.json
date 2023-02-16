@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Songs to Help Us Grow",
+        "url": "https://open.spotify.com/album/6JSpITNyolbJT78dHSZotS"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Back to School",
+      "url": "https://open.spotify.com/track/0iQ6LS8stN4sv0iodNTnP0"
+    },
+    {
+      "album": {
         "name": "Back To School",
         "url": "https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 202500,
       "name": "Back To School",
       "url": "https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6"

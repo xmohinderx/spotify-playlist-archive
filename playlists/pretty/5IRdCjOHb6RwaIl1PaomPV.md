@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,436 likes - 65 songs - 3 hr 51 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,434 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 6 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\) \(Chloé Caillet Version\)](https://open.spotify.com/track/1ZkFU4SirJGwn5z0x3T4zD) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Koo Koo Fun \(Remixes\)](https://open.spotify.com/album/2FHaIfUZWS9PSRqQUU0u48) | 5:11 |
 | 7 | [Pianissimo \- Extended](https://open.spotify.com/track/6UgDavkSuHHTq8bpn94v9V) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Pianissimo](https://open.spotify.com/album/1EkMUiE5FI6vDTILptC0AR) | 5:33 |
 | 8 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
-| 9 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
+| 9 | [way back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 |
 | 10 | [Don't Be Afraid \- DJ Tennis & Carlita Remix](https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Diplo \(Life and Death Remixes\)](https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv) | 3:52 |
 | 11 | [Heartbroken I'm Lonely](https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [Integrity](https://open.spotify.com/album/1uVgC2vzEpfu7Y1l9jFxev) | 2:15 |
 | 12 | [Going Back](https://open.spotify.com/track/02D5BJH4qFH578VbitQObD) | [Akira Akira](https://open.spotify.com/artist/4LdGTb93DvRRpPwwVfPkR2) | [4 Bye Four](https://open.spotify.com/album/1oIS1G1KqZKd6EgDYvSkYF) | 4:31 |

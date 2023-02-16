@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 50589,
+  "num_followers": 50605,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDcwNGQxNTY2ODgxYjQ0M2IxYTAzOWExZTljMDg5YTNk",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDY2YThjNjVmNmYyYTA0M2FiNDM5MjdiOTQ1ZjYxZDFh",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -927,8 +927,8 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1187,22 +1187,30 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Ruptura",
-        "url": "https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF"
+        "name": "Raices y Cultura",
+        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
       "artists": [
+        {
+          "name": "Lumumba Oficial",
+          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
+        },
         {
           "name": "Fidel Nadal",
           "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         },
         {
-          "name": "Fanbrown",
-          "url": "https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al"
+          "name": "Amilcar Nadal",
+          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Ruptura",
-      "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
+      "duration_ms": 281920,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1243,34 +1251,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Raices y Cultura",
-        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
-      },
-      "artists": [
-        {
-          "name": "Lumumba Oficial",
-          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Amilcar Nadal",
-          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Ruptura",
+        "url": "https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Fanbrown",
+          "url": "https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Ruptura",
+      "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
     },
     {
       "added_at": "2022-12-23 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 59 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386 likes - 59 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 3 | [Umenitosha](https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [The 4th Republic](https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k) | 5:32 |
 | 4 | [Touche \- Coco Em Remix](https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC) | [O'o](https://open.spotify.com/artist/1DtsFylHx6XtgBVITFouan), [Coco Em](https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x) | [Touche \(Coco Em Remix\)](https://open.spotify.com/album/6MZvMtngHxy9DbatIghC2w) | 6:18 |
 | 5 | [Rotation](https://open.spotify.com/track/28Vb0LHg2szAiFIPbR95uT) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Rotation](https://open.spotify.com/album/58MLWbkO1IccpGM6ztDESg) | 3:08 |
-| 6 | [Sunrise](https://open.spotify.com/track/1BEKaR7CJZTw0Yv4e845jc) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Frequent Sea](https://open.spotify.com/artist/0kcn0qQX3hkKvCIPjWmy5a) | [Sunrise](https://open.spotify.com/album/4Geze587DB67GHfSz0WG1B) | 2:47 |
+| 6 | [Sunrise](https://open.spotify.com/track/1BEKaR7CJZTw0Yv4e845jc) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Tom Kha](https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY) | [Sunrise](https://open.spotify.com/album/4Geze587DB67GHfSz0WG1B) | 2:47 |
 | 7 | [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 |
 | 8 | [SHINDA](https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [SHINDA](https://open.spotify.com/album/7MU0MfGCMgISf4NOkloTro) | 2:42 |
 | 9 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 |

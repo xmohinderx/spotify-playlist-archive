@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-454 songs - 1 day 2 hr 58 min
+455 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24) | 3:22 | 2022-01-10 |  |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4xLPimxtUDL7lJ6gouXVFK) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Live Version](https://open.spotify.com/album/2WOqsN4x4QiKLq6Ze9LonA) | 3:22 | 2022-01-10 | 2022-11-13 |
 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/1QSBIX7yP1krOq9TtX7iY9) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Acoustic Dance](https://open.spotify.com/album/7ENA1OJWzHqzVXHBoLu5Se) | 3:51 | 2022-01-10 | 2022-11-13 |
-| [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 | 2022-01-10 |  |
+| [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 | 2022-01-10 | 2023-02-16 |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2021-03-09 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2021-03-09 |  |
 | [I Don't Want to Be \- Stripped Version](https://open.spotify.com/track/3iEbhxDtjiTI3u2IE9G48B) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Pure..\. Acoustic](https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq) | 4:04 | 2021-03-09 | 2022-07-29 |
@@ -304,6 +304,7 @@
 | [Push The Button \- Acoustic Version](https://open.spotify.com/track/7gNx8bDwQVgCJ2YptXhdLu) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:25 | 2022-01-10 |  |
 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 | 2021-03-09 | 2022-07-29 |
 | [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-01-10 | 2023-02-15 |
+| [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2022-01-10 |  |
 | [Real Life \- Acoustic](https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life \(Acoustic\)](https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ) | 3:42 | 2021-03-09 |  |
 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 | 2021-03-09 |  |
 | [Rise \- Acoustic Version](https://open.spotify.com/track/41AeGy4sxailCTRajKF3oT) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:55 | 2021-03-09 |  |

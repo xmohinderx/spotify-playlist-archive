@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-106 songs - 5 hr 53 min
+107 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 | 2022-09-07 |  |
 | [Going The Distance](https://open.spotify.com/track/09ZLthJQ2SCYKMsrsDPcfw) | [The Rocky Soloists & Orchestra](https://open.spotify.com/artist/5fge6vobDunRkgaVl54Uh0) | [Rocky Balboa](https://open.spotify.com/album/50mja1rtC0ExIrSw9SoT5j) | 2:37 | 2022-09-07 |  |
 | [Gonna Fly Now](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) | [Bill Conti](https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2) | [Rocky III: Music From The Motion Picture](https://open.spotify.com/album/1DqgNIlDZPscRHgdCgDhZR) | 2:50 | 2022-09-07 |  |
-| [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-09-07 |  |
+| [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-09-07 | 2023-02-16 |
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2022-09-07 |  |
 | [Highschool Lover](https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 2:41 | 2022-09-07 |  |
 | [Hoist the Colours \- From "Pirates of the Caribbean: At World's End"/Soundtrack Version](https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Ted Elliot](https://open.spotify.com/artist/4pZ8EP690jiCFKLnvOALtT), [Terry Rossio](https://open.spotify.com/artist/0q7f4nYw5mlNeCNB9pDrNR) | [Pirates of the Caribbean: At World's End](https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu) | 1:31 | 2022-09-07 |  |
@@ -72,6 +72,7 @@
 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-28 |  |
 | [Once Upon a Time in the West \- Main Theme](https://open.spotify.com/track/0c89GbbUO3degznx9eYrq0) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Once Upon a Time in the West \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/1mLXrA8oEtzeH6D45Zx4Bt) | 3:43 | 2022-09-07 |  |
 | [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 | 2022-09-07 |  |
+| [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2022-12-28 |  |
 | [Play With Fire \- Mono Version](https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 2:13 | 2022-09-07 |  |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-09-07 |  |
 | [Quarantine](https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 2:15 | 2022-09-07 |  |

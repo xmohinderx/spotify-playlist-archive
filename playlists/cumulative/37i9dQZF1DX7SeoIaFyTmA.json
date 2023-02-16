@@ -536,10 +536,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 303400,
       "name": "Decisiones",
       "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
+    },
+    {
+      "album": {
+        "name": "Decisiones",
+        "url": "https://open.spotify.com/album/0N3ad3ylNue2hqkJ0ffovh"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303415,
+      "name": "Decisiones",
+      "url": "https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Siobhan",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Lucy Tun",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 166956,
       "name": "Ain't Seen Nada",
       "url": "https://open.spotify.com/track/7jIB6GPGuNwh0JI0iSXQp9"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 246177,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/5544ggNo3XcgrOxTvEq7Mq"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 249880,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/1qwVTmWZbTSdp3277EfMRB"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 177777,
       "name": "Boma Moto",
       "url": "https://open.spotify.com/track/2B4bBd8tmT7JGmwg2svEct"
@@ -2124,6 +2124,24 @@
       "duration_ms": 218635,
       "name": "Brick Phone",
       "url": "https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j"
+    },
+    {
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Buck",
+      "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
     },
     {
       "album": {
@@ -2387,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/2Uw4O0i1AeT0Ea1ZmqRz8l"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beetlestone",
+          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210908,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1ZEqZyOunFxQqiKwrLYFcq"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/0mshkZL8ysrUYGe1gttkQz"
       },
@@ -2524,7 +2560,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 204672,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0rM9Zqrt2uSOr8sk3O8eEJ"
@@ -2626,6 +2662,24 @@
     {
       "album": {
         "name": "Cold",
+        "url": "https://open.spotify.com/album/0pOFywX4DhOOAJ2828tUpc"
+      },
+      "artists": [
+        {
+          "name": "JERUB",
+          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166685,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh"
+    },
+    {
+      "album": {
+        "name": "Cold",
         "url": "https://open.spotify.com/album/6VhH8FHPySyL2CS6nh6fK3"
       },
       "artists": [
@@ -2708,7 +2762,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 166008,
       "name": "Coming For The Game",
       "url": "https://open.spotify.com/track/1I01zkBWPkYHTpUI1bPrag"
@@ -3801,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "dumped",
+        "url": "https://open.spotify.com/album/1bcuBWVW48T7OdLpTqIVyg"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165535,
+      "name": "dumped",
+      "url": "https://open.spotify.com/track/1GLTKz1d14nf3XlT2tLpVC"
+    },
+    {
+      "album": {
         "name": "dying to see you",
         "url": "https://open.spotify.com/album/6srYwqtC2ZfqwJwf24vqst"
       },
@@ -4000,6 +4072,24 @@
       "duration_ms": 190769,
       "name": "Endless",
       "url": "https://open.spotify.com/track/287zVPLJpJ5rnSU0XuT0xO"
+    },
+    {
+      "album": {
+        "name": "Escape!",
+        "url": "https://open.spotify.com/album/0CbkGWLlCjpCh3pqXMih5S"
+      },
+      "artists": [
+        {
+          "name": "Sophie DeMasi",
+          "url": "https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121428,
+      "name": "Escape!",
+      "url": "https://open.spotify.com/track/47SPO3hXbl1Hauhd0NkDbi"
     },
     {
       "album": {
@@ -4454,7 +4544,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 142043,
       "name": "fifteen again - Bedroom Demo",
       "url": "https://open.spotify.com/track/5yYs4OH2PETYFrJjLGuJMa"
@@ -5444,6 +5534,24 @@
       "duration_ms": 161186,
       "name": "Good News",
       "url": "https://open.spotify.com/track/3p9zEhikB0h8QF3YbfNUcM"
+    },
+    {
+      "album": {
+        "name": "Cupid Pain",
+        "url": "https://open.spotify.com/album/1r8h0gZRazOJT0rJ9auzUD"
+      },
+      "artists": [
+        {
+          "name": "Illy1",
+          "url": "https://open.spotify.com/artist/5bQ0kbcckuiHdmtIvoeVTB"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164217,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/06Ub9hNjOUi3EawqlQCsgv"
     },
     {
       "album": {
@@ -6510,7 +6618,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 252599,
       "name": "I Think I Love You",
       "url": "https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f"
@@ -7305,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "K.K.O",
+        "url": "https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm"
+      },
+      "artists": [
+        {
+          "name": "Piers James",
+          "url": "https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "K.K.O",
+      "url": "https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/62yWcU2moAh5R3Zv1C3DoE"
       },
@@ -7316,7 +7442,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 177237,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7fcD5Ec3o2obmOQfJecib4"
@@ -8974,7 +9100,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 223173,
       "name": "Music Stuff",
       "url": "https://open.spotify.com/track/5re6DZQ91qGJTZ1EsrINRU"
@@ -10015,6 +10141,24 @@
     },
     {
       "album": {
+        "name": "paperweight",
+        "url": "https://open.spotify.com/album/4llWiZdepXyOIyc9KzIt7s"
+      },
+      "artists": [
+        {
+          "name": "FJ Law",
+          "url": "https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "paperweight",
+      "url": "https://open.spotify.com/track/2XaNia0tMLj7FQe5mv2hW2"
+    },
+    {
+      "album": {
         "name": "parallel universe",
         "url": "https://open.spotify.com/album/2L1kLQUhGg3m7FrkaHaBpT"
       },
@@ -10600,7 +10744,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 193394,
       "name": "PSYCHE_extended_ft_snowy_prod.pholo",
       "url": "https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw"
@@ -11026,6 +11170,24 @@
       "duration_ms": 218922,
       "name": "Ruminate",
       "url": "https://open.spotify.com/track/6iAkPkAmCKueUccsOxqVlz"
+    },
+    {
+      "album": {
+        "name": "Run from you",
+        "url": "https://open.spotify.com/album/3CCw8H7YKnufmFZ0baD7vf"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146489,
+      "name": "Run from you",
+      "url": "https://open.spotify.com/track/2hGgCuB3Cqmu92eULAiXhW"
     },
     {
       "album": {
@@ -12091,6 +12253,24 @@
     },
     {
       "album": {
+        "name": "Standing",
+        "url": "https://open.spotify.com/album/0ZF795HoT1FethZU3kC9Re"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/7bvZ06WHquHA4vF4g6aY5L"
+    },
+    {
+      "album": {
         "name": "Starsigns",
         "url": "https://open.spotify.com/album/0wYI6R6dEORePqeyZzj7Wa"
       },
@@ -12670,7 +12850,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 197493,
       "name": "talking to strangers",
       "url": "https://open.spotify.com/track/0QtVbyei2xbBLGe7nZbxdB"
@@ -12800,6 +12980,24 @@
       "duration_ms": 144411,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/5kbVOO1E549qD31ziG92T1"
+    },
+    {
+      "album": {
+        "name": "beautiful things",
+        "url": "https://open.spotify.com/album/4Vt0dpuM0p70SRgf7GKL1C"
+      },
+      "artists": [
+        {
+          "name": "Noelle Carroll",
+          "url": "https://open.spotify.com/artist/3kVahyZ8yaoBu36n4BESFQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194054,
+      "name": "terracotta tiles",
+      "url": "https://open.spotify.com/track/5pqTBRnl5epSXHcQrpfMOG"
     },
     {
       "album": {
@@ -14338,6 +14536,24 @@
       "duration_ms": 165719,
       "name": "yeah, mud!",
       "url": "https://open.spotify.com/track/5Jd0L3QAuifXdFo5qi1iMd"
+    },
+    {
+      "album": {
+        "name": "Yellow Glow",
+        "url": "https://open.spotify.com/album/7DPoyRpI0JkNUCxZmypxNP"
+      },
+      "artists": [
+        {
+          "name": "Becky McNeice",
+          "url": "https://open.spotify.com/artist/7edFE4o8Du2u5kmW93EY5f"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Yellow Glow",
+      "url": "https://open.spotify.com/track/7I2uMAt3D8qnX1u9NJmSCS"
     },
     {
       "album": {

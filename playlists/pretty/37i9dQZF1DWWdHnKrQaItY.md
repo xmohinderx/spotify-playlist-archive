@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,325 likes - 68 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,330 likes - 68 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 44 | [Wiggle It](https://open.spotify.com/track/4xHA5RyRlbVeT2sDslkczq) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Space Bots & Tater Tots](https://open.spotify.com/album/4DZ9KDTVv1wvInrdqvKU6I) | 1:32 |
 | 45 | [Faster!](https://open.spotify.com/track/3PcemHi5mFgSWgNbBekunQ) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 1:44 |
 | 46 | [Let's Play](https://open.spotify.com/track/1CI0KTzVhyXAZWBS4GSCrV) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Let's Play](https://open.spotify.com/album/3CKSBk4Ivxw1gwjQ2GW3Ch) | 2:43 |
-| 47 | [Trampoline](https://open.spotify.com/track/0Xi9PFaPBwuYsvDfxsqtHO) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Trampoline](https://open.spotify.com/album/6DhhTFBWu2dmkhVFRMrFuW) | 1:22 |
+| 47 | [Trampoline](https://open.spotify.com/track/5goHB66d3gZBoC8L762CZ0) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Songs to Help Us Grow](https://open.spotify.com/album/6JSpITNyolbJT78dHSZotS) | 1:22 |
 | 48 | [Cotton Eye Joe \(Workout Mix\)](https://open.spotify.com/track/5RjplS4rMfxkI8DlvIq2kC) | [Fit Kids Allstars](https://open.spotify.com/artist/3ibCz6zRxB2znkpUmyHhw5) | [Kids Pop Workout Hits Vol\. 1 \(Music For Kids To Stay Fit\)](https://open.spotify.com/album/4gMQHDBKfxXo3vrR7NEsPO) | 3:18 |
 | 49 | [Robo Dancing](https://open.spotify.com/track/5lIo031iOkz2v9kKVbT5lA) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:28 |
 | 50 | [Wiggy Wiggles Freeze Dance](https://open.spotify.com/track/2d85Zcuzp4zMrSZS19qHnS) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Two Little Sounds \- Fun with Phonics and Numbers](https://open.spotify.com/album/0MGC1gffi0HGqPZxRiidGi) | 1:37 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 67 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 68 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MTY3NTQzNzI1MCwwMDAwMDAwMGMxMzIzYTIwMDI4YzNkZTA3NDM1MTBkMDJmMmI5ZGZi`
+Snapshot ID: `MTY3NTQzNzI1MCwwMDAwMDAwMDgzZTkyNTA3MTYyYTE1ODc1MWU5ZjBlYjEzNDU0YTA3`

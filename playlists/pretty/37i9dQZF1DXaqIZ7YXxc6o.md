@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,636 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,651 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 46 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 |
 | 47 | [Unity](https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Unity](https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4) | 2:48 |
 | 48 | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/track/4USV70gRKevsvJE0BDOI38) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/album/07vFImZlzxhilO1sjokl5O) | 5:37 |
-| 49 | [Real Spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 |
+| 49 | [real spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 |
 | 50 | [Moon Sky](https://open.spotify.com/track/2QE1xdrQieWa8RRXDnidQP) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo) | [Moon Sky](https://open.spotify.com/album/2fem0fvOKOJMIcZMdGKfT9) | 3:38 |
 | 51 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 |
 | 52 | [If I Live Forever](https://open.spotify.com/track/2BUF674QTAA8cL6YaBX3rd) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [If I Live Forever](https://open.spotify.com/album/2kEzeW5jxCUAaCDnPJ7jND) | 4:39 |

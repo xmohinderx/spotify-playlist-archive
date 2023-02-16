@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 150000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 137647,
       "name": "Endlos_demo",
       "url": "https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH"
@@ -14411,6 +14411,24 @@
     },
     {
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137984,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR"
+    },
+    {
+      "album": {
         "name": "Jumper",
         "url": "https://open.spotify.com/album/4l7PlVlDtmEHhdmbW208E1"
       },
@@ -15374,7 +15392,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 168306,
       "name": "Kleiner Finger Schwur",
       "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
@@ -21204,6 +21222,24 @@
       "duration_ms": 192506,
       "name": "Nur f\u00fcr Dich",
       "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
+    },
+    {
+      "album": {
+        "name": "NUR SIE DARF",
+        "url": "https://open.spotify.com/album/5d84zXcceiTXG05BhMmGLU"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163099,
+      "name": "NUR SIE DARF",
+      "url": "https://open.spotify.com/track/3i5mGA6jZN6Mk8bmcE7Jbz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-230 songs - 12 hr 11 min
+231 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2022-01-12 |  |
 | [Rest Now](https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Rest Now](https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7) | 2:42 | 2022-01-12 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-01-12 |  |
+| [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-02-09 |  |
 | [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 | 2022-04-13 | 2023-01-25 |
 | [Saturno](https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Constelaciones](https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1) | 3:40 | 2022-01-19 |  |
 | [Sea Angel](https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Sea Angel](https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY) | 3:28 | 2022-01-19 |  |
@@ -210,7 +211,7 @@
 | [Stream Of Consciousness](https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Stream Of Consciousness](https://open.spotify.com/album/1NsfijePewYqh84KibLhCg) | 3:00 | 2022-01-12 |  |
 | [Sunset](https://open.spotify.com/track/3P2pLABar0mO9HflyyYejL) | [I Am Dive](https://open.spotify.com/artist/180w2uyYADEWUjdsmioUyB) | [Music For Silent Running](https://open.spotify.com/album/6FaThzHWGq9qWWO194host) | 3:11 | 2022-04-13 | 2022-04-21 |
 | [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2022-10-07 |  |
-| [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 | 2022-01-19 |  |
+| [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 | 2022-01-19 | 2023-02-16 |
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2022-01-12 |  |
 | [The Age of the Earth](https://open.spotify.com/track/3vDKBXhismlvnpXbm9DAdc) | [Complex Reality](https://open.spotify.com/artist/54UfHu4bjwDkdRTAOqv8On) | [Shadow of a Dream](https://open.spotify.com/album/524MOGt13RV5XLpZp3dnMQ) | 3:19 | 2022-04-13 | 2022-04-21 |
 | [The Birth of Solitude](https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ) | [Lei Chini](https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5) | [The Birth of Solitude](https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk) | 1:54 | 2022-01-12 |  |

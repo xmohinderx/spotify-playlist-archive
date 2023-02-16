@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-297 songs - 18 hr 42 min
+298 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,12 +240,13 @@
 | [Silent Night \(with Saviour King\) \- Live](https://open.spotify.com/track/1JqRuf1VFolpmDEBjeRLkF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/4jAmUwcMcth5Dc6FnxssVR) | 7:12 | 2021-12-24 | 2022-07-25 |
 | [Silent Night \- Live](https://open.spotify.com/track/2DfdmOmD8O70gT64e36RPI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Kristyn Getty](https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:01 | 2021-12-24 | 2022-07-24 |
 | [Someday At Christmas](https://open.spotify.com/track/608NGSBqPbbmKdser2Fp6B) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Someday At Christmas](https://open.spotify.com/album/4cu7ooyD4yOwE9zfgAtKXd) | 2:51 | 2021-12-24 | 2022-07-23 |
+| [Someone Like Me](https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Someone Like Me](https://open.spotify.com/album/0T4LAUwTj5aClzpGfJAqNc) | 3:38 | 2022-12-11 |  |
 | [Somewhere In Your Silent Night](https://open.spotify.com/track/6P1J2IE6TuDhBUEpuJyclv) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 3:55 | 2021-12-24 |  |
 | [Son of God, Son of Man](https://open.spotify.com/track/4NQIzhVcMv3O4DfjZ4SqvL) | [Travis Ryan](https://open.spotify.com/artist/7u1e2COb5JA3hgQPQ0eSCJ) | [Majesty In a Manger](https://open.spotify.com/album/0480LVtrPitXcM67W7Yowf) | 4:24 | 2021-12-24 | 2022-07-14 |
 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-11-26 |  |
 | [Star of Wonder](https://open.spotify.com/track/1LpLEqamxX9UzruiSL8MYp) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [O Holy Night](https://open.spotify.com/album/7mcfsEKYDD3DfiyPyDyJqF) | 1:25 | 2021-12-24 | 2022-07-27 |
 | [Star Of Wonder](https://open.spotify.com/track/1Zww1Z4sl3q2pWhkIa8nFg) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [O Holy Night](https://open.spotify.com/album/5uo3AWPImc2lqOqE64Vf59) | 1:25 | 2021-12-24 |  |
-| [Star of Wonder \(Radio Mix\)](https://open.spotify.com/track/5Npya8YSjhDnZGWgAkxAbv) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Wake up the World \(Bonus Track Version\)](https://open.spotify.com/album/7tP74b6iPiQQGzUbZks1K0) | 3:07 | 2021-12-24 |  |
+| [Star of Wonder \(Radio Mix\)](https://open.spotify.com/track/5Npya8YSjhDnZGWgAkxAbv) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Wake up the World \(Bonus Track Version\)](https://open.spotify.com/album/7tP74b6iPiQQGzUbZks1K0) | 3:07 | 2021-12-24 | 2023-02-16 |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank God for Christmas](https://open.spotify.com/track/1bxgpGhSOi0eB83b35NcI6) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Thank God for Christmas](https://open.spotify.com/album/0QHrIr83UMw4XF5OTQc0rV) | 3:53 | 2021-12-24 | 2022-07-29 |
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-24 |  |

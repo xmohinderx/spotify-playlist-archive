@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: VYBES\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Yes Indeed\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,464 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,470 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จักรวาลคู่ขนาน \(Am I The Only One Dreaming?\)](https://open.spotify.com/track/3QU1gDQfqdFZaaU4l9pQyk) | [JES Jespipat](https://open.spotify.com/artist/72YXXEfidpfHdezm43fPdK) | [จักรวาลคู่ขนาน \(Am I The Only One Dreaming?\)](https://open.spotify.com/album/2EwMEHxHRg1KoIPeXCEUPJ) | 4:20 |
-| 2 | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/track/3wDu41K0k699QCwJMokF6t) | [VYBES](https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI) | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/album/3xGgWF5AFngf6CzCtTbRxx) | 3:30 |
-| 3 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 |
-| 4 | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/track/1XjHbpsD54lYWNJ6lzOpQk) | [KETAYA](https://open.spotify.com/artist/7gfHmil2P4Ypj0KGgscy0M) | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/album/1rHDRR26hd8N2ulNfYSAC0) | 3:09 |
-| 5 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
-| 6 | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/track/7pJzYbrhwwItmz5asZMcg3) | [TRYST](https://open.spotify.com/artist/71ijNniCKCRsUg7oqvpCKd) | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/album/1ul7oMwzsahuKSijldfEGn) | 4:08 |
-| 7 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 |
-| 8 | [ตราบนิจนิรันดร์](https://open.spotify.com/track/1dTddxhDWmOhM1Fqg19FOg) | [DAKOTA](https://open.spotify.com/artist/34DHAMuFy87C613bkwC9WO) | [ตราบนิจนิรันดร์](https://open.spotify.com/album/2Km98bTNYIg1MpnVJfH6Pi) | 4:01 |
-| 9 | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/track/4k7fbj0Am3jaOPshgAgEw5) | [BABEPOOM](https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK) | [ผ้าคลุมล่องหน \(Invisibility Cloak\)](https://open.spotify.com/album/0IydaxB2YsOTSkxSJT4cyu) | 3:40 |
+| 1 | [เลื่อนชั้น](https://open.spotify.com/track/2YTFJXAknO23Q2PfWx6Js7) | [Yes Indeed](https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx) | [เลื่อนชั้น](https://open.spotify.com/album/10DmBTP6XZ0IwCU2LKG8xz) | 3:49 |
+| 2 | [จักรวาลคู่ขนาน \(Am I The Only One Dreaming?\)](https://open.spotify.com/track/3QU1gDQfqdFZaaU4l9pQyk) | [JES Jespipat](https://open.spotify.com/artist/72YXXEfidpfHdezm43fPdK) | [จักรวาลคู่ขนาน \(Am I The Only One Dreaming?\)](https://open.spotify.com/album/2EwMEHxHRg1KoIPeXCEUPJ) | 4:20 |
+| 3 | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/track/3wDu41K0k699QCwJMokF6t) | [VYBES](https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI) | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/album/3xGgWF5AFngf6CzCtTbRxx) | 3:30 |
+| 4 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 |
+| 5 | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/track/1XjHbpsD54lYWNJ6lzOpQk) | [KETAYA](https://open.spotify.com/artist/7gfHmil2P4Ypj0KGgscy0M) | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/album/1rHDRR26hd8N2ulNfYSAC0) | 3:09 |
+| 6 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
+| 7 | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/track/7pJzYbrhwwItmz5asZMcg3) | [TRYST](https://open.spotify.com/artist/71ijNniCKCRsUg7oqvpCKd) | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/album/1ul7oMwzsahuKSijldfEGn) | 4:08 |
+| 8 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 |
+| 9 | [ตราบนิจนิรันดร์](https://open.spotify.com/track/1dTddxhDWmOhM1Fqg19FOg) | [DAKOTA](https://open.spotify.com/artist/34DHAMuFy87C613bkwC9WO) | [ตราบนิจนิรันดร์](https://open.spotify.com/album/2Km98bTNYIg1MpnVJfH6Pi) | 4:01 |
 | 10 | [เธอต้องมีฉันแล้วป่าว \(Only Me\)](https://open.spotify.com/track/0K6q5XUjBPk5LwLfpMpzyU) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [เธอต้องมีฉันแล้วป่าว \(Only Me\)](https://open.spotify.com/album/3z6ryVQjS4CSMVdZMl9dFV) | 2:59 |
 | 11 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |
 | 12 | [คู่ชิป](https://open.spotify.com/track/51Tvycfb8DQIGaWvoW4VkY) | [Chippy Sirin](https://open.spotify.com/artist/4Es60EWNOIuH2esRyDIfwo) | [คู่ชิป](https://open.spotify.com/album/69ryhdIsF9QYb7YQXtx2xh) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 74 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 |
 | 75 | [ไม่ต้องรอหน้าหนาว](https://open.spotify.com/track/3OowRaCSAZJOH6W6ZVxChD) | [RIFF](https://open.spotify.com/artist/13beXmIq2Ji3IWyRxqjeqm), [KANOM](https://open.spotify.com/artist/3LwjNpINUMhhzS5m27epY2), [ONEKIDS](https://open.spotify.com/artist/0Ju4ldEinHEWjqnwgSk7Bz) | [ไม่ต้องรอหน้าหนาว](https://open.spotify.com/album/7wW4IPvO0Tpz7d5mWq6icy) | 4:35 |
 
-Snapshot ID: `MTY3NjAxNDgwMCwwMDAwMDAwMDlmYjQ2YmE1ZGIwOWU2MTUxMTg2ZDllYzEzZDRjODVh`
+Snapshot ID: `MTY3NjQ0MDg3MiwwMDAwMDAwMDk1YzFjNjRhMjdmZjc3ZGIwMjVlN2FlNjc0MDU1MmQx`

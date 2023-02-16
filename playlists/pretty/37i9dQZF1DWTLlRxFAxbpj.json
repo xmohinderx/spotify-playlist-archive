@@ -1,12 +1,12 @@
 {
   "description": "You're on Spring Break...turn it up and start acting like it!",
-  "num_followers": 8976,
+  "num_followers": 8980,
   "original_name": "Spring Loaded",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1MzczNCwwMDAwMDAwMGVhMjdhYWZlYzZjNjg5MWNhYzU4MDcyN2E3ZmFlY2Jm",
+  "snapshot_id": "MTY3MjI1MzczNCwwMDAwMDAwMGE2MDk4MjY3YjE3OWE1MjNlMGYzYjdiMGMwNzgzYjZk",
   "tracks": [
     {
       "added_at": "2022-12-28 18:55:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-12-28 18:55:34",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2022-12-28 18:55:34",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-12-28 18:55:34",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2022-12-28 18:55:34",
@@ -895,22 +895,18 @@
     {
       "added_at": "2022-12-28 18:55:34",
       "album": {
-        "name": "Party Rock",
-        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 222133,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     }
   ],
   "unique_name": "Spring Loaded",

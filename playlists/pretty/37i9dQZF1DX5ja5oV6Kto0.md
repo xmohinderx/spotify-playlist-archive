@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="hthttps://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=QLyvddz1ReGKK5ntDN5NvA"> Cruel Santino</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,374 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,419 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

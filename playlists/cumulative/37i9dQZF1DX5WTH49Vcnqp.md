@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love Cover: BENEE
 
-736 songs - 1 day 17 hr 51 min
+737 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-24 | 2023-02-10 |
 | [Give You Everything](https://open.spotify.com/track/6PMRGsl6rIZOdT3PrsjXtT) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Give You Everything](https://open.spotify.com/album/7Kun6EouwhyDRRTku3xGgi) | 3:23 | 2022-02-17 | 2022-03-25 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-16 | 2022-07-29 |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-15 |  |
 | [Go Wrong](https://open.spotify.com/track/3TDCeZ766KE6hjUa1zdrLB) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Go Wrong](https://open.spotify.com/album/0m1sQ9BNtrZCVtl4meMJ5N) | 2:30 | 2022-10-13 | 2022-11-18 |
 | [Going On \(feat\. Bickleboy & Nana Lourdes\)](https://open.spotify.com/track/6MPjem0pchL2al9Yapa4Zc) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Bickleboy](https://open.spotify.com/artist/4EiOZ9dwFt1s8ROGWwyB2e), [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Going On \(feat\. Bickleboy & Nana Lourdes\)](https://open.spotify.com/album/51F5JW6ndOr1Wvz2zZiDk1) | 1:59 | 2023-02-02 |  |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2021-12-28 | 2022-01-07 |
@@ -536,7 +537,7 @@
 | [Red Earth Dirt](https://open.spotify.com/track/3Ymvh9FUXL6sjDG3A1R1NP) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Red Earth Dirt](https://open.spotify.com/album/6hpjwCa1aIihRixuYzQOC2) | 3:50 | 2022-02-14 | 2022-03-25 |
 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 | 2022-03-30 | 2022-06-08 |
 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-24 |  |
-| [Replay](https://open.spotify.com/track/65PBk5Sinl37TnGFCHhZ5W) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Replay](https://open.spotify.com/album/5B7YUe51m5YSss72USkQoE) | 3:23 | 2022-11-17 |  |
+| [Replay](https://open.spotify.com/track/65PBk5Sinl37TnGFCHhZ5W) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Replay](https://open.spotify.com/album/5B7YUe51m5YSss72USkQoE) | 3:23 | 2022-11-17 | 2023-02-16 |
 | [Rerun](https://open.spotify.com/track/4tZ1Orj5XbdeVEh0oXR3MA) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/48rLNLXpIHGFxVxf3Hrn2I) | 3:21 | 2022-04-04 | 2022-06-17 |
 | [Retro](https://open.spotify.com/track/0wi4gkHVHSARtzyqnMZNno) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk) | [Retro](https://open.spotify.com/album/2fY15GrZqMNBWhluqG9kIo) | 2:35 | 2021-12-28 | 2022-01-21 |
 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 | 2023-02-09 |  |

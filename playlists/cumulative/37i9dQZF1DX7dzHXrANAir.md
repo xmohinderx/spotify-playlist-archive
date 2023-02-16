@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-235 songs - 17 hr 5 min
+236 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Critical Spirit](https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 4:49 | 2022-04-29 | 2022-11-05 |
 | [Critical Spirit \- Live](https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Critical Spirit \(Live\)](https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS) | 11:09 | 2022-09-09 | 2022-10-10 |
 | [Dancing leaves](https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y) | [Matteo Saggese](https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Sound Visions](https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB) | 3:27 | 2022-03-11 |  |
-| [Dawn is Near](https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Frost](https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z) | 4:52 | 2022-04-08 |  |
+| [Dawn is Near](https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Frost](https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z) | 4:52 | 2022-04-08 | 2023-02-16 |
 | [De Luce Et Umbra](https://open.spotify.com/track/0SslNpasndxgkQRvqSgC6N) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [Orphée](https://open.spotify.com/album/22ohGwoKrvCaZYMmgTGfvR) | 2:28 | 2021-12-10 | 2022-05-12 |
 | [De Luce et Umbra](https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 2:28 | 2022-07-22 |  |
 | [Dear Salinger](https://open.spotify.com/track/5PRotvfru7UiJNkMKyXsNy) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:20 | 2021-12-10 | 2022-04-02 |
@@ -60,6 +60,7 @@
 | [Diamonds](https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Diamonds](https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2) | 2:04 | 2022-03-25 |  |
 | [Diane](https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda) | [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM) | [Diane](https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi) | 3:57 | 2022-02-25 | 2022-12-01 |
 | [Divenire \- Reimagined by Mercan Dede & Kora](https://open.spotify.com/track/6hX4lTpGKrxvyFy2HKVJT6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Alp Akmaz](https://open.spotify.com/artist/3rUklV20Ft3YvJPETNw3aC) | [Reimagined\. Volume 2, Chapter 1](https://open.spotify.com/album/2jWp0xr6af3jFV9oOTteO7) | 7:18 | 2022-06-24 | 2022-08-26 |
+| [Drang](https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr) | [Elv](https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu) | 2:41 | 2023-02-10 |  |
 | [Dvergmál \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Dvergmál](https://open.spotify.com/album/3sEsQzwdu8GATbacKJfDBw) | 7:37 | 2021-12-10 | 2022-03-30 |
 | [elysian walk, pt\. 1](https://open.spotify.com/track/4pYywzuPcA7LGWgwlmQxEt) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [elysian walk, pt\. 1](https://open.spotify.com/album/1t5c7NlyAlbIEaXioH7LSd) | 1:54 | 2022-01-28 | 2022-03-31 |
 | [Empty City](https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Empty City](https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh) | 3:16 | 2021-12-10 |  |

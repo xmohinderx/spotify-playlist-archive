@@ -3532,10 +3532,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 110668,
       "name": "down the street",
       "url": "https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ"
+    },
+    {
+      "album": {
+        "name": "down the street",
+        "url": "https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo"
+      },
+      "artists": [
+        {
+          "name": "keseki",
+          "url": "https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110668,
+      "name": "down the street",
+      "url": "https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu"
     },
     {
       "album": {

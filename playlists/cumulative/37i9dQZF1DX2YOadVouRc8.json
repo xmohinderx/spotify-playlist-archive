@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 181395,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
@@ -2562,6 +2562,24 @@
       "duration_ms": 168000,
       "name": "What To Expect When Expecting",
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
+    },
+    {
+      "album": {
+        "name": "Wicked City",
+        "url": "https://open.spotify.com/album/1GtCYGqIbMDBMA6Q5xB5aI"
+      },
+      "artists": [
+        {
+          "name": "Swizay",
+          "url": "https://open.spotify.com/artist/09r28l9wuFV346fMTLTnJA"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Wicked City",
+      "url": "https://open.spotify.com/track/7m3ENcp0gz3FXZ6eVApM5f"
     },
     {
       "album": {

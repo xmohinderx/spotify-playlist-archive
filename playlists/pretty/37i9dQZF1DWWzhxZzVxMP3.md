@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,025 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,032 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 36 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 |
 | 37 | [Stand by Me](https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Stand by Me](https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE) | 3:06 |
 | 38 | [I Want You Back](https://open.spotify.com/track/4onk2EGodOKcwchRjA7ka4) | [Trio Musical](https://open.spotify.com/artist/0Nu4JXTv2Rhp7PT6Qt3oUy) | [I Want You Back](https://open.spotify.com/album/0P8ljqJM9BtPPPSfNlDGIp) | 3:17 |
-| 39 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 |
+| 39 | [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 |
 | 40 | [Viva La Vida \- Bossa Version](https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV) | [Vintage Café \- Lounge & Jazz Blends \(Special Selection\), Pt\. 9](https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ) | 4:09 |
 | 41 | [For Once In My Life](https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [For Once In My Life](https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t) | 3:25 |
 | 42 | [Ain't No Mountain High Enough](https://open.spotify.com/track/63FXIXULZiV2y8bMm0iDie) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Ain't No Mountain High Enough](https://open.spotify.com/album/2Z8t4UNYuRhbkMlHGPFJlE) | 3:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 102 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 |
 | 103 | [The Hardest Part](https://open.spotify.com/track/7rUOWbFE4GJ4od2W7at9uC) | [Paulina Rodriguez](https://open.spotify.com/artist/365WhazRqqOCcrIMEcBtpn) | [The Hardest Part](https://open.spotify.com/album/1dM2zZhgkmRgKbWPpTjqQ2) | 4:20 |
 
-Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMGMwYTZmZGU3MWY3YzZkYzAxNDdlMGU4MDUxYWZhYTJm`
+Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMDRiOWEwODYzMDNlOTliM2Q5MWY0ZGU4NDhiNDYzOGNk`

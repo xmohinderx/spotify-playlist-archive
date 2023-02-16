@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 182857,
       "name": "Ch\u01a1i",
       "url": "https://open.spotify.com/track/4x21TQ5qMPbyHLktv5daN5"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 143684,
       "name": "ch\u1ea1y tr\u1ed1n",
       "url": "https://open.spotify.com/track/0ytT0BAsapL17sylQKwCUN"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 258824,
       "name": "Con Nh\u00e0 Gia Gi\u00e1o",
       "url": "https://open.spotify.com/track/5P6alxp1qF3z5kcARWbriK"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 312991,
       "name": "C\u1ed1 Nh\u00e2n",
       "url": "https://open.spotify.com/track/4czN3k1ZYn3l43QyBw4Xpk"
@@ -6790,8 +6790,8 @@
       },
       "artists": [
         {
-          "name": "VCC Toska",
-          "url": "https://open.spotify.com/artist/7cBqTYdmPd0uqxCbq6bQMP"
+          "name": "Toska",
+          "url": "https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H"
         },
         {
           "name": "Benly",
@@ -7537,6 +7537,24 @@
     },
     {
       "album": {
+        "name": "Minh \u01a0i",
+        "url": "https://open.spotify.com/album/7JKE4zqTkmLWN1ZIlg7vBL"
+      },
+      "artists": [
+        {
+          "name": "\u0110o\u00e0n Th\u00fay Trang",
+          "url": "https://open.spotify.com/artist/6a2HlEBitf6DvSbGaRyyPU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221371,
+      "name": "Minh \u01a0i",
+      "url": "https://open.spotify.com/track/6R3gOMb088UC7MyNuEDPQp"
+    },
+    {
+      "album": {
         "name": "MISSING YOU",
         "url": "https://open.spotify.com/album/2kbQoFdim1FkDLtPOxUU1T"
       },
@@ -7722,6 +7740,24 @@
       "duration_ms": 219012,
       "name": "Mu\u1ed1n Th\u1ea5y Em C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/7sU7HDtvnCuEttngXf6rUR"
+    },
+    {
+      "album": {
+        "name": "My G(irl)",
+        "url": "https://open.spotify.com/album/1bifyxuMnvs2OOC2HxnCdG"
+      },
+      "artists": [
+        {
+          "name": "Koo",
+          "url": "https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140273,
+      "name": "My G(irl)",
+      "url": "https://open.spotify.com/track/128Jc2dLKszbRDUmLMWEgU"
     },
     {
       "album": {
@@ -8620,7 +8656,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 158117,
       "name": "Ng\u00e3 Ng\u01b0\u1eddi Ra Sau",
       "url": "https://open.spotify.com/track/4aZvbVKoj7ykuKaftyDEbQ"
@@ -9302,7 +9338,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 171350,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/2lvWcwIYU9An39Z0xlta2n"
@@ -11076,6 +11112,24 @@
       "duration_ms": 217338,
       "name": "Si\u00eau Ph\u1ea9m T\u00ecnh Ew",
       "url": "https://open.spotify.com/track/2MitxDAD3HuCXMcrhLQAFc"
+    },
+    {
+      "album": {
+        "name": "skin to skin",
+        "url": "https://open.spotify.com/album/1MY9NMt07f3stNlQACFqXE"
+      },
+      "artists": [
+        {
+          "name": "oumii",
+          "url": "https://open.spotify.com/artist/4aLB1EFHFcklrpOCShLbEH"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "skin to skin",
+      "url": "https://open.spotify.com/track/4fNpMQNBiSlWG4jxRw8bmV"
     },
     {
       "album": {
@@ -13465,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "V\u00ec Sao Em \u0110i",
+        "url": "https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx"
+      },
+      "artists": [
+        {
+          "name": "Clow",
+          "url": "https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "V\u00ec Sao Em \u0110i",
+      "url": "https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz"
+    },
+    {
+      "album": {
         "name": "V\u00ec Ta Gi\u1ed1ng Nhau",
         "url": "https://open.spotify.com/album/1DCEycd7x9YwMpVUN5wEbp"
       },
@@ -15348,6 +15420,28 @@
       "duration_ms": 225428,
       "name": "\u0110\u1eebng Scam Tim Em",
       "url": "https://open.spotify.com/track/1Bv1QfH1UnvjkAitOKBL1l"
+    },
+    {
+      "album": {
+        "name": "\u1ea4m \u00cam",
+        "url": "https://open.spotify.com/album/4TCIX5c9H4Z2k2ElFOVTFO"
+      },
+      "artists": [
+        {
+          "name": "Lahi",
+          "url": "https://open.spotify.com/artist/1uENTg8Fy1U7lEsQWcjIFF"
+        },
+        {
+          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "\u1ea4m \u00cam",
+      "url": "https://open.spotify.com/track/07V898tEbqF67AMb5Nn9h8"
     },
     {
       "album": {

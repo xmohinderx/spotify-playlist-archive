@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-220 songs - 12 hr 16 min
+221 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 | 2023-01-13 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2021-12-09 | 2023-02-10 |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-11-30 |  |
-| [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 | 2021-12-09 |  |
+| [I Like Me Better](https://open.spotify.com/track/17mx0XPDMnurdequx8FIcD) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/0DWrEuT5bHqsSlcQG65KDW) | 3:28 | 2023-02-10 |  |
+| [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 | 2021-12-09 | 2023-02-16 |
 | [I Love The Way You Love Me](https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Love The Way You Love Me](https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS) | 3:23 | 2021-12-09 |  |
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/0f35eUPMubTqn7ao5YObmv) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [I Wanna Dance With Somebody](https://open.spotify.com/album/7qXXGkcCJGema1HlxDACL5) | 4:20 | 2021-12-09 | 2022-12-01 |
 | [I Want It That Way](https://open.spotify.com/track/6ifRkrDOVOl894U1YuuTfM) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa), [Francis Greg](https://open.spotify.com/artist/3M4HosBeaD82iQkv8HVnzB) | [I Want It That Way](https://open.spotify.com/album/51WvNWrY4yu9Ek3RGBZHiy) | 3:11 | 2021-12-09 | 2022-07-02 |

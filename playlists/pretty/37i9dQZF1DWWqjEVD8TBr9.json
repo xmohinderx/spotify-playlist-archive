@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. THE SOUND is here!",
-  "num_followers": 921771,
+  "num_followers": 922395,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzMTYwMCwwMDAwMDAwMDNmNTA1OWIxY2RiNzI5YmE1YjQxNTNmZmZiNTA2MjY5",
+  "snapshot_id": "MTY3NjQyNzgzOSwwMDAwMDAwMDJhYjA5MGNmZmEyZjk2MjM2MDE3MGY4ZWU1ODdlYzBj",
   "tracks": [
+    {
+      "added_at": "2023-02-15 02:23:58",
+      "album": {
+        "name": "There",
+        "url": "https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "There",
+      "url": "https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6"
+    },
     {
       "added_at": "2023-01-27 15:00:00",
       "album": {

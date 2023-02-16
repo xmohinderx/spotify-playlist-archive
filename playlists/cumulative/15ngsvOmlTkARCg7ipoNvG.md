@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-869 songs - 20 hr 16 min
+874 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,9 @@
 | [Before Time](https://open.spotify.com/track/085E86Pi1pqIFsJX9ZtiB2) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:36 | 2022-01-12 |  |
 | [Before You](https://open.spotify.com/track/2rrlqbftCvgDjXk5viCUZC) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Silent Moments](https://open.spotify.com/album/7ElTb4v89gDTEgMyANjw0s) | 1:01 | 2022-05-09 |  |
 | [Beginning](https://open.spotify.com/track/57r2sm1717nN2koq2mC44I) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Beginning](https://open.spotify.com/album/4FmPgnNlGdB9gAFMLgDBP4) | 1:13 | 2022-01-12 |  |
+| [Being Loved](https://open.spotify.com/track/2s2UuIL05WLZdBLbe2BKdi) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Being Loved](https://open.spotify.com/album/4507D29Yx3r5817zoLthc6) | 1:01 | 2023-02-15 |  |
 | [Being Loved \- Ambient Version](https://open.spotify.com/track/2lmVSlD6NI7gwgGCQu8Mws) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Duality](https://open.spotify.com/album/3NjhbD47cLVJGiiTC9s8NA) | 1:01 | 2023-02-14 |  |
+| [Being Loved \- Cello Version](https://open.spotify.com/track/3K0idY2zZTsQAVF1rGaPkA) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Being Loved \(Cello Version\)](https://open.spotify.com/album/4N7sbpkZiK5bIi5Zg2MEfd) | 1:01 | 2023-02-15 |  |
 | [Being Peace](https://open.spotify.com/track/7CTG6F6EKzW3mgfBYREfja) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:23 | 2022-01-15 |  |
 | [Being Peaceful](https://open.spotify.com/track/5J8tIeHGR1qwOwy37webzw) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:12 | 2022-01-12 |  |
 | [Being Still](https://open.spotify.com/track/5mHvPCbqcIfhGcEcmr2maO) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Drift](https://open.spotify.com/album/7rqa0u1lTDoT45FPqTYVfd) | 1:04 | 2022-01-12 |  |
@@ -365,6 +367,7 @@
 | [Goodnight My Dear](https://open.spotify.com/track/5aX3bLFHhfINcAGHkIFdmf) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 0:55 | 2022-10-26 |  |
 | [Grace](https://open.spotify.com/track/6bo5pPlUvW9L2oRZGnFhD7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Cello Dreams](https://open.spotify.com/album/3HDyEyTIt0YuxfXZWMzbuH) | 1:21 | 2022-01-12 |  |
 | [Grace And Love](https://open.spotify.com/track/73vlR62kP2Fj8ZaFfoikNZ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Grace And Love](https://open.spotify.com/album/0RthfvS77mL4IQRyRxJ6J7) | 1:02 | 2022-07-13 |  |
+| [Grace Now](https://open.spotify.com/track/0EvvjtwefEWdch4tN8LCmR) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Grace Now](https://open.spotify.com/album/7GE2Fj80k4mdagGOlD4465) | 1:01 | 2023-02-15 |  |
 | [Graceful Lift](https://open.spotify.com/track/3gsxlodexjDM8vvT89msbS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [Gratitude Revisited](https://open.spotify.com/track/0vhjlzfshrkzl2syNfI82q) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Gratitude Revisited](https://open.spotify.com/album/4i52gyfZVQACdpatjoXgaL) | 2:40 | 2022-01-12 |  |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 |  |
@@ -651,6 +654,7 @@
 | [Seeing Beauty](https://open.spotify.com/track/0U4Qp4ulyxwg2dBntO2TtA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:16 | 2022-01-12 |  |
 | [Seeking The Horizon](https://open.spotify.com/track/0qa0TY4jVYKimB2562Fdus) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [September Shadows](https://open.spotify.com/track/6Dsk3lg7nuNpxf22d3oqFE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
+| [Serenity In Spring](https://open.spotify.com/track/0a00KnbzsE9kGcgzvmtRsP) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Serenity In Spring](https://open.spotify.com/album/3RZMHBvNL4Fdbb42zVhEi6) | 1:00 | 2023-02-15 |  |
 | [Shades of Green](https://open.spotify.com/track/4z8h6wl6iqsl5DKAsoXLvi) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Shades of Green](https://open.spotify.com/album/2lzzWO1Irwdg7cVJ960K67) | 1:28 | 2022-01-12 |  |
 | [Shadow Of A Prelude](https://open.spotify.com/track/6uKTMlgx7VitPYEV1sfEKO) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Shadow Of A Prelude](https://open.spotify.com/album/6Xt6rAOTu8xywlSHzUM7YB) | 2:17 | 2022-01-12 |  |
 | [Shadow Of The Moon](https://open.spotify.com/track/0vClqM4REaVsZFprqt4HfV) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Present](https://open.spotify.com/album/7iNVMa6OBF7uixhm3CCb20) | 1:05 | 2022-01-12 |  |
@@ -836,6 +840,7 @@
 | [Waves Of Gold](https://open.spotify.com/track/2saK5TceF2YZWiEHYzqmRw) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Early Mornings](https://open.spotify.com/album/1HYflHtQ61PAPerbuzdC5u) | 1:01 | 2022-03-25 |  |
 | [Waves Of Love](https://open.spotify.com/track/6tQDiUFkNcnR8uZqQGcMQG) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Waves Of Love](https://open.spotify.com/album/7LCAzp5ZTXeNsbBxKek5aD) | 1:02 | 2022-06-22 |  |
 | [Way Up](https://open.spotify.com/track/0XSqfqtVZtvQrRCpjPVE0e) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:16 | 2022-01-12 |  |
+| [We Are In A Dream](https://open.spotify.com/track/0w1OaqWHg7XhjYIp8ZBCss) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [We Are In A Dream](https://open.spotify.com/album/1oeFHA8y6NnY3MY6lE2c4S) | 1:01 | 2023-02-15 |  |
 | [We Are In A Dream \- Ambient Piano Version](https://open.spotify.com/track/7eUKqvWylubmhHtF89qx0v) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Duality](https://open.spotify.com/album/3NjhbD47cLVJGiiTC9s8NA) | 1:01 | 2023-02-14 |  |
 | [We Give You But Your Own](https://open.spotify.com/track/40uU32ZWmJC7AO0MhQ2u0H) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [We Give You But Your Own](https://open.spotify.com/album/2BcWELcVmLvXRexS1v8srJ) | 1:03 | 2022-08-25 |  |
 | [We Were Together Again](https://open.spotify.com/track/7KobzitPOZayWRn4HxL5NH) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:04 | 2022-02-03 |  |

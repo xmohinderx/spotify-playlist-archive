@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,297 songs - 2 day 1 hr 31 min
+1,298 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [Friends of mine](https://open.spotify.com/track/3pt408IktssM4MIE42YuwE) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [Friends of mine](https://open.spotify.com/album/6FePJChRT44IrSWcwYKPXn) | 1:57 | 2023-01-06 |  |
 | [Frog\-School Beat](https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Frog\-School Beat](https://open.spotify.com/album/6mun3bQHHwNajiuse9fcqi) | 1:57 | 2023-01-06 |  |
 | [Frontal Lowb](https://open.spotify.com/track/0Jk9oGAWM9hh9CU8YBtAr7) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [Frontal Lowb](https://open.spotify.com/album/2f5GnE9LdGgvKhAPTE6bxC) | 2:01 | 2022-04-15 | 2022-09-02 |
-| [Frozen Lake](https://open.spotify.com/track/0XNljnXDVqbp2H22H2sJmX) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers Vol\. 7](https://open.spotify.com/album/22JIJVzzJpXo1cI917Ymh4) | 2:28 | 2022-12-16 |  |
+| [Frozen Lake](https://open.spotify.com/track/0XNljnXDVqbp2H22H2sJmX) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers Vol\. 7](https://open.spotify.com/album/22JIJVzzJpXo1cI917Ymh4) | 2:28 | 2022-12-16 | 2023-02-16 |
+| [Frozen Lake](https://open.spotify.com/track/6EO6ElRq0FZo8x6QAoMr2I) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers, Vol\. 7](https://open.spotify.com/album/2IBaDCogQmvw5B8cVQqbIt) | 2:28 | 2023-02-13 |  |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Fruitee](https://open.spotify.com/track/4cZvUiWkcNEfNgp7bzSzWt) | [Baggers and Losers](https://open.spotify.com/artist/12mqRds6vUdR57FvXbxdzR) | [Strawberry Milk](https://open.spotify.com/album/4XKzb0B67gDo3qqMwYM8eK) | 2:46 | 2022-04-15 | 2022-09-02 |
 | [Fudge](https://open.spotify.com/track/5GmSjNEypkbo1NCsculloA) | [StopLock](https://open.spotify.com/artist/1gkcZxjftNAWnTbfbmnUqQ) | [Fudge](https://open.spotify.com/album/5cRYDjSTpYmsVv4wezkkEH) | 2:09 | 2022-04-15 | 2022-05-13 |

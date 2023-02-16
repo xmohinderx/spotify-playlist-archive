@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,434 songs - 4 day 3 hr 5 min
+1,435 songs - 4 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [As If It Was You \- Beach House Mix](https://open.spotify.com/track/2h6pldBTUGLH1JxYCZhYzM) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [As If It Was You](https://open.spotify.com/album/6n705GWuhf7HIhzw2nTa1J) | 5:14 | 2020-03-16 | 2022-04-20 |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2020-05-18 | 2020-07-03 |
 | [Ascend](https://open.spotify.com/track/3hjQojGfx3VRcNQ6TbxyUU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Ascend](https://open.spotify.com/album/2JmffBnfePm3uUMx3zdTBQ) | 4:41 | 2022-05-20 | 2022-07-29 |
-| [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 | 2021-01-30 |  |
+| [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 | 2021-01-30 | 2023-02-16 |
 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 | 2020-05-18 | 2020-08-20 |
 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 | 2020-02-29\* | 2020-03-16 |
 | [Attila](https://open.spotify.com/track/2i2luf6v6y7J0jI3UPltIt) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/1qINrjw5JR8Y2cV6yxd9na) | 2:27 | 2020-05-19 | 2021-01-11 |
@@ -242,6 +242,7 @@
 | [Cold Water](https://open.spotify.com/track/5WbejQkb2CwNcpbWZY8aKI) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [LYDY MAY](https://open.spotify.com/artist/03IjJnPnw3H3iUfqiXQaqb) | [Cold Water](https://open.spotify.com/album/4W10erQ3B32A3pxMGor9QV) | 3:40 | 2021-07-24 | 2021-08-14 |
 | [Cold Water \- Lost Frequencies Remix](https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Cold Water \(Remixes\)](https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL) | 3:56 | 2020-05-18 | 2020-07-03 |
 | [Collide](https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [10 Years From Now / Collide](https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5) | 4:35 | 2022-01-21 | 2022-08-03 |
+| [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon) | 7:15 | 2023-02-10 |  |
 | [Colors \(When I Think Of You\) feat\. Emree Franklin](https://open.spotify.com/track/1HD1FVlD2TPaMLX76c0aMP) | [Curt Reynolds](https://open.spotify.com/artist/51PSlMHvG1HCInKyLVHMu1) | [Colors \(When I Think Of You\) feat\. Emree Franklin](https://open.spotify.com/album/5rymfMvY6U7UhEMCWQHIlC) | 4:16 | 2020-05-18 | 2021-01-11 |
 | [Colour](https://open.spotify.com/track/4jqYXH8BDZlCkM4CN8hH5q) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Colour](https://open.spotify.com/album/6z8WhxG1JnXfAWmCoVIKBA) | 4:57 | 2021-02-26 | 2022-03-05 |
 | [Come Alive](https://open.spotify.com/track/6SUr1F8tdHWV0T2BCX9Sri) | [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Come Alive](https://open.spotify.com/album/6bybZaHBc6hWnkMj71FS7h) | 4:12 | 2020-03-20 | 2020-10-12 |

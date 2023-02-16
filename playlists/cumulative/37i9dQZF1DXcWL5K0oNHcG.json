@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Patricia Essong Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 271168,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6dRRu4kyEQVxY6w7HLGV8u"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 271666,
       "name": "Blue Lightning",
       "url": "https://open.spotify.com/track/71rybNkIbKvyfz9fgGSyPg"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 197404,
       "name": "Bow\u2019s Wallet",
       "url": "https://open.spotify.com/track/1Sh7myERP5ngnBX9oGt0do"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 302040,
       "name": "Cptn Future",
       "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 169270,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/1aWrScpsBG9sDOnHIxK5N0"
@@ -5826,7 +5826,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 175555,
       "name": "Floating",
       "url": "https://open.spotify.com/track/5CLjIOgohzqm1YOiAu6xki"
@@ -6384,7 +6384,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 488060,
       "name": "Gesalul",
       "url": "https://open.spotify.com/track/5aTfJelKb9oabJgzWgg6s3"
@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 240453,
       "name": "Jam Suspect",
       "url": "https://open.spotify.com/track/6zGxIWsmJTsiJvAOY1HdEA"
@@ -8482,6 +8482,24 @@
       "duration_ms": 304618,
       "name": "Just Listen",
       "url": "https://open.spotify.com/track/4ktnqilivGQYpgmBsp35nW"
+    },
+    {
+      "album": {
+        "name": "Just You",
+        "url": "https://open.spotify.com/album/0af0WpHxQOxFav3yIMXgup"
+      },
+      "artists": [
+        {
+          "name": "Joey Calveiro",
+          "url": "https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205258,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/2a2OWZrX6TkfXAyVlnMqhd"
     },
     {
       "album": {
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 194760,
       "name": "Les fils du temps",
       "url": "https://open.spotify.com/track/775zPmETTsRPfKBGDY5Lbp"
@@ -9506,7 +9524,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 159818,
       "name": "Lifeblood",
       "url": "https://open.spotify.com/track/4N10Mkkw1uK4jqaoUc8CLV"
@@ -9758,6 +9776,24 @@
       "duration_ms": 214082,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5eURCw3agJ2ebxrt6v1aG5"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/5mn5gegEdAPEAXJE1v8e5v"
+      },
+      "artists": [
+        {
+          "name": "WAAN",
+          "url": "https://open.spotify.com/artist/3hxi0YkcDld95ngOX4YIye"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339906,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3ZEDt1u84XttGSvJJL5xDF"
     },
     {
       "album": {
@@ -10551,6 +10587,36 @@
     },
     {
       "album": {
+        "name": "Solastalgie",
+        "url": "https://open.spotify.com/album/05qpPuWtT9kmfQNPTRXpOn"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Dupras",
+          "url": "https://open.spotify.com/artist/42ExhAk6PzEynTPoOjSeKF"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Dupuis-Cloutier",
+          "url": "https://open.spotify.com/artist/6qIxlR4csklGEX5vezYOdl"
+        },
+        {
+          "name": "Guillaume Saint-Laurent",
+          "url": "https://open.spotify.com/artist/1M4LSWW9d8gcfmIIHQBLNn"
+        },
+        {
+          "name": "Solastalgie",
+          "url": "https://open.spotify.com/artist/5n1sDxWDA4LPrVvqt1aXcU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "Mille rayons",
+      "url": "https://open.spotify.com/track/37lNN62nywRL60HLwgYv5R"
+    },
+    {
+      "album": {
         "name": "Milonga",
         "url": "https://open.spotify.com/album/6V8I6zzAfmNG8iIe3HAM1Y"
       },
@@ -11309,6 +11375,24 @@
     },
     {
       "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/2xpTUNYT85xrY0m9N93jqh"
+      },
+      "artists": [
+        {
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283240,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/12q1vwqPxjj6g8Zh03p26v"
+    },
+    {
+      "album": {
         "name": "Never Blue",
         "url": "https://open.spotify.com/album/3aFJtt9tUMJ8isXOuGiVvh"
       },
@@ -11408,7 +11492,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 230297,
       "name": "Nilgiri Hills",
       "url": "https://open.spotify.com/track/3Xe0PSuaI5ewHGyTHZrDcB"
@@ -11896,7 +11980,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 184824,
       "name": "Ode to Zawi (Dedicated to Joe Zawinul)",
       "url": "https://open.spotify.com/track/1ozKTUdhxmqhRqRF0UU5oP"
@@ -12772,7 +12856,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 188773,
       "name": "Polacos",
       "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
@@ -13170,7 +13254,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 277456,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/3ATj6GeWdiui1CE9uYwxOt"
@@ -13670,6 +13754,36 @@
       "duration_ms": 366750,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/303aCNMR2UCsQYBZ0b526Z"
+    },
+    {
+      "album": {
+        "name": "Road To Munnar",
+        "url": "https://open.spotify.com/album/27jgzbtpmzRJzq4UKUsoYM"
+      },
+      "artists": [
+        {
+          "name": "Nick Walters",
+          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        },
+        {
+          "name": "Kieran McLeod",
+          "url": "https://open.spotify.com/artist/30dSFG09pELnfhud4uHx1g"
+        },
+        {
+          "name": "Tim Carnegie",
+          "url": "https://open.spotify.com/artist/0jlcXvFOFXm7BLD5KkIvwi"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393201,
+      "name": "Road To Munnar",
+      "url": "https://open.spotify.com/track/3WzxL1PCXcryDjrmMuiYDm"
     },
     {
       "album": {
@@ -14442,7 +14556,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 132864,
       "name": "Sinopsis",
       "url": "https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7"
@@ -15824,7 +15938,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 283333,
       "name": "Sweety - Retake",
       "url": "https://open.spotify.com/track/52mth0jGVZaWoIQVHuYLXY"
@@ -16198,6 +16312,24 @@
       "duration_ms": 158924,
       "name": "That Oooh Yeah",
       "url": "https://open.spotify.com/track/48U4ZPyWBtz5OJYlqPHjcm"
+    },
+    {
+      "album": {
+        "name": "The Austin Scene",
+        "url": "https://open.spotify.com/album/3mteGkNZeBXFHp40g1L7e2"
+      },
+      "artists": [
+        {
+          "name": "Zac Colwell",
+          "url": "https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283707,
+      "name": "The Austin Scene",
+      "url": "https://open.spotify.com/track/4LZFTzSJe5NeyJ7uXEKk6c"
     },
     {
       "album": {
@@ -16855,6 +16987,24 @@
     },
     {
       "album": {
+        "name": "The Visit",
+        "url": "https://open.spotify.com/album/5EfGZAs0iyqYLlnGMhNqoY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Meron",
+          "url": "https://open.spotify.com/artist/76s4ROiz2P8oHaRsTDnrgr"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209727,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/3dTQEq2p8fBCJWwoSpnoNe"
+    },
+    {
+      "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/67VOzNbufhWGWxTVz8M282"
       },
@@ -17244,6 +17394,24 @@
       "duration_ms": 185727,
       "name": "This Time, This Sight",
       "url": "https://open.spotify.com/track/7448dbB9uFgtWjQmtgEdZk"
+    },
+    {
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/2N6V586tK0ELISVD387MHt"
+      },
+      "artists": [
+        {
+          "name": "Revulva",
+          "url": "https://open.spotify.com/artist/478agCaHgiqDySnHUBzqGS"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291175,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/7DxNrUAcEP22ECwJLG6ksy"
     },
     {
       "album": {
@@ -17674,7 +17842,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 260853,
       "name": "Twijfelaar",
       "url": "https://open.spotify.com/track/78dQ132DG6maVGuyJgGRbZ"
@@ -17838,7 +18006,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 135087,
       "name": "Uma Piada Engra\u00e7ada",
       "url": "https://open.spotify.com/track/0ofixWdoe5o6i6rpBP5C1q"
@@ -18156,7 +18324,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 286786,
       "name": "Venom",
       "url": "https://open.spotify.com/track/6JDMDQwTkNdHpct41V0V7T"
@@ -18352,7 +18520,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 217666,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/6MKIQGQ1PJSg202mTZdfc4"
@@ -18660,6 +18828,24 @@
       "duration_ms": 357556,
       "name": "Wetland",
       "url": "https://open.spotify.com/track/4JBp0XbFoizsaxUx7T3ytQ"
+    },
+    {
+      "album": {
+        "name": "Wetland",
+        "url": "https://open.spotify.com/album/05NU7IBAXsXGVaz9iQtFLu"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336418,
+      "name": "Wetland",
+      "url": "https://open.spotify.com/track/744iQbjuC6PPJCuFGR7VQK"
     },
     {
       "album": {
@@ -19460,7 +19646,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 457562,
       "name": "Zwarte Sneeuw - 52\u00b028'30.4\"N 4\u00b034'30.4\"E",
       "url": "https://open.spotify.com/track/1cOkcDd3l1VluiYqQMslyf"

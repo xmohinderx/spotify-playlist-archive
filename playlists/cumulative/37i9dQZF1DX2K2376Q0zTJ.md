@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  玉名ラーメン
 
-697 songs - 1 day 17 hr 35 min
+698 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Forked Tongue](https://open.spotify.com/track/4b6oDBE7YGDLQWJGyVxeO4) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 5:14 | 2022-05-31 | 2022-07-06 |
 | [Formula X](https://open.spotify.com/track/0r99ktDvymD0tb6oUFyvac) | [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Between Isekai and Slice of Life \~異世界と日常の間に\~](https://open.spotify.com/album/4gzxCLUSK6zyNNOeu8pJlm) | 2:47 | 2022-01-04 | 2022-12-07 |
 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 | 2022-09-06 | 2022-10-05 |
-| [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2023-02-01 |  |
+| [friday](https://open.spotify.com/track/0kIwLXLFVA2UT8Q6OrqICw) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 2:49 | 2023-02-14 |  |
+| [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2023-02-01 | 2023-02-16 |
 | [FRIEND](https://open.spotify.com/track/4OsmrkuVLJe8ze6FJJxxzX) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [FRIEND](https://open.spotify.com/album/5GQWA5bQcJAVSJf27W0wL4) | 3:11 | 2022-08-02 | 2022-09-07 |
 | [FUJIN CLUB](https://open.spotify.com/track/28TMBk7DLURw6jZylCBJ4y) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [FUJIN CLUB](https://open.spotify.com/album/4DYf6F9iDvunBGGnNZAVy2) | 4:38 | 2022-07-05 | 2022-08-03 |
 | [FUJIN CLUB](https://open.spotify.com/track/2WbjvytatcTymtMFxwnCPY) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [FUJIN CLUB](https://open.spotify.com/album/7GiX9C8jmcHkGgSnVAhcp3) | 4:38 | 2022-07-05 | 2022-07-29 |

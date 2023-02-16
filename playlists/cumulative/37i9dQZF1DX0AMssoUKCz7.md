@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-575 songs - 1 day 5 hr 41 min
+576 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Find My Way](https://open.spotify.com/track/71aQJIzGtxrrT1lhdteajB) | [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Find My Way](https://open.spotify.com/album/1nRoSho3tyBexVrFHcquS2) | 3:06 | 2022-01-14 |  |
 | [Find Our Way](https://open.spotify.com/track/1nWQ9xv5yvn2CiCEfuPbzX) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Find Our Way](https://open.spotify.com/album/48WoD7oNRCs9nkkIGHd0pq) | 3:04 | 2022-04-15 |  |
 | [Fire Away](https://open.spotify.com/track/0VXqcz7c0rRnshrCUzhjTS) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Fire Away](https://open.spotify.com/album/1k5GnV0hK3SeDunyy7BlCJ) | 2:45 | 2022-01-14 |  |
-| [Fire in the Sky](https://open.spotify.com/track/1nhiOU8j8dxJrHpCmrgIej) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Clay Pirinha](https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu) | [Fire in the Sky](https://open.spotify.com/album/5hbQ4y8WTSJgEalXACpR59) | 2:56 | 2023-02-10 |  |
+| [Fire in the Sky](https://open.spotify.com/track/1nhiOU8j8dxJrHpCmrgIej) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Clay Pirinha](https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu) | [Fire in the Sky](https://open.spotify.com/album/5hbQ4y8WTSJgEalXACpR59) | 2:56 | 2023-02-10 | 2023-02-16 |
 | [Fireproof \- Embody Remix](https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Fireproof \(Embody Remix\)](https://open.spotify.com/album/1zXqUomsQOpXwrfqIts29c) | 3:04 | 2022-01-14 | 2022-10-02 |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2022-04-01 | 2022-04-16 |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2022-02-18 | 2022-04-11 |
@@ -265,6 +265,7 @@
 | [Journey \- Radio Mix](https://open.spotify.com/track/66MrwENuBlVccH7t848vjD) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Emma Carn](https://open.spotify.com/artist/25UzUBawTt2efMKKYNE4Qy) | [Journey](https://open.spotify.com/album/00UHyngepmD0QYZ0rK3anF) | 3:56 | 2022-01-14 | 2022-04-28 |
 | [Jubel](https://open.spotify.com/track/1sQ6MIoJOmqBhwomBBLE9g) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Remixes\)](https://open.spotify.com/album/18ecyDssonw23eqZ690WUM) | 4:43 | 2022-01-14 | 2022-04-21 |
 | [Jubel \- Nora En Pure Remix](https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Remixes\)](https://open.spotify.com/album/18ecyDssonw23eqZ690WUM) | 6:18 | 2022-01-14 | 2022-05-07 |
+| [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 | 2023-02-10 |  |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |

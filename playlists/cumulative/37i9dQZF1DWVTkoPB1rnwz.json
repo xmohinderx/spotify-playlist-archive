@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 105500,
       "name": "2013",
       "url": "https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 179223,
       "name": "a kind of promise",
       "url": "https://open.spotify.com/track/63VTCOXJjahFIM4HZWugUI"
@@ -414,6 +414,24 @@
       "duration_ms": 223810,
       "name": "Arboretum",
       "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
+    },
+    {
+      "album": {
+        "name": "The Fridge",
+        "url": "https://open.spotify.com/album/2p5QMmabdBughqus8HKrTa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Pollie",
+          "url": "https://open.spotify.com/artist/5cZo7U5yKYEWzcaR8ZKhNw"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211850,
+      "name": "Arugula",
+      "url": "https://open.spotify.com/track/4Lj5cpFVJHOhg63hAmVb2c"
     },
     {
       "album": {
@@ -3459,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "album": {
         "name": "Physics Project",
         "url": "https://open.spotify.com/album/5y4Bxkhyk9pLI7fTrL16JG"
       },
@@ -4586,7 +4622,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 183999,
       "name": "The Apiary",
       "url": "https://open.spotify.com/track/1ksUGKzkQfB9FDGfIJPqTG"
@@ -4676,7 +4712,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 178371,
       "name": "The Space Within Me",
       "url": "https://open.spotify.com/track/5zOEew2ZPxhodfqZJXEx6Z"

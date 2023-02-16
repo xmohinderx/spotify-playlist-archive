@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 441290,
       "name": "f/5.6",
       "url": "https://open.spotify.com/track/79i0JetBid9SrJj00Y3bMd"
@@ -6831,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "album": {
         "name": "Water Groove",
         "url": "https://open.spotify.com/album/51MjbUe2V3PvGKHWD3WIYH"
       },
@@ -7638,7 +7656,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 256040,
       "name": "Silencio y Amancer",
       "url": "https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe"

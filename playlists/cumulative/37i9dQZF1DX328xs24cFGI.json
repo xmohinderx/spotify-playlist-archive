@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Pink Hair",
+        "url": "https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177357,
+      "name": "Pink Hair",
+      "url": "https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/3l0I652FzA22LXxzm8cUmg"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 177357,
       "name": "\u30d4\u30f3\u30af\u306e\u9aea",
       "url": "https://open.spotify.com/track/56V7casJFyKngwOksqwWD0"

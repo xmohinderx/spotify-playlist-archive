@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,028 songs - 2 day 7 hr 33 min
+1,029 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Bernabeu](https://open.spotify.com/track/3ArObZEc96p2cY89LUccAG) | [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT), [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [LEON](https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY) | [Bernabeu](https://open.spotify.com/album/0lbGpjo0ycJJ9GcYyzNBdX) | 2:55 | 2021-10-16 | 2022-04-23 |
 | [Bes La Chez](https://open.spotify.com/track/57AUVrr5VvbhzKsaoRMRN1) | [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Bes La Chez](https://open.spotify.com/album/22MiWn4EVDIAtlhM3ZT4my) | 2:48 | 2021-10-17 | 2021-12-14 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-15 |
-| [Beverly Hills](https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:08 | 2022-05-28 |  |
+| [Beverly Hills](https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:08 | 2022-05-28 | 2023-02-16 |
 | [Beverly Hills](https://open.spotify.com/track/6tNIE06ZzfYLQWCvmLjUWn) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/44iA4FJRI1Od6gmgc2ZJfS) | 3:08 | 2022-05-16 | 2022-05-31 |
 | [BIBELO](https://open.spotify.com/track/1i1rxhc6aNa3Sw99uxMwb4) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [BIBELO](https://open.spotify.com/album/79qL2AjywjI6TJt8FJdyaC) | 2:56 | 2022-12-24 | 2022-12-29 |
 | [Big Moves \(Vol\. 2\)](https://open.spotify.com/track/5DyRClMHuEr0nf3YXv9nRs) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Big Moves \(Vol\. 2\)](https://open.spotify.com/album/5ZCXG3UTuDFfg1TKsQnIM9) | 2:56 | 2021-10-22 | 2021-10-31 |
@@ -690,6 +690,7 @@
 | [OPLO](https://open.spotify.com/track/4yKBuyaSXW5opFSq6gYebF) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [Bad Boy \(Summer Hits\)](https://open.spotify.com/album/21rySo430y5dVWknVK0JAB) | 3:08 | 2022-05-28 | 2022-07-03 |
 | [Otltk](https://open.spotify.com/track/0D2FpHNSClFboWwTqRPCRf) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 2:40 | 2021-06-20 | 2021-06-27 |
 | [Otra Vez](https://open.spotify.com/track/2W2OZnr12WkZynqUgv2eNw) | [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR) | [Gango](https://open.spotify.com/album/7Gbpb5cU5ursdUvTNHkV8k) | 2:13 | 2021-04-11 | 2021-04-13 |
+| [Oulala](https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Oulala](https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU) | 2:49 | 2023-02-15 |  |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
 | [Out of Your Mind](https://open.spotify.com/track/1wRKwSa4fLSA0SHGqcfSL4) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [Out of Your Mind](https://open.spotify.com/album/1P08dG0PG5dGrPWccuL9cz) | 2:39 | 2022-04-22 | 2022-05-31 |
 | [Outro](https://open.spotify.com/track/4vAbdNssb6B6OK4rcnO3AD) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [DonBeatz](https://open.spotify.com/artist/17qlQfDPyFAHsWvqblqdFa) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 2:57 | 2021-03-27\* | 2021-03-27 |

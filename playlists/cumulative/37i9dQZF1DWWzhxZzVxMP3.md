@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-128 songs - 7 hr 40 min
+129 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 | 2022-03-10 |  |
 | [Oceano](https://open.spotify.com/track/2zzBga1tEiIYupAq4V6jiX) | [Bossa Club](https://open.spotify.com/artist/1EGRHnkedrxDC7ZiuD0tEL) | [Oceano](https://open.spotify.com/album/1WYobt8Mfj91NzjyoMNpTy) | 3:26 | 2022-03-10 |  |
 | [Over My Shoulder](https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi) | [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Soft Lounge Favorites](https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK) | 3:40 | 2022-08-02 |  |
-| [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-26 |  |
+| [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-26 | 2023-02-16 |
+| [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 | 2022-09-30 |  |
 | [Peaches](https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs) | 3:16 | 2022-03-10 | 2022-07-29 |
 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 | 2022-03-10 |  |
 | [Red Red Wine](https://open.spotify.com/track/0kiN9VSYCjUyvKoWA1eq8x) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Red Red Wine](https://open.spotify.com/album/1VHn2AQNKkpcdJVFW7CmeZ) | 4:00 | 2022-03-10 |  |

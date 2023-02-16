@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 638599,
+  "num_followers": 639036,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMGRmZGFiMmUyMDkyNzVhNTVhYTAzMDY5NWYzNmNlOWU5",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDIwNzY3ZTJkNTBhN2I4YmJiNjliNDU5YTQ5M2ZmYzVm",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+      },
+      "artists": [
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 165013,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Greatest Hits: From the Beginning",
+        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Greatest Hits: From the Beginning",
-        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
+        "name": "Vinyl",
+        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "William Michael Morgan",
+          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
         }
       ],
-      "duration_ms": 152640,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
+      "duration_ms": 201533,
+      "name": "I Met a Girl",
+      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 215333,
       "name": "From A Table Away",
       "url": "https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Vinyl",
-        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
-      },
-      "artists": [
-        {
-          "name": "William Michael Morgan",
-          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "I Met a Girl",
-      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
     },
     {
       "added_at": "2023-02-03 05:00:00",

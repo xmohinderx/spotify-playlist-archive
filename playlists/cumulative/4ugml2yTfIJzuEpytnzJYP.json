@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa"
+      },
+      "artists": [
+        {
+          "name": "Cartridge",
+          "url": "https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg"
+    },
+    {
+      "album": {
         "name": "Lessons",
         "url": "https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy"
       },

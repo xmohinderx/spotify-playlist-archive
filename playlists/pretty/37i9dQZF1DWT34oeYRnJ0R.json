@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Feid & DJ Premier",
-  "num_followers": 696007,
+  "num_followers": 696005,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ2NDE1OSwwMDAwMDAwMGU1MjE3N2IwNTMyMzNiOWRlYjU3YWM3ODExOWM5MzFj",
+  "snapshot_id": "MTY3NTQ2NDE1OSwwMDAwMDAwMDk5MWJiNWU1NmU2NDg1OGIxMDg5ZGIyNWVkYjVlYTkw",
   "tracks": [
     {
       "added_at": "2023-02-03 22:42:39",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Ojos Negros",
         "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
       },
@@ -603,46 +623,6 @@
       "duration_ms": 170831,
       "name": "RDMDA",
       "url": "https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "NOTEVI",
-        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "NOTEVI",
-      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -699,6 +679,26 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
+        "name": "NOTEVI",
+        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jimmix",
+          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "NOTEVI",
+      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Fresh Water",
         "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 182526,
       "name": "lyu2 (with marcos g)",
       "url": "https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 204827,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
-      },
-      "artists": [
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "DI LETRA",
         "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 156903,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1XlcDTgLG4B7IZU9UFmvRB"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1227,22 +1243,6 @@
       "duration_ms": 124842,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Nobody Like Me",
         "url": "https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
-        "name": "Til Death",
-        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 97391,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+      "duration_ms": 257233,
+      "name": "Jungla de locos",
+      "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1363,22 +1379,6 @@
       "duration_ms": 164093,
       "name": "12AM",
       "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 257233,
-      "name": "Jungla de locos",
-      "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
     },
     {
       "added_at": "2023-02-03 22:42:39",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2023-02-03 22:42:39",
       "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2023-02-03 22:42:39",
+      "album": {
         "name": "Cenizas",
         "url": "https://open.spotify.com/album/0blTDBEGqFOeEUOAy0G4kV"
       },
@@ -1467,22 +1487,6 @@
       "duration_ms": 209821,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj"
-    },
-    {
-      "added_at": "2023-02-03 22:42:39",
-      "album": {
-        "name": "esc\u00e1pate",
-        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 171477,
-      "name": "esc\u00e1pate",
-      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
     }
   ],
   "unique_name": "Vibras",

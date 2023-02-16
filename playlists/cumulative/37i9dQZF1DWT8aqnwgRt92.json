@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Hanabi",
+        "url": "https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9"
+      },
+      "artists": [
+        {
+          "name": "Kento Ito",
+          "url": "https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234474,
+      "name": "AMBER",
+      "url": "https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve"
+    },
+    {
+      "album": {
         "name": "\u83ef\u706f",
         "url": "https://open.spotify.com/album/3ru7HsERi4MJq4VfV8rVdv"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 234474,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/5M5MbNaEoXqBiRA0q1dSMk"
@@ -3158,10 +3176,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 210466,
       "name": "Maihime",
       "url": "https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc"
+    },
+    {
+      "album": {
+        "name": "Maihime",
+        "url": "https://open.spotify.com/album/6VZQnpPyngzoTH4H3f5LOO"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lily",
+          "url": "https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Maihime",
+      "url": "https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab"
     },
     {
       "album": {
@@ -4121,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Secret Base ~Kimi ga Kureta Mono~ - From CrosSing",
+        "url": "https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG"
+      },
+      "artists": [
+        {
+          "name": "Suzuko Mimori",
+          "url": "https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312106,
+      "name": "Secret Base ~Kimi ga Kureta Mono~ - From CrosSing",
+      "url": "https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss"
+    },
+    {
+      "album": {
         "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~ - from CrosSing",
         "url": "https://open.spotify.com/album/0do7Fq6G1u8xZvtQYwLU3U"
       },
@@ -4132,7 +4186,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 312106,
       "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~ - from CrosSing",
       "url": "https://open.spotify.com/track/7v0MgRpifpHrQXvR5vdJlX"

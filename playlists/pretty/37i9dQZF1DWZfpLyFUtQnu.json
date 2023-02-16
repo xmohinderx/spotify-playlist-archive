@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 43158,
+  "num_followers": 43236,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMGI2YzJjZjc0MTRiNDlhZjZmNDFiYzM0MjUwMzA5OTlh",
+  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDg1NjAwMjkxZTQxYTc5MDRjMGExYTg5ZWY5ZTU4NzQ0",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
         "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 137160,
       "name": "Mon amie la rose",
       "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Le tourbillon de la vie",
+      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "D'o\u00f9 venez-vous ?",
         "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
       },
@@ -763,22 +783,6 @@
       "duration_ms": 252533,
       "name": "So Far Away from L.A.",
       "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
-      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -803,22 +807,18 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Best Of & Variations",
-        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        },
-        {
-          "name": "Jeanne Moreau",
-          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Le tourbillon de la vie",
-      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
+      "duration_ms": 211613,
+      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
+      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -855,38 +855,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Jours Heureux",
-        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
-      },
-      "artists": [
-        {
-          "name": "Volo",
-          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "T'es Belle",
-      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Jamais Content",
         "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
       },
@@ -899,6 +867,22 @@
       "duration_ms": 211213,
       "name": "All\u00f4 maman bobo",
       "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
+      },
+      "artists": [
+        {
+          "name": "Volo",
+          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "T'es Belle",
+      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -963,6 +947,22 @@
       "duration_ms": 265226,
       "name": "Quand tu danses",
       "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "\u00c2me fifties",
-        "url": "https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Ici et l\u00e0",
-      "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "La nuit (Version acoustique)",
         "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231155,
       "name": "La nuit - Version acoustique",
       "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "\u00c2me fifties",
+        "url": "https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Ici et l\u00e0",
+      "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
     },
     {
       "added_at": "2022-12-06 14:58:14",

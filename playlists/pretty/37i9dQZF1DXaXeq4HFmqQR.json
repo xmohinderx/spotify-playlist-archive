@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Loyaltty y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 11259,
+  "num_followers": 11312,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDQ3N2Q2ODVkOWRjYWEyMWUyNDhhNjg0Y2E2OWE3YjFk",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGU0NzYzYjBkMDBhNjUxNjM5ZTY2YzViOGVjMjRkODMw",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Nunca Fue",
-        "url": "https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG"
-      },
-      "artists": [
-        {
-          "name": "Una T\u00edpica Francisca",
-          "url": "https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG"
-        },
-        {
-          "name": "La Peluquera",
-          "url": "https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr"
-        }
-      ],
-      "duration_ms": 282271,
-      "name": "Nunca Fue",
-      "url": "https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Visera Yankee",
         "url": "https://open.spotify.com/album/1KF8txH6U6j7YRjmRFhsUI"
       },
@@ -475,6 +455,26 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
+        "name": "Nunca Fue",
+        "url": "https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG"
+      },
+      "artists": [
+        {
+          "name": "Una T\u00edpica Francisca",
+          "url": "https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG"
+        },
+        {
+          "name": "La Peluquera",
+          "url": "https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr"
+        }
+      ],
+      "duration_ms": 282271,
+      "name": "Nunca Fue",
+      "url": "https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 173158,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 172857,
-      "name": "Histeria",
-      "url": "https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -547,6 +531,42 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "Histeria",
+      "url": "https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "GATA PISTOLA",
+        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 126283,
+      "name": "To' Caro",
+      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -607,26 +627,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "GATA PISTOLA",
-        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 126283,
-      "name": "To' Caro",
-      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "1000",
         "url": "https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6"
       },
@@ -659,6 +659,54 @@
       "duration_ms": 169131,
       "name": "No s\u00e9",
       "url": "https://open.spotify.com/track/1cSBQQlx8r3aWJimguLnHc"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        }
+      ],
+      "duration_ms": 200425,
+      "name": "Ella Fuma",
+      "url": "https://open.spotify.com/track/4Q8woCjhHUoic8IrpIMKr9"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Luni Tun",
+        "url": "https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg"
+      },
+      "artists": [
+        {
+          "name": "Iktus",
+          "url": "https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW"
+        },
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        },
+        {
+          "name": "La Peluquera",
+          "url": "https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr"
+        }
+      ],
+      "duration_ms": 201237,
+      "name": "Luni Tun",
+      "url": "https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -707,50 +755,22 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Luni Tun",
-        "url": "https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg"
+        "name": "Nadie Sabe",
+        "url": "https://open.spotify.com/album/1hxkLA3bLg96weMY7b6hcL"
       },
       "artists": [
         {
-          "name": "Iktus",
-          "url": "https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW"
-        },
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+          "name": "Alina Venus",
+          "url": "https://open.spotify.com/artist/4JPXZR7CtiS8H5hFSb6SX5"
         },
         {
           "name": "La Peluquera",
           "url": "https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr"
         }
       ],
-      "duration_ms": 201237,
-      "name": "Luni Tun",
-      "url": "https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        }
-      ],
-      "duration_ms": 200425,
-      "name": "Ella Fuma",
-      "url": "https://open.spotify.com/track/4Q8woCjhHUoic8IrpIMKr9"
+      "duration_ms": 222431,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/56UG58x5poofkDTNhpA4y1"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Nadie Sabe",
-        "url": "https://open.spotify.com/album/1hxkLA3bLg96weMY7b6hcL"
-      },
-      "artists": [
-        {
-          "name": "Alina Venus",
-          "url": "https://open.spotify.com/artist/4JPXZR7CtiS8H5hFSb6SX5"
-        },
-        {
-          "name": "La Peluquera",
-          "url": "https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr"
-        }
-      ],
-      "duration_ms": 222431,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/56UG58x5poofkDTNhpA4y1"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "De peke\u00f1a",
         "url": "https://open.spotify.com/album/5BmoPzfI1oQGTxHlq5uyBa"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 160736,
       "name": "De peke\u00f1a",
       "url": "https://open.spotify.com/track/1pa3xJ7P0382stEkkmqf4U"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
-        "name": "Teteo",
-        "url": "https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6"
-      },
-      "artists": [
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        }
-      ],
-      "duration_ms": 151967,
-      "name": "Teteo",
-      "url": "https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -871,22 +855,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Tu Eres de Calle",
-        "url": "https://open.spotify.com/album/1VSdt3ZsXfmNZWMTfZpqsh"
-      },
-      "artists": [
-        {
-          "name": "Martina Chanell",
-          "url": "https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Tu Eres de Calle",
-      "url": "https://open.spotify.com/track/0Qx2wiW2Gef7HEiBZDGRBK"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Toy Boy",
         "url": "https://open.spotify.com/album/0vLVFANPru7CXVcuzI9nVi"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 209933,
       "name": "Toy Boy",
       "url": "https://open.spotify.com/track/5sjqlVM7tFuJBxQ2xg2GbH"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Teteo",
+        "url": "https://open.spotify.com/album/5qPpnqKrwB6OLBfu07uHj6"
+      },
+      "artists": [
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        }
+      ],
+      "duration_ms": 151967,
+      "name": "Teteo",
+      "url": "https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Tu Eres de Calle",
+        "url": "https://open.spotify.com/album/1VSdt3ZsXfmNZWMTfZpqsh"
+      },
+      "artists": [
+        {
+          "name": "Martina Chanell",
+          "url": "https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Tu Eres de Calle",
+      "url": "https://open.spotify.com/track/0Qx2wiW2Gef7HEiBZDGRBK"
     },
     {
       "added_at": "2023-02-01 03:00:00",

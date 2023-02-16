@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
+    },
+    {
+      "album": {
         "name": "Agaby",
         "url": "https://open.spotify.com/album/6tJgJlVAZD9fom15faEf1y"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 259500,
       "name": "Allah Shahid",
       "url": "https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 210428,
       "name": "Bil Alb",
       "url": "https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF"
@@ -568,6 +586,24 @@
       "duration_ms": 190581,
       "name": "El Hob Dayaani",
       "url": "https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2"
+    },
+    {
+      "album": {
+        "name": "Ela Allah",
+        "url": "https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244865,
+      "name": "Ela Allah",
+      "url": "https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ"
     },
     {
       "album": {
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 185840,
       "name": "Mesaykeb",
       "url": "https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK"
@@ -1733,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Sukar",
+        "url": "https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        },
+        {
+          "name": "Abdulaziz Louis",
+          "url": "https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189180,
+      "name": "Sukar",
+      "url": "https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD"
+    },
+    {
+      "album": {
         "name": "Tamer Hosny Haytna",
         "url": "https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v"
       },
@@ -1845,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u062d\u0628\u0643",
+        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226190,
+      "name": "Wenta Be3eed - From \"Bhabak\" Movie",
+      "url": "https://open.spotify.com/track/3mxLJoqjVyRSUnAqv6cG65"
+    },
+    {
+      "album": {
         "name": "Wenta Be3eed (From \"Bhabak\" Movie)",
         "url": "https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH"
       },
@@ -1856,7 +1932,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 226190,
       "name": "Wenta Be3eed - From \"Bhabak\" Movie",
       "url": "https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc"

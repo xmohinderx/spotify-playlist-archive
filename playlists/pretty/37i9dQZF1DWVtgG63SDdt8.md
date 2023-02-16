@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  J Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,564 likes - 98 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,680 likes - 98 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

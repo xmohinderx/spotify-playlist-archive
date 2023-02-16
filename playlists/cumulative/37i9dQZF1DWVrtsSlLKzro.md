@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-256 songs - 15 hr 28 min
+257 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Deep End](https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Deep End](https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF) | 3:28 | 2021-12-03 | 2022-09-20 |
 | [Devils](https://open.spotify.com/track/3jOyg77BUcPtbRtObyogTG) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Devils](https://open.spotify.com/album/32lQX81sQIEFC7Qslj46Va) | 2:38 | 2021-12-03 |  |
 | [Different Kind of Lonely](https://open.spotify.com/track/5vZvUPKnhEErJ5w4ThtR4i) | [Camp Kubrick](https://open.spotify.com/artist/3RCqYRekSt6ttwZdkFhmnk), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Different Kind of Lonely](https://open.spotify.com/album/3jwaqXzP9Te12IdrcmphEv) | 3:23 | 2022-12-17 |  |
-| [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-01-07 |  |
+| [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 | 2023-01-06 |  |
+| [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-01-07 | 2023-02-16 |
 | [Diving Out Of Love](https://open.spotify.com/track/6C6fuCnY3980ZJS8sSuJWd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Diving Out Of Love](https://open.spotify.com/album/3oVyoQ8dcJdy8yAhkfqZtE) | 4:07 | 2021-12-03 | 2022-02-12 |
 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 | 2021-12-03 | 2022-02-12 |
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 |  |

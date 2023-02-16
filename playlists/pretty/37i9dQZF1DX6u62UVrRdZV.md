@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,712 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,713 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 9 | [Rebel Hifi](https://open.spotify.com/track/2Gvqxi6K6A6gYliyc9kxsY) | [Lotek](https://open.spotify.com/artist/1Ne5E79pl0FLsaSX5nML1s), [Spikey Tee](https://open.spotify.com/artist/6a4hSUQZf8eszRQyOgbR75) | [Rebel Hifi \(Remixes\) \(feat\. Spikey Tee\)](https://open.spotify.com/album/2oNu83nbRXNrFg0j9h2g3j) | 3:01 |
 | 10 | [Black Rabbit \- Dub](https://open.spotify.com/track/4ps8OmIEuSBxkZzpmKaTxW) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Shniece McMenamin](https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E) | [Black Rabbit](https://open.spotify.com/album/1NFY55qk8QDEobcEVsY4AF) | 3:47 |
 | 11 | [Can't Be My Lover \(feat\. Buju Banton\) \- Curtis Lynch Remix](https://open.spotify.com/track/20jlpY83jcnJcyecYVory3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Curtis Lynch](https://open.spotify.com/artist/4z4rmxibNxHZj605twHyay) | [No Other Love / Can't Be My Lover \- Cool Breeze Mixes](https://open.spotify.com/album/4pvva5MVnN39KR6EAMhElK) | 3:52 |
-| 12 | [Good Enuff \- Cash Flow Dub](https://open.spotify.com/track/7aPko8WfIkpMMwVflASZT5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Lazers Never Die](https://open.spotify.com/album/3eGbUm5Wf64fzDATCAVNi4) | 2:51 |
+| 12 | [Good Enuff \- Cash Flow Dub](https://open.spotify.com/track/219czERofO0VNx1WIgsw3l) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Guns Don't Kill People...Lazers Do](https://open.spotify.com/album/6ZqhmrXfavffKqZiip0cGM) | 2:49 |
 | 13 | [Torn Apart \(feat\. RITA ORA\)](https://open.spotify.com/track/6Lxb7Czakx4SFsOaZa3qvE) | [Snoop Lion](https://open.spotify.com/artist/4RxUeUyMaEe2T5tvULq5j0), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Reincarnated \(Deluxe Version\)](https://open.spotify.com/album/5q4CMxHUBPn11UG6uYX26m) | 3:30 |
 | 14 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
 | 15 | [Bumpy Dub](https://open.spotify.com/track/131KcLSzomCoCPAKTQAGCI) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Daniel Boyle](https://open.spotify.com/artist/1xFOkcHacBBvt32D5jMUfQ) | [The Black Album](https://open.spotify.com/album/20qoMFB3XcP9vHI27EwWnn) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 49 | [Special Delivery](https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Special Delivery](https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq) | 1:42 |
 | 50 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/7L1zJMkc9Ho7Ox0uSFC9TL) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Whine Up \(feat\. Elephant Man\) \[English Version\]](https://open.spotify.com/album/0VFNKCeUyetANvSnS5KLQe) | 3:23 |
 
-Snapshot ID: `MTYwNTcwMTczNiwwMDAwMDAwMDhkMjVmYjhhZmRmYTAwYTI2NDE3MWQzMTFlZDQyZjA5`
+Snapshot ID: `MTYwNTcwMTczNiwwMDAwMDAwMDNhZjE3NTk3Y2U3NGQ1MGIyZmU2MTcwYjU1ZDgyYTRm`

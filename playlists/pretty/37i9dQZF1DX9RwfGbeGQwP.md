@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,757 likes - 518 songs - 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,997 likes - 518 songs - 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 89 | [Wrong Turn](https://open.spotify.com/track/78gnsPk8zQmrUiUu2Mp8Kf) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b) | [Wrong Turn](https://open.spotify.com/album/23TgVhteU8ps5VPXiER7Ti) | 1:22 |
 | 90 | [Good Morning](https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Good Morning](https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n) | 2:13 |
 | 91 | [folks on the hill](https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 7](https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S) | 1:27 |
-| 92 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 |
+| 92 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 |
 | 93 | [Reasons](https://open.spotify.com/track/6UUhPwauX4nAieYExAj9FH) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Reasons](https://open.spotify.com/album/3Eiu3BJ4na9P7qkYlqDvVE) | 2:15 |
 | 94 | [Tranquility](https://open.spotify.com/track/4GtyFt4DnSgRdn1gUasQIJ) | [Jooha.](https://open.spotify.com/artist/5IPuOAyV2XFgkaAKQZ2aIi) | [Tranquility](https://open.spotify.com/album/6rUhHhaJitTQiKPAh4fiUV) | 1:45 |
 | 95 | [Sea Port](https://open.spotify.com/track/2fGypWrNxRC5d4mfRj1dhO) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Sea Port](https://open.spotify.com/album/072aBLfZApsYTpsDpkx4ht) | 2:12 |
@@ -226,7 +226,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 216 | [Given Moment](https://open.spotify.com/track/6hpOK6d4UWB7aOQcUEQ6Jv) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Given Moment](https://open.spotify.com/album/1faduVStlrl15AtFIGEkiR) | 2:29 |
 | 217 | [No Wonder](https://open.spotify.com/track/2C94rpZSU8ea13n6j7EBSd) | [remember property](https://open.spotify.com/artist/25E5zGd4262arDCKSv3S1f) | [No Wonder](https://open.spotify.com/album/2lmRLKTDX9SZvvFbTkP0du) | 2:17 |
 | 218 | [When The Clock Strikes Midnight](https://open.spotify.com/track/20IlfWaLERVt1mBTK1Vav6) | [Thomas Tempest](https://open.spotify.com/artist/4zpQwRAlCIdPEA6DYiPxQ4) | [When The Clock Strikes Midnight](https://open.spotify.com/album/5NEawZ5DctjPONqDiymRWK) | 2:28 |
-| 219 | [magic carpet](https://open.spotify.com/track/1wSm4s2eBFNVA53PEcmaZj) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/7pRhs0ly7WIBNNOWPXCMlp) | 2:36 |
+| 219 | [magic carpet](https://open.spotify.com/track/5GCddGbEwEqFF9zHwnj1ib) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/3EZavwo1gshsgEem0R0NVf) | 2:36 |
 | 220 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 |
 | 221 | [Things I Should Have Said \- Emmavie Remix Instrumental](https://open.spotify.com/track/0VcpC5axCOrxCC9pmlEPGs) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Things I Should Have Said \(Emmavie Remix\)](https://open.spotify.com/album/6CZ0DpfxuIewEssPbF45LS) | 4:10 |
 | 222 | [Miss You](https://open.spotify.com/track/6WERtu6VY7lGjaOQC0QPuK) | [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Miss You](https://open.spotify.com/album/559NLRKUBmF7ciusQ5m9HD) | 1:49 |
@@ -527,4 +527,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 517 | [Misch](https://open.spotify.com/track/4Q0z85lZpHXGIcx4rdXK4J) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Lincoln Pork](https://open.spotify.com/album/0dsmqlqZ177ZmwlGFML5YY) | 3:17 |
 | 518 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 
-Snapshot ID: `MTY3NjMwOTU5MSwwMDAwMDAwMDUyYTJmMTdhNTYxMjU5ZThlMGJiMDY2NWVhMmQ1MjQ1`
+Snapshot ID: `MTY3NjMwOTU5MSwwMDAwMDAwMDY3Mzk1NTRmOTAwNDczMmRlZjRkMDc2ZjQ0ZmQ0NjIw`

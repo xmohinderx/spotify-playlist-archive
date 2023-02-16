@@ -1,13 +1,77 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Sion",
-  "num_followers": 177249,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: noelle",
+  "num_followers": 177373,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NDU5NywwMDAwMDAwMGZjYjZkZGRhNGM2NjcyMmQwMWJhZGRlODFjM2U0NjJi",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGUyYzU0NGI4NjhlOTdmNzQzODZlMTEzMzVjMTdjMzVm",
   "tracks": [
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/3SRUBIc8AS3JX5tE8ePPvv"
+      },
+      "artists": [
+        {
+          "name": "noelle",
+          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
+        }
+      ],
+      "duration_ms": 163269,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/7Km5QlfgnM75S04D1YgQRE"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Holding You",
+        "url": "https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH"
+      },
+      "artists": [
+        {
+          "name": "David McCredie",
+          "url": "https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY"
+        }
+      ],
+      "duration_ms": 171604,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Greek Street",
+        "url": "https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 162834,
+      "name": "Greek Street",
+      "url": "https://open.spotify.com/track/3FOMG322NEExR04jEubVTW"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "RUDE",
+        "url": "https://open.spotify.com/album/05iSGiCNkYxLUThUK2C4Ob"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "RUDE",
+      "url": "https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV"
+    },
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
@@ -23,6 +87,38 @@
       "duration_ms": 181935,
       "name": "Flying Fish",
       "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/3tTuB92rRrY5ry32afRIjE"
+      },
+      "artists": [
+        {
+          "name": "Aimee Vant",
+          "url": "https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/6gXLalUbAoAFF3sOeiagnO"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "dumped",
+        "url": "https://open.spotify.com/album/1bcuBWVW48T7OdLpTqIVyg"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 165535,
+      "name": "dumped",
+      "url": "https://open.spotify.com/track/1GLTKz1d14nf3XlT2tLpVC"
     },
     {
       "added_at": "2023-02-08 05:00:00",
@@ -41,20 +137,20 @@
       "url": "https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn"
     },
     {
-      "added_at": "2023-02-08 05:00:00",
+      "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "FREYA",
-        "url": "https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T"
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/54H1ACeUVXCP6JGvjtoJCq"
       },
       "artists": [
         {
-          "name": "Maria Celin",
-          "url": "https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd"
+          "name": "Tia Tia",
+          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
         }
       ],
-      "duration_ms": 183280,
-      "name": "FREYA",
-      "url": "https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB"
+      "duration_ms": 126328,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/5DDefrqMcP44o6NKv5zKrq"
     },
     {
       "added_at": "2023-02-08 05:00:00",
@@ -73,20 +169,148 @@
       "url": "https://open.spotify.com/track/2ZtCpgZrWRZOZv9hpym5YU"
     },
     {
-      "added_at": "2023-02-08 05:00:00",
+      "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "people grow apart, people let me down",
-        "url": "https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0pOFywX4DhOOAJ2828tUpc"
       },
       "artists": [
         {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+          "name": "JERUB",
+          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
         }
       ],
-      "duration_ms": 189652,
-      "name": "people grow apart, people let me down",
-      "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
+      "duration_ms": 166685,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Replace You",
+        "url": "https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE"
+      },
+      "artists": [
+        {
+          "name": "Lynnea M",
+          "url": "https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm"
+        }
+      ],
+      "duration_ms": 200074,
+      "name": "Replace You",
+      "url": "https://open.spotify.com/track/4KtVL332elRhpZoctkarI3"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/5b1mEBCfxNDkTqhqmodPZn"
+      },
+      "artists": [
+        {
+          "name": "WYLDE",
+          "url": "https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/3j4Jb7vshXhRL5DIZnVB77"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "She Hates You",
+        "url": "https://open.spotify.com/album/7wY9T8z9YHlNRLWqG1OBzh"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "She Hates You",
+      "url": "https://open.spotify.com/track/7d42CcosMaW3jMLSi3leXw"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "FREYA",
+        "url": "https://open.spotify.com/album/2RCQJRLAfWiF9kMXplBB5T"
+      },
+      "artists": [
+        {
+          "name": "Maria Celin",
+          "url": "https://open.spotify.com/artist/5cNJTVpvfQKB5oJRtsWbsd"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "FREYA",
+      "url": "https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Pronoia",
+        "url": "https://open.spotify.com/album/7KKtm0PHgEFXZU3p0gXolC"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "Pronoia",
+      "url": "https://open.spotify.com/track/5d1gArgMK3Ml5shnqj9A8g"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Mr Perfect",
+        "url": "https://open.spotify.com/album/5JighKE97Gk5orYruf8NWJ"
+      },
+      "artists": [
+        {
+          "name": "ESSIRAY",
+          "url": "https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Mr Perfect",
+      "url": "https://open.spotify.com/track/5VFrucjpxXgnEbeAl8MMic"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO"
+      },
+      "artists": [
+        {
+          "name": "Kayla Rae",
+          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3VMvtZ7KtacNcSNVexaixG"
+      },
+      "artists": [
+        {
+          "name": "Alle The Dreamer",
+          "url": "https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B"
+        }
+      ],
+      "duration_ms": 168920,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4CS6cjP012KQix4lLt34UU"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -103,6 +327,90 @@
       "duration_ms": 271579,
       "name": "Liability",
       "url": "https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "i've got a crazy idea",
+        "url": "https://open.spotify.com/album/6xUQI83LRIORArNV3GXJ00"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "duration_ms": 186861,
+      "name": "i've got a crazy idea",
+      "url": "https://open.spotify.com/track/6lFNHNVCRrQxbkE4V3I6xh"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "ur a bitch",
+        "url": "https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "ur a bitch",
+      "url": "https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/4rKjhGkPwwlajmT61cMSgc"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "duration_ms": 221589,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/1uaB49Ix3l0HrNDeon3HCf"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Come and Go",
+        "url": "https://open.spotify.com/album/6CqcFtiApJGEc8KEZSC0TZ"
+      },
+      "artists": [
+        {
+          "name": "jomm",
+          "url": "https://open.spotify.com/artist/2izgD6xMmNboivbb1A6PHE"
+        },
+        {
+          "name": "readyaimfire27",
+          "url": "https://open.spotify.com/artist/2Y65mGq91IEC2tfXNotVQ2"
+        }
+      ],
+      "duration_ms": 203027,
+      "name": "Come and Go",
+      "url": "https://open.spotify.com/track/6IM6my88zQCsfcibBqKl2L"
+    },
+    {
+      "added_at": "2023-02-08 05:00:00",
+      "album": {
+        "name": "people grow apart, people let me down",
+        "url": "https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 189652,
+      "name": "people grow apart, people let me down",
+      "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
     },
     {
       "added_at": "2023-02-08 05:00:00",
@@ -135,22 +443,6 @@
       "duration_ms": 252439,
       "name": "Space",
       "url": "https://open.spotify.com/track/0gZhb7dvu3xMvPQyF2AUoc"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO"
-      },
-      "artists": [
-        {
-          "name": "Kayla Rae",
-          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl"
     },
     {
       "added_at": "2023-02-08 05:00:00",
@@ -217,22 +509,6 @@
       "url": "https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL"
     },
     {
-      "added_at": "2023-02-08 05:00:00",
-      "album": {
-        "name": "ur a bitch",
-        "url": "https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO"
-      },
-      "artists": [
-        {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "ur a bitch",
-      "url": "https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5"
-    },
-    {
       "added_at": "2023-01-25 14:26:21",
       "album": {
         "name": "Spinning",
@@ -279,22 +555,6 @@
       "duration_ms": 166707,
       "name": "Heatwave In December",
       "url": "https://open.spotify.com/track/46vLxn8chYCAQ0mykTTVqN"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Replace You",
-        "url": "https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE"
-      },
-      "artists": [
-        {
-          "name": "Lynnea M",
-          "url": "https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm"
-        }
-      ],
-      "duration_ms": 200074,
-      "name": "Replace You",
-      "url": "https://open.spotify.com/track/4KtVL332elRhpZoctkarI3"
     },
     {
       "added_at": "2023-02-08 05:00:00",
@@ -1119,22 +1379,6 @@
     {
       "added_at": "2023-01-18 15:33:05",
       "album": {
-        "name": "fifteen again (Bedroom Demo)",
-        "url": "https://open.spotify.com/album/0AyDKrMisJFtLAVHfXCynX"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 142043,
-      "name": "fifteen again - Bedroom Demo",
-      "url": "https://open.spotify.com/track/5yYs4OH2PETYFrJjLGuJMa"
-    },
-    {
-      "added_at": "2023-01-18 15:33:05",
-      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/3vXJjQ3Hf8EfimMpfKg47l"
       },
@@ -1183,22 +1427,6 @@
       "duration_ms": 145674,
       "name": "Cautiously Optimistic",
       "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Up There",
-        "url": "https://open.spotify.com/album/31O0DisUTnZXxlpHsUMu6k"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 139020,
-      "name": "Up There",
-      "url": "https://open.spotify.com/track/3vFpNA3UPpQAmFIFB9KlTd"
     },
     {
       "added_at": "2023-01-11 05:00:00",
@@ -1363,38 +1591,6 @@
     {
       "added_at": "2023-01-11 05:00:00",
       "album": {
-        "name": "burnout",
-        "url": "https://open.spotify.com/album/57QfhvVKxwovNLULRopS73"
-      },
-      "artists": [
-        {
-          "name": "WYLDE",
-          "url": "https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep"
-        }
-      ],
-      "duration_ms": 153157,
-      "name": "burnout",
-      "url": "https://open.spotify.com/track/69s1Zz4nO5DFtedWC9uMFI"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Candy Heart",
-        "url": "https://open.spotify.com/album/0gcTmRPbVqjSZn8dyWtnrT"
-      },
-      "artists": [
-        {
-          "name": "The 4411",
-          "url": "https://open.spotify.com/artist/7ihRkM2a3CvPVKDkE1ZRnx"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Candy Heart",
-      "url": "https://open.spotify.com/track/13Mh3B2c2FxEiNjkKhxDcB"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
         "name": "mental picture",
         "url": "https://open.spotify.com/album/2tnYiTU3g5a7tzumn0iGtB"
       },
@@ -1411,22 +1607,6 @@
     {
       "added_at": "2023-01-11 05:00:00",
       "album": {
-        "name": "Sorry?",
-        "url": "https://open.spotify.com/album/1Nxkgmf6OJimRlpeVdMz03"
-      },
-      "artists": [
-        {
-          "name": "Hila",
-          "url": "https://open.spotify.com/artist/5108Veq1Ds8wvXbOvm37k0"
-        }
-      ],
-      "duration_ms": 222701,
-      "name": "Sorry?",
-      "url": "https://open.spotify.com/track/3TVHf2iC4sIdhYT6dTNPv7"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
         "name": "love u in the morning",
         "url": "https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ"
       },
@@ -1439,22 +1619,6 @@
       "duration_ms": 164848,
       "name": "love u in the morning",
       "url": "https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "weightless",
-        "url": "https://open.spotify.com/album/1boOKlvXmsU3UvDihE0kHJ"
-      },
-      "artists": [
-        {
-          "name": "Grand Lotus",
-          "url": "https://open.spotify.com/artist/7nrUFVNdRlkAFes9oJaKHb"
-        }
-      ],
-      "duration_ms": 224567,
-      "name": "weightless",
-      "url": "https://open.spotify.com/track/7xxj8W8TfJHhlfVqcA47cc"
     }
   ],
   "unique_name": "Fresh Finds Pop",

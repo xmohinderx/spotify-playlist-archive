@@ -1810,10 +1810,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 82968,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/0Xi9PFaPBwuYsvDfxsqtHO"
+    },
+    {
+      "album": {
+        "name": "Songs to Help Us Grow",
+        "url": "https://open.spotify.com/album/6JSpITNyolbJT78dHSZotS"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82968,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/5goHB66d3gZBoC8L762CZ0"
     },
     {
       "album": {

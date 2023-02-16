@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: a flood of circle
 
-480 songs - 1 day 7 hr 41 min
+482 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 | 2022-11-22 | 2023-01-11 |
 | [New Days](https://open.spotify.com/track/116vXvAIrrEepdpQNnnZwY) | [HEESEY](https://open.spotify.com/artist/2EoPlhCi2hnokI5Rq4LKgr) | [33](https://open.spotify.com/album/056cAMXloiXsGdJ0vTuVIh) | 2:11 | 2022-05-12 | 2022-05-16 |
 | [New Era](https://open.spotify.com/track/17licy4SPRL8Nnsp4cxQzQ) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [New Era](https://open.spotify.com/album/6gcNprfD6yEPhsQbOzBgEt) | 4:00 | 2022-05-12 | 2022-06-16 |
-| [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 |  |
+| [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 | 2023-02-14 |  |
+| [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 | 2023-02-16 |
 | [Nihil Pip Viper](https://open.spotify.com/track/5qko3Om0sSANw6k1pe97GT) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Nihil Pip Viper](https://open.spotify.com/album/0ksgy0hgDdzlVey9LueA5v) | 4:03 | 2022-05-10 | 2022-07-24 |
 | [No more ステートメント](https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [No more ステートメント](https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD) | 2:57 | 2022-06-02 | 2022-06-05 |
 | [Nowhere](https://open.spotify.com/track/3dqh1uFzMF44p7yjSkxXIm) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3MZXw1nHoIRIyWK0H091xa) | 4:31 | 2022-05-10 | 2022-07-25 |
@@ -438,7 +439,8 @@
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2022-05-10 | 2022-10-29 |
 | [最愛の生業](https://open.spotify.com/track/3xlbszPcHsXytFjtRSealV) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [歌者 \-utamono\-](https://open.spotify.com/album/5vZMvqi85kt7qJApwc4saD) | 4:19 | 2022-05-24 | 2022-07-23 |
 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-10 | 2022-07-29 |
-| [月夜の道を俺が行く](https://open.spotify.com/track/7CzvL2K8cT0Assin7SNXIK) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [月夜の道を俺が行く](https://open.spotify.com/album/23mo1RCmn9x6MuNSNibnxR) | 3:17 | 2023-02-07 |  |
+| [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 | 2023-02-14 |  |
+| [月夜の道を俺が行く](https://open.spotify.com/track/7CzvL2K8cT0Assin7SNXIK) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [月夜の道を俺が行く](https://open.spotify.com/album/23mo1RCmn9x6MuNSNibnxR) | 3:17 | 2023-02-07 | 2023-02-16 |
 | [朝焼け](https://open.spotify.com/track/0zWMYryiunqAzp8VyfwaUe) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [朝焼け](https://open.spotify.com/album/7zfZ3p822fHKy43zCNqnaP) | 4:15 | 2022-05-17 | 2022-06-11 |
 | [東京に雨が降っている](https://open.spotify.com/track/76ea36A908cqljwII0DJc2) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [ENTERTAINMENT!](https://open.spotify.com/album/4gSTAHiTJ88bQs08VFXBET) | 3:06 | 2022-05-17 | 2022-05-25 |
 | [枯渇](https://open.spotify.com/track/3EDQuv4IC9HtIw95JliHYt) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [枯渇](https://open.spotify.com/album/0qysz8Q6IjEsKfj9u1iMKd) | 4:05 | 2022-05-12 | 2022-06-07 |

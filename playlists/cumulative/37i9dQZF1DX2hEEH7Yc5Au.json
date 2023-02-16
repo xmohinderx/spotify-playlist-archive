@@ -1070,24 +1070,6 @@
     {
       "album": {
         "name": "Naked Truth\u8d64\u88f8\u771f\u76f8",
-        "url": "https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW"
-      },
-      "artists": [
-        {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
-        }
-      ],
-      "date_added": "2022-05-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256752,
-      "name": "\u4e0d\u5982\u5148\u6176\u795d\u80fd\u5728\u4e00\u8d77",
-      "url": "https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO"
-    },
-    {
-      "album": {
-        "name": "Naked Truth\u8d64\u88f8\u771f\u76f8",
         "url": "https://open.spotify.com/album/2w55rliJQZMon4U8CmEtl9"
       },
       "artists": [
@@ -1102,6 +1084,28 @@
       "duration_ms": 256752,
       "name": "\u4e0d\u5982\u5148\u6176\u795d\u80fd\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/5lM4pbfKjzzRXrx1VltaKD"
+    },
+    {
+      "album": {
+        "name": "Naked Truth\u8d64\u88f8\u771f\u76f8",
+        "url": "https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        },
+        {
+          "name": "\u9673\u5049",
+          "url": "https://open.spotify.com/artist/7lgqd1jIK0bvRdycSqeRe2"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256752,
+      "name": "\u4e0d\u5982\u5148\u6176\u795d\u80fd\u5728\u4e00\u8d77",
+      "url": "https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO"
     },
     {
       "album": {

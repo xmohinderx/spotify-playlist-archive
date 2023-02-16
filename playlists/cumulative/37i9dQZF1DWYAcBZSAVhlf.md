@@ -4,7 +4,7 @@
 
 > The best feel\-good songs of the 1980s.
 
-191 songs - 12 hr 46 min
+192 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Night Long \(All Night\)](https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 6:22 | 2021-04-29 | 2022-07-29 |
 | [All Night Long \(All Night\)](https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:23 | 2022-05-11 | 2022-11-25 |
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2021-04-29 | 2022-07-29 |
+| [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2023-01-03 |  |
 | [Any Dream Will Do](https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4), ["Joseph And The Amazing Technicolor Dreamcoat" 1991 London Cast](https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4) | [Joseph And The Amazing Technicolor Dreamcoat](https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx) | 3:54 | 2021-10-05 | 2022-07-29 |
 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 | 2022-05-11 |  |
 | [Axel F \- From "Beverly Hills Cop"](https://open.spotify.com/track/2MXo0rStHudN4KrgJqz6bC) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [True Disco \(3 CD Set\)](https://open.spotify.com/album/4KpgD16YgavSq0RQYiADD5) | 3:01 | 2021-04-29 | 2022-04-21 |
@@ -126,7 +127,7 @@
 | [Our House](https://open.spotify.com/track/3rOD3MfHaXawznE0vrjM5B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [A Guided Tour Of Madness](https://open.spotify.com/album/0GWyRaEoYgcJ2sFBMgmrpm) | 3:23 | 2021-04-29 | 2022-07-29 |
 | [Perfect](https://open.spotify.com/track/29KiGwvYBw6JGQWrAlLhGg) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/62mLQgDQRUFS65hQZcsKhs) | 3:36 | 2021-04-29 | 2022-07-29 |
 | [Pump Up The Volume \(7"\)](https://open.spotify.com/track/369JKykZZr1qzv9pg5zAhz) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 4:10 | 2021-04-29 | 2022-04-20 |
-| [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 | 2021-04-29 |  |
+| [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 | 2021-04-29 | 2023-02-16 |
 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/69U1Mlh2xMxx3SGOL1mSXQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 3:56 | 2021-04-29 | 2022-07-20 |
 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 | 2021-04-29 |  |
 | [Roll With It](https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Roll With It](https://open.spotify.com/album/6EGZHq3euiuESgxmzhIfSN) | 5:20 | 2021-04-29 | 2022-11-13 |

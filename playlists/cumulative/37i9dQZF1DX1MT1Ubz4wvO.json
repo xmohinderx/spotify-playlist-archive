@@ -9325,6 +9325,24 @@
     },
     {
       "album": {
+        "name": "El Laberinto de la Suciedad",
+        "url": "https://open.spotify.com/album/1HPPmX8AjjQ8ytv8rTF8BK"
+      },
+      "artists": [
+        {
+          "name": "La Miseria De Juan Acatlan",
+          "url": "https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154552,
+      "name": "Nieves de Enero",
+      "url": "https://open.spotify.com/track/2cMvvo3hBlDDUpj5YaGIle"
+    },
+    {
+      "album": {
         "name": "Velvet Station",
         "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
       },

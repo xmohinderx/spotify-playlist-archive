@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-302 songs - 19 hr 40 min
+303 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Jesus Is Alive](https://open.spotify.com/track/2yn5jZqkkHu7lQ7YE14N32) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Noel](https://open.spotify.com/album/0fOV4DUZwtScuGK8Y2AOm4) | 3:42 | 2021-12-11 | 2022-12-14 |
 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 | 2021-12-24 |  |
 | [Jesus, Joy Of The Highest Heaven \(A Children's Carol\)](https://open.spotify.com/track/4sJgZRCrlM54j4d0TOOGv6) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Joy: An Irish Christmas](https://open.spotify.com/album/58HAyMpuZMRA1FpmEG1VSO) | 3:27 | 2021-12-24 | 2022-07-29 |
-| [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-11 |  |
+| [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-11 | 2023-02-16 |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2021-12-24 | 2023-01-09 |
 | [Joy To Our World](https://open.spotify.com/track/5exp2kacCNgcNnPtbjwY1B) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:55 | 2021-12-24 |  |
 | [Joy To Our World](https://open.spotify.com/track/7lkjISjsGaFWaNtYRfyySU) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:55 | 2021-12-11 | 2022-10-22 |
@@ -174,6 +174,7 @@
 | [King of Heaven](https://open.spotify.com/track/72Dri0TJFiYnu2wdrtJj5Z) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [King of Heaven](https://open.spotify.com/album/2PPPXNMb5ZAqkoOrnX4ElK) | 5:13 | 2021-12-24 | 2022-07-29 |
 | [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2021-12-24 | 2022-07-25 |
 | [Last Christmas With You](https://open.spotify.com/track/4EIsjsmCaoEK0MNSjfTCBq) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Last Christmas With You](https://open.spotify.com/album/0PWwUOsXl9ahnZabFIXtjL) | 3:29 | 2021-12-24 | 2022-07-19 |
+| [Let Love Be The Gift](https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er) | [Trinity \(NL\)](https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx) | [Let Love Be The Gift](https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD) | 3:19 | 2022-12-11 |  |
 | [Let There Be Peace](https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 3:59 | 2021-12-11 |  |
 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 | 2021-12-24 | 2022-07-29 |
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 |  |

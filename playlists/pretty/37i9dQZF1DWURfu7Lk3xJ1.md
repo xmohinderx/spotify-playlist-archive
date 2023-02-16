@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,793 likes - 235 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,898 likes - 235 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 58 | [Hibernation](https://open.spotify.com/track/1NRckgkHUFQbhCfL5cDEIb) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa), [yuci](https://open.spotify.com/artist/1cy1yUgQmLN4ycPmd72w7G) | [Hibernation](https://open.spotify.com/album/5g62t14tjogUDm9CZ4i6Lf) | 2:22 |
 | 59 | [Nostalgia](https://open.spotify.com/track/03R7TPNChFDktLOnDfbB6P) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic) | [Nostalgia](https://open.spotify.com/album/2DLSlxFfpKf5RjjJPPbMxV) | 2:40 |
 | 60 | [Sketches](https://open.spotify.com/track/0zrA7mY6vysGHGJgjU156J) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Kioshi](https://open.spotify.com/artist/3x4WC9oAvyfIFf3bta4fzt), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Sketches](https://open.spotify.com/album/30DtQXsS1wHnspQpMXGdSi) | 2:29 |
-| 61 | [cosmic](https://open.spotify.com/track/5v6GGRV3xNSvSYNfTCzKmS) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6XcVXWPZhfY0QfNUuCQFxz) | 2:17 |
+| 61 | [DONT GO](https://open.spotify.com/track/5v6GGRV3xNSvSYNfTCzKmS) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [DONT GO](https://open.spotify.com/album/6XcVXWPZhfY0QfNUuCQFxz) | 2:06 |
 | 62 | [LOQ](https://open.spotify.com/track/7LekUd5YXvEQGl3fgaFZID) | [Cinemabum](https://open.spotify.com/artist/55q2Jq49hjetS8XiEZZ1Xg) | [LOQ](https://open.spotify.com/album/567jBgBT2qgSTXLQdZe1o0) | 2:03 |
 | 63 | [Come Down, for Now](https://open.spotify.com/track/07U50Pzu6ZmqXOCWgIXUIb) | [Angel's Pulse](https://open.spotify.com/artist/5wg3xOzYEtJriJs7OFp3Fb) | [Come Down, for Now](https://open.spotify.com/album/1hlxYWIwgjJg8Msq24UB95) | 2:46 |
 | 64 | [the day before yesterday](https://open.spotify.com/track/34sygkJSBdYrLfe8GWYDFm) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [the day before yesterday](https://open.spotify.com/album/1biIfLil6eY0B7qvo6hYUD) | 1:52 |

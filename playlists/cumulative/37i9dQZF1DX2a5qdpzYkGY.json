@@ -3595,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276902,
+      "name": "The Accident",
+      "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
+    },
+    {
+      "album": {
         "name": "The Accident",
         "url": "https://open.spotify.com/album/42msjp6Mvx8xMtBANlKuT9"
       },
@@ -4194,7 +4212,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 309717,
       "name": "\u00c1ss hinn hv\u00edti (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"

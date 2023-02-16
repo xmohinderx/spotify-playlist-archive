@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-564 songs - 2 day 1 hr 40 min
+565 songs - 2 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Costa Dorada](https://open.spotify.com/track/1cojINFsw23y8xxPIvNDLD) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Calypso Club](https://open.spotify.com/album/5b8shDjBcDUUptaDHX80u7) | 4:13 | 2021-10-20 | 2022-07-29 |
 | [Crescent](https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:51 | 2022-09-14 | 2022-12-02 |
 | [Cycles](https://open.spotify.com/track/6Z6hXlSOi0FLrCPgVpsrNV) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN) | 3:00 | 2021-10-20 | 2022-07-29 |
-| [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-20 | 2023-02-12 |
+| [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-20 |  |
 | [Cypher](https://open.spotify.com/track/7vgaDsZO7WOGWmHSZ2s1kg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Cypher](https://open.spotify.com/album/7bOmeP28bKeR9E9twCFTk7) | 7:43 | 2021-10-20 | 2022-04-21 |
 | [Das Unheimliche](https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Das Unheimliche](https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v) | 6:30 | 2021-10-20 |  |
 | [Dawn](https://open.spotify.com/track/3OLtGoMhlQNjEctWGN1yDb) | [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Dawn](https://open.spotify.com/album/5P0ozoGtmIfRWRPlsJyO26) | 4:45 | 2021-10-20 | 2023-02-13 |
@@ -180,7 +180,7 @@
 | [Eyes of the Moon](https://open.spotify.com/track/0Ro4fM38RLPZGfCfJDlQBg) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6GKLtsT1RISbpYgFnT998Y) | 5:13 | 2021-10-20 | 2022-07-26 |
 | [Eyes of the Moon](https://open.spotify.com/track/6nAimkCH16w8PFtFxD1tj8) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 5:13 | 2021-10-20 | 2023-02-07 |
 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 | 2021-10-20 | 2022-07-28 |
-| [f/5.6](https://open.spotify.com/track/79i0JetBid9SrJj00Y3bMd) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Apertura](https://open.spotify.com/album/3BsnA8jApxMB21LRSzAItR) | 7:21 | 2022-12-21 |  |
+| [f/5.6](https://open.spotify.com/track/79i0JetBid9SrJj00Y3bMd) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Apertura](https://open.spotify.com/album/3BsnA8jApxMB21LRSzAItR) | 7:21 | 2022-12-21 | 2023-02-16 |
 | [Fading In](https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6) | [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Fading In And Out](https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh) | 3:01 | 2022-03-11 |  |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 | 2021-11-12 |  |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-08-14 |
@@ -371,6 +371,7 @@
 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 | 2021-10-20 |  |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3) | 11:18 | 2021-10-20 |  |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2021-10-20 | 2023-02-02 |
+| [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 | 2023-02-15 |  |
 | [Pink Noise](https://open.spotify.com/track/3lroHSuomu8fkbk7raTLAk) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A) | [Water Groove](https://open.spotify.com/album/51MjbUe2V3PvGKHWD3WIYH) | 6:43 | 2021-10-20 | 2022-12-30 |
 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 | 2022-08-03 |  |
 | [Plants and oxygen](https://open.spotify.com/track/6AcOtr1Z2WrsJkkl2foYJ4) | [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Duet](https://open.spotify.com/album/7mu3BI8ZycltWICVDHtYO7) | 3:40 | 2022-04-09 |  |
@@ -415,7 +416,7 @@
 | [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 |  |
 | [Silence](https://open.spotify.com/track/1WWe3wNH9u2Z5Hg5GbEQ9A) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/1La939vqONBIqsOFnsUmOr) | 3:00 | 2021-10-20 | 2022-11-06 |
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
-| [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 |  |
+| [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 | 2023-02-16 |
 | [Silent Memories](https://open.spotify.com/track/3hzfIU0PEGUcUSHViCUybF) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Fall Of A Raindrop](https://open.spotify.com/album/3MO1X0bSHAOzy0FuzP44tm) | 4:11 | 2021-10-20 | 2022-04-21 |
 | [Silver Plane](https://open.spotify.com/track/2ffRK4ffNcvjH3GL0Ay1Io) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/44N6krf8Sg39WkGF4brhMG) | 3:15 | 2021-10-20 | 2022-07-29 |
 | [Silver Plane](https://open.spotify.com/track/6LDotez7zfYGnGFTGCncky) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/5nfMRvJRu7fhF9O83sRFdS) | 3:15 | 2021-10-20 | 2022-09-05 |

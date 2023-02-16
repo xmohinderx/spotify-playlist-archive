@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 艾薇 \(Ivy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,249 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 19 | [縮影 \(《台北女子圖鑑》戲劇片頭曲\)](https://open.spotify.com/track/3VC4J1pj4oILfBtfhNY0SC) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [縮影](https://open.spotify.com/album/2h23nUlnKGy9Rzv0It2Rpx) | 3:49 |
 | 20 | [漢堡包](https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [漢堡包](https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt) | 3:21 |
 | 21 | [你怎麼還不睡呢](https://open.spotify.com/track/68GpgfyQldsiWumkYY76Nz) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:17 |
-| 22 | [不如先慶祝能在一起](https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [Naked Truth赤裸真相](https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW) | 4:16 |
+| 22 | [不如先慶祝能在一起](https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH), [陳偉](https://open.spotify.com/artist/7lgqd1jIK0bvRdycSqeRe2) | [Naked Truth赤裸真相](https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW) | 4:16 |
 | 23 | [GO LUV URSELF](https://open.spotify.com/track/2cwkmIzA0Y3UGZPZlaBtrp) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [GO LUV URSELF](https://open.spotify.com/album/0nNI1lIuswhuC3rQQzPQ29) | 2:46 |
 | 24 | [剛好 \(《台北女子圖鑑》戲劇插曲\)](https://open.spotify.com/track/3ieXD6cGP25CKLPexbAic9) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [沒有人寫歌給你過吧](https://open.spotify.com/album/2KFILcMINkSVFZKkrw8Yfp) | 4:19 |
 | 25 | [宜自己](https://open.spotify.com/track/5SJFFZSx0BIuPpm3F2fZ0D) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:45 |

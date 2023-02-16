@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,929 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,949 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take Your Time](https://open.spotify.com/track/7AMbZs3gWTlx2azi5sFwow) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Dj Chabin présente : Fonky Funk planète](https://open.spotify.com/album/0DXei2VwBUwRf9T5jS17X2) | 7:45 |
+| 1 | [Take Your Time](https://open.spotify.com/track/3E3GNsyyc81SHubfiA2ndz) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Genre Funk](https://open.spotify.com/album/1AJ455jytvwXvvFh6O3zBC) | 7:45 |
 | 2 | [Santa Catarina](https://open.spotify.com/track/0Rk5Ma0d9pQac2elQWky1Z) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Vol\. 1](https://open.spotify.com/album/1Fjr1raP9BWbao2AagOokN) | 7:02 |
 | 3 | [The Blue \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5Jw0Pi74l6A2jNG7k9CfNC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:25 |
 | 4 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 50 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 51 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 
-Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMGMxMDk3NmY2YWRhMmIwMzg5ZDYzM2NkZjEwMzM5ZDJh`
+Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMGM4MWY2OTIyYTZhNDQ2NTNiMWYyMmZiMGIyODcxYTFi`

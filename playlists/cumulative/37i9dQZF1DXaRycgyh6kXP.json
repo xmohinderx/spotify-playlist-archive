@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 192300,
       "name": "Four Horsemen",
       "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
@@ -1532,6 +1532,24 @@
     {
       "album": {
         "name": "Rushing",
+        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "My Lights Kiss Your Thoughts Every Moment",
+      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
+    },
+    {
+      "album": {
+        "name": "Rushing",
         "url": "https://open.spotify.com/album/1Zrx1L1hkSG58ajwnHY3cs"
       },
       "artists": [
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 267250,
       "name": "Nobody New Around You",
       "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
@@ -1796,6 +1814,24 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "album": {
+        "name": "Transient Random-Noise Bursts With Announcements",
+        "url": "https://open.spotify.com/album/0XwFmkEzDFl5KrVG5z0lE6"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306133,
+      "name": "Pack Yr Romantic Mind",
+      "url": "https://open.spotify.com/track/4CxKeyGN8tyBf04mYx4GgC"
     },
     {
       "album": {

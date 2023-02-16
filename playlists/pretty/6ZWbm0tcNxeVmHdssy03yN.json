@@ -1,13 +1,29 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 34341,
+  "num_followers": 34343,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NTY5NSwyOWI1MWNjY2QzMTMwNWU2Y2FiZGM2MzFjZGI1NTQ5ZjE2MDBjYTlm",
+  "snapshot_id": "NTcyMCw3YWQzOWYwY2E0NTU5MDE1Mjk5YmJlM2RiZmJmYzJhZmRlZTdmNWVi",
   "tracks": [
+    {
+      "added_at": "2023-02-15 17:27:45",
+      "album": {
+        "name": "Love,",
+        "url": "https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 206419,
+      "name": "you showed me",
+      "url": "https://open.spotify.com/track/1LSnmhfnq4TlrdyGHfAcyC"
+    },
     {
       "added_at": "2023-02-10 05:41:01",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
     },
     {
+      "added_at": "2023-02-15 17:28:05",
+      "album": {
+        "name": "Little Bit More",
+        "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "Little Bit More",
+      "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
+    },
+    {
       "added_at": "2023-02-10 05:41:01",
       "album": {
         "name": "Perfectly Opposite",
@@ -71,6 +103,22 @@
       "duration_ms": 343720,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/5rGjisXC7UNnCbaCq4QybK"
+    },
+    {
+      "added_at": "2023-02-15 17:27:29",
+      "album": {
+        "name": "Fresh Home Freestyle",
+        "url": "https://open.spotify.com/album/7xiQ8qt6BqKTc7plTvzg65"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fresh Home Freestyle",
+      "url": "https://open.spotify.com/track/2NRPd0PRNNLLrhY63cZ7DO"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -159,6 +207,22 @@
       "duration_ms": 157365,
       "name": "best man",
       "url": "https://open.spotify.com/track/3oQtm1NxKg74WWAKeQzlCz"
+    },
+    {
+      "added_at": "2023-02-15 17:27:29",
+      "album": {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 261849,
+      "name": "D>E>A>T>H>M>E>T>A>L",
+      "url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -295,6 +359,42 @@
       "duration_ms": 159119,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/0JXHO4wgfodS3W226cKmbw"
+    },
+    {
+      "added_at": "2023-02-15 17:27:45",
+      "album": {
+        "name": "Love,",
+        "url": "https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/1N4lCL7LgfqfxdeoEPwFf4"
+    },
+    {
+      "added_at": "2023-02-15 17:27:45",
+      "album": {
+        "name": "Love,",
+        "url": "https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Louyah",
+          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "you 2",
+      "url": "https://open.spotify.com/track/3rROvaLSHpYdHsNNAtoEOI"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -583,38 +683,6 @@
     {
       "added_at": "2023-02-10 05:41:01",
       "album": {
-        "name": "Atlas (H\u00e9m\u00e9ra)",
-        "url": "https://open.spotify.com/album/1RvFwyLknnrubJEnnDjint"
-      },
-      "artists": [
-        {
-          "name": "Ash\u00e9o",
-          "url": "https://open.spotify.com/artist/5jvx3xT9YR3YkWfa3t90CN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Atlas (H\u00e9m\u00e9ra)",
-      "url": "https://open.spotify.com/track/41yRabulJQYkSqU9IUA8F2"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "Envie de Toi",
-        "url": "https://open.spotify.com/album/4cbjYXrPR52JN6FuPBuZon"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9duses",
-          "url": "https://open.spotify.com/artist/7dqoUDtqTAYBw80yEmTiXW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Envie de Toi",
-      "url": "https://open.spotify.com/track/6Wr5PfzjJnJWFKvjvq07xs"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/07VMHY2F4Fu1XEMs1z3wrY"
       },
@@ -707,62 +775,6 @@
       "duration_ms": 250666,
       "name": "Fuerza Vocal",
       "url": "https://open.spotify.com/track/4feH6J8GiazximCINmxvxa"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "La semilla",
-        "url": "https://open.spotify.com/album/0kmls45Sfypbi3waz6FM5N"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        }
-      ],
-      "duration_ms": 237616,
-      "name": "La semilla",
-      "url": "https://open.spotify.com/track/4Dtferefm6ZtaxNQan5S67"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "WORK IT",
-        "url": "https://open.spotify.com/album/765D1o0mjOhdFY1OD4m2hK"
-      },
-      "artists": [
-        {
-          "name": "El Dongo",
-          "url": "https://open.spotify.com/artist/1Vh3FgVkGzT5sprNoKWZDp"
-        }
-      ],
-      "duration_ms": 156572,
-      "name": "WORK IT",
-      "url": "https://open.spotify.com/track/4dcUO41NE52nEUoU2zc4ed"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "No se lo digas a nadie",
-        "url": "https://open.spotify.com/album/1Wp9RD30CZdFrTFOME5de8"
-      },
-      "artists": [
-        {
-          "name": "Enrique Cofiner",
-          "url": "https://open.spotify.com/artist/1xIXyShBHerYFnmxtP2JQ8"
-        },
-        {
-          "name": "Carles Marig\u00f3",
-          "url": "https://open.spotify.com/artist/6ndjWMlsnF4vbvXNzW3nWu"
-        },
-        {
-          "name": "Anna Colom",
-          "url": "https://open.spotify.com/artist/6SvcIs2gMhe8kxWXnF8lVk"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "No se lo digas a nadie",
-      "url": "https://open.spotify.com/track/350hBsarKnSCkJKgph0ezw"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -955,22 +967,6 @@
     {
       "added_at": "2023-02-10 05:41:01",
       "album": {
-        "name": "Head On",
-        "url": "https://open.spotify.com/album/4YRYwkQIX70NYr74KMXTUD"
-      },
-      "artists": [
-        {
-          "name": "Emotion Picture",
-          "url": "https://open.spotify.com/artist/0Xe0kV9S6m2CLKu2gK7qhv"
-        }
-      ],
-      "duration_ms": 288687,
-      "name": "Head On",
-      "url": "https://open.spotify.com/track/6prdBuFoAnBlu2X1zYqTO2"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
         "name": "No Place To Be",
         "url": "https://open.spotify.com/album/6SMWrfgXRuF7HGSmjGaAQz"
       },
@@ -1059,54 +1055,6 @@
       "duration_ms": 161770,
       "name": "Nos Vimos",
       "url": "https://open.spotify.com/track/1Z0JqmE3dkVKpj0HM9UfJv"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/75xlBb4PuFaIALFZ3xIlNK"
-      },
-      "artists": [
-        {
-          "name": "La Crema",
-          "url": "https://open.spotify.com/artist/14rN9CCEd6amLJxcnRpnph"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4bo2lCA1iUYVEo8lY3hUk7"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/43nL67gjXKOm8mBNTMRC8C"
-      },
-      "artists": [
-        {
-          "name": "Angel Moy",
-          "url": "https://open.spotify.com/artist/0xMx0FAquvKaV2EWp0aZ1p"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/4DlZrWWLqYwwYcjj2MUaZJ"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "Un Nuevo Mundo",
-        "url": "https://open.spotify.com/album/38ZAATislqAivxqoBfPj1S"
-      },
-      "artists": [
-        {
-          "name": "David Busquets",
-          "url": "https://open.spotify.com/artist/2EYjMJ1kqrfsxeNFQlBK3H"
-        }
-      ],
-      "duration_ms": 195422,
-      "name": "Un Nuevo Mundo",
-      "url": "https://open.spotify.com/track/38lVFD6mCKGr23KNppLbHn"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -1315,22 +1263,6 @@
     {
       "added_at": "2023-02-10 05:41:01",
       "album": {
-        "name": "PERFUME",
-        "url": "https://open.spotify.com/album/5Lomx97akrvFR3o4tKclwj"
-      },
-      "artists": [
-        {
-          "name": "Blackswann",
-          "url": "https://open.spotify.com/artist/4I8F7D0wb6365qHpwN65nl"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "PERFUME",
-      "url": "https://open.spotify.com/track/5N5YIdijJA2LbLGNlWgbjS"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
         "name": "Romero",
         "url": "https://open.spotify.com/album/1iHV3TGZJTXnH5UyRYMwwz"
       },
@@ -1423,22 +1355,6 @@
       "duration_ms": 108226,
       "name": "Demon Time, Pt. 1",
       "url": "https://open.spotify.com/track/3N71ImJbjjyCQgWEAIOJmB"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "Impresionable",
-        "url": "https://open.spotify.com/album/0SLrzhnd07GE6EO0lM8uLe"
-      },
-      "artists": [
-        {
-          "name": "La Klinkert",
-          "url": "https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "Impresionable",
-      "url": "https://open.spotify.com/track/1xflCCOhfpUXxqa7sC8XWH"
     },
     {
       "added_at": "2023-02-10 05:41:01",
@@ -1559,22 +1475,6 @@
       "duration_ms": 218714,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6WeKau1VmqiuqTBMxGWk4q"
-    },
-    {
-      "added_at": "2023-02-10 05:41:01",
-      "album": {
-        "name": "why not us?",
-        "url": "https://open.spotify.com/album/4Ivk5W6s5LtR5klO5u98Ry"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 167763,
-      "name": "BNB",
-      "url": "https://open.spotify.com/track/2CWPfI6bpk3q4z4s6u4eUg"
     },
     {
       "added_at": "2023-02-10 05:41:01",

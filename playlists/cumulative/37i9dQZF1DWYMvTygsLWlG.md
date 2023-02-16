@@ -2,7 +2,7 @@
 
 ### [Love Ballads: Michael Bublé Takeover](https://open.spotify.com/playlist/37i9dQZF1DWYMvTygsLWlG)
 
-> Ready for Valentine’s Day? Michael Bublé got you covered!
+> Sit back and enjoy Michael Bublé’s favorite love songs.
 
 414 songs - 1 day 4 hr 15 min
 

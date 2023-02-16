@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Happy vibes for an upbeat morning.",
+  "description": "Positive, uplifting piano to make you feel good. ",
   "name": "Feel Good Piano",
   "tracks": [
     {
@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Nuove stelle",
+        "url": "https://open.spotify.com/album/4EYOSBo5Ih0iYWbDbLKLos"
+      },
+      "artists": [
+        {
+          "name": "Carlo Boscoli",
+          "url": "https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100833,
+      "name": "Nuove stelle",
+      "url": "https://open.spotify.com/track/4XhwwAHtDNnv8sHJk1O69p"
+    },
+    {
+      "album": {
         "name": "Heart Open & Oak Bluffs",
         "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
       },
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 77400,
       "name": "Seashells",
       "url": "https://open.spotify.com/track/6BW4HpfOcd2OhezoeiFvOt"
@@ -3035,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Sous le Pluie",
+        "url": "https://open.spotify.com/album/12qJxLu88yGkWK1ASI4QUp"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Sous le Pluie",
+      "url": "https://open.spotify.com/track/2qCiBLziSnRIR3LXMQq798"
+    },
+    {
+      "album": {
         "name": "Speicherstadt",
         "url": "https://open.spotify.com/album/6Ecw3xAVbA82muBpmMLOKU"
       },
@@ -3219,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Sundara",
+        "url": "https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "Sundara",
+      "url": "https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54"
+    },
+    {
+      "album": {
         "name": "Sweet Cherie",
         "url": "https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD"
       },
@@ -3360,6 +3414,24 @@
       "duration_ms": 101048,
       "name": "Theme from Lazarus",
       "url": "https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb"
+    },
+    {
+      "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk"
+      },
+      "artists": [
+        {
+          "name": "Tales of Vibrations",
+          "url": "https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "Thirst",
+      "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
     },
     {
       "album": {
@@ -3522,7 +3594,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-16",
       "duration_ms": 170000,
       "name": "Tres Epos",
       "url": "https://open.spotify.com/track/2R7H81ohphMCox3Pq7bLw3"
