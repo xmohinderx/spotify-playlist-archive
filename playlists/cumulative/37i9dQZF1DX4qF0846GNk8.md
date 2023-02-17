@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> كوفر: الصواريخ مع أبو الأنوار
 
-129 songs - 7 hr 58 min
+130 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 | 2021-12-16 | 2022-07-31 |
 | [Ghasheem](https://open.spotify.com/track/1aCVsj9WeXLlj9psAGvw39) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Ghasheem](https://open.spotify.com/album/5GDzEetTPM43TJZebXk8gl) | 3:48 | 2021-12-16 | 2022-01-11 |
 | [Haba \- From "El Ens We El Nems"](https://open.spotify.com/track/0n1LXkgsl43HZiEhWcecrU) | [Oka](https://open.spotify.com/artist/0jSsCsmHAH0cKT5iBwUoX7), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Bayoumi Fouad](https://open.spotify.com/artist/3UpvJjbwwaaKl8SxrsMqqF) | [Haba \(From "El Ens We El Nems"\)](https://open.spotify.com/album/4ls5O9WVGuN43XlaD2Ofr3) | 2:09 | 2021-12-16 | 2022-10-25 |
-| [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-12-16 |  |
+| [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-12-16 | 2023-02-17 |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 | 2022-11-24 |
 | [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 | 2022-10-17 |
 | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/track/6cTjz8NSpckBwPwSmrILZd) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/album/4kiupm5N7gg9BD22G03eVC) | 3:29 | 2022-10-24 |  |
@@ -84,6 +84,7 @@
 | [طمنيني](https://open.spotify.com/track/02WytyOun59cEcy1LhyGP3) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/48Hqj988XJYOOzaudRAj70) | 3:55 | 2022-07-19 |  |
 | [طمنيني](https://open.spotify.com/track/1LBnLlVug13kIthC9VtMcJ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/3wnNwOBfnZhl6CZ8NtEzc9) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [عادي عادي مبيشغلنيش](https://open.spotify.com/track/24JteCymkDnedpSDPCjLCR) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [بوده محمد](https://open.spotify.com/artist/1RqbnHZJu6fkerAn262p31) | [عادي عادي مبيشغلنيش](https://open.spotify.com/album/2EhOx2z4MHnBhjFlf6D2Q0) | 2:50 | 2021-12-16 |  |
+| [عذرا قد حضر العو](https://open.spotify.com/track/4sN9tEkslUyImMrckTqjut) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [شئلشة](https://open.spotify.com/artist/6g5gJTj2RuFHU1y5dDWbY2), [محمد عبسلام](https://open.spotify.com/artist/3mITpO5lgkYAQFglY4ZFyZ) | [عذرا قد حضر العو](https://open.spotify.com/album/5PO1g2zD7NMsBNpkxVqDUr) | 2:42 | 2023-02-16 |  |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 |  |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-12-16 | 2022-03-31 |
 | [عقباوي دمي حامي](https://open.spotify.com/track/589yxRQaTsgjX23dBtgaIz) | [Hamada Abo El Soud](https://open.spotify.com/artist/46Mk53pIP0buQqvhKNlsAH), [Te7a](https://open.spotify.com/artist/5upPnqjYhTrlCrxCwQqTyC) | [عقباوي دمي حامي](https://open.spotify.com/album/46ThkQd2YDMj6yFH1DZaWE) | 2:50 | 2021-12-16 |  |

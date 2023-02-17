@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 333842,
+  "num_followers": 333913,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMGQwOTI1YjljNGNlM2I1Zjc3NTcyZTQ0MDkwMDk1Zjk4",
+  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMDE1NzJhZTIyY2FhMTUwNDBmNjhkZTZlZWZhNTg5ZTI5",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 204007,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 204007,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/3Q6KR2k01ltWu8OtqOmm3E"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 272746,
+      "name": "Prud\u00eancia",
+      "url": "https://open.spotify.com/track/7byA56peap14u8Pj3CcMgJ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/3Q6KR2k01ltWu8OtqOmm3E"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "Prud\u00eancia",
-      "url": "https://open.spotify.com/track/7byA56peap14u8Pj3CcMgJ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2023-02-17 01:01:00",
+      "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -703,26 +723,6 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-02-16 00:15:04",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Tarde Em Itapu\u00e3",
         "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
     },
     {
+      "added_at": "2023-02-17 01:01:00",
+      "album": {
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 228477,
+      "name": "J\u00e1 ouviu falar de amor?",
+      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Habilidades Extraordin\u00e1rias",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
     },
     {
-      "added_at": "2023-02-16 00:15:04",
-      "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 228477,
-      "name": "J\u00e1 ouviu falar de amor?",
-      "url": "https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa"
-    },
-    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Meu Parceiro Belchior",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Preciso Me Encontrar",
         "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
     },
     {
-      "added_at": "2023-02-16 00:15:04",
+      "added_at": "2023-02-17 01:01:00",
       "album": {
         "name": "Distantes e T\u00e3o Pr\u00f3ximos",
         "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
@@ -1325,23 +1325,7 @@
       "url": "https://open.spotify.com/track/6he0uxYZ7NmlEAW8B9LGux"
     },
     {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
-      },
-      "artists": [
-        {
-          "name": "Helena Elis",
-          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "On",
-      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
-    },
-    {
-      "added_at": "2023-02-16 00:15:04",
+      "added_at": "2023-02-17 01:01:00",
       "album": {
         "name": "Solid\u00f5es",
         "url": "https://open.spotify.com/album/5KSBEMVST0zTeiBadYWcsG"
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 185073,
+      "name": "Pois \u00e9",
+      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "On",
+        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Helena Elis",
+          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
         }
       ],
-      "duration_ms": 185073,
-      "name": "Pois \u00e9",
-      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
+      "duration_ms": 205800,
+      "name": "On",
+      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Ef\u00eamera (Remix)",
         "url": "https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G"
       },
@@ -1647,25 +1627,25 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
         },
         {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
         }
       ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
-      "added_at": "2023-02-16 00:15:04",
+      "added_at": "2023-02-17 01:01:00",
       "album": {
         "name": "Bom Parto",
         "url": "https://open.spotify.com/album/3ZwcCK5QY3nxCuJzfoWRcF"
@@ -1683,6 +1663,26 @@
       "duration_ms": 193500,
       "name": "Bom Parto",
       "url": "https://open.spotify.com/track/64SV10nZmjEkQ98orOPU2r"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1741,6 +1741,22 @@
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
+      "added_at": "2023-02-17 01:01:00",
+      "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 267427,
+      "name": "Um Rol\u00ea no C\u00e9u - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jPCNeQ8brTYhUryA1ROxs"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "A Situa\u00e7\u00e3o",
@@ -1755,22 +1771,6 @@
       "duration_ms": 193283,
       "name": "Incomoda",
       "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
-    },
-    {
-      "added_at": "2023-02-16 00:15:04",
-      "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 267427,
-      "name": "Um Rol\u00ea no C\u00e9u - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jPCNeQ8brTYhUryA1ROxs"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1849,7 +1849,7 @@
       "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
     },
     {
-      "added_at": "2023-02-16 00:15:04",
+      "added_at": "2023-02-17 01:01:00",
       "album": {
         "name": "\u00c1gua do Mar",
         "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"

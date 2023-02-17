@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs?si=7x8x6BUlRoilITy7aQZ18A">Donald</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J?si=zUNqgaOiTCiIpRzrZhyL6g">Q Twins</a>
 
-330 songs - 23 hr 37 min
+331 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Messiah](https://open.spotify.com/track/2k7UG78CuqYBLP3jrCasMU) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Messiah](https://open.spotify.com/album/53ATcmnwy5aG7nvh0898a8) | 4:33 | 2021-07-01 | 2022-09-30 |
 | [Milandu Bhe](https://open.spotify.com/track/4jDt1HrGLc4CRigKbUyvv8) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Penny Penny](https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp) | [Milandu Bhe](https://open.spotify.com/album/3U5f1KHnyRDoZTaeQt9MBa) | 4:01 | 2022-11-14 | 2022-12-02 |
 | [Milele](https://open.spotify.com/track/0ThlnzzzbQjw3WpbuPoafr) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Milele](https://open.spotify.com/album/3Zt55olh4hstOLmrFRNp2G) | 3:29 | 2021-09-30 | 2022-02-18 |
+| [Mina Nawe](https://open.spotify.com/track/6MnRKzhzMG0tv1qq1tSPu9) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [From A God To A King](https://open.spotify.com/album/2IBEL9iOlvreoqOTop8Hbc) | 3:29 | 2023-02-16 |  |
 | [Minute of silence](https://open.spotify.com/track/1YWxkBxkCy9ikoWlgWkuUQ) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Minute of silence](https://open.spotify.com/album/13fC2tppm51jYbOP9pFdkk) | 2:40 | 2022-06-16 | 2022-07-29 |
 | [Mjolo \(feat\. Zanda Zakuza\)](https://open.spotify.com/track/6abcUHJLRUgXmb44S8icTh) | [Roki](https://open.spotify.com/artist/1jfWbG9JIlSJys68G8tLVE), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe) | [Mjolo \(feat\. Zanda Zakuza\)](https://open.spotify.com/album/79Wiv0uEy74k08IaofFcsJ) | 3:14 | 2022-06-02 | 2022-06-17 |
 | [Mmutla](https://open.spotify.com/track/1xOcUmvfl2mIcV7xsWdhWz) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Mmutla](https://open.spotify.com/album/2No7GgFKmpZWIHvaM73CPQ) | 6:19 | 2022-06-23 | 2022-07-01 |
@@ -206,7 +207,7 @@
 | [Ngiyaku'Khumbula](https://open.spotify.com/track/5uHBDl7C5F7NxrxBP3Gx2b) | [Sa$e](https://open.spotify.com/artist/2ZmGITxawxVKp63ZDWGrQH), [Thulaganyo](https://open.spotify.com/artist/3zZdBfdYUqIqOpLwC0nXce) | [Ngiyaku'Khumbula](https://open.spotify.com/album/23w1acZtpgmgFGKyuf1o3L) | 3:57 | 2022-06-02 | 2022-06-17 |
 | [Ngiyathandaza](https://open.spotify.com/track/0MuZgvvbykSdfKPMgtLUx3) | [Mr\. Music](https://open.spotify.com/artist/1tl67Z3qyJYT9NilPduEgF) | [Ngiyathandaza](https://open.spotify.com/album/6u8xAVCZgRCcqEltfNl6id) | 5:17 | 2022-04-22 | 2022-05-13 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-01-19 |  |
-| [Ngizokthanda](https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Ngizokthanda](https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy) | 3:39 | 2022-09-29 |  |
+| [Ngizokthanda](https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Ngizokthanda](https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy) | 3:39 | 2022-09-29 | 2023-02-17 |
 | [Ngwago](https://open.spotify.com/track/34m91Dl71iUdtLVr3qmIFE) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Ngwago](https://open.spotify.com/album/0m3FhD85feoCHUHPVPbfn2) | 5:40 | 2021-07-06 | 2022-08-12 |
 | [Ngzok'nik'uthando \(Radio Edit\)](https://open.spotify.com/track/0bMHwf7X5H7IG9jaSM9xEm) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV) | [Ngzok'nik'uthando](https://open.spotify.com/album/36iqSxDSF001SVG7zSs4ZI) | 4:20 | 2022-10-28 |  |
 | [Nhliziyo](https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH) | [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Nhliziyo](https://open.spotify.com/album/0g87VdtZ8LO9Vxd1vqPBTA) | 4:33 | 2021-02-24 | 2022-07-29 |

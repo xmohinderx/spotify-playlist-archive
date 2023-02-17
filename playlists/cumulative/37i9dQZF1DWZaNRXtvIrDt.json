@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Loods",
+  "description": "a new world of alternative electronic music. Cover: Pretty Girl",
   "name": "Portal",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 270082,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr"
+    },
+    {
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271742,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
     },
     {
       "album": {
@@ -276,7 +294,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 429391,
       "name": "Bassian Plain",
       "url": "https://open.spotify.com/track/2iRe0A5hRK96LsjO6DYiwE"
@@ -334,6 +352,24 @@
       "duration_ms": 359040,
       "name": "Beta Zest",
       "url": "https://open.spotify.com/track/73VnqalXrZQ7k5w8dA6vuZ"
+    },
+    {
+      "album": {
+        "name": "Beyond Control",
+        "url": "https://open.spotify.com/album/5dAhZLZ3qgaPQGpxwJCSDw"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Man",
+          "url": "https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374775,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/6WhTKGrJaMbTbEtQvU5yKR"
     },
     {
       "album": {
@@ -516,7 +552,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 147455,
       "name": "Burn Dem Bridges - Nia Archives Edit",
       "url": "https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn"
@@ -542,6 +578,24 @@
       "duration_ms": 226206,
       "name": "Can't Hang - Disco Lines Remix",
       "url": "https://open.spotify.com/track/2O6Om9fTQr9VyUYp3C27Zk"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6OwDyAPg2sKKWCwICtmZ2P"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5o3sxlnEcM5M9lnav6DAiZ"
     },
     {
       "album": {
@@ -758,7 +812,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 222720,
       "name": "EMBER_dnb_edit001",
       "url": "https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh"
@@ -1206,7 +1260,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 276367,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
@@ -1412,7 +1466,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 388441,
       "name": "KeQue",
       "url": "https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN"
@@ -1643,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "MYSM",
+        "url": "https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236336,
+      "name": "MYSM",
+      "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
+    },
+    {
+      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT"
       },
@@ -1748,6 +1820,28 @@
       "duration_ms": 220393,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
+    },
+    {
+      "album": {
+        "name": "No Nein",
+        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151273,
+      "name": "No Nein",
+      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
     },
     {
       "album": {
@@ -1907,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Refuse (Refazer)",
+        "url": "https://open.spotify.com/album/64YI4ZVWfFAmMK6uCRaXwF"
+      },
+      "artists": [
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        },
+        {
+          "name": "Chediak",
+          "url": "https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Refuse - Refazer",
+      "url": "https://open.spotify.com/track/2gBF0PS5g9eKICWuKiDWHS"
+    },
+    {
+      "album": {
         "name": "Relief",
         "url": "https://open.spotify.com/album/7b9N6UC8RGPzuvpq6zHbAP"
       },
@@ -2056,7 +2172,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 160434,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
@@ -2209,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Easy Way / Stop Everything",
+        "url": "https://open.spotify.com/album/13ARy3u48SPlVga7PmhoA9"
+      },
+      "artists": [
+        {
+          "name": "Race Banyon",
+          "url": "https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Stop Everything",
+      "url": "https://open.spotify.com/track/7C7jBRGeBVwuITQjqaTYQa"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -2268,7 +2402,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 310730,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq"
@@ -2584,6 +2718,28 @@
       "duration_ms": 241386,
       "name": "We Are Love",
       "url": "https://open.spotify.com/track/6TztmENI0Fm3FUK77wGoHi"
+    },
+    {
+      "album": {
+        "name": "We Still Believe",
+        "url": "https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jamie Principle",
+          "url": "https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230445,
+      "name": "We Still Believe",
+      "url": "https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Beenzino\(빈지노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Zior Park\(지올팍\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-588 songs - 1 day 8 hr 5 min
+589 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
 | [LOYAL \(Feat\. Ruf.d\)](https://open.spotify.com/track/76prvUJ9OkeoCyAObWjhB3) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [MOONLIGHT \(ALL ABOUT YOU\)](https://open.spotify.com/album/6ezx4OUNOWc9O90NAD219H) | 2:57 | 2022-05-31 | 2022-07-29 |
 | [Luv Intuition \(feat\. Kenichiro Nishihara\)](https://open.spotify.com/track/43yeUjMR8Rnbapjnw16OFO) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Cherry Blossom](https://open.spotify.com/album/2zee1zbiVi9SyM3nQZDyIL) | 3:28 | 2022-04-21 | 2022-07-28 |
+| [MAGIC!](https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE, Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:59 | 2023-02-16 |  |
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-13 | 2023-01-22 |
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-21 | 2022-07-19 |
 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 | 2022-04-01 | 2023-01-26 |
@@ -455,7 +456,7 @@
 | [Scent \(Feat\. Kid Wine, yongyong\)](https://open.spotify.com/track/6gzeqfqfyfouRno9LM25s6) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 3:13 | 2022-04-21 | 2022-07-29 |
 | [Scoop](https://open.spotify.com/track/6u24AGs0t3CP49BorJnGZN) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Show Me the Money 8 Episode 2](https://open.spotify.com/album/1b9EUQkCSWuZssrfnPZeca) | 4:55 | 2022-06-20 | 2022-07-13 |
 | [SCUM \(Feat\. Moon Sujin\)](https://open.spotify.com/track/67jGmDOmNQOTF6DvBT5b8P) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [EP1 GENIUS](https://open.spotify.com/album/244KZjMMXFQpg2V4QZpZUB) | 3:26 | 2022-05-31 | 2022-07-16 |
-| [Searched your name on instagram](https://open.spotify.com/track/0N9QkwJeveGUGpWvUORlzy) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Searched your name on instagram](https://open.spotify.com/album/21gf9IgPsdFViKGVZv5GwF) | 2:52 | 2023-01-25 |  |
+| [Searched your name on instagram](https://open.spotify.com/track/0N9QkwJeveGUGpWvUORlzy) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Searched your name on instagram](https://open.spotify.com/album/21gf9IgPsdFViKGVZv5GwF) | 2:52 | 2023-01-25 | 2023-02-17 |
 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [다이나믹 듀오](https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 | 2022-06-18 | 2022-07-29 |
 | [Self Isolation \(feat\. Paloalto\)](https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Self Isolation](https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c) | 3:37 | 2022-05-03 | 2022-07-18 |
 | [Selfish \(Feat\. Woo\)](https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:28 | 2022-04-21 | 2022-07-21 |

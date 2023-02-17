@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,997 likes - 518 songs - 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,188 likes - 518 songs - 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -415,7 +415,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 405 | [While You Were Sleeping](https://open.spotify.com/track/3trpLuyg5wzHSOFT5O2lGH) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [While You Were Sleeping](https://open.spotify.com/album/4y6DDvaN7A2hR6al90Fzo3) | 3:16 |
 | 406 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 |
 | 407 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 |
-| 408 | [Walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 |
+| 408 | [walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 |
 | 409 | [Dream Infinite](https://open.spotify.com/track/6V8CcTlVfqScjBMEyt1tih) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dream Infinite](https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q) | 1:44 |
 | 410 | [Half Moon](https://open.spotify.com/track/5T1jVQdly3YDNGe2x1RZ7v) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Half Moon](https://open.spotify.com/album/6fwb2iWqz4SW2mTfjgDfZC) | 2:24 |
 | 411 | [After Dark](https://open.spotify.com/track/1NzMfuhiUajnxNppprlQU8) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [After Dark](https://open.spotify.com/album/4uZCZZJ90JQHbGZC6XRlng) | 2:08 |

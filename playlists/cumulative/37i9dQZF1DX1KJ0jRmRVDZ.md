@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-627 songs - 1 day 11 hr 54 min
+629 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Virtualistic Summer](https://open.spotify.com/track/3Z2MCc9s2fDxNYqvhOKqXk) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/3CjZiAFiGUvZWI0ZhWQ2Ew) | 4:20 | 2023-01-17 | 2023-01-27 |
 | [Virtualistic Summer](https://open.spotify.com/track/75hbXnneq2ySdPKWT32m2x) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/5bROdBeD24ujgnbbZTAQ93) | 4:20 | 2023-01-17 | 2023-01-19 |
 | [Volcano](https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 | 2022-10-19 |
-| [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2022-12-15 |  |
+| [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2022-12-15 | 2023-02-17 |
 | [Warauna!](https://open.spotify.com/track/05U2zG3btPIClO6FCd8sXJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Warauna!](https://open.spotify.com/album/2bB5INyPxfWwVeFg5Y7fIO) | 2:35 | 2023-01-11 | 2023-02-03 |
 | [warewareda feat\. sakana](https://open.spotify.com/track/4c7DXjRdLHspJGkbQNUdns) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [warewareda feat\. sakana](https://open.spotify.com/album/6wwdEDDpNjbKURoIw050U2) | 2:02 | 2023-02-07 | 2023-02-15 |
 | [Whale\-fall Community](https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 3:57 | 2022-08-16 | 2022-08-31 |
@@ -330,7 +330,7 @@
 | [シーサイド](https://open.spotify.com/track/6mpRgbaT1HC5UwbI3WEAzx) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シーサイド](https://open.spotify.com/album/28e4ZmCCbxnMxzL2iHB0Q6) | 4:13 | 2022-06-14 | 2022-07-25 |
 | [ジオラマの中で](https://open.spotify.com/track/7uZQZfz2mRpAucZunWydQ8) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ジオラマの中で](https://open.spotify.com/album/7pChWKuAstGML5aZocCViQ) | 3:44 | 2022-06-09 | 2022-07-11 |
 | [ジブラ \- すりぃ ver.](https://open.spotify.com/track/7Ada4k78T7tOo21s2jIIXF) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ジブラ \(すりぃ ver.\)](https://open.spotify.com/album/0DiiAaclQuzqyMSj0F4PqJ) | 2:22 | 2022-09-27 | 2022-10-05 |
-| [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-07 |  |
+| [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-07 | 2023-02-17 |
 | [スパークバグ](https://open.spotify.com/track/44xtl0EIWFhkc1x4GEHZLo) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [スパークバグ](https://open.spotify.com/album/09xPOErQdS3XwTUSad0mB4) | 3:13 | 2022-06-16 | 2022-06-21 |
 | [スラップスティック・ガール](https://open.spotify.com/track/2MdKHapjawNemb38kkAqel) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [スラップスティック・ガール](https://open.spotify.com/album/6WSQFmiH2ojGPd67TC5DiV) | 2:43 | 2022-06-13 | 2022-06-15 |
 | [ズルい幻](https://open.spotify.com/track/1JokCoiPsYB0i3RISCtldq) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ズルい幻](https://open.spotify.com/album/76vJnc0Md9lXNRlobr5FDd) | 3:53 | 2022-06-09 | 2022-07-17 |
@@ -338,6 +338,7 @@
 | [ソーイングボックス](https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソーイングボックス](https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH) | 3:14 | 2022-08-16 | 2022-09-02 |
 | [タクシー・ジャック](https://open.spotify.com/track/0OqigLrUaqPcQYe54emOXi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [タクシー・ジャック](https://open.spotify.com/album/3kWmXCzOEei7Uyjx6LDGLr) | 2:46 | 2022-06-16 | 2022-06-20 |
 | [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-07-12 | 2022-07-14 |
+| [ダウンタイム \- すりぃ ver.](https://open.spotify.com/track/57KuvGBeYhvQRvNY7UpIl3) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ダウンタイム \(すりぃ Ver.\)](https://open.spotify.com/album/7IsB7FvLPqJRaph9f5wSLt) | 2:30 | 2023-02-16 |  |
 | [ダンボールの色](https://open.spotify.com/track/6wVhOIPXpNDMwzR6vJc775) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [ダンボールの色](https://open.spotify.com/album/2hf6CS4HgQwuZd5FZ0njxU) | 3:47 | 2022-09-20 | 2022-10-05 |
 | [ダンボールの色 \- Rock Sound](https://open.spotify.com/track/7GtbO5Yi0RQPXh1dy7hzl2) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [a Beast](https://open.spotify.com/album/64vWBRtnrBEhH4xbkeWfaf) | 4:06 | 2022-11-22 | 2022-12-14 |
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2022-06-14 | 2022-07-02 |
@@ -420,6 +421,7 @@
 | [人生を恨む](https://open.spotify.com/track/4Oq9SeAEKhuUSYhxaqonkL) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [人生を恨む](https://open.spotify.com/album/6kwwZSCYngRA9r5yCELONm) | 2:03 | 2022-06-16 | 2022-06-22 |
 | [人生散花](https://open.spotify.com/track/6pwn0DbbDGCwMvmHdw3dZ5) | [Lily's garden](https://open.spotify.com/artist/7aejd4ATY4dzKFZ71aPwxZ) | [人生散花](https://open.spotify.com/album/2gTOIAwEIxe6sQvXVsP5QQ) | 2:22 | 2022-10-04 | 2022-10-19 |
 | [人間](https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA) | [703号室](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [人間](https://open.spotify.com/album/2aRPZcMvi6VkwlWkHQ3sGR) | 2:42 | 2022-06-09 | 2022-06-22 |
+| [人間たるもの \- feat\. もこう, ユリイ・カノン](https://open.spotify.com/track/7cUfHMsJ1QtyfJhVwD9Y7g) | [WI'P](https://open.spotify.com/artist/1KEzWZ1QDaSTOCDnOB8R5n), [もこう](https://open.spotify.com/artist/7xo4duEUPlaF6Ux6XYSKoK), [ユリイ・カノン](https://open.spotify.com/artist/5BxqmNmDhSlTqIPXKeZIwN) | [人間たるもの \(feat\. もこう, ユリイ・カノン\)](https://open.spotify.com/album/1ICKbyc8VJBLxFYnYabs3d) | 3:10 | 2023-02-16 |  |
 | [僕らのストラテジー](https://open.spotify.com/track/2yrOqr7f2bJg5Z5keVIbO8) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW), [Flower](https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj) | [Ukulele Strategy](https://open.spotify.com/album/47xjZNxmVLnMTTbZrQCWVW) | 3:01 | 2022-06-21 | 2022-07-08 |
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-01 |  |

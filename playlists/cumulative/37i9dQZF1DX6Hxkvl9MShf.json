@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Brill",
+        "url": "https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353608,
+      "name": "Brill",
+      "url": "https://open.spotify.com/track/33OX22n8bgi4V7bzjsD7Ws"
+    },
+    {
+      "album": {
         "name": "Canop\u00e9e des C\u00eemes",
         "url": "https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u"
       },

@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 606300,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 198403,
       "name": "Allan",
       "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Bittersomerson",
+        "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
+      },
+      "artists": [
+        {
+          "name": "Gevoel van Veiligheid",
+          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181728,
+      "name": "Bittersomerson",
+      "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+    },
+    {
+      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI"
       },
@@ -514,6 +532,42 @@
       "duration_ms": 284075,
       "name": "Cancelled",
       "url": "https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA"
+    },
+    {
+      "album": {
+        "name": "Caravan In The Mist",
+        "url": "https://open.spotify.com/album/63n0zHzpn8Ov5yNoSUoRnE"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206772,
+      "name": "Caravan In The Mist",
+      "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
+    },
+    {
+      "album": {
+        "name": "A Million Ways to Die",
+        "url": "https://open.spotify.com/album/02HSRazAjXl47xl0F62CT3"
+      },
+      "artists": [
+        {
+          "name": "A MILLION WAYS TO DIE",
+          "url": "https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361839,
+      "name": "Cat People (Putting out Fire)",
+      "url": "https://open.spotify.com/track/235kuiRl7LYWJuJ0JnDw1j"
     },
     {
       "album": {
@@ -698,6 +752,24 @@
       "duration_ms": 216965,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/2Comn4T4boybdm44GkTLIL"
+    },
+    {
+      "album": {
+        "name": "CUPID",
+        "url": "https://open.spotify.com/album/5kFsmjiNj6rH0iAL8EUNpF"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172760,
+      "name": "CUPID",
+      "url": "https://open.spotify.com/track/5JOQ7Gasb2n4pGPBskx2xl"
     },
     {
       "album": {
@@ -1387,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Heaving",
+        "url": "https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Heaving",
+      "url": "https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP"
+    },
+    {
+      "album": {
         "name": "The Art of Escape / The Escape of Art",
         "url": "https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl"
       },
@@ -1636,7 +1726,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 182984,
       "name": "kill all my feelings",
       "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
@@ -1676,7 +1766,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 217922,
       "name": "Kom Kry Van Myne",
       "url": "https://open.spotify.com/track/3E3768rjpDCanBS5ehkuXg"
@@ -1770,7 +1860,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 230186,
       "name": "Leech",
       "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
@@ -1966,7 +2056,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 207381,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN"
@@ -2082,6 +2172,24 @@
       "duration_ms": 159494,
       "name": "Nie Alleen Nie",
       "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
+    },
+    {
+      "album": {
+        "name": "No One Else Will",
+        "url": "https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98"
+      },
+      "artists": [
+        {
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200320,
+      "name": "No One Else Will",
+      "url": "https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ"
     },
     {
       "album": {
@@ -2453,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Revolusie",
+        "url": "https://open.spotify.com/album/1w98OY20lrO64tCpn1tJlu"
+      },
+      "artists": [
+        {
+          "name": "Mensdom",
+          "url": "https://open.spotify.com/artist/6dYzDh337aHBZUsHhscX9l"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201932,
+      "name": "Revolusie",
+      "url": "https://open.spotify.com/track/50Rbi8JYsD1kWfIQB4RsTg"
+    },
+    {
+      "album": {
         "name": "Teen Tapes (For Performing Your Own Stunts)",
         "url": "https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj"
       },
@@ -2632,7 +2758,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 233185,
       "name": "Silver Foyer",
       "url": "https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7"

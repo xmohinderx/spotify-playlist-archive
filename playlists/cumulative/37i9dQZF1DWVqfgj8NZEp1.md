@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-268 songs - 1 day 1 hr 15 min
+272 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Warm Hand](https://open.spotify.com/track/1s585WUgTgesQquLKUMgAN) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [The Copenhagen Session \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/3dssb76aJrW8j3TeFjkhtK) | 4:33 | 2022-06-30 |  |
 | [A Warm Hand](https://open.spotify.com/track/0kPGtWb0Bs0j3DW49kWbKh) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [A Warm Hand](https://open.spotify.com/album/5eDxoL7fRuACnX4gDF3I99) | 4:33 | 2022-06-30 | 2022-07-29 |
 | [Absyrations](https://open.spotify.com/track/14JAGLLamVp9p3EJaRYPfj) | [Alfio Origlio](https://open.spotify.com/artist/6jQq6X8pd59ggCEJ5lEj80) | [Absyrations](https://open.spotify.com/album/3v8U8oQdykY1kVF9IBg5nF) | 5:44 | 2020-10-09 |  |
+| [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-16 |  |
 | [After All](https://open.spotify.com/track/2r3dQilQpgjPbRomN7GAvD) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH), [Gulli Gudmundsson](https://open.spotify.com/artist/23MQJmhn0On07tkIuc9jDA) | [After All](https://open.spotify.com/album/3FMzxDxBTIi2HsmaTNKhV0) | 5:22 | 2020-10-09 | 2022-02-18 |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2022-06-30 |  |
 | [After You've Gone](https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [After You've Gone](https://open.spotify.com/album/2dhSC7isUhzg4n9b1X6fnS) | 7:04 | 2020-10-09 | 2022-07-29 |
@@ -31,6 +32,7 @@
 | [Almas vaggvisa](https://open.spotify.com/track/1AYtj1r4CcTiU6qMcmy0Hz) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I LOVE JAN LUNDGREN TRIO](https://open.spotify.com/album/6kbVXZecmxepGZ50Ca52Vb) | 3:52 | 2020-10-09 | 2022-06-22 |
 | [And So it Goes](https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH) | [Joshua Espinoza](https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E), [Kris Monson](https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t), [Jaron Lamar Davis](https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG) | [And So it Goes](https://open.spotify.com/album/0tfPd7QamoduQalv7A376o) | 4:44 | 2021-08-13 |  |
 | [Angel Eyes](https://open.spotify.com/track/2AtLQju6O4Slbhtuh2ndCD) | [Tommy Flanagan, Ron Carter & Tony Williams](https://open.spotify.com/artist/4MpC29z5Qh5dAfTGXJ9jb7) | [The Trio](https://open.spotify.com/album/55EYjSzcnk7NnLACzxYeB2) | 5:48 | 2020-10-09 | 2022-02-18 |
+| [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
 | [Anthem](https://open.spotify.com/track/7FApprsHm8hTyI7Ks4I1AX) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [New Standards](https://open.spotify.com/album/506fHBZgoF2BO7bMdNj0fW) | 4:32 | 2021-12-03 | 2022-02-25 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-01-22 |  |
 | [At Dawning](https://open.spotify.com/track/4JKre2anIXOgrSjvUbqISI) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [At Dawning](https://open.spotify.com/album/05rJBiIt8xuNSjKFLnGPye) | 5:43 | 2021-10-08 | 2022-02-18 |
@@ -274,7 +276,9 @@
 | [Who Could Care?](https://open.spotify.com/track/2TdqT2IBlGFxP8c3AeoX4K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jazz Sax Festival](https://open.spotify.com/album/2RdHPLOMOLhGkCG7mTG7Io) | 4:46 | 2022-11-10 | 2022-11-13 |
 | [Why Did I Choose You](https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [Reminiscing at Rudy's](https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4) | 4:12 | 2022-11-17 |  |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
+| [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2020-10-09 |  |
+| [You Know I Care](https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92) | [Ian Buss](https://open.spotify.com/artist/2lFzhpbs0F8gwsJycYjWsa) | [You Know I Care](https://open.spotify.com/album/4YydQ4MLcVZZLE9deKSQka) | 6:27 | 2023-02-16 |  |
 | [Young and Foolish](https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Moon Mist](https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO) | 5:30 | 2020-10-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

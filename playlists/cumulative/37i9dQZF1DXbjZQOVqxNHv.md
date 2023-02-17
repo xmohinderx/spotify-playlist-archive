@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-522 songs - 2 day 1 hr 5 min
+523 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Fill 3](https://open.spotify.com/track/5anEOvIIqkDMjB1rRjMsST) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 3:43 | 2022-04-13 |  |
 | [Fingerbib](https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:48 | 2022-04-13 | 2023-02-03 |
 | [Five](https://open.spotify.com/track/6Qo2frYWkRURuR04RVHiFx) | [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Gescom EP](https://open.spotify.com/album/3EdxnL4RI26enmFyqMioUT) | 9:59 | 2022-04-13 | 2023-02-04 |
+| [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2022-04-13 |  |
 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-04-13 | 2023-02-03 |
 | [Flutter](https://open.spotify.com/track/3apyTh43wRTveSEGUyECP5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anti](https://open.spotify.com/album/3RdJbIoZIJEG5rZvpxY8a8) | 9:57 | 2022-04-13 | 2023-02-03 |
 | [Focus Mel](https://open.spotify.com/track/6BajnWcXBJLTPUCyBI5sgw) | [Atypic](https://open.spotify.com/artist/135wKLfJ7Vys7jwtHwYzJ8) | [Bytes](https://open.spotify.com/album/2tqE5QepWwrtCwQFj6ZOZP) | 7:12 | 2022-04-13 | 2022-07-27 |
@@ -201,7 +202,7 @@
 | [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 | 2022-04-13 | 2022-07-26 |
 | [Hector's House](https://open.spotify.com/track/72uwGFdnyzQc0AXtOzst5j) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/18nE7bx6O1nC1MGpAYCPJv) | 4:26 | 2022-04-13 |  |
 | [Heidelberger Platz](https://open.spotify.com/track/3jAg0zZ3djLfPJZUg8tqWB) | [Studio Pankow](https://open.spotify.com/artist/2u2gYNDjDWwtkkr2XYVffq) | [Linienbusse](https://open.spotify.com/album/34DqwBqIa0Vkj2RbqvZxge) | 8:27 | 2022-04-13 |  |
-| [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-04-13 |  |
+| [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-04-13 | 2023-02-17 |
 | [Hello Meow](https://open.spotify.com/track/5NiGo2cVctozuCn6jCdtjn) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hello Everything](https://open.spotify.com/album/7wZuW9tw66vgchGn7DNb1n) | 4:31 | 2022-04-13 | 2022-07-21 |
 | [Herr Bar](https://open.spotify.com/track/0XesvWT3fGTXGLO7dUlBlU) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle](https://open.spotify.com/album/04onGeB7bKwWHPPTXAiszV) | 3:54 | 2022-04-13 | 2023-02-03 |
 | [Herr Bar](https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle](https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg) | 3:54 | 2022-04-13 |  |
@@ -355,7 +356,7 @@
 | [Psil\-cosyin](https://open.spotify.com/track/3OTbsxbLdlBLBe20W3BXNW) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 10:34 | 2022-04-13 | 2023-02-02 |
 | [Psych Jack](https://open.spotify.com/track/1D1GnSum5ihOULYX1npWot) | [Sweet Exorcist](https://open.spotify.com/artist/1n5Q0UoYwXeQza7ucLqFne) | [Clonk's Coming](https://open.spotify.com/album/1jCMEehD6WFCTyUBJAxyjN) | 8:32 | 2022-04-13 | 2022-07-09 |
 | [Ptysch](https://open.spotify.com/track/4O4aLip9WicTezGx9Q1mjA) | [Reload & E621](https://open.spotify.com/artist/3emwRTa6tVWyCxLp9uIT0h) | [The Theory of Evolution](https://open.spotify.com/album/7Ackor6DkpwV3p4y7oVtma) | 4:15 | 2022-04-13 | 2022-07-27 |
-| [Questions For Vanmanan](https://open.spotify.com/track/5kyuuIOzrlEAmmg05v4ztV) | [Stasis](https://open.spotify.com/artist/6tiXkM99CrgpKbtWFE072I) | [Past Movements](https://open.spotify.com/album/7sjao90pjdaCztsRqCFmjP) | 4:43 | 2022-04-13 | 2023-02-16 |
+| [Questions For Vanmanan](https://open.spotify.com/track/5kyuuIOzrlEAmmg05v4ztV) | [Stasis](https://open.spotify.com/artist/6tiXkM99CrgpKbtWFE072I) | [Past Movements](https://open.spotify.com/album/7sjao90pjdaCztsRqCFmjP) | 4:43 | 2022-04-13 |  |
 | [Radiance II](https://open.spotify.com/track/5ffEUgoevg4EE2GngfbRVC) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Radiance](https://open.spotify.com/album/2giLDB7DHTHVR1IhYKOu07) | 3:59 | 2022-04-13 |  |
 | [Rae](https://open.spotify.com/track/2sbUONWNTLiZPOpjjh7q3M) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 7:13 | 2022-04-13 |  |
 | [Rae](https://open.spotify.com/track/4tBC5l4AkqYfQ5CCx5IrKm) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 7:13 | 2022-04-13 | 2023-02-02 |
@@ -503,7 +504,7 @@
 | [Water From A Vine Leaf](https://open.spotify.com/track/0yVxhYqGFfwGeZRyqUERWx) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 7:04 | 2022-04-13 |  |
 | [Water From A Vine Leaf](https://open.spotify.com/track/2XyXV61Fvo5ytBLvVRgTbX) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo III](https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew) | 7:05 | 2022-04-13 | 2022-07-29 |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2022-04-13 |  |
-| [Weathered Gate](https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Weathered Well](https://open.spotify.com/album/0hEej2KGxKpMeRZfJa7vUv) | 7:30 | 2022-04-13 |  |
+| [Weathered Gate](https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Weathered Well](https://open.spotify.com/album/0hEej2KGxKpMeRZfJa7vUv) | 7:30 | 2022-04-13 | 2023-02-17 |
 | [Welcome To Europe](https://open.spotify.com/track/06IBaBxYWm6l0UF7CR5irf) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Welcome To Europe](https://open.spotify.com/album/4POvGmdCOn1RedjJRHA4tb) | 4:36 | 2022-04-13 | 2022-07-29 |
 | [Wet Tip Hen Ax](https://open.spotify.com/track/0BHE7cwodOlQ8ctYFK8NzO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:17 | 2022-04-13 | 2022-07-28 |
 | [When Face Was Face](https://open.spotify.com/track/0clXhth0BU2STcyntZqmsc) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:05 | 2022-04-13 | 2022-09-19 |

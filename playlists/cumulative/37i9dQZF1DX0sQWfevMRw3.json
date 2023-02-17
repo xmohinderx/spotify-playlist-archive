@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 121990,
       "name": "BARA EN VANLIG MAN",
       "url": "https://open.spotify.com/track/7L0BcMnlPp2C4xYQSb6I8X"
@@ -760,6 +760,24 @@
       "duration_ms": 206769,
       "name": "Blink 2022",
       "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
+    },
+    {
+      "album": {
+        "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+        "url": "https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141881,
+      "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+      "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
     },
     {
       "album": {
@@ -2070,10 +2088,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 168827,
       "name": "Dum",
       "url": "https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T"
+    },
+    {
+      "album": {
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
     },
     {
       "album": {
@@ -2828,10 +2864,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 180413,
       "name": "Fingrarna i halsen",
       "url": "https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4"
+    },
+    {
+      "album": {
+        "name": "Fingrarna i halsen",
+        "url": "https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Fingrarna i halsen",
+      "url": "https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY"
     },
     {
       "album": {
@@ -3144,6 +3198,28 @@
       "duration_ms": 144000,
       "name": "FUCKED UP",
       "url": "https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI"
+    },
+    {
+      "album": {
+        "name": "FUCKED UP (Hansell Remix)",
+        "url": "https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Hansell",
+          "url": "https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110305,
+      "name": "FUCKED UP - Hansell Remix",
+      "url": "https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO"
     },
     {
       "album": {
@@ -4994,10 +5070,54 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t"
+    },
+    {
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "album": {
+        "name": "KAN INTE G\u00c5",
+        "url": "https://open.spotify.com/album/2VFtadO0PYYNyDZOffACgO"
+      },
+      "artists": [
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        },
+        {
+          "name": "BR\u00d6DERNA",
+          "url": "https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT"
+        },
+        {
+          "name": "Svardh",
+          "url": "https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163068,
+      "name": "KAN INTE G\u00c5",
+      "url": "https://open.spotify.com/track/1zl6Uaza9IGqkoAv5XxCHj"
     },
     {
       "album": {
@@ -5108,6 +5228,28 @@
       "duration_ms": 130302,
       "name": "KN\u00d6X WHITE",
       "url": "https://open.spotify.com/track/3k8M5AGx0L4sfWqhNyZAj7"
+    },
+    {
+      "album": {
+        "name": "Kom och rulla i mitt rullande hus",
+        "url": "https://open.spotify.com/album/6gh9xUtJViqf6FpM0J2DgF"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Kom och rulla i mitt rullande hus",
+      "url": "https://open.spotify.com/track/2Wf26qAnW8SeB2GsXRMITN"
     },
     {
       "album": {
@@ -5772,6 +5914,24 @@
       "duration_ms": 156300,
       "name": "LYCKLIGARE NU",
       "url": "https://open.spotify.com/track/0sbVVcl2SnbYNAsWDPs85K"
+    },
+    {
+      "album": {
+        "name": "L\u00f6rdag hela veckan",
+        "url": "https://open.spotify.com/album/6lpQq3LpNN4XKOJRgoIHPe"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123510,
+      "name": "L\u00f6rdag hela veckan",
+      "url": "https://open.spotify.com/track/6TYMsHDg0k82HmBfN3foub"
     },
     {
       "album": {
@@ -8004,7 +8164,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 128384,
       "name": "SEX MED MIN L\u00c4RARE",
       "url": "https://open.spotify.com/track/2jgF2xVUfNaXDf4w09GyKm"
@@ -9812,7 +9972,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 124500,
       "name": "Tomten k\u00f6r raggarbil",
       "url": "https://open.spotify.com/track/7E2bGr5gdshwub1p2cYRCd"
@@ -10294,7 +10454,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 117433,
       "name": "VI SKA FAKKA UR",
       "url": "https://open.spotify.com/track/1noHDj9wOYZS9ewUtbKN48"

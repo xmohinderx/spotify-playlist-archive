@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "3 singes",
+        "url": "https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "3 singes",
+      "url": "https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7"
+    },
+    {
+      "album": {
         "name": "Le monde est m\u00e9chant",
         "url": "https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2"
       },
@@ -296,6 +318,24 @@
       "duration_ms": 192421,
       "name": "Bitume",
       "url": "https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB"
+    },
+    {
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
     },
     {
       "album": {
@@ -700,7 +740,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 145066,
       "name": "Fais de l'argent",
       "url": "https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb"
@@ -1052,7 +1092,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 169779,
       "name": "Indiana",
       "url": "https://open.spotify.com/track/38g82yE6pxULo8b1S6r4pb"
@@ -1720,6 +1760,28 @@
       "duration_ms": 139000,
       "name": "MAUVAIS PAYEUR",
       "url": "https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk"
+    },
+    {
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193247,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
     },
     {
       "album": {
@@ -2464,7 +2526,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 156862,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8"

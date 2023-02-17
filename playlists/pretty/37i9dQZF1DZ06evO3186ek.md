@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,776 likes - 50 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,939 likes - 50 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Fresh Fire \(feat\. Naomi Raine & Brandon Lake\)](https://open.spotify.com/track/5f3WMePgGGeTilkjlzdCIq) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 7:26 |
 | 50 | [Ruins \(feat\. Joe L\. Barnes & Nate Moore\)](https://open.spotify.com/track/73C4In4b1ICegtmEJIyymj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 4:12 |
 
-Snapshot ID: `Mjc5NDEwNzQsMDAwMDAwMDAzMzZhN2FmODNkZTRjYjI5MWZjZjZiZWI5ZDgwMDM2NA==`
+Snapshot ID: `Mjc5NDI1MzksMDAwMDAwMDBjYzMxYzc1MDllZTkwNjliOGRmYjI3Mzc0MTJkNWVlMw==`

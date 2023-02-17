@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: 2001.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,530 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,542 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 43 | [Hacerme Hacer](https://open.spotify.com/track/0Uq47YTNmdJoVAZJ0kYuDd) | [Veneziola](https://open.spotify.com/artist/1jn08k1rDu36pV7dOSbktm) | [Hacerme Hacer](https://open.spotify.com/album/0Vkh541vieXeWqb2WKXq1N) | 3:25 |
 | 44 | [ALAS](https://open.spotify.com/track/46dFTrR7IGgWoTbcwjatjC) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [Alas](https://open.spotify.com/album/0q2c31QhtrSny4iG6sYL0W) | 2:59 |
 | 45 | [Me he puesto unas alas](https://open.spotify.com/track/6rDiwLTItUG0RQFmbQdJed) | [Leblanc](https://open.spotify.com/artist/25H3Jsd9aQK2MGTtIeNzhQ) | [Me he puesto unas alas](https://open.spotify.com/album/2vj4YwseJztwlM0xW3mQcf) | 3:31 |
-| 46 | [Pidéme un perdón](https://open.spotify.com/track/3UFQHQcgVbKBV6AYGchQH3) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc) | [Pidéme un perdón](https://open.spotify.com/album/7gyScq2Xv0w3TQjnVxYGkv) | 4:46 |
+| 46 | [Pidéme un perdón](https://open.spotify.com/track/3UFQHQcgVbKBV6AYGchQH3) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc), [EYÉN](https://open.spotify.com/artist/1YvrNIKYZRIEcJGfPWhMWi) | [Pidéme un perdón](https://open.spotify.com/album/7gyScq2Xv0w3TQjnVxYGkv) | 4:46 |
 | 47 | [Casino](https://open.spotify.com/track/4ezu1njO7VtPQuxNC9vlb9) | [Eira](https://open.spotify.com/artist/2Wxv0u0QvT9nBcdRxv6G9v) | [Casino](https://open.spotify.com/album/57LxNk5DGtcFOc8BtCN5LT) | 4:24 |
 | 48 | [Demasiada velocidad](https://open.spotify.com/track/3DvtwdsEPyu2Cqz4IPbKxP) | [Maīa](https://open.spotify.com/artist/3DcBIxPLJt5OOCsATJe4qB) | [Demasiada velocidad](https://open.spotify.com/album/7EItaNyfMy1wLgFxCVghbZ) | 3:19 |
 | 49 | [Bien](https://open.spotify.com/track/1mK9d6riNWxkA0V2pHiLK8) | [Niños Luchando](https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl) | [Bien](https://open.spotify.com/album/4td5f6STl6jexGxkFvvy4t) | 3:26 |

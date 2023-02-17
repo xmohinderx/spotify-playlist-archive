@@ -4,7 +4,7 @@
 
 > Napoli e il meglio della scena campana\. Geolier in cover.
 
-155 songs - 7 hr 21 min
+156 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bye Bye](https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Bye Bye](https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U) | 2:18 | 2022-05-10 | 2022-07-29 |
 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 | 2022-05-10 |  |
 | [CAGN MARCIA](https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [CAGN MARCIA](https://open.spotify.com/album/6UUanP6HccbSotdKp4IzZd) | 2:24 | 2022-06-02 | 2022-07-22 |
+| [CASA](https://open.spotify.com/track/784PuweP1uBDeceqFT8AHA) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [CASA](https://open.spotify.com/album/3VSRWQTsItHPbE6t1dmJVI) | 2:26 | 2023-02-16 |  |
 | [Catene \(feat\. Vale Pain\)](https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:49 | 2022-05-10 | 2022-07-29 |
 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 | 2023-02-09 |  |
 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 | 2022-09-15 | 2022-10-14 |

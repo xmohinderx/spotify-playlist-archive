@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-92 songs - 5 hr 14 min
+93 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-05-22 |  |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-22 |  |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/1UZdvZuUVkRNdRWFcBmjaQ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:02 | 2022-09-06 |  |
+| [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/album/70wZqV2TqpWbhVisqt27Ex) | 4:44 | 2023-02-16 |  |
 | [Set You Free](https://open.spotify.com/track/2uHfd1rAFd9ZhAXSFS7KqW) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:26 | 2022-09-06 |  |
 | [SHADOW](https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:12 | 2022-05-22 |  |
 | [SHINING STARS](https://open.spotify.com/track/03zPSjqUGeGKCSbNoQJBqd) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:47 | 2022-05-22 |  |

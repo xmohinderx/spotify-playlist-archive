@@ -1,12 +1,12 @@
 {
   "description": "In your bag. Cover: The Kid Laroi",
-  "num_followers": 1444191,
+  "num_followers": 1444723,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGJmY2I3NDYwM2EwYTNkN2RlZjIyZmU0NWYzM2Y5OTI3",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGY2MjUwNTM3NWI0MDllYWQxY2YxNjg1NmJjNWEyYmUw",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "NUMB",
         "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 112500,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -635,38 +635,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 216000,
       "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
       "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 119371,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "God Mom",
@@ -975,6 +959,22 @@
       "duration_ms": 123200,
       "name": "North Star",
       "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 119371,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Not a Home",
-        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Not a Home",
-      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Can't Love Myself",
         "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 122723,
       "name": "Can't Love Myself",
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Not a Home",
+        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Not a Home",
+      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
+      },
+      "artists": [
+        {
+          "name": "Papithbk",
+          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
+        }
+      ],
+      "duration_ms": 150702,
+      "name": "Sad Nibba Hours",
+      "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Outta Time",
         "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
-      },
-      "artists": [
-        {
-          "name": "Papithbk",
-          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
-        }
-      ],
-      "duration_ms": 150702,
-      "name": "Sad Nibba Hours",
-      "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
     },
     {
       "added_at": "2023-01-20 05:00:00",

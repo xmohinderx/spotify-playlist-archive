@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Das Sch\u00f6nste",
+        "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96693,
+      "name": "Das Sch\u00f6nste",
+      "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
+    },
+    {
+      "album": {
         "name": "MANN MIT DER BRILLE",
         "url": "https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 144076,
       "name": "Der neue Stil meiner Generation",
       "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 192491,
       "name": "Devil Is A Woman",
       "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 231708,
       "name": "I Would Be Rich",
       "url": "https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q"
@@ -2239,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Running Round",
+        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Running Round",
+      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
+    },
+    {
+      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e"
       },
@@ -3114,6 +3150,28 @@
       "duration_ms": 219298,
       "name": "What If the Dead Dream",
       "url": "https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr"
+    },
+    {
+      "album": {
+        "name": "You Problem",
+        "url": "https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        },
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181889,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
     },
     {
       "album": {

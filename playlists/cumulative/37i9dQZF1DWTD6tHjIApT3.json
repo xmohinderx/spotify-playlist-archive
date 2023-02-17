@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 211786,
       "name": "BE ME",
       "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 262000,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux"
@@ -7137,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "NEO\u6642\u3092\u304b\u3051\u308b\u5c11\u5973",
+        "url": "https://open.spotify.com/album/6Lu2olLkfVkUJZxlo3grQh"
+      },
+      "artists": [
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153625,
+      "name": "NEO\u6642\u3092\u304b\u3051\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/7wDSjOaAfSwyQz4fpjc4He"
+    },
+    {
+      "album": {
         "name": "Never Fear",
         "url": "https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N"
       },
@@ -9250,6 +9268,24 @@
       "duration_ms": 244878,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/45JH44gpL0dGC0Vybv954W"
+    },
+    {
+      "album": {
+        "name": "Spark",
+        "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3"
     },
     {
       "album": {
@@ -18463,6 +18499,28 @@
     },
     {
       "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03a9",
+        "url": "https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327001,
+      "name": "\u661f\u306e\u30af\u30ba \u03a9",
+      "url": "https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc"
+    },
+    {
+      "album": {
         "name": "\u661f\u5c51\u30c9\u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc"
       },
@@ -20078,7 +20136,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 248809,
       "name": "\u82b1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
@@ -20154,7 +20212,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 271889,
       "name": "\u82b1\u706b",
       "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
@@ -20798,7 +20856,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 147437,
       "name": "\u96e8\u6a21\u69d8",
       "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"

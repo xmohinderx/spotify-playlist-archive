@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: The Heavenly Idol \(성스러운 아이돌\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,539 likes - 109 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,648 likes - 109 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 78 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 79 | [1second 1minute 1hour \(Something Between Us X 2am\)](https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [1second 1minute 1hour \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/0kvfmlPE9ZmDt5gazP1jsG) | 3:36 |
 | 80 | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 |
-| 81 | [모든 밤 너에게](https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP) | [Minhyun](https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs) | [모든 밤 너에게 \(웹툰 '연애혁명'\) \[Original Soundtrack\]](https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc) | 3:14 |
+| 81 | [모든 밤 너에게](https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP) | [Minhyun](https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs) | [모든 밤 너에게 \(From "연애혁명"\) \[Soundtrack\]](https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc) | 3:14 |
 | 82 | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2uLI89pW1DWuduHzqjTqQs) | 3:07 |
 | 83 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
 | 84 | [Never Loved This Way Before](https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Never Loved This Way Before \(From “Odd Girl Out” \[Original Soundtrack\]\)](https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG) | 4:19 |

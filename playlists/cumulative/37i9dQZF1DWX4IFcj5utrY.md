@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe Cover: <a href="https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt?si=SwBzz0kwT5CI2F2HYKLuMw">TiMO ODV</a>
 
-710 songs - 2 day 19 hr 55 min
+711 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [We Deserve To Dream](https://open.spotify.com/track/2IsAQ0jG5kfDTNuKGhSLC6) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [We Deserve To Dream](https://open.spotify.com/album/5lhGLu6ggkllVThRXsFxMI) | 3:32 | 2022-11-17 | 2022-12-09 |
 | [We Get Deep](https://open.spotify.com/track/5WIJ5QIdWvcgJx5TncBxvo) | [Hartley](https://open.spotify.com/artist/6EO4hcmWj2ZAAZ4Vb9eHlc) | [We Get Deep](https://open.spotify.com/album/1XKrn1fyc6v3QDd5nfF59E) | 7:01 | 2022-02-03 | 2022-02-26 |
 | [We Here To Stay](https://open.spotify.com/track/6bQcDKEMFB0s7CRhnFsoK0) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt), [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [We Here To Stay](https://open.spotify.com/album/0KQw9FxgEPvZ0wxrIK1FRm) | 3:42 | 2022-11-17 | 2022-12-02 |
+| [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-10 |  |
 | [Weekend Special \(with Brenda Fassie\) \- Shimza Remix Edit](https://open.spotify.com/track/1MkPykZ3pYXdjaz5PwjAQE) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Weekend Special](https://open.spotify.com/album/4kMkz62CkGCUVGoPzv0hJP) | 4:00 | 2022-03-17 | 2022-07-29 |
 | [Weh Baba](https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Weh Baba](https://open.spotify.com/album/6AZ2kzZBVysJtcXIbmzjOg) | 7:18 | 2022-07-14 | 2022-08-06 |
 | [Weightless](https://open.spotify.com/track/6Yyc3cLPhSRSVk5cLye73k) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Weightless](https://open.spotify.com/album/1MPFnPHuqgkUASIVwOEvAA) | 6:02 | 2022-06-17 | 2022-11-01 |

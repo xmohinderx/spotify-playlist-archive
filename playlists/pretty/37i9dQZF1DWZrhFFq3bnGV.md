@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Ivan Tangkulung, Gerald Situmorang
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,261 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,283 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 10 | [Sangfroid](https://open.spotify.com/track/7tng7M3wHsQSLBslv2i9Nd) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Sangfroid](https://open.spotify.com/album/6jnZR9Unzi708wR0T3vMHe) | 5:00 |
 | 11 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 |
 | 12 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 |
-| 13 | [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 |
+| 13 | [Irene](https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/3mogJhxm0wmeZkZEEZfWzK) | 2:13 |
 | 14 | [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 |
 | 15 | [Little Bit Simple \- Instrumental Version](https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r) | [Little Bit Simple \(Instrumental Version\)](https://open.spotify.com/album/3dYqureVrHc38jE6m4EqRH) | 3:17 |
 | 16 | [Propulsion](https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Propulsion](https://open.spotify.com/album/51ZCUc5WzCZWOU9XG2fbEk) | 4:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 74 | [Would You Be Mine](https://open.spotify.com/track/7pJBJRbkvwHvrsNwss0Z8I) | [Kevin Yosua](https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Elfa Zulham](https://open.spotify.com/artist/48uVjt6LfI2I0yI8QLXG0H), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p) | [Would You Be Mine](https://open.spotify.com/album/7rEKGX1ZcmvYBfrd1ghw8t) | 7:49 |
 | 75 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 
-Snapshot ID: `MTY3NTk0NjI0MywwMDAwMDAwMDZiMWVkOGU3ODYwYzMyYzM5ZDdjZWQyNzkxZTBiNjFi`
+Snapshot ID: `MTY3NTk0NjI0MywwMDAwMDAwMDM5YWU0YTU2YjZlYThkMTZiYTIxNGYxZWE1ZGFiYTFi`

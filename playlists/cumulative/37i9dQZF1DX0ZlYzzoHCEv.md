@@ -2,7 +2,7 @@
 
 ### [la mia testa:](https://open.spotify.com/playlist/37i9dQZF1DX0ZlYzzoHCEv)
 
-> \#corecore ma è una playlist
+> musica per quando non sai insomma come
 
 278 songs - 13 hr 2 min
 
@@ -192,7 +192,7 @@
 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 | 2022-05-06 | 2022-11-08 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-20 |  |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-06-24 | 2022-07-21 |
-| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-13 |  |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-13 | 2023-02-17 |
 | [POLKA](https://open.spotify.com/track/20jG7WodtS52iOnWyGE1l4) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [POLKA](https://open.spotify.com/album/4TZVKcYNqGT4Yz4oKWU1I2) | 2:50 | 2022-05-06 | 2022-07-29 |
 | [POLKA 3](https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [POLKA 3](https://open.spotify.com/album/01FptTpR6L414vPn4r6FKn) | 2:40 | 2022-06-03 | 2022-08-24 |
 | [Pop porno](https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO) | [Il Genio](https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d) | [Il Genio \[Deluxe Edition\]](https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he) | 3:17 | 2022-05-06 | 2022-07-11 |
@@ -262,7 +262,7 @@
 | [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 | 2023-02-08 | 2023-02-15 |
 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2022-05-12 | 2022-08-17 |
 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 | 2022-05-16 | 2022-05-21 |
-| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-06-01 | 2023-02-12 |
+| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-06-01 |  |
 | [Tu Nun O Saje](https://open.spotify.com/track/7fo7szLQ8sjka2hcCDflCg) | [Jhosef](https://open.spotify.com/artist/2NgiCWAA08SvVNRM4SMwW9) | [Tu Nun O Saje](https://open.spotify.com/album/2DvwQaUHBfrtmNP6YAyERo) | 3:13 | 2022-07-15 | 2022-07-26 |
 | [Tu Tu Tu...Ta Ta Ta](https://open.spotify.com/track/0kw42FWmuht5aB2eJf5pWn) | [Kekko Dany](https://open.spotify.com/artist/0fU46K9ujY686VZbm2LjX9) | [Tu Tu Tu...Ta Ta Ta](https://open.spotify.com/album/4YwZswZvv8WBydOeKPkPMa) | 3:09 | 2022-05-06 | 2022-07-12 |
 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 | 2022-12-09 |  |

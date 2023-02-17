@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "Make Waves",
+        "url": "https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM"
+      },
+      "artists": [
+        {
+          "name": "ReauBeau",
+          "url": "https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND"
+        },
+        {
+          "name": "Brynja Mary",
+          "url": "https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189137,
+      "name": "Make Waves",
+      "url": "https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c"
+    },
+    {
+      "album": {
         "name": "MATAFAKA",
         "url": "https://open.spotify.com/album/6Meqo4cySmYW0tYBMvpACy"
       },

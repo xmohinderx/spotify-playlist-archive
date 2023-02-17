@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Saint Harison & Tiana Major9
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,306,934 likes - 131 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,154 likes - 131 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

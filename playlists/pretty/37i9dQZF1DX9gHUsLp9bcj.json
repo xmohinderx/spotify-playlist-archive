@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 17635,
+  "num_followers": 17659,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMjI1NywwMDAwMDAwMGE0YTEwZTc5NTgxY2M0ZDhiYjM4MjdhM2Q4NjAzMTRl",
+  "snapshot_id": "MTY2MTkzMjI1NywwMDAwMDAwMDU1YjI4MjNmMTI1Mzk4ZThjMDVlYmMwMzQ2MjlmYjUy",
   "tracks": [
     {
       "added_at": "2022-08-31 07:50:57",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Mexican Love Songs",
-        "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Vaya Con Dios",
-      "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
         "name": "Como Acostumbras",
         "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 168866,
       "name": "Luna de miel",
       "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "Mexican Love Songs",
+        "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Vaya Con Dios",
+      "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
     },
     {
       "added_at": "2022-08-31 07:50:57",

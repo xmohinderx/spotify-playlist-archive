@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Central Cee)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Polo G, Future)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 170701,
       "name": "Ain't On None (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
@@ -1016,6 +1016,28 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+    },
+    {
+      "album": {
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "album": {
@@ -2592,6 +2614,28 @@
       "duration_ms": 140600,
       "name": "Big Pussy",
       "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
+    },
+    {
+      "album": {
+        "name": "Big Shot Cream Soda",
+        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Big Shot Cream Soda",
+      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
     },
     {
       "album": {
@@ -4453,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX"
+    },
+    {
+      "album": {
         "name": "CODE (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
       },
@@ -4866,6 +4928,40 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS (Villains Version)",
+        "url": "https://open.spotify.com/album/3IBGIboTPEQqWOYW04lwtg"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360453,
+      "name": "Creepin' (with The Weeknd & 21 Savage) - ChoppedNotSlopped",
+      "url": "https://open.spotify.com/track/067yehfYP7HD99fzRx5yOz"
     },
     {
       "album": {
@@ -5742,6 +5838,24 @@
       "duration_ms": 147391,
       "name": "Do Dat At (feat. Erica Banks)",
       "url": "https://open.spotify.com/track/0f4yC0DaWK00N7Fj01SZaU"
+    },
+    {
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "album": {
@@ -7289,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Games Women Play",
+        "url": "https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169692,
+      "name": "Games Women Play",
+      "url": "https://open.spotify.com/track/4XwVObmSna9zn4hOtWrptC"
+    },
+    {
+      "album": {
         "name": "GANANIKA",
         "url": "https://open.spotify.com/album/7c9L6pZZxpWYYW19Um95Ul"
       },
@@ -8711,6 +8843,32 @@
     },
     {
       "album": {
+        "name": "HO4ME",
+        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235711,
+      "name": "HO4ME",
+      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
+      "album": {
         "name": "Hoe Games",
         "url": "https://open.spotify.com/album/2epv0TAzQYGZ0LhLACKItq"
       },
@@ -8856,6 +9014,24 @@
       "duration_ms": 263893,
       "name": "HOP ON THE TRUCK (Prod. Padi)",
       "url": "https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe"
+    },
+    {
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "album": {
@@ -10491,6 +10667,28 @@
     },
     {
       "album": {
+        "name": "Koalified",
+        "url": "https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi"
+      },
+      "artists": [
+        {
+          "name": "\ucf54\uc54c\ub77c KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "Koalified",
+      "url": "https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM"
+    },
+    {
+      "album": {
         "name": "Kook BBong",
         "url": "https://open.spotify.com/album/29RERh1QBxWOqf5kpl8G5b"
       },
@@ -10524,6 +10722,28 @@
       "duration_ms": 185514,
       "name": "Koubou - Shiroi Enban Series [No.4] -",
       "url": "https://open.spotify.com/track/3fQMl83Je3mo73zyJz20K3"
+    },
+    {
+      "album": {
+        "name": "KUSENINARU",
+        "url": "https://open.spotify.com/album/0qlxMNfpJFDbWnPBsxuxuI"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        },
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206392,
+      "name": "KUSENINARU",
+      "url": "https://open.spotify.com/track/0PqYyAaYsokYAhZDdf9B7M"
     },
     {
       "album": {
@@ -11205,6 +11425,28 @@
     },
     {
       "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/0PAyIddobjqAOBSoScnTr5"
       },
@@ -11446,7 +11688,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
@@ -12999,6 +13241,28 @@
     },
     {
       "album": {
+        "name": "No 808\u2019s (feat. Vory)",
+        "url": "https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "No 808\u2019s (feat. Vory)",
+      "url": "https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ"
+    },
+    {
+      "album": {
         "name": "no bad vibes",
         "url": "https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn"
       },
@@ -13300,6 +13564,28 @@
       "duration_ms": 233990,
       "name": "NO REGULAR",
       "url": "https://open.spotify.com/track/2kBjBpwus0kuUb5YuuLmNg"
+    },
+    {
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "album": {
@@ -14602,7 +14888,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 160000,
       "name": "Pew Pew",
       "url": "https://open.spotify.com/track/7b4LMdMrjPLNUNwxO46sQR"
@@ -15390,7 +15676,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 159452,
       "name": "PUT YOU ON GAME",
       "url": "https://open.spotify.com/track/31UEIDEnR72bsUiavstcof"
@@ -16999,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "SLIDE",
+        "url": "https://open.spotify.com/album/7ASEKgcGL4UUFArYgUXiXk"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "SLIDE",
+      "url": "https://open.spotify.com/track/3mxTCFQ5GCAvhkFBt1lJPb"
+    },
+    {
+      "album": {
         "name": "Drop The Bit The 3rd round Pt. 1",
         "url": "https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX"
       },
@@ -18279,6 +18583,32 @@
     },
     {
       "album": {
+        "name": "Supa Ties (feat. DJ Khaled & Raw Youngin)",
+        "url": "https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Raw Youngin",
+          "url": "https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Supa Ties (feat. DJ Khaled & Raw Youngin)",
+      "url": "https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R"
+    },
+    {
+      "album": {
         "name": "Queen Radio: Volume 1",
         "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
       },
@@ -19142,7 +19472,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
@@ -20198,6 +20528,28 @@
       "duration_ms": 206000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye"
+    },
+    {
+      "album": {
+        "name": "Trust You?",
+        "url": "https://open.spotify.com/album/6pO6g3kn3N1EaYVzfh9uqO"
+      },
+      "artists": [
+        {
+          "name": "Wafi!",
+          "url": "https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB"
+        },
+        {
+          "name": "Lil MXRC",
+          "url": "https://open.spotify.com/artist/7H8nPZdVHPnxiiULnoAMi1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175328,
+      "name": "Trust You?",
+      "url": "https://open.spotify.com/track/31KnyGirZe28rK5t6zk2H0"
     },
     {
       "album": {
@@ -22034,6 +22386,24 @@
       "duration_ms": 174606,
       "name": "\u4ed6\u5011\u6839\u672c\u4e0d\u662fRapper",
       "url": "https://open.spotify.com/track/29q8C4zRMBq9LHG14g7LSg"
+    },
+    {
+      "album": {
+        "name": "\u795e\u96b1 Spirited Away",
+        "url": "https://open.spotify.com/album/1QBYvPKErLnUu7IMKELNM0"
+      },
+      "artists": [
+        {
+          "name": "YoungQueenz",
+          "url": "https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257297,
+      "name": "\u544a\u767d",
+      "url": "https://open.spotify.com/track/4gHWdc98Jgtb9C9muv6MCq"
     },
     {
       "album": {

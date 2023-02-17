@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,903 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,040 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 55 | [Come What May \(Spanish/English Version\)](https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Come What May \(Spanish/English Version\)](https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy) | 3:24 |
 | 56 | [Asombro](https://open.spotify.com/track/57x9Y425t8s3l6mIx2yGMl) | [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c) | [Asombro](https://open.spotify.com/album/2mOcfvzGSO4jelDXFhL35I) | 4:41 |
 | 57 | [Lo Volvería A Hacer \(feat\. Grilex\)](https://open.spotify.com/track/0HPKcGVJgcCOOiWZ3N9QpZ) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Grilex](https://open.spotify.com/artist/5jViV3w4fYOGcMSPYJ7AR8) | [Lo Volvería A Hacer \(feat\. Grilex\)](https://open.spotify.com/album/105Pb9j0NYKUeeLLn2yEtX) | 3:28 |
-| 58 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
+| 58 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 | 59 | [Tu Estabas Aquí feat\. Halogena](https://open.spotify.com/track/5KwLXpjsHHttXnMEhPS0Cl) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Tu Estabas Aquí](https://open.spotify.com/album/2Xazt8vUvFBdbQTeXVJm5V) | 4:08 |
 | 60 | [Te Necesito \(Remix\)](https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u) | [Samuel Adorno](https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Te Necesito \(Remix\)](https://open.spotify.com/album/7JtlXGjAvs41d2cQ6jfhMz) | 5:16 |
 | 61 | [Fluyo](https://open.spotify.com/track/5HQC0yFMbkWkVOHDo7Fp5D) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [El Final de Mis Sueños \(Deluxe Edition\)](https://open.spotify.com/album/6HpIEPXTw50KYK0DsrYiXb) | 4:16 |

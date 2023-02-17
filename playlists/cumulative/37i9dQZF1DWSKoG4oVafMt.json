@@ -4095,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Do Gabru - Jassi Gill & Amrit Maan",
+        "url": "https://open.spotify.com/album/4NA7IQDtm526DqzmqxWiZr"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Guitar Sikhda",
+      "url": "https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK"
+    },
+    {
+      "album": {
         "name": "Gulab (From \"Teri Meri Gal Ban Gayi\")",
         "url": "https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6"
       },
@@ -6907,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Last Love",
+        "url": "https://open.spotify.com/album/5RdGabhTm8Q4X2FNRaLKCg"
+      },
+      "artists": [
+        {
+          "name": "Babbal Rai",
+          "url": "https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59325,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/5VfiTJFLB1wNrVy7bXhiso"
+    },
+    {
+      "album": {
         "name": "Laung Laachi 2 (Title song from the movie 'Laung Laachi 2')",
         "url": "https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE"
       },
@@ -8632,7 +8668,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 216328,
       "name": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3"

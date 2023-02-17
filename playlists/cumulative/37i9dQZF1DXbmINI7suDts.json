@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 244285,
       "name": "Mukama Yamba",
       "url": "https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE"
@@ -1155,6 +1155,28 @@
     },
     {
       "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "REALLY NEED",
+      "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
+    },
+    {
+      "album": {
         "name": "Sema",
         "url": "https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv"
       },
@@ -1228,7 +1250,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 173400,
       "name": "Sing For You - Acoustic version",
       "url": "https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE"
@@ -1250,6 +1272,28 @@
       "duration_ms": 238888,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
+      "album": {
+        "name": "Ssemusajja",
+        "url": "https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        },
+        {
+          "name": "Sandra Nankoma",
+          "url": "https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Ssemusajja",
+      "url": "https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY"
     },
     {
       "album": {

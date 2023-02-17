@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-522 songs - 1 day 9 hr 19 min
+523 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
 | [BLESSLESS](https://open.spotify.com/track/1LYGHz2dPrAEsQqizcJRlP) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [BLESSLESS](https://open.spotify.com/album/7GXg1ReGoputlT97XmOyvz) | 4:30 | 2022-06-23 | 2022-07-27 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2022-09-07 |
+| [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-16 |  |
 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2022-12-20 | 2023-01-11 |
 | [Blue Velvet \- from CrosSing](https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- from CrosSing](https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh) | 3:54 | 2022-12-20 | 2022-12-22 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-10 |  |
@@ -51,7 +52,7 @@
 | [buddy](https://open.spotify.com/track/0LHtfCDgLj6iaTLVWg7dnl) | [Amber’s](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [buddy](https://open.spotify.com/album/4fpXr9KaCTMvBiBt7OyGHw) | 4:05 | 2023-01-05 |  |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 | 2022-10-25 | 2022-12-24 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/6L4HbL7C0cCMHAdEKCHux2) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/7BV3D6bYqrgCq7S4WYDG3x) | 3:37 | 2022-10-25 | 2022-10-27 |
-| [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 |  |
+| [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 | 2023-02-17 |
 | [CATASTROPHE](https://open.spotify.com/track/5wgziZ1krirNMLNKMtMFZ2) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [CATASTROPHE](https://open.spotify.com/album/7GRXPolx9dmEZjEcqvfl1n) | 4:03 | 2022-10-04 | 2022-11-16 |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-11 | 2023-01-04 |
 | [Change The World](https://open.spotify.com/track/6ORojE1mIunpU7panh9gkC) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Change The World](https://open.spotify.com/album/0bs719jNPlNTXKWUIULyET) | 3:47 | 2022-10-04 | 2022-11-25 |
@@ -513,7 +514,7 @@
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 | 2023-01-02 |
 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 | 2022-08-16 | 2022-10-04 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
-| [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [緒方恵美](https://open.spotify.com/artist/3iWEXjM1gU5lpPuRYgpNwt) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 | 2023-02-14 |  |
+| [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 | 2023-02-14 |  |
 | [逆夢 \- from CrosSing](https://open.spotify.com/track/2L7GfBtcqYStaTsFsNuOKB) | [林勇](https://open.spotify.com/artist/2KZLtHl1A7glIn5t1XSNJu) | [逆夢 \- from CrosSing](https://open.spotify.com/album/4KvtLvYdmW2i2vcvX0jxZM) | 5:09 | 2022-07-12 | 2022-07-27 |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-02 | 2022-12-07 |
 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 | 2022-10-18 | 2022-11-30 |

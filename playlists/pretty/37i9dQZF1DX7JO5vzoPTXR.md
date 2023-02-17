@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD?si=a352fb1bc4b74e04&nd=1">DAMOYEE</a> and <a href="https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq?si=fe7b538330f14d0e&nd=1">Annie Elise.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,999 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,017 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 20 | [Mine](https://open.spotify.com/track/6K5VxMzyMxdpwvVdASQHP9) | [Samantha Margret](https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN) | [Mine // Negative Space](https://open.spotify.com/album/524QS0BxtFwSTnImwOziGp) | 3:50 |
 | 21 | [Belle](https://open.spotify.com/track/02MJ7tsWDTcZSADrruVhIV) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Belle](https://open.spotify.com/album/3g5nDsYn2YjfR37RPYSVzG) | 2:38 |
 | 22 | [Hirondelle](https://open.spotify.com/track/4xtzE5kzhF6gpFVNY4st72) | [Marina Trench](https://open.spotify.com/artist/4To1nBGVwlcmCjjufU2lJB) | [Imperméable en été](https://open.spotify.com/album/6WWhOo12Jj5bvYxaAPyOms) | 3:26 |
-| 23 | [Janet](https://open.spotify.com/track/4Y0yAO6DcYUV50EOCCfAC0) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/0OasFehLRjqwOTEGucQtef) | 1:55 |
+| 23 | [Janet](https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80) | 1:55 |
 | 24 | [WANNABES](https://open.spotify.com/track/6DDuv2JaSS3jDzdfukIK2m) | [LYRE](https://open.spotify.com/artist/46S6CEd6SMOZ2vjl6s2KjK) | [WANNABES](https://open.spotify.com/album/2qbCVMPZYo3zobVhBpZKXL) | 2:35 |
 | 25 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [Sofia Isella](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 |
 | 26 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Pieces of Us](https://open.spotify.com/track/40C4qzkk9D02wwTtCoe3HI) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Pieces of Us](https://open.spotify.com/album/5s85YliyLqpolbvGqn6LJa) | 2:28 |
 | 40 | [you'd never know \- acoustic](https://open.spotify.com/track/638KGLHjhYK82pTKXxkyFg) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts \(acoustic\)](https://open.spotify.com/album/3nOUlqhIqt9B7ztNefbqvA) | 3:06 |
 
-Snapshot ID: `MTY3NTI4MzMxNCwwMDAwMDAwMDRlNzMzYjY1Mzk5Y2U5NjQwY2NkOGM5YjBjYjU5NmIz`
+Snapshot ID: `MTY3NTI4MzMxNCwwMDAwMDAwMGJmM2VlYTA1Yzc1Mzk2NmYxMDUxYmFjZWJkMzJlMzU0`

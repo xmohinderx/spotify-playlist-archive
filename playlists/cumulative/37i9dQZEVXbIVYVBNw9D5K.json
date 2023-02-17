@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "Garezi Var",
       "url": "https://open.spotify.com/track/7fff6o1t622eIKOAOcQA8T"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 141860,
       "name": "HAYIR",
       "url": "https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW"
@@ -8134,7 +8134,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 169419,
       "name": "Olmazlara \u0130nat",
       "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
@@ -10974,6 +10974,24 @@
       "duration_ms": 232088,
       "name": "Yand\u0131rd\u0131n Beni",
       "url": "https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs"
+    },
+    {
+      "album": {
+        "name": "Yanl\u0131\u015f",
+        "url": "https://open.spotify.com/album/7F5XFNNcmntqkZ7gAvEgqi"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Yanl\u0131\u015f",
+      "url": "https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa"
     },
     {
       "album": {

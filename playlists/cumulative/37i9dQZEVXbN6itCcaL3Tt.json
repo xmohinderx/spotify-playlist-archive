@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "A&W",
+        "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 156585,
       "name": "BIERNIK (kogo? co?)",
       "url": "https://open.spotify.com/track/2nGA88iGanJ3rkDaWXQLyv"
@@ -5278,7 +5296,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 167058,
       "name": "Doja Cat",
       "url": "https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA"
@@ -7612,6 +7630,24 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+    },
+    {
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
     },
     {
       "album": {
@@ -12099,6 +12135,32 @@
     },
     {
       "album": {
+        "name": "Moonrock",
+        "url": "https://open.spotify.com/album/6yAjUB6YzKf8UGic2LO0pC"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152967,
+      "name": "Moonrock",
+      "url": "https://open.spotify.com/track/0wjEqyMMRTiC5He6tSkyAN"
+    },
+    {
+      "album": {
         "name": "OIO",
         "url": "https://open.spotify.com/album/17ogXGc4j4i2r7rwWea0KS"
       },
@@ -14998,7 +15060,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -16632,7 +16694,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 215454,
       "name": "Przyp\u0142yw",
       "url": "https://open.spotify.com/track/0sO777EtfmMVFQ3RdBPfhZ"
@@ -19865,6 +19927,32 @@
     },
     {
       "album": {
+        "name": "TW\u00d3J WZROK",
+        "url": "https://open.spotify.com/album/3erTapSt7iQVCYCCSpt2VS"
+      },
+      "artists": [
+        {
+          "name": "GENZIE",
+          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
+        },
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188347,
+      "name": "TW\u00d3J WZROK",
+      "url": "https://open.spotify.com/track/4AqDNYLDdAUkLp57vzBtLz"
+    },
+    {
+      "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
       },
@@ -20558,7 +20646,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 171426,
       "name": "WEEKEND 2115",
       "url": "https://open.spotify.com/track/6Jwix2f7lMMhN1TKsDiL5c"
@@ -20690,6 +20778,28 @@
       "duration_ms": 139920,
       "name": "Wiatr wielkich zmian",
       "url": "https://open.spotify.com/track/5VqQwZyDMgNqn638j2D3jJ"
+    },
+    {
+      "album": {
+        "name": "Wilk",
+        "url": "https://open.spotify.com/album/5WQQTgkSQfeGAuBCmLAalW"
+      },
+      "artists": [
+        {
+          "name": "Kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178646,
+      "name": "Wilk",
+      "url": "https://open.spotify.com/track/7BbevaoLOiawADOnsWRq9B"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS"
@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Let Go (Sped Up)",
+        "url": "https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9"
+      },
+      "artists": [
+        {
+          "name": "Ark Patrol",
+          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "Let Go - Nightcore",
+      "url": "https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu"
+    },
+    {
+      "album": {
         "name": "Lights (Sped Up Version)",
         "url": "https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR"
       },
@@ -1799,7 +1817,7 @@
     },
     {
       "album": {
-        "name": "Memories (Conan Gray) - Sped Up Version",
+        "name": "Memories - Sped Up",
         "url": "https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S"
       },
       "artists": [
@@ -1812,7 +1830,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215980,
-      "name": "Memories (Conan Gray) - Sped Up Version",
+      "name": "Memories - Sped Up",
       "url": "https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac"
     },
     {
@@ -2103,7 +2121,7 @@
     },
     {
       "album": {
-        "name": "One Kiss (Dua Lipa) - Sped Up Version",
+        "name": "One Kiss - Sped Up",
         "url": "https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM"
       },
       "artists": [
@@ -2116,7 +2134,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163317,
-      "name": "One Kiss (Dua Lipa) - Sped Up Version",
+      "name": "One Kiss - Sped Up",
       "url": "https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN"
     },
     {
@@ -3201,7 +3219,7 @@
     },
     {
       "album": {
-        "name": "Woo (Rihanna) - Sped Up Version",
+        "name": "Woo - Sped Up",
         "url": "https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap"
       },
       "artists": [
@@ -3214,7 +3232,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183484,
-      "name": "Woo (Rihanna) - Sped Up Version",
+      "name": "Woo - Sped Up",
       "url": "https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l"
     },
     {

@@ -4,7 +4,7 @@
 
 > Mc Danny ein!!! NÃO CONFUNDA
 
-220 songs - 10 hr 6 min
+221 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/track/0EMAzKGOFxJgG9vHsm7ciF) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd) | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/album/1hGF2T38nY17dxGWZ0e1QQ) | 2:53 | 2022-05-26 | 2022-07-29 |
 | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/track/78g5lnALTioTYBjkyxmvlJ) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd) | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/album/1KfEJhSwMWfx4QpQLuK3IA) | 2:53 | 2022-07-28 |  |
 | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/track/5vOLqik7QlFD5eq3otyXBm) | [Dj Mt Oliveira](https://open.spotify.com/artist/5h9joM2EsxToLaDG7XZM8M), [Mc Alysson](https://open.spotify.com/artist/6j2S2PjYFjQdge0HPc4IRK) | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/album/5yztPdm5Kb6eYDGoj2Q7an) | 2:16 | 2022-11-07 |  |
-| [Evoque Prata](https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE) | 1:47 | 2022-11-07 |  |
+| [Evoque Prata](https://open.spotify.com/track/0bBwi6ddYeTv5fXgHAdfiH) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/5lvH0uC0dJxie3qMtGuawa) | 1:47 | 2023-02-16 |  |
+| [Evoque Prata](https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE) | 1:47 | 2022-11-07 | 2023-02-17 |
 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 | 2022-05-26 | 2023-01-19 |
 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 | 2023-02-06 |  |
 | [Festa em 4 Rodas](https://open.spotify.com/track/2d2njiAeylPU4vhSe35J7C) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Lakost](https://open.spotify.com/artist/3GJTGb7EwLTnV9EIFOLsic), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [Festa em 4 Rodas](https://open.spotify.com/album/1ZLjmOti4547ALMx2hVqIw) | 2:46 | 2022-05-26 | 2022-08-25 |

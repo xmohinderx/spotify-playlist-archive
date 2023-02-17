@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 songs",
+        "url": "https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159163,
+      "name": "1000 songs",
+      "url": "https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e"
+    },
+    {
+      "album": {
+        "name": "110 km/h",
+        "url": "https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193086,
+      "name": "110 km/h",
+      "url": "https://open.spotify.com/track/019qHAL5i793FKmBomt6Py"
+    },
+    {
+      "album": {
         "name": "21 N\u00e4chte wach",
         "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
       },
@@ -34,7 +70,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 197690,
       "name": "3 Tage am Meer",
       "url": "https://open.spotify.com/track/7vmxzqidBt7y4FxRtsJBVV"
@@ -226,7 +262,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 185277,
       "name": "backseat bromance",
       "url": "https://open.spotify.com/track/6JiYhXnhJVCTlWkUpEFWor"
@@ -248,6 +284,24 @@
       "duration_ms": 222642,
       "name": "Bei Dir",
       "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/6yNZvZdOeYfYBeTrjG728X"
+      },
+      "artists": [
+        {
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/4VO308OQwkdwwVnHBAgNg2"
     },
     {
       "album": {
@@ -345,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Bleib doch noch",
+        "url": "https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161562,
+      "name": "Bleib doch noch",
+      "url": "https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR"
+    },
+    {
+      "album": {
         "name": "Blumen",
         "url": "https://open.spotify.com/album/1X9eaaWut0AynswrNo2zXC"
       },
@@ -428,7 +500,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 160049,
       "name": "Da",
       "url": "https://open.spotify.com/track/60Ac16dw9YAxCVldTXMqWF"
@@ -450,6 +522,24 @@
       "duration_ms": 200689,
       "name": "Dachlatte",
       "url": "https://open.spotify.com/track/2YcszBSjgcmS5D0CoOVXhQ"
+    },
+    {
+      "album": {
+        "name": "Das Sch\u00f6nste",
+        "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96693,
+      "name": "Das Sch\u00f6nste",
+      "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
     },
     {
       "album": {
@@ -508,7 +598,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 179462,
       "name": "Die Realit\u00e4t - Ger\u00e4t Durcheinander",
       "url": "https://open.spotify.com/track/0J3lQmirNuJBWNQabrq4W3"
@@ -526,7 +616,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 154309,
       "name": "Diese Nacht",
       "url": "https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp"
@@ -670,7 +760,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 137647,
       "name": "Endlos_demo",
       "url": "https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH"
@@ -999,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Hoffe du hasst mich",
+        "url": "https://open.spotify.com/album/1v6pJAsp7hp2eFyP5Jn15Y"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hoffe du hasst mich",
+      "url": "https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp"
+    },
+    {
+      "album": {
         "name": "Heartbreakerei",
         "url": "https://open.spotify.com/album/5XUCJcBY0F7t9RCxdsnNTE"
       },
@@ -1040,7 +1148,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
@@ -1442,7 +1550,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 198044,
       "name": "M\u00e4nner",
       "url": "https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi"
@@ -1724,7 +1832,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 194600,
       "name": "Rummelplatz",
       "url": "https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG"
@@ -1746,6 +1854,28 @@
       "duration_ms": 174960,
       "name": "Schreien!",
       "url": "https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A"
+    },
+    {
+      "album": {
+        "name": "Schwerkraft",
+        "url": "https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY"
+      },
+      "artists": [
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        },
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190926,
+      "name": "Schwerkraft",
+      "url": "https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT"
     },
     {
       "album": {
@@ -1818,6 +1948,24 @@
       "duration_ms": 124161,
       "name": "sonne",
       "url": "https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x"
+    },
+    {
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/38BjctnUG9JnykZ2M1gWO5"
+      },
+      "artists": [
+        {
+          "name": "JPD",
+          "url": "https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/2TLPItRuC0tBBdO1zLuAim"
     },
     {
       "album": {
@@ -1905,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Til Schweiger Freestyle",
+        "url": "https://open.spotify.com/album/4CnVe7QK6VhqiPNPgafGCv"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113663,
+      "name": "Til Schweiger Freestyle",
+      "url": "https://open.spotify.com/track/1lK5uNDTmU59924p4FL7Lf"
+    },
+    {
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/1nGSeIbETSziWxhPQVNisu"
       },
@@ -1964,6 +2130,24 @@
       "duration_ms": 213185,
       "name": "Unsere Stadt",
       "url": "https://open.spotify.com/track/0ZnZkTH96LfKfHhn4cOUjk"
+    },
+    {
+      "album": {
+        "name": "Vampir",
+        "url": "https://open.spotify.com/album/48qoR2gkEP5yqbkxfUSKko"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Vampir",
+      "url": "https://open.spotify.com/track/0HP48knRNuDkoXJ7ynlbTs"
     },
     {
       "album": {
@@ -2090,7 +2274,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 134594,
       "name": "Was ich will",
       "url": "https://open.spotify.com/track/0vCDLaEHSxJFlbDtzk4X0c"
@@ -2289,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "ZuuuUuuu",
+        "url": "https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X"
+      },
+      "artists": [
+        {
+          "name": "COBEE",
+          "url": "https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "ZuuuUuuu",
+      "url": "https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB"
+    },
+    {
+      "album": {
         "name": "\u00dcbergang",
         "url": "https://open.spotify.com/album/0Mjbe0hp1ECGZGQoR27VZr"
       },
@@ -2300,7 +2502,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 153600,
       "name": "\u00dcbergang",
       "url": "https://open.spotify.com/track/4NUIHkcjtTtNdX5DTYZEGb"

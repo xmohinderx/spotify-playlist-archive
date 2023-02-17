@@ -374,6 +374,24 @@
     {
       "album": {
         "name": "Everybody Loves Her",
+        "url": "https://open.spotify.com/album/7ecIKoKnT3CX9Us3lzM0IA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207732,
+      "name": "Everybody Loves Her",
+      "url": "https://open.spotify.com/track/0Gpo90Y7YYws4TK9ptQXCt"
+    },
+    {
+      "album": {
+        "name": "Everybody Loves Her",
         "url": "https://open.spotify.com/album/5gIJqHwUCn6fuT6UJiozlT"
       },
       "artists": [
@@ -384,7 +402,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 207732,
       "name": "Everybody Loves Her",
       "url": "https://open.spotify.com/track/3pbUWE1AqOceTOpEhLlYVG"

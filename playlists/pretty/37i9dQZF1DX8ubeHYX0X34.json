@@ -1,12 +1,12 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Nusrat Fateh Ali Khan",
-  "num_followers": 34494,
+  "num_followers": 34556,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIxNzI1MCwwMDAwMDAwMDViYmY2MGM0NjQ2Y2EzYjk0NDc5ODFlMGViYjA3MGY3",
+  "snapshot_id": "MTY3NDIxNzI1MCwwMDAwMDAwMGU1ZWEyMDBiMjI2NjY1ODcxYTZiNjI3N2YzNWRkODI2",
   "tracks": [
     {
       "added_at": "2023-01-20 12:20:49",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-20 12:20:49",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 287333,
-      "name": "Dil Haray Pukaray",
-      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
-    },
-    {
-      "added_at": "2023-01-20 12:20:49",
-      "album": {
         "name": "Parastish",
         "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 270226,
       "name": "Kaho Ek Din",
       "url": "https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF"
+    },
+    {
+      "added_at": "2023-01-20 12:20:49",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "Dil Haray Pukaray",
+      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
     },
     {
       "added_at": "2023-01-20 12:20:49",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-20 12:20:49",
       "album": {
+        "name": "Gunkali (Original Score)",
+        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "duration_ms": 245603,
+      "name": "Moray Saiyaan",
+      "url": "https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs"
+    },
+    {
+      "added_at": "2023-01-20 12:20:49",
+      "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/0G3x2gvv9mln6cJvCdyML2"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 238000,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB"
-    },
-    {
-      "added_at": "2023-01-20 12:20:49",
-      "album": {
-        "name": "Gunkali (Original Score)",
-        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
-      },
-      "artists": [
-        {
-          "name": "Kaavish",
-          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
-        }
-      ],
-      "duration_ms": 245603,
-      "name": "Moray Saiyaan",
-      "url": "https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs"
     },
     {
       "added_at": "2023-01-20 12:20:49",
@@ -751,18 +751,22 @@
     {
       "added_at": "2023-01-20 12:20:49",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc"
+        "name": "Fuzon",
+        "url": "https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS"
       },
       "artists": [
         {
-          "name": "Faakhir",
-          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        },
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Mahi Ve",
-      "url": "https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI"
+      "duration_ms": 343146,
+      "name": "Ankhon Ke Saagar",
+      "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
     },
     {
       "added_at": "2023-01-20 12:20:49",
@@ -803,22 +807,18 @@
     {
       "added_at": "2023-01-20 12:20:49",
       "album": {
-        "name": "Fuzon",
-        "url": "https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc"
       },
       "artists": [
         {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        },
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+          "name": "Faakhir",
+          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
         }
       ],
-      "duration_ms": 343146,
-      "name": "Ankhon Ke Saagar",
-      "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
+      "duration_ms": 284600,
+      "name": "Mahi Ve",
+      "url": "https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI"
     },
     {
       "added_at": "2023-01-20 12:20:49",

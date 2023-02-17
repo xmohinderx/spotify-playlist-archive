@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 55573,
+  "num_followers": 55608,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDg1Njk1MjljMGIwYzZjZDY3ODc0MzI1NjFlNGVhYjdk",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGY3MzNhZDg1ZjY5MmNlYzgyOTU3ODY2NTk3ODY3MDFk",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Nite Versions",
-        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Krack",
-      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Attack Decay Sustain Release",
         "url": "https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 223866,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Nite Versions",
+        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Krack",
+      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Ross Ross Ross",
-        "url": "https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv"
-      },
-      "artists": [
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 299946,
-      "name": "Walkman",
-      "url": "https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Attack Decay Sustain Release",
         "url": "https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 298346,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Ross Ross Ross",
+        "url": "https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv"
+      },
+      "artists": [
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 299946,
+      "name": "Walkman",
+      "url": "https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Silent Alarm Remixed",
-        "url": "https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Banquet - Phones Disco Edit",
-      "url": "https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Al\u00e9sia",
         "url": "https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 187013,
       "name": "Roman",
       "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Silent Alarm Remixed",
+        "url": "https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Banquet - Phones Disco Edit",
+      "url": "https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW"
     },
     {
       "added_at": "2022-08-24 22:29:13",

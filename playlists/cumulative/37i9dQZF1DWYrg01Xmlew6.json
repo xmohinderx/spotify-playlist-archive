@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/3VSRWQTsItHPbE6t1dmJVI"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146969,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/784PuweP1uBDeceqFT8AHA"
+    },
+    {
+      "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
       },

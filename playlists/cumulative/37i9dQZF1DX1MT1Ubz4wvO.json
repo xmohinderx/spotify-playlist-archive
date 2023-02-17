@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
@@ -9336,7 +9336,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 154552,
       "name": "Nieves de Enero",
       "url": "https://open.spotify.com/track/2cMvvo3hBlDDUpj5YaGIle"
@@ -13298,6 +13298,24 @@
       "duration_ms": 199385,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/6AxsZ4lO6yKqMBQ2eqjNuj"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o (Aerosol)",
+        "url": "https://open.spotify.com/album/4e3IFs4X8sOe5TMMx00tN0"
+      },
+      "artists": [
+        {
+          "name": "La Miseria De Juan Acatlan",
+          "url": "https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188578,
+      "name": "Te Extra\u00f1o (Aerosol)",
+      "url": "https://open.spotify.com/track/4B0i6md57vYAm8OLTEX6xd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36792,
+  "num_followers": 36814,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGNhYzkyMTQ0NDk2NDVlMjRiMDNmY2NjMDdmYzA1ODkz",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGQ0Nzg0ODc5MmUyNDg4NWE4NmNiYThkMGRiNTI3ZGMx",
   "tracks": [
     {
       "added_at": "2023-01-06 17:22:57",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "Ain't Got No Friends",
         "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 147381,
       "name": "Ain't Got No Friends",
       "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 188792,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "My 100",
         "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "unbreak ur heart",
-        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 203367,
-      "name": "unbreak ur heart",
-      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 215789,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "unbreak ur heart",
+        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 203367,
+      "name": "unbreak ur heart",
+      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
     },
     {
       "added_at": "2023-01-06 17:22:57",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-06 17:22:57",
       "album": {
-        "name": "You Got",
-        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 206435,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
-    },
-    {
-      "added_at": "2023-01-06 17:22:57",
-      "album": {
         "name": "Street Lights",
         "url": "https://open.spotify.com/album/7AESElOYJWstXJPk9Kwrax"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 189666,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/7AxP1YER2EREDEOfVqJHRx"
+    },
+    {
+      "added_at": "2023-01-06 17:22:57",
+      "album": {
+        "name": "You Got",
+        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 206435,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
     },
     {
       "added_at": "2023-01-06 17:22:57",

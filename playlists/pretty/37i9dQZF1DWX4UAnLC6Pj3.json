@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 1084563,
+  "num_followers": 1084940,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDhhODE5ODJiY2YzZDg3ODhhMzg4YjQ1ZDkzMjRjMDM4",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDEwYWFkODdlYWFiYzc0NzcxNjliN2JlMGI3M2ZiMDRh",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/4DQ1xtgfLCpQ6UFayODTWM"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 227030,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/0W2FM4wRdTXS7ewX1Iw8II"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 173500,
       "name": "12 Rifles",
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/4DQ1xtgfLCpQ6UFayODTWM"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 227030,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/0W2FM4wRdTXS7ewX1Iw8II"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "El Precio De La Soledad",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "El Precio De La Soledad",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+      "duration_ms": 191733,
+      "name": "T\u00fa Eres La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1047,22 +1063,6 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "T\u00fa Eres La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1117,6 +1117,26 @@
       "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Jalando la Bandona",
+        "url": "https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera - En Vivo",
+      "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Me Rindo",
@@ -1149,46 +1169,6 @@
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
     },
     {
-      "added_at": "2023-01-16 19:52:16",
-      "album": {
-        "name": "10+10",
-        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        },
-        {
-          "name": "Marco A. Flores",
-          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Soy un Desmadre",
-      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
-    },
-    {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Jalando la Bandona",
-        "url": "https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Levantando Polvadera - En Vivo",
-      "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
-    },
-    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Nunca Dudes En Llamarme",
@@ -1209,6 +1189,26 @@
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
     },
     {
+      "added_at": "2023-01-16 19:52:16",
+      "album": {
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        },
+        {
+          "name": "Marco A. Flores",
+          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Soy un Desmadre",
+      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "La Ley De La Vida",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 160400,
-      "name": "Fiestas, Tragos, Noche Loca",
-      "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+      "duration_ms": 201400,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1261,6 +1265,22 @@
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
     },
     {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Fiestas, Tragos, Noche Loca",
+      "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+    },
+    {
       "added_at": "2023-01-16 19:52:16",
       "album": {
         "name": "24/7 Dolido",
@@ -1275,26 +1295,6 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "T\u00fa Y Mi Ex",
-        "url": "https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "T\u00fa Y Mi Ex",
-      "url": "https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/4hY3LMulxgI6LeUXIoNnnN"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 171813,
       "name": "Ya",
       "url": "https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "T\u00fa Y Mi Ex",
+        "url": "https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "T\u00fa Y Mi Ex",
+      "url": "https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV"
     },
     {
       "added_at": "2023-01-06 19:31:33",

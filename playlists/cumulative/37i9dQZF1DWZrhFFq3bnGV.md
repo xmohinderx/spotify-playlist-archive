@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Ivan Tangkulung, Gerald Situmorang
 
-86 songs - 5 hr 56 min
+87 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 |  |
 | [I Am The Bass](https://open.spotify.com/track/3Oj6SHWTkRpJOOE8AIkjZG) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [I Am The Bass](https://open.spotify.com/album/0qMcpjxXi0tQP9SmjZtOED) | 3:30 | 2022-09-02 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [I'm Not the Only One](https://open.spotify.com/album/14nkRY04tLRasVaYcmFzRN) | 3:46 | 2022-09-02 |  |
-| [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 | 2022-09-22 |  |
+| [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 | 2022-09-22 | 2023-02-17 |
 | [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 | 2022-09-02 | 2022-10-09 |
+| [Irene](https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/3mogJhxm0wmeZkZEEZfWzK) | 2:13 | 2023-02-03 |  |
 | [Jeje](https://open.spotify.com/track/51C65PJIu5tC1369pCd8YJ) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Jeje](https://open.spotify.com/album/2ReE8N1x0YrSCLgLtaNyEY) | 5:49 | 2023-01-26 |  |
 | [Jhung Kejhungan 1](https://open.spotify.com/track/6xKSXsCq7DIzUava8uyRji) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Jhung Kejhungan](https://open.spotify.com/album/5HQ2rql6yz9IF297y9ZB6O) | 4:42 | 2022-12-22 |  |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |

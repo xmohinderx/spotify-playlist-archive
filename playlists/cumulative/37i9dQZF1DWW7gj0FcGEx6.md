@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-226 songs - 11 hr 42 min
+227 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [The Gilded Age \(Main Title\) \- from "The Gilded Age"](https://open.spotify.com/track/5Q8rGIeJMxJsdaEoTvZgk9) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW), [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [The Gilded Age \(Main Title\) \[from "The Gilded Age"\]](https://open.spotify.com/album/4RrKfoyfGQpKJVFktGXFJt) | 1:32 | 2022-01-28 | 2022-07-29 |
 | [The Kingdom of Dreams \(Main Title Theme\)](https://open.spotify.com/track/7z5VsNMFFsAufyFUhC0UDo) | [David Buckley](https://open.spotify.com/artist/4XPIcwAIeDGi8lNDSbnGaT) | [The Sandman: Season 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4wHeGUGaQcDQLKcNxuVyDu) | 2:14 | 2022-08-19 |  |
 | [The Lake \(feat\. Gustave Rudman\)](https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Gustave Rudman](https://open.spotify.com/artist/2yGaqlHUHvNEpdRlmQCMEC) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:45 | 2022-02-09 |  |
+| [The Last Kingdom: The Beloveds](https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H), [Danny Saul](https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG) | [The Last Kingdom: The Beloveds](https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk) | 6:00 | 2023-02-10 |  |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2021-12-20 | 2022-10-08 |
 | [The Mole](https://open.spotify.com/track/0Vfaws2IcXWZ7AMtAyvNO1) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/0Dox6vm8jJ9xBUYKeFe90s) | 3:48 | 2022-07-22 | 2022-08-20 |
 | [The Mole](https://open.spotify.com/track/6RFRcwWeLBUTuUG3YsHmC5) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/26FTC6C2eXcqmPMPyxmE1V) | 3:48 | 2021-12-20 | 2022-07-29 |

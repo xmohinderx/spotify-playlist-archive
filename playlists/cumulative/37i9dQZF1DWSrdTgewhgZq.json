@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "The Mind Of A Saint",
+        "url": "https://open.spotify.com/album/69xKJvae3fQJT7cDcIgCLq"
+      },
+      "artists": [
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        },
+        {
+          "name": "The Other Guys",
+          "url": "https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372394,
+      "name": "100 to One",
+      "url": "https://open.spotify.com/track/1wEsSJi0zS7X6Ge4Y0ZFEN"
+    },
+    {
+      "album": {
         "name": "Still Sleep?",
         "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
@@ -100,7 +122,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A"
@@ -260,7 +282,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 125347,
       "name": "Butterflies & Bandaids",
       "url": "https://open.spotify.com/track/4mU0GgWkV6X1IEuIXtrAGe"
@@ -356,6 +378,32 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "album": {
+        "name": "Celebi",
+        "url": "https://open.spotify.com/album/3Pyg9VmQ3vRtVHd21zanqy"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "Kill Bill: The Rapper",
+          "url": "https://open.spotify.com/artist/1t9KewtUvFMq6q7FRX1nHC"
+        },
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Celebi",
+      "url": "https://open.spotify.com/track/51Pd2PmGzdc56kPgPv8v1R"
     },
     {
       "album": {
@@ -520,6 +568,24 @@
       "duration_ms": 221203,
       "name": "DEAD RIGHT NOW",
       "url": "https://open.spotify.com/track/3grVoZ10bm2jUGpo7BxpuF"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211087,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui"
     },
     {
       "album": {
@@ -903,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205421,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -1016,6 +1100,32 @@
       "duration_ms": 243836,
       "name": "goosebumps",
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "album": {
+        "name": "Grave Gods",
+        "url": "https://open.spotify.com/album/0qyeoSIH1K5eOcxAdlbW71"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9nix Legacy of Gods",
+          "url": "https://open.spotify.com/artist/5fKuE81ZQBxEb6SDhbsyVx"
+        },
+        {
+          "name": "Frukwan",
+          "url": "https://open.spotify.com/artist/1Zr6fB2AUSdHQ4Dg17bKLQ"
+        },
+        {
+          "name": "Gravediggaz",
+          "url": "https://open.spotify.com/artist/5NIhgQ08PBzMux08ndi8Ae"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132134,
+      "name": "Grave Gods",
+      "url": "https://open.spotify.com/track/1HlkfITLogJAtrBEojALor"
     },
     {
       "album": {
@@ -1392,7 +1502,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -1568,7 +1678,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 216013,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
@@ -1905,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -2154,6 +2286,24 @@
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139717,
+      "name": "SISTER",
+      "url": "https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh"
     },
     {
       "album": {
@@ -2439,6 +2589,46 @@
     },
     {
       "album": {
+        "name": "Terry Davis",
+        "url": "https://open.spotify.com/album/3doyvjswVMNHImDkyllMt5"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Terry Davis",
+      "url": "https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1"
+    },
+    {
+      "album": {
+        "name": "The 3",
+        "url": "https://open.spotify.com/album/1erbcWmsiCfGjkUSCjAQ94"
+      },
+      "artists": [
+        {
+          "name": "3 Melancholy Gypsys",
+          "url": "https://open.spotify.com/artist/2EbeblguQabGEEYWYtY2CR"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205961,
+      "name": "The 3",
+      "url": "https://open.spotify.com/track/6giD2A87haOvdcQ9cP8Blb"
+    },
+    {
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -2530,6 +2720,28 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+    },
+    {
+      "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/7iUWlCrpgf2c1q3DlOQfyT"
+      },
+      "artists": [
+        {
+          "name": "Moeazy",
+          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
+        },
+        {
+          "name": "Mick Moon",
+          "url": "https://open.spotify.com/artist/0XbZAZj1bGxd4wf2a8vWcC"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/4NIEMwXYQjyqFJ5rBohc1P"
     },
     {
       "album": {
@@ -2677,6 +2889,28 @@
     },
     {
       "album": {
+        "name": "We Were We Still Are",
+        "url": "https://open.spotify.com/album/7gugs0djxoCY7kzXegHA40"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "We Were We Still Are",
+      "url": "https://open.spotify.com/track/6UtZhGeeshz7mi219Y9XKe"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -2780,6 +3014,46 @@
       "duration_ms": 199758,
       "name": "Wolves (feat. Post Malone)",
       "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
+    },
+    {
+      "album": {
+        "name": "DEMO",
+        "url": "https://open.spotify.com/album/5Hnz6AleCKnjDMlPXu3s2F"
+      },
+      "artists": [
+        {
+          "name": "JoshSimmons",
+          "url": "https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "WOOD GRAIN",
+      "url": "https://open.spotify.com/track/2SpSjKIMihCOvLa3PPX8X8"
+    },
+    {
+      "album": {
+        "name": "WYD",
+        "url": "https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "WYD",
+      "url": "https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci"
     },
     {
       "album": {

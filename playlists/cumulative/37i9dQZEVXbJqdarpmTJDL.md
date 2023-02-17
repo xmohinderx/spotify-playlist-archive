@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,029 songs - 2 day 7 hr 36 min
+1,030 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-22 |
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2021-05-16 | 2021-05-17 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-10 |
+| [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-26 | 2022-01-15 |
 | [Abracadabra](https://open.spotify.com/track/41ubrQZx1njkpB2qpRYryW) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Ggreco](https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:09 | 2021-04-18 | 2021-04-19 |
 | [Acropoli](https://open.spotify.com/track/3nYbyt3ZGAQfbLmzZPshZO) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Nos](https://open.spotify.com/album/0XlORSbgngaZZaKPvJbv3d) | 2:58 | 2021-07-09 | 2021-07-10 |
@@ -714,7 +715,7 @@
 | [Paparazzi](https://open.spotify.com/track/1Oc20BFw8E3QJXhZQJ5gS3) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H), [Ortiz](https://open.spotify.com/artist/3x9mGsQyJTszfiIVgqWDuT) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 4:00 | 2022-07-26 | 2022-07-30 |
 | [Paparazzi](https://open.spotify.com/track/7jmkuBZeH5lezHZ3iu3YH1) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Bad Boy \(Summer Hits\)](https://open.spotify.com/album/21rySo430y5dVWknVK0JAB) | 3:02 | 2022-05-28 | 2022-06-05 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-07 |
-| [Parallili Agapi](https://open.spotify.com/track/2LHUIYOsCZ19mDp2xRxj1u) | [Antzy Samiou](https://open.spotify.com/artist/2zbKv0LOzs93gsHg8flxzc) | [Didimi Psihi](https://open.spotify.com/album/2c6Y9CAeJ3rQVzy7BWJqdr) | 3:59 | 2023-02-13 |  |
+| [Parallili Agapi](https://open.spotify.com/track/2LHUIYOsCZ19mDp2xRxj1u) | [Antzy Samiou](https://open.spotify.com/artist/2zbKv0LOzs93gsHg8flxzc) | [Didimi Psihi](https://open.spotify.com/album/2c6Y9CAeJ3rQVzy7BWJqdr) | 3:59 | 2023-02-13 | 2023-02-17 |
 | [PARANOIA DI NOTTE](https://open.spotify.com/track/4dvTbAQjoCtRt030HPPwCt) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 3:14 | 2022-04-23 | 2022-04-30 |
 | [Parasita](https://open.spotify.com/track/4CG5uMTddn64cipTlDrPJc) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV) | [To Paidi Tou Dromou 2](https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl) | 2:04 | 2022-01-18 | 2022-01-20 |
 | [Pare Dose](https://open.spotify.com/track/3vON19V9gngoja4bcCwrGm) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ) | [Pare Dose](https://open.spotify.com/album/5K3UZncXZKb9tv29mrIkKt) | 2:40 | 2021-05-28 | 2021-06-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43936,
+  "num_followers": 43941,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGQ2MDJiNWJmNWU4NDY2ZmU0YjA5MjI3NGJiMDg1YjIx",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDhjYzBlYWNhM2E1NDVmZmI5MzJkOGY1Y2IxMzEzNmI5",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "duration_ms": 263954,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "VILLAIN",
         "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 277565,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Come Thou Fount of Every Blessing",
-        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 263954,
-      "name": "Come Thou Fount of Every Blessing",
-      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 317989,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Light & Bloom",
-        "url": "https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s"
-      },
-      "artists": [
-        {
-          "name": "Holly Ann",
-          "url": "https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK"
-        }
-      ],
-      "duration_ms": 243268,
-      "name": "Lion's Den",
-      "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Light & Bloom",
+        "url": "https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s"
+      },
+      "artists": [
+        {
+          "name": "Holly Ann",
+          "url": "https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK"
+        }
+      ],
+      "duration_ms": 243268,
+      "name": "Lion's Den",
+      "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
     }
   ],
   "unique_name": "Indie Spirit",

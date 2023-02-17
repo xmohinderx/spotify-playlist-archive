@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-497 songs - 1 day 7 hr 1 min
+498 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 | 2023-01-11 |
 | [Lovela Vizhundha \(From "Rayar Parambarai"\)](https://open.spotify.com/track/4feXRBCFVbgVbPkqzBqvCV) | [Satyan Mahalingam](https://open.spotify.com/artist/1tT0pqnB2GUnTYZhVvT9UZ), [Ganesh Raghavendra](https://open.spotify.com/artist/7Fk0UevBnD77uocXMLEyWX) | [Lovela Vizhundha \(From "Rayar Parambarai"\)](https://open.spotify.com/album/1qjz42bGXiOwuKZxNgStAr) | 4:17 | 2023-01-04 | 2023-01-13 |
 | [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/track/1DAAajIAiljAmVstVAoCQa) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/album/2H7d1c7VjXwxriGbs8KRvN) | 3:25 | 2022-07-06 | 2022-07-14 |
+| [Maalta \- From "Kudimahaan"](https://open.spotify.com/track/6oSvoNGiPp3kaT3Qbbwm3X) | [Tanuj Menon](https://open.spotify.com/artist/4KxyMwBnfRMC3tNpPJOKxA), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Gokul](https://open.spotify.com/artist/7JkhqdTsDxQoJyNp99ofQB) | [Maalta \(From "Kudimahaan"\)](https://open.spotify.com/album/7I7oHhUGVnwiiJwuyiPYzv) | 4:32 | 2023-02-16 |  |
 | [Maaripocho \- From "Kanam"](https://open.spotify.com/track/3CkeIKceYN9LRnIjxaWYUU) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Karthi](https://open.spotify.com/artist/0B33QkzBOTcn3E0oTzqLfJ), [Travis King](https://open.spotify.com/artist/6mdVHP6J2GpRyt3gqPv7oU) | [Maaripocho \(From "Kanam"\)](https://open.spotify.com/album/5nIop14CYWoHlVV0IEI5jJ) | 4:36 | 2022-08-29 | 2022-09-09 |
 | [Maarum Uravae](https://open.spotify.com/track/2nS0jol49JSjlzfnSA63P9) | [Jhanu Chanthar](https://open.spotify.com/artist/2d1GlRGkn54i5fu2zI5rnc), [Deepika Karthik Kumar](https://open.spotify.com/artist/2sfp5peTjnYirVH3PJQIlM) | [Vezham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0SD4vZliEXuuBk6RpMZbqr) | 4:00 | 2022-06-15 | 2022-06-29 |
 | [Maasaru Ponne](https://open.spotify.com/track/2AA0aWMzTgNLwBWgTzo6Uh) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Krithika Karthick Pandiyan](https://open.spotify.com/artist/1s5ZQfPbsZ6NVdfvBpWqzm) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 3:52 | 2022-07-15 | 2022-07-22 |

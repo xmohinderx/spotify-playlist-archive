@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,561 songs - 3 day 4 hr 57 min
+1,562 songs - 3 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Becher voll Schnapz](https://open.spotify.com/track/15UnoXqXqhniJdpYjsa7DR) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [KEIN PLAN](https://open.spotify.com/album/0qLT7y0ImYkfJsPGs1rvIr) | 2:29 | 2022-05-28 | 2022-06-05 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-24 | 2021-06-27 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-07 | 2021-12-05 |
-| [Bei Nacht](https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 2:54 | 2022-10-07 | 2023-02-16 |
+| [Bei Nacht](https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 2:54 | 2022-10-07 |  |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-28 |
 | [Belgisches Viertel](https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Belgisches Viertel](https://open.spotify.com/album/6giaXxm0g5927v4ESbtzCt) | 1:44 | 2021-08-31 | 2022-04-03 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-09-01 | 2021-09-02 |
@@ -232,6 +232,7 @@
 | [Bossmode](https://open.spotify.com/track/531n3dMqe9gewmw1n18iXl) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossmode](https://open.spotify.com/album/1G6O7LzLpBNhEReAHQ2eQ7) | 2:43 | 2022-01-08 | 2022-01-14 |
 | [Bosstradamus](https://open.spotify.com/track/25RQFxz1ri0U2kNmvcT7kA) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Zuhältertape, Vol\. 5](https://open.spotify.com/album/3DdvyjiIww72NUPL4UkXtt) | 3:54 | 2021-10-10 | 2021-10-11 |
 | [BOUNCE](https://open.spotify.com/track/1SVI1xBJz23bUK3HrX8Kka) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [BOUNCE](https://open.spotify.com/album/7Gc06iucbv9AVHVLTLQL0d) | 2:08 | 2021-05-30 | 2021-06-06 |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-16 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-30 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-23 |
 | [Bramfeld Storys](https://open.spotify.com/track/2gPl0OSKeA4HrFnI07Ehmz) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 8:55 | 2021-11-21 | 2021-11-26 |
@@ -705,7 +706,7 @@
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2022-12-28 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
 | [Juicy Money](https://open.spotify.com/track/5BfRL84y1LtmACz4UreC0S) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:46 | 2021-11-21 | 2021-11-25 |
-| [Julia](https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Julia](https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc) | 2:17 | 2023-02-15 |  |
+| [Julia](https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Julia](https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc) | 2:17 | 2023-02-15 | 2023-02-17 |
 | [Jumper](https://open.spotify.com/track/1TM2i0pjWHpus4t3p6zs0V) | [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8) | [Jumper](https://open.spotify.com/album/4l7PlVlDtmEHhdmbW208E1) | 2:10 | 2022-04-12 | 2022-05-22 |
 | [Jumper](https://open.spotify.com/track/77xNGtwVQMDfwOrVcazmGp) | [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8) | [Jumper](https://open.spotify.com/album/3X9cnOrbCoX7frn093aW3Q) | 2:10 | 2022-03-31 | 2022-04-13 |
 | [Jung](https://open.spotify.com/track/5wCdJxq3lbU71XllH2BuWW) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Jung](https://open.spotify.com/album/5R1ssHGAJ2hSLbsBbH6dcK) | 2:57 | 2021-12-18 | 2022-01-08 |
@@ -835,7 +836,7 @@
 | [Lost \(feat\. TOPIC42\)](https://open.spotify.com/track/19LqJBBfd73oeBc3CPgDdl) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [TOPIC42](https://open.spotify.com/artist/4unaJKYfY4B51exXVQSilo) | [Lost \(feat\. TOPIC42\)](https://open.spotify.com/album/5ZJ2c9bd5wsIXlQboaM53r) | 2:20 | 2021-03-27\* | 2021-04-04 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-12 |
 | [Love](https://open.spotify.com/track/0h9o7htUBxQkrQFx6LXHcp) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [Love](https://open.spotify.com/album/0vndkr7vpb2k1w0WSSMysu) | 2:34 | 2022-04-30 | 2022-05-06 |
-| [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-28 |  |
+| [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-28 | 2023-02-17 |
 | [Love Again \(feat\. Alida\)](https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Love Again \(feat\. Alida\)](https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq) | 2:27 | 2021-04-02 | 2021-05-16 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-08 |
 | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2021-03-27\* | 2021-05-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 46803,
+  "num_followers": 46830,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ2MzcwMiwwMDAwMDAwMGYxZGI4MGI5ZjllNjA5NzFmOWFhZTJjYWYxMzYxYThl",
+  "snapshot_id": "MTY3NjU0NTk2NSwwMDAwMDAwMDUxMDE0YmRkMWY5MzQwYzFjNWFhNDQzODlkZGYzMTAx",
   "tracks": [
     {
       "added_at": "2023-02-06 07:20:37",
@@ -187,6 +187,34 @@
       "duration_ms": 52659,
       "name": "Ghost Theme Music",
       "url": "https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp"
+    },
+    {
+      "added_at": "2023-02-16 11:11:32",
+      "album": {
+        "name": "Oh Olave Olave (From \"Love Birds\") - Single",
+        "url": "https://open.spotify.com/album/6EFXlnJ1BLUj62zsIMDttP"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "Oh Olave Olave (From \"Love Birds\")",
+      "url": "https://open.spotify.com/track/6HbrW5M0r99OnZ4VxpTpTj"
     },
     {
       "added_at": "2023-02-15 12:11:55",
@@ -423,6 +451,30 @@
       "duration_ms": 248299,
       "name": "Hogatlaga (From \"Ranga Samudra\")",
       "url": "https://open.spotify.com/track/3waY6CRqXEoulHkwXopgLM"
+    },
+    {
+      "added_at": "2023-02-16 11:12:45",
+      "album": {
+        "name": "Amma Emba Hesare (From \"Parimala D'souza\")",
+        "url": "https://open.spotify.com/album/61o3UsbAdp6LuTwP08c872"
+      },
+      "artists": [
+        {
+          "name": "Prem Jogi",
+          "url": "https://open.spotify.com/artist/6AvoATByc4bJxTWMjdwK3c"
+        },
+        {
+          "name": "K. Kalyan",
+          "url": "https://open.spotify.com/artist/17YvXOgibJDZqBAFH0t0aZ"
+        },
+        {
+          "name": "Christopher Jayson B",
+          "url": "https://open.spotify.com/artist/2YYRecbqcPMJAdGdGh98Zg"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Amma Emba Hesare (From \"Parimala D'souza\")",
+      "url": "https://open.spotify.com/track/2v0oVOToH1blW0MlAEQWz3"
     },
     {
       "added_at": "2023-02-13 11:03:44",

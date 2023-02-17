@@ -1,15 +1,15 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 104266,
+  "num_followers": 104289,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMGJlYTIwNTg1Mjk5ODFhYTMxZTk2ODNhMDk4NjhlYzlj",
+  "snapshot_id": "MTY3NTM3NTgxMCwwMDAwMDAwMGI3NGU2NTVmNWFiMTgzZDVkZGZhZDg3NDIzMzFjNjNi",
   "tracks": [
     {
-      "added_at": "2023-02-16 01:22:08",
+      "added_at": "2023-02-17 01:25:20",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Aj\u00e1",
-        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 142453,
-      "name": "Aj\u00e1",
-      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Aj\u00e1",
+        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "Aj\u00e1",
+      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
+      },
+      "artists": [
+        {
+          "name": "NEZZA",
+          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
-      },
-      "artists": [
-        {
-          "name": "NEZZA",
-          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -815,22 +815,6 @@
       "duration_ms": 125166,
       "name": "De Na'",
       "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
-      },
-      "artists": [
-        {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
-        }
-      ],
-      "duration_ms": 199046,
-      "name": "Para Ti No",
-      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -915,22 +899,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Conoce",
         "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 219130,
       "name": "Conoce",
       "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Amor No Correspondido",
-        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Amor No Correspondido",
-      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1039,6 +1007,22 @@
       "duration_ms": 159052,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Amor No Correspondido",
+        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Amor No Correspondido",
+      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "CU\u00c1NTO",
         "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
       },
@@ -1091,6 +1059,22 @@
       "duration_ms": 172430,
       "name": "CU\u00c1NTO",
       "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1139,22 +1123,6 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Del Amor Al Odio",
-        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
-      },
-      "artists": [
-        {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Del Amor Al Odio",
-      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1315,6 +1283,38 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "sola",
+        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "sola",
+      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1343,38 +1343,6 @@
       "duration_ms": 150000,
       "name": "QUIEN ES ESA",
       "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Nela",
-        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Nela",
-      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "sola",
-        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "sola",
-      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1431,18 +1399,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV"
       },
       "artists": [
         {
-          "name": "MKY",
-          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 185520,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
+      "duration_ms": 203294,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1463,6 +1431,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
+      },
+      "artists": [
+        {
+          "name": "MKY",
+          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "VAIV\u00c9N",
         "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
       },
@@ -1479,6 +1463,26 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx"
     },
     {
       "added_at": "2023-01-20 01:55:27",

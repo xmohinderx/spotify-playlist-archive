@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 43235,
+  "num_followers": 43371,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDk3NjgxNDYxY2EwOWY0NzQzZGJiYmRiOTgzY2E0ZThl",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMGNiOTcwN2I2NzBhZmM3NDM1MDkxMzczZDM0NTYzYWYx",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "The Charladies' Ball",
-      "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 210533,
       "name": "The Hunt / Dunphy's Hornpipe",
       "url": "https://open.spotify.com/track/3Qmkw1Jq9Gdw7C0rmMFw2h"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+      },
+      "artists": [
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Paddy Dreaming",
+      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Paddy Dreaming",
-      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Andy's - Lafferty's - Marian's Favourite",
-      "url": "https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Home Is the Rover",
         "url": "https://open.spotify.com/album/0k8jMO6MMsBNVFWfYhYhjZ"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 256399,
       "name": "Roseville Fair",
       "url": "https://open.spotify.com/track/7a7GS4avfjMhbN2mnpNWGY"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Andy's - Lafferty's - Marian's Favourite",
+      "url": "https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -707,6 +691,66 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+      },
+      "artists": [
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "The Charladies' Ball",
+      "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        },
+        {
+          "name": "Paul Dooley",
+          "url": "https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif"
+        },
+        {
+          "name": "Fergus Feely",
+          "url": "https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni"
+        },
+        {
+          "name": "John Moloney",
+          "url": "https://open.spotify.com/artist/4kcdiauFup6jwVT2O2zXqG"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Cap and Bells",
+      "url": "https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "The Craic Was Ninety",
+      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Kieran Fahy: Irish Fiddle - Man From the West",
         "url": "https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo"
       },
@@ -731,22 +775,6 @@
       "duration_ms": 182800,
       "name": "Dohertys - Tommy Peoples",
       "url": "https://open.spotify.com/track/0R1WxTxMg6TBThTf2oGpG0"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "The Craic Was Ninety",
-      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -787,34 +815,6 @@
       "duration_ms": 251533,
       "name": "The Blight",
       "url": "https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Man for Galway: The Best of Sean Tyrrell",
-        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
-      },
-      "artists": [
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        },
-        {
-          "name": "Paul Dooley",
-          "url": "https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif"
-        },
-        {
-          "name": "Fergus Feely",
-          "url": "https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni"
-        },
-        {
-          "name": "John Moloney",
-          "url": "https://open.spotify.com/artist/4kcdiauFup6jwVT2O2zXqG"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Cap and Bells",
-      "url": "https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ"
     },
     {
       "added_at": "2021-04-26 15:38:07",

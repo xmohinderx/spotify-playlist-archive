@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-105 songs - 8 hr 29 min
+106 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [16 Years](https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR) | [Mzbel](https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:07 | 2020-02-20 | 2022-07-28 |
 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 | 2020-02-20 |  |
 | [Aben Wo Aha](https://open.spotify.com/track/7cbqOCwbnko77vHSiz0Oot) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/5cIHc0EZTZVMIJwcTNF277) | 5:12 | 2020-02-20 | 2022-07-29 |
+| [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 | 2023-02-16 |  |
 | [Abrantee](https://open.spotify.com/track/4cZvoz7mHBLAc42FBVya0i) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:01 | 2020-02-20 | 2022-07-29 |
 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 | 2020-02-20 |  |
 | [Abuskeleke](https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf) | [Sidney](https://open.spotify.com/artist/50HoBlg3tXmqwF0w4cZVmD) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:24 | 2020-02-20 | 2022-03-18 |
@@ -107,7 +108,7 @@
 | [Uncle Ebo](https://open.spotify.com/track/6nPaMcmh1UHgNwId2TLznB) | [Antwi Ne Antwi](https://open.spotify.com/artist/2sAjglj6lmoAwZxoHSB6IU) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:56 | 2020-02-20 | 2022-07-29 |
 | [Wafom](https://open.spotify.com/track/2pY5TiBztBDclvZoGNm90E) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:44 | 2020-02-20 | 2022-07-29 |
 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 | 2020-02-20 |  |
-| [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 | 2021-12-02 |  |
+| [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 | 2021-12-02 | 2023-02-17 |
 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 | 2020-02-20 |  |
 | [Wo Sisi Ye Woya](https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF) | [T Blaze](https://open.spotify.com/artist/5WUHEAVt0NS7Zm0foNjiPX) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:04 | 2020-02-20 | 2022-07-27 |
 | [Wokye \(feat\. Lazy Dogg\)](https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm), [Lazy Dogg](https://open.spotify.com/artist/4YvXEljlIeW6g6irD5x2HV) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:20 | 2020-02-20 | 2022-04-20 |

@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "DRAFT ONE",
+        "url": "https://open.spotify.com/album/5IdBuy9RbmIRUkAfiPxrKZ"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153300,
+      "name": "HIKIGANE",
+      "url": "https://open.spotify.com/track/4IQXX9I7xSy9lnEnsSYRcy"
+    },
+    {
+      "album": {
         "name": "Limre",
         "url": "https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3"
       },
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 241600,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp"
@@ -4458,6 +4476,36 @@
       "duration_ms": 158069,
       "name": "Old Fashion",
       "url": "https://open.spotify.com/track/3BWiI5D14eg9Fx0VRWf6ic"
+    },
+    {
+      "album": {
+        "name": "Old Fashioned",
+        "url": "https://open.spotify.com/album/3A4Yb0z1thFYO9uysqeVGv"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "SiNNER MOON",
+          "url": "https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw"
+        },
+        {
+          "name": "Peatle",
+          "url": "https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Old Fashioned",
+      "url": "https://open.spotify.com/track/04pzS2S9nK0kw84Yu0pslx"
     },
     {
       "album": {

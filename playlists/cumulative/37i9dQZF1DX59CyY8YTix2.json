@@ -4945,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Wanna Cry :(",
+        "url": "https://open.spotify.com/album/7zP6cj9KtpeVyUFLWcfCgJ"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142092,
+      "name": "Sometimes I Wanna Cry :(",
+      "url": "https://open.spotify.com/track/7DILQWS3AmJ8EHNmnD4pXn"
+    },
+    {
+      "album": {
         "name": "(image for) drawing on canvas",
         "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
       },
@@ -11037,6 +11055,24 @@
     },
     {
       "album": {
+        "name": "\u547d\u77ed\u3057\u98df\u305b\u3088\u30aa\u30b3\u30e1",
+        "url": "https://open.spotify.com/album/2rsLQl4wiTNoRJNNcnMIHI"
+      },
+      "artists": [
+        {
+          "name": "\u8f2a\u5efb",
+          "url": "https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "\u547d\u77ed\u3057\u98df\u305b\u3088\u30aa\u30b3\u30e1",
+      "url": "https://open.spotify.com/track/330cZ4f0wqRsYY4Wfj7w8O"
+    },
+    {
+      "album": {
         "name": "\u5618\u3064\u304d\u30d1\u30f3\u30c0",
         "url": "https://open.spotify.com/album/1r0KOMCGbyPcMNOATw7UT5"
       },
@@ -11304,7 +11340,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 324184,
       "name": "\u5922\u3092\u307f\u305b\u3066",
       "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
@@ -14132,7 +14168,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 240374,
       "name": "\u96ea\u51b4\u3086\u308b",
       "url": "https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx"

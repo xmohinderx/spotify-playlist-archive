@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,246 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,263 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Nuh Like](https://open.spotify.com/track/3zLc3jFkHu9ZUAwR83LDyZ) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Mi Nuh Like](https://open.spotify.com/album/75RqkVHqZyV6wJCqFyP2XH) | 3:15 |
 | 2 | [PUSSYLOVEMONEY \- Sped Up](https://open.spotify.com/track/3G2vd4MrW49kDmlRFSQ9aU) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [PUSSYLOVEMONEY \(Sped Up\)](https://open.spotify.com/album/3beBqfwJBH5HGiI0p8Ievx) | 2:14 |
 | 3 | [Ancestors \(feat\. Blackout J.A\)](https://open.spotify.com/track/6hlTh8yYEpeJhMgFbNVq9P) | [Sentinel 793](https://open.spotify.com/artist/7DcbgLtzRiniDgbNmOf4rg), [Blackout J.A](https://open.spotify.com/artist/0hnwFCW4DxGkFw8bbpE5AN) | [Solar returns](https://open.spotify.com/album/0dOFZ5vfXTX15g4YVzb8Vd) | 4:49 |
-| 4 | [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 |
+| 4 | [DO WHAT I LIKE](https://open.spotify.com/track/1w7gDQluRmhXqDi2jjqM1K) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DON'T LET THE DEVIL IN](https://open.spotify.com/album/4442PIQn9b3i9UQtPlejAE) | 2:16 |
 | 5 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 6 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 |
 | 7 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Still Flowing Water \- Edit](https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 3:30 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MTY3NjI2MTMzMiwwMDAwMDAwMDVhMTUxNGUyMTNmYzM4MjQ3MjFkNDViZDFjNDZmYWIw`
+Snapshot ID: `MTY3NjI2MTMzMiwwMDAwMDAwMGU4N2NlMDc4NTdjZmRkMTM1NWExN2YxM2EwNDMwYWE3`

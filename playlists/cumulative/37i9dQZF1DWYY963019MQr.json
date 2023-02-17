@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS"
+      },
+      "artists": [
+        {
+          "name": "Jay Peters",
+          "url": "https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102179,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU"
+    },
+    {
+      "album": {
         "name": "Kiss And Tell",
         "url": "https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB"
       },

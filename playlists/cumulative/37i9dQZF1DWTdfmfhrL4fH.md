@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-531 songs - 1 day 9 hr 18 min
+532 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Promise to No One](https://open.spotify.com/track/2jASM9qnzEJpC7IifD2H85) | [Janus](https://open.spotify.com/artist/0XHYHd42BDMMDRXHCBgFoO) | [Nox Aeris](https://open.spotify.com/album/7vzvgE16X9kTKIOZ5R2bPb) | 3:37 | 2022-05-25 | 2022-07-24 |
 | [Puppe](https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:33 | 2022-05-25 |  |
 | [Push + Pull](https://open.spotify.com/track/2M3TZmN0KR5Etd4GTSsn1H) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Touch](https://open.spotify.com/album/0cxY7aWYX5ACE2Og8k5Npq) | 2:51 | 2022-05-25 | 2022-07-29 |
-| [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 | 2022-05-25 |  |
+| [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 | 2022-05-25 | 2023-02-17 |
 | [Radioactive Mother \(Lover\)](https://open.spotify.com/track/2Ut304ExaxLD2PJt1lRJ4f) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Radioactive Mother \(Lover\)](https://open.spotify.com/album/7D86Dhz5xE5XdV16LhghMb) | 3:07 | 2022-05-25 | 2022-07-29 |
 | [Raised By Wolves](https://open.spotify.com/track/769ZC6PggTAClrWHAoVk1x) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:05 | 2022-05-25 | 2022-07-12 |
 | [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 | 2022-05-25 |  |
@@ -459,6 +459,7 @@
 | [The Animal](https://open.spotify.com/track/1HD8mFfpSGLJnwv6UTLaIv) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 4:13 | 2022-05-25 | 2022-07-29 |
 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 | 2022-05-25 | 2022-07-29 |
 | [The Blackout](https://open.spotify.com/track/28MPfAfqhRiBJLzNCHGHM3) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:45 | 2022-05-25 | 2022-07-23 |
+| [The Catalyst](https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 5:39 | 2023-01-18 |  |
 | [The Catalyst](https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 5:39 | 2022-05-25 | 2022-07-29 |
 | [The Collapse](https://open.spotify.com/track/3h99RESVnS9wla9mxLGC0q) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:38 | 2022-05-25 | 2022-07-27 |
 | [The Currents](https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 | 2022-05-25 | 2022-07-05 |

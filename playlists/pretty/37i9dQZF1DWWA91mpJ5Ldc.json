@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 109582,
+  "num_followers": 109634,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDY0NiwwMDAwMDAwMGZjNDU0Mjk5MzEwM2Y1ZDJhZjZmMDg5ZmQ0NDQzMmIy",
+  "snapshot_id": "MTY3MzU4NDY0NiwwMDAwMDAwMDdjZDVhZjUwNGQ3OTRhZDhjOGFmNTI0NDYzYjcyM2U5",
   "tracks": [
     {
       "added_at": "2023-01-13 04:37:26",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-13 04:37:26",
       "album": {
+        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 269061,
+      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
+    },
+    {
+      "added_at": "2023-01-13 04:37:26",
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-01-13 04:37:26",
       "album": {
-        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 269061,
-      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
-    },
-    {
-      "added_at": "2023-01-13 04:37:26",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-01-13 04:37:26",
       "album": {
-        "name": "Fim do Horizonte",
-        "url": "https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ"
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 200608,
-      "name": "Fim do Horizonte",
-      "url": "https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX"
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     }
   ],
   "unique_name": "Cozinhando em Casa",

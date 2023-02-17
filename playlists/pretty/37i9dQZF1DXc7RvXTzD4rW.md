@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 緒方恵美 \(Megumi Ogata\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,653 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,677 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [微笑みの爆弾](https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM) | [緒方恵美](https://open.spotify.com/artist/3iWEXjM1gU5lpPuRYgpNwt) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 4:08 |
+| 1 | [微笑みの爆弾](https://open.spotify.com/track/3qVIrEtbjR60lXASn4dyOM) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 4:08 |
 | 2 | [Adore me](https://open.spotify.com/track/7BZOrVN1JyV5uNbQicYHK6) | [山崎エリイ](https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e) | [Adore me](https://open.spotify.com/album/2hWqJDQNpjwUgJaIAPoJbn) | 3:51 |
 | 3 | [Musical](https://open.spotify.com/track/5nkNdlVIIs9Agg4nzZSuwR) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [TV Animation "Sugar Apple Fairy Tale" Opening Theme Song "Musical"](https://open.spotify.com/album/5jpCso9ad465aE5oXKYg3s) | 4:26 |
 | 4 | [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 |

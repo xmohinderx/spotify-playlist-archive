@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-69 songs - 7 hr 14 min
+70 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 |  |
 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 | 2021-12-01 |  |
 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 | 2021-12-01 | 2022-07-29 |
-| [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/0AhzeZYaFByVhvN7AP1Q1Y) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Hothon Se Chhu Lo Tum](https://open.spotify.com/album/7aU7dUrUsmYhPZeuUM61b5) | 6:39 | 2022-07-26 |  |
+| [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/0AhzeZYaFByVhvN7AP1Q1Y) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Hothon Se Chhu Lo Tum](https://open.spotify.com/album/7aU7dUrUsmYhPZeuUM61b5) | 6:39 | 2022-07-26 | 2023-02-17 |
+| [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/17PEMtVwg0DaC5sBjUBdAl) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 6:40 | 2023-02-16 |  |
 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 | 2021-12-01 |  |
 | [Chitthi Aai Hai](https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Naam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZpyKpCBKxRL8xRn0gKdz) | 7:14 | 2021-12-01 |  |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/02K9EZr0aJwXzHTclgNHL8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19uTzMdiFnYjNYXQsrkHc1) | 7:48 | 2021-12-01 |  |

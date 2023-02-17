@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-455 songs - 1 day 3 hr 2 min
+456 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 | 2021-03-09 |  |
 | [I'm Yours \- Live on HSN Live](https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Spotify Sessions](https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj) | 4:03 | 2021-03-09 |  |
 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 | 2021-03-09 |  |
-| [If I Lose Myself \- Acoustic](https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hangover Hug](https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj) | 3:50 | 2022-01-10 |  |
+| [If I Lose Myself \- Acoustic](https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hangover Hug](https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj) | 3:50 | 2022-01-10 | 2023-02-17 |
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:50 | 2021-03-09 | 2022-07-29 |
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/7680cGQC4epfVn5qtTuz6Q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Best of Acoustic](https://open.spotify.com/album/6nylznZYZUfprJfzLOu9fD) | 3:50 | 2022-01-10 | 2022-11-12 |
 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 | 2021-03-09 |  |
@@ -429,6 +429,7 @@
 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/4mrDXeRifQfTIKmqzU6OwL) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 3:45 | 2021-03-09 | 2022-07-29 |
 | [We Are Young \(feat\. Janelle Monáe\) \- Acoustic \[Acoustic\]](https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:32 | 2022-01-10 |  |
 | [We Are Young \- Acoustic Version](https://open.spotify.com/track/6KNFaiuhKUfEdujbGnV8K1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [We Are Young \(Acoustic Version\)](https://open.spotify.com/album/0uyGzh9iyBTejIKoJI6DAO) | 3:00 | 2021-03-09 | 2022-07-29 |
+| [We Belong Together](https://open.spotify.com/track/05ThWvQvhz619mB37nh6Rw) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [We Belong Together](https://open.spotify.com/album/3t3iAmPwPnAlo2mygWoTTr) | 3:43 | 2022-01-10 |  |
 | [We Belong Together](https://open.spotify.com/track/0EXwPgIgkSF6Hf28PAIIAf) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [We Belong Together](https://open.spotify.com/album/1PQ9r7S228GEqQUNGPopmh) | 3:43 | 2021-03-09 | 2022-07-29 |
 | [We Belong Together](https://open.spotify.com/track/3zOSVLtBseeHO9rfX3QHcl) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [We Belong Together](https://open.spotify.com/album/1oUWAy87fPnefuaZenVPjL) | 3:43 | 2022-01-10 | 2023-02-14 |
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2021-03-09 |  |

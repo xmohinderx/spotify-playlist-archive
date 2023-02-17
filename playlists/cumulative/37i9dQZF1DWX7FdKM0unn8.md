@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-112 songs - 8 hr 8 min
+113 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [내일](https://open.spotify.com/track/6gcEFFs1w5D2Ud91Qb37u2) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:42 | 2021-08-12 |  |
 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/3cWu4jWhiZ3LY27ztZ8nnt) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 6:19 | 2021-08-12 | 2022-07-29 |
 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/42cwRiFR25LYJG6CCsjWo9) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 6:19 | 2021-08-12 |  |
-| [너의 의미 The Meaning of You](https://open.spotify.com/track/2p5TdDBoY6eEvTQuzyurTV) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제10집 Volume 10](https://open.spotify.com/album/7KMnV0iErqXPklZ5L0Upts) | 3:43 | 2021-08-12 |  |
+| [너의 의미](https://open.spotify.com/track/49uWXkinbydcksyObKqNVH) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 제10집 \- 너의 의미](https://open.spotify.com/album/5B9oqFQy4vx5k03d8Y7nzl) | 3:44 | 2021-08-12 |  |
+| [너의 의미 The Meaning of You](https://open.spotify.com/track/2p5TdDBoY6eEvTQuzyurTV) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제10집 Volume 10](https://open.spotify.com/album/7KMnV0iErqXPklZ5L0Upts) | 3:43 | 2021-08-12 | 2023-02-17 |
 | [눈물나는 날에는](https://open.spotify.com/track/1SxruDTFPtDlDN4zy8I64q) | [Blue Sky](https://open.spotify.com/artist/1pzkEz6aaXEEdzoT9iGJwg) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/05IgFhaM6DRo4Ad39FS6Rq) | 5:04 | 2021-08-12 | 2022-07-29 |
 | [눈물나는 날에는](https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw) | 5:04 | 2021-08-12 |  |
 | [눈물나는 날에는](https://open.spotify.com/track/5QtGcyKgRDQfQ2FvmaQlJK) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [가락 첫번째](https://open.spotify.com/album/23rezae8qNV8XjU6mZY4UW) | 5:05 | 2021-08-12 | 2022-11-14 |

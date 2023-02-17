@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A ponerse a tono con los mejores cumbiones. Foto: Cuarteto Continental de Alberto Marav\u00ed",
+  "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
   "name": "Cumbias de Oro",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 152384,
       "name": "Costa, Sierra y Monta\u00f1a",
       "url": "https://open.spotify.com/track/61MdpHvJ4jYR4qa2x6S8NX"
@@ -1342,6 +1342,24 @@
       "duration_ms": 211480,
       "name": "Necesito un Amor",
       "url": "https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX"
+    },
+    {
+      "album": {
+        "name": "No Es por Ac\u00e1",
+        "url": "https://open.spotify.com/album/2stXVB6YsSt4Apfd0yqdwv"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "No Es por Ac\u00e1",
+      "url": "https://open.spotify.com/track/2BruX0DW2jcFftAGczIEJ5"
     },
     {
       "album": {

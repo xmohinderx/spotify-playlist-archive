@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 440333,
       "name": "#13",
       "url": "https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R"
@@ -196,10 +214,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 191466,
       "name": "180db_ [130]",
       "url": "https://open.spotify.com/track/2VfEcR59Czu8ii3u6kKeP8"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "180db_ [130]",
+      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
     },
     {
       "album": {
@@ -286,10 +322,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 459280,
       "name": "Acrid Avid Jam Shred",
       "url": "https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
     },
     {
       "album": {
@@ -376,10 +430,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "album": {
@@ -402,7 +474,7 @@
     {
       "album": {
         "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
       "artists": [
         {
@@ -410,12 +482,12 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "date_added": "2022-05-29",
+      "date_added": "2023-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 125520,
       "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+      "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
     },
     {
       "album": {
@@ -430,7 +502,43 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
       "duration_ms": 153320,
       "name": "Bbydhyonchord",
       "url": "https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO"
@@ -1104,6 +1212,24 @@
     {
       "album": {
         "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },
       "artists": [
@@ -1114,7 +1240,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 143880,
       "name": "Jynweythek",
       "url": "https://open.spotify.com/track/7etelDpVxaPTzmeZrYo8Qy"
@@ -1158,6 +1284,24 @@
     {
       "album": {
         "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287586,
+      "name": "minipops 67 [120.2][source field mix]",
+      "url": "https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm"
+    },
+    {
+      "album": {
+        "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
       "artists": [
@@ -1168,10 +1312,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 287586,
       "name": "minipops 67 [120.2][source field mix]",
       "url": "https://open.spotify.com/track/6kzLbNxsJidjc80Nw3uZVg"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
     },
     {
       "album": {
@@ -1186,7 +1348,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 231413,
       "name": "Mookid",
       "url": "https://open.spotify.com/track/7uEpv5U7Oz12wFJHAyTa6I"
@@ -1384,10 +1546,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 50343,
       "name": "piano un1 arpej",
       "url": "https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50343,
+      "name": "piano un1 arpej",
+      "url": "https://open.spotify.com/track/3s2ID3iHa7h3K8Fv1NnnLi"
     },
     {
       "album": {
@@ -1446,6 +1626,24 @@
     {
       "album": {
         "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303920,
+      "name": "produk 29 [101]",
+      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
+    },
+    {
+      "album": {
+        "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
       "artists": [
@@ -1456,7 +1654,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 303920,
       "name": "produk 29 [101]",
       "url": "https://open.spotify.com/track/4ZShsMZrAhAvemrjx1wxuv"
@@ -1600,10 +1798,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 289693,
       "name": "The Waxen Pith",
       "url": "https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "The Waxen Pith",
+      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
     },
     {
       "album": {
@@ -1716,6 +1932,24 @@
     {
       "album": {
         "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
+    },
+    {
+      "album": {
+        "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
       "artists": [
@@ -1726,7 +1960,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 631240,
       "name": "XMAS_EVET10 [120][thanaton3 mix]",
       "url": "https://open.spotify.com/track/6CUxhtTkH0fSwfmsiOKPNV"

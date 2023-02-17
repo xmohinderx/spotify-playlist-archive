@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: LIM KIM\)
 
-262 songs - 14 hr 24 min
+263 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 |  |
 | [Dim](https://open.spotify.com/track/24e46bAxpNuYepqmeqPp3a) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 2:50 | 2022-06-09 | 2022-07-28 |
 | [DISCONNECT](https://open.spotify.com/track/1MRWxMH4ZuqgZAxJxAGbOo) | [hansen](https://open.spotify.com/artist/3oNWpNbYDxI3cTjfr3iTGF), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [DISCONNECT](https://open.spotify.com/album/7DXVhaYMZVB1gaIMq1m5vp) | 4:08 | 2022-05-27 | 2022-07-09 |
+| [Donut](https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Image](https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:04 | 2023-02-13 |  |
 | [Don’t Know Why](https://open.spotify.com/track/4aAOktVosCaWRKB293rSLG) | [jayvito](https://open.spotify.com/artist/2yZNiGKZ1tmcUgWdMKcFzI) | [Country Man Episode \#1](https://open.spotify.com/album/4bktSOHI1Ckp55B53SgZv8) | 3:28 | 2022-05-27 | 2022-07-27 |
 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 | 2022-05-27 |  |
 | [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-30 |
@@ -77,7 +78,7 @@
 | [Fairytale](https://open.spotify.com/track/7tHrkDGVHx3Kfuof52qKng) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:58 | 2022-05-27 | 2022-07-09 |
 | [Fake LoVe \(feat\. Claire Hau\)](https://open.spotify.com/track/24BJ7cqVoBLXFfIe7R9X1W) | [ruask](https://open.spotify.com/artist/24VMMQuEZ0nt3KTTaM6CTQ), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Fake LoVe](https://open.spotify.com/album/1l1wS8OLuIasXzMZwDcKxk) | 2:45 | 2022-09-05 | 2023-01-10 |
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-15 |  |
-| [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 | 2022-05-27 |  |
+| [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 | 2022-05-27 | 2023-02-17 |
 | [Float \(feat\. Shelhiel, BÉBE YANA\)](https://open.spotify.com/track/1fjmOwYpFYoCma7tJCaTDu) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE), [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 3:05 | 2022-05-27 | 2022-07-17 |
 | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/album/1jIH9KeCzSSnfge1KEtb45) | 3:12 | 2022-05-27 | 2022-07-29 |
 | [Fragrance \(feat\. Khakii\)](https://open.spotify.com/track/7F3ttm6k2pqFyJBNb0u5Bj) | [KONA](https://open.spotify.com/artist/6E1vNiOCUfC7BmxAvwIYIr), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Form](https://open.spotify.com/album/7qeTx6VTMvd4utrDAvC7E0) | 3:48 | 2022-05-27 | 2022-07-13 |

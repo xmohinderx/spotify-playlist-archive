@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: BESTIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,923 likes - 98 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,925 likes - 98 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 32 | [La Vida Loca](https://open.spotify.com/track/4KVh7P5ovX38gjRZIY8nzd) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [La Vida Loca](https://open.spotify.com/album/3W0ibdeYmMs462YZNCcUqt) | 2:26 |
 | 33 | [Blush](https://open.spotify.com/track/6n7GCcOaANWWYp67s1nI5V) | [RAZÉ](https://open.spotify.com/artist/71ONx63ghBZNPZqjp525IZ) | [Blush](https://open.spotify.com/album/3vTD6VpUeXdRB4XZDf8YJe) | 2:43 |
 | 34 | [Too Easy to Hate](https://open.spotify.com/track/7ceu2cy2UIdW2OHltEkBgz) | [Hannah Blackburn](https://open.spotify.com/artist/76N4RBCCcxnKzPkSee7N5J) | [I Want to Love You](https://open.spotify.com/album/3UxV6Podyk9OOpPBUmkKgy) | 5:00 |
-| 35 | [Mesmerize](https://open.spotify.com/track/3C5Z613ZuCGYSuOsPvb49Q) | [Scarda](https://open.spotify.com/artist/5x67IdhHKLoykB7bZ38UtI) | [Mesmerize EP](https://open.spotify.com/album/321S0KXkV2Y8KgYshkKWO4) | 6:18 |
+| 35 | [Mesmerize](https://open.spotify.com/track/3C5Z613ZuCGYSuOsPvb49Q) | [Scarda](https://open.spotify.com/artist/6wz0uXwwmEfe5UpJLiUfwe) | [Mesmerize EP](https://open.spotify.com/album/321S0KXkV2Y8KgYshkKWO4) | 6:18 |
 | 36 | [Fill up the Bag](https://open.spotify.com/track/5Cr74bi6EHMuERelxXX7At) | [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp), [WILL ECB](https://open.spotify.com/artist/5uKB9TQOql0ScHMUwFf0U7) | [Fill up the Bag](https://open.spotify.com/album/5bgEaa09eL0uMEmTDCOf5U) | 2:42 |
 | 37 | [Unload the Gun](https://open.spotify.com/track/3P6c5Xx54qDFw8xniwrUMX) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Unload the Gun](https://open.spotify.com/album/46M9ISurJraSAaxTobY1ev) | 4:28 |
 | 38 | [FYA](https://open.spotify.com/track/5oFpnY23HimcmNJqOdKMzS) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [FYA](https://open.spotify.com/album/4bXy3UZ7MJAMIIoXHlEJ7f) | 4:42 |

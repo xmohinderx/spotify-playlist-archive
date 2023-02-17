@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-714 songs - 1 day 14 hr 50 min
+716 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Grace](https://open.spotify.com/track/5iZR5MN9qvGgnyOblSdlH1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Grace](https://open.spotify.com/album/3BIuAv9phvIqWSXhgWCfXV) | 3:00 | 2022-09-26 |  |
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 | 2022-04-06 |
 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
+| [Guitar Sikhda](https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Do Gabru \- Jassi Gill & Amrit Maan](https://open.spotify.com/album/4NA7IQDtm526DqzmqxWiZr) | 3:09 | 2023-02-16 |  |
 | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/3bROU8JC8KpB2YVDjHboJK) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Maninder Kailey](https://open.spotify.com/artist/3pkSY4dPiyXvWvX8flcQnr) | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6) | 4:37 | 2022-08-19 | 2023-02-04 |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-01-19 | 2022-04-06 |
 | [Haadsa](https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Haadsa](https://open.spotify.com/album/5amFOjDhjHu3RknedulVt7) | 4:54 | 2022-02-07 | 2022-02-12 |
@@ -345,6 +346,7 @@
 | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/track/2a8NpQ2XWPzfTR1JH5Zw7j) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/album/2Xdgv8cnKsvblGmv1h4mv5) | 4:16 | 2022-01-21 | 2022-01-28 |
 | [Lambo \(Version Snappy\)](https://open.spotify.com/track/3nQZULgmcDRUFTLrY7yw03) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:18 | 2022-01-17 | 2022-02-01 |
 | [Lambo Car](https://open.spotify.com/track/7hzjokqjgAolbg3xqeG21k) | [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf), [Simar Kaur](https://open.spotify.com/artist/0Y1YOEVDYNn3UjVuXljM2m), [Neha Sharma](https://open.spotify.com/artist/3XLZGHc3hdywEa50EiMrEt) | [Lambo Car](https://open.spotify.com/album/6tAGlCN5ToaR5o7hG4IBGL) | 3:15 | 2021-12-02 | 2022-04-06 |
+| [Last Love](https://open.spotify.com/track/5VfiTJFLB1wNrVy7bXhiso) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Last Love](https://open.spotify.com/album/5RdGabhTm8Q4X2FNRaLKCg) | 0:59 | 2023-02-16 |  |
 | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 |  |
 | [Lemme See](https://open.spotify.com/track/1HuS5LXJT6IitmeQrNPXlc) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 3:20 | 2022-11-24 | 2022-11-26 |
 | [Lemme See](https://open.spotify.com/track/4dOUwxwiA3Bp2SQTjBPV1K) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 3:20 | 2022-11-25 | 2022-12-16 |
@@ -430,7 +432,7 @@
 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 | 2022-07-15 |  |
 | [Naal Tere](https://open.spotify.com/track/2otmGV59HeaGlKyeTSFIPK) | [Karaj Randhawa](https://open.spotify.com/artist/39HFvmMOlyMJAsfDgaN8y0) | [Shikari](https://open.spotify.com/album/6xo8xhZJuEzeXhNbCCEEzH) | 4:34 | 2022-05-09 | 2022-05-20 |
 | [Nain Bol De](https://open.spotify.com/track/4Y0PRLkBY71v8TtgA3qjGF) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 3:56 | 2022-09-23 | 2023-02-04 |
-| [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 | 2022-06-16 | 2022-07-06 |
+| [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 | 2022-06-16 |  |
 | [Naina Diyan Galtiyan](https://open.spotify.com/track/5keKZEx9g3CrWS9AdnWgTg) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Television](https://open.spotify.com/album/2j54GraLdXP9yiAon7IFD1) | 3:30 | 2022-06-22 | 2022-07-06 |
 | [Nakhre](https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nakhre](https://open.spotify.com/album/0HtBqzjXxKaw9RxJYjR9gi) | 3:20 | 2022-07-13 | 2022-09-23 |
 | [Nasheyan Ch Patteya Peya](https://open.spotify.com/track/5ARAj182la0NfRuTKVZiBJ) | [Nav Sandhu](https://open.spotify.com/artist/7s8fmhe8tVbA8cxnDAPExg), [Gur Chahal](https://open.spotify.com/artist/1rt19qkEViw6JnmrDzm4A7) | [Nasheyan Ch Patteya Peya](https://open.spotify.com/album/5KH4LRxPaSvWaMJSWRMSgR) | 3:32 | 2022-03-03 | 2022-03-11 |

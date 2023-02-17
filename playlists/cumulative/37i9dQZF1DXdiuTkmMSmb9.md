@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Libianca
 
-224 songs - 11 hr 44 min
+226 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-19 |  |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-07-18 |  |
 | [Call On Me](https://open.spotify.com/track/17CX4RtACoNNYfq7sk8QTf) | [Joanny](https://open.spotify.com/artist/7mNtIw5k6cbKytRLhPIye2) | [Call On Me](https://open.spotify.com/album/7pcYv7Nvls8lrZyCzVHHjq) | 3:05 | 2022-10-27 |  |
+| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2023-02-16 |  |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-07-18 | 2022-11-18 |
 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-17 |  |
 | [Cant Get Enough](https://open.spotify.com/track/0IehPwtATgB4Ibb2xDRIcE) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9) | [Cant Get Enough](https://open.spotify.com/album/4fzRpSBTZ7HDroMgV5whBj) | 2:02 | 2023-01-05 |  |
@@ -85,6 +86,7 @@
 | [High](https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 3:13 | 2022-08-25 | 2022-09-09 |
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-08-25 | 2022-09-09 |
 | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/track/577o8dF3FtOvCMiN56ilmz) | [DJ Discretion](https://open.spotify.com/artist/08CmTveAFjDqu36A2pKe1A), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/album/1PrLMFlEKDhPXANZVOYn45) | 3:47 | 2022-07-18 | 2023-02-03 |
+| [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 |  |
 | [Holla](https://open.spotify.com/track/2ARamJKit1oRH4ZfAkf3eD) | [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Holla](https://open.spotify.com/album/2Hk8cgwWnyz8E4Ziw2MH8C) | 3:14 | 2022-09-08 |  |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-18 |  |
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-04 | 2022-11-18 |
@@ -150,7 +152,7 @@
 | [Okay](https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Okay](https://open.spotify.com/album/4lcZJepsDpN3YmtJidQwQp) | 2:48 | 2022-09-05 | 2022-09-09 |
 | [On Di Low](https://open.spotify.com/track/4bcpjP8x9RovEBXVZwqZeB) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [On Di Low](https://open.spotify.com/album/2gtTIIBEINcTUUFIHv7Mm5) | 3:39 | 2022-08-25 | 2023-01-13 |
 | [ONE MORE NIGHT](https://open.spotify.com/track/6gNU7w0XIn0OPv3xsQM713) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [ONE MORE NIGHT](https://open.spotify.com/album/4UI8mlzCWOAbApGZJDgNbX) | 2:15 | 2022-07-18 | 2022-08-26 |
-| [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 |  |
+| [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2023-02-17 |
 | [OSHEY](https://open.spotify.com/track/1zRY2bVIDw73tMnkdKdQeL) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP) | [OSHEY](https://open.spotify.com/album/2uaFc5Zvs5T69cvf2C0GY1) | 2:35 | 2023-02-02 |  |
 | [OT](https://open.spotify.com/track/77JvN2qVTXH7NwHO581i5F) | [DENZ](https://open.spotify.com/artist/1yvT6bvlI4747X4WzYH941) | [OT](https://open.spotify.com/album/0CzGGkb19nTxjShYH9D7Xf) | 3:12 | 2022-07-18 | 2022-10-28 |
 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-07-18 | 2022-12-02 |

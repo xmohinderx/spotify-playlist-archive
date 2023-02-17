@@ -2,7 +2,7 @@
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: Victoria Monét & Bryson Tiller
+> The newest r&b drops, every week\. Cover: CoCo Jones & Leon Thomas
 
 783 songs - 1 day 18 hr 10 min
 
@@ -160,7 +160,7 @@
 | [Come With Me](https://open.spotify.com/track/7xDWUhy7YerkQMFUGwwaOr) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [4Play](https://open.spotify.com/album/5gCeVO8gppwKGpQ6t9t3rr) | 2:34 | 2022-01-14 | 2022-02-26 |
 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 | 2022-07-01 | 2022-08-06 |
 | [Compromise \(feat\. Rema\)](https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:15 | 2022-08-05 | 2022-09-17 |
-| [Concentrate \- feat\. Dua Saleh](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
+| [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 | 2022-03-18 | 2022-05-14 |
 | [Coo Wit Me](https://open.spotify.com/track/4YoQyBshYwscyjwA4KATuv) | [Rayven Justice](https://open.spotify.com/artist/0m9husdLSRyNHOuxFAr5hB), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l) | [Coo Wit Me](https://open.spotify.com/album/1CKdif3fNJZNWIY7XH1Yt3) | 2:46 | 2022-01-21 | 2022-02-26 |
 | [corazon \(with French Montana\)](https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 2:33 | 2022-09-30 | 2022-12-03 |

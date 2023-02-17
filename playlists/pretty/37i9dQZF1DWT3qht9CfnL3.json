@@ -1,13 +1,45 @@
 {
   "description": "Canciones de despecho para cantarle a quien te rompi\u00f3 el coraz\u00f3n.",
-  "num_followers": 285204,
+  "num_followers": 285423,
   "original_name": "Reggaet\u00f3n para Tu Ex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMGU2M2U0ZjkxZWNkZmFhMjhkMjE0ZDI4N2U2NGY0ZjQ5",
+  "snapshot_id": "MTY3NjU5MjU4NSwwMDAwMDAwMDZhMzNhNGE5NzY1YjdhNDZjOWQ1YWEyNjU0ZTAwYTk1",
   "tracks": [
+    {
+      "added_at": "2023-02-17 00:09:35",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+    },
+    {
+      "added_at": "2023-02-17 00:09:35",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
     {
       "added_at": "2023-02-10 06:00:00",
       "album": {

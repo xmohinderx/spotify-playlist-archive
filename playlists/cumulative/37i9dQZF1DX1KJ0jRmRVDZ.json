@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 183426,
       "name": "Wanted, Wasted",
       "url": "https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON"
@@ -6208,7 +6208,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 233133,
       "name": "\u30b9\u30af\u30ef\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd"
@@ -6346,6 +6346,24 @@
       "duration_ms": 237500,
       "name": "\u30bf\u30af\u30c8",
       "url": "https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30a6\u30f3\u30bf\u30a4\u30e0 (\u3059\u308a\u3043 Ver.)",
+        "url": "https://open.spotify.com/album/7IsB7FvLPqJRaph9f5wSLt"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "\u30c0\u30a6\u30f3\u30bf\u30a4\u30e0 - \u3059\u308a\u3043 ver.",
+      "url": "https://open.spotify.com/track/57KuvGBeYhvQRvNY7UpIl3"
     },
     {
       "album": {
@@ -7902,6 +7920,32 @@
       "duration_ms": 162461,
       "name": "\u4eba\u9593",
       "url": "https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u9593\u305f\u308b\u3082\u306e (feat. \u3082\u3053\u3046, \u30e6\u30ea\u30a4\u30fb\u30ab\u30ce\u30f3)",
+        "url": "https://open.spotify.com/album/1ICKbyc8VJBLxFYnYabs3d"
+      },
+      "artists": [
+        {
+          "name": "WI'P",
+          "url": "https://open.spotify.com/artist/1KEzWZ1QDaSTOCDnOB8R5n"
+        },
+        {
+          "name": "\u3082\u3053\u3046",
+          "url": "https://open.spotify.com/artist/7xo4duEUPlaF6Ux6XYSKoK"
+        },
+        {
+          "name": "\u30e6\u30ea\u30a4\u30fb\u30ab\u30ce\u30f3",
+          "url": "https://open.spotify.com/artist/5BxqmNmDhSlTqIPXKeZIwN"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "\u4eba\u9593\u305f\u308b\u3082\u306e - feat. \u3082\u3053\u3046, \u30e6\u30ea\u30a4\u30fb\u30ab\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/7cUfHMsJ1QtyfJhVwD9Y7g"
     },
     {
       "album": {

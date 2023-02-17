@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Yelle",
+  "description": "The best French indie tracks right now. Cover: Silly Boy Blue",
   "name": "Made in France",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 212880,
       "name": "Amour Halog\u00e8ne",
       "url": "https://open.spotify.com/track/7tGH74eIWFCUId56ZJvgPb"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 198506,
       "name": "Crush (feat. Ana\u00efs Demoustier)",
       "url": "https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2"
+    },
+    {
+      "album": {
         "name": "Humains apr\u00e8s tout",
         "url": "https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd"
       },
@@ -2016,6 +2034,24 @@
       "duration_ms": 206608,
       "name": "j'attends",
       "url": "https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ"
+    },
+    {
+      "album": {
+        "name": "Jamais les m\u00eames",
+        "url": "https://open.spotify.com/album/5G49O3DzRaNZ5htXu3XhM9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Faron",
+          "url": "https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176127,
+      "name": "Jamais les m\u00eames",
+      "url": "https://open.spotify.com/track/0pTlR1MBae9DSvYTI8falu"
     },
     {
       "album": {
@@ -2688,7 +2724,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 193920,
       "name": "Les yeux, le reste",
       "url": "https://open.spotify.com/track/3DrMtgnkoPtgQ3iLkXaEzw"
@@ -3801,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Rendez-Vous",
+        "url": "https://open.spotify.com/album/3dsqMctn4QRKBgnkOKjQy9"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Rendez-vous",
+      "url": "https://open.spotify.com/track/154FZo5XA2j8PqpsWeBzOt"
+    },
+    {
+      "album": {
         "name": "11 mai 2020",
         "url": "https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq"
       },
@@ -3910,7 +3964,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 134946,
       "name": "Septembre",
       "url": "https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2"
@@ -4928,6 +4982,24 @@
       "duration_ms": 209045,
       "name": "When She's Gone",
       "url": "https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo"
+    },
+    {
+      "album": {
+        "name": "Widow Dreams Forever",
+        "url": "https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Widow Dreams Forever",
+      "url": "https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA"
     },
     {
       "album": {

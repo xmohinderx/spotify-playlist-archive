@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\. Cover:  CoCo Jones & Leon Thomas
+> The pulse of R&B music today\. Cover:  Victoria Monét & Bryson Tiller
 
 250 songs - 14 hr 21 min
 

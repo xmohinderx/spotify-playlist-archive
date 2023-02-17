@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X x Gabry Ponte x Alida
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,024 likes - 26 songs - 1 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,029 likes - 26 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 25 | [Monster \(feat\. LUM!X, Gabry Ponte\) \- Slowed Version](https://open.spotify.com/track/1USYre3e8uUmpeY9fwKsp2) | [Nightcore Slowed Down Tunes](https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs) | [Monster \(feat\. LUM!X, Gabry Ponte\) \[Slowed Version\]](https://open.spotify.com/album/0rDwHNE8nm9Icdgzecewx1) | 2:45 |
 | 26 | [Monster \(feat\. LUM!X, Gabry Ponte\) \- Sped Up Version](https://open.spotify.com/track/3RXqPSEMCXYoLbe4iiKgOj) | [Nightcore Sped Up Tunes](https://open.spotify.com/artist/2ts13g0k5xRvkUV4yGvXYF) | [Monster \(feat\. LUM!X, Gabry Ponte\) \[Sped Up Version\]](https://open.spotify.com/album/5bjLeN6GcZpFMP2hBjMjQ0) | 2:02 |
 
-Snapshot ID: `NjQxMSxmNDE4ZjZjNTIxYTg3ZWNiNmJmNDVlMzhhNGU5NTQwOTQzMjY3ZmFm`
+Snapshot ID: `NjQxMixhZDNlNTRiMjQ0ZDI4ZmNmZWU2YzRiOTYyMTIyNWQ2MTMwNjdiMmMz`

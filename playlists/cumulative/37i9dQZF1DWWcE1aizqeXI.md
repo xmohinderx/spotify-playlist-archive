@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 3 hr 42 min
+78 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 | 2022-07-14 | 2022-11-23 |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-14 | 2022-11-23 |
 | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 | 2022-11-22 |  |
-| [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 | 2022-11-22 |  |
+| [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 | 2022-11-22 | 2023-02-17 |
+| [DO WHAT I LIKE](https://open.spotify.com/track/1w7gDQluRmhXqDi2jjqM1K) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DON'T LET THE DEVIL IN](https://open.spotify.com/album/4442PIQn9b3i9UQtPlejAE) | 2:16 | 2022-11-22 |  |
 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 | 2022-07-14 | 2022-11-23 |
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-11-22 |  |
 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 | 2022-07-14 | 2022-11-23 |

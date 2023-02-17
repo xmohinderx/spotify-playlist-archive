@@ -1,6 +1,6 @@
 {
   "description": "The latest, greatest soundtracks from the big and small screen.",
-  "num_followers": 187680,
+  "num_followers": 187811,
   "original_name": "Soundtracked",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,30 @@
       "duration_ms": 192560,
       "name": "Actually Her",
       "url": "https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp"
+    },
+    {
+      "added_at": "2023-02-10 04:00:00",
+      "album": {
+        "name": "The Last Kingdom: The Beloveds",
+        "url": "https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk"
+      },
+      "artists": [
+        {
+          "name": "John Lunn",
+          "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        },
+        {
+          "name": "Danny Saul",
+          "url": "https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "The Last Kingdom: The Beloveds",
+      "url": "https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH"
     },
     {
       "added_at": "2023-02-10 04:00:00",

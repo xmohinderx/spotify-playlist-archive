@@ -4,7 +4,7 @@
 
 > Just chill.
 
-442 songs - 1 day 1 hr 28 min
+444 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Adore](https://open.spotify.com/track/0uX5yDULIjZZKhN70bca7l) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Adore](https://open.spotify.com/album/3C0wljVQ3Ao3YGycB7Tjw4) | 3:27 | 2022-11-25 |  |
 | [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2023-01-15 |  |
 | [alien jewelry](https://open.spotify.com/track/33pTrKPiYyP4F49jCgjNio) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [isolation](https://open.spotify.com/album/43zVD3ARisgdFdyPh8gt8Y) | 3:46 | 2021-01-15 |  |
-| [All I C Is U](https://open.spotify.com/track/2x4NzWn2QKMfnkwZzrQrd5) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Hunny](https://open.spotify.com/album/1jU9A4NHI3xVySNckr0HDn) | 2:40 | 2020-10-16 |  |
+| [All I C Is U](https://open.spotify.com/track/2x4NzWn2QKMfnkwZzrQrd5) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Hunny](https://open.spotify.com/album/1jU9A4NHI3xVySNckr0HDn) | 2:40 | 2020-10-16 | 2023-02-17 |
 | [All Over Me](https://open.spotify.com/track/0afR4ctrn6l22hzCFh8RYY) | [Cards](https://open.spotify.com/artist/5hzb5m0WYwl0w2495YeGwX), [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [All Over Me](https://open.spotify.com/album/0YgqEIwHyAS6IBqjmVOaC3) | 3:20 | 2020-01-10 | 2022-01-22 |
 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2022-11-25 |  |
 | [Alphamale](https://open.spotify.com/track/4YjSFVKbjEXHEgFiE4aFP4) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [Alphamale](https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ) | 4:57 | 2022-01-21 |  |
@@ -88,7 +88,7 @@
 | [Comfortable \(feat\. Hand Habits\)](https://open.spotify.com/track/43U3PxxpEJGNs7BCAn8oTS) | [Quarter\-Life Crisis](https://open.spotify.com/artist/3qnQaCIYlxiFNyd4oIwuKW), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Comfortable](https://open.spotify.com/album/51b0cORlSI2dJzC5P33a2k) | 2:39 | 2020-11-13 | 2022-01-22 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2022-11-12 |
 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2020-10-19 | 2023-01-14 |
-| [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2020-10-16 |  |
+| [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2020-10-16 | 2023-02-17 |
 | [Crocodile](https://open.spotify.com/track/5D4RqYeLGebipeelVqUpWA) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Crocodile](https://open.spotify.com/album/4R0LvyXONImViHbzwSFTx1) | 3:41 | 2022-08-19 |  |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-06-07 | 2023-02-02 |
 | [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 | 2022-08-19 |  |
@@ -248,7 +248,7 @@
 | [Lovers \- Home Made](https://open.spotify.com/track/3LCv4ehAqBw48wNxi3f7lA) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers \(Home Made\)](https://open.spotify.com/album/6IymIPK8N4sO7OxhErwbOn) | 3:25 | 2020-07-31 | 2022-07-29 |
 | [Loving You Is a Mountain](https://open.spotify.com/track/0SkEBMQtYIJod3piPJMQeZ) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/0ZXvg7lMTyzDpEeY09Yqxg) | 3:28 | 2022-06-10 | 2022-08-20 |
 | [Loving You Is a Mountain](https://open.spotify.com/track/4tqZET1gHOGWY6UbHv6qWf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/2lEk0vfHvGzrM9xbhUvxfu) | 3:28 | 2020-05-29 | 2022-07-29 |
-| [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2020-10-05 |  |
+| [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2020-10-05 | 2023-02-17 |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-08-27 | 2022-08-20 |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 | 2022-06-10 |
 | [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 | 2022-05-12 |
@@ -319,9 +319,11 @@
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-09-02 |  |
 | [Running](https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Running](https://open.spotify.com/album/7FV8an2r9aQwCDIS0ItDEz) | 4:10 | 2022-11-11 | 2023-02-11 |
+| [Sad Disco \(Pine Studios\)](https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sad Disco \(Pine Studios\)](https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X) | 3:47 | 2023-02-16 |  |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-05 |  |
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 |  |
+| [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 |  |
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-29 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-25 |  |

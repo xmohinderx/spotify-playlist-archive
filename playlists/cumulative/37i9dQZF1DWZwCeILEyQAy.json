@@ -1542,10 +1542,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 163404,
       "name": "Don't Worry Bout It",
       "url": "https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18"
+    },
+    {
+      "album": {
+        "name": "Before The Gloss Up",
+        "url": "https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Don't Worry Bout It",
+      "url": "https://open.spotify.com/track/6lGIG2grLsGWpVd2wtK94h"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "maybe it's punk, maybe it's not. Cover: slowthai",
+  "description": "maybe it's punk, maybe it's not. Cover: Hak Baker",
   "name": "unleashed",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/4CTR4308FLv0J234RjREIl"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190206,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
+    },
+    {
+      "album": {
         "name": "BLACKOUT",
         "url": "https://open.spotify.com/album/0W0I2VBZ4UQRIAmq3LDu5f"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 183750,
       "name": "City",
       "url": "https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX"
     },
     {
       "album": {
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 180253,
       "name": "Gang",
       "url": "https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe"
@@ -1453,6 +1489,42 @@
     },
     {
       "album": {
+        "name": "Hate Thy Neighbour",
+        "url": "https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135821,
+      "name": "Hate Thy Neighbour",
+      "url": "https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt"
+    },
+    {
+      "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "album": {
         "name": "Having a Headache",
         "url": "https://open.spotify.com/album/4PJLSSs46r41EnOyzLRcM8"
       },
@@ -1482,7 +1554,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 180942,
       "name": "Hazmat Suit (My Ass)",
       "url": "https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2"
@@ -1558,6 +1630,32 @@
       "duration_ms": 90130,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/6SvllC0AxXwxxFHmzq6WRO"
+    },
+    {
+      "album": {
+        "name": "Hollywood Baby",
+        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187944,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
     {
       "album": {
@@ -2524,7 +2622,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 174386,
       "name": "Payday",
       "url": "https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX"
@@ -3150,7 +3248,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 216000,
       "name": "something about the sky",
       "url": "https://open.spotify.com/track/5iKPJOA5c2wfaxoAIgHEIq"
@@ -3336,6 +3434,24 @@
       "duration_ms": 134385,
       "name": "TEEN POP SENSATION",
       "url": "https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp"
+    },
+    {
+      "album": {
+        "name": "Telephones 4 Eyes",
+        "url": "https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Telephones 4 Eyes",
+      "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
     },
     {
       "album": {
@@ -3618,7 +3734,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 225850,
       "name": "What Do You Stand For",
       "url": "https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN"
@@ -3672,7 +3788,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 125500,
       "name": "you can't blame me",
       "url": "https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU"

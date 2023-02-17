@@ -5159,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Souped Up",
+        "url": "https://open.spotify.com/album/6kJ9jCbCagGk0RnCPGAuVu"
+      },
+      "artists": [
+        {
+          "name": "Jobii",
+          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180724,
+      "name": "Souped Up",
+      "url": "https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8"
+    },
+    {
+      "album": {
         "name": "Spinn",
         "url": "https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd"
       },
@@ -6262,6 +6280,24 @@
       "duration_ms": 181192,
       "name": "White Island Dreams",
       "url": "https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv"
+    },
+    {
+      "album": {
+        "name": "wicked play",
+        "url": "https://open.spotify.com/album/31L7sJ9kqF3tFueTDTIJ0n"
+      },
+      "artists": [
+        {
+          "name": "temperley",
+          "url": "https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "wicked play",
+      "url": "https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U"
     },
     {
       "album": {

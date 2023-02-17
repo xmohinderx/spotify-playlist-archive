@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "De Todo Un Poco",
+        "url": "https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "De Todo Un Poco",
+      "url": "https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR"
+    },
+    {
+      "album": {
         "name": "Dile la Verdad",
         "url": "https://open.spotify.com/album/3Dkx5E4pkCpRrcZd4mww3B"
       },
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 147626,
       "name": "Hasta Luego",
       "url": "https://open.spotify.com/track/0sO1CZLWa4hvNSlOaXReao"

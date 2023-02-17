@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Gloss Up
 
-273 songs - 11 hr 32 min
+274 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Don't Play](https://open.spotify.com/track/5zEq1mqGirH009KcMuqGqO) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Don't Play](https://open.spotify.com/album/5ClsWoaxg0zkb4PPrCfXyZ) | 2:02 | 2022-10-21 | 2022-11-19 |
 | [Don't Play With It](https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It](https://open.spotify.com/album/3373Pl3x4uwUPXh0UMRw8N) | 2:11 | 2021-11-05 | 2022-10-14 |
 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2022-10-07 | 2022-10-22 |
-| [Don't Worry Bout It](https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp) | 2:43 | 2023-01-20 |  |
+| [Don't Worry Bout It](https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp) | 2:43 | 2023-01-20 | 2023-02-17 |
+| [Don't Worry Bout It](https://open.spotify.com/track/6lGIG2grLsGWpVd2wtK94h) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:43 | 2023-02-10 |  |
 | [Drill a RaMA \(feat\. Benny the Butcher\)](https://open.spotify.com/track/0ScyCZruSs8LADmXmsEQ19) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [THE LIZ](https://open.spotify.com/album/4qBqFNBcgixIpe1tlvE8ck) | 2:43 | 2021-11-05 | 2022-03-18 |
 | [Dumb/Stupid](https://open.spotify.com/track/2ewdtjffbtvP0Lt68K9jsE) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY), [LX Xander](https://open.spotify.com/artist/7598n51vAewRhWsNTYeSvU) | [Mischief Mixtape](https://open.spotify.com/album/5O2jPbU1pueqbGMjMliwMP) | 1:45 | 2022-11-18 | 2022-11-26 |
 | [Dummy Ummy](https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dummy Ummy](https://open.spotify.com/album/5ZO8kA1XhkGlf3fZZYgIZ3) | 1:51 | 2022-03-11 | 2022-07-29 |

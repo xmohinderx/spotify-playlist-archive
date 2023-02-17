@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-784 songs - 1 day 19 hr 19 min
+785 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Ultra Solo \- Remix](https://open.spotify.com/track/6XIxcnQAX83CmsH1N9LJCl) | [Lukini](https://open.spotify.com/artist/06a9X5kr438kASDs9THorD), [Jupa Necasek](https://open.spotify.com/artist/58JXOS3y0SA0tgyJTIJYgO) | [Ultra Solo \(Remix\)](https://open.spotify.com/album/5UJo3d41qY1QMth03N0UKF) | 2:38 | 2022-06-16 | 2022-06-27 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-07-13 | 2022-08-21 |
 | [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-31 | 2022-06-17 |
-| [Un poco de suerte](https://open.spotify.com/track/1lvveqa2wWop6IKu7hYrJH) | [Nvscvr](https://open.spotify.com/artist/2YB75f3AI0PqcfW4kQ4kIz) | [Final Lap](https://open.spotify.com/album/6GRZoiLnmhmwmdr8klWsyW) | 4:00 | 2023-02-15 |  |
+| [Un poco de suerte](https://open.spotify.com/track/1lvveqa2wWop6IKu7hYrJH) | [Nvscvr](https://open.spotify.com/artist/2YB75f3AI0PqcfW4kQ4kIz) | [Final Lap](https://open.spotify.com/album/6GRZoiLnmhmwmdr8klWsyW) | 4:00 | 2023-02-15 | 2023-02-17 |
 | [Un Ramito De Violetas](https://open.spotify.com/track/3exX0sgCdCHq91Emx4z2Fz) | [Zalo Reyes](https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ) | [Canto Por Amor](https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ) | 3:57 | 2022-08-23 | 2022-11-18 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-31 | 2022-07-01 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-06-01 | 2022-06-15 |
@@ -783,6 +783,7 @@
 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 | 2022-11-23 | 2022-12-01 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2023-01-02 | 2023-01-09 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-11-15 | 2022-11-24 |
+| [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-02-16 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-25 |
 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 | 2022-09-09 | 2022-10-05 |
 | [ウタカタララバイ](https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 2:53 | 2022-11-08 | 2022-11-23 |

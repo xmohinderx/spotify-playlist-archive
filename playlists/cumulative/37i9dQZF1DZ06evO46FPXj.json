@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 338506,
       "name": "6IE.CR",
       "url": "https://open.spotify.com/track/4pWGfHMxp8z9vaOM3oxFWO"
@@ -668,10 +668,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 514000,
       "name": "Clipper",
       "url": "https://open.spotify.com/track/0tH7mxb2ML1VlOinHRcelQ"
+    },
+    {
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514000,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/1ArhkZYHmJGXZOMV6NwxjJ"
     },
     {
       "album": {
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 282560,
       "name": "known(1)",
       "url": "https://open.spotify.com/track/1aNXY1y64m1XKAaNTuUdcm"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 444493,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5seVVzH1SZXwu7UjrDcHnD"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"
@@ -1896,6 +1914,24 @@
       "duration_ms": 334160,
       "name": "Notwo",
       "url": "https://open.spotify.com/track/7hHUHGKvEsce78bcvPZ6kL"
+    },
+    {
+      "album": {
+        "name": "L-event",
+        "url": "https://open.spotify.com/album/3cueiJohv2FIIj5NYyn6cn"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491216,
+      "name": "Osla for n",
+      "url": "https://open.spotify.com/track/2q7T5yWSOMheZrPX3O0YlI"
     },
     {
       "album": {
@@ -1946,10 +1982,28 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 183480,
       "name": "paralel Suns",
       "url": "https://open.spotify.com/track/1MBshtR7zAuXisqVHN5gGY"
+    },
+    {
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "paralel Suns",
+      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
     },
     {
       "album": {
@@ -2108,10 +2162,28 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 153173,
       "name": "plyPhon",
       "url": "https://open.spotify.com/track/0yBBQ0YaQGXDXBoJwdDJfN"
+    },
+    {
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153173,
+      "name": "plyPhon",
+      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
     },
     {
       "album": {
@@ -2476,6 +2548,24 @@
     {
       "album": {
         "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331066,
+      "name": "Silverside",
+      "url": "https://open.spotify.com/track/4BIIlGHtrRrmgDjvd7asDF"
+    },
+    {
+      "album": {
+        "name": "Amber",
         "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
       },
       "artists": [
@@ -2511,6 +2601,42 @@
     },
     {
       "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300013,
+      "name": "Simmm",
+      "url": "https://open.spotify.com/track/1DDTOzysMCyYArxftQIGsp"
+    },
+    {
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381106,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/33zDGjUK3BiqgFxoIpUWLy"
+    },
+    {
+      "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
       },
@@ -2522,7 +2648,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 381106,
       "name": "Slip",
       "url": "https://open.spotify.com/track/6wTXs58QJBjjwWVwX4ECTM"
@@ -2648,7 +2774,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 219480,
       "name": "Tankakern",
       "url": "https://open.spotify.com/track/3ZD4sI2uQ1ZMUgU2PlGdYx"
@@ -2872,6 +2998,24 @@
     {
       "album": {
         "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507240,
+      "name": "VLetrmx",
+      "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
+    },
+    {
+      "album": {
+        "name": "Garbage",
         "url": "https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl"
       },
       "artists": [
@@ -2882,7 +3026,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 507373,
       "name": "VLetrmx",
       "url": "https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC"

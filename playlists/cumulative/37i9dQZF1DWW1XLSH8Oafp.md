@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-540 songs - 1 day 7 hr 21 min
+541 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 | 2022-04-22 | 2022-08-17 |
 | [Automatic](https://open.spotify.com/track/61Czn0cv9o0J0At7R8jZgn) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Automatic](https://open.spotify.com/album/6qgb7CRYGAp6munGsxtd7p) | 3:05 | 2022-07-22 | 2022-08-27 |
 | [Autumn Leaves](https://open.spotify.com/track/0DtH5GJhj04tLmZXgBbZmP) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Autumn Leaves](https://open.spotify.com/album/1lmWypxn13NRgFaoaHR9sx) | 4:38 | 2023-01-13 |  |
-| [away we go](https://open.spotify.com/track/6fQF7nXt0HGdZFUME3bWsZ) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [runaway](https://open.spotify.com/album/56fmWBcszTXcVSEGcTWWlv) | 3:16 | 2022-11-11 |  |
+| [away we go](https://open.spotify.com/track/1okoQz8zSkpsiItIWZXZpc) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [runaway](https://open.spotify.com/album/4nfEIcsk07kD6emNPSTWhH) | 3:16 | 2022-11-11 |  |
+| [away we go](https://open.spotify.com/track/6fQF7nXt0HGdZFUME3bWsZ) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [runaway](https://open.spotify.com/album/56fmWBcszTXcVSEGcTWWlv) | 3:16 | 2022-11-11 | 2023-02-17 |
 | [b4](https://open.spotify.com/track/1ipq1rWpQmOWR8H7pGaodt) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [b4](https://open.spotify.com/album/3IFIvsTnpNUg5RihCJ4DpM) | 2:14 | 2022-03-04 | 2022-06-11 |
 | [b4 \- TOKYOPILL Remix](https://open.spotify.com/track/4NUhP03UEsCp2L76QwZqjp) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR), [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [b4 \(TOKYOPILL Remix\)](https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl) | 3:01 | 2022-04-22 | 2022-07-12 |
 | [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard](https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv) | 2:05 | 2022-10-28 |  |

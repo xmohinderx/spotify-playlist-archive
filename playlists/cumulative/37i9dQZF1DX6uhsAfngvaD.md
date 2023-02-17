@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-329 songs - 20 hr 26 min
+330 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-12-22 |  |
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
+| [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 |  |
 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
@@ -184,7 +185,7 @@
 | [Like Before You Were Born](https://open.spotify.com/track/0K8N0F3efUhd55TxNGgmGD) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 3:04 | 2019-11-19\* | 2020-08-09 |
 | [Love Me](https://open.spotify.com/track/1xY6m1UsQBb2HvlbXKVn7j) | [María Katherina](https://open.spotify.com/artist/23kdzRoLtwrQvP06r6301H) | [Love Me](https://open.spotify.com/album/2pxkyODJtT5al2s5RLGETu) | 4:32 | 2021-03-26 | 2022-07-10 |
 | [Love of My Life](https://open.spotify.com/track/5l4UVzmcW0vt2N7BXXS9M0) | [Summer Camp](https://open.spotify.com/artist/687094MtNCTh262Otm1LOD) | [Love of My Life / Danny and John](https://open.spotify.com/album/5Zw8N0l5uxIv3WKpzojfe4) | 3:46 | 2019-11-19\* | 2020-12-22 |
-| [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 | 2020-12-22 |  |
+| [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 | 2020-12-22 | 2023-02-17 |
 | [Lucid](https://open.spotify.com/track/5d9BthpFORCiN5S1lVGCSc) | [Denuo](https://open.spotify.com/artist/1gqUPemXG4CjtMs2GiKw4Z) | [Lucid](https://open.spotify.com/album/7qEbXZulL607EPGjIQib7v) | 3:55 | 2019-11-19\* | 2020-08-09 |
 | [Lylz](https://open.spotify.com/track/1C9t8whBQcIDcI3mwmmFhp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/5fMUdHAcRZ3IHPd4yvg1ct) | 3:03 | 2020-09-19 | 2022-07-25 |
 | [Lylz](https://open.spotify.com/track/5BeeGmqiDfVSJGUGYEFH2G) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/1Qh2B4blDqC6iQwMe5UaS5) | 3:03 | 2020-08-09 | 2020-12-22 |

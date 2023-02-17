@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Jessy Bulbo en portada.
 
-795 songs - 1 day 23 hr 43 min
+796 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Así No Fue](https://open.spotify.com/track/4xC583lOiEPVzcXFctQm8l) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Así No Fue](https://open.spotify.com/album/1qCd65sHyMphdbWPdJ33EL) | 6:25 | 2023-01-20 | 2023-02-04 |
 | [Atardeceres](https://open.spotify.com/track/0wxnanfhLylBtzoOT30HDd) | [Bad Cruz](https://open.spotify.com/artist/0wrvFU05jCiJ0taRthgcuu), [Dubwave](https://open.spotify.com/artist/0HO1JHW9P0Ch08P2nrr7WQ) | [Atardeceres](https://open.spotify.com/album/7gZl1PanRBwmepNkmSfIoU) | 3:30 | 2022-10-21 | 2022-10-29 |
 | [Atenea](https://open.spotify.com/track/27x11sAfsfNqstFK0B3tBs) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Hybris](https://open.spotify.com/album/4OZvXnpxvmZizzrgApktkX) | 2:39 | 2022-11-11 | 2022-11-26 |
-| [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 | 2023-01-27 |  |
+| [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 | 2023-01-27 | 2023-02-17 |
 | [Aunque no sea conmigo \- En Directo en Madrid](https://open.spotify.com/track/2AfCs6ftKiQQiG3ub9Rxma) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos XX Aniversario](https://open.spotify.com/album/3jHHdtInbweyOgaC9PppaJ) | 3:42 | 2022-11-18 | 2022-12-03 |
 | [Aunque Solo Sea Una](https://open.spotify.com/track/6EIQzcsj5IWzeErB2NmXrd) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Aunque Solo Sea Una](https://open.spotify.com/album/0aT3Al2wy4dEW54xKHKqXb) | 3:44 | 2022-08-26 | 2022-09-10 |
 | [Autos Nuevos](https://open.spotify.com/track/5LZ4S5sNxydg7dKcHYGhgN) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Autos Nuevos](https://open.spotify.com/album/3Vp3C1jX7IDb71ngiU9EXq) | 3:56 | 2022-07-15 | 2022-08-06 |
@@ -500,7 +500,7 @@
 | [Nadie Ha Podido Atarte el Corazón](https://open.spotify.com/track/62kbzo8w3amTsFKMvSs07y) | [Somas Cure](https://open.spotify.com/artist/6CbW2cJt7Yz9EY1e6ewfFC) | [Nadie Ha Podido Atarte el Corazón](https://open.spotify.com/album/3He1jch3jfIkAG4PQPBnMf) | 3:24 | 2022-12-02 | 2022-12-17 |
 | [Nadie Me Entiende \- Versión Sad](https://open.spotify.com/track/0HBmBw4YNgafXkdvcA7FPn) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende \(Versión Sad\)](https://open.spotify.com/album/1nQf3yrIW8borS1FUsLm41) | 2:37 | 2022-12-23 | 2023-01-21 |
 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 | 2022-11-25 | 2022-12-10 |
-| [Nieves de Enero](https://open.spotify.com/track/2cMvvo3hBlDDUpj5YaGIle) | [La Miseria De Juan Acatlan](https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff) | [El Laberinto de la Suciedad](https://open.spotify.com/album/1HPPmX8AjjQ8ytv8rTF8BK) | 2:34 | 2023-02-15 |  |
+| [Nieves de Enero](https://open.spotify.com/track/2cMvvo3hBlDDUpj5YaGIle) | [La Miseria De Juan Acatlan](https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff) | [El Laberinto de la Suciedad](https://open.spotify.com/album/1HPPmX8AjjQ8ytv8rTF8BK) | 2:34 | 2023-02-15 | 2023-02-17 |
 | [Night Shade](https://open.spotify.com/track/77o6uEDPOIfoyWIudAkrnO) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 3:40 | 2022-08-26 | 2022-09-10 |
 | [Nights and Days](https://open.spotify.com/track/53yecxPHJzKcqI80wUXVrC) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Nights and Days](https://open.spotify.com/album/2GYLSVI5JRtTywMfxNNcJu) | 4:04 | 2022-08-12 | 2022-09-03 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2022-12-31 |
@@ -708,6 +708,7 @@
 | [taps](https://open.spotify.com/track/6njb8aG8Eze15KImIBSht6) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX) | [taps](https://open.spotify.com/album/2KRpoO6HsyQ9Y722NHh5VD) | 5:02 | 2022-09-02 | 2022-09-10 |
 | [Tbt](https://open.spotify.com/track/7G4qEtvcMsIgmapoNLL5dm) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [TBT](https://open.spotify.com/album/48jGQNlVJcDOnHIuWY116D) | 4:05 | 2022-09-09 | 2022-09-17 |
 | [Te Extraño](https://open.spotify.com/track/6AxsZ4lO6yKqMBQ2eqjNuj) | [Gran Sur](https://open.spotify.com/artist/6hZo7kuKScllGTpkj3HXAC), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Te Extraño](https://open.spotify.com/album/7LBB97kzod1CmqQuHi4I4v) | 3:19 | 2023-02-10 |  |
+| [Te Extraño \(Aerosol\)](https://open.spotify.com/track/4B0i6md57vYAm8OLTEX6xd) | [La Miseria De Juan Acatlan](https://open.spotify.com/artist/5bcdaCYpjfMADNdnMikfff) | [Te Extraño \(Aerosol\)](https://open.spotify.com/album/4e3IFs4X8sOe5TMMx00tN0) | 3:08 | 2023-02-16 |  |
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Directo en Madrid 2020](https://open.spotify.com/track/5DgIZi4ncTDzryzl1Q6IHl) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Antes de que anochezca \(En Directo en Madrid\)](https://open.spotify.com/album/3z02xWkMowT7rEVwWdM8V5) | 5:13 | 2022-06-24 | 2022-07-02 |
 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 | 2022-07-29 | 2022-08-13 |
 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 | 2022-08-26 | 2023-01-28 |

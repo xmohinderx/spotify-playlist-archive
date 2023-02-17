@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "DROP IT (Better With Condom Remix)",
+        "url": "https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Better With Condom",
+          "url": "https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "DROP IT - Better With Condom Remix",
+      "url": "https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG"
+    },
+    {
+      "album": {
         "name": "Endemic",
         "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
       },
@@ -980,7 +1002,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"

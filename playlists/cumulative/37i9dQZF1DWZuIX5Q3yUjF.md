@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Giorgia
 
-268 songs - 13 hr 15 min
+269 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 | 2022-10-13 | 2022-12-02 |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 | 2022-12-15 |  |
+| [Atacama](https://open.spotify.com/track/0TEhJsbitqBiEYccGrDGG3) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [BLU¹](https://open.spotify.com/album/1wk9xPCFOJOccWG60XhknC) | 2:52 | 2023-02-16 |  |
 | [BACIAMI X 3](https://open.spotify.com/track/0fKIA8OIw7WiJGqXxtlpM1) | [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU), [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [BACIAMI X 3](https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo) | 2:18 | 2022-08-05 | 2022-08-26 |
 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 | 2022-09-16 |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
@@ -158,7 +159,7 @@
 | [Monodose](https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp) | [Chiara Ranieri](https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6) | [Monodose](https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7) | 2:47 | 2022-06-30 | 2022-07-15 |
 | [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 | 2022-08-26 |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
-| [Nebbia](https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Nebbia](https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol) | 3:00 | 2023-02-02 |  |
+| [Nebbia](https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Nebbia](https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol) | 3:00 | 2023-02-02 | 2023-02-17 |
 | [Negli Occhi](https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE) | [Yung Florence](https://open.spotify.com/artist/6HjU7IxcwVniLK2h8VEcFd), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Negli Occhi](https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ) | 2:39 | 2022-05-05 | 2022-06-10 |
 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 | 2023-01-19 |  |
 | [Niente da dirti](https://open.spotify.com/track/6y2eneVA3eWA3WBADJjyBl) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl) | 4:01 | 2022-06-16 | 2023-01-13 |

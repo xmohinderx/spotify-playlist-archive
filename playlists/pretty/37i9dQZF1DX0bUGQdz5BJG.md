@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,398 likes - 151 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,475 likes - 151 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 83 | [Makes A Man](https://open.spotify.com/track/1qMASb6fdkPGoyGrCID2f0) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Makes A Man](https://open.spotify.com/album/0JvHSNkY62km7WrW8nWw9B) | 2:55 |
 | 84 | [Raisin' Me A Country Girl](https://open.spotify.com/track/2itrkbkx5z0IcbVCy6t2kZ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Raisin' Me A Country Girl](https://open.spotify.com/album/3lBZ8OUCW5bw6z4qmMpFgm) | 3:04 |
 | 85 | [A Little Too Good](https://open.spotify.com/track/6cWk0WPW5wzVul7tsbm7Ot) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [A Little Too Good](https://open.spotify.com/album/22oAAci1dmFgaTye4peGx4) | 4:12 |
-| 86 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:09 |
+| 86 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 |
 | 87 | [Along For The Ride](https://open.spotify.com/track/5cY2DkoSx8XXiyLJrMzMpc) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/6brYqTLZzsYeQsuwYgiT9F) | 2:51 |
 | 88 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 |
 | 89 | [Country Boys](https://open.spotify.com/track/2NbJiIzCKFpF2NPHoqzTQG) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Country Boys](https://open.spotify.com/album/0KQTruMVNtwLQDLRwyoYvj) | 2:53 |

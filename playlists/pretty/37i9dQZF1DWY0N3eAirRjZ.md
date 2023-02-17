@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,100 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,148 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 2 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 |
 | 3 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
 | 4 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 |
-| 5 | [Prisoner of Love](https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk) | 4:20 |
+| 5 | [Prisoner of Love](https://open.spotify.com/track/27dhf3MNqSiNCSX5Z7le3E) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/2V0I7vyGKDIgPjgSMhjITp) | 4:20 |
 | 6 | [Moonlight Lady](https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 1](https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw) | 4:23 |
 | 7 | [Ipo Lei Manu](https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk) | 5:10 |
 | 8 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 53 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 |
 | 54 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQ3OGVhZTc4YWY2N2M3YmI0YTllOWQwMDQzZDlmZWIx`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGFkYmE4ZjVlNTkyM2M4NzFhM2YyNmRkY2MxZjA2ODM5`

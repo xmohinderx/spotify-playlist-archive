@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,081 likes - 55 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,200 likes - 55 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 10 | [Limoncello](https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:34 |
 | 11 | [Activated](https://open.spotify.com/track/4EGteZcOt41jRmMtJlbrDF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Activated](https://open.spotify.com/album/6Ma8rxZEirihIRGqe8vXhf) | 3:59 |
 | 12 | [Money Got Vert](https://open.spotify.com/track/05dezC2AGFdLPYLYWEMUjK) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [Money Got Vert](https://open.spotify.com/album/799RCLrfBpIzZ2wVT7mV2N) | 2:13 |
-| 13 | [Can't \(feat\. RJmrLA\)](https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Been Here, Still Here](https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj) | 1:56 |
+| 13 | [Can't](https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Been Here, Still Here](https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj) | 1:37 |
 | 14 | [Let Me Know \(feat\. Jeremih\)](https://open.spotify.com/track/0JOFB6I6pIOXgieSBVFCNf) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Clan Way 3](https://open.spotify.com/album/7hnGsYnLEAwAUGNY48ISqt) | 3:02 |
 | 15 | [Ain't Like That](https://open.spotify.com/track/5sm3g5UwuDnzKN91T5elip) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [The Military](https://open.spotify.com/album/0moLVF5RdK9o2PGKxjhiZ0) | 4:07 |
 | 16 | [Gossip](https://open.spotify.com/track/7xb7wYyWhmyAlrqQZP9kHQ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Gossip](https://open.spotify.com/album/1uVHnERsCjcp5rfWEWsUAV) | 3:34 |

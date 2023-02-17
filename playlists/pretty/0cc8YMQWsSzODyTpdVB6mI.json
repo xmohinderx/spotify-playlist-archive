@@ -1,13 +1,37 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 45082,
+  "num_followers": 45087,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAzNyw3NmRkYmM4MzgzZWE4ZDM1NmJmMjAzMDJiOGVlNTEyOTUzOTk2MWI5",
+  "snapshot_id": "MzAzOSwxZDBlM2VhZjhlMGE2MzkzZWE5NTAyMmVhOTNjOWI1NGViODMyMjBi",
   "tracks": [
+    {
+      "added_at": "2023-02-16 16:12:53",
+      "album": {
+        "name": "On E (BVRLY Remix)",
+        "url": "https://open.spotify.com/album/4qSsr8Dd5R5r6i1c9Cz1yv"
+      },
+      "artists": [
+        {
+          "name": "Lil Seyi",
+          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
+        },
+        {
+          "name": "\u00cdvan Frey",
+          "url": "https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh"
+        },
+        {
+          "name": "BVRLY",
+          "url": "https://open.spotify.com/artist/7jVQkSC4lWncicyGQ7kZg6"
+        }
+      ],
+      "duration_ms": 166037,
+      "name": "On E - BVRLY Remix",
+      "url": "https://open.spotify.com/track/2AdFk3FltZs4IJ33HoMl4d"
+    },
     {
       "added_at": "2023-02-15 20:12:38",
       "album": {

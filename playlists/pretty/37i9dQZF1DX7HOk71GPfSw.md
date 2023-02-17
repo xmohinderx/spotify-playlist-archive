@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,907 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,120 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 4 | [GOD](https://open.spotify.com/track/0QozTtDAwSRv9FW5tWiaH4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [GOD](https://open.spotify.com/album/2Gb9UYPyRrI8Y9eswb7vrM) | 3:07 |
 | 5 | [All Night](https://open.spotify.com/track/4HyYobUDP5L83mS1V6Jjoa) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [All Night](https://open.spotify.com/album/5ddlKhYnRry2M8DDerFafu) | 3:00 |
 | 6 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
-| 7 | [real spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 |
+| 7 | [Real Spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 |
 | 8 | [i wrote this song for you](https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more feelings](https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI) | 2:40 |
 | 9 | [limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [limelight](https://open.spotify.com/album/5iSp0ts5cmEL7rjccqWiHy) | 3:15 |
 | 10 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |

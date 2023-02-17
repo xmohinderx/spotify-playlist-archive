@@ -1,13 +1,29 @@
 {
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "num_followers": 326911,
-  "original_name": "HOT NOW - Rauw Alejandro, Angel Dior",
+  "num_followers": 327133,
+  "original_name": "HOT NOW - Sebastian Yatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNTE4OSwwMDAwMDAwMDA4NmY1MWEwY2EzNzQyMzc5M2Q2NmE4MjA5YTBkNzRk",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDEwOTYwNmQ4MWI3Y2VmNWU2MWE2YzU2ODAwNTc5NmYx",
   "tracks": [
+    {
+      "added_at": "2023-02-17 00:00:00",
+      "album": {
+        "name": "Una Noche Sin Pensar",
+        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Una Noche Sin Pensar",
+      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
+    },
     {
       "added_at": "2023-02-13 19:06:29",
       "album": {
@@ -211,26 +227,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
-    },
-    {
-      "added_at": "2022-12-15 23:00:00",
-      "album": {
-        "name": "PLAYA DEL INGL\u00c9S",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2023-02-01 14:55:38",
@@ -1409,6 +1405,6 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     }
   ],
-  "unique_name": "HOT NOW - Rauw Alejandro, Angel Dior",
+  "unique_name": "HOT NOW - Sebastian Yatra",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Friday Pilots Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,895 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,985 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 36 | [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 |
 | 37 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 | 38 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
-| 39 | [ME](https://open.spotify.com/track/044X8YZz6YSJtnTRPhk1XY) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [ME](https://open.spotify.com/album/0dCPFHDa5On1PqYhXTSe7r) | 2:41 |
+| 39 | [ME](https://open.spotify.com/track/044X8YZz6YSJtnTRPhk1XY) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [ME](https://open.spotify.com/album/0dCPFHDa5On1PqYhXTSe7r) | 2:41 |
 | 40 | [deadly ever after](https://open.spotify.com/track/6NzTKn3WXr8lX8nbjQ6EKz) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi) | 3:23 |
 | 41 | [ARSON](https://open.spotify.com/track/2gIyYYBiZJ3S9lvQsY0yus) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [ARSON](https://open.spotify.com/album/2AQxodPF4yBxcmVO1EpZl9) | 2:16 |
 | 42 | [Buy Us A House](https://open.spotify.com/track/5agtuJYEhuOU1lzTUPfPz7) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Buy Us A House](https://open.spotify.com/album/0iQH83EiQtACarYuS4tIJD) | 3:30 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 90 | [everybody knows it](https://open.spotify.com/track/6lmc9JwfPOSMgr1GDKsQwt) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [everybody knows it](https://open.spotify.com/album/1vEeVTr65RNcXHMpXPIVXC) | 2:29 |
 | 91 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 |
 | 92 | [BENT](https://open.spotify.com/track/164X7NqPOuDBeITAwRSnHz) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [BENT](https://open.spotify.com/album/5a0lACgPotfjTYBMj640Yu) | 2:21 |
-| 93 | [Oblivious](https://open.spotify.com/track/7je9QhqPx6emqE0e9Tgz14) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Oblivious](https://open.spotify.com/album/5UkU5F6IrBh8So6BSjRm9g) | 3:04 |
+| 93 | [Oblivious](https://open.spotify.com/track/0CvvMsMTOiBFY9xI8171U3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 3:04 |
 | 94 | [Heart To Heart](https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ) | [Now More Than Ever](https://open.spotify.com/artist/4rs2uBw6Y9uBQ1eJ0gFRwl) | [Heart To Heart](https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem) | 2:49 |
 | 95 | [Restive](https://open.spotify.com/track/1zkQZYLNdngneg96dUJIPR) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [O.O.Y.O.](https://open.spotify.com/album/1dVUykuYltFbm0VhxNu82I) | 3:28 |
 | 96 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 100 | [Love U Madly](https://open.spotify.com/track/5zVGq0b78Ji23A4N73FTgz) | [Violet Saturn](https://open.spotify.com/artist/3x8Zm0WBMUymTl7cCAz7Zi) | [Love U Madly](https://open.spotify.com/album/1YfnOrebkPsdnglMBP4ET3) | 2:23 |
 | 101 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
 
-Snapshot ID: `MTY3NjA0NzA5MiwwMDAwMDAwMDVmMTE0YTdiOTZkOWVhMzQ0MjQzM2FhMWFhMGNlOWY1`
+Snapshot ID: `MTY3NjA0NzA5MiwwMDAwMDAwMDQ0MjFhOWVhYmJhZTkyOGY0NDk3YjFkNjhlMGJkZWFj`

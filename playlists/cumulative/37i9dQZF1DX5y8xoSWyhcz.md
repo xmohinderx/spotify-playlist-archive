@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\. chiiild on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-1,017 songs - 2 day 4 hr 12 min
+1,021 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [anxiety attack](https://open.spotify.com/track/2Oj715ybhG38EebNVWWqKJ) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [anxiety attack](https://open.spotify.com/album/0Pkua5zinGMobGeboWwjlt) | 2:49 | 2021-08-14 | 2021-10-02 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-30 | 2021-07-17 |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29\* | 2021-02-06 |
+| [april](https://open.spotify.com/track/4fmVUMLYxJe5GJpQcAYjIn) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 1:43 | 2023-02-16 |  |
 | [Architect](https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Architect](https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k) | 3:04 | 2022-08-23 | 2022-09-17 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-02-19 |
 | [ARIZONA](https://open.spotify.com/track/2aA86ZJwbNDQYnMLCLC8kW) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [ARIZONA](https://open.spotify.com/album/13uEXPLANR6eShZMvkxC6W) | 3:35 | 2020-10-29\* | 2021-01-21 |
@@ -72,7 +73,7 @@
 | [Aunt Acid](https://open.spotify.com/track/08xW1v2sfnoZsgewow3hUU) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Blue Book](https://open.spotify.com/album/1hMBEBv58MN2cPQ4wmToiO) | 3:15 | 2021-09-25 | 2021-10-30 |
 | [Average Joe](https://open.spotify.com/track/7HKrIgAJKM57tIg19iLnUC) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Average Joe](https://open.spotify.com/album/0AyCnlXB1BMNOovGDhIzlC) | 3:17 | 2020-10-29\* | 2021-02-20 |
 | [Avery](https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/2sD6iY7aOhjFC2Dxqt4h1Q) | 3:14 | 2020-11-14 | 2021-04-10 |
-| [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 | 2022-05-06 |  |
+| [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 | 2022-05-06 | 2023-02-17 |
 | [BABY TEETH](https://open.spotify.com/track/4JFSa5x1YClkVCfCOQn3YQ) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BABY TEETH](https://open.spotify.com/album/6qNsRmwJoIyJaAlmFAqtr9) | 2:44 | 2021-07-24 | 2021-11-20 |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-10-29\* | 2021-02-06 |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-09-09 |  |
@@ -346,6 +347,7 @@
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-14 | 2021-01-30 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-02-27 | 2021-05-08 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-02-12 |
+| [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-16 |  |
 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 | 2020-12-04 | 2021-02-13 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 | 2021-07-10 | 2021-10-09 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-02-18 | 2022-05-28 |
@@ -374,7 +376,7 @@
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-07 | 2020-11-14 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-07-31 | 2021-10-30 |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-10-29\* | 2021-01-27 |
-| [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 |  |
+| [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2023-02-17 |
 | [HARMONY](https://open.spotify.com/track/0pj4T7AzKyVOYmnSnxgdge) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [HARMONY](https://open.spotify.com/album/3EmBIgEc9m3Fm8n2UtS0aj) | 2:36 | 2021-10-09 | 2021-12-04 |
 | [Hate Myself](https://open.spotify.com/track/015ROS1oTBabLaOLMzDF47) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hate Myself](https://open.spotify.com/album/78hIED00HB4E1zADJXIYUy) | 3:28 | 2021-01-16 | 2021-03-27 |
 | [Hate That You Love Me](https://open.spotify.com/track/69btEcSPQvdTiEv2Yb1nek) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Hate That You Love Me](https://open.spotify.com/album/2AoabgykPv3qn4bgyyZgTX) | 3:13 | 2021-10-23 | 2022-02-19 |
@@ -601,7 +603,7 @@
 | [my life is boring](https://open.spotify.com/track/5OstHpGQNqun8D10ToLuzM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [my life is boring](https://open.spotify.com/album/0tEIZbCGdcGATBeSO6rT8i) | 2:19 | 2021-09-04 | 2021-12-24 |
 | [my love](https://open.spotify.com/track/69psSAnAf9PdNniP0MKIqL) | [rchel](https://open.spotify.com/artist/26wnM2YSYsE3xg8mC6PvPK) | [my love](https://open.spotify.com/album/5VvQykTIFWCeue4uPMfYKC) | 2:35 | 2020-12-19 | 2021-03-14 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-11 | 2022-04-29 |
-| [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 | 2022-03-18 |  |
+| [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 | 2022-03-18 | 2023-02-17 |
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-03-19 |
 | [Never Had](https://open.spotify.com/track/6BUZERWFUMJmiWyMW0qH1p) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Never Had](https://open.spotify.com/album/2ZvYrGPgoLTN7SM7JAys7V) | 2:32 | 2020-10-29\* | 2021-01-27 |
 | [Never the 1](https://open.spotify.com/track/3gk96wClxx6rbSOpxXUc5O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5KVUDnIgiqO1vdeQoTZTCl) | 2:51 | 2020-11-03 | 2021-03-27 |
@@ -730,6 +732,7 @@
 | [Renegade](https://open.spotify.com/track/61BicZpuh5MfsFn8iqCP5h) | [Pbenz](https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir) | [Renegade](https://open.spotify.com/album/6yKt8sXa6PqXNwEAlC3Klj) | 2:47 | 2022-04-08 | 2022-05-07 |
 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 | 2022-08-12 |  |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-05 | 2021-10-30 |
+| [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-16 |  |
 | [Riptides](https://open.spotify.com/track/1Q5uObiF2oDd2twHfrWkyo) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Riptides](https://open.spotify.com/album/35cAoLzarmlGmEUw56xlNs) | 3:18 | 2021-09-25 | 2022-01-15 |
 | [Room in the Desert](https://open.spotify.com/track/0dWNMfDfQaEayowTkCSXj8) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Room in the Desert](https://open.spotify.com/album/0Cyk0SwGH4voYoT9o10U74) | 2:57 | 2022-01-21 | 2022-04-16 |
 | [Room in the Desert](https://open.spotify.com/track/5wZxGQh0gAqgbYtII4ql37) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:57 | 2022-04-15 | 2022-04-23 |
@@ -842,6 +845,7 @@
 | [Stuck in the Middle](https://open.spotify.com/track/2HQPOVBAOU2EBTy1nBGRiW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stuck in the Middle](https://open.spotify.com/album/19udHG59Ov2Vjv1wn7as3q) | 3:16 | 2020-10-29\* | 2021-05-22 |
 | [Studying Your Door](https://open.spotify.com/track/2pAbcnRMvygn1WPqGQX7dS) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Studying Your Door](https://open.spotify.com/album/2D1sSDYQrKkXfDrJArdubC) | 3:20 | 2022-04-08 | 2022-05-07 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-04 | 2022-06-04 |
+| [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 | 2023-02-16 |  |
 | [Sugar Cane](https://open.spotify.com/track/2sZmWnIzxhRgcRUYelB7uT) | [Nawms](https://open.spotify.com/artist/6efvYNQ3tDNE6Dn8IDzvEw), [Emilia Ali](https://open.spotify.com/artist/1mYkjTt1PWeSzxNoAsSd37) | [Sugar Cane](https://open.spotify.com/album/3dbX5k1YlERrrme5OG6aZy) | 3:17 | 2020-11-28 | 2021-01-21 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-05 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-22 | 2021-07-10 |
@@ -893,7 +897,7 @@
 | [the long way](https://open.spotify.com/track/7hWVFjQbe5rrUIJnOmtd7l) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [the long way](https://open.spotify.com/album/43XdP2pprox39yfz1t1Ons) | 3:22 | 2022-10-21 |  |
 | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/album/0a0Y0BEwYv8F1e81xuNiSc) | 3:09 | 2021-05-08 | 2021-07-31 |
 | [the overthinker](https://open.spotify.com/track/21Pkk76qnEgB5d0iDot4Dk) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the overthinker](https://open.spotify.com/album/2dFilrvVa8lmEQ3H7ipSLv) | 3:16 | 2021-03-14 | 2021-04-10 |
-| [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 |  |
+| [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 | 2023-02-17 |
 | [The Rest](https://open.spotify.com/track/2SRx7uOuHLWrUuN2dyrZ41) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [The Rest](https://open.spotify.com/album/3lGu5v2t3o5F1jRurv9Nqq) | 2:20 | 2021-03-06 | 2021-06-05 |
 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 | 2022-09-23 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-29 | 2023-01-28 |

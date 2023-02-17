@@ -593,6 +593,32 @@
     },
     {
       "album": {
+        "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
+    },
+    {
+      "album": {
         "name": "Blue Velvet - From CrosSing",
         "url": "https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q"
       },
@@ -806,7 +832,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 169900,
       "name": "CAT'S EYE 2023",
       "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
@@ -9472,8 +9498,8 @@
       },
       "artists": [
         {
-          "name": "\u7dd2\u65b9\u6075\u7f8e",
-          "url": "https://open.spotify.com/artist/3iWEXjM1gU5lpPuRYgpNwt"
+          "name": "Megumi Ogata",
+          "url": "https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH"
         }
       ],
       "date_added": "2023-02-14",

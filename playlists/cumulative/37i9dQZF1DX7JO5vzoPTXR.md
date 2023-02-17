@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD?si=a352fb1bc4b74e04&nd=1">DAMOYEE</a> and <a href="https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq?si=fe7b538330f14d0e&nd=1">Annie Elise.</a>
 
-517 songs - 1 day 4 hr 42 min
+518 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,8 @@
 | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF) | 3:17 | 2022-02-02 | 2022-03-09 |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2022-01-05 | 2023-02-02 |
 | [i’m in new york tonight](https://open.spotify.com/track/6jsk7YgRClhzkg2XoxRTT0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i’m in new york tonight](https://open.spotify.com/album/2MRPmkxKrbedvvQzuJDJKx) | 3:36 | 2022-12-01 | 2023-01-05 |
-| [Janet](https://open.spotify.com/track/4Y0yAO6DcYUV50EOCCfAC0) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/0OasFehLRjqwOTEGucQtef) | 1:55 | 2023-02-01 |  |
+| [Janet](https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80) | 1:55 | 2023-02-01 |  |
+| [Janet](https://open.spotify.com/track/4Y0yAO6DcYUV50EOCCfAC0) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/0OasFehLRjqwOTEGucQtef) | 1:55 | 2023-02-01 | 2023-02-17 |
 | [Jawbreaker](https://open.spotify.com/track/1H6Xf251qLvIiDM1BhSZDo) | [Boh Doran](https://open.spotify.com/artist/2JEPEniK4PhJZeKKN3Vrmg) | [Jawbreaker](https://open.spotify.com/album/6DLDZYCjpkjQ1w8RwETtfb) | 3:22 | 2022-06-01 | 2022-07-07 |
 | [Jazz In The Park W/Tea](https://open.spotify.com/track/2RrrZf7as7ZpilkOknbRFu) | [Jen Miller](https://open.spotify.com/artist/4G1fAATvPm48oMzez32icF) | [100% HER](https://open.spotify.com/album/4c8qCznUZNz4H5xoYrdA0B) | 3:30 | 2021-12-08 | 2022-01-06 |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-05-04 | 2022-06-01 |

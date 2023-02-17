@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-170 songs - 8 hr 10 min
+171 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 | 2022-11-28 | 2023-01-19 |
 | [Show Me Love \- Dimitri Vegas Edit](https://open.spotify.com/track/0W7RIKVUEj307xe1zYIgqx) | [Dino Warriors](https://open.spotify.com/artist/59d7SdvkSXhrqrPUKF7WYM), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Show Me Love \(Dimitri Vegas Edit\)](https://open.spotify.com/album/0TWPTyBMEtycZ7pFHDPMCH) | 2:32 | 2022-04-14 | 2022-07-29 |
 | [Simple Song](https://open.spotify.com/track/2AumjiYj8GMHy5wsL3UY3Z) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Simple Song](https://open.spotify.com/album/2epjULRX9RiFSHRpOmgUrP) | 2:28 | 2022-04-21 | 2022-07-28 |
+| [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-09 |  |
 | [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 | 2022-07-28 |  |
-| [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 | 2022-07-28 |  |
+| [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 | 2022-07-28 | 2023-02-17 |
 | [Start Over Again \(feat\. Vula\)](https://open.spotify.com/track/63ihmOkC4b2lsglpPG9GoU) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Start Over Again \(feat\. Vula\)](https://open.spotify.com/album/7lKN76lLDz1lTvu26Mtz7s) | 2:39 | 2022-04-14 | 2022-07-29 |
 | [Step It Up \(feat\. Sharlene Hector\)](https://open.spotify.com/track/5S7V4vTRYCFSATzdh584PC) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Step It Up \(feat\. Sharlene Hector\)](https://open.spotify.com/album/4NCtneBlF1wtCX79liqRIc) | 3:13 | 2022-04-14 | 2022-04-21 |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-07-05 |  |

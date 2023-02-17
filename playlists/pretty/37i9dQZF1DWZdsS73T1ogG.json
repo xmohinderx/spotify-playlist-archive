@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alvaro Diaz & Sen Serra",
-  "num_followers": 512106,
+  "num_followers": 512131,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NzQ3NywwMDAwMDAwMGFjNTE3NWFhMjZhNDNlODczMDY1MjI5NDkwMDRkMzlk",
+  "snapshot_id": "MTY3NjQ4NzQ3NywwMDAwMDAwMGY4MjI4MzAwMzZkYTQ3NmRjZDU1OTYyYzk0MTFiYmYy",
   "tracks": [
     {
       "added_at": "2023-02-15 18:57:57",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
+        "name": "Patio de la C\u00e1rcel (Tangos)",
+        "url": "https://open.spotify.com/album/3a7J9AYQxcUpC5RaFJw59c"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 202097,
+      "name": "Patio de la C\u00e1rcel - Tangos",
+      "url": "https://open.spotify.com/track/6dCJdn6puMU4OFbIqTzLDy"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -823,26 +843,6 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Patio de la C\u00e1rcel (Tangos)",
-        "url": "https://open.spotify.com/album/3a7J9AYQxcUpC5RaFJw59c"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 202097,
-      "name": "Patio de la C\u00e1rcel - Tangos",
-      "url": "https://open.spotify.com/track/6dCJdn6puMU4OFbIqTzLDy"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -859,22 +859,18 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Quien Va a Frontiar",
-        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Quien Va a Frontiar",
-      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+        "name": "Quien Va a Frontiar",
+        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+      "duration_ms": 174506,
+      "name": "Quien Va a Frontiar",
+      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -975,22 +975,26 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Si Yo Me Muero",
-        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
+        "name": "Big Booty",
+        "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
         },
         {
-          "name": "MVSIS",
-          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
         }
       ],
-      "duration_ms": 201386,
-      "name": "Si Yo Me Muero",
-      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
+      "duration_ms": 191052,
+      "name": "Big Booty",
+      "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -1019,26 +1023,22 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Big Booty",
-        "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
+        "name": "Si Yo Me Muero",
+        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
       },
       "artists": [
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
         }
       ],
-      "duration_ms": 191052,
-      "name": "Big Booty",
-      "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+      "duration_ms": 201386,
+      "name": "Si Yo Me Muero",
+      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "n la disco",
+      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
         "name": "Na Oficial",
         "url": "https://open.spotify.com/album/4BY13m0zpvQaNOWICBWNRR"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 240325,
       "name": "Na Oficial",
       "url": "https://open.spotify.com/track/5bWqWZMZQanGyoUvCwAUEA"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "n la disco",
-      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "ODISEA",
-      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
@@ -1803,6 +1787,38 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "ODISEA",
+      "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5Np1syReaXaHv3Pj5QYyMj"
+      },
+      "artists": [
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        }
+      ],
+      "duration_ms": 141468,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/3fe0VRegFWBLeS5AonijLx"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -1843,38 +1859,6 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5Np1syReaXaHv3Pj5QYyMj"
-      },
-      "artists": [
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
-        }
-      ],
-      "duration_ms": 141468,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/3fe0VRegFWBLeS5AonijLx"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
-        "name": "Peligrosa",
-        "url": "https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f"
-      },
-      "artists": [
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
         "name": "Nada Formal",
         "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 269306,
       "name": "Nada Formal",
       "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/1TEaCjr1kDMwRBhAgXi73f"
+      },
+      "artists": [
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/2upMjtpyomQO398aVCOW0R"
     },
     {
       "added_at": "2023-02-15 18:57:57",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-02-15 18:57:57",
       "album": {
-        "name": "Light Zone",
-        "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Light Zone",
-      "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
-    },
-    {
-      "added_at": "2023-02-15 18:57:57",
-      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 167565,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
+    },
+    {
+      "added_at": "2023-02-15 18:57:57",
+      "album": {
+        "name": "Light Zone",
+        "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Light Zone",
+      "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
     },
     {
       "added_at": "2023-02-15 18:57:57",

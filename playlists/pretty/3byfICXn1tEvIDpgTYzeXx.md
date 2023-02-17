@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,698 likes - 154 songs - 7 hr 20 min
+[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,697 likes - 157 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,8 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 | 152 | [Rampampam](https://open.spotify.com/track/0e3CM2Fm4cpDtxjzYkdLAr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/6OaiffsQWffovH8qqIDP8Q) | 3:20 |
 | 153 | [Get Out](https://open.spotify.com/track/0GtUu3yloGR1ROpHY38jGE) | [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4), [phonkmama](https://open.spotify.com/artist/0aHcKhMjwUU7kcLBQSdevz), [MVNI](https://open.spotify.com/artist/2WIBfUmBl94rFg1kkfz7w6) | [Get Out](https://open.spotify.com/album/5ufOWltUW9qEp5GrIXYo3N) | 2:43 |
 | 154 | [Don't Let Me Go](https://open.spotify.com/track/1dW1nKTLQjn2jQwaBKlyLC) | [Arthur Wells](https://open.spotify.com/artist/0TSeiJDqdwSi0a2qogoeMq) | [Don't Let Me Go](https://open.spotify.com/album/5GhFTwwHFa7OeCXMx0p35q) | 2:23 |
+| 155 | [EVERYBODY](https://open.spotify.com/track/3kzFimPZf7D8b9VcZLkfQa) | [REA4E](https://open.spotify.com/artist/18WcVhn6ylYELBVasV1QsU) | [EVERYBODY](https://open.spotify.com/album/3NoO3zhCyW7az4flGH331h) | 3:01 |
+| 156 | [Away From You](https://open.spotify.com/track/56CEppy9A0higYQ67V28ix) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [GXRRY WEED](https://open.spotify.com/artist/287FoZKHjthLoHctUFX7Ch) | [Away From You](https://open.spotify.com/album/4dU1yzwdmxqCa47fJVV19j) | 2:21 |
+| 157 | [Fly Away](https://open.spotify.com/track/4lgYJLOjHXDmOo2GluwFhE) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [Fly Away](https://open.spotify.com/album/1Y7hRiqxMsBtlJRpJpVnBp) | 3:34 |
 
-Snapshot ID: `MTM4OCxjODhmMmEyZjRlZmZmMDM2OTU2OTE1YmQ0NDg4NTI3YWMyZDUxN2Mw`
+Snapshot ID: `MTM5MSw2YTJhZjFjYjIyNWIxZTU5ODcwMTkwNzc0MzQ4MGUyMGE5YWNiYzg4`

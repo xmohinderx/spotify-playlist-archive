@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 144654,
       "name": "Summer Flowers",
       "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
@@ -3514,6 +3514,24 @@
       "duration_ms": 164000,
       "name": "Tristes",
       "url": "https://open.spotify.com/track/1dfXJRmlzO392SXEaVfsNv"
+    },
+    {
+      "album": {
+        "name": "Veluwe Suite",
+        "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tristes",
+      "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
     },
     {
       "album": {

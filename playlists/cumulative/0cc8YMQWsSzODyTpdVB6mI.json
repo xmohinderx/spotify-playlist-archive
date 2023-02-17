@@ -1305,6 +1305,32 @@
     },
     {
       "album": {
+        "name": "On E (BVRLY Remix)",
+        "url": "https://open.spotify.com/album/4qSsr8Dd5R5r6i1c9Cz1yv"
+      },
+      "artists": [
+        {
+          "name": "Lil Seyi",
+          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
+        },
+        {
+          "name": "\u00cdvan Frey",
+          "url": "https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh"
+        },
+        {
+          "name": "BVRLY",
+          "url": "https://open.spotify.com/artist/7jVQkSC4lWncicyGQ7kZg6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166037,
+      "name": "On E - BVRLY Remix",
+      "url": "https://open.spotify.com/track/2AdFk3FltZs4IJ33HoMl4d"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb"
       },

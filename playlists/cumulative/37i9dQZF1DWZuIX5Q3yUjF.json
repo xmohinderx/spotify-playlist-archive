@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "BLU\u00b9",
+        "url": "https://open.spotify.com/album/1wk9xPCFOJOccWG60XhknC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172605,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/0TEhJsbitqBiEYccGrDGG3"
+    },
+    {
+      "album": {
         "name": "BACIAMI X 3",
         "url": "https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo"
       },
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 180244,
       "name": "Nebbia",
       "url": "https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE"

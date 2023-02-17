@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 101989,
+  "num_followers": 102545,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMGZkMDMyZWI4MWJjZDIwMTBiM2RlMDA2ZDBmYmE3YTEy",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDRhMzRiNDUyMDk1ZGY2ZjAzNmIzYjY0YzU4NGI2MTA0",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh"
+      },
+      "artists": [
+        {
+          "name": "Pomella",
+          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
+        }
+      ],
+      "duration_ms": 176254,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
         "name": "You Look at Me",
         "url": "https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 432000,
       "name": "Open Up - Original Mix",
       "url": "https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh"
-      },
-      "artists": [
-        {
-          "name": "Pomella",
-          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
-        }
-      ],
-      "duration_ms": 176254,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA"
     },
     {
       "added_at": "2023-02-10 14:16:33",

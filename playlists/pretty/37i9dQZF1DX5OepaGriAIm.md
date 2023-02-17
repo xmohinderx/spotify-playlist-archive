@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
 
-### [EQUAL: Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
+### [Women of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,544 likes - 124 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,635 likes - 124 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 51 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 |
 | 52 | [I'm Old Fashioned](https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:44 |
 | 53 | [Clip Joint](https://open.spotify.com/track/0FsXOJYuXIDTFitV7vbrd6) | [Lil Hardin Armstrong And Her Orchestra](https://open.spotify.com/artist/4KJbHQaQp524CJlAqbz9of) | [Chicago: The Living Legends](https://open.spotify.com/album/12MmtHlymqpECm7cC6Zam7) | 4:42 |
-| 54 | [Too Sweet For Words](https://open.spotify.com/track/6rmNXkwUIl3GZ5suQaT8PC) | [Lovie Austin](https://open.spotify.com/artist/2IadbCgYP2Oj0LHFoSBh68) | [Archive Of American Popular Music 1895\-1927](https://open.spotify.com/album/5xnlcB6XVRq99tvQHp3w8s) | 2:49 |
+| 54 | [Too Sweet for Words](https://open.spotify.com/track/7sZ2hmT4sz4VpE5ZMadnzQ) | [Lovie Austin](https://open.spotify.com/artist/2IadbCgYP2Oj0LHFoSBh68) | [Traveling Blues](https://open.spotify.com/album/4OtR9w1flp5uvnrPQdr77r) | 2:47 |
 | 55 | [Motion](https://open.spotify.com/track/6raoHueBYNyKTrDCJFJ0J7) | [Allison Neale](https://open.spotify.com/artist/0G07aVNoGSdmwjJqpGC6ju), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Quietly There](https://open.spotify.com/album/44l9F3JF5lazXP8wu6vWUL) | 4:56 |
 | 56 | [Devil's Juice](https://open.spotify.com/track/7zQewo4tM6gPi3hUHNHdPM) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Devil's Juice](https://open.spotify.com/album/6rPqZZpHXdsUJdBbWZsYYB) | 3:25 |
 | 57 | [Put It on the Line](https://open.spotify.com/track/0akuFDd8Xaxa4RG8deniAM) | [China Moses](https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV) | [Nightintales](https://open.spotify.com/album/2xPn8Txu2xvgZxgMq4uYkq) | 4:11 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 123 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 124 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY3NTMyODc1NCwwMDAwMDAwMGNiMzExY2IxMzc0ZTJhYmFjNjc5MGQxMmQ3NjJhOTQz`
+Snapshot ID: `MTY3NjU0MzI0NywwMDAwMDAwMDA0MDZlYTNlMDNmZmU5Y2JhMGYzOGE0MmMzYzIyZTlm`

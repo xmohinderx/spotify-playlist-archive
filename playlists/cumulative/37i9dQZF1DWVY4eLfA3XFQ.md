@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring HoneyLuv.
 
-873 songs - 2 day 4 hr 15 min
+874 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-06-04 |
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-20 |  |
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-11-26 | 2022-01-06 |
+| [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 |  |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2023-02-04 |
 | [Basement](https://open.spotify.com/track/7vHxzcZnozXPfGL38WSTnD) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Basement](https://open.spotify.com/album/5CgVD2Zrx4dzAMU5Sqh35Z) | 3:44 | 2022-03-04 | 2022-05-07 |
 | [Bass Club](https://open.spotify.com/track/08ZXJG3HB3NwmNIx9fVCY1) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Bass Club](https://open.spotify.com/album/2pebS8n2XSGF3QLRl2BpH3) | 3:06 | 2022-01-07 | 2022-04-23 |
@@ -754,7 +755,7 @@
 | [Tequila](https://open.spotify.com/track/5PQXYypgc0syPHLT6dIuvM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 3:30 | 2022-09-30 | 2022-11-29 |
 | [Terraza](https://open.spotify.com/track/5fi3bVjGZQACpKP7cy4wYB) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Terraza](https://open.spotify.com/album/1mYN1fZaQHl65NwoppAUYw) | 3:59 | 2022-12-16 | 2023-02-04 |
 | [That Feeling](https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 2:46 | 2022-10-07 | 2022-12-03 |
-| [The Awakening](https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [The Awakening](https://open.spotify.com/album/0JoCYuyE3P9fKagX6ttZWE) | 3:27 | 2023-01-20 |  |
+| [The Awakening](https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [The Awakening](https://open.spotify.com/album/0JoCYuyE3P9fKagX6ttZWE) | 3:27 | 2023-01-20 | 2023-02-17 |
 | [The Beat Goes](https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [The Beat Goes](https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm) | 3:09 | 2022-03-18 | 2022-05-14 |
 | [The Brave](https://open.spotify.com/track/13WOWmxe7qKZT3apaJaVLs) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [The Brave](https://open.spotify.com/album/4xJepEG7yXxA9OWwku8rxn) | 3:20 | 2022-12-09 | 2023-01-21 |
 | [The Bread Song](https://open.spotify.com/track/7A1TLoMzEfOxp7yPGVzNtD) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Hot Pot](https://open.spotify.com/artist/7i6HIKOzInE0wjYjCAfhLb) | [Team Player](https://open.spotify.com/album/1qgaZuGdffXNu0OC2zZJmC) | 5:58 | 2022-05-27 | 2022-06-04 |

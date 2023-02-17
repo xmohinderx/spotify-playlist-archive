@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-182 songs - 10 hr 42 min
+183 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [El Descontrol](https://open.spotify.com/track/0brgTeyt3ygVzWfL8wA64p) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [El Descontrol](https://open.spotify.com/album/5qzYSFncKaJ6YBrhSiTOaN) | 4:34 | 2022-07-19 |  |
 | [El Descontrol](https://open.spotify.com/track/5ftyQFiejNDjuKnjl5yVPA) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias por Nada en Resto del Mundo](https://open.spotify.com/album/1yFLpmHmgrjyCnENauFzMi) | 4:35 | 2022-06-29 | 2022-07-20 |
 | [El Final \- Bonus Track](https://open.spotify.com/track/0rF9dIFqhZzizQWRfJNgsC) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [Il Mostro](https://open.spotify.com/album/7GkXhwNTIWYx2T4A6xaT2j) | 3:00 | 2022-06-29 |  |
-| [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-06-29 |  |
+| [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-06-29 | 2023-02-17 |
+| [El límite](https://open.spotify.com/track/7HHKiA3v9hTsq5kp0ZOZsk) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El límite](https://open.spotify.com/album/2J6vnU22P8t9jfMQYkaSoS) | 4:08 | 2022-10-28 |  |
 | [El Once Ideal](https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4) | [La Suma de Todos los Tiempos](https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe) | [Los Movimientos](https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp) | 2:50 | 2022-09-09 |  |
 | [El Perro](https://open.spotify.com/track/79Rxth2YwsgKkp9Oszj30J) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [El Perro](https://open.spotify.com/album/7LQhpkeiSTpddvT0isF8zL) | 3:27 | 2022-06-29 | 2022-07-20 |
 | [El Próximo Verano](https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [El Próximo Verano](https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv) | 4:29 | 2022-07-19 | 2022-09-10 |

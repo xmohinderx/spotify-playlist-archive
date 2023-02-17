@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-63 songs - 4 hr 13 min
+64 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 |  |
 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-10-12 |  |
 | [Edge of Desire](https://open.spotify.com/track/5gbxzSqABThINGDb7vIiwe) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 5:32 | 2022-10-12 |  |
-| [Everybody Loves Her](https://open.spotify.com/track/3pbUWE1AqOceTOpEhLlYVG) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Everybody Loves Her](https://open.spotify.com/album/5gIJqHwUCn6fuT6UJiozlT) | 3:27 | 2022-10-21 |  |
+| [Everybody Loves Her](https://open.spotify.com/track/0Gpo90Y7YYws4TK9ptQXCt) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Everybody Loves Her](https://open.spotify.com/album/7ecIKoKnT3CX9Us3lzM0IA) | 3:27 | 2023-02-15 |  |
+| [Everybody Loves Her](https://open.spotify.com/track/3pbUWE1AqOceTOpEhLlYVG) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Everybody Loves Her](https://open.spotify.com/album/5gIJqHwUCn6fuT6UJiozlT) | 3:27 | 2022-10-21 | 2023-02-17 |
 | [Fine](https://open.spotify.com/track/4JAMbH9Pf8xU8Y3OS9OO43) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 7:52 | 2022-10-12 |  |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-10-12 |  |
 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 | 2022-10-12 |  |

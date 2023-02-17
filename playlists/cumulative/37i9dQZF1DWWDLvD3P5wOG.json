@@ -216,6 +216,24 @@
     {
       "album": {
         "name": "Kotch EP",
+        "url": "https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y"
+      },
+      "artists": [
+        {
+          "name": "RDX",
+          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Bend Ova",
+      "url": "https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa"
+    },
+    {
+      "album": {
+        "name": "Kotch EP",
         "url": "https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq"
       },
       "artists": [
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 167560,
       "name": "Hot Fuk / Hot Wuk",
       "url": "https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G"

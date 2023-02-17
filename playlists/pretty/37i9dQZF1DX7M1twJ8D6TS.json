@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 113798,
+  "num_followers": 113910,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDczNTczNzBhMGViNDUxZjFhNDk2OWU3MGIwNDEwODNm",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGYwMjZhZjg1YzI4NjI3NWExN2MxZTljZmQ2ZGFhZTAy",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Muchos Sonidos",
         "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 223596,
       "name": "Ranch Girl Dream",
       "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
-      "added_at": "2023-02-16 01:33:06",
+      "added_at": "2023-02-17 01:36:03",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+        "name": "Where the Neon Lies (with Ronnie Dunn)",
+        "url": "https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy"
       },
       "artists": [
         {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+      "duration_ms": 242360,
+      "name": "Where the Neon Lies (with Ronnie Dunn)",
+      "url": "https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Where the Neon Lies (with Ronnie Dunn)",
-        "url": "https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy"
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
         }
       ],
-      "duration_ms": 242360,
-      "name": "Where the Neon Lies (with Ronnie Dunn)",
-      "url": "https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP"
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "First Dirt Road",
-        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
-      },
-      "artists": [
-        {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "First Dirt Road",
-      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hundred Dollar Bill",
         "url": "https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 223806,
       "name": "Hundred Dollar Bill",
       "url": "https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "First Dirt Road",
+        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "First Dirt Road",
+      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC"
     },
     {
-      "added_at": "2023-02-16 01:33:06",
+      "added_at": "2023-02-17 01:36:03",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Waiting for the Fall",
-        "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
+        "name": "Something 'Bout a Southern Girl",
+        "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
       "artists": [
         {
-          "name": "Sam Riggs",
-          "url": "https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U"
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
         }
       ],
-      "duration_ms": 217494,
-      "name": "Waiting for the Fall",
-      "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
+      "duration_ms": 262186,
+      "name": "Something 'Bout a Southern Girl",
+      "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
     }
   ],
   "unique_name": "Texas Country Rewind",

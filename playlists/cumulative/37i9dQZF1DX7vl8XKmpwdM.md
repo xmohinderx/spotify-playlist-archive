@@ -2,9 +2,9 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Thiruchitrambalam
+> Dance Machi Dance<br/>Cover : Thunivu
 
-90 songs - 5 hr 32 min
+91 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Kirutu Kirutu \- From "DADA"](https://open.spotify.com/track/40ZJkA8wezwoU0qiwuiBCU) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Kirutu Kirutu \(From "DADA"\)](https://open.spotify.com/album/4kNJDIMb6URhxl4ZuIDrKM) | 3:29 | 2023-01-24 |  |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-12-01 |  |
 | [Let's Go Party](https://open.spotify.com/track/72u6Sq4bL8njgczpob8Lrk) | [Aswath](https://open.spotify.com/artist/05YRcxqjsWgYiHcGIUDedL) | [Raajahyogam \(Tamil\)](https://open.spotify.com/album/6t0eCYHZq9bS9G3lmEXdLZ) | 3:06 | 2022-12-15 |  |
+| [Maalta \- From "Kudimahaan"](https://open.spotify.com/track/6oSvoNGiPp3kaT3Qbbwm3X) | [Tanuj Menon](https://open.spotify.com/artist/4KxyMwBnfRMC3tNpPJOKxA), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Gokul](https://open.spotify.com/artist/7JkhqdTsDxQoJyNp99ofQB) | [Maalta \(From "Kudimahaan"\)](https://open.spotify.com/album/7I7oHhUGVnwiiJwuyiPYzv) | 4:32 | 2023-02-16 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2021-12-01 |  |
 | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/track/0RHBdFlKMpvsWJGMsPuFkI) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Rakul Preet Singh](https://open.spotify.com/artist/1MKWS2FzyIsjlLV9v926gU) | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/album/6rwRAdvQRUTXHaOeG6QwCU) | 3:07 | 2022-07-28 | 2022-08-17 |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2021-12-01 |  |

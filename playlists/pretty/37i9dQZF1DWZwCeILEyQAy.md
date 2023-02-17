@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Gloss Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,403 likes - 65 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,418 likes - 65 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
 | 2 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 |
 | 3 | [Uh Ohhh](https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Uh Ohhh](https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a) | 2:12 |
-| 4 | [Don't Worry Bout It](https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp) | 2:43 |
+| 4 | [Don't Worry Bout It](https://open.spotify.com/track/6lGIG2grLsGWpVd2wtK94h) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:43 |
 | 5 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 6 | [What Else](https://open.spotify.com/track/5k6stJRSOD9F1jYivysx9d) | [Siya](https://open.spotify.com/artist/7vtukebvL7Is8L5JvgTLDR) | [Mixed Emotions](https://open.spotify.com/album/6GDawZmfq01NBqwK2eQHul) | 3:05 |
 | 7 | [ADD IT UP](https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 2:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 64 | [Glass Slipper Flows](https://open.spotify.com/track/3vErHLskgUGG6CRu07Aggn) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Glass Slipper Flows](https://open.spotify.com/album/0o4eULaAwjLBMR2Ut7oiRq) | 4:43 |
 | 65 | [Mel Gibson](https://open.spotify.com/track/7zMJKI6mD8IaThzNTNXNeY) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:11 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDJjZmQyNDM3NWU4MjRmMjFjZjcyOTAxZDNhODYyNGVh`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGE3M2UxNGM4NTRmZGIxODU2OGUwZjRjMmM5OWIyZGZi`

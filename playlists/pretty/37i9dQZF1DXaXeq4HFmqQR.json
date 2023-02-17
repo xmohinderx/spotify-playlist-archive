@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Loyaltty y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 11312,
+  "num_followers": 11320,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMGU0NzYzYjBkMDBhNjUxNjM5ZTY2YzViOGVjMjRkODMw",
+  "snapshot_id": "MTY3NTIyMDQwMCwwMDAwMDAwMDE4Y2ZiMGZiZWE4YzNmYTU2YTQwMmZkODViYWQ3ODE5",
   "tracks": [
     {
       "added_at": "2023-02-01 03:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Maquiav\u00e9lica",
-        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
-      },
-      "artists": [
-        {
-          "name": "VaniaJoplin",
-          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Maquiav\u00e9lica",
-      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
-    },
-    {
-      "added_at": "2023-02-01 03:00:00",
-      "album": {
         "name": "Brujer\u00edas de Cantina",
         "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 178003,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz"
+    },
+    {
+      "added_at": "2023-02-01 03:00:00",
+      "album": {
+        "name": "Maquiav\u00e9lica",
+        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Maquiav\u00e9lica",
+      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -435,8 +435,8 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "Visera Yankee",
-        "url": "https://open.spotify.com/album/1KF8txH6U6j7YRjmRFhsUI"
+        "name": "GATA PISTOLA",
+        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
       },
       "artists": [
         {
@@ -444,13 +444,13 @@
           "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
         },
         {
-          "name": "Saitoape",
-          "url": "https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU"
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Visera Yankee",
-      "url": "https://open.spotify.com/track/500wBp8dxe6Dtpc88B1tIH"
+      "duration_ms": 126283,
+      "name": "To' Caro",
+      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
     },
     {
       "added_at": "2023-02-01 03:00:00",
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-02-01 03:00:00",
       "album": {
-        "name": "GATA PISTOLA",
-        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
+        "name": "Visera Yankee",
+        "url": "https://open.spotify.com/album/1KF8txH6U6j7YRjmRFhsUI"
       },
       "artists": [
         {
@@ -560,13 +560,13 @@
           "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
         },
         {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+          "name": "Saitoape",
+          "url": "https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU"
         }
       ],
-      "duration_ms": 126283,
-      "name": "To' Caro",
-      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
+      "duration_ms": 136666,
+      "name": "Visera Yankee",
+      "url": "https://open.spotify.com/track/500wBp8dxe6Dtpc88B1tIH"
     },
     {
       "added_at": "2023-02-01 03:00:00",

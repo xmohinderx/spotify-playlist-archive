@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "labyrinth",
+        "url": "https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF"
+      },
+      "artists": [
+        {
+          "name": "heimlich",
+          "url": "https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "labyrinth",
+      "url": "https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI"
       },

@@ -142,6 +142,28 @@
     {
       "album": {
         "name": "Diamond Princess",
+        "url": "https://open.spotify.com/album/6B2w59EDd50Zq30lwZWN6s"
+      },
+      "artists": [
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261906,
+      "name": "B R Right (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/5yhDeY9xJnIcs5MHBWq6bH"
+    },
+    {
+      "album": {
+        "name": "Diamond Princess",
         "url": "https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ"
       },
       "artists": [
@@ -230,6 +252,24 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "album": {
+        "name": "Who Is Mike Jones?",
+        "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/5krOROgmf8adn3SJzeKLZy"
     },
     {
       "album": {
@@ -751,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Boyz N Da Hood",
+        "url": "https://open.spotify.com/album/56SzsFOWRCqayvViYU63kk"
+      },
+      "artists": [
+        {
+          "name": "Boyz N Da Hood",
+          "url": "https://open.spotify.com/artist/030sRm1rnXI9MeQ23pdax8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256800,
+      "name": "Dem Boyz",
+      "url": "https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ"
+    },
+    {
+      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
       },
@@ -926,7 +984,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 265546,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/10WtvjnCYQvwws4Gyz3AMA"
@@ -1268,7 +1326,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 234893,
       "name": "Gossip Folks (feat. Ludacris)",
       "url": "https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs"
@@ -1308,7 +1366,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 237733,
       "name": "Grind With Me",
       "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
@@ -1348,7 +1406,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 250493,
       "name": "Grove St. Party (feat. Kebo Gotti)",
       "url": "https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y"
@@ -1366,7 +1424,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
@@ -1432,7 +1490,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 314400,
       "name": "Holidae In",
       "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
@@ -1476,6 +1534,24 @@
       "duration_ms": 232800,
       "name": "How Many Licks? (feat. Sisqo)",
       "url": "https://open.spotify.com/track/5jv3QxL0MFswzM1UJ2qQJM"
+    },
+    {
+      "album": {
+        "name": "2000s Hip-Hop",
+        "url": "https://open.spotify.com/album/6DGFRtujLYoOkAxyWWl1JO"
+      },
+      "artists": [
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Hustling",
+      "url": "https://open.spotify.com/track/04zN08culvTtipbxb0rgJh"
     },
     {
       "album": {
@@ -1538,7 +1614,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 214266,
       "name": "I Got A Thang For You",
       "url": "https://open.spotify.com/track/3EC3fndwqOvvfofQsD2ROF"
@@ -1556,7 +1632,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 236226,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/52riputZ4Vo5PG9MOSy6r5"
@@ -1578,6 +1654,28 @@
       "duration_ms": 238680,
       "name": "I Gotcha",
       "url": "https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt"
+    },
+    {
+      "album": {
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+      },
+      "artists": [
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "Brandy \"Ms. B\" Hambrick",
+          "url": "https://open.spotify.com/artist/0LFWRTqrlRmWoPZ80K8gZY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "I Know You See It (feat. Brandy \"Ms. B\" Hambrick)",
+      "url": "https://open.spotify.com/track/6giYNaycmjkbf7UmZ6RGtL"
     },
     {
       "album": {
@@ -1978,6 +2076,28 @@
     {
       "album": {
         "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
+    },
+    {
+      "album": {
+        "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
       "artists": [
@@ -2043,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Don't Feed Da Animals",
+        "url": "https://open.spotify.com/album/5yIJ53xYeYVFyCtwLV7uGo"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Zoe",
+          "url": "https://open.spotify.com/artist/3Y365ZqTf6fJ4ZcRnLKPGt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287186,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6XIiqQp6A0gzaIEaDszkZX"
+    },
+    {
+      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -2105,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
       },
@@ -2156,7 +2312,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 230613,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
@@ -2207,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/6qLAqi2b2AfVBaLVesidfC"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/7xVwhsuZTUWhIyFeDH6rYr"
+    },
+    {
+      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -2244,7 +2418,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -2288,7 +2462,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 256346,
       "name": "Oh (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
@@ -2605,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "2000s Hip-Hop",
+        "url": "https://open.spotify.com/album/6DGFRtujLYoOkAxyWWl1JO"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267146,
+      "name": "Ridin' Dirty",
+      "url": "https://open.spotify.com/track/3ok3oimLQi1f0uds0SHwpF"
+    },
+    {
+      "album": {
         "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
         "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
       },
@@ -2713,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Best Thang Smokin' (Explicit Version)",
+        "url": "https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r"
+      },
+      "artists": [
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289040,
+      "name": "Rubberband Banks",
+      "url": "https://open.spotify.com/track/6naGRp5hPdsyIJo0yokznl"
+    },
+    {
+      "album": {
         "name": "The Odd Couple",
         "url": "https://open.spotify.com/album/1waCI4ZmzEPBmlWWOM0lCH"
       },
@@ -2768,6 +2982,46 @@
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+    },
+    {
+      "album": {
+        "name": "Best Thang Smokin' (Explicit Version)",
+        "url": "https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r"
+      },
+      "artists": [
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "Shoulder Lean (feat. T.I.)",
+      "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
+    },
+    {
+      "album": {
+        "name": "2000s Hip-Hop",
+        "url": "https://open.spotify.com/album/6DGFRtujLYoOkAxyWWl1JO"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Show Me What You Got",
+      "url": "https://open.spotify.com/track/2JOyoAepFyq3caQpj5S3sC"
     },
     {
       "album": {
@@ -2834,7 +3088,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
@@ -2900,7 +3154,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 240026,
       "name": "So Fresh, So Clean",
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
@@ -2962,7 +3216,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 290760,
       "name": "Splash Waterfalls",
       "url": "https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa"
@@ -3014,6 +3268,32 @@
       "duration_ms": 214893,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/5QTWAj4eiLac88p9y9Zp0F"
+    },
+    {
+      "album": {
+        "name": "Who Is Mike Jones?",
+        "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271053,
+      "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
+      "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
     },
     {
       "album": {
@@ -3221,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Lasers",
+        "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "The Show Goes On",
+      "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
+    },
+    {
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -3262,7 +3560,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
@@ -3342,7 +3640,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 231573,
       "name": "Throw It In The Bag",
       "url": "https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3"
@@ -3451,6 +3749,28 @@
     },
     {
       "album": {
+        "name": "Still Writing In My Diary: 2nd Entry",
+        "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        },
+        {
+          "name": "Rasheeda",
+          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/1m15Xq7nqVRFTZuEn1vYX8"
+    },
+    {
+      "album": {
         "name": "U.S.A. (United State of Atlanta)",
         "url": "https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f"
       },
@@ -3480,7 +3800,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 173053,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/0vZXMVr3eZGSV2xg1VYvTM"

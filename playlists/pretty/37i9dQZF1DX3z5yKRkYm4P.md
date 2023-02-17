@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,846 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,864 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 32 | [La Momia Negra](https://open.spotify.com/track/44gkjktCO18c02eUwN55Br) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:51 |
 | 33 | [The Twilight Zone](https://open.spotify.com/track/7AYovnVPVHZitnIQDPjR4c) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Tele Ventures](https://open.spotify.com/album/2XLepWm6ZANj9lSp5tngd9) | 2:35 |
 | 34 | [Vampirella](https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:42 |
-| 35 | [Bocanegra](https://open.spotify.com/track/4cLh48mq3xUmmY1x7G3HqU) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/4kaeimjCKk45383q3ZBAdE) | 4:24 |
+| 35 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
 | 36 | [Kumbia Zombie](https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [God Save The Queers EP](https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ) | 4:48 |
 | 37 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 |
 | 38 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDE1NjNiNTQ0MGNiM2FlZGMyOTRjN2ZkYzQ5M2ZmNGYz`
+Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDkzOGRlMDBlN2E0ODE2ZTlhNmEyNDIzYmJkOWNmZjlh`

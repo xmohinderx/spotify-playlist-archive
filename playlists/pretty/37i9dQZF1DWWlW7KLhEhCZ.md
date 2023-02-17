@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mateca
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,854 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,886 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 46 | [Mansão](https://open.spotify.com/track/6qEpRTwMng2D4OiB3SfVne) | [Pocinno](https://open.spotify.com/artist/71jxfnyWB1z0h4ZI5R29xb), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Mansão](https://open.spotify.com/album/3qA1tUjGJ21LFv7rTZf9TJ) | 3:01 |
 | 47 | [Gastando Malote](https://open.spotify.com/track/3glVaDq0W1Q6lRj4mY4bDm) | [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [DJ Theu](https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7) | [Gastando Malote](https://open.spotify.com/album/0evTzHLMP23CYsW2sr1Nz2) | 2:40 |
 | 48 | [Melhor Dia 9 \- Imprevisível](https://open.spotify.com/track/7hx1k6RDaibeSPPVYHnOai) | [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Melhor Dia 9 \- Imprevisível](https://open.spotify.com/album/308uSWisVb98sne2qdrWo5) | 3:36 |
-| 49 | [SOBRENATURAL](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [SOBRENATURAL](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
+| 49 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 50 | [Ópera](https://open.spotify.com/track/5Y5nAka7nWX2teJkh6oK5y) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn) | [Ópera](https://open.spotify.com/album/4x4EmEYwiLyKdJ3xnc7wrd) | 2:26 |
 | 51 | [Teto Solar](https://open.spotify.com/track/0LL0f65AL3cYEopGZYPnuC) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Teto Solar](https://open.spotify.com/album/6ft3PwbypxEq9WycNgLRGR) | 3:04 |
 | 52 | [Alquimia](https://open.spotify.com/track/645tK7yPGLfjBcTvMANzpM) | [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Alquimia](https://open.spotify.com/album/1EQimLwCueteXnWXTbg08y) | 2:06 |

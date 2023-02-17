@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 38050,
+  "num_followers": 38102,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDZiZjJkZTZmNmZiYmM1NDZmNjIyNTcyNDc4ZGUwNmRj",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDYzYTAwOTU5MjJmNmM4NDNjMDIzOGExMjdlOTA1Mjgy",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
-      },
-      "artists": [
-        {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Karen Carpenter",
+        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Carpenter",
+          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "My Body Keeps Changing My Mind",
+      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 360506,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 360506,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
     },
     {
       "added_at": "2022-12-31 00:39:45",

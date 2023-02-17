@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-86 songs - 4 hr 48 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 | 2022-10-10 |  |
 | [Black Magic Woman](https://open.spotify.com/track/2mLLuOoaVnbcynL3UIw0Ff) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:48 | 2022-10-10 | 2022-11-13 |
 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 | 2022-10-10 |  |
-| [Bocanegra](https://open.spotify.com/track/4cLh48mq3xUmmY1x7G3HqU) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/4kaeimjCKk45383q3ZBAdE) | 4:24 | 2022-10-10 |  |
+| [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 | 2022-10-10 |  |
+| [Bocanegra](https://open.spotify.com/track/4cLh48mq3xUmmY1x7G3HqU) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/4kaeimjCKk45383q3ZBAdE) | 4:24 | 2022-10-10 | 2023-02-17 |
 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 | 2022-10-10 |  |
 | [Canción Embrujada](https://open.spotify.com/track/7qEW4Ki7ut7E1eNwVUXG6H) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Sant](https://open.spotify.com/artist/2lD5i0c3VBhA41u84QORoY) | [Mexican Institute of Sound vs\. Sant](https://open.spotify.com/album/0Ve8D73sUNAOIGiBbeIMCD) | 3:23 | 2022-10-10 |  |
 | [Cementerio](https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:20 | 2022-10-10 |  |

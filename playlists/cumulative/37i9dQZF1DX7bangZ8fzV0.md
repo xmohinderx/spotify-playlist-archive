@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=ATTRs\_VsQYm2Cv5jp3eBXA">Droomsindroom</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=ihlY0VQuSsKfL1qc4UnEfQ">Ilán van Staden</a>
 
 97 songs - 5 hr 28 min
 

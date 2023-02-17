@@ -1,15 +1,67 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
-  "num_followers": 1366,
+  "num_followers": 1378,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA0NjMwOSwwMDAwMDAwMDcxMDZmNGM5MDEwNzRlYjkwZDYxMmYyYjcxODAwNzg5",
+  "snapshot_id": "MTY3NjU2NTk1OSwwMDAwMDAwMDFlOWFjZWRkMTVjODU4MzJiMGEwZDUyNzBiOGEyMDYz",
   "tracks": [
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid"
+        }
+      ],
+      "duration_ms": 179852,
+      "name": "star signs",
+      "url": "https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Suzie's Funeral",
+        "url": "https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 200407,
+      "name": "Steal A Dime",
+      "url": "https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "rare.",
         "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
@@ -33,7 +85,7 @@
       "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Suzie's Funeral",
         "url": "https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc"
@@ -53,7 +105,43 @@
       "url": "https://open.spotify.com/track/4LrMO8FuGpkA9v4QJMwmpe"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Happy Hour (feat. Okuntakinte)",
+        "url": "https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "\u00d8kuntakinte",
+          "url": "https://open.spotify.com/artist/0o8UK8VeLVZdOYyb04klZ9"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Happy Hour (feat. Okuntakinte)",
+      "url": "https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Passionfruit Summers",
         "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
@@ -69,27 +157,7 @@
       "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid"
-        }
-      ],
-      "duration_ms": 179852,
-      "name": "star signs",
-      "url": "https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
@@ -117,107 +185,7 @@
       "url": "https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 237374,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Beat It Up",
-        "url": "https://open.spotify.com/album/4CWBAYLQWno2qXSA3EOJ7Z"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Beat It Up",
-      "url": "https://open.spotify.com/track/5Ya9NZxjCN8jA38nYUwpyE"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Suzie's Funeral",
-        "url": "https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 200407,
-      "name": "Steal A Dime",
-      "url": "https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Passport",
-        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "TheBox",
-      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Situationship (feat. AYL\u00d8)",
-        "url": "https://open.spotify.com/album/1fWXDDRR7vTNl8vmM1BueH"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/0GHv9SSbui0TC7ij4fiM0I"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Situationship (feat. AYL\u00d8)",
-      "url": "https://open.spotify.com/track/6bWJVNePO79QaQFBYumAFq"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Feel Alright",
         "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
@@ -241,7 +209,91 @@
       "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 237374,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Beat It Up",
+        "url": "https://open.spotify.com/album/4CWBAYLQWno2qXSA3EOJ7Z"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Beat It Up",
+      "url": "https://open.spotify.com/track/5Ya9NZxjCN8jA38nYUwpyE"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/1NYyGd73h9In83foaNlao2"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "duration_ms": 149734,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "TheBox",
+      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
+      "album": {
+        "name": "Situationship (feat. AYL\u00d8)",
+        "url": "https://open.spotify.com/album/1fWXDDRR7vTNl8vmM1BueH"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/0GHv9SSbui0TC7ij4fiM0I"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Situationship (feat. AYL\u00d8)",
+      "url": "https://open.spotify.com/track/6bWJVNePO79QaQFBYumAFq"
+    },
+    {
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Siamese",
         "url": "https://open.spotify.com/album/2biM1kK3imQ4Oggjl1VuGn"
@@ -261,7 +313,7 @@
       "url": "https://open.spotify.com/track/2LI7jT5sSpUGeJHUsnDtC9"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Desire (feat. Funbi & Tay Iwar)",
         "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
@@ -289,7 +341,7 @@
       "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/5IeV7yA8r8lTq2YbE2rx9r"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "H.I.G.H. (Her In Greater Heights)",
         "url": "https://open.spotify.com/album/6vXfiaiDdaBkzgHUrdY7om"
@@ -329,23 +381,31 @@
       "url": "https://open.spotify.com/track/2t8J9awuC3vFZZRKvaTXI6"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/1NYyGd73h9In83foaNlao2"
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
       },
       "artists": [
         {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+          "name": "The Forbidden",
+          "url": "https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
         }
       ],
-      "duration_ms": 149734,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ"
+      "duration_ms": 226173,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "JERICHO ROSE",
         "url": "https://open.spotify.com/album/1sy6NWN50xhFyNLb9cyxbL"
@@ -361,27 +421,23 @@
       "url": "https://open.spotify.com/track/5AOPmzieeja8yhoPrVGpbr"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
-        "name": "Happy Hour (feat. Okuntakinte)",
-        "url": "https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J"
+        "name": "Mandy & The Jungle",
+        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "\u00d8kuntakinte",
-          "url": "https://open.spotify.com/artist/0o8UK8VeLVZdOYyb04klZ9"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         }
       ],
-      "duration_ms": 260075,
-      "name": "Happy Hour (feat. Okuntakinte)",
-      "url": "https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5"
+      "duration_ms": 144000,
+      "name": "Sparky",
+      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Wuse II (feat. Odunsi)",
         "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
@@ -401,7 +457,7 @@
       "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
@@ -429,7 +485,7 @@
       "url": "https://open.spotify.com/track/3N3CiAy8C7p4rtQewcgEcY"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Palmwine Music",
         "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/7b9QrJwaTRQYAbs0fnoilW"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
@@ -469,23 +525,7 @@
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt"
@@ -505,7 +545,7 @@
       "url": "https://open.spotify.com/track/5NT67c2bpzilrBSc73JEoc"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Honest Conversations EP",
         "url": "https://open.spotify.com/album/0uhEvgV4CTlK8uaS8tshrp"
@@ -521,7 +561,7 @@
       "url": "https://open.spotify.com/track/6D1neH5gLH63jdEtBkQrWK"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Coconut Lips",
         "url": "https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Wishes And Butterflies",
         "url": "https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW"
@@ -557,7 +597,7 @@
       "url": "https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Shaken",
         "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/23j9rRRZ04w0Do8maFAkyf"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Passionfruit Summers",
         "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/0IN8fuulfc7nrzWWgfNUn3"
@@ -721,7 +761,7 @@
       "url": "https://open.spotify.com/track/7pBEDsYAcHwCGkR3kG3SlF"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Still II",
         "url": "https://open.spotify.com/album/6c9KUWjLyQ8yxB9wGnbxfX"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/6p3Ze7kZRPSAX8moYolJil"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Lagos City Vice",
         "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Bri's Lounge",
         "url": "https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4"
@@ -789,7 +829,7 @@
       "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Call on Me",
         "url": "https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Mango Juice & Bad Decisions",
         "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
@@ -833,7 +873,7 @@
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Never Gunna Be the Same",
         "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
@@ -849,7 +889,7 @@
       "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "First Signs Of Me",
         "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
@@ -881,7 +921,7 @@
       "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Letters to Her",
         "url": "https://open.spotify.com/album/3zF3cwAPivQeGtOW1984RP"
@@ -901,7 +941,7 @@
       "url": "https://open.spotify.com/track/6Wita44WcY7I72errJQ4aa"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Squad",
         "url": "https://open.spotify.com/album/6iCd662RxmzQtMdEvInl88"
@@ -917,7 +957,7 @@
       "url": "https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Sunsets in Lagos",
         "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
@@ -933,7 +973,7 @@
       "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Supa Sigh",
         "url": "https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS"
@@ -953,7 +993,7 @@
       "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/1UaNXTVWQcwbb0hWojeeKY"
@@ -969,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2kuoDgDB58x1DExkiIEWip"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
@@ -993,23 +1033,7 @@
       "url": "https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Mandy & The Jungle",
-        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sparky",
-      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Icy",
         "url": "https://open.spotify.com/album/4PzJtM0vWVz6OvRozs6J2Y"
@@ -1037,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3LPQFl6X9oi7aniP2oDeI4"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
@@ -1061,7 +1085,7 @@
       "url": "https://open.spotify.com/track/05vU0jW7ZkWiPShxlM0OU7"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Jungle Fever [feat. Genio Bambino & Odunsi [The Engine])",
         "url": "https://open.spotify.com/album/1BDcE4ABhxg1HQhX2XefRD"
@@ -1085,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4dklRnRQZT9ef8JfgnRbYn"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
@@ -1105,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Everything Pretty",
         "url": "https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs"
@@ -1125,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
@@ -1149,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
@@ -1165,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4FnIcF8E4dRhgkK3Olrtlp"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Renascentia",
         "url": "https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N"
@@ -1185,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3eC3ISlCf8yBbLCg8snmbF"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
@@ -1201,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/5Ih3Xx5N1q5o9AibsvIQqB"
@@ -1221,31 +1245,7 @@
       "url": "https://open.spotify.com/track/3ecnAvBthA0oRBoUSQIZrP"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
-      },
-      "artists": [
-        {
-          "name": "The Forbidden",
-          "url": "https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx"
-        },
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"
-    },
-    {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Renascentia",
         "url": "https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/20EbpUHGtvuluX2AQSLYkZ"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Soul (feat. AYL\u00d8)",
         "url": "https://open.spotify.com/album/1mHHHY9Olzc5tZeG9mDO5H"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/32BLhQL6TfaEiWNRjt0jEB"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "The Other Side (feat. Odunsi & King Zamir)",
         "url": "https://open.spotify.com/album/3siHuAYwyA4ql8j4BltiyV"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Lagos (Everyday)",
         "url": "https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Not my Bae",
         "url": "https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "In The Night",
         "url": "https://open.spotify.com/album/15MaGSCTIq6lnBoz8QIdt8"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "War EP",
         "url": "https://open.spotify.com/album/42R2uH3FUDSG7Akey6HdlU"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/3Nynva3Aa4iDyQmclJ6fxV"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Palmwine Music",
         "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/0VlP3L4TCTNj1E9ZQMTV2L"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3Wr351IZwsrlcc4dHyhLH8"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "H.E.R. [His. Emotions. Recorded.]",
         "url": "https://open.spotify.com/album/77frrowJvPTakX18mA46KP"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/0QedrnntNcVcRUsTwcU8PH"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Me in Me",
         "url": "https://open.spotify.com/album/0ie5Z0uCEmLVQaDlmja49u"
@@ -1461,7 +1461,7 @@
       "url": "https://open.spotify.com/track/2QtMHkOVl28e5QOUbeLfkB"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Play for Keeps",
         "url": "https://open.spotify.com/album/2IrUKNMogEptODtx7b9aBU"
@@ -1477,7 +1477,7 @@
       "url": "https://open.spotify.com/track/57eoDpCIH3hQmmy6NbuBxQ"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5tybGphnSQSzZj95sFzzbq"
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/3kezJAWJtfhrhsCauOSFJp"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Mondays",
         "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
@@ -1513,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Levitation",
         "url": "https://open.spotify.com/album/4972IMrZJvW6BdFH9yZj5E"
@@ -1537,7 +1537,7 @@
       "url": "https://open.spotify.com/track/4lYcw3yCUj3mkzsxYr3Nhr"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "enjoy",
         "url": "https://open.spotify.com/album/3ARS1ArXJvbRxOGNZwSzni"
@@ -1553,7 +1553,7 @@
       "url": "https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA"
     },
     {
-      "added_at": "2022-07-27 10:10:12",
+      "added_at": "2023-02-16 16:45:59",
       "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW"

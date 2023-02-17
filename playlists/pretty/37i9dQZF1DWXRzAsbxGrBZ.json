@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 6785,
+  "num_followers": 6821,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDY4MDFhYmUyOWViNTBmODI5ZTg3MGRhM2MzZTE1YjE5",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGM2ZmE2YzEzMmFkYTA5Y2Q2N2EzMjQyZDAwNzJkOWIz",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Forever (TekniQ Remixes)",
-        "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
-      },
-      "artists": [
-        {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
-        },
-        {
-          "name": "Presss",
-          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
-        }
-      ],
-      "duration_ms": 355766,
-      "name": "Forever - TekniQ Soulful Mix",
-      "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Another Mile EP",
         "url": "https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 434877,
       "name": "Makhenikha",
       "url": "https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Forever (TekniQ Remixes)",
+        "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Presss",
+          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
+        }
+      ],
+      "duration_ms": 355766,
+      "name": "Forever - TekniQ Soulful Mix",
+      "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -677,6 +677,26 @@
       "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "I Am Jazz",
@@ -717,24 +737,44 @@
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
       "artists": [
         {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+          "name": "The Groove Experience",
+          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
         },
         {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+          "name": "Aiyon",
+          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
         }
       ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+      "duration_ms": 417600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
+      },
+      "artists": [
+        {
+          "name": "Brazo Wa Afrika",
+          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
+        },
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "duration_ms": 387494,
+      "name": "To The World",
+      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -759,46 +799,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
-      },
-      "artists": [
-        {
-          "name": "Brazo Wa Afrika",
-          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
-        },
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 387494,
-      "name": "To The World",
-      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
-      },
-      "artists": [
-        {
-          "name": "The Groove Experience",
-          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
-        },
-        {
-          "name": "Aiyon",
-          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
-        }
-      ],
-      "duration_ms": 417600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Multiverse Theory",
         "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
       },
@@ -817,24 +817,20 @@
       "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+        "name": "New Beginning EP",
+        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
       },
       "artists": [
         {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
         }
       ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+      "duration_ms": 402788,
+      "name": "Eternal Existence - Original Mix",
+      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -861,20 +857,24 @@
       "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "New Beginning EP",
-        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
       "artists": [
         {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
         }
       ],
-      "duration_ms": 402788,
-      "name": "Eternal Existence - Original Mix",
-      "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -891,6 +891,22 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-09-19 09:57:52",
@@ -915,22 +931,6 @@
       "duration_ms": 428000,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 392431,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
-      },
-      "artists": [
-        {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
-        }
-      ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Revolver, Vol. 3 (Compiled)",
         "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 419010,
       "name": "Life",
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
     }
   ],
   "unique_name": "Deep House Session",

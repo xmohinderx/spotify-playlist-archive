@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : DJ KEROZEN",
+  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 252687,
       "name": "Bokoko",
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
+    },
+    {
+      "album": {
+        "name": "C'est Dieu",
+        "url": "https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV"
+      },
+      "artists": [
+        {
+          "name": "Confirm\u00e9 Manadja",
+          "url": "https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY"
+        },
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "C'est Dieu",
+      "url": "https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54"
     },
     {
       "album": {
@@ -904,7 +926,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 188385,
       "name": "Hippy Dance",
       "url": "https://open.spotify.com/track/6zYr2POno0mWqu8kr7EeMp"

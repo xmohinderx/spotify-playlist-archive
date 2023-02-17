@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,279 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 6 | [Stimela](https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7) | [Stimela](https://open.spotify.com/album/6j3BUkIFmKkXGIZiyEpZ71) | 5:14 |
 | 7 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 |
 | 8 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
-| 9 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
+| 9 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 |
 | 10 | [Billionaire \(From "Return of the Billionaires"\)](https://open.spotify.com/track/1FDndMnzk7e75IA62fru60) | [Stanley Okorie](https://open.spotify.com/artist/3adwF6GGLSkKdm2KDqMdMy) | [The Stanley Okorie Nollywood Songs, Vol\. 1](https://open.spotify.com/album/7jKSdo4L6SVTCLBHjjEzb4) | 2:26 |
 | 11 | [Tholakele](https://open.spotify.com/track/26pSSuwELDV4ikeaPXlQUK) | [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [King P](https://open.spotify.com/artist/7lZJ33PMoiILkDF6GbtABV), [Augusto Mawts](https://open.spotify.com/artist/3SYdUW99Si1khPTDsqAfak), [Bazy](https://open.spotify.com/artist/7jqE9IDEirWQ51l4X7B4pA), [Lil Kay](https://open.spotify.com/artist/6mlSAtVgaNvYQdQDRcbAN4) | [Tholakele](https://open.spotify.com/album/0iX9NozhaNwK863W4jRDOo) | 6:08 |
 | 12 | [Yah Yah Yah](https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf) | [Officixl Rsa](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv), [Mid9t](https://open.spotify.com/artist/0QIXdhRqhubzc9fgjYlvLa), [Benzoo](https://open.spotify.com/artist/7oMxieZqbSWpmWeVv4QaVg), [De\-papzo](https://open.spotify.com/artist/5HHyxRfKVky4jPQxZvLsdz), [Papiino SA](https://open.spotify.com/artist/7DlWn0sWkaYRmqusFRRorO) | [Yah Yah Yah](https://open.spotify.com/album/049CUiOwm0c2upULQptlDb) | 7:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 |
 | 50 | [As'Buyi](https://open.spotify.com/track/664758AecJTVoRYG9WtMMm) | [Sundé](https://open.spotify.com/artist/60kr2EOKIQC7t0KaK5KXvc), [ColKaze](https://open.spotify.com/artist/6BwaUlIzPKTS7LBXYBUub0) | [As'Buyi](https://open.spotify.com/album/3YXyhlW4X9nAUcqxHtsAXW) | 7:48 |
 
-Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDI4MWE1OWI1NTNjM2Q4NWEzNGE3YzFlZDFmMTZiMzE1`
+Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDg4ZGNkOTFjMmZlZGE2OWU5ZTJjOWMzMDgzZDY5YjIw`

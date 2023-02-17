@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-236 songs - 12 hr 24 min
+237 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 |  |
 | [Love Me](https://open.spotify.com/track/13b1CS1bUJOJD9HanXSs3c) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [FERGO](https://open.spotify.com/artist/2vlOppSBEJkAVos6JTshXF) | [Love Me](https://open.spotify.com/album/0yEscGCEQmz8G7GGyySaz5) | 2:12 | 2022-02-03 | 2022-09-15 |
 | [Luna \- Mendum Remix](https://open.spotify.com/track/6ubM8S8Dn9vT5Xq1DVROnS) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [GalaxyTones](https://open.spotify.com/artist/49Ue58UGhN03frcpvJsHnH), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Luna \(Mendum Remix\)](https://open.spotify.com/album/50H2keG7LNU0oSNsBuiXem) | 3:25 | 2022-02-04 | 2022-09-15 |
+| [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 |  |
 | [MATAFAKA](https://open.spotify.com/track/0y9TOfsQ9wANedFV3Us5Wa) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [MATAFAKA](https://open.spotify.com/album/6Meqo4cySmYW0tYBMvpACy) | 3:17 | 2022-02-03 | 2022-09-15 |
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 | 2022-08-19 |
 | [Met You](https://open.spotify.com/track/3JAMjDgXLQAKkt744Rv6Yd) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Met You](https://open.spotify.com/album/4KfC8XxPaONYiApcN5uV5i) | 3:10 | 2022-02-03 | 2022-09-15 |

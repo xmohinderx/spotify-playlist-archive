@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Scowl
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,609 likes - 329 songs - 21 hr 2 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,608 likes - 329 songs - 21 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

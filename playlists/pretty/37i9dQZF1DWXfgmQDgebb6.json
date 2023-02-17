@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: LIM KIM)",
-  "num_followers": 7500,
+  "num_followers": 7513,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDUyNiwwMDAwMDAwMDhkYzlkZWY4ZjFkMTg4MjE2ZGM5YmZkNmJiMDhjMTJl",
+  "snapshot_id": "MTY3NjM2MDUyNiwwMDAwMDAwMGZlOTRiMTAwNGE3NzM3NTQ0ZWUxNTZmNWFmOGZmNzJl",
   "tracks": [
     {
       "added_at": "2023-02-13 05:35:04",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
     },
     {
-      "added_at": "2023-02-16 01:12:05",
+      "added_at": "2023-02-17 01:13:40",
       "album": {
         "name": "Slur",
         "url": "https://open.spotify.com/album/3DvJ5C7fUjgyM6EBLtfjI5"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0M4W2DYcdq2VrrWWB5tUlR"
     },
     {
-      "added_at": "2023-02-16 01:12:05",
+      "added_at": "2023-02-17 01:13:40",
       "album": {
         "name": "CAFE TAPE 02",
         "url": "https://open.spotify.com/album/1Vt7GY3NrITSZ22PPOLBXu"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK"
     },
     {
-      "added_at": "2023-02-16 01:12:05",
+      "added_at": "2023-02-17 01:13:40",
       "album": {
         "name": "IM GOOD",
         "url": "https://open.spotify.com/album/0o3Y7xtq3Gr17IuKTZz1hX"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A"
     },
     {
-      "added_at": "2023-02-16 01:12:05",
+      "added_at": "2023-02-17 01:13:40",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B"
     },
     {
-      "added_at": "2023-02-16 01:12:05",
+      "added_at": "2023-02-17 01:13:40",
       "album": {
         "name": "Factfree",
         "url": "https://open.spotify.com/album/6iykPb5INHaLSmP0DaNUU9"
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-02-13 05:35:04",
       "album": {
+        "name": "HEART DODUMI 2 (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV"
+      },
+      "artists": [
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "HEART DODUMI 2 (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
+    },
+    {
+      "added_at": "2023-02-13 05:35:04",
+      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 205563,
       "name": "I would",
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
-    },
-    {
-      "added_at": "2023-02-13 05:35:04",
-      "album": {
-        "name": "HEART DODUMI 2 (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV"
-      },
-      "artists": [
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "HEART DODUMI 2 (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF"
     },
     {
       "added_at": "2023-02-13 05:35:04",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-02-13 05:35:04",
       "album": {
-        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
       "artists": [
         {
-          "name": "Lang Lee",
-          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Image",
+          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
         }
       ],
-      "duration_ms": 217500,
-      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+      "duration_ms": 124572,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
     },
     {
       "added_at": "2023-02-13 05:35:04",
@@ -835,6 +839,22 @@
     {
       "added_at": "2023-02-13 05:35:04",
       "album": {
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+    },
+    {
+      "added_at": "2023-02-13 05:35:04",
+      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
       },
@@ -855,22 +875,6 @@
     {
       "added_at": "2023-02-13 05:35:04",
       "album": {
-        "name": "be around me",
-        "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
-      },
-      "artists": [
-        {
-          "name": "PARKJIWOO",
-          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "be around me",
-      "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
-    },
-    {
-      "added_at": "2023-02-13 05:35:04",
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
       },
@@ -887,6 +891,22 @@
     {
       "added_at": "2023-02-13 05:35:04",
       "album": {
+        "name": "be around me",
+        "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "be around me",
+      "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
+    },
+    {
+      "added_at": "2023-02-13 05:35:04",
+      "album": {
         "name": "Rehab",
         "url": "https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 185834,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo"
-    },
-    {
-      "added_at": "2023-02-13 05:35:04",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 180042,
-      "name": "Fish",
-      "url": "https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh"
     }
   ],
   "unique_name": "Hipster K' Pack",

@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Lil Cherry\(릴체리\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: BE'O\(비오\)\)
 
-799 songs - 1 day 20 hr 25 min
+800 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2022-08-31 | 2022-09-04 |
 | [After That](https://open.spotify.com/track/4kWcZO2KKXMaWBJ7hlckK4) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 2:57 | 2022-01-24 | 2022-04-19 |
 | [AJUSHI](https://open.spotify.com/track/7mD6UISuxA2uqWAQh7oSjV) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Kim Jae Wook](https://open.spotify.com/artist/3cHJ87EhyuC7TPJLwIKIeS), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 4:53 | 2022-12-03 |  |
+| [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-16 |  |
 | [All Day \(Feat\. SOLE\)](https://open.spotify.com/track/3YeHFV31pNFXKUikN3KvaD) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [All In](https://open.spotify.com/album/7HC4ncEdIrm0z8Ju33G97h) | 2:26 | 2021-12-21 | 2022-06-13 |
 | [All Day \(with Tablo\)](https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:06 | 2022-12-02 | 2022-12-19 |
 | [All Day \(with Tablo\)](https://open.spotify.com/track/3PgnXyzWXrEoE0oQdLMF3M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:06 | 2022-12-14 |  |

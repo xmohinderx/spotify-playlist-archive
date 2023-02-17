@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,261 likes - 69 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,409 likes - 69 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 50 | [Teatro Kabuki](https://open.spotify.com/track/4ni65Jg9quhyNp0PXLU0hR) | [Fred Red](https://open.spotify.com/artist/7jZQdP8ZyE3hXyP66y51Bx), [Malik Diao](https://open.spotify.com/artist/7IxwZNOXJe9NktbZmWNiHV) | [Teatro Kabuki](https://open.spotify.com/album/19vgHEjvea39kZgeLKx6ik) | 3:02 |
 | 51 | [Endless Thoughts](https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK) | [Endless Thoughts](https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb) | 3:57 |
 | 52 | [Each Time You Lie](https://open.spotify.com/track/7vQV4jTMD0PUme0hSwzbee) | [Mama Magnolia](https://open.spotify.com/artist/0FTtyRFYJZZHSOxZZPzkOg) | [Dear Irvington](https://open.spotify.com/album/4Z0EGhn6WmIpCoUrmUjcyz) | 3:50 |
-| 53 | [Is It You](https://open.spotify.com/track/2OtgGnqV7YAIUOvBC9joCW) | [Yumi Ito](https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY), [Iago Fernández](https://open.spotify.com/artist/2MWNQBtNDrblXtYwG6JQ5I), [Chris Hyson](https://open.spotify.com/artist/3AoKknVTx4Q6ycKx2b5pkd) | [Is It You](https://open.spotify.com/album/78WI6GIWOdWPhiYML4e7x5) | 5:05 |
+| 53 | [Is It You](https://open.spotify.com/track/2OtgGnqV7YAIUOvBC9joCW) | [Yumi Ito](https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY), [Iago Fernández](https://open.spotify.com/artist/2MWNQBtNDrblXtYwG6JQ5I), [Chris Hyson](https://open.spotify.com/artist/6WJ8HCIatV91VOqHlcdGnA) | [Is It You](https://open.spotify.com/album/78WI6GIWOdWPhiYML4e7x5) | 5:05 |
 | 54 | [Blue Led](https://open.spotify.com/track/2kWa3dxA9xU60HEPVomhk6) | [Gilad Ronen](https://open.spotify.com/artist/2BCT30JusHQ3I6StLqRxiS) | [Blue Led](https://open.spotify.com/album/3fBc9mu4RYVWKUsRWg96L2) | 6:23 |
 | 55 | [Delray Derelict](https://open.spotify.com/track/4u7jIP75PK8NF8NBUFCXHS) | [Shaan James](https://open.spotify.com/artist/7LlgXHieNJ5pIWIgW9P9f1) | [Delray Derelict](https://open.spotify.com/album/54fFaj80fn3vRHRCPsTWUI) | 2:41 |
 | 56 | [Escape to Mars](https://open.spotify.com/track/2vc3Yib4xxlNJJucPxqr8p) | [Aycan Teztel](https://open.spotify.com/artist/23pPYFUQvWcJANg52Q2e6L), [Anıl Şallıel](https://open.spotify.com/artist/7wNfIZCBLC3oT0b9a7qcir), [Williams Richart Cardoso](https://open.spotify.com/artist/4AkrHBPJJyd3Hpl4119kkN), [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [Escape to Mars](https://open.spotify.com/album/6OdMa4xdjMDPZzFekcRNPe) | 3:28 |

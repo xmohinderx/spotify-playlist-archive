@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-74 songs - 4 hr 12 min
+76 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-17 |  |
 | [Mpulira](https://open.spotify.com/track/2Stgu3JrecN6iC1qDEvOOk) | [Iryn Namubiru](https://open.spotify.com/artist/3wL9WpeM5kjkIw3CxIRIDf) | [Mpulira](https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl) | 4:18 | 2022-06-06 | 2023-02-11 |
 | [Muchuzi](https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:22 | 2022-06-06 | 2023-01-27 |
-| [Mukama Yamba](https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Mukama Yamba](https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy) | 4:04 | 2022-06-06 |  |
+| [Mukama Yamba](https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Mukama Yamba](https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy) | 4:04 | 2022-06-06 | 2023-02-17 |
 | [Mulisa Omusubbawa](https://open.spotify.com/track/5Efm581hRW2myabSJPwFba) | [Edrine Matovu](https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd), [Aldo Onyango](https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI) | [Mulisa Omusubbawa](https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB) | 4:18 | 2022-06-24 |  |
 | [Muunda](https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Muunda](https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG) | 3:34 | 2022-11-10 |  |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-06-06 |  |
@@ -65,11 +65,13 @@
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 | 2022-06-06 |  |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 |  |
+| [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 |  |
 | [Sema](https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Sema](https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv) | 4:39 | 2023-01-12 |  |
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 |  |
-| [Sing For You \- Acoustic version](https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Sing For You \(Acoustic version\)](https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7) | 2:53 | 2022-12-09 |  |
+| [Sing For You \- Acoustic version](https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Sing For You \(Acoustic version\)](https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7) | 2:53 | 2022-12-09 | 2023-02-17 |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
+| [Ssemusajja](https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Ssemusajja](https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ) | 3:32 | 2023-02-16 |  |
 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 | 2023-01-26 |  |
 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 | 2022-06-06 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |

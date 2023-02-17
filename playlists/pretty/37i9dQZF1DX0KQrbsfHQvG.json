@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 171475,
+  "num_followers": 171519,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDEyZGI2ZjY1YjM2NDYxZTI5NWQyMGQ4NjgwZjc3MDk0",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGYxNmM0ZjkyMTMwNzIzOGNkMTBkY2JmOGI5ZWE5MDc2",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Obey (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 220538,
       "name": "Obey (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 171809,
-      "name": "Walking In My Shoes",
-      "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Heart Afire",
         "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 157656,
       "name": "Heart Afire",
       "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 171809,
+      "name": "Walking In My Shoes",
+      "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Hate Conquers All",
-        "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 236282,
       "name": "This Land - Single Version",
       "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Hate Conquers All",
+        "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 211026,
       "name": "Weather Strike",
       "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Disease",
+        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
     },
     {
       "added_at": "2022-11-04 04:00:00",

@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Lyn Lapid, Ruth B.
 
-552 songs - 1 day 6 hr 51 min
+553 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,8 @@
 | [who i am](https://open.spotify.com/track/3zRSNvNTvEzthHQES4KSrH) | [Ezra Jordan](https://open.spotify.com/artist/1BM9iiJaq21vJlIwXsacEz) | [117](https://open.spotify.com/album/0M0l1BOBg79S0XgYRpzMge) | 4:56 | 2021-12-17 | 2022-01-15 |
 | [Who We Love \(feat\. Ed Sheeran\)](https://open.spotify.com/track/16axxBqfSvis8mjhrLHWeH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:42 | 2023-02-03 |  |
 | [Why](https://open.spotify.com/track/3G0hJoWSbS43usQ0NRTSC4) | [Ruby Anderson](https://open.spotify.com/artist/4JAbWwtFVX1MVEOYIxPmyB) | [Why](https://open.spotify.com/album/14Dca8GYLHyWoSfAiLuwKF) | 3:48 | 2022-02-18 | 2022-04-02 |
-| [Wish You the Worst](https://open.spotify.com/track/2nOFCbKjEwEJBJu7eSMczI) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:55 | 2022-10-21 |  |
+| [Wish You the Worst](https://open.spotify.com/track/1QaCMmyD1MTYKwAlk6bJXe) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1DxzjcYARjxOldyHkrX7sp) | 2:55 | 2023-02-10 |  |
+| [Wish You the Worst](https://open.spotify.com/track/2nOFCbKjEwEJBJu7eSMczI) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:55 | 2022-10-21 | 2023-02-17 |
 | [wish you well](https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:02 | 2022-07-22 | 2022-07-30 |
 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-01-21 | 2022-02-19 |

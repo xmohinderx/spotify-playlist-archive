@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Asjatica!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, i Barkee Bay!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 170470,
       "name": "1789",
       "url": "https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf"
+    },
+    {
+      "album": {
+        "name": "20 Anni",
+        "url": "https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D"
+      },
+      "artists": [
+        {
+          "name": "As We Are",
+          "url": "https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150980,
+      "name": "20 Anni",
+      "url": "https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH"
     },
     {
       "album": {
@@ -190,6 +208,24 @@
       "duration_ms": 177642,
       "name": "AIP",
       "url": "https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM"
+    },
+    {
+      "album": {
+        "name": "CARNE OSSA",
+        "url": "https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX"
+      },
+      "artists": [
+        {
+          "name": "Marrano",
+          "url": "https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "ALL'INFERNO C'\u00c8 IL SOLE",
+      "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
     },
     {
       "album": {
@@ -445,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Barman",
+        "url": "https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez"
+      },
+      "artists": [
+        {
+          "name": "Diviet\u00f8",
+          "url": "https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Barman",
+      "url": "https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV"
+    },
+    {
+      "album": {
         "name": "Cosmic Res",
         "url": "https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP"
       },
@@ -618,7 +672,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 198845,
       "name": "BRUCIARE",
       "url": "https://open.spotify.com/track/50K3P7uydZGdK2naBJeohX"
@@ -914,6 +968,24 @@
       "duration_ms": 236000,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea"
+    },
+    {
+      "album": {
+        "name": "Unisono",
+        "url": "https://open.spotify.com/album/1arWxoywNGR6Oja3DhsmQV"
+      },
+      "artists": [
+        {
+          "name": "Winter Dust",
+          "url": "https://open.spotify.com/artist/29erlgFDUFpZSXENGAKO6a"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225676,
+      "name": "Castelli di sabbia",
+      "url": "https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL"
     },
     {
       "album": {
@@ -2227,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "How",
+        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
+      },
+      "artists": [
+        {
+          "name": "dollsaway",
+          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159121,
+      "name": "How",
+      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
+    },
+    {
+      "album": {
         "name": "I RAGAZZI COI GOMITI SUI TAVOLI",
         "url": "https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY"
       },
@@ -2596,7 +2686,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 124990,
       "name": "Kids",
       "url": "https://open.spotify.com/track/4u8gdATR26AY9kIJ2hQ9OD"
@@ -2702,7 +2792,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 200588,
       "name": "LA FINE",
       "url": "https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS"
@@ -2886,7 +2976,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 159512,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk"
@@ -3772,6 +3862,28 @@
       "duration_ms": 176314,
       "name": "Porn Magazines",
       "url": "https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza"
+    },
+    {
+      "album": {
+        "name": "PORNO",
+        "url": "https://open.spotify.com/album/1AJYKo6p37qlVtEVbeoqJ6"
+      },
+      "artists": [
+        {
+          "name": "Finley",
+          "url": "https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc"
+        },
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192009,
+      "name": "PORNO",
+      "url": "https://open.spotify.com/track/1V943kQXR3Tiz9kqakdnNe"
     },
     {
       "album": {

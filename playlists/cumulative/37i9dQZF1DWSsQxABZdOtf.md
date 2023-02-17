@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-183 songs - 10 hr 57 min
+184 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Dark Spirit](https://open.spotify.com/track/5mpS3icHD2lGVQynVLczbl) | [Killjoy](https://open.spotify.com/artist/53zP3OFS7Ucgw1bcjoi9pH) | [Let's Go](https://open.spotify.com/album/25WMzq9AzJDjeCipOZixTr) | 5:39 | 2022-11-18 |  |
 | [DID IT AGAIN](https://open.spotify.com/track/7MW3XxRkjAZEmP0vHdk65X) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Jah$tar](https://open.spotify.com/artist/4tu8A7n5giy6WuJoLiu4Uf) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:22 | 2022-11-18 | 2022-12-17 |
 | [Do Me Wrong](https://open.spotify.com/track/1AMjlgMPiepOmSXtVPlqtx) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Do Me Wrong](https://open.spotify.com/album/1rgDVi4I6Hp2iDAZwNCd6m) | 3:43 | 2022-09-08 | 2022-11-19 |
-| [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 | 2023-02-13 |  |
+| [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 | 2023-02-13 | 2023-02-17 |
+| [DO WHAT I LIKE](https://open.spotify.com/track/1w7gDQluRmhXqDi2jjqM1K) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DON'T LET THE DEVIL IN](https://open.spotify.com/album/4442PIQn9b3i9UQtPlejAE) | 2:16 | 2023-02-13 |  |
 | [Do Ya Love](https://open.spotify.com/track/650IEUqYKUoHsZQJV7FBt0) | [Joshua Amour](https://open.spotify.com/artist/3jI6t8Tj9LvOVOVPYN8yUb) | [Do Ya Love](https://open.spotify.com/album/2Lp8P102b7JSdrzwZrreyI) | 4:10 | 2022-09-08 | 2022-11-19 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2023-02-14 |
 | [Dololo](https://open.spotify.com/track/0P97eLqIGiLhWlW8qWLjn5) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Breaka 005](https://open.spotify.com/album/2SMmejG3bED5wPTzPMRUMX) | 4:56 | 2022-09-08 | 2022-11-19 |

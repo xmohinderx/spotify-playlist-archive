@@ -4796,7 +4796,7 @@
     {
       "album": {
         "name": "Janet",
-        "url": "https://open.spotify.com/album/0OasFehLRjqwOTEGucQtef"
+        "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
       },
       "artists": [
         {
@@ -4807,6 +4807,24 @@
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 115764,
+      "name": "Janet",
+      "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+    },
+    {
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/0OasFehLRjqwOTEGucQtef"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
       "duration_ms": 115764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/4Y0yAO6DcYUV50EOCCfAC0"

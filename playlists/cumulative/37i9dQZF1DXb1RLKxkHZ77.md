@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Mahalini
 
-171 songs - 10 hr 52 min
+172 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Cinta Hati](https://open.spotify.com/track/2ajnoyTjYU5cDgopof1NwJ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD), [Fanzi Ruji](https://open.spotify.com/artist/3Mufz8lCG0dhZKqLUdqDGp) | [Cinta Hati](https://open.spotify.com/album/3E286LtyoyoSIKsb1iHNLr) | 3:01 | 2022-11-16 | 2022-12-29 |
 | [Cinta Ini](https://open.spotify.com/track/76yLhPFFk1Wxab5OV0V70m) | [Amirchik](https://open.spotify.com/artist/0v3cIqT5jtOSGxotzz8kcZ) | [Cinta Ini](https://open.spotify.com/album/310QQkQcmHQUIqYRnFaBoQ) | 2:23 | 2022-08-31 | 2022-10-28 |
 | [Debu \- Strings Version](https://open.spotify.com/track/5CRTFdqAMRs1F4NyfMnQFU) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Debu \(Strings Version\)](https://open.spotify.com/album/1EuSXRl5N6AQ2P03FnU5Kq) | 3:29 | 2022-11-16 | 2022-11-25 |
-| [DEPRESI](https://open.spotify.com/track/7rrwz7bK0FX723GxJtN1p7) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI](https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu) | 3:47 | 2022-12-21 |  |
+| [DEPRESI](https://open.spotify.com/track/7rrwz7bK0FX723GxJtN1p7) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI](https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu) | 3:47 | 2022-12-21 | 2023-02-17 |
 | [Di Alam Fana Cintamu](https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Alam Fana Cintamu](https://open.spotify.com/album/5Md6fqUN8QQ0sMDMrilSUi) | 5:06 | 2022-12-14 |  |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-07-21 | 2022-12-22 |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2022-05-25 |  |
@@ -100,6 +100,7 @@
 | [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-25 | 2022-06-01 |
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-05-25 | 2022-09-22 |
 | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/track/1sAKfmljlUdzXAQWVaZrQu) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/album/4HrkoTSYeJ6xigRys3tGV5) | 3:46 | 2022-10-20 | 2022-12-15 |
+| [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 | 2023-02-16 |  |
 | [Mainan](https://open.spotify.com/track/22kK0vT2SplI4UhEaC828t) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mainan](https://open.spotify.com/album/6dPgorGiH8T02YZfFoqvwm) | 3:54 | 2022-05-25 | 2022-08-11 |
 | [Malam Semakin Dingin](https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Malam Semakin Dingin](https://open.spotify.com/album/5f0mJV2GE6xbYVyRm3nowB) | 4:42 | 2022-05-25 | 2023-01-12 |
 | [Mandrem](https://open.spotify.com/track/779zDIMn5tmn8mq3e0GTpu) | [Tomok](https://open.spotify.com/artist/0KO2CkZIpSmEsBDkITCAnl) | [Mandrem](https://open.spotify.com/album/2sU2zcfZTeHoWZ03ClnH1h) | 3:45 | 2022-11-16 | 2022-12-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Lovejoy",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Hyphen",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1104,6 +1104,24 @@
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4HItNKYDDGULMD54P5Xjhi"
+    },
+    {
+      "album": {
+        "name": "Hate Thy Neighbour",
+        "url": "https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135821,
+      "name": "Hate Thy Neighbour",
+      "url": "https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt"
     },
     {
       "album": {

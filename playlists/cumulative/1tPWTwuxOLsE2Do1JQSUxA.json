@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "another love / heal - slowed down + sped up",
+        "url": "https://open.spotify.com/album/2KcysSqOaNpjk5tzQVhkre"
+      },
+      "artists": [
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284120,
+      "name": "Another Love - slowed down",
+      "url": "https://open.spotify.com/track/3LO3fkXAyzyhKjfx0IBhCh"
+    },
+    {
+      "album": {
         "name": "Another Love (Zwette Edit)",
         "url": "https://open.spotify.com/album/3Bi2XO3N9AL5f7VvVmyVna"
       },

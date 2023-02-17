@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 104538,
+  "num_followers": 104603,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDQ5OWM2YTVmMjcxZWQ2OGUyNTI0NjkzOGY2ZDVmNjgx",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDViYmQ3ZmM0M2Q0ZTNkMTZjNGYwODFlYWQxYWRjYmFh",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Ante Tus Pies",
-        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
-      },
-      "artists": [
-        {
-          "name": "Pablo Caldarelli",
-          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Ante Tus Pies",
-      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 242432,
       "name": "Eternamente Amor",
       "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Ante Tus Pies",
+        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Caldarelli",
+          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 212968,
+      "name": "Ante Tus Pies",
+      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
         }
       ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+      "duration_ms": 210964,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -787,22 +803,6 @@
       "duration_ms": 282760,
       "name": "En Tu Presencia",
       "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 210964,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp"
     },
     {
       "added_at": "2020-09-18 05:02:00",

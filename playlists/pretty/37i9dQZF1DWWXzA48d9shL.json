@@ -1,13 +1,49 @@
 {
-  "description": "Rap from hell. Cover: Savage Ga$p",
-  "num_followers": 435494,
-  "original_name": "Tirade",
+  "description": "Rap from hell. Cover: $uicideboy$ & Shakewell",
+  "num_followers": 436089,
+  "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMyMDk5MiwwMDAwMDAwMDdmOTQxNDJkYjFmY2VmMTc2NmY2MDI0NzQ1MDE3MzM4",
+  "snapshot_id": "MTY3NjU4NDQ5OCwwMDAwMDAwMGEyY2E4NzY1M2UwZDQ4NGZhYzM4NjYxYTdhMThlYTU1",
   "tracks": [
+    {
+      "added_at": "2023-02-16 20:24:20",
+      "album": {
+        "name": "Big Shot Cream Soda",
+        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Big Shot Cream Soda",
+      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "NOTHING IS FOREVER",
+        "url": "https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "NOTHING IS FOREVER",
+      "url": "https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr"
+    },
     {
       "added_at": "2023-02-13 20:43:12",
       "album": {
@@ -25,20 +61,44 @@
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-13 20:43:12",
       "album": {
-        "name": "NOTHING IS FOREVER",
-        "url": "https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z"
+        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
       },
       "artists": [
         {
-          "name": "HAARPER",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
         }
       ],
-      "duration_ms": 152316,
-      "name": "NOTHING IS FOREVER",
-      "url": "https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr"
+      "duration_ms": 140877,
+      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
+    },
+    {
+      "added_at": "2023-02-16 20:34:22",
+      "album": {
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+        }
+      ],
+      "duration_ms": 108460,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -137,26 +197,6 @@
       "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
     },
     {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
-        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 140877,
-      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
-    },
-    {
       "added_at": "2022-11-09 14:43:01",
       "album": {
         "name": "Freddie's Inferno",
@@ -171,6 +211,30 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2023-02-16 20:24:20",
+      "album": {
+        "name": "Helmut Lang",
+        "url": "https://open.spotify.com/album/3ZKiAPqWoe5pLYpOceREqS"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        },
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Helmut Lang",
+      "url": "https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -289,22 +353,6 @@
       "url": "https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy"
     },
     {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
-        "name": "Mundane",
-        "url": "https://open.spotify.com/album/3FcW66sYKdwQF3QyiLj9aC"
-      },
-      "artists": [
-        {
-          "name": "South Strip",
-          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Mundane",
-      "url": "https://open.spotify.com/track/5JgqBNZilPgZLfOKlG939s"
-    },
-    {
       "added_at": "2022-12-14 15:33:39",
       "album": {
         "name": "Blood Shore Season 3",
@@ -319,6 +367,22 @@
       "duration_ms": 131181,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S"
+    },
+    {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "Mundane",
+        "url": "https://open.spotify.com/album/3FcW66sYKdwQF3QyiLj9aC"
+      },
+      "artists": [
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Mundane",
+      "url": "https://open.spotify.com/track/5JgqBNZilPgZLfOKlG939s"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -397,26 +461,6 @@
       "url": "https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr"
     },
     {
-      "added_at": "2023-02-10 16:30:37",
-      "album": {
-        "name": "Cyber!",
-        "url": "https://open.spotify.com/album/6jKjmMdTd717UG6SXCOZGI"
-      },
-      "artists": [
-        {
-          "name": "DeeKay",
-          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
-        },
-        {
-          "name": "scrot!",
-          "url": "https://open.spotify.com/artist/3kOJVA2xUgMPWClERz2q5M"
-        }
-      ],
-      "duration_ms": 144031,
-      "name": "Cyber!",
-      "url": "https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2"
-    },
-    {
       "added_at": "2023-01-06 16:11:10",
       "album": {
         "name": "JFK",
@@ -457,6 +501,22 @@
       "url": "https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0"
     },
     {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "Lovely 2",
+        "url": "https://open.spotify.com/album/0UijW3m8HrZZw35z2QBYIH"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        }
+      ],
+      "duration_ms": 114352,
+      "name": "Lovely 2",
+      "url": "https://open.spotify.com/track/30crz8PY2kecaVkO7fSoAA"
+    },
+    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "vendetta!",
@@ -491,22 +551,6 @@
       "duration_ms": 141508,
       "name": "Shut It",
       "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
-    },
-    {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
-        "name": "Lovely 2",
-        "url": "https://open.spotify.com/album/0UijW3m8HrZZw35z2QBYIH"
-      },
-      "artists": [
-        {
-          "name": "Kiraw",
-          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
-        }
-      ],
-      "duration_ms": 114352,
-      "name": "Lovely 2",
-      "url": "https://open.spotify.com/track/30crz8PY2kecaVkO7fSoAA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -601,7 +645,7 @@
       "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-02-16 20:34:22",
       "album": {
         "name": "HORRID",
         "url": "https://open.spotify.com/album/4MiHu92qJP8J5qkIYOyeCV"
@@ -1471,22 +1515,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "Mania Likely",
-        "url": "https://open.spotify.com/album/1j2b1k9UcoHS4aq2jrtoaW"
-      },
-      "artists": [
-        {
-          "name": "Warlord Colossus",
-          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
-        }
-      ],
-      "duration_ms": 118022,
-      "name": "Mania Likely",
-      "url": "https://open.spotify.com/track/17G2eoc6sb3yqb1kJCPsgE"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "XXII",
         "url": "https://open.spotify.com/album/6uoO6YlUEdnR1ynxrG4qEu"
       },
@@ -1695,22 +1723,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "NIGHTMARE!",
-        "url": "https://open.spotify.com/album/2g9zVgPOAAX5yXlXOgdK5N"
-      },
-      "artists": [
-        {
-          "name": "Slush Puppy",
-          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "NIGHTMARE!",
-      "url": "https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "CHARLOTTE'S WEB",
         "url": "https://open.spotify.com/album/5exHcNZQKd0D9y0f01U0sb"
       },
@@ -1727,26 +1739,6 @@
       "duration_ms": 109090,
       "name": "CHARLOTTE'S WEB",
       "url": "https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "EAT SPIT! (feat. Royal & the Serpent)",
-        "url": "https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c"
-      },
-      "artists": [
-        {
-          "name": "Slush Puppy",
-          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 123571,
-      "name": "EAT SPIT! (feat. Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -1843,38 +1835,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "CATACOMBS!",
-        "url": "https://open.spotify.com/album/5jddwfW2Z28S0xFqw2gEol"
-      },
-      "artists": [
-        {
-          "name": "KAMAARA",
-          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "CATACOMBS!",
-      "url": "https://open.spotify.com/track/5yOzi1QNqPDAlmmCxCl8Z2"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Crooked Smile",
-        "url": "https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx"
-      },
-      "artists": [
-        {
-          "name": "Unaverage Gang",
-          "url": "https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA"
-        }
-      ],
-      "duration_ms": 152370,
-      "name": "Crooked Smile",
-      "url": "https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "WICKED RITUALS",
         "url": "https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq"
       },
@@ -1887,24 +1847,8 @@
       "duration_ms": 118588,
       "name": "WICKED RITUALS",
       "url": "https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Bungee Gum",
-        "url": "https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd"
-      },
-      "artists": [
-        {
-          "name": "HAARPER",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
-        }
-      ],
-      "duration_ms": 106633,
-      "name": "Bungee Gum",
-      "url": "https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR"
     }
   ],
-  "unique_name": "Tirade",
+  "unique_name": "TIRADE",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL"
 }

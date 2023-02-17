@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Friday Pilots Club
 
-1,151 songs - 2 day 12 hr 52 min
+1,152 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,7 @@
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-26 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-03-25 | 2022-06-11 |
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-02-18 | 2022-05-14 |
-| [ME](https://open.spotify.com/track/044X8YZz6YSJtnTRPhk1XY) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [ME](https://open.spotify.com/album/0dCPFHDa5On1PqYhXTSe7r) | 2:41 | 2023-02-03 |  |
+| [ME](https://open.spotify.com/track/044X8YZz6YSJtnTRPhk1XY) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [ME](https://open.spotify.com/album/0dCPFHDa5On1PqYhXTSe7r) | 2:41 | 2023-02-03 |  |
 | [Meant For Livin'](https://open.spotify.com/track/0VclAvo7XrudE1FZfaHPMw) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Meant For Livin'](https://open.spotify.com/album/0RbK6rHwbqKgkGYDjad6cu) | 2:34 | 2022-01-21 | 2022-03-26 |
 | [Medicine](https://open.spotify.com/track/0whcb6RBBEj0Dn38yUMK6X) | [Royal Sugar](https://open.spotify.com/artist/6PqsHQyBt6M0QoJIGQfVV0) | [Medicine](https://open.spotify.com/album/1RCRZHhF50uvmzd3l3SJIB) | 3:24 | 2021-12-03 | 2022-03-12 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-06 | 2022-07-02 |
@@ -727,7 +727,8 @@
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-10 |  |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-10 | 2022-01-08 |
 | [Oblivion!](https://open.spotify.com/track/1vA40enRS52KxCAB17JjzY) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/3IWPc1hdjbhEG558lzULE3) | 3:20 | 2022-02-11 | 2022-03-05 |
-| [Oblivious](https://open.spotify.com/track/7je9QhqPx6emqE0e9Tgz14) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Oblivious](https://open.spotify.com/album/5UkU5F6IrBh8So6BSjRm9g) | 3:04 | 2023-01-06 |  |
+| [Oblivious](https://open.spotify.com/track/0CvvMsMTOiBFY9xI8171U3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 3:04 | 2023-02-10 |  |
+| [Oblivious](https://open.spotify.com/track/7je9QhqPx6emqE0e9Tgz14) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Oblivious](https://open.spotify.com/album/5UkU5F6IrBh8So6BSjRm9g) | 3:04 | 2023-01-06 | 2023-02-17 |
 | [Oh Cecilia](https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Oh Cecilia](https://open.spotify.com/album/7DwaW8e6bF7dVm2eMtpxAF) | 3:20 | 2022-09-16 | 2022-10-22 |
 | [Ohio Forever](https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Anniversary II](https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83) | 3:22 | 2021-12-17 | 2022-03-12 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 | 2022-10-22 |

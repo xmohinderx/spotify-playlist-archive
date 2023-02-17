@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, puras rimas de la calle\. MC Davo y Tornillo en portada
+> Hip\-hop mexicano, puras rimas de la calle\. Aczino y Gera MX en portada
 
-277 songs - 16 hr 33 min
+278 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Ojos Rojos](https://open.spotify.com/track/1R53sL7UQ6XVV3GoBWKYVx) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Ojos Rojos](https://open.spotify.com/album/2pFjYdQXmaFAG5LznUpgkI) | 3:17 | 2022-07-19 |  |
 | [One Up](https://open.spotify.com/track/0tyJozHd8Soy5iUbHRojsE) | [Chata Flores](https://open.spotify.com/artist/1NwGy4jqZV9nr8HC5LdbMn), [Necrojocker](https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4) | [One Up](https://open.spotify.com/album/4btSo932VPP3gRu1lgico6) | 3:48 | 2023-01-27 | 2023-02-11 |
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-04-22 | 2022-10-05 |
+| [Orígenes Vivos](https://open.spotify.com/track/5vClRBOUMbPCdV6WXp9PCG) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Orígenes Vivos](https://open.spotify.com/album/1kbseorYh6sNkawXLqS5VD) | 4:22 | 2023-02-17 |  |
 | [Pa Mis Enemigos](https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Pa Mis Enemigos](https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ) | 3:06 | 2022-03-25 |  |
 | [Pa' Que Mami No Llore](https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap) | 3:51 | 2023-01-27 |  |
 | [Pal Negocio](https://open.spotify.com/track/0ef6A5rkEKvTXUNb2OmgpP) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Pal Negocio](https://open.spotify.com/album/6n3hOlBUiiYmRK85uR43Ij) | 3:36 | 2022-04-24 | 2022-12-10 |

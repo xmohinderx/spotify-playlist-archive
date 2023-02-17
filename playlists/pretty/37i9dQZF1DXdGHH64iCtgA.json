@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 58785,
+  "num_followers": 58828,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGViZjIyYTBjZTJhZDkzN2RiMTM0ODczMmJkNDQwYzQ1",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDA2YjI5ZTY5ZDA0OTBhZmQ5YWNmYjdhOWQ3N2ZiOWEx",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/1imBqh217L161tQk9OUeWK"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Return to Oz (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 480000,
       "name": "Return to Oz - ARTBAT Remix",
       "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/1imBqh217L161tQk9OUeWK"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Woodpecker",
-        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
-      },
-      "artists": [
-        {
-          "name": "Castelle",
-          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 334586,
       "name": "My Lullaby for You",
       "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
+      },
+      "artists": [
+        {
+          "name": "Castelle",
+          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 397266,
-      "name": "Famous Monsters",
-      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "F*ck",
         "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Lune est l'autre",
-      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 397266,
+      "name": "Famous Monsters",
+      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Lune est l'autre",
+      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Amniotic",
-        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Return to Oz",
-      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Play In The Dark",
         "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Amniotic",
+        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Return to Oz",
+      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-02-10 05:00:00",

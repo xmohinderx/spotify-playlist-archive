@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Night Tempo + 小泉今日子 \*👉<a href="https://spice.eplus.jp/articles/314682?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,446 likes - 82 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,535 likes - 82 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 64 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 |
 | 65 | [虎視眈々](https://open.spotify.com/track/4Azzy23yDYsOlg99UdF68S) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [虎視眈々](https://open.spotify.com/album/69qwLxxOJyMyO04rfRk8Ur) | 3:16 |
 | 66 | [ebi](https://open.spotify.com/track/4l0n7YEXB9KQSV0DR3SpcT) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 3:01 |
-| 67 | [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Sonny Moore](https://open.spotify.com/artist/4QIYyqSPp5GPaLT0oUa1hg) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 |
+| 67 | [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 |
 | 68 | [サイケデリックイエスタデイ \(AWSM\. Remix\)](https://open.spotify.com/track/3b1L3pJD3exNwhkNMjZtQq) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ), [AWSM.](https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6) | [サイケデリックイエスタデイ \(AWSM\. Remix\)](https://open.spotify.com/album/5HgDiO9A3EtiFM7teeXuPY) | 3:45 |
 | 69 | [KAMIKAZE](https://open.spotify.com/track/1h7eQWiEweE5XTtci74MkT) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [KAMIKAZE](https://open.spotify.com/album/4UqH1UM4sBosqCfDYLnDAJ) | 3:07 |
 | 70 | [Virtual Castle \- BANVOX Remix](https://open.spotify.com/track/5YdLeShM3h5j6Nzw4K1BWa) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [Re:CASTLE](https://open.spotify.com/album/2qKKPV5xLcgMwKQsS2HrXR) | 3:37 |

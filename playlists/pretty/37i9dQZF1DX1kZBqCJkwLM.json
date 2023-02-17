@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 74224,
+  "num_followers": 74248,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5MDI5MSwwMDAwMDAwMDhiNGJmMDA4MDMzMzEyMjQ0ZjVlYmNlMzBjOTFhNjU0",
+  "snapshot_id": "MTY3NjM5MDI5MSwwMDAwMDAwMDA4ZDBiM2Y4Nzc4NTZlNzdhZTU2ODRlNDg2MWFiYzdk",
   "tracks": [
     {
       "added_at": "2023-02-14 15:58:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-14 15:58:11",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
-      "added_at": "2023-02-14 15:58:11",
-      "album": {
         "name": "Apollo 8",
         "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 173008,
       "name": "Rings of Saturn",
       "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
+    },
+    {
+      "added_at": "2023-02-14 15:58:11",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2023-02-14 15:58:11",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-02-14 15:58:11",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
+        "name": "inhibitions (feat. P-Lo)",
+        "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
       "artists": [
         {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 197223,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
     },
     {
       "added_at": "2023-02-14 15:58:11",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2023-02-14 15:58:11",
       "album": {
-        "name": "inhibitions (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
       },
       "artists": [
         {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
+      "duration_ms": 197223,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
     },
     {
       "added_at": "2023-02-14 15:58:11",

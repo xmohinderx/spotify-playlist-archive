@@ -1361,6 +1361,28 @@
     },
     {
       "album": {
+        "name": "Self-Portrait (feat. KIM JAE HWAN)",
+        "url": "https://open.spotify.com/album/70wZqV2TqpWbhVisqt27Ex"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284612,
+      "name": "Self-Portrait (feat. KIM JAE HWAN)",
+      "url": "https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw"
+    },
+    {
+      "album": {
         "name": "SAVIOR",
         "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
       },

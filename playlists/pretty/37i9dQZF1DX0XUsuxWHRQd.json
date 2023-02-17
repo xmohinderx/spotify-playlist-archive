@@ -1,12 +1,12 @@
 {
   "description": "New music from Central Cee, Lil Uzi Vert and NAV.",
-  "num_followers": 15037890,
+  "num_followers": 15040583,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNzk4NywwMDAwMDAwMDVhZDEwZjE3ODhiNDIxY2Y4YTQxZWU3NzAwNTc1ZTA1",
+  "snapshot_id": "MTY3NjU2Nzk1NywwMDAwMDAwMGQ5ODk4ODA3ODRlYjQyYmYzNjg1MTg0MGQ0NGU3NTA3",
   "tracks": [
     {
       "added_at": "2023-02-13 19:53:07",
@@ -195,6 +195,26 @@
       "duration_ms": 191757,
       "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
       "url": "https://open.spotify.com/track/21wkixaulehrFctAvEhvQl"
+    },
+    {
+      "added_at": "2023-02-16 17:19:17",
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
     },
     {
       "added_at": "2023-02-13 19:53:07",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 78866,
+  "num_followers": 79024,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGQzOWY0YmViOTZhNzQ1NmZmZTZlZjE2Mzk4NzJjMThi",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGE2OTI4NjdlYjZmMmQ4Y2Y2MmZiNmQ3NTcwZmExYzRk",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 257880,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -395,22 +411,6 @@
       "duration_ms": 420653,
       "name": "Probl\u00e8mes d'Amour - Original",
       "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Jack to the Sound",
-        "url": "https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh"
-      },
-      "artists": [
-        {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
-        }
-      ],
-      "duration_ms": 272419,
-      "name": "Acid Thunder",
-      "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        }
+      ],
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "For Those Who",
         "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1156521,
+  "num_followers": 1160666,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0OTY3NCwwMDAwMDAwMGY2ZjVmOGJmYzI2Y2Y0MmIzYzgxNDFiZGY1NzBkMjVj",
+  "snapshot_id": "MTY3NjU3NzYzNywwMDAwMDAwMGVlZmQ3NGRlMWE1OTZhNzAzMmVmMmJmZWYzM2EzZTVm",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -47,6 +47,22 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
+    {
+      "added_at": "2023-02-16 20:00:37",
+      "album": {
+        "name": "Let Go (Sped Up)",
+        "url": "https://open.spotify.com/album/5Xqfm7qzUCzBX7UuuwbnW9"
+      },
+      "artists": [
+        {
+          "name": "Ark Patrol",
+          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "Let Go - Nightcore",
+      "url": "https://open.spotify.com/track/7fSBFSmBydU310MCzCuwdu"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -141,22 +157,6 @@
       "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Give It To Me (Timbaland, Nelly Furtado) - Sped Up Version",
-        "url": "https://open.spotify.com/album/5RDftn20SS29X7kuwJdDQw"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS"
-    },
-    {
       "added_at": "2023-02-09 19:09:46",
       "album": {
         "name": "Teenage Dream",
@@ -175,7 +175,7 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "One Kiss (Dua Lipa) - Sped Up Version",
+        "name": "One Kiss - Sped Up",
         "url": "https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM"
       },
       "artists": [
@@ -185,7 +185,7 @@
         }
       ],
       "duration_ms": 163317,
-      "name": "One Kiss (Dua Lipa) - Sped Up Version",
+      "name": "One Kiss - Sped Up",
       "url": "https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN"
     },
     {
@@ -311,7 +311,7 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Woo (Rihanna) - Sped Up Version",
+        "name": "Woo - Sped Up",
         "url": "https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap"
       },
       "artists": [
@@ -321,7 +321,7 @@
         }
       ],
       "duration_ms": 183484,
-      "name": "Woo (Rihanna) - Sped Up Version",
+      "name": "Woo - Sped Up",
       "url": "https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l"
     },
     {
@@ -419,7 +419,7 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Memories (Conan Gray) - Sped Up Version",
+        "name": "Memories - Sped Up",
         "url": "https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S"
       },
       "artists": [
@@ -429,7 +429,7 @@
         }
       ],
       "duration_ms": 215980,
-      "name": "Memories (Conan Gray) - Sped Up Version",
+      "name": "Memories - Sped Up",
       "url": "https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac"
     },
     {

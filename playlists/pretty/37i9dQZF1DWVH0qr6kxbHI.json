@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 49908,
+  "num_followers": 49990,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDUwODAzMTY1MjdiZjBiZjc2YzNlYTk1MDJmN2M0Mzdi",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGI5NWU4NzM4ZjNjZjJjZjIyY2Q1ZWQ2MzE1MGZlYWNk",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Amigo Conductor",
+        "url": "https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub"
+      },
+      "artists": [
+        {
+          "name": "Perlita de Huelva",
+          "url": "https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Amigo Conductor",
+      "url": "https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Gracias A Vosotros",
         "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 190000,
       "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
       "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Amigo Conductor",
-        "url": "https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub"
-      },
-      "artists": [
-        {
-          "name": "Perlita de Huelva",
-          "url": "https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Amigo Conductor",
-      "url": "https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -847,18 +847,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mis Mejores Canciones, Vol. I",
-        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+        "name": "Viva Carlos Cano (Remasterizado)",
+        "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
       },
       "artists": [
         {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        },
+        {
+          "name": "Estrella Morente",
+          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
         }
       ],
-      "duration_ms": 241986,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
+      "duration_ms": 233933,
+      "name": "Sin T\u00ed No Puedo Vivir",
+      "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -895,22 +899,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Viva Carlos Cano (Remasterizado)",
-        "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
+        "name": "Mis Mejores Canciones, Vol. I",
+        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
       },
       "artists": [
         {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        },
-        {
-          "name": "Estrella Morente",
-          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Sin T\u00ed No Puedo Vivir",
-      "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
+      "duration_ms": 241986,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+        "name": "Carmen Sevilla : Sus Grandes Exitos",
+        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
       },
       "artists": [
         {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+          "name": "Carmen Sevilla",
+          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+      "duration_ms": 184693,
+      "name": "Te Quiero Te Quiero",
+      "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Carmen Sevilla : Sus Grandes Exitos",
-        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
       },
       "artists": [
         {
-          "name": "Carmen Sevilla",
-          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
         }
       ],
-      "duration_ms": 184693,
-      "name": "Te Quiero Te Quiero",
-      "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Todo Vuelve",
+        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Tic-Tac",
+      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "La Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 226506,
       "name": "Lagrimas Negras (with Diego \"El Cigala\")",
       "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Todo Vuelve",
-        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Tic-Tac",
-      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2022-11-03 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Hølgersson, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,991 likes - 81 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,003 likes - 81 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 4 | [Aus Versehen](https://open.spotify.com/track/5Cbf6IvCxAVDe30eN8xpSX) | [THORE](https://open.spotify.com/artist/4r4K9z8DHNLLCc8ki4zQlc) | [Aus Versehen](https://open.spotify.com/album/0DKnHfkVsduQ3BqgFUPPeE) | 2:54 |
 | 5 | [Hologram](https://open.spotify.com/track/23df8gbzAWOfsfUbXxQCDb) | [Buridan](https://open.spotify.com/artist/2mOHwtga6C4ES7wkxmmT4g) | [Hologram](https://open.spotify.com/album/7K1AACMxBSSTCoCKbUM8eG) | 6:36 |
 | 6 | [Jagen](https://open.spotify.com/track/3SoRTfoCmMsGbmJro8YT2I) | [Die Gruppe König](https://open.spotify.com/artist/2G6TxtGYxSQreE5jk6w3eO) | [ALTARE](https://open.spotify.com/album/2C5JN9X6sONdXFgRwk0aOF) | 4:14 |
-| 7 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [Kiki](https://open.spotify.com/artist/0J6ta07IexUM2US1ey9Rrx), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
+| 7 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
 | 8 | [The Beauty and The Beat \- Radio Edit](https://open.spotify.com/track/2ymIkRgZYYMrwiFOtoRuE0) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [The Beauty and the Beat](https://open.spotify.com/album/6p0pJuq0d9YUC2AYd3Cviw) | 3:45 |
 | 9 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 |
 | 10 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |

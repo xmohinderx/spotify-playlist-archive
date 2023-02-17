@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=A77LtOw8ScqPlHwiVxtb5A"> Black Sherif </a>
 
-149 songs - 7 hr 41 min
+150 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Accra \(feat\. Akan\)](https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT) | [The Unbroken](https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO) | 4:34 | 2022-08-05 |  |
 | [Akatafo Party](https://open.spotify.com/track/2dErHn9K3ajwPmKeTO2o6s) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [ROAD TO THE JUNGLE](https://open.spotify.com/album/5s7pSKaTNmf40gOn7tGodS) | 3:14 | 2022-06-24 | 2022-11-26 |
 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 | 2022-06-24 |  |
-| [Akatafoc Nsem, Pt\. 2](https://open.spotify.com/track/4bBVwOT3I7Ppd6b6h6usLe) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [Akatafoc Nsem, Pt\. 2](https://open.spotify.com/album/09YkjkwSbxFMyCBL2VbL9j) | 2:33 | 2023-01-20 |  |
+| [Akatafoc Nsem, Pt\. 2](https://open.spotify.com/track/4bBVwOT3I7Ppd6b6h6usLe) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [Akatafoc Nsem, Pt\. 2](https://open.spotify.com/album/09YkjkwSbxFMyCBL2VbL9j) | 2:33 | 2023-01-20 | 2023-02-17 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-24 |  |
 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
 | [ANADWO](https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sherif](https://open.spotify.com/artist/7vUqrkIW1S62gRXf3lGhdc), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw) | 2:43 | 2022-06-24 | 2022-12-25 |
@@ -45,6 +45,7 @@
 | [Dangerous](https://open.spotify.com/track/71ozkaqkgsWV2aUl7zYHty) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Dangerous](https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH) | 4:51 | 2022-06-30 | 2022-10-14 |
 | [Date](https://open.spotify.com/track/6iuBrqrc6AfzMRsNWa2gr3) | [YAW BERK](https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD) | [Date](https://open.spotify.com/album/136kDRfqTfQ3yZy5hYXeBS) | 2:41 | 2022-09-23 | 2022-10-29 |
 | [Digits \- Remix](https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Digits \(Remix\)](https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT) | 3:26 | 2022-06-24 |  |
+| [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 | 2023-02-16 |  |
 | [Doe](https://open.spotify.com/track/3qSMDanw52WJQVDrvzG9zu) | [Criss Waddle](https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Kofi Badd](https://open.spotify.com/artist/75uIs3zEw0as0NgiWXiwS8) | [Doe](https://open.spotify.com/album/0g6NirQRw6OaPLk4tqd5st) | 2:41 | 2022-12-18 | 2023-02-11 |
 | [Don't Judge Me](https://open.spotify.com/track/1y3ZCAnV9zc9phRc90ZimK) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN), [Dee Wills](https://open.spotify.com/artist/6FP78EYtV6RzF1PKMqE1na) | [Don't Judge Me](https://open.spotify.com/album/21QawIpSF4rJNJXJFZzl7D) | 3:47 | 2022-11-18 | 2023-01-20 |
 | [Don't Mind Them](https://open.spotify.com/track/7wv3O2Mc4XX1vHWkJfFej0) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Don't Mind Them](https://open.spotify.com/album/6OHVWyWyeeTqj641UjwpdS) | 3:22 | 2023-02-10 |  |

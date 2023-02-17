@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,082 likes - 69 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,054 likes - 69 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 45 | [Merry Xmas Everybody](https://open.spotify.com/track/0PK1T1PiN7XuQvihwibFof) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Merry Xmas Everybody](https://open.spotify.com/album/4lOIVncvZ3AIJeiCCFZvFC) | 4:18 |
 | 46 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/690OVuvns7iA4c2OCWnHIG) | [The Rock Heroes](https://open.spotify.com/artist/0wp7cYNFjMgSHBDdla5aC9) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:20 |
 | 47 | [All I Want for Christmas Is You](https://open.spotify.com/track/0pyQo1PdONXpHPe9maPrr3) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [All I Want for Christmas Is You](https://open.spotify.com/album/4wVgm80aNC8S8XwxpDakws) | 3:48 |
-| 48 | [Silent Night](https://open.spotify.com/track/27E9OCdEHTQgCXWgyGKPHs) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C), [Scott Ian](https://open.spotify.com/artist/1BYa5XlAsWCj5ACqGDnLHT), [Jon Donais](https://open.spotify.com/artist/6K43VBFB6pqXCsCXVkTnYn), [Chris Wyse](https://open.spotify.com/artist/2hp1rDJZ9RnuNZepcy69Qm), [John Tempesta](https://open.spotify.com/artist/5PhkFCyI5hOaacrmnE7tfc) | [We Wish You a Metal Xmas.\. \(..And a Headbanging New Year\)](https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo) | 4:11 |
+| 48 | [Silent Night](https://open.spotify.com/track/5p9TD0RIUOMxGToRJNFUYa) | [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C), [Scott Ian Rosenfeld](https://open.spotify.com/artist/0XYSyt7WhwA8lo7NEA2kbu), [Jon Donais](https://open.spotify.com/artist/6K43VBFB6pqXCsCXVkTnYn), [Chris Wyse](https://open.spotify.com/artist/2hp1rDJZ9RnuNZepcy69Qm), [John Tempesta](https://open.spotify.com/artist/5PhkFCyI5hOaacrmnE7tfc) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:11 |
 | 49 | [Silver Bells](https://open.spotify.com/track/23yqcmk9JLR8tzv3qfXPg4) | [Geoff Tate](https://open.spotify.com/artist/4YGXSFiOaglXLDO92EDVeU), [Carlos Cavazo](https://open.spotify.com/artist/1wZ6ETlWphHwBNFUJVmfMY), [James Lomenzo](https://open.spotify.com/artist/32oqQn0a8tBCWzXpkqAmpk), [Ray Luzier](https://open.spotify.com/artist/6GkkjXQFA2i05eFQnkzAsh) | [We Wish You A Metal Xmas And A Headbanging New Year](https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn) | 5:05 |
 | 50 | [We Three Kings](https://open.spotify.com/track/4PHKTROdkM3lW5he03HqEa) | [Halford](https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Halford III: Winter Songs](https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd) | 4:05 |
 | 51 | [Red Water \(Christmas Mourning\)](https://open.spotify.com/track/6Z8SIHKpQvtP8nBkjH3lIo) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 6:48 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 68 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Paul Samson \(Samson\)](https://open.spotify.com/artist/4vbpbFeVJouo8UvJT6jKA3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
 | 69 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDg1YTIzZjRiZjgwZjU0Yjg1NWRkNzU0MzM0Zjk5Y2E3`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDcwNDViYzg5MGM5NjJhNjU2NTllNzI5YzRjNzc3ODY5`

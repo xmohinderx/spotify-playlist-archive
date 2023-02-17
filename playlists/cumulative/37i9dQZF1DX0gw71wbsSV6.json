@@ -890,7 +890,7 @@
           "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "date_added": "2023-02-15",
+      "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210353,
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-17",
       "duration_ms": 269084,
       "name": "Muse",
       "url": "https://open.spotify.com/track/0XPi8CPAu3uznDyctGO4b3"
@@ -2126,6 +2126,28 @@
       "duration_ms": 322008,
       "name": "\u5929\u4f7f\u307f\u305f\u3044",
       "url": "https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03a9",
+        "url": "https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327001,
+      "name": "\u661f\u306e\u30af\u30ba \u03a9",
+      "url": "https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc"
     },
     {
       "album": {

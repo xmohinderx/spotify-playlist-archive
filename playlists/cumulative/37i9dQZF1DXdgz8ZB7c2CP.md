@@ -2,9 +2,9 @@
 
 ### [creamy](https://open.spotify.com/playlist/37i9dQZF1DXdgz8ZB7c2CP)
 
-> A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Moore Kismet.
+> A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Skrillex.
 
-334 songs - 18 hr 45 min
+336 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Amethyst](https://open.spotify.com/track/6kLyzkDoArnNFFnI64TITL) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Amethyst](https://open.spotify.com/album/5WYI4JeMghfkkombhD6lj6) | 2:29 | 2022-04-22 | 2022-07-27 |
 | [ANGEL](https://open.spotify.com/track/7f5IYglRWpboSl7CIuI2iE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANGEL](https://open.spotify.com/album/3tvSKOoKuCwlSUDuC4sDDd) | 2:03 | 2022-05-20 | 2022-09-24 |
 | [Angel](https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52) | 3:22 | 2022-02-25 | 2022-07-08 |
+| [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [April \(Eyes\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-16 |  |
 | [ASTRAL](https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [ASTRAL](https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx) | 3:28 | 2021-08-06 | 2023-02-01 |
 | [Autonomy](https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [Autonomy](https://open.spotify.com/album/6uO71Hk90IZluW6RxELq06) | 3:03 | 2021-08-06 | 2022-07-28 |
 | [bb u ok?](https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [bb u ok?](https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb) | 3:21 | 2021-08-06 | 2023-02-11 |
@@ -72,7 +73,7 @@
 | [Cycling](https://open.spotify.com/track/4ScdQLPm7fMIQml0DE08ma) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Cycling](https://open.spotify.com/album/3h2Xqowif9LUc2K9ILEl3J) | 2:21 | 2021-11-05 | 2022-07-29 |
 | [Data Loss](https://open.spotify.com/track/01dDqYaIA4XfEYGZE0z5fc) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/0yQhlu3llmo7FbSRTnwofc) | [Data Loss](https://open.spotify.com/album/14HAMBubGgZ3Z8a5reC8XI) | 2:45 | 2021-08-06 | 2022-04-20 |
 | [Data Loss](https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Data Loss](https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W) | 2:45 | 2021-08-06 | 2023-02-04 |
-| [Daydream](https://open.spotify.com/track/6i4EnLC2vUgww1BotS8xRs) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Daydream](https://open.spotify.com/album/0ynRpNRMKtNtpBy8Ref95Q) | 3:06 | 2021-10-15 |  |
+| [Daydream](https://open.spotify.com/track/6i4EnLC2vUgww1BotS8xRs) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Daydream](https://open.spotify.com/album/0ynRpNRMKtNtpBy8Ref95Q) | 3:06 | 2021-10-15 | 2023-02-17 |
 | [Dish](https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy) | [Pheeno](https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD) | [Dish](https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1) | 2:17 | 2021-08-06 |  |
 | [dive in](https://open.spotify.com/track/5r4Ng8Yg5ekJOQVSqHYkaE) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [dive in](https://open.spotify.com/album/1eL6sP8iKnZGZiEEdzF5d5) | 2:51 | 2022-04-08 | 2022-07-09 |
 | [do you](https://open.spotify.com/track/5d5LfzyA5IqqEr31Wxjw2Y) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [life support](https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67) | 2:28 | 2021-08-06 | 2022-07-29 |
@@ -174,7 +175,7 @@
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-21 |  |
 | [Let You Go](https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Chrome Castle](https://open.spotify.com/album/0ZnuAyKO30TEtANQrikmJm) | 4:39 | 2022-03-18 | 2022-07-29 |
 | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/track/39tTbcfjAL000DxMUMJhO0) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/album/0ZAuSMPh6VcoHEXITDVfZz) | 3:08 | 2023-02-10 |  |
-| [Lilac](https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/1H8Xdq0xD8r1j7X3ZpZLuV) | 2:19 | 2023-02-10 |  |
+| [Lilac](https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/1H8Xdq0xD8r1j7X3ZpZLuV) | 2:19 | 2023-02-10 | 2023-02-17 |
 | [Lilac](https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/5cBOUvDkmufaMweh3EBH2J) | 2:19 | 2021-08-06 | 2022-07-24 |
 | [Live Lonely](https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [The Future Is Bass](https://open.spotify.com/album/0RGBHBBnKxvRA9gmcbK80f) | 2:23 | 2021-08-27 | 2022-04-21 |
 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 | 2021-08-06 | 2022-09-24 |
@@ -224,6 +225,7 @@
 | [Radiate](https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Radiate](https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv) | 2:50 | 2021-08-06 | 2023-02-11 |
 | [Rain](https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Rain](https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd) | 2:54 | 2021-08-06 | 2023-02-04 |
 | [Rapido](https://open.spotify.com/track/3ZrIS0JkDUy0iDCFYu5SUV) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Rapido](https://open.spotify.com/album/2O2EBtEJ2aVfZhZTmHcpU2) | 4:10 | 2021-08-06 | 2022-04-21 |
+| [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-16 |  |
 | [Redwood](https://open.spotify.com/track/1cydoZG0OjIrRNddnDRKUD) | [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [Redwood](https://open.spotify.com/album/45rVsSUIls9u89Iv5wTvqN) | 4:52 | 2021-08-06 | 2023-02-11 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2022-02-11 | 2022-07-29 |
 | [Reminisce](https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Reminisce](https://open.spotify.com/album/31Nlc9EX5nDrw2YL2iWajd) | 4:44 | 2021-08-06 | 2022-10-21 |

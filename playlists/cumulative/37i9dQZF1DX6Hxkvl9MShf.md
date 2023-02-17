@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-81 songs - 5 hr 44 min
+82 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Beauty in Chaos](https://open.spotify.com/track/6yP5OEYCfYX5xldBO2MEVA) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 5:33 | 2023-01-06 |  |
 | [Biologically Unique](https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Destroying the Commons \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/5j49qhDj0R2sNiYhyvsgUl) | 3:10 | 2023-01-06 |  |
 | [Blacklight](https://open.spotify.com/track/1xuwXSZMBXvgASjegHXftC) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Blacklight](https://open.spotify.com/album/13GuifKdMCY8mjhpT3pUYb) | 4:33 | 2023-01-06 |  |
+| [Brill](https://open.spotify.com/track/33OX22n8bgi4V7bzjsD7Ws) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Brill](https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ) | 5:53 | 2023-02-14 |  |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2023-01-06 |  |
 | [Clearance](https://open.spotify.com/track/4Xs8dQwj1Ic4FyCcCyRKYq) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Clearance](https://open.spotify.com/album/32i7uXRwJK36jBrjndQ7m8) | 5:26 | 2023-01-06 |  |
 | [Conundrum](https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Conundrum](https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C) | 3:16 | 2023-01-06 |  |
