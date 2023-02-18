@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-841 songs - 2 day 1 hr 57 min
+842 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [I Don't Think I'm Doing This Right](https://open.spotify.com/track/6VsuywIFkNthRBk6fqDexy) | [TY Falcoa](https://open.spotify.com/artist/6SXpF6cSSqv7pNmDcoFaBY), [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [I Don't Think I'm Doing This Right](https://open.spotify.com/album/30BgnnfGHvztcP4jjEpumT) | 2:54 | 2022-01-07 | 2022-02-03 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/1NEV2pt7AJSHWadhfCZ48t) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears / I Don’t Wanna Love You Anymore](https://open.spotify.com/album/00lk0dGMhyu40RBQGKiTr0) | 3:21 | 2022-03-24 | 2022-04-19 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 | 2022-07-08 |  |
-| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 |  |
+| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 | 2023-02-18 |
 | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/track/3eVuglKxN2sjoIGHAsFAge) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/album/1LQCzEUoXIGLH9qLfsV7Ur) | 3:11 | 2022-03-24 | 2022-03-31 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-08 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-12-21 | 2022-07-29 |
@@ -564,8 +564,8 @@
 | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/0IZXC3mHpIdPZMZratBAfr) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/71niOtZr7nQKgl5sFMEFda) | 3:06 | 2021-12-21 | 2023-02-05 |
 | [Pure](https://open.spotify.com/track/67UAImj4r5ZfCwhpsTvn5l) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Pure](https://open.spotify.com/album/561lTJChTJZwqiJLEiGmLe) | 4:11 | 2022-01-07 | 2022-07-24 |
 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 | 2022-03-24 | 2022-04-20 |
-| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2021-12-21 | 2023-01-17 |
-| [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2023-01-16 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2021-12-21 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2023-01-16 | 2023-02-18 |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2021-12-21 |  |
 | [Rainbow](https://open.spotify.com/track/5C1FM56hBj76tK4CFPEi7A) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/2nbaIZHfhRXEkmADZ9jSzG) | 3:51 | 2022-10-07 |  |
 | [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-12-21 | 2022-10-15 |
@@ -801,6 +801,7 @@
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-12-21 | 2022-01-21 |
 | [What You Do](https://open.spotify.com/track/6SjUDhQsGP1Ynz4aYGxckR) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [What You Do](https://open.spotify.com/album/6dqfF61t5F8M7HvyAZuder) | 3:35 | 2022-03-24 | 2022-04-02 |
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-01-07 | 2022-07-29 |
+| [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-18 |  |
 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-12-21 | 2022-03-28 |
 | [When We Were Young](https://open.spotify.com/track/7A2eDNBgJrEVE87C8pOMqN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [When We Were Young](https://open.spotify.com/album/70zIL23Ro6CSxuFYL3dKn0) | 4:50 | 2021-12-21 | 2022-02-08 |
 | [When We Were Young](https://open.spotify.com/track/4oUAJMuXoDI5oITTy1PAoP) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [When We Were Young](https://open.spotify.com/album/5rwoah6E0H9NocnYwdDkuX) | 3:03 | 2021-12-21 | 2022-07-29 |

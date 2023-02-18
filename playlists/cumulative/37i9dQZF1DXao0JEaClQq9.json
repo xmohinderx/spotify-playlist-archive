@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "if it feels ethereal, it's here. cover: Kimbra ",
+  "description": "if it feels ethereal, it's here. cover: Feist ",
   "name": "Ethereal",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 206946,
       "name": "BAD FRUIT*",
       "url": "https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 202260,
       "name": "Bump",
       "url": "https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd"
@@ -1318,6 +1318,24 @@
       "duration_ms": 252558,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC"
+    },
+    {
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Butterfly Net",
+      "url": "https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF"
     },
     {
       "album": {
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 250866,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY"
@@ -3597,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN"
+    },
+    {
+      "album": {
         "name": "High & Choking / Chains",
         "url": "https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF"
       },
@@ -5410,7 +5446,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 154000,
       "name": "Mystery Boy - Vegyn Remix",
       "url": "https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa"

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-86 songs - 4 hr 29 min
+87 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Energy](https://open.spotify.com/track/42HLbsZJgnwRJtUpirt4nq) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Energy \(Afropop Gospel Vol 1\)](https://open.spotify.com/album/2FSJvM11UlOJePeYvXmKA2) | 2:33 | 2023-02-02 |  |
 | [Everyday \- Remix](https://open.spotify.com/track/6Il9TYkECqj2mXLNtffu4F) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Mannie](https://open.spotify.com/artist/3rckaSt7nStxUpuKWcSktZ) | [Everyday \(Remix\)](https://open.spotify.com/album/3E1O2M9HaXaE3TCQiq6NKl) | 3:06 | 2023-02-02 |  |
 | [Everything](https://open.spotify.com/track/2S8XO4A2B9gxhst1WuccIT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:34 | 2023-02-02 |  |
+| [Faithful](https://open.spotify.com/track/22utKBg816BokCNCCmgMiE) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t) | [Faithful](https://open.spotify.com/album/6nM7v7Uhd8mnwTOiUZU8Uu) | 2:42 | 2023-02-17 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2023-02-02 |  |
 | [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2023-02-02 | 2023-02-11 |
 | [FOLLOW](https://open.spotify.com/track/0wWkzxVjrltvSo6t0ndMnK) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M) | 3:43 | 2023-02-10 | 2023-02-13 |

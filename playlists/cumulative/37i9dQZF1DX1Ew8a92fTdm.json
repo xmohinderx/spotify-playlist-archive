@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 76950,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0TAxKy9xHdcqRfox47bqyl"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 105382,
       "name": "Bubble Bath",
       "url": "https://open.spotify.com/track/1628ekWldpzuKjr94qB1F0"
@@ -902,6 +902,42 @@
       "duration_ms": 95750,
       "name": "Dreams Of Roses",
       "url": "https://open.spotify.com/track/1o8xy2ywk1uUCLLa3igv5r"
+    },
+    {
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/0zajkqibzIYQI3N00afUr2"
+      },
+      "artists": [
+        {
+          "name": "Vera Boye",
+          "url": "https://open.spotify.com/artist/0N60MVY1TWov2PjfpcDNH1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132692,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/3xr80E2YijvMBXXZVk3Xds"
+    },
+    {
+      "album": {
+        "name": "Du K\u00e4re Lille Snickerbo",
+        "url": "https://open.spotify.com/album/26EFRwAOhaDc3sg3QyH5ai"
+      },
+      "artists": [
+        {
+          "name": "Jim WInce",
+          "url": "https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74675,
+      "name": "Du K\u00e4re Lille Snickerbo",
+      "url": "https://open.spotify.com/track/2j5V6KE9r2ZtAYql8B9L5b"
     },
     {
       "album": {
@@ -1301,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Tighter",
+        "url": "https://open.spotify.com/album/2om0LDDEEIZz5HmDJQHogn"
+      },
+      "artists": [
+        {
+          "name": "Fiona McVay",
+          "url": "https://open.spotify.com/artist/3qo9v7xzJYiKXxeiktZKMi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107565,
+      "name": "Hold Me Tighter",
+      "url": "https://open.spotify.com/track/62smyzmV70RIhQ5rmKKpTH"
+    },
+    {
+      "album": {
         "name": "Lullabies on Music Box Vol 2",
         "url": "https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF"
       },
@@ -1388,6 +1442,24 @@
       "duration_ms": 117785,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ"
+    },
+    {
+      "album": {
+        "name": "Idas Sommarvisa",
+        "url": "https://open.spotify.com/album/6lS1SxOOTilJAxSnDSrXky"
+      },
+      "artists": [
+        {
+          "name": "ABC Sleep",
+          "url": "https://open.spotify.com/artist/1mG6gYZifT5LqyoZutkavx"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90093,
+      "name": "Idas Sommarvisa",
+      "url": "https://open.spotify.com/track/4UEEjeWH5MtYZ0tt239Slh"
     },
     {
       "album": {
@@ -1859,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/4G3srlZ80ysqyqK4yvIrwM"
+      },
+      "artists": [
+        {
+          "name": "Morris Melba",
+          "url": "https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83449,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/7EVs1qboR5V7XYt9feFQCv"
+    },
+    {
+      "album": {
         "name": "Oh Dear What Can The Matter Be",
         "url": "https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk"
       },
@@ -2050,10 +2140,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 114744,
       "name": "Que Linda Manita",
       "url": "https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG"
+    },
+    {
+      "album": {
+        "name": "Rainbow To Dreamland",
+        "url": "https://open.spotify.com/album/6aq1AT8aJJtWGMpA3z5ICN"
+      },
+      "artists": [
+        {
+          "name": "Morris Melba",
+          "url": "https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82082,
+      "name": "Rainbow To Dreamland",
+      "url": "https://open.spotify.com/track/2zJAXSQ9Vp8g39Na5hsJ2s"
     },
     {
       "album": {
@@ -2302,7 +2410,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 96000,
       "name": "Slumberland Song",
       "url": "https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq"
@@ -2378,6 +2486,24 @@
       "duration_ms": 77250,
       "name": "Sommerferien min",
       "url": "https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/7pfGT84RKXXF1yGTdd1dIR"
+      },
+      "artists": [
+        {
+          "name": "Chelsie Aston",
+          "url": "https://open.spotify.com/artist/4YVSdK9kZz50Wb1ANeMqAo"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93392,
+      "name": "Sov p\u00e5 min arm",
+      "url": "https://open.spotify.com/track/2smLJRUAetmsOISjZORGtV"
     },
     {
       "album": {
@@ -2975,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Baby Lullabies",
+        "url": "https://open.spotify.com/album/5B5AuzHG2fLyxayH4SAKCf"
+      },
+      "artists": [
+        {
+          "name": "Rene Roses",
+          "url": "https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83805,
+      "name": "Twinkle twinkle little star",
+      "url": "https://open.spotify.com/track/3Q1gKxJo0xAsI1TpXdYccs"
+    },
+    {
+      "album": {
         "name": "Twinkle twinkle little star",
         "url": "https://open.spotify.com/album/38kjDndrsXh2BuxXhvuOlo"
       },
@@ -3040,7 +3184,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 84000,
       "name": "Vise pla\u0306cute",
       "url": "https://open.spotify.com/track/1tGse4X0Fm3re8mOvK7QnE"

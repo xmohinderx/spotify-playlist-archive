@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: 49 Winchester",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Stephen Sanchez",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 185596,
       "name": "All This Time Running",
       "url": "https://open.spotify.com/track/18I4ulh1koJ5ZrgbSxmlOV"
+    },
+    {
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
     },
     {
       "album": {
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq"
@@ -2557,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Homesick for the Place I Don't Even Know (feat. Sam Valdez)",
+        "url": "https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        },
+        {
+          "name": "Sam Valdez",
+          "url": "https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281795,
+      "name": "Homesick for the Place I Don't Even Know (feat. Sam Valdez)",
+      "url": "https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
       },
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 287676,
       "name": "Keep The Rain",
       "url": "https://open.spotify.com/track/2xFmXeAKtzrG1ZQBT6adKc"
@@ -3436,7 +3476,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 205560,
       "name": "Make a Picture",
       "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
@@ -6526,6 +6566,24 @@
       "duration_ms": 246000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
+    },
+    {
+      "album": {
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "album": {

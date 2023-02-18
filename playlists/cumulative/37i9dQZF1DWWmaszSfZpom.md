@@ -2,7 +2,7 @@
 
 ### [Segue o Baile](https://open.spotify.com/playlist/37i9dQZF1DWWmaszSfZpom)
 
-> O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
+> O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
 103 songs - 4 hr 58 min
 

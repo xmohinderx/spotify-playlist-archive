@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 259 songs - 14 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,222 likes - 259 songs - 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 90 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 91 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 92 | [More Than A Miracle](https://open.spotify.com/track/21AbakVGnrNSdineegyZnB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:05 |
-| 93 | [Belong \- Radio Mix](https://open.spotify.com/track/3rfdY1BDSQiQXNNzVaugYT) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Belong \(Radio Mix\)](https://open.spotify.com/album/16yzPSS8jIZNFUcmPlHAFZ) | 3:33 |
-| 94 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
+| 93 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
+| 94 | [Belong \- Radio Mix](https://open.spotify.com/track/3rfdY1BDSQiQXNNzVaugYT) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Belong \(Radio Mix\)](https://open.spotify.com/album/16yzPSS8jIZNFUcmPlHAFZ) | 3:33 |
 | 95 | [Business \(with Ella Eyre\)](https://open.spotify.com/track/419yPCUe8gDok6z8Vwizxh) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:17 |
 | 96 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
 | 97 | [Climbin' \(Piano Weapon\)](https://open.spotify.com/track/0E7WxpbTk7PMaPUE2yaf0f) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa) | [Climbin' \(Piano Weapon\)](https://open.spotify.com/album/49a5n9n6DC3NfD2J6TJb4F) | 3:33 |
 | 98 | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/track/0GaSolMcA26ZUpOqpWeNt9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/album/049oFpZ37qrysrGET84wH3) | 3:25 |
-| 99 | [Paradise](https://open.spotify.com/track/3u8mSMVk5l74Nq6eHI0thL) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:28 |
-| 100 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
+| 99 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
+| 100 | [Paradise](https://open.spotify.com/track/3u8mSMVk5l74Nq6eHI0thL) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:28 |
 | 101 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 102 | [Common Emotion \(feat\. MNEK\) \- The Golden Pony Remix](https://open.spotify.com/track/2Uu7xInCLYm2pgjNhBw909) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [The Golden Pony](https://open.spotify.com/artist/4nsYiXTOF3R7mfla5uxrTZ) | [Common Emotion \(feat\. MNEK\) \[Remixes\]](https://open.spotify.com/album/2FA9nxa3KLuiYtkoZj6WPd) | 4:11 |
 | 103 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 258 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 259 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc5NDMyMDQsMDAwMDAwMDBjN2M4ODgyMzI2ODRmZGQ0M2ExZDdjYzM4YjRjNjBmNw==`
+Snapshot ID: `Mjc5NDQ2NDQsMDAwMDAwMDBhMWZiZmFlMmEyNTc5ODgxNzIxZDk5ZTU1NzZiY2NhOQ==`

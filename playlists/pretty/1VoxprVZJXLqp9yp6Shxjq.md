@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain](/playlists/plain/1VoxprVZJXLqp9yp6Shxjq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1VoxprVZJXLqp9yp6Shxjq)
 
-### [Totally 80's Summer Hits](https://open.spotify.com/playlist/1VoxprVZJXLqp9yp6Shxjq)
+### [80's Summer Hits](https://open.spotify.com/playlist/1VoxprVZJXLqp9yp6Shxjq)
 
 > Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 | 80 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 |
 | 81 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 
-Snapshot ID: `MTIwNixmNjMzYjBiNDgzNGU4MmUzNDUyNzk3MTE2M2ZjY2M2YWY2MmQyY2Nh`
+Snapshot ID: `MTIwOSxhMGY2OTE1ZDk0MTVkZDZhMGY4M2FjOWU4ZTVmYWJlNjdkYjE5ODUz`

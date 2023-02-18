@@ -412,7 +412,7 @@
           "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 253770,
@@ -484,7 +484,7 @@
           "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247045,
@@ -776,7 +776,7 @@
           "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186613,
@@ -1016,6 +1016,24 @@
       "duration_ms": 252500,
       "name": "Chocolate Bar",
       "url": "https://open.spotify.com/track/2P9opsrW3poOvG355tyCpo"
+    },
+    {
+      "album": {
+        "name": "extra life",
+        "url": "https://open.spotify.com/album/2Aievrt0QBfOlhWmvvsOsN"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "coil",
+      "url": "https://open.spotify.com/track/4NqRrnjbPG0vefHMAEpiSl"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
@@ -2120,7 +2138,7 @@
           "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194181,
@@ -3078,7 +3096,7 @@
           "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183221,
@@ -3334,7 +3352,7 @@
           "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 124130,
@@ -3896,7 +3914,7 @@
           "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226471,
@@ -4166,7 +4184,7 @@
           "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152061,
@@ -4646,7 +4664,7 @@
           "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "date_added": "2023-02-10",
+      "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241533,

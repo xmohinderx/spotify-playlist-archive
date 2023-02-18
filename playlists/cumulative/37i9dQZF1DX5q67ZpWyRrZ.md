@@ -4,7 +4,7 @@
 
 > The best Indie tracks from the scene\. Cover \- Taaruk Raina
 
-181 songs - 10 hr 33 min
+182 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-20 |  |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2021-12-06 | 2022-01-06 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 |  |
-| [Shaayad](https://open.spotify.com/track/6ymoA9aCgqTyoQLIeR7vCX) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:28 | 2023-01-17 |  |
+| [Shaayad](https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:28 | 2023-02-13 |  |
+| [Shaayad](https://open.spotify.com/track/6ymoA9aCgqTyoQLIeR7vCX) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:28 | 2023-01-17 | 2023-02-18 |
 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 | 2022-01-05 | 2022-05-24 |
 | [Shehzaada Shehzaadi](https://open.spotify.com/track/44cXOyWpfUAtRH6OdbG9xA) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Shehzaada Shehzaadi](https://open.spotify.com/album/3Zl7OMcAzHtC6tD7E30N7q) | 2:49 | 2022-01-05 | 2022-02-05 |
 | [Sitaara](https://open.spotify.com/track/1RRvJxYhx65qZJoJ4hKrIG) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Sitaara](https://open.spotify.com/album/6mVxCSUapeMqnhvitV8eGR) | 3:19 | 2021-12-06 | 2022-01-06 |

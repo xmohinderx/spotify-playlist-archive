@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Stay Rad",
+        "url": "https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz"
+      },
+      "artists": [
+        {
+          "name": "Tom McGuire & the Brassholes",
+          "url": "https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298990,
+      "name": "2nd Place",
+      "url": "https://open.spotify.com/track/3OSS6R3an41FservLqCpZH"
+    },
+    {
+      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn"
       },
@@ -342,6 +360,24 @@
       "duration_ms": 218386,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq"
+      },
+      "artists": [
+        {
+          "name": "Lowdown Brass Band",
+          "url": "https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221540,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo"
     },
     {
       "album": {

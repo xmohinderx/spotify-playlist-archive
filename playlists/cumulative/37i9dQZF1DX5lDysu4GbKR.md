@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-169 songs - 10 hr 16 min
+171 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Butterflies Pt\. 2 \- Acoustic](https://open.spotify.com/track/0P8cENEqN7W3U6rZohIaCJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Butterflies Pt\. 2](https://open.spotify.com/album/04VUOnNhfsR1vm0sqfb73j) | 2:32 | 2021-12-09 |  |
 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 | 2021-12-09 |  |
 | [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 | 2022-12-15 |  |
+| [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-17 |  |
 | [Cold Outside](https://open.spotify.com/track/2J3ToF45OBUaeDqiLUfMr1) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/5ZkqZQN2bPnBiRlnpBd5aH) | 1:51 | 2021-12-09 | 2022-07-29 |
 | [Cold Outside](https://open.spotify.com/track/40CDSRdFnndcksvPOCVSUQ) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 1:51 | 2022-06-16 |  |
 | [Colors \- Acoustic](https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/4qCOopm0NNnTIs92GoQKnm) | 5:23 | 2021-12-09 | 2022-07-29 |
@@ -71,6 +72,7 @@
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
 | [High Stakes](https://open.spotify.com/track/1aGkUVrkbCU0VsbhMtDA9D) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [High Stakes](https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB) | 2:00 | 2021-12-09 | 2022-01-14 |
+| [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2023-02-17 |  |
 | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/track/2lYzTx7NDIUxF4yMHLzozs) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/album/0KE0S54WCmXk139uyrQjmz) | 3:11 | 2021-12-09 |  |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-09 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-06-16 |  |

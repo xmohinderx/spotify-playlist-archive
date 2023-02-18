@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121217,
+  "num_followers": 121220,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDVhOWVkMDE5MGE2NDE4MTQ2M2ZjMGQxNDQ0MTVmMzAx",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDFiY2VjYTgwYWRhNzY5NWYyMTMyZDhlZDRjM2RlNTkw",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sway Clarke",
+          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
+        }
+      ],
+      "duration_ms": 155934,
+      "name": "Sweetie Odo",
+      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Bossatrap",
         "url": "https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 184868,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sway Clarke",
-          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
-        }
-      ],
-      "duration_ms": 155934,
-      "name": "Sweetie Odo",
-      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
     },
     {
       "added_at": "2022-11-25 03:00:00",

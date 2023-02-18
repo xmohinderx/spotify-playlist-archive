@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-154 songs - 9 hr 8 min
+155 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [My Little Girl](https://open.spotify.com/track/3dNhdwu8RcaVdrDZ1cAtzx) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:38 | 2021-09-17 |  |
 | [My Person \- Wedding Version](https://open.spotify.com/track/748Cc4tDYwg5m2EWHaWv5k) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [My Person \(Wedding Version\)](https://open.spotify.com/album/6mNdjdeJhls3CHUYYgeDYV) | 3:04 | 2021-09-17 |  |
 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 | 2021-09-17 |  |
-| [Never Til Now](https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Never Til Now](https://open.spotify.com/album/1R63WizerBkcwtE351ynBq) | 2:53 | 2022-04-01 |  |
+| [Never Til Now](https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Never Til Now](https://open.spotify.com/album/1R63WizerBkcwtE351ynBq) | 2:53 | 2022-04-01 | 2023-02-18 |
+| [Never Til Now \- Wedding Version](https://open.spotify.com/track/6klcP8qdAqoembeI0PzwtV) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Never Til Now \- Wedding Version](https://open.spotify.com/album/50ASpW2fqe7VCQt5835lmu) | 2:53 | 2023-02-17 |  |
 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 | 2022-10-21 | 2022-11-17 |
 | [Once In A Lifetime](https://open.spotify.com/track/10TLpTjjLKcpBN6kayS0mI) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:53 | 2022-10-21 |  |
 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 | 2022-10-21 |  |

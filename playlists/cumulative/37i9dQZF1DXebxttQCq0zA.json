@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Anirual",
+        "url": "https://open.spotify.com/album/1hR00aoNRj0k7bXa7oKzLR"
+      },
+      "artists": [
+        {
+          "name": "Mark Davey",
+          "url": "https://open.spotify.com/artist/5G9p1AfkWTDCfOrqwDv9L5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Anirual",
+      "url": "https://open.spotify.com/track/5X3UiiOUn1REPps2Gq4Cv2"
+    },
+    {
+      "album": {
         "name": "Another Galaxy",
         "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
       },
@@ -3617,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161700,
+      "name": "O\u00e4ndligheten",
+      "url": "https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D"
+    },
+    {
+      "album": {
         "name": "Pads of Redemption",
         "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
       },
@@ -4121,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Rymdresa",
+      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
+    },
+    {
+      "album": {
         "name": "R\u00eaver",
         "url": "https://open.spotify.com/album/2NZgY14tBMc1cLMRCYMBn3"
       },
@@ -4222,7 +4276,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 260883,
       "name": "Sapphire Destiny",
       "url": "https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41"

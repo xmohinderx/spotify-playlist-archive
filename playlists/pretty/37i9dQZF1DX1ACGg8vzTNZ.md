@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,127 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,184 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 15 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
 | 16 | [Éphémère](https://open.spotify.com/track/4LurYqydfPdLc9IN7eQxTF) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Nuit](https://open.spotify.com/album/6PSnEum2RrNY1uuj8goegP) | 1:43 |
 | 17 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Dear, Piano](https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u) | 4:31 |
-| 18 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
+| 18 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 |
 | 19 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
 | 20 | [CRISALIDE 6](https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb) | [Puppi](https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc) | [CRISALIDE](https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2) | 4:21 |
 | 21 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [Nearer \- solo piano](https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Nearer \(solo piano\)](https://open.spotify.com/album/68diijFo2l26OU6v5lKtD5) | 4:13 |
 | 40 | [Lighthouse](https://open.spotify.com/track/5tfN5qARzeaurcsSr7S3mP) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:29 |
 
-Snapshot ID: `MTY3NTI2NDYzNCwwMDAwMDAwMGQyMTJjOTljMGUzOTYwNDE3Yjk3MTg3ZTZlMTA3MTYw`
+Snapshot ID: `MTY3NTI2NDYzNCwwMDAwMDAwMGRkMDg0YTkwYzg4NmY3Y2VkYWQyYjY4M2Q1ZjUxYjYy`

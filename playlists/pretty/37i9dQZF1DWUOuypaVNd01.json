@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 25909,
+  "num_followers": 25957,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGFmMjA2NTc0NjFhZmM0MDA0NDVmMGYxZjVkMmE5YTI0",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDkzZTZmMjgzNDAzYzVhMDlkODk5ODZkYmNlODQyNzJh",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -303,30 +303,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
-      },
-      "artists": [
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "Pedrin",
-          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 120958,
-      "name": "12",
-      "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 139328,
       "name": "Como \u00c9 Que T\u00e1?",
       "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "Pedrin",
+          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 120958,
+      "name": "12",
+      "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
     },
     {
       "added_at": "2023-02-10 03:01:00",

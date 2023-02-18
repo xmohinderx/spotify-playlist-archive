@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 147300,
+  "num_followers": 147472,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDQwZThjM2JlYmE0NDYyMDc5N2M5MmFkZmE4YTNlZWEz",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMGUxNWY5ZTk4YmI3MDlhY2Q5MjEzNzdmNTI1NTA0NDBh",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "The Phoenix",
-      "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
     },
     {
       "added_at": "2022-11-17 15:48:46",

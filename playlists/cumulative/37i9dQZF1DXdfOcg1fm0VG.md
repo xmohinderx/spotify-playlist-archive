@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-141 songs - 8 hr 10 min
+142 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Under Construction](https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5) | 4:48 | 2021-12-15 | 2022-07-29 |
 | [Under Construction](https://open.spotify.com/track/7hqCX9nPUOnFYk4q1XKq3e) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk) | 4:48 | 2022-07-27 |  |
 | [Village of Shadows](https://open.spotify.com/track/6YquGNlW5KGhCwUWYz0vxr) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 3:04 | 2021-12-15 |  |
+| [Viva Libertad: Epic Version \(From the Far Cry 6 Original Game Soundtrack\)](https://open.spotify.com/track/3zMto3WJqJQXYaAABtR7mf) | [Pedro Bromfman](https://open.spotify.com/artist/5SiBQxijnMwUGUYG31gZnS) | [Viva Libertad: Epic Version \(From the Far Cry 6 Original Game Soundtrack\)](https://open.spotify.com/album/09qDkLNQEo9FfrM4fav4FC) | 2:40 | 2023-02-17 |  |
 | [Waltzing on Rooftops and Cobblestones](https://open.spotify.com/track/5wc6TcHF6a44wTCKhkzEV3) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Syndicate \(Original Game Soundtrack\)](https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf) | 4:51 | 2021-12-15 |  |
 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Dead Space](https://open.spotify.com/album/0APOiX6fWqcHybQzssumck) | 5:21 | 2021-12-15 | 2022-07-29 |
 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/0albZjbwvxiUOEltWXj1ao) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ), [EA Games Soundtrack](https://open.spotify.com/artist/1gsT5GesFZ2qkDkgPxMUA1) | [Dead Space \(Original Soundtrack\)](https://open.spotify.com/album/6hiqqJJ6Fo7hGU54CvM9MM) | 5:20 | 2022-07-27 |  |

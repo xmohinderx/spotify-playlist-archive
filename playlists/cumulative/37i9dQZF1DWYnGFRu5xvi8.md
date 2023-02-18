@@ -4,7 +4,7 @@
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-390 songs - 23 hr 57 min
+391 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afrosword](https://open.spotify.com/track/52gVJ7LGpGdHDfkVm3SkAF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:13 | 2021-03-04 |  |
 | [Against the Wind](https://open.spotify.com/track/7wCzaCtPc3atkhRznl4fdw) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 2:08 | 2021-03-04 | 2022-07-26 |
 | [Amatsu Kaze](https://open.spotify.com/track/0haWnzzhb8w711aAclQb4Y) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:31 | 2021-03-04 | 2022-07-21 |
+| [And Love You Shall Find](https://open.spotify.com/track/2hKxxvF9MyDMzKkx5VQBfL) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 5:28 | 2023-02-16 |  |
 | [Answers](https://open.spotify.com/track/1aXqHzRaSr9obayyq6Xg6b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before Meteor: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0z7zOKNRHFIBwbuQttQQVc) | 7:08 | 2021-03-04 | 2023-02-17 |
 | [Antipyretic](https://open.spotify.com/track/2FmH4JO42auhArapharZt6) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:40 | 2021-03-04 |  |
 | [Anxiety](https://open.spotify.com/track/22xOSBthlUcFn9dJz7aJa5) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 2:44 | 2021-03-04 | 2022-04-26 |
@@ -395,7 +396,7 @@
 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 | 2021-03-04 | 2022-12-16 |
 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 | 2021-03-04 |  |
 | [「The Decisive Battle \- arrange \-」 from FINAL FANTASY VI](https://open.spotify.com/track/5j9MYr55krR7DigT8Y6mjM) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 1:57 | 2021-03-04 |  |
-| [ローカス \(Duality\) \~機工城アレキサンダー:起動編\~](https://open.spotify.com/track/0v0EnHj27IJO9oGSWoz4WX) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/2FHjWdqx6hUsGJaZYfzFWf) | 4:43 | 2023-02-16 |  |
+| [ローカス \(Duality\) \~機工城アレキサンダー:起動編\~](https://open.spotify.com/track/0v0EnHj27IJO9oGSWoz4WX) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/2FHjWdqx6hUsGJaZYfzFWf) | 4:43 | 2023-02-16 | 2023-02-18 |
 | [教会に咲く花](https://open.spotify.com/track/6dVxuSmdh6SDqB17FX7kEn) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 4:59 | 2021-03-04 | 2022-03-11 |
 | [決戦](https://open.spotify.com/track/2lAB9u4RQjbfqP3HccbajL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 4:26 | 2021-03-04 | 2022-03-03 |
 

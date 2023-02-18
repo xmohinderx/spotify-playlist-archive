@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Backfirewall (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QJcQdc8GPPjdgPwDbQ2md"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374000,
+      "name": "Backfirewall",
+      "url": "https://open.spotify.com/track/6OlAoJfP8wnzaxrRLBXN87"
+    },
+    {
+      "album": {
         "name": "Balearic Sea",
         "url": "https://open.spotify.com/album/6xFK1n3vVBXu9ru7pXZotB"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 328080,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 462560,
       "name": "I'm Fallin (feat. RY X)",
       "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
@@ -3252,7 +3270,7 @@
           "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 316840,
@@ -3654,7 +3672,7 @@
           "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
         }
       ],
-      "date_added": "2023-02-04",
+      "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181459,
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 293701,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
@@ -4486,6 +4504,32 @@
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
+    },
+    {
+      "album": {
+        "name": "The Last Goodbye Remixes N\u00b0.2",
+        "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "This Version Of You (feat. Julianna Barwick) - Joseph Ray Remix",
+      "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
     },
     {
       "album": {
@@ -4944,6 +4988,28 @@
       "duration_ms": 218000,
       "name": "Wellenl\u00e4nge",
       "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
+    },
+    {
+      "album": {
+        "name": "What If I",
+        "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354889,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
     },
     {
       "album": {

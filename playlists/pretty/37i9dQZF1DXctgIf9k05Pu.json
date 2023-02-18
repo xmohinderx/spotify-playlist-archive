@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 223422,
+  "num_followers": 223623,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGY1Y2E2ZTJhMzQ3MGRiNDcxYmI1NWI2MDAwYjc3ZmU3",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDJjYjk3OTM4MTBhNWZkNzZlNDk0ZWI3NmZhMDA4NWJl",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -703,38 +703,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Summer Picnic",
-        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
-      },
-      "artists": [
-        {
-          "name": "Jordy Chandra",
-          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Summer Picnic",
-      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "osho",
-        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
-      },
-      "artists": [
-        {
-          "name": "Nohidea",
-          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
-        }
-      ],
-      "duration_ms": 139684,
-      "name": "sincerely, yours",
-      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "change ur mind",
         "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
       },
@@ -759,18 +727,34 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Quickly Quickly, Vol. 1",
-        "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
+        "name": "osho",
+        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
       },
       "artists": [
         {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
         }
       ],
-      "duration_ms": 332173,
-      "name": "Getsomerest/sleepwell",
-      "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
+      "duration_ms": 139684,
+      "name": "sincerely, yours",
+      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Summer Picnic",
+        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Summer Picnic",
+      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -787,6 +771,22 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Quickly Quickly, Vol. 1",
+        "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 332173,
+      "name": "Getsomerest/sleepwell",
+      "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
     },
     {
       "added_at": "2022-02-02 00:21:48",

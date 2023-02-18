@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-151 songs - 9 hr 17 min
+152 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Can't Stop Writing Songs About You](https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:04 | 2021-11-12 | 2022-10-15 |
 | [Chain Reaction](https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Chain Reaction](https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f) | 4:09 | 2021-10-01 | 2022-11-05 |
 | [Change Your Mind](https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Change Your Mind](https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg) | 5:56 | 2023-01-27 |  |
-| [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-10-15 |  |
+| [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-10-15 | 2023-02-18 |
 | [Ciao](https://open.spotify.com/track/0X5LTG4ImUFlfNgOFXqzuN) | [Charles Fauna](https://open.spotify.com/artist/0arvBUGvO9CCgtWyQshByp) | [Renewal](https://open.spotify.com/album/2PeS6FuRkGmIwMY1AnMSMy) | 3:28 | 2022-02-25 | 2023-01-14 |
 | [Climbing Up](https://open.spotify.com/track/37cFA9RlQHyQ6r41LLzjCW) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Clicks](https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Climbing Up](https://open.spotify.com/album/2aToFPKZixcWBADYIsmBNU) | 3:53 | 2022-08-05 | 2022-10-29 |
 | [Climbing Up \(Colour Castle Dub Edit Mix I\)](https://open.spotify.com/track/7zOLHyza9544S7MqPDEdl0) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Clicks](https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Climbing Up \(Colour Castle Dub Mix I\)](https://open.spotify.com/album/0CGhXrgyw2MIQ4cOEVVfqb) | 3:31 | 2022-10-21 |  |
@@ -108,6 +108,7 @@
 | [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 | 2022-11-18 |  |
 | [Nowhere To Run](https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM) | [Amira Jazeera](https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6), [Papi Beatz](https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1) | [Nowhere To Run](https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il) | 2:57 | 2022-02-25 | 2023-01-28 |
 | [Only U \- Original Mix](https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Only U](https://open.spotify.com/album/4rR53leHib9wW0G4C8wFM0) | 3:14 | 2021-08-20 | 2022-10-22 |
+| [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 | 2023-02-17 |  |
 | [Over You](https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Over You](https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn) | 6:37 | 2022-01-07 | 2022-10-29 |
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 | 2022-09-02 |  |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-02-10 |  |

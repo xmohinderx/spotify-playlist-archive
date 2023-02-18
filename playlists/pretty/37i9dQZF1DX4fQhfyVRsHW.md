@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,187 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,199 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stationnaire](https://open.spotify.com/track/7vOLV9xqknZUrhKrlzDkXe) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Stationnaire](https://open.spotify.com/album/2ayrYWlBwDikrEJY4Mfsuw) | 3:00 |
 | 2 | [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 |
-| 3 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 |
-| 4 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 |
-| 5 | [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 |
-| 6 | [Seatherny](https://open.spotify.com/track/5ZWxmqAvPQqLKaflbMnRWw) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Seatherny](https://open.spotify.com/album/481jbINGvRyhPevllvQI1W) | 2:19 |
-| 7 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 |
-| 8 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 |
-| 9 | [Oceanic Adagio](https://open.spotify.com/track/1GniADRRmWcbMxIvoFG5yq) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Oceanic Adagio](https://open.spotify.com/album/7JjdS43xvxl5gaoG3PcHIr) | 3:23 |
-| 10 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 |
-| 11 | [Serene Lake \(Spa\)](https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:37 |
-| 12 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 |
+| 3 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 |
+| 4 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 |
+| 5 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 |
+| 6 | [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 |
+| 7 | [Seatherny](https://open.spotify.com/track/5ZWxmqAvPQqLKaflbMnRWw) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Seatherny](https://open.spotify.com/album/481jbINGvRyhPevllvQI1W) | 2:19 |
+| 8 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 |
+| 9 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 |
+| 10 | [Oceanic Adagio](https://open.spotify.com/track/1GniADRRmWcbMxIvoFG5yq) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Oceanic Adagio](https://open.spotify.com/album/7JjdS43xvxl5gaoG3PcHIr) | 3:23 |
+| 11 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 |
+| 12 | [Serene Lake \(Spa\)](https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:37 |
 | 13 | [Adwarmance \- The Wetlands](https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [The Wetlands](https://open.spotify.com/album/2eBxYJQfDK8XNK4IwQ9uCD) | 3:40 |
 | 14 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 |
 | 15 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 119 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
 | 120 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 
-Snapshot ID: `MTY3MzkwMzIwOSwwMDAwMDAwMDc3ZmE3N2VkNjliMGMyYmVmZDFhNTE2NmExY2JmZDJj`
+Snapshot ID: `MTY3NjY0ODcxMywwMDAwMDAwMDM3MDJhZmE0MjBhYTgyZjc5NzQ3NzZkZTg5MzFkODNm`

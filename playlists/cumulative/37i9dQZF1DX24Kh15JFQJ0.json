@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Is A Great State Of Mine",
+        "url": "https://open.spotify.com/album/65BnbeywsIzrzfkgmGeGl7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174526,
+      "name": "Tennessee Is A Great State Of Mine",
+      "url": "https://open.spotify.com/track/6GbKzazubOXElqLC1wNFU3"
+    },
+    {
+      "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },

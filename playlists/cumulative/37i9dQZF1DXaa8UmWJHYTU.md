@@ -4,7 +4,7 @@
 
 > Crackling and popping sounds of fireplaces.
 
-154 songs - 7 hr 58 min
+155 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Summer Flame](https://open.spotify.com/track/67AChCRrSRvQzAEeCRnYxd) | [FI\. Ochre](https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ) | [Summer Flame](https://open.spotify.com/album/4BbZaVnaFkB2eXYZpWoMt5) | 3:20 | 2022-09-05 |  |
 | [That Cabin Warmth](https://open.spotify.com/track/7lXDI557voKM71ZPnIuy2Q) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [That Cabin Warmth](https://open.spotify.com/album/2JqW1oAjhy9B3jQWkuGBl6) | 3:20 | 2022-11-15 |  |
 | [The Chimney Stove](https://open.spotify.com/track/27pChcRstKCqGzhGqevjCf) | [Flickerfire](https://open.spotify.com/artist/2LWHVfyWpKHd02vsMaDzWo) | [The Chimney Stove](https://open.spotify.com/album/272ZoTccp9o5uP5dkZlxS8) | 3:05 | 2022-11-15 |  |
+| [The Melody of the Fire](https://open.spotify.com/track/2susFLmxFb3PpfngNrukOP) | [Fire Chemistry](https://open.spotify.com/artist/6lLPRRXGQ0vvSV3xCk5j9C) | [The Melody of the Fire](https://open.spotify.com/album/4Zp90zU8T7kKMm5doGdUb6) | 2:40 | 2023-02-17 |  |
 | [The Steady Fire and the Small Crackles](https://open.spotify.com/track/5YAWkPz4uaQCkpJ2N1HHQT) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Sheltering Fireplace \(Binaural 3D Audio\)](https://open.spotify.com/album/2AW54xhxqcySF33psC6NDu) | 5:00 | 2022-09-05 |  |
 | [Warm Dreams](https://open.spotify.com/track/2BrFiOzCDW5VBpd2Qok68p) | [Varuna Recordings](https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV) | [Warm Dreams](https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ) | 3:04 | 2022-09-05 |  |
 | [Warm Sleep](https://open.spotify.com/track/34IOaNKAjTSvKCNteVS1Qo) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [Warm Sleep](https://open.spotify.com/album/1uZk8CdB5OqRWGQU1Jzqmh) | 4:02 | 2022-09-05 | 2022-09-24 |

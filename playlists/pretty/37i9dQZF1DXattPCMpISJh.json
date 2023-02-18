@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jake Shears",
-  "num_followers": 76319,
+  "num_followers": 76482,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDc2OTY3MzI2NjkzNjM0ODAzMzQ5OGU3MzliOWFiNTYw",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGMyZjk5ZjY1YTQ0NjRhMGViZDhiOGRiNjA5ZjgxYWFk",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -111,6 +111,22 @@
       "duration_ms": 198524,
       "name": "NIKKI",
       "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Songs I Wish I'd Written: Vol. 5",
+        "url": "https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg"
+      },
+      "artists": [
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Out of Your Mind",
+      "url": "https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1879,22 +1895,6 @@
       "duration_ms": 183387,
       "name": "I Won't Walk Away",
       "url": "https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 221744,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c"
     }
   ],
   "unique_name": "Nu-Disco",

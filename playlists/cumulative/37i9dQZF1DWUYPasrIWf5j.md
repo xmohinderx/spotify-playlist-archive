@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-108 songs - 6 hr 11 min
+114 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,11 @@
 | [All Night Long \(All Night\) \- Ukulele Version](https://open.spotify.com/track/5MXq0MnYShJ3OTBgH4wZ3e) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 4:00 | 2022-05-20 | 2022-12-02 |
 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 | 2022-05-20 |  |
 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 | 2022-12-01 |  |
+| [Bad Habit](https://open.spotify.com/track/7gRHfXvxtOg6xlEcht8GDI) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 1:39 | 2023-02-17 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/4CPQ4IMccumGxOA5naSzN8) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:22 | 2022-05-20 |  |
 | [Better Together \- Ukulele](https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:22 | 2022-05-20 |  |
+| [Blinding Lights](https://open.spotify.com/track/19Lst5G6RGXIh3RNbVxV2e) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Blinding Lights](https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS) | 3:10 | 2023-02-17 |  |
+| [Bones](https://open.spotify.com/track/1JaX6jmjUKiXHfurxbYhpv) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 2:37 | 2023-02-17 |  |
 | [Brown Eyed Girl \(Instrumental Version\)](https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:44 | 2022-05-20 |  |
 | [Bubbly](https://open.spotify.com/track/35kTXi8zS7sslWKCLdeBvv) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Shelli plays the Uke](https://open.spotify.com/album/5e0jgZVk0lduI1ay8bY67C) | 2:58 | 2022-05-20 |  |
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-05-20 |  |
@@ -50,12 +53,14 @@
 | [Knowing Me, Knowing You](https://open.spotify.com/track/0i540Oa6722htaipZglBZm) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN) | 3:51 | 2022-07-26 |  |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/4o8hBDNI3ZFfLay1HM5931) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/4pLawZ6HgMm79iceCSxt1c) | 3:51 | 2022-05-20 | 2022-07-29 |
 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 | 2022-05-20 |  |
+| [Landslide](https://open.spotify.com/track/5SXHgJzce8r2AIghLhRQyS) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Landslide](https://open.spotify.com/album/665cKxO6hVYrRY6CRPBpOw) | 3:28 | 2023-02-17 |  |
 | [Learn to Fly](https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 3:56 | 2022-12-22 |  |
 | [Left and Right](https://open.spotify.com/track/0O8CRUwEpnevlsKdEGKdFD) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:34 | 2022-12-01 |  |
 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 | 2022-05-20 |  |
 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-05-20 |  |
 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Lullabies for Little Ones on Ukulele](https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3) | 3:52 | 2022-07-26 |  |
 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 | 2022-05-20 | 2022-07-29 |
+| [Levitating](https://open.spotify.com/track/1vGDdyCxFhqpefafCXYqVU) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Blinding Lights](https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS) | 2:55 | 2023-02-17 |  |
 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 | 2022-05-20 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:48 | 2022-05-20 |  |
 | [Lose Somebody](https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Lose Somebody](https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz) | 3:19 | 2022-05-20 |  |
@@ -110,6 +115,7 @@
 | [Waterloo Sunset](https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 3:30 | 2022-05-20 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:58 | 2023-01-27 |  |
 | [What A Wonderful World](https://open.spotify.com/track/0tSvJUcVba6J2hDazrQLtt) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 2:12 | 2022-05-20 |  |
+| [Wicked Games](https://open.spotify.com/track/1c1Dv8b24rvs4TvaTqGFFX) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Landslide](https://open.spotify.com/album/665cKxO6hVYrRY6CRPBpOw) | 3:38 | 2023-02-17 |  |
 | [Wild World](https://open.spotify.com/track/600Ii6Xs0MoILjUlcKBrX8) | [Agalipe](https://open.spotify.com/artist/7cdMrWrv70SgsvloDBbmOa) | [Wild World](https://open.spotify.com/album/0VOwzs047lYa3PluEQlD2D) | 2:35 | 2022-05-20 |  |
 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 | 2022-07-01 |  |
 | [Wouldn't It Be Nice \- Ukulele Style](https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits Vol.2](https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB) | 2:14 | 2022-05-20 | 2022-12-02 |

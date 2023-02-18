@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
+  "description": "Add some sweet soul music to your dinner. Cover: Ben L'Oncle Soul",
   "name": "Soul Food",
   "tracks": [
     {
@@ -226,6 +226,28 @@
       "duration_ms": 175275,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ"
+    },
+    {
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "album": {
@@ -464,7 +486,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 188940,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/29ZonaZKYeeuOu6gMheY8D"
@@ -616,7 +638,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
@@ -814,7 +836,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
@@ -995,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU ?",
+        "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225643,
+      "name": "Is it you ?",
+      "url": "https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt"
+    },
+    {
+      "album": {
         "name": "It Ain't Easy",
         "url": "https://open.spotify.com/album/2HEt3arRMRqDw4HOv2uTqN"
       },
@@ -1053,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
       },
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 279638,
       "name": "Life Isn't",
       "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
@@ -1118,7 +1176,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 235016,
       "name": "Listen",
       "url": "https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh"
@@ -1375,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Midnight Colors",
+        "url": "https://open.spotify.com/album/3Evem3kHZzf736bCREcOL8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Colors",
+          "url": "https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292207,
+      "name": "New Tree",
+      "url": "https://open.spotify.com/track/5fZkN8x1aEwugCkyRh4TH2"
+    },
+    {
+      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -1599,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Honesty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/56UvbaI7IehHOubQI44yK6"
+    },
+    {
+      "album": {
         "name": "Same Girl",
         "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
       },
@@ -1707,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192724,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
+    },
+    {
+      "album": {
         "name": "sing about love",
         "url": "https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz"
       },
@@ -1772,7 +1884,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 219501,
       "name": "Sky has open doors",
       "url": "https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d"
@@ -1826,7 +1938,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 228831,
       "name": "Something I Know",
       "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
@@ -1880,7 +1992,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 219354,
       "name": "Start over Again",
       "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
@@ -1960,7 +2072,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
@@ -2030,7 +2142,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
@@ -2048,7 +2160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 264760,
       "name": "Suitcase (Add The Weight)",
       "url": "https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH"
@@ -2427,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Canyons",
+        "url": "https://open.spotify.com/album/6zUkROVTx4kzHoWFAYcVr1"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Who Needs Words",
+      "url": "https://open.spotify.com/track/3okFhxlqZJxjviCEFX5ZjJ"
+    },
+    {
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -2600,7 +2730,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 273826,
       "name": "You Live In My Phone",
       "url": "https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7"

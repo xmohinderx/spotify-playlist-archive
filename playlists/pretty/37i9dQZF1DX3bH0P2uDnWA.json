@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 329592,
+  "num_followers": 329777,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDRlNWJmZGM3ODRhODMzN2NjOTYwNzUyMmQxNDk2ZWZj",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDc2NGZiZjZkZTM5ZGI4ZjM5Zjc4OGVlZmRiOTc1ZDdm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Curses from Past Times EP",
-        "url": "https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael"
-      },
-      "artists": [
-        {
-          "name": "Proleter",
-          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
-        }
-      ],
-      "duration_ms": 275751,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/04KsMCb9PZE2S0AtUU8Jhb"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Atlantic Ballroom",
         "url": "https://open.spotify.com/album/5OibdNiyEx8gxw9ASUAkwI"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 193639,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4KMIxYB3OX5GvKGH2XXOiq"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Curses from Past Times EP",
+        "url": "https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael"
+      },
+      "artists": [
+        {
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        }
+      ],
+      "duration_ms": 275751,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/04KsMCb9PZE2S0AtUU8Jhb"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
     },
     {
-      "added_at": "2022-11-11 17:00:00",
-      "album": {
-        "name": "Rum & Coke",
-        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 157229,
-      "name": "Rum & Coke",
-      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Black Betty - Single",
@@ -371,6 +355,22 @@
       "duration_ms": 210708,
       "name": "Horny - Electro Swing Version",
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
+    },
+    {
+      "added_at": "2022-11-11 17:00:00",
+      "album": {
+        "name": "Rum & Coke",
+        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 157229,
+      "name": "Rum & Coke",
+      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Show Breaks",
-        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
-      },
-      "artists": [
-        {
-          "name": "AlgoRythmik",
-          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
-        }
-      ],
-      "duration_ms": 218796,
-      "name": "Andrew's Break",
-      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
-    },
-    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Wellerman",
@@ -487,6 +471,22 @@
       "duration_ms": 138645,
       "name": "Wellerman - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Love!",
+        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Love!",
+      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
+    },
+    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -679,22 +695,6 @@
       "duration_ms": 170619,
       "name": "Boring 20s",
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Love!",
-        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Love!",
-      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Ladies Night",
@@ -1103,6 +1087,22 @@
       "duration_ms": 328441,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Bongo Chic",
-        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "The Jungle Jive",
-      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
-    },
-    {
       "added_at": "2022-11-07 16:43:23",
       "album": {
         "name": "Watch Your Tongue",
@@ -1247,6 +1231,22 @@
       "duration_ms": 178320,
       "name": "Watch Your Tongue",
       "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Bongo Chic",
+        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "The Jungle Jive",
+      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2020-10-30 09:06:04",

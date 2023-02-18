@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-156 songs - 9 hr 38 min
+157 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Shimmering Water](https://open.spotify.com/track/5tDvK8nHGn490K4mokboKC) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2) | [Silent Waves](https://open.spotify.com/album/4YUHjJEz3YWglKA0Tv88zo) | 4:49 | 2021-11-19 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/1q3F9PLbSvXiYvgwS6QoM7) | 2:29 | 2021-11-19 | 2022-10-22 |
 | [Silence](https://open.spotify.com/track/6OmC1B1EOQSbhQL6HP1cPn) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/6d8r1d7UpVOalcpby246Mc) | 2:29 | 2022-09-19 |  |
-| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-05-11 |  |
+| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-05-11 | 2023-02-18 |
+| [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-09 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2021-11-19 | 2022-07-29 |
 | [Sonoran](https://open.spotify.com/track/7925XkbGxCdaj8CRht1pJt) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [MJ Cole Presents Madrugada](https://open.spotify.com/album/2BZVe7dId9BVvwziNOSQQT) | 4:09 | 2021-11-19 |  |
 | [Sospiri, Op\. 70 \(Arr\. Violin and Piano\)](https://open.spotify.com/track/2auuNbeUzVCaH3qWfImD6I) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Petr Limonov](https://open.spotify.com/artist/4UIoKjy2znMogM0ifdRmaY) | [Elgar: Sospiri, Op\. 70 \(Arr\. Violin and Piano\)](https://open.spotify.com/album/33iOkBryaXVUsWilf1cRNj) | 4:10 | 2021-11-19 | 2022-05-12 |

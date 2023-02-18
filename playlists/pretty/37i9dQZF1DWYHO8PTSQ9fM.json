@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Zaho",
-  "num_followers": 245806,
+  "num_followers": 246072,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU3ODIzNCwwMDAwMDAwMDUzYzMwZmRkMTU2OTYwNzJmNDlkMmIwN2Q0NTkyMmQ1",
+  "snapshot_id": "MTY3NjY1NTg0MCwwMDAwMDAwMDk5MmI3MjE5YjQ4NzZhYjczZDRjZGI4Y2E2NjRkMWQy",
   "tracks": [
     {
       "added_at": "2023-02-16 20:10:34",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-02-16 20:10:34",
       "album": {
+        "name": "Talet Lghiba",
+        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "duration_ms": 211230,
+      "name": "Talet Lghiba",
+      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
+    },
+    {
+      "added_at": "2023-02-16 20:10:34",
+      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
@@ -103,18 +119,18 @@
     {
       "added_at": "2023-02-16 20:10:34",
       "album": {
-        "name": "Talet Lghiba",
-        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
       },
       "artists": [
         {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
         }
       ],
-      "duration_ms": 211230,
-      "name": "Talet Lghiba",
-      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
+      "duration_ms": 238939,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
       "added_at": "2023-02-16 20:10:34",
@@ -155,70 +171,6 @@
     {
       "added_at": "2023-02-16 20:10:34",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
-    },
-    {
-      "added_at": "2023-02-16 20:10:34",
-      "album": {
-        "name": "Alo Aleky",
-        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
-        }
-      ],
-      "duration_ms": 178885,
-      "name": "Alo Aleky",
-      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
-    },
-    {
-      "added_at": "2023-02-16 20:10:34",
-      "album": {
-        "name": "SOS (Chapitre 1)",
-        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 204695,
-      "name": "Paro",
-      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
-    },
-    {
-      "added_at": "2023-02-16 20:10:34",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 224628,
-      "name": "Vvs",
-      "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
-    },
-    {
-      "added_at": "2023-02-16 20:10:34",
-      "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
       },
@@ -231,22 +183,6 @@
       "duration_ms": 148062,
       "name": "Dawk Lya",
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
-    },
-    {
-      "added_at": "2023-02-16 20:10:34",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 265806,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
       "added_at": "2023-02-16 20:10:34",
@@ -267,6 +203,22 @@
       "duration_ms": 167439,
       "name": "ELGHIRA",
       "url": "https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI"
+    },
+    {
+      "added_at": "2023-02-16 20:10:34",
+      "album": {
+        "name": "Alo Aleky",
+        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 178885,
+      "name": "Alo Aleky",
+      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
     },
     {
       "added_at": "2023-02-16 20:10:34",
@@ -303,6 +255,22 @@
       "duration_ms": 209189,
       "name": "L'\u00c9tranger",
       "url": "https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL"
+    },
+    {
+      "added_at": "2023-02-16 20:10:34",
+      "album": {
+        "name": "SOS (Chapitre 1)",
+        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 204695,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
       "added_at": "2023-02-16 20:10:34",
@@ -351,6 +319,38 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2023-02-16 20:10:34",
+      "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 224628,
+      "name": "Vvs",
+      "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
+    },
+    {
+      "added_at": "2023-02-16 20:10:34",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 265806,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
       "added_at": "2023-02-16 20:10:34",

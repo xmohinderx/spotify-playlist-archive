@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-461 songs - 1 day 4 hr 54 min
+463 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-22 | 2022-07-29 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-06-24 |  |
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2022-01-14 | 2022-07-29 |
+| [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-17 |  |
 | [American Spirits](https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [American Spirits](https://open.spotify.com/album/0aBAw124SJ8a4KLGGa6DAH) | 4:43 | 2021-11-19 | 2022-07-26 |
 | [Angelina](https://open.spotify.com/track/4F30FT7ic362rA5sUujirY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:45 | 2021-10-22 | 2022-04-14 |
 | [Another Lifetime](https://open.spotify.com/track/3V18Owc2UzBCb1fY41mj5D) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Another Lifetime](https://open.spotify.com/album/0cX0b1ECxqb8MlfxIBGjDC) | 4:04 | 2021-10-22 | 2022-06-27 |
@@ -124,7 +125,7 @@
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Easy Way Out](https://open.spotify.com/track/3oOv0oaIqTwJhTNqA1HiGP) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Easy Way Out](https://open.spotify.com/album/3Dt0kC5ZGdlzxWke1esOwu) | 4:37 | 2021-10-22 | 2022-07-18 |
-| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 |  |
+| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 | 2023-02-18 |
 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 | 2021-10-22 | 2022-07-29 |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-10-22 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 |  |
@@ -416,7 +417,7 @@
 | [TNT](https://open.spotify.com/track/71ugx1rYiEKONKUrTCQLsr) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:04 | 2021-10-22 | 2022-07-28 |
 | [To Ash \(feat\. Nico Muhly\)](https://open.spotify.com/track/2D5zoxj7CQTAwG9L8xeOXR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:23 | 2022-06-24 | 2022-07-27 |
 | [Tom](https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Tom](https://open.spotify.com/album/6WpkIkPKxMy0mYF2m0kn2k) | 3:20 | 2021-10-22 | 2022-07-29 |
-| [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 | 2021-10-22 |  |
+| [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 | 2021-10-22 | 2023-02-18 |
 | [Tried to Tell You](https://open.spotify.com/track/6paZpy38anvDucX9Zi4uEK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Atlantic](https://open.spotify.com/album/0a9pQOFCm8ObvipeAcvW53) | 3:38 | 2021-10-22 | 2022-07-29 |
 | [Try](https://open.spotify.com/track/4YNW5ViGjuHT5dkqrT7DAS) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:37 | 2022-04-13 | 2022-04-19 |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2021-10-22 | 2022-11-13 |
@@ -466,6 +467,7 @@
 | [You Would Have to Lose Your Mind](https://open.spotify.com/track/5Cy19QL3dXCbqonYBNMDbF) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [You Would Have to Lose Your Mind](https://open.spotify.com/album/0qwZh2K12DVjRUh5axTD7Q) | 6:21 | 2021-10-22 | 2022-07-28 |
 | [You're Not Alone](https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 5:36 | 2021-10-22 | 2022-04-18 |
 | [Young Bodies](https://open.spotify.com/track/2zOs2Dck8ilE2DqpjZVdD2) | [Westward the Tide](https://open.spotify.com/artist/5oTZhBfLpcYvt6Y703qkYB) | [Sorry Soul](https://open.spotify.com/album/6p2IxI7t9D5CPfGM8edABQ) | 4:09 | 2022-04-13 | 2022-04-21 |
+| [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-17 |  |
 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-06-24 |  |
 | [Your Body](https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Your Body](https://open.spotify.com/album/5evixJw5r4l7PDqEJNBzhN) | 3:24 | 2021-10-22 | 2022-07-18 |
 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 | 2021-10-22 |  |

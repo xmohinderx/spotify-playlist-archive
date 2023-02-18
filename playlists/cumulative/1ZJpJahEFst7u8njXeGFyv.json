@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 331613,
       "name": "Adagio cantabile",
       "url": "https://open.spotify.com/track/4Y3AHauLXKrPGCNu8PIkJD"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 131253,
       "name": "Gnossienne 2",
       "url": "https://open.spotify.com/track/68wzTmMyxeA28PcemsqmcT"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 322026,
       "name": "II. Romanze",
       "url": "https://open.spotify.com/track/3QFpG00fL558WO3QBYq6Jc"
@@ -1944,6 +1944,28 @@
       "duration_ms": 171613,
       "name": "La Fille aux Cheveux de Lin",
       "url": "https://open.spotify.com/track/1FP9utnIkLyhZJ2YZ72Kuf"
+    },
+    {
+      "album": {
+        "name": "Lakm\u00e9: Flower Duet (Arr. for Violin and Strings by Vivan & Ketan Bhatti)",
+        "url": "https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154359,
+      "name": "Lakm\u00e9: Flower Duet (Arr. for Violin and Strings by Vivan & Ketan Bhatti)",
+      "url": "https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL"
     },
     {
       "album": {
@@ -2310,7 +2332,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198373,
       "name": "Minuet from String Quartet in E Major, Op. 11, No. 5",
       "url": "https://open.spotify.com/track/6QUl9dT2BCFckjaYokHfsf"
@@ -3447,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "Sheep May Safely Graze",
+        "url": "https://open.spotify.com/album/35sLTSEVfSOZr37eTTdReu"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123850,
+      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/62vy0nReW4u7ct09gyUlxm"
+    },
+    {
+      "album": {
         "name": "slo\u00e5ne",
         "url": "https://open.spotify.com/album/1cykzohNmnfgOJY3jaePK2"
       },
@@ -3762,6 +3802,24 @@
       "duration_ms": 198520,
       "name": "Tamie",
       "url": "https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU"
+    },
+    {
+      "album": {
+        "name": "Tephra Horizon",
+        "url": "https://open.spotify.com/album/2mGklMQ27q59mb9Y6x1vIn"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Tephra Horizon",
+      "url": "https://open.spotify.com/track/5fjMgpIKcm3Woheg2jUDyr"
     },
     {
       "album": {
@@ -4216,7 +4274,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 182333,
       "name": "Tr\u00e4umerei, Op. 15",
       "url": "https://open.spotify.com/track/55FlJmC8BokdshB9j5xvup"

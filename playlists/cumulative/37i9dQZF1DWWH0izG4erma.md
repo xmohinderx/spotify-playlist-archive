@@ -4,12 +4,12 @@
 
 > HARDY is taking OVER! His new album the mockingbird & THE CROW is out now!
 
-229 songs - 13 hr 20 min
+231 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2021-11-01 |  |
-| [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 | 2021-11-01 |  |
+| [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 | 2021-11-01 | 2023-02-18 |
 | [A Bullet With My Name](https://open.spotify.com/track/3aCf4ZPy3ILXFcQ0NIFTv6) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [A Bullet With My Name](https://open.spotify.com/album/4tvlbftuk2FS7IJAWPU1ud) | 4:15 | 2022-05-20 | 2022-07-10 |
 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 |  |
 | [Alive and Well](https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Alive and Well](https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF) | 3:18 | 2021-11-01 | 2022-07-28 |
@@ -39,7 +39,7 @@
 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 | 2023-01-27 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 |  |
 | [Broken Windshield View](https://open.spotify.com/track/2VnjUrGKgRppVnbANIQyy7) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Broken Windshield View](https://open.spotify.com/album/4EzrCQdf9JYShUo0PtxXe4) | 3:24 | 2023-01-20 |  |
-| [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 |  |
+| [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 | 2023-02-18 |
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Burn It Down \(717 Tapes\)](https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN) | 2:49 | 2022-01-21 | 2022-07-29 |
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/59lRASvykN3UQstK839tep) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:49 | 2022-10-01 |  |
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:49 | 2022-07-22 | 2022-11-13 |
@@ -89,6 +89,7 @@
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-11-01 |  |
 | [Go To Town](https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Go To Town](https://open.spotify.com/album/5Hl88l5hDmr3O7RVQJBIlE) | 3:01 | 2022-05-06 | 2022-07-18 |
 | [Good Old Days](https://open.spotify.com/track/6Am1VgKxTIDabVMKMqDK8y) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Good Old Days](https://open.spotify.com/album/3Md0K3RwkIZTLek3vz0zOJ) | 3:15 | 2021-11-01 | 2022-07-09 |
+| [Good Thing](https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [I Made a Record](https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq) | 3:11 | 2023-02-17 |  |
 | [Halos and Horns](https://open.spotify.com/track/44Yx0jcGJtgez04gBTea8R) | [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Halos and Horns](https://open.spotify.com/album/2czEtw6zLzPGWppATFzdtQ) | 3:17 | 2022-05-06 | 2022-08-27 |
 | [Hand Me a Beer](https://open.spotify.com/track/7eDloZneDYKWUYQXWzFAxD) | [Dew Pendleton](https://open.spotify.com/artist/3lZcShQipQYykofmmhaTK0) | [Might as Well Be Me](https://open.spotify.com/album/7v6ZUl0JIoszCE9cpVUaaV) | 3:50 | 2021-11-01 | 2022-07-10 |
 | [Hard Time With The Truth](https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Solid Gold Sounds \(Deluxe Edition\)](https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8) | 4:11 | 2022-07-22 | 2022-10-29 |
@@ -100,6 +101,7 @@
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2022-11-18 |  |
 | [Highway Like Me \(feat\. Marcus King\)](https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 4:30 | 2021-11-01 | 2022-08-27 |
 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 | 2021-11-01 | 2022-07-29 |
+| [Hillbilly \(featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show\)](https://open.spotify.com/track/2Msuy0psLMrdPN01WZo6BE) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j), [Ketch Secor](https://open.spotify.com/artist/2aqTRwwChQlJmPzvR0C227) | [Hillbilly \(featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show\)](https://open.spotify.com/album/47PyPMhWpNNhQUX7DIUWSH) | 3:03 | 2023-02-17 |  |
 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 | 2023-01-27 |  |
 | [Hold My Horses](https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:00 | 2022-10-01 | 2022-11-14 |
 | [Hold My Horses](https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:00 | 2022-11-01 |  |

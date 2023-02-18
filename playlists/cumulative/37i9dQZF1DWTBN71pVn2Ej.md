@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-300 songs - 17 hr 36 min
+304 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-27 | 2022-09-07 |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |
 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 | 2022-01-13 | 2022-04-15 |
+| [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-02-17 |  |
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-12 | 2022-10-22 |
 | [Chasing Highs](https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Chasing Highs](https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav) | 3:10 | 2022-09-06 |  |
 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 | 2021-12-16 | 2022-02-18 |
@@ -132,6 +133,7 @@
 | [Heavy Is The Ocean](https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Heavy Is The Ocean](https://open.spotify.com/album/7vsbwpZnmz2q3y15J0NViN) | 5:12 | 2022-09-22 |  |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
 | [Hold On You](https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/2ALvJNxFwqPtzq22hnPp0s) | 3:24 | 2022-12-02 | 2022-12-16 |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-21 | 2022-09-07 |
 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 | 2022-07-31 | 2022-10-15 |
 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 | 2021-12-16 | 2022-03-11 |
@@ -155,6 +157,7 @@
 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 | 2022-09-06 | 2023-02-10 |
 | [Kamikaze](https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T) | 3:22 | 2022-09-06 | 2023-02-10 |
 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
+| [King B](https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [King B](https://open.spotify.com/album/5ZzynEKb0pettc13vWULTE) | 3:20 | 2023-02-17 |  |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-05 | 2022-09-23 |
 | [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 | 2022-10-01 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
@@ -202,7 +205,7 @@
 | [Open Your Eyes and Dream](https://open.spotify.com/track/6o7ipc663JGAnWsntR8Ny6) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Open Your Eyes and Dream](https://open.spotify.com/album/0tYtuOZFH561GOoZU3VdqV) | 4:02 | 2022-09-22 |  |
 | [Out Of the Dark and into the Light](https://open.spotify.com/track/2M01sUTKph6pqR7J5j79Er) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Out of the Dark and Into the Light](https://open.spotify.com/album/03wqT0b3aui6059tTnSqqs) | 2:59 | 2022-09-30 | 2023-01-14 |
 | [Pain of Glass](https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:28 | 2023-02-02 |  |
-| [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-25 |  |
+| [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-25 | 2023-02-18 |
 | [Paranoid Letter](https://open.spotify.com/track/0HyJRKGRYWtUdcaB397fDR) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Someday](https://open.spotify.com/album/6gfFQPIQNXGT5RpPGZWewa) | 3:45 | 2022-09-06 | 2022-11-12 |
 | [Party Scene](https://open.spotify.com/track/3GTJ2lJxIlhoSyAznxNUWy) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Party Scene](https://open.spotify.com/album/3eYOamJN0c5EHXR81ZrRFE) | 2:56 | 2022-11-18 | 2022-12-16 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-09-06 | 2022-10-01 |
@@ -217,7 +220,7 @@
 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-06-02 | 2022-09-23 |
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 | 2022-09-07 |
 | [Recovery](https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7) | [SPICE](https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM) | [Viv](https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba) | 3:08 | 2022-10-21 |  |
-| [Rejoice](https://open.spotify.com/track/2mnZWMlT3qedh1c5rhbA1t) | [Dull Mourning](https://open.spotify.com/artist/2j8vT8beMEewV4f0lWa2ew) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 2:59 | 2022-09-06 |  |
+| [Rejoice](https://open.spotify.com/track/2mnZWMlT3qedh1c5rhbA1t) | [Dull Mourning](https://open.spotify.com/artist/2j8vT8beMEewV4f0lWa2ew) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 2:59 | 2022-09-06 | 2023-02-18 |
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 | 2022-10-15 |
 | [Rinse and Repeat](https://open.spotify.com/track/5TFCatIcfeNVhoUpqHIlHg) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Rinse and Repeat](https://open.spotify.com/album/59LnOVTUi3AkP948nZ54BS) | 4:31 | 2022-03-24 | 2022-04-22 |
 | [Roosevelt](https://open.spotify.com/track/2XKhUAh2I8FpTfWqOPi22E) | [MAYPINE](https://open.spotify.com/artist/5AwwX1P1Saf9dw2nq3oclb) | [Even in My Dreams I Can’t Find Peace](https://open.spotify.com/album/5KwFbgjNcgXJfTjXrrSr52) | 3:53 | 2022-11-11 |  |
@@ -246,7 +249,7 @@
 | [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2022-09-06 |  |
 | [Summer Set Fire to the Rain](https://open.spotify.com/track/4vnPiUc0uJRHnm7vRsrDls) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 4:22 | 2022-02-24 | 2022-05-20 |
 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 | 2023-02-09 |  |
-| [Sunday](https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak) | [Sun Puddle](https://open.spotify.com/artist/0RhDTDJ61XsfQPnYqQcPxj) | [Sunday](https://open.spotify.com/album/44RbCgQAyTLFdzYuL1EQgt) | 3:43 | 2022-09-06 |  |
+| [Sunday](https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak) | [Sun Puddle](https://open.spotify.com/artist/0RhDTDJ61XsfQPnYqQcPxj) | [Sunday](https://open.spotify.com/album/44RbCgQAyTLFdzYuL1EQgt) | 3:43 | 2022-09-06 | 2023-02-18 |
 | [Supernatural](https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Supernatural](https://open.spotify.com/album/61yrnIQNoSMirv6gadFV6W) | 3:52 | 2023-01-06 |  |
 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 | 2022-02-17 | 2022-07-01 |
 | [Suspect](https://open.spotify.com/track/1L2I2u02iJkQMUalrOYI19) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Suspect](https://open.spotify.com/album/4KU9hQndjgoFYtgRMPoyln) | 3:47 | 2023-02-02 |  |
@@ -275,6 +278,7 @@
 | [Time Won't Wait](https://open.spotify.com/track/2mw4vltQ8uDvLo6cbYvRt7) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [All The Rage](https://open.spotify.com/album/3pp1n3C4QILVIX1DDyOXCV) | 3:43 | 2021-12-16 | 2022-02-04 |
 | [Tired](https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Tired](https://open.spotify.com/album/795D24YUGoF1H1VuHVEGlk) | 3:20 | 2021-12-16 | 2022-01-14 |
 | [Title Track](https://open.spotify.com/track/6IOm2HdES3uec7DIdy3oBJ) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Title Track](https://open.spotify.com/album/1yP0qGCiMHxTX8eo3LqVO4) | 3:47 | 2022-10-21 | 2022-11-05 |
+| [Together in Pieces](https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Together in Pieces](https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o) | 3:55 | 2023-02-17 |  |
 | [Tramlines](https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tramlines](https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo) | 3:16 | 2023-02-09 |  |
 | [Tribe](https://open.spotify.com/track/68SIJ8nkxtDWaVkvGW0ob7) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Tribe](https://open.spotify.com/album/0KN1TdgMQxIWmNnmwjC9RJ) | 3:27 | 2022-10-14 | 2022-11-26 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-12-16 | 2022-03-25 |
@@ -290,7 +294,7 @@
 | [Waltzer](https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Waltzer](https://open.spotify.com/album/5egh75SfDBdTyu1OIfzhF8) | 3:59 | 2022-09-06 | 2022-12-03 |
 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 | 2022-09-06 | 2022-10-01 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-07-31 | 2022-11-05 |
-| [Wasted Days, Wasted Years](https://open.spotify.com/track/3BOjVq7cZVmyyhdo67vUxM) | [Anxious Arms](https://open.spotify.com/artist/6MPrbzK42sqreIHl9xdpId) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 3:44 | 2022-09-06 |  |
+| [Wasted Days, Wasted Years](https://open.spotify.com/track/3BOjVq7cZVmyyhdo67vUxM) | [Anxious Arms](https://open.spotify.com/artist/6MPrbzK42sqreIHl9xdpId) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 3:44 | 2022-09-06 | 2023-02-18 |
 | [Way Out](https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Way Out](https://open.spotify.com/album/6ONvmvNv1ODp0o6vEaMwM7) | 3:02 | 2021-12-16 | 2022-04-06 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-22 | 2023-02-03 |
 | [We've Had Enough](https://open.spotify.com/track/3bs96NK6A91sCXUIJZjBpW) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/4cCcGh2sXiPL0L6Pjk5zR3) | 2:51 | 2022-09-06 | 2022-10-22 |

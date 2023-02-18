@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Clarity Frequency",
+        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Laporte",
+          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Clarity Frequency",
+      "url": "https://open.spotify.com/track/55fiBJxV3sdNyUmDbZtyMy"
+    },
+    {
+      "album": {
         "name": "Clear Path",
         "url": "https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN"
       },
@@ -2148,6 +2166,24 @@
       "duration_ms": 227500,
       "name": "Oscitancy",
       "url": "https://open.spotify.com/track/64CajkmsGoNAefmvK8pYpY"
+    },
+    {
+      "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161700,
+      "name": "O\u00e4ndligheten",
+      "url": "https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D"
     },
     {
       "album": {

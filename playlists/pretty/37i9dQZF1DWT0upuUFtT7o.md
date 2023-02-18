@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: romeo + juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,589 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,664 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 92 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 |
 | 93 | [Cosmo Kid](https://open.spotify.com/track/34vtAjXI9Yx7YZ8THbhVgR) | [Shak SYrn](https://open.spotify.com/artist/3Q9vSB58gxDpPM7aFD8QNA) | [Cosmo Kid](https://open.spotify.com/album/44nwXMoehVBadeSmZRkDR8) | 3:24 |
 | 94 | [Wanting](https://open.spotify.com/track/6fnKJOvksSWIXNhp9guzPk) | [Ian Reynold](https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1) | [Wanting](https://open.spotify.com/album/0LtYcGEJFX8W9Po5XedsXP) | 3:58 |
-| 95 | [this moment \(333\)](https://open.spotify.com/track/6i4L7k1SOUvZQvKxNOPPTZ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [this moment \(333\)](https://open.spotify.com/album/3qSPRX4b7sdGKout28zWGX) | 3:45 |
+| 95 | [this moment \(333\)](https://open.spotify.com/track/5nVyNgFGdH3arEYSqn7Ofb) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [this moment \(333\)](https://open.spotify.com/album/3n7DF91s2IYsXXXnV2Kpvo) | 3:45 |
 | 96 | [love of mine](https://open.spotify.com/track/136W646za3eBagM7UFBJGp) | [Lyse](https://open.spotify.com/artist/4fq6sJAmijgOb1TWBd23wC) | [love of mine](https://open.spotify.com/album/3DffR9Ey7IhtUUHWeSOUCR) | 2:06 |
 | 97 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 |
 | 98 | [Karaoke](https://open.spotify.com/track/6LSfWY1SrGKwkYnoFElVM9) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [2009](https://open.spotify.com/album/3lXQmELOndtCfaRHscvCB8) | 5:15 |
 | 99 | [i love you](https://open.spotify.com/track/0G1qD9ymU11Yzoo266q0AP) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [i love you](https://open.spotify.com/album/2y48btqmaBizAZsVp7bAVU) | 4:29 |
 | 100 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 |
 
-Snapshot ID: `MTY3NjQ3Nzk1OSwwMDAwMDAwMGQzOGI1ZTY0NzQ5NDQ3MTM1ZGIzZWM1NGUxMzE0MWQ5`
+Snapshot ID: `MTY3NjQ3Nzk1OSwwMDAwMDAwMGUyNmJhOTEzZWY0OTg3MjAzOGM2ZWRlMzg0MTU0ZWQy`

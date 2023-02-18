@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-332 songs - 16 hr 22 min
+334 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anteayer](https://open.spotify.com/track/3OGJPptGu6VVcvrum6Nhxu) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Anteayer](https://open.spotify.com/album/58JQTw0M50HIXY8EqtQZj1) | 2:32 | 2022-04-14 | 2022-05-11 |
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2021-12-17 |  |
 | [Arcadia](https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 2:56 | 2022-12-02 |  |
+| [As It Is](https://open.spotify.com/track/6UpAsgiZxheIKD0mAP0RB9) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Hold Me Spirits](https://open.spotify.com/album/2GPu9L8fSCfexCmHK295xK) | 3:12 | 2023-02-17 |  |
 | [Assonnato](https://open.spotify.com/track/4SO82a7foP5oVqb9cspxd5) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [Assonnato](https://open.spotify.com/album/6mjmPm2enQLom4hwJg3B3G) | 3:04 | 2021-12-17 |  |
 | [Atmosfären](https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Atmosfären](https://open.spotify.com/album/5XiYKgflBgfaKCwN5iAmFJ) | 2:32 | 2021-12-17 |  |
 | [Augnablik](https://open.spotify.com/track/7bG1tltLLroslB2iN4NVXx) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Augnablik](https://open.spotify.com/album/6nHuSpEeI6dsKVHUlHaafK) | 2:43 | 2022-07-08 |  |
@@ -200,6 +201,7 @@
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2021-12-17 | 2023-01-21 |
 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [More Than Words](https://open.spotify.com/track/6p0x4LWAyvfaiGzAnlyvgF) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Aria](https://open.spotify.com/album/0fDLayEBsm8M2lF439Fcol) | 3:38 | 2021-12-17 | 2022-04-22 |
+| [Morning Stillness](https://open.spotify.com/track/0RnPPtolUwGGofZqmjQWkr) | [Neidar](https://open.spotify.com/artist/7H5LahVbGPNKKR1YzHNdaP) | [Morning Stillness](https://open.spotify.com/album/6fQKkR8w8gvIW77YzXJ03t) | 2:28 | 2023-02-17 |  |
 | [Moving Like the Mountain](https://open.spotify.com/track/2Ka7W7Gz06zhtKCOrLB0pR) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Courage In Her Pocket](https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx) | 2:59 | 2021-12-17 | 2022-09-03 |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2021-12-17 |  |
 | [My Heart](https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG) | [Bella Mie](https://open.spotify.com/artist/1aqj4NItjznvMP8uHTeCLR) | [My Heart](https://open.spotify.com/album/4a77dNUR7QMqW1ltyaDhIT) | 2:57 | 2022-02-15 |  |

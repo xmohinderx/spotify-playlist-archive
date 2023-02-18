@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 389133,
       "name": "An Arc Of Doves - Remastered 2004",
       "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 95960,
       "name": "Be Forgotten",
       "url": "https://open.spotify.com/track/0fDflCdnV8tMYMDmGqr28V"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 507469,
       "name": "breathe",
       "url": "https://open.spotify.com/track/0zA9f8XcPinLZXQTZ4frKG"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T"
+    },
+    {
+      "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 351379,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 1254000,
       "name": "Intorno allo schermo",
       "url": "https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH"
@@ -1714,7 +1732,7 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "date_added": "2023-01-29",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222946,
@@ -1804,7 +1822,7 @@
           "url": "https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq"
         }
       ],
-      "date_added": "2023-02-02",
+      "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281424,
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 599000,
       "name": "Relax 6 (Awakening)",
       "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 747880,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 547056,
       "name": "Severance",
       "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
@@ -3145,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "Wider Than the Sky",
+        "url": "https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv"
+      },
+      "artists": [
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Ross Christopher",
+          "url": "https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "To Love or Die Together",
+      "url": "https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM"
+    },
+    {
+      "album": {
         "name": "You Always Will Be",
         "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
       },
@@ -3654,7 +3694,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 102515,
       "name": "Zkoum\u00e1n\u00ed du\u0161e, Pt. 2",
       "url": "https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC"
@@ -3676,6 +3716,24 @@
       "duration_ms": 168750,
       "name": "\u604b\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7ow2eDOKlvYeNcJ49Zjw6E"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
+        "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264352,
+      "name": "\u7740\u7269",
+      "url": "https://open.spotify.com/track/3u2q61kd8RfpwonVonsPw5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4CZc00Cxa3X"

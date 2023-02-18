@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,766 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,760 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 60 | [In Your Eyes](https://open.spotify.com/track/5BVIZf8m649sKuvqDMeDdz) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 2:58 |
 | 61 | [Effervescent](https://open.spotify.com/track/6IR6lNKONhV6tPn1dbq5lD) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Ambedo](https://open.spotify.com/album/0ZMuOWAgInjSRfHKfbntet) | 2:17 |
 | 62 | [Pure Bliss](https://open.spotify.com/track/69uZTz8xKc5cb0rZEUy8YC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt) | 2:36 |
-| 63 | [Please Don't Say Goodbye](https://open.spotify.com/track/72zJx1CWNTbD78Ziu0UGjk) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Please Don't Say Goodbye](https://open.spotify.com/album/6gASWphaTZCtCWP8AY7Eza) | 1:57 |
+| 63 | [Please Dont Say Goodbye](https://open.spotify.com/track/16krYiXZGkxkEeQkTdqZYw) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Luminaries](https://open.spotify.com/album/0v0sVgY6YqzCgztknGMYIJ) | 1:57 |
 | 64 | [Sunset](https://open.spotify.com/track/1dvpoWiJMAp6FoIWAR1LJd) | [Barney Coleman](https://open.spotify.com/artist/36K3p9zmpNUhrKrdwjbmXh) | [Low Fidelity EP](https://open.spotify.com/album/0g75kGrqzYlV0QfFzUYsXj) | 2:21 |
 | 65 | [I Need a Drink](https://open.spotify.com/track/1AyUQ8VrPQh37txjLYb3KC) | [Wishkid](https://open.spotify.com/artist/0fBiX79fGtRfNkfv2yR5Rw) | [I Need a Drink](https://open.spotify.com/album/6tXoiYc2Qm2oZPeonX3s9Q) | 2:32 |
 | 66 | [Stay](https://open.spotify.com/track/3VmOcYg433TPhPcp2ADuoG) | [smlr](https://open.spotify.com/artist/1FG84tTPToBCGS5Zn0ARDo) | [Stay](https://open.spotify.com/album/42DGmFWwVsub49PiAwteNv) | 2:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDJiNjVjMjVmMDdmOTliZWM4Y2FkZDRhMWQxNDRlYjZk`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDJjMGQ0NGI1OTFmYWM0NjMwOWQ0YjgyOTkwYzY0NDEx`

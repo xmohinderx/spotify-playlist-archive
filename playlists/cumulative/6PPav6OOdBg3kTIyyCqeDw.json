@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Love Golden 2",
+        "url": "https://open.spotify.com/album/5PEbpF5mGVdYesNUHfgoUU"
+      },
+      "artists": [
+        {
+          "name": "Goldenboy Countup",
+          "url": "https://open.spotify.com/artist/1NZ3XpKTnR2pHYZ8NXs7zr"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111076,
+      "name": "Bait (with Luh Tyler)",
+      "url": "https://open.spotify.com/track/26md85r1ZZLHkvslT750oc"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },

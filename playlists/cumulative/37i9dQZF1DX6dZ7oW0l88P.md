@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-106 songs - 5 hr 20 min
+108 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-05-11 |  |
 | [Marsh of Rhudlands](https://open.spotify.com/track/3OTSlT6GJg2cDcxfs9bMQ2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:11 | 2022-07-18 |  |
 | [Marsh of Rhudlands](https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:11 | 2022-05-11 | 2022-07-29 |
-| [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 |  |
+| [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 | 2023-02-10 |  |
+| [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 | 2023-02-18 |
 | [Maryanne's Song](https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Maryanne's Song](https://open.spotify.com/album/4C5NJRe1QDXvyKQrP3hbKR) | 1:18 | 2022-05-11 |  |
 | [Medley : Limerick Is Beautiful / Kilcash](https://open.spotify.com/track/3VbAEIOn8oV2BnBimhPbFo) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Festival De Musiques Irlandaises Vol\. 3 \(Musiques Celtiques\)](https://open.spotify.com/album/6yyPVxSc8tvq8ZA9l01xZX) | 3:55 | 2022-08-10 | 2022-11-13 |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-08-10 | 2022-08-25 |
@@ -111,7 +112,8 @@
 | [The Whirling Ways of Stars That Pass](https://open.spotify.com/track/7HDWH2xgDr83VAIE3QFFZS) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5FjUdfCXezlLwJEDuGel0I) | 1:52 | 2022-05-11 | 2022-07-29 |
 | [True Companion](https://open.spotify.com/track/0Sszkjpyl6nkeZVzepg0aH) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [The Joy of Faith](https://open.spotify.com/album/6UMZP25HOmSQMSJVhyGUMo) | 3:02 | 2022-05-11 |  |
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2022-05-11 |  |
-| [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2022-05-11 |  |
+| [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 | 2023-02-10 |  |
+| [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2022-05-11 | 2023-02-18 |
 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 | 2022-05-11 |  |
 | [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 |  |
 

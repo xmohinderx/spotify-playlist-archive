@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Pipe Bueno",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Paola Jara",
   "name": "La + Popular",
   "tracks": [
     {
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+    },
+    {
+      "album": {
         "name": "Despechada",
         "url": "https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO"
       },
@@ -819,6 +837,24 @@
     },
     {
       "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/0ivu9BBPUy5YLLeOLKAHUb"
       },
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 170570,
       "name": "La Perd\u00ed",
       "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
@@ -1182,6 +1218,24 @@
       "duration_ms": 181546,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY"
+    },
+    {
+      "album": {
+        "name": "MAM\u00c1 PERD\u00d3N",
+        "url": "https://open.spotify.com/album/2S7Lc5WX67KGJvlH6xk0ts"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152023,
+      "name": "MAM\u00c1 PERD\u00d3N",
+      "url": "https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e"
     },
     {
       "album": {
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 144916,
       "name": "Resulto\u0301 Muy Perra (Me Dej\u00f3 Solito)",
       "url": "https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj"
@@ -1986,7 +2040,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 180989,
       "name": "Ve Y Dile",
       "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"

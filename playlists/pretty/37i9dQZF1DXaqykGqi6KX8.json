@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 33648,
+  "num_followers": 33688,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDIyYjdkZjU3ZmZiZDhkMjg0MzE0MzQxYTgwY2U1NmNm",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDQxMWZmMTA4M2NhNjVlNGQ5ZmE2YTNjMzIxYTZlM2E1",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "The Order of Amenti",
-        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
-      },
-      "artists": [
-        {
-          "name": "Crescent",
-          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Twelfth Gate",
-      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "The Order of Amenti",
+        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
+      },
+      "artists": [
+        {
+          "name": "Crescent",
+          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Twelfth Gate",
+      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Betweenatna",
         "url": "https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 242155,
       "name": "Lay chafi",
       "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Wa Ma Khufiya Kana A'atham",
-        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
-      },
-      "artists": [
-        {
-          "name": "Narjahanam",
-          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
-        }
-      ],
-      "duration_ms": 311955,
-      "name": "Kahf Alkhulood",
-      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -391,6 +375,22 @@
       "duration_ms": 226795,
       "name": "Quest For Eternity",
       "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wa Ma Khufiya Kana A'atham",
+        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
+      },
+      "artists": [
+        {
+          "name": "Narjahanam",
+          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
+        }
+      ],
+      "duration_ms": 311955,
+      "name": "Kahf Alkhulood",
+      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "added_at": "2021-10-14 08:16:07",

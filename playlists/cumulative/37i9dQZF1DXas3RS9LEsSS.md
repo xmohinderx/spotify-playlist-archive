@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-75 songs - 5 hr 4 min
+76 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 |  |
 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
+| [Sucio y Desprolijo](https://open.spotify.com/track/0T6gj3F46FYqRUGKPyYpSj) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Sucio y Desprolijo](https://open.spotify.com/album/1b2aq9eJwiPZPlUOJz8bgU) | 6:32 | 2023-02-17 |  |
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |
 | [Titi](https://open.spotify.com/track/2392zYNyihl8NVJfCcqT09) | [La Banda del Capitan Corneta](https://open.spotify.com/artist/77AlmICl9sl7wXBJmC4V08) | [Historias de un Hijo del Blues](https://open.spotify.com/album/4TfcvHpBXCh6jZJsq0SuTO) | 2:24 | 2020-12-01 |  |
 | [Todo Mal](https://open.spotify.com/track/2X1zXfkUGFHq3D7Fl9T37E) | [Don Vilanova Botafogo](https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53), [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Patas Negras](https://open.spotify.com/album/7Jz4V8qexPjZbT3TvQ4fai) | 4:20 | 2020-12-01 |  |

@@ -1,39 +1,31 @@
 {
-  "description": "Where the past meets the present. Cover: Nicki Minaj",
-  "num_followers": 11523,
+  "description": "Where the past meets the present. Cover: Ice Spice",
+  "num_followers": 11539,
   "original_name": "Sample This",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDcyMzFmNWJjMDM0ZTYwMTQxOGE0MzIzOThkNTMwM2Ux",
+  "snapshot_id": "MTY3NjY3OTcxNSwwMDAwMDAwMDg3ZmZlYWI1MWRjZDBhODE2ODcyYmFkNzE5M2E4M2Ez",
   "tracks": [
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -53,55 +45,7 @@
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) [Trailer Anthem]",
-        "url": "https://open.spotify.com/album/1DfDXWmnmfnqHmPbvgPhWc"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
-      "url": "https://open.spotify.com/track/21wkixaulehrFctAvEhvQl"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -125,23 +69,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Like..?",
         "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
@@ -161,7 +89,63 @@
       "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 110053,
+      "name": "PAITIENCE",
+      "url": "https://open.spotify.com/track/7j1fBiNjgkuGEaWoOoWAKX"
+    },
+    {
+      "added_at": "2023-02-18 00:21:55",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "added_at": "2023-02-18 00:21:55",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+    },
+    {
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Quickie",
         "url": "https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -193,7 +177,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
@@ -209,7 +193,7 @@
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Rodeo (feat. Big Jade)",
         "url": "https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx"
@@ -261,7 +245,7 @@
       "url": "https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -277,7 +261,7 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
@@ -297,7 +281,7 @@
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
@@ -313,7 +297,7 @@
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
         "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
@@ -329,7 +313,7 @@
       "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Can't Stop Won't Stop (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -373,7 +357,7 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
@@ -389,7 +373,7 @@
       "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "ICY",
         "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
@@ -405,7 +389,7 @@
       "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
@@ -421,7 +405,7 @@
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
@@ -445,7 +429,7 @@
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
@@ -505,7 +489,7 @@
       "url": "https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2GMyMIIHbOadksG3YYaIC8"
@@ -521,7 +505,7 @@
       "url": "https://open.spotify.com/track/6jFfziQ3596GTUE3cZ9v8b"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
@@ -545,7 +529,7 @@
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Not My N*gga",
         "url": "https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z"
@@ -561,7 +545,7 @@
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Tap In",
         "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
@@ -577,7 +561,7 @@
       "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Telfy",
         "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
@@ -593,7 +577,7 @@
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/5TCBWmEBrin7etRa4Lswr1"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Do It Again (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
@@ -629,7 +613,7 @@
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "40s N 9s",
         "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
@@ -645,7 +629,7 @@
       "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "In My Own Words",
         "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
@@ -661,7 +645,7 @@
       "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "In A Minute",
         "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
@@ -677,7 +661,7 @@
       "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "False Prophets",
         "url": "https://open.spotify.com/album/3w4snMJ5bcRlvm8MihRZD6"
@@ -693,7 +677,7 @@
       "url": "https://open.spotify.com/track/0eneujAc4PxkdjP25Gsue1"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
@@ -713,7 +697,7 @@
       "url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2XtDT9YT729iLxWjuTMtrR"
@@ -729,7 +713,7 @@
       "url": "https://open.spotify.com/track/1xMvdOFQaql3EBkHmuh2TK"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "The Kickback",
         "url": "https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww"
@@ -745,7 +729,7 @@
       "url": "https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Deep End Freestyle",
         "url": "https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ"
@@ -765,7 +749,7 @@
       "url": "https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
@@ -781,7 +765,7 @@
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
@@ -813,7 +797,7 @@
       "url": "https://open.spotify.com/track/6Ln2tBK4EnNtMLtYyAZhr7"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
@@ -829,7 +813,7 @@
       "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
@@ -853,7 +837,7 @@
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
@@ -873,7 +857,7 @@
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Poke It Out (feat. J. Cole)",
         "url": "https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8"
@@ -897,7 +881,7 @@
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
@@ -913,23 +897,7 @@
       "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-18 00:21:55",
       "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"

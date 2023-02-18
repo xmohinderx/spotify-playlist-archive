@@ -1284,6 +1284,24 @@
     {
       "album": {
         "name": "LALALA",
+        "url": "https://open.spotify.com/album/3RGXCIxGIeAbbY2YqbQrcV"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162286,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/3fg8kdNwG30M4EPYUFFfez"
+    },
+    {
+      "album": {
+        "name": "LALALA",
         "url": "https://open.spotify.com/album/3KscTDGgr9l50riagD0brp"
       },
       "artists": [
@@ -2261,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
+    },
+    {
+      "album": {
         "name": "Riri",
         "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
       },
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
@@ -2578,7 +2614,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 187546,
       "name": "Tiempo al Viento",
       "url": "https://open.spotify.com/track/36Tj1v1i7rzdMPOm59mC0l"

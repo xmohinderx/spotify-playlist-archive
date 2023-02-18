@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "help urself",
+        "url": "https://open.spotify.com/album/06b4DfalAz3dIQ03bb0onI"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125276,
+      "name": "help urself",
+      "url": "https://open.spotify.com/track/54ggxbEopZwQ20zurJiHSD"
+    },
+    {
+      "album": {
         "name": "Hennessy",
         "url": "https://open.spotify.com/album/5ZBkD1ZTwBacVcjvsXkVj9"
       },
@@ -4036,6 +4054,36 @@
       "duration_ms": 174276,
       "name": "L.V.",
       "url": "https://open.spotify.com/track/40p7aDMIgJZ6ELhfPMcCoI"
+    },
+    {
+      "album": {
+        "name": "Memphis Cult Halloween Edition, Vol. 1",
+        "url": "https://open.spotify.com/album/2zxcjsitSGubbYGqYX123K"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "GORMCORPSX",
+          "url": "https://open.spotify.com/artist/12CFaZsp1CXJqYJRCBlpyK"
+        },
+        {
+          "name": "Phonkyrie",
+          "url": "https://open.spotify.com/artist/1F2MDUcxISr3lMEKyw6sXO"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123895,
+      "name": "Laidback",
+      "url": "https://open.spotify.com/track/25rD6io5RD18u7Us6OJgES"
     },
     {
       "album": {
@@ -6246,7 +6294,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 126198,
       "name": "ROGUE!",
       "url": "https://open.spotify.com/track/5VzcuUMmk1ElMCKQORCkC4"
@@ -6372,7 +6420,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 93026,
       "name": "SCARFACE",
       "url": "https://open.spotify.com/track/24wHwQ23F2QlC31YGGiejn"
@@ -6518,6 +6566,24 @@
       "duration_ms": 162041,
       "name": "SHADOW",
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+    },
+    {
+      "album": {
+        "name": "SHADOW DANCE",
+        "url": "https://open.spotify.com/album/1iuMQD2JKKqmL9YQqUNaNA"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "SHADOW DANCE",
+      "url": "https://open.spotify.com/track/1Vt0OhAk0XztPBLym5k7Mc"
     },
     {
       "album": {
@@ -7266,6 +7332,24 @@
       "duration_ms": 116647,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/7CrRiJJd6UNRWyYdQTBI1U"
+    },
+    {
+      "album": {
+        "name": "The Perfect Phonk",
+        "url": "https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "The Perfect Phonk",
+      "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
     },
     {
       "album": {
@@ -8150,7 +8234,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 90000,
       "name": "workin!",
       "url": "https://open.spotify.com/track/0jBkbsLEtptevgLk9mW66w"

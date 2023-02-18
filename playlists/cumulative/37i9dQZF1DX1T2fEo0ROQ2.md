@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-382 songs - 20 hr 1 min
+383 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Avalon](https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:29 | 2022-05-26 |  |
 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 | 2022-05-26 |  |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2022-05-26 |  |
-| [Back to the Shore](https://open.spotify.com/track/1NjlxhAGYwny0QcOdtm0ML) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:24 | 2022-05-26 |  |
+| [Back to the Shore](https://open.spotify.com/track/1NjlxhAGYwny0QcOdtm0ML) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:24 | 2022-05-26 | 2023-02-18 |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-05-26 |  |
 | [Before The Rain](https://open.spotify.com/track/7tkUyDkijMuMyyvZIyt0as) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Before The Rain](https://open.spotify.com/album/2EBQVRU4XCcHGzUF1sRYOT) | 2:47 | 2022-05-26 |  |
 | [Behind Your Eyes](https://open.spotify.com/track/1EYOad4rJigNCSVEO1wiqR) | [Infinite Nite](https://open.spotify.com/artist/5mcNQqg5Ls7Y8sW1lQkGl4) | [Behind Your Eyes](https://open.spotify.com/album/6z4QC8RgLLKsQ2Q0VYc5Rd) | 3:22 | 2022-05-26 |  |
@@ -56,7 +56,7 @@
 | [Breath Of Life](https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:34 | 2022-05-26 | 2022-07-29 |
 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 | 2022-07-22 | 2022-08-16 |
 | [Breathing Bells](https://open.spotify.com/track/3Fux0MjrZert93z8sT3zNp) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Purification](https://open.spotify.com/album/6kbOrIF9jEcKMs4G2kDNB1) | 3:21 | 2022-05-26 |  |
-| [Bringing Thoughts](https://open.spotify.com/track/727PVueCZnnNs1vx9yYQoP) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Bringing Thoughts](https://open.spotify.com/album/4Qw8APlNksbU0cwqX3L6M8) | 3:20 | 2022-05-26 |  |
+| [Bringing Thoughts](https://open.spotify.com/track/727PVueCZnnNs1vx9yYQoP) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Bringing Thoughts](https://open.spotify.com/album/4Qw8APlNksbU0cwqX3L6M8) | 3:20 | 2022-05-26 | 2023-02-18 |
 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 | 2022-05-26 | 2022-11-12 |
 | [Butterfly Effect](https://open.spotify.com/track/6trn8cmiMBsiQGoIZRIsBF) | [Timothy Byrne](https://open.spotify.com/artist/2DGtEENrN5vjB1DXzRaL58) | [Butterfly Effect](https://open.spotify.com/album/21fDm2rbX5Ip7ecxwUdsik) | 3:00 | 2022-05-26 | 2022-11-12 |
 | [By Night](https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [By Night](https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb) | 2:44 | 2022-12-09 |  |
@@ -137,8 +137,8 @@
 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 | 2022-12-09 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
-| [Flower](https://open.spotify.com/track/3aGgKoB5mIx7L00cPwBHSN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Analogue Nature](https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV) | 4:38 | 2022-05-26 |  |
-| [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-22 |  |
+| [Flower](https://open.spotify.com/track/3aGgKoB5mIx7L00cPwBHSN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Analogue Nature](https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV) | 4:38 | 2022-05-26 | 2023-02-18 |
+| [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-22 | 2023-02-18 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2022-05-26 | 2022-07-29 |
 | [Fragments Café](https://open.spotify.com/track/5oZOOcYruL6mi0EhdxGXrb) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Music For Brainwash, Vol\. 1](https://open.spotify.com/album/3dNga5PFlIBbjQhBdV0kYl) | 3:54 | 2022-11-11 | 2022-11-13 |
 | [Frangibility](https://open.spotify.com/track/1WYZio6NAhl2ykJs2jBXuO) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 3:21 | 2022-05-26 |  |
@@ -236,7 +236,7 @@
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-05-26 |  |
 | [New Awakening](https://open.spotify.com/track/7bDsyH1SX4qJRoHqOq36WO) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 4:44 | 2022-05-26 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2022-05-26 |  |
-| [Nocturno](https://open.spotify.com/track/0hO3qOVM7c0Gu532K43dGZ) | [Henrietta Dubois](https://open.spotify.com/artist/7E0GZu65jkSV6uvTKQbBGf) | [Nocturno](https://open.spotify.com/album/6wxKFzgn1pz3VrZ3Hl5NGN) | 2:09 | 2022-05-26 |  |
+| [Nocturno](https://open.spotify.com/track/0hO3qOVM7c0Gu532K43dGZ) | [Henrietta Dubois](https://open.spotify.com/artist/7E0GZu65jkSV6uvTKQbBGf) | [Nocturno](https://open.spotify.com/album/6wxKFzgn1pz3VrZ3Hl5NGN) | 2:09 | 2022-05-26 | 2023-02-18 |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2022-05-26 |  |
 | [Nuwara Eliya](https://open.spotify.com/track/01DC3zfaTxKsHhH5tkrEci) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Nuwara Eliya](https://open.spotify.com/album/5qaTANUQCLtZKyoXKIOLZZ) | 3:17 | 2022-05-26 |  |
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2022-05-26 |  |
@@ -316,9 +316,10 @@
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2022-05-26 |  |
 | [Sonorous](https://open.spotify.com/track/2USZ5ONIbBIfwazRCZoszB) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sonorous](https://open.spotify.com/album/61Zt1lXmBJenHNPlkLP6Rf) | 3:07 | 2023-01-13 |  |
 | [Soothing You](https://open.spotify.com/track/1D0CY5Zv9PW1ELhyppJtSK) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:15 | 2022-09-30 |  |
+| [Sotto Voce](https://open.spotify.com/track/3dv8YMh744oqhm2NJomPO3) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Sotto Voce](https://open.spotify.com/album/7Gc84qTZJJmHNFVdjsBgRP) | 2:42 | 2023-02-17 |  |
 | [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 |  |
 | [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 | 2023-01-09 |  |
-| [Spring](https://open.spotify.com/track/7f8Hk18yQg1l3oNsrKIkvO) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:15 | 2022-05-26 |  |
+| [Spring](https://open.spotify.com/track/7f8Hk18yQg1l3oNsrKIkvO) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:15 | 2022-05-26 | 2023-02-18 |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-26 |  |
 | [Stay Calm](https://open.spotify.com/track/5zkiu5XpdHiPKNiLOe0COb) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Stay Calm](https://open.spotify.com/album/53ttP75v3Kh5kl4FimxQA4) | 2:56 | 2022-05-26 | 2022-12-21 |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2022-05-26 |  |
@@ -326,7 +327,7 @@
 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 | 2022-05-26 | 2022-11-12 |
 | [Storulvån](https://open.spotify.com/track/1i8DuLXHYm1i3W2aIvb6mn) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 2:53 | 2022-05-26 | 2022-09-03 |
 | [Stradivarius](https://open.spotify.com/track/006Wn3m9fntl8Vgcbw1KzR) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 4:01 | 2022-05-26 |  |
-| [Strength From Inside](https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:20 | 2022-05-26 |  |
+| [Strength From Inside](https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:20 | 2022-05-26 | 2023-02-18 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2022-05-26 |  |
 | [Sun Gazer](https://open.spotify.com/track/1EXOPJwnGEJfBnScmeaESH) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Yet Undiscovered](https://open.spotify.com/album/5DKtUx5YIWfeT0LKsrCY2R) | 4:30 | 2022-05-26 |  |
 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 | 2022-05-26 | 2022-12-21 |

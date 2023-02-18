@@ -1,18 +1,18 @@
 {
-  "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 12198,
+  "description": "Add some sweet soul music to your dinner. Cover: Ben L'Oncle Soul",
+  "num_followers": 12202,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDBmMWQzNDJjN2Q4N2VlMmZiMzg4ZGFiNGM3ZjgwZDhl",
+  "snapshot_id": "MTY3NjY0MzgyMSwwMDAwMDAwMGQzYmE2ZjIwNGRlMDU5YjYzNzk4ZDBlOGJmN2ExNzJl",
   "tracks": [
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2023-02-18 01:44:38",
       "album": {
-        "name": "Sky has open doors",
-        "url": "https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU"
+        "name": "IS IT YOU ?",
+        "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
       },
       "artists": [
         {
@@ -20,25 +20,29 @@
           "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 219501,
-      "name": "Sky has open doors",
-      "url": "https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d"
+      "duration_ms": 225643,
+      "name": "Is it you ?",
+      "url": "https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2023-02-18 01:44:38",
       "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -231,22 +235,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -259,6 +247,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -279,22 +283,6 @@
       "duration_ms": 225000,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -361,20 +349,20 @@
       "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
+      "added_at": "2023-02-18 01:44:38",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
         }
       ],
-      "duration_ms": 242640,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -391,6 +379,22 @@
       "duration_ms": 123141,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -443,22 +447,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e8r Fekre",
-          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
-        }
-      ],
-      "duration_ms": 306597,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
@@ -475,6 +463,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "duration_ms": 306597,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Same Girl",
         "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
       },
@@ -487,30 +491,6 @@
       "duration_ms": 182751,
       "name": "Same Girl",
       "url": "https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        }
-      ],
-      "duration_ms": 219451,
-      "name": "Stranger (feat. Saba & Jarreau Vandal)",
-      "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -631,22 +611,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 279638,
-      "name": "Life Isn't",
-      "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -733,6 +697,22 @@
       "url": "https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue"
     },
     {
+      "added_at": "2023-02-18 01:44:38",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
+    },
+    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Summer Moon",
@@ -763,22 +743,6 @@
       "duration_ms": 221173,
       "name": "Never Forget My Love",
       "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1071,22 +1035,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL"
-      },
-      "artists": [
-        {
-          "name": "Tana\u00eb",
-          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
-        }
-      ],
-      "duration_ms": 235016,
-      "name": "Listen",
-      "url": "https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "The Gospel Sessions, Vol. 4",
         "url": "https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8"
       },
@@ -1115,6 +1063,134 @@
       "duration_ms": 257239,
       "name": "Ain't Gonna Let You Drown",
       "url": "https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Something I Know",
+        "url": "https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Something I Know",
+      "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "OVERCOME",
+        "url": "https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acY",
+          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
+        }
+      ],
+      "duration_ms": 264760,
+      "name": "Suitcase (Add The Weight)",
+      "url": "https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Start over Again",
+        "url": "https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 219354,
+      "name": "Start over Again",
+      "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Midnight Colors",
+        "url": "https://open.spotify.com/album/3Evem3kHZzf736bCREcOL8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Colors",
+          "url": "https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk"
+        }
+      ],
+      "duration_ms": 292207,
+      "name": "New Tree",
+      "url": "https://open.spotify.com/track/5fZkN8x1aEwugCkyRh4TH2"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Canyons",
+        "url": "https://open.spotify.com/album/6zUkROVTx4kzHoWFAYcVr1"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Who Needs Words",
+      "url": "https://open.spotify.com/track/3okFhxlqZJxjviCEFX5ZjJ"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "You Live In My Phone",
+        "url": "https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX"
+      },
+      "artists": [
+        {
+          "name": "Someone",
+          "url": "https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "You Live In My Phone",
+      "url": "https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Dreams of Summertime",
+        "url": "https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/29ZonaZKYeeuOu6gMheY8D"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Honesty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/56UvbaI7IehHOubQI44yK6"
     }
   ],
   "unique_name": "Soul Food",

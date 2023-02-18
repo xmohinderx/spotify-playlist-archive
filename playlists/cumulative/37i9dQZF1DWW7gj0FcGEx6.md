@@ -4,13 +4,14 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-227 songs - 11 hr 48 min
+229 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1923 Opus](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 | 2022-12-16 |  |
 | [25 Years](https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:17 | 2022-07-22 |  |
 | [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 | 2021-12-20 | 2022-07-29 |
+| [A Good Son \- From "What's Love Got to Do with It?" Soundtrack](https://open.spotify.com/track/7mdfc67axIpeKYXHuVO5Eg) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [A Good Son \(From "What's Love Got to Do with It?" Soundtrack\)](https://open.spotify.com/album/6oYVqBYCqMMEyB3bSwEYTg) | 1:46 | 2023-02-17 |  |
 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-28 |  |
 | [A New Era](https://open.spotify.com/track/76xQe9hXJSoGmrZ1ruNsqv) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Downton Abbey: A New Era \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nLWrA6Mke8UMLPCRCZpFO) | 5:22 | 2022-04-29 |  |
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
@@ -85,6 +86,7 @@
 | [Khazad\-dûm](https://open.spotify.com/track/1eF4PXrF3P1y7G5NghaiIB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4zZuch6tto3R0TMzcAn0oc) | 3:20 | 2022-10-07 | 2022-10-17 |
 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-10-07 |  |
 | [King's Dream](https://open.spotify.com/track/1Xn1yrAbRRs9AhDYcdjFsO) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Lisey's Story \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/11CiJmVVoKOs6ERfvGPV5C) | 1:36 | 2021-12-20 |  |
+| [Kook In Love](https://open.spotify.com/track/2DOdjFBjn6mSI5NW3f6Egl) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Outer Banks: Season 3 \(Score from the Netflix Series\)](https://open.spotify.com/album/3Mp9GxRTMloesS1rHr6WAK) | 2:30 | 2023-02-17 |  |
 | [Kua](https://open.spotify.com/track/6KR64uO0j7ucTVNqmqfsZC) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Finding ‘Ohana \(Music from the Netflix Film\)](https://open.spotify.com/album/7cOPcga6J1sN9IOvQEiZ83) | 3:32 | 2021-12-20 | 2022-07-09 |
 | [La Familia Vega](https://open.spotify.com/track/3A1EjAr98NjIwYQcIqE2ef) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Penny Dreadful: City of Angels \(Original Score\)](https://open.spotify.com/album/4R8nHfbIBKm2KuXJiZm7pn) | 3:25 | 2021-12-20 | 2022-07-09 |
 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 | 2021-12-20 |  |

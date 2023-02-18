@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "The Voice of the Earth",
+        "url": "https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299464,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT"
+    },
+    {
+      "album": {
         "name": "under the white moon of december",
         "url": "https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5"
       },

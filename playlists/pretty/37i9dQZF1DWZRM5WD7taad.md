@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,661 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,692 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 13 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 |
 | 14 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 |
 | 15 | [Boom Bap](https://open.spotify.com/track/2kIXwWsqqkSl16EaBBPHta) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU) | [Boom Bap](https://open.spotify.com/album/1H5CLSWK3L8JDv90crdOMS) | 4:08 |
-| 16 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 |
+| 16 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
 | 17 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 |
 | 18 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 |
 | 19 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
-| 20 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 20 | [Bi](https://open.spotify.com/track/7CzCpXNO8W4ngY2zJGtIHw) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:05 |
 | 21 | [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 |
 | 22 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 |
 | 23 | [BMW](https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BMW](https://open.spotify.com/album/0O0bJzAu1uswYmCej2I6Hz) | 2:32 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 103 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 |
 | 104 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 |
 
-Snapshot ID: `MTY3NjAwODgwMCwwMDAwMDAwMGE0MGMzMGZjMWZiODI5OGU5ZjIyM2JlMzE3NDYxZTlk`
+Snapshot ID: `MTY3NjAwODgwMCwwMDAwMDAwMDdiYmFkMGQ5NWE3ZmMxZmZkOWYzMjU1ZWFlMjIwMDJk`

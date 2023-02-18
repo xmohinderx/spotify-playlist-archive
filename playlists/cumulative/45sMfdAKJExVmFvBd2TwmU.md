@@ -4,7 +4,7 @@
 
 > Bollywood Love Songs\-Best Hindi Love Songs\-Top Love Songs\-Romantic \-Love Songs from Hindi Films\-Love Songs\-Romantic Songs\-Hindi Love Songs\-Romantic Hindi Bollywood Songs\-Romantic Songs\-Arijit Singh\-Shahrukh Khan\-Classic love songs
 
-128 songs - 10 hr 7 min
+129 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 | 2022-09-19 |  |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2022-03-08 |  |
 | [Saiyyan \- Refresh](https://open.spotify.com/track/5BunhxKZvwCzg0F5In0aJS) | [Rishav Ishu](https://open.spotify.com/artist/7pHuH7gD7hpRLSHNDKUToe) | [Saiyyan \(Refresh\)](https://open.spotify.com/album/1NRvoa925tun83iznrONXZ) | 5:39 | 2022-10-21 |  |
+| [Saiyyan \- Refresh](https://open.spotify.com/track/669j0Dc0CpJJh9xFthfUTt) | [Sumonto Mukherjee](https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy) | [Saiyyan \(Refresh\)](https://open.spotify.com/album/4iGZNgGOgfniT3tNOfkodH) | 3:41 | 2023-02-17 |  |
 | [Sajdaa](https://open.spotify.com/track/395gJWcJQK0C3GJfHAn7f6) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:05 | 2022-11-01 |  |
 | [Salaam Aaya \(From "Veer"\)](https://open.spotify.com/track/2keR1GDTHre4qUTLoXe321) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Veer](https://open.spotify.com/album/1KV5xlkR07erroC3m7jz0W) | 4:53 | 2022-06-09 |  |
 | [Samjhawan](https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 4:29 | 2021-07-05 |  |

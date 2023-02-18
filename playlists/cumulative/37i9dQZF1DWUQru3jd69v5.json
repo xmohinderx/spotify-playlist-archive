@@ -7361,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "RWINA",
+        "url": "https://open.spotify.com/album/1P2BmgspAw3IvwEpaDBBnc"
+      },
+      "artists": [
+        {
+          "name": "Pikasso",
+          "url": "https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155013,
+      "name": "RWINA",
+      "url": "https://open.spotify.com/track/6ue77ihbiiOZch5DQfd1TL"
+    },
+    {
+      "album": {
         "name": "R\u00e9alit\u00e9",
         "url": "https://open.spotify.com/album/2DB5cZjeqKEkE8NRQ1xJJS"
       },

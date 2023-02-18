@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-06",
-  "description": "saturation, distortion, overdrive, feedBack. Cover: underscores",
+  "description": "saturation, distortion, overdrive, feedBack. Cover: 100 gecs",
   "name": "feedBack",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 195666,
       "name": "airplane",
       "url": "https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 141597,
       "name": "Alive",
       "url": "https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 94791,
       "name": "apartmnt",
       "url": "https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 151322,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1"
@@ -248,6 +248,24 @@
       "duration_ms": 101647,
       "name": "burbank house",
       "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/0slkV34l718fubBPy4GzOB"
+      },
+      "artists": [
+        {
+          "name": "nomu.",
+          "url": "https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148460,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp"
     },
     {
       "album": {
@@ -356,7 +374,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178844,
       "name": "cut the cable",
       "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 144510,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw"
@@ -399,6 +417,24 @@
     },
     {
       "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
+      "album": {
         "name": "Do U Wanna Stay?",
         "url": "https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N"
       },
@@ -410,7 +446,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 150857,
       "name": "Do U Wanna Stay?",
       "url": "https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61"
@@ -504,7 +540,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 91000,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/6QcUUlAgee7GsQCWMl8dIs"
@@ -558,7 +594,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 160000,
       "name": "harder than it looks softer than youd think",
       "url": "https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ"
@@ -602,6 +638,32 @@
       "duration_ms": 181161,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
+    },
+    {
+      "album": {
+        "name": "Hollywood Baby",
+        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187944,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
     {
       "album": {
@@ -674,7 +736,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 199400,
       "name": "I Watched Them Go",
       "url": "https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz"
@@ -710,7 +772,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 161624,
       "name": "immerensis",
       "url": "https://open.spotify.com/track/5BeS3D2ewRYPcFS0Tz3UcC"
@@ -858,7 +920,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 80153,
       "name": "MOTHS",
       "url": "https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1"
@@ -898,7 +960,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 135530,
       "name": "never goes down like that (ft. Ezekiel)",
       "url": "https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11"
@@ -938,7 +1000,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 153337,
       "name": "Peach Fuzz (with Cybertrash)",
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
@@ -996,7 +1058,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 166240,
       "name": "PIXEL",
       "url": "https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki"
@@ -1050,7 +1112,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 106682,
       "name": "Radio Cuts",
       "url": "https://open.spotify.com/track/4z8Np65HXuFFsikXFLPLfR"
@@ -1158,7 +1220,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 187841,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O"
@@ -1194,7 +1256,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 129119,
       "name": "SICK OF IT*",
       "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
@@ -1511,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "truth hurts",
+        "url": "https://open.spotify.com/album/3HLoC6h0fWZrceTxnrk1cy"
+      },
+      "artists": [
+        {
+          "name": "chriad",
+          "url": "https://open.spotify.com/artist/7deQ6Y3VQYqHzRrVia18Bl"
+        },
+        {
+          "name": "deadman \u6b7b\u4eba",
+          "url": "https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "truth hurts",
+      "url": "https://open.spotify.com/track/5CAvQkgGDGOyicH7e0Z6jN"
+    },
+    {
+      "album": {
         "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
         "url": "https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn"
       },
@@ -1562,7 +1646,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 180800,
       "name": "welcome to the plant cell bath",
       "url": "https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo"

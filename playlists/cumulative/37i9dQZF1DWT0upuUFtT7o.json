@@ -19338,7 +19338,7 @@
     {
       "album": {
         "name": "this moment (333)",
-        "url": "https://open.spotify.com/album/3qSPRX4b7sdGKout28zWGX"
+        "url": "https://open.spotify.com/album/3n7DF91s2IYsXXXnV2Kpvo"
       },
       "artists": [
         {
@@ -19349,6 +19349,24 @@
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225000,
+      "name": "this moment (333)",
+      "url": "https://open.spotify.com/track/5nVyNgFGdH3arEYSqn7Ofb"
+    },
+    {
+      "album": {
+        "name": "this moment (333)",
+        "url": "https://open.spotify.com/album/3qSPRX4b7sdGKout28zWGX"
+      },
+      "artists": [
+        {
+          "name": "Max Volante",
+          "url": "https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
       "duration_ms": 225000,
       "name": "this moment (333)",
       "url": "https://open.spotify.com/track/6i4L7k1SOUvZQvKxNOPPTZ"

@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: salute
+> The home for alternative electronic music\. Cover: SHERELLE
 
-593 songs - 1 day 19 hr 10 min
+596 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-25 | 2022-08-02 |
 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2022-11-11 |  |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-24\* | 2022-01-29 |
+| [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:55 | 2023-02-17 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2021-11-24\* | 2022-05-13 |
 | [Close Your Eyes](https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Close Your Eyes](https://open.spotify.com/album/3Em33jXolcIXpBUskbbSiQ) | 6:30 | 2022-02-18 | 2022-05-06 |
 | [Cloudy](https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cloudy](https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW) | 6:51 | 2022-06-30 | 2022-09-23 |
@@ -316,6 +317,7 @@
 | [Lonely Dulcimer](https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lonely Dulcimer / In Effect](https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM) | 3:13 | 2022-09-15 | 2022-10-07 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-05-19 | 2022-09-02 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-26 | 2022-09-02 |
+| [LOUI3](https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [LOUI3](https://open.spotify.com/album/4HYjJOasl2gNC0Dwyah4o8) | 2:47 | 2023-02-17 |  |
 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 | 2021-11-24\* | 2022-01-21 |
 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-02-10 |  |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 | 2022-05-26 | 2022-07-29 |
@@ -582,6 +584,7 @@
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-06 |  |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-07-28 | 2022-09-23 |
 | [Way Back When \- Ollie Rant Remix](https://open.spotify.com/track/2ycdOIAytDaaXg9gN2luzA) | [Daffy](https://open.spotify.com/artist/5zEIBKFTSWVmzLcDiCUlZF), [PJ Bridger](https://open.spotify.com/artist/3qVbqMOyXN5vbE2933VvWW), [Ollie Rant](https://open.spotify.com/artist/0nm5wdHMtiCN3mRBHxn4K3) | [Way Back When](https://open.spotify.com/album/4TEbliVmeDXuNK59ICN6Yi) | 5:08 | 2022-06-02 | 2022-10-07 |
+| [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-17 |  |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 | 2023-01-27 |  |
 | [What If?](https://open.spotify.com/track/3HMT60X7FnNyzwxiozhCL5) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:13 | 2022-07-07 | 2022-10-14 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-13 |  |

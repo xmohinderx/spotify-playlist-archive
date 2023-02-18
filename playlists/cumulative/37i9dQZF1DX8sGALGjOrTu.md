@@ -2,7 +2,7 @@
 
 ### [Scream & Shout](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Welcome to Post\-Hardcore's pantheon\. Cover: Glassjaw
+> Welcome to Post\-Hardcore's pantheon\. Cover: Finch
 
 192 songs - 12 hr 13 min
 

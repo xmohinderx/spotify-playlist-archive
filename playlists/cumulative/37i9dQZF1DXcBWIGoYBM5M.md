@@ -2,7 +2,7 @@
 
 ### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> Miley Cyrus is on top of the Hottest 50!
+> PinkPantheress & Ice Spice are on top of the Hottest 50!
 
 866 songs - 1 day 22 hr 14 min
 

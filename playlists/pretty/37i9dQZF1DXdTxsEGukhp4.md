@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,603 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,621 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 58 | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/track/6ABICqJ7vqiDjP97ggD4TJ) | [Ujita Mai](https://open.spotify.com/artist/6AnqPUKLgWAkXJAFLrSoBf) | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/album/1LoaaFwNrpyiIZRx93kmGi) | 3:17 |
 | 59 | [Ninji\-n Loves you yeah!](https://open.spotify.com/track/4BRBpWDkJM7QlVYIyedm0s) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER \~The False Songstress\~ CM Ranka](https://open.spotify.com/album/5g9MR6bwfKq3tUj1PXyUFM) | 1:01 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDlhMGU0NWE3ZWExOGZiMmVmYWE3MjAyZmRkNDNiOWI2`
+Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMDVjMzI3ZDZlZTQ5ZTQ3OGNmMGEwZDc4YTFjOGU3NGJm`

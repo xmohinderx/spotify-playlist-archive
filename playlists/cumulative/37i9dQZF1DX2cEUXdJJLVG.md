@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-220 songs - 13 hr 16 min
+221 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Clouds](https://open.spotify.com/track/5bfuYOSY3lC5KRjKaPs7hx) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Clouds](https://open.spotify.com/album/0bd4sxHpZedop36TTS5Mkd) | 4:09 | 2022-09-09 |  |
 | [Colours](https://open.spotify.com/track/7s94DZ7wrUSlDvPZasqEux) | [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Colours](https://open.spotify.com/album/0CRsO4ZeFqnjp2vX7dn7O0) | 5:11 | 2022-09-09 |  |
 | [Come to Me \- Late Night Version](https://open.spotify.com/track/4dsuDBdmva1gGqx35pd8Zy) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Come to Me \(Late Night Version\)](https://open.spotify.com/album/5XCPXsYrIWAlwbMQjv9VAq) | 3:07 | 2022-09-09 |  |
+| [Competition](https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Competition](https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn) | 3:20 | 2023-02-17 |  |
 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 | 2022-09-09 |  |
 | [Counterfeit](https://open.spotify.com/track/5qIRiXFqGI65EZuYtfyY53) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09), [Eliza Roe](https://open.spotify.com/artist/1Y0jbCdHXiQlyV2fhxroqW) | [Counterfeit](https://open.spotify.com/album/24dCga7ILfqzQWDmAppQiy) | 2:49 | 2022-09-09 | 2022-10-15 |
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2022-09-09 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-138 songs - 13 hr 24 min
+139 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Galaxias \(Radio Edit\)](https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Galaxias](https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP) | 3:56 | 2022-10-07 |  |
 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 | 2021-02-12 |  |
 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 | 2021-02-12 |  |
-| [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 | 2022-02-11 |  |
+| [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 | 2022-02-11 | 2023-02-18 |
 | [Got A Match?](https://open.spotify.com/track/7AWlSSW5n7SXpFEWkRm2Wz) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf) | [The Chick Corea Elektric Band](https://open.spotify.com/album/2qkDoQ10ogP4S4tGAtHSZS) | 5:39 | 2021-02-12 | 2022-07-25 |
 | [Growing Up!](https://open.spotify.com/track/02PJJnPoA2IBc8KzfY9oGi) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Growing Up!](https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6) | 4:20 | 2021-04-09 | 2022-07-27 |
 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 | 2021-04-09 |  |
@@ -105,6 +105,7 @@
 | [Patterns Which Connect](https://open.spotify.com/track/6FRg5d9J6Ypn6uEelrwCbc) | [Everyman Band](https://open.spotify.com/artist/2FyrOexjaNqgg1wCceVSVT) | [Without Warning](https://open.spotify.com/album/4jW3Ot800mEinIFAk83BeH) | 5:27 | 2021-02-12 | 2022-07-29 |
 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 | 2021-02-12 |  |
 | [Porky & Beans](https://open.spotify.com/track/7b7aJP3X5l4hEcdX6vUIEJ) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms \(Euro Release\)](https://open.spotify.com/album/2QEvAKZWjPNZ4es1AtQbdZ) | 6:24 | 2021-02-12 | 2022-07-29 |
+| [Projekt 13](https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Projekt 13](https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL) | 4:11 | 2023-02-17 |  |
 | [Prophecy Extended](https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [Cousin Vinnie](https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV) | 6:18 | 2021-07-23 |  |
 | [Riding Giants](https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Riding Giants \(feat\. Mike Stern, Dave Weckl\)](https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI) | 6:11 | 2021-02-12 |  |
 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 | 2021-08-27 |  |

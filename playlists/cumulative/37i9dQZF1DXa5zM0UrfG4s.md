@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-273 songs - 12 hr 47 min
+274 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Jævel](https://open.spotify.com/track/47i5Fl1PK2PO3D0PHi5hwd) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Jævel](https://open.spotify.com/album/1wjs2ODEQjb5IR69btor9l) | 3:54 | 2021-12-16 | 2022-06-28 |
 | [Kainn æ få lov \- 2011 Remastered Version](https://open.spotify.com/track/4cVOmpAaBELHXh17hRKdLi) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Reis av sted](https://open.spotify.com/album/7bvPbVWtaKTn00QoWNgVg7) | 2:53 | 2022-01-27 | 2022-07-01 |
 | [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 | 2022-06-23 | 2023-02-17 |
-| [Kentucky](https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Kentucky](https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7) | 2:43 | 2021-12-16 |  |
+| [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 | 2023-02-16 |  |
+| [Kentucky](https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Kentucky](https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7) | 2:43 | 2021-12-16 | 2023-02-18 |
 | [Kjerring i fra by’n](https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kjerring i fra by’n](https://open.spotify.com/album/26nEvQ8cazBeoTIO3dzu5G) | 2:28 | 2021-12-16 | 2022-11-16 |
 | [Kjære Alkohol feat\. Roc Boyz \(Hall of Fame\)](https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Kjære Alkohol feat\. Roc Boyz \(Hall of Fame\)](https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy) | 2:00 | 2022-06-02 | 2022-10-14 |
 | [Kjære Kristine](https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP) | [Contrazt](https://open.spotify.com/artist/6PF8pPXvzffFLPcbLCgz5M) | [Uten Kart og Kompass](https://open.spotify.com/album/5tW1vD4mltxM5eMCgvXtQC) | 3:57 | 2022-03-24 | 2022-07-25 |

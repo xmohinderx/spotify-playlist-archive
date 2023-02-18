@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176702,
       "name": "1738",
       "url": "https://open.spotify.com/track/7aRzjArjQYjlXj13jfSIlX"
@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Forgot How To Cry",
+        "url": "https://open.spotify.com/album/7ik9Eg1awH6A2Hfh0kpYTX"
+      },
+      "artists": [
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "Forgot How To Cry",
+      "url": "https://open.spotify.com/track/7eebNlfH4nRdgJQh8e3yMU"
+    },
+    {
+      "album": {
         "name": "From Rags 2 Riches",
         "url": "https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 127612,
       "name": "GRATEFUL (feat. Vory)",
       "url": "https://open.spotify.com/track/0MdtZDKBvzwKbc9slla0zJ"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 109810,
       "name": "Master P",
       "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
@@ -1750,6 +1768,24 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
+    },
+    {
+      "album": {
+        "name": "Me First",
+        "url": "https://open.spotify.com/album/6PtlmGYKfyGEMi9Q9OtzmR"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177941,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/5hT0mnDTVjyIsnBjXc3X0Q"
     },
     {
       "album": {
@@ -2006,6 +2042,28 @@
       "duration_ms": 174048,
       "name": "No One Here (with NoCap)",
       "url": "https://open.spotify.com/track/7Dgsu3oVz6isGpjD9ewyqr"
+    },
+    {
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "album": {
@@ -3276,10 +3334,32 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 226666,
       "name": "Unappreciated",
       "url": "https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK"
+    },
+    {
+      "album": {
+        "name": "Vacant House",
+        "url": "https://open.spotify.com/album/03TWNMfcLPbFNpwE3mVmvB"
+      },
+      "artists": [
+        {
+          "name": "ITS HAB",
+          "url": "https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169572,
+      "name": "Vacant House",
+      "url": "https://open.spotify.com/track/3JbUSy1PDFY7ZeK4IRqxUv"
     },
     {
       "album": {

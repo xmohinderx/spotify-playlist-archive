@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Tony Effe, Gemitaiz e tanti altri.
 
-1,326 songs - 2 day 12 hr 43 min
+1,327 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [RS6](https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [RS6](https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW) | 2:12 | 2022-08-25 | 2022-09-23 |
 | [Rubrica](https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Rubrica](https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F) | 2:35 | 2022-06-28 | 2022-07-15 |
 | [Runnin'](https://open.spotify.com/track/3kPHxfY4Bpnnpu6Dj3jtsw) | [Grime Spitterz](https://open.spotify.com/artist/0m1OEh6KqtpgsVBZHasn9f), [Mad Monna](https://open.spotify.com/artist/2je4bPLG24IqIy9oPAYtaH) | [Runnin'](https://open.spotify.com/album/1Pub7Oaow4SJAtGuo2s3Gh) | 3:15 | 2022-06-30 | 2022-07-22 |
+| [RWINA](https://open.spotify.com/track/6ue77ihbiiOZch5DQfd1TL) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [RWINA](https://open.spotify.com/album/1P2BmgspAw3IvwEpaDBBnc) | 2:35 | 2023-02-16 |  |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-14 | 2022-08-26 |
 | [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 | 2022-12-01 | 2022-12-09 |
 | [Saddam](https://open.spotify.com/track/6JDUNkDwYjXJr7wl7qIvor) | [Il Profeta](https://open.spotify.com/artist/3WiTSEd3LBLv647XuA384X), [ENGI](https://open.spotify.com/artist/3SDKBfO79dGD9VQqhVreCg) | [Saddam](https://open.spotify.com/album/3s2m9umjCuwGVelhP46vSP) | 2:32 | 2023-02-09 | 2023-02-17 |

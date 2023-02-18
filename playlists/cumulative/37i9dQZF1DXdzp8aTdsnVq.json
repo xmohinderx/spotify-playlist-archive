@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270937,
+      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
+      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
+    },
+    {
+      "album": {
         "name": "Lo Que T\u00fa Quer\u00edas, Un Vallenato",
         "url": "https://open.spotify.com/album/4kgRuOy42GJXD3tpRit3WZ"
       },
@@ -1277,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5yRi7QGU76Cd9DrMVUpGX6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Victor Nain Jr",
+          "url": "https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221919,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1tgtt55t1gFpq84UCAoXSN"
+    },
+    {
+      "album": {
         "name": "Mas Cerca De T\u00ed",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -1670,7 +1710,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 262993,
       "name": "Un Ser Extra\u00f1o",
       "url": "https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd"
@@ -1688,7 +1728,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 233543,
       "name": "Vivito y Coleando",
       "url": "https://open.spotify.com/track/6VmAAyizCOQbilBaxnE4mC"

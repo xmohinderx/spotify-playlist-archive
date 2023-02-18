@@ -1,13 +1,37 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Polyphia",
-  "num_followers": 114060,
+  "num_followers": 114138,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDMzMjI1MjdmZGE4NjZjZjczYzJhODdkOWRlYzFhM2U0",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDkyMTE3NjYxZjIzYzNjMWRhZTAxZGUwMzEwYzczMThh",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
+    },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {

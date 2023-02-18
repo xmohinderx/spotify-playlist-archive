@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Mezzosangue in cover.
 
-251 songs - 15 hr 7 min
+252 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Diario di bordo, Pt\. IV \(BOG \- MXP\)](https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sina Tekle](https://open.spotify.com/artist/5VmuzT089SXxDm3tC45rZn) | [Nicolás \- MXP \(Deluxe Edition\)](https://open.spotify.com/album/3QCzjnrGRZu8qiZMAMUK9r) | 2:41 | 2022-09-22 | 2022-11-25 |
 | [Dicembre](https://open.spotify.com/track/2WMHW2QFllDvd4cnHGOLRS) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Dicembre](https://open.spotify.com/album/4G2eAZALBmVCxGw3sKxNfy) | 2:42 | 2022-05-12 | 2022-07-29 |
 | [DINDIRINDINA](https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [2](https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5) | 2:46 | 2022-05-05 |  |
-| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 |  |
+| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 | 2023-02-18 |
 | [Disegni nella mente](https://open.spotify.com/track/6CTfiEvB6f6B36XATiv43W) | [La Crème](https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [L'Alba](https://open.spotify.com/album/6WEgf4mSX61uKevk0ZvFts) | 5:04 | 2022-05-12 | 2022-07-28 |
 | [Do Or Die](https://open.spotify.com/track/4RvLzfh3Gop3qIkltf8iH5) | [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0), [Maury B](https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm), [DJ Lil Cut](https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ) | [Do Or Die](https://open.spotify.com/album/0hW3ylLyW02FkO5vol7Ivw) | 2:50 | 2022-05-19 | 2022-07-24 |
 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 | 2022-05-05 |  |
@@ -112,6 +112,7 @@
 | [La mia mente spara/ Desert Hegel](https://open.spotify.com/track/5DAek3v0R22sxeTt1Uujwj) | [Silla Dddictator](https://open.spotify.com/artist/6xdYyidD0hj5DmqEQXdxeX) | [Camouflage Shadows](https://open.spotify.com/album/6j9AUHWcCll3vEXhEtewrY) | 3:08 | 2022-06-30 | 2022-07-16 |
 | [La porra](https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 6:31 | 2022-05-12 |  |
 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 | 2022-05-05 |  |
+| [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [LACRIME DI COCCODRILLO :'=8\)](https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ) | 4:13 | 2023-02-17 |  |
 | [Lagga Brutto \(feat\. Ensi, Dj Uncino & Bella Espo\)](https://open.spotify.com/track/5fTKv13ds3OUjRF8XoNJKR) | [Walino](https://open.spotify.com/artist/0T03BugJoLKeUGAJpV1sJa), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Dj Uncino](https://open.spotify.com/artist/7vjdVxJ8I2gY6dNHJKl3ko), [Bella Espo](https://open.spotify.com/artist/7wJFRjIiHMLUrXwfVRG8cb) | [Lagga Brutto \(feat\. Ensi, Dj Uncino & Bella Espo\)](https://open.spotify.com/album/6RtZlYSZXADBsJ6Ji5hC5e) | 2:38 | 2022-10-27 | 2022-11-08 |
 | [Lampi nel blu](https://open.spotify.com/track/2pcOxAhZlZAw6XDcbe9NQ3) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Lampi nel blu](https://open.spotify.com/album/0tzNaCr31xwZs6iwTCTGyK) | 3:34 | 2022-05-12 | 2022-07-28 |
 | [Lasciami Andare \(feat\. Mecna\)](https://open.spotify.com/track/5q2ROdciJBjBtJdOT0cM8O) | [Soulcè & Teddy Nuvolari](https://open.spotify.com/artist/78vVHoiEm0NSOkWDZG9FD3), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Sinfobie](https://open.spotify.com/album/2ijq0u4JwULxvkv1TLf6tR) | 3:32 | 2022-05-12 | 2022-06-03 |

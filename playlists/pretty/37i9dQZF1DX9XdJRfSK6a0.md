@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,699 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,693 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 |
 | 2 | [](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 0:00 |
-| 3 | [Salt Hill Pt.1](https://open.spotify.com/track/6rPTtssKdCgY4qET4dqNUr) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/4p48cqofI5gHf7aj5KEzxH) | 2:40 |
+| 3 | [Salt Hill Pt.1](https://open.spotify.com/track/51YVHQbUGFIP6aUhfBjwaD) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/2su5Q8CA1md9jgZMfQQ9HQ) | 2:40 |
 | 4 | [Porch Sitting Song](https://open.spotify.com/track/5DMI1Uz32jJbLuxVzAavHU) | [Solander](https://open.spotify.com/artist/123zs4FVoUcDFM90b4Lxmr) | [Passing Mt\. Satu](https://open.spotify.com/album/5txrgRLiA9puZzstN0GZxJ) | 2:11 |
 | 5 | [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 |
 | 6 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 26 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
 | 27 | [Tomorrow's Song](https://open.spotify.com/track/0YPagAr3GhXlRX06E4nUcw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:07 |
 | 28 | [Truly, Madly, Deeply](https://open.spotify.com/track/3df2e434goqmSUp46nCUrL) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 1:52 |
-| 29 | [Alexander](https://open.spotify.com/track/7IqTgS5JmEvcikB01hVst7) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/4efyDnXUkaxPNFSSZDRoqC) | 2:54 |
+| 29 | [Alexander](https://open.spotify.com/track/3lwfvLFY4GjgaTxnlvowNP) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/734M3Ru7dLVlu2ol202cg0) | 2:54 |
 | 30 | [Cabezon](https://open.spotify.com/track/0BIfjMKCMAcuqPDzbXXNG0) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Ocean Beach](https://open.spotify.com/album/7j4C67U6Aj4odzbHRrpeiq) | 3:11 |
 | 31 | [Flametop Green](https://open.spotify.com/track/3jl34exVXaxO2T0XpBkBZl) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 2:27 |
 | 32 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 44 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 45 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 |
 
-Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDQ2MTBlNDhkODExMjU4NjFjNmM0ODlkZjI2OTU1OTFk`
+Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDFlNTQzNzg4YTAwMTI4NDNmZDViMWI4NmI3NDI3YmYw`

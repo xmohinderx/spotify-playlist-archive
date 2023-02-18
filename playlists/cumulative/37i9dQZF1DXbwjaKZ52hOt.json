@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Toybox",
+        "url": "https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Teddy Bears Picnic",
+      "url": "https://open.spotify.com/track/4XAtEqt8UJS9yM6jvVFbiC"
+    },
+    {
+      "album": {
         "name": "The Rainbow Collections Boxset",
         "url": "https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB"
       },
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 155133,
       "name": "Teddy Bears Picnic",
       "url": "https://open.spotify.com/track/51OolYPI1CYgToZcsxm8xT"

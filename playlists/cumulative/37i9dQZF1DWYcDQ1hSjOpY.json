@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198162,
       "name": "Arp Of Life",
       "url": "https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176727,
       "name": "Ellips",
       "url": "https://open.spotify.com/track/1BElZwQK3VhQ8iHRMolo1i"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 152236,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 252000,
       "name": "First Day",
       "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
@@ -2688,6 +2688,24 @@
       "duration_ms": 253500,
       "name": "Glemt Perle",
       "url": "https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi"
+    },
+    {
+      "album": {
+        "name": "Gliese",
+        "url": "https://open.spotify.com/album/1OhiQouKE3J1m02zsDZ1JR"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145795,
+      "name": "Gliese",
+      "url": "https://open.spotify.com/track/7C5x254psvTlNDG2mEChM8"
     },
     {
       "album": {
@@ -2994,6 +3012,24 @@
       "duration_ms": 145241,
       "name": "Hybrid",
       "url": "https://open.spotify.com/track/1VRFoW2WUOY4FxQNvdTcja"
+    },
+    {
+      "album": {
+        "name": "Idyllica",
+        "url": "https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW"
+      },
+      "artists": [
+        {
+          "name": "Oberohn",
+          "url": "https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133986,
+      "name": "Idyllica",
+      "url": "https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF"
     },
     {
       "album": {
@@ -5463,6 +5499,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/2tTf8Fd6uT5r845f4mMzEK"
+      },
+      "artists": [
+        {
+          "name": "Majah Thur",
+          "url": "https://open.spotify.com/artist/5vN4R8d2SYwCmNx4l70OaL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/131a48LbaLB1vIM0YBukSU"
+    },
+    {
+      "album": {
         "name": "sierra star",
         "url": "https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4"
       },
@@ -5762,7 +5816,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 280500,
       "name": "somnus state",
       "url": "https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g"

@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "LVL5 P1",
+        "url": "https://open.spotify.com/album/6B2NZ3cqHywlvVfl3EYya5"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128407,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/0vOYjqZq0gV5HdEUFggwi0"
+    },
+    {
+      "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows"
       },
@@ -746,6 +764,28 @@
       "duration_ms": 190153,
       "name": "better",
       "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
+    },
+    {
+      "album": {
+        "name": "Big Shot Cream Soda",
+        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Big Shot Cream Soda",
+      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
     },
     {
       "album": {
@@ -1714,7 +1754,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 111750,
       "name": "Dead White Faces",
       "url": "https://open.spotify.com/track/2IH47L7yhYDgkKtEJOwBR1"
@@ -2146,7 +2186,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 154318,
       "name": "EVERYBODY",
       "url": "https://open.spotify.com/track/5Q5RJCG2wLQO5Y6ZrGjuqE"
@@ -2346,6 +2386,24 @@
       "duration_ms": 176959,
       "name": "Fembrook Dr.",
       "url": "https://open.spotify.com/track/3BFysywxDgfI95sEhvl2ws"
+    },
+    {
+      "album": {
+        "name": "flings",
+        "url": "https://open.spotify.com/album/2iYUrF3ijiA4aPhh5wPgcm"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "flings",
+      "url": "https://open.spotify.com/track/2yOkAP9vJSfLZbkuulUOCo"
     },
     {
       "album": {
@@ -2706,7 +2764,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 119581,
       "name": "GUTS",
       "url": "https://open.spotify.com/track/4y1FzUmg22iK5utbBTYLGf"
@@ -3028,6 +3086,24 @@
       "duration_ms": 255693,
       "name": "I Love You, I Hate You",
       "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
+    },
+    {
+      "album": {
+        "name": "i need u",
+        "url": "https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
     },
     {
       "album": {
@@ -5033,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Radioactive",
+        "url": "https://open.spotify.com/album/047ykT34pfdijw5HeU02cy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184484,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/79vX1IZRXami6H0rIkED9T"
+    },
+    {
+      "album": {
         "name": "Raindrops (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/52IKnS2cBXHstdyJjQGVkv"
       },
@@ -5164,7 +5258,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 143985,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/7r331nZgP66wE56B2R6Ape"
@@ -6148,7 +6242,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 151428,
       "name": "TAN",
       "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
@@ -6464,7 +6558,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 163310,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU"
@@ -6782,6 +6876,28 @@
       "duration_ms": 155000,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/2ErgvH9khsrh4Jgj1h9Fq7"
+    },
+    {
+      "album": {
+        "name": "LVL5 P1",
+        "url": "https://open.spotify.com/album/6B2NZ3cqHywlvVfl3EYya5"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "WE MADE IT (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1aUmwzrSA7kQYdwI5bQsSc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-71 songs - 3 hr 34 min
+72 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Everybody Loves Christmas](https://open.spotify.com/track/4Gq6cezJ21QZZ8EJHRN2JL) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Everybody Loves Christmas](https://open.spotify.com/album/1Ef2MscpOm3YYK7q41EiWE) | 3:15 | 2022-11-18 |  |
 | [Everybody Loves Christmas](https://open.spotify.com/track/2FpQtDVsANiElh8gZ9M5Al) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 3:16 | 2022-11-18 | 2023-01-12 |
 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 | 2022-11-18 |  |
-| [First Christmas \(That I Loved You\) \- From The Netflix Film Let It Snow](https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt) | 3:02 | 2022-11-18 |  |
+| [First Christmas \(That I Loved You\) \- From The Netflix Film Let It Snow](https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt) | 3:02 | 2022-11-18 | 2023-02-18 |
+| [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4) | 3:02 | 2022-11-18 |  |
 | [Freezie Day](https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0) | 2:37 | 2022-11-18 | 2022-11-23 |
 | [Grandpa Me Nie' \(Asew Jingle Jangle Remix\) \[feat\. Mic Flammez\]](https://open.spotify.com/track/0u9w8hguVdkPHkzlnwV9eh) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 1:41 | 2022-11-18 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2022-11-18 |  |

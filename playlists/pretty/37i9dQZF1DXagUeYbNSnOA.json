@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Paola Guanche. Updates every Wednesday.",
-  "num_followers": 168908,
+  "num_followers": 168915,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMDAwOWNjMDE1NmNlNjNmN2IxN2Q4ZTM1NjVhMThhYzMz",
+  "snapshot_id": "MTY3NjQzNzIwMCwwMDAwMDAwMGUxOTFiOGU2YzI5MmY2YjZlODExM2NhMDJiMTZiZTU0",
   "tracks": [
     {
       "added_at": "2023-02-15 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
-      },
-      "artists": [
-        {
-          "name": "Drea",
-          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
-        }
-      ],
-      "duration_ms": 169156,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "Shorty 2",
         "url": "https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 203380,
       "name": "Shorty 2",
       "url": "https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
+      },
+      "artists": [
+        {
+          "name": "Drea",
+          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
+        }
+      ],
+      "duration_ms": 169156,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM"
+      },
+      "artists": [
+        {
+          "name": "Sugarcrush",
+          "url": "https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ"
+        }
+      ],
+      "duration_ms": 195648,
+      "name": "Mar\u00eda Jos\u00e9",
+      "url": "https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
         "name": "Preso",
         "url": "https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV"
       },
@@ -651,18 +667,34 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
       },
       "artists": [
         {
-          "name": "Sugarcrush",
-          "url": "https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ"
+          "name": "1982 (diecinueve ochenta y dos)",
+          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
         }
       ],
-      "duration_ms": 195648,
-      "name": "Mar\u00eda Jos\u00e9",
-      "url": "https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP"
+      "duration_ms": 204000,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
+    },
+    {
+      "added_at": "2023-02-15 05:00:00",
+      "album": {
+        "name": "Doble Vida",
+        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
+      },
+      "artists": [
+        {
+          "name": "Kathy Palma",
+          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
     },
     {
       "added_at": "2023-02-15 05:00:00",
@@ -703,22 +735,6 @@
     {
       "added_at": "2023-02-15 05:00:00",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid"
-      },
-      "artists": [
-        {
-          "name": "1982 (diecinueve ochenta y dos)",
-          "url": "https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
         "name": "anti-love",
         "url": "https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 225017,
       "name": "u da one",
       "url": "https://open.spotify.com/track/3vou92sb4ezJ5XP8J3Ar6L"
-    },
-    {
-      "added_at": "2023-02-15 05:00:00",
-      "album": {
-        "name": "Doble Vida",
-        "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
-      },
-      "artists": [
-        {
-          "name": "Kathy Palma",
-          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
     },
     {
       "added_at": "2023-02-15 05:00:00",

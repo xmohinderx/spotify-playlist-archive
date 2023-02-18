@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.",
+  "description": "Con licuachela en mano y perreando hasta el piso. Rosa \u271e Pistola en portada",
   "name": "Perreo Bellakoso",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 157347,
       "name": "A Mover Ese Booty (feat. n-Yel)",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
@@ -50,7 +50,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 119721,
       "name": "Abuso Oficial",
       "url": "https://open.spotify.com/track/1Qcac2H6VGtsBEDkyNRCL2"
@@ -235,6 +235,28 @@
     },
     {
       "album": {
+        "name": "Ayayai",
+        "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
+      },
+      "artists": [
+        {
+          "name": "Breycoo",
+          "url": "https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H"
+        },
+        {
+          "name": "El Pepo Show",
+          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166025,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
+    },
+    {
+      "album": {
         "name": "Bagdad",
         "url": "https://open.spotify.com/album/7m5Q0mNc4jGcWz2TfyPYAL"
       },
@@ -302,7 +324,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 133259,
       "name": "Bellaka & Romantika",
       "url": "https://open.spotify.com/track/3jY5L0b40kAQArQbTnay9c"
@@ -822,7 +844,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 158400,
       "name": "Diablita",
       "url": "https://open.spotify.com/track/7BBzgdd3VoBjZNKB5a6Uhd"
@@ -932,7 +954,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 208000,
       "name": "El Pesero",
       "url": "https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk"
@@ -980,7 +1002,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 210309,
       "name": "Extra\u00f1as Criaturas",
       "url": "https://open.spotify.com/track/5Jje7hHdmWhn6eIaNqrnvv"
@@ -1023,7 +1045,7 @@
       "artists": [
         {
           "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3f12yyB5WEUGktf7JOX9lb"
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
           "name": "Uzielito Mix",
@@ -1089,7 +1111,7 @@
       "artists": [
         {
           "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3f12yyB5WEUGktf7JOX9lb"
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         }
       ],
       "date_added": "2022-01-17",
@@ -1476,10 +1498,36 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 195944,
       "name": "Melocoton",
       "url": "https://open.spotify.com/track/0Ix9XHG0Zkydd6zTJwQvwF"
+    },
+    {
+      "album": {
+        "name": "MERCHO",
+        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161451,
+      "name": "MERCHO",
+      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
     },
     {
       "album": {
@@ -1666,7 +1714,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 174703,
       "name": "Oxxo est\u00e1s ah\u00ed?",
       "url": "https://open.spotify.com/track/12QZtyonVLker8V95gYTGB"
@@ -1714,6 +1762,36 @@
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "album": {
+        "name": "Pal Piso",
+        "url": "https://open.spotify.com/album/0e6Nt0OXxodh9djO8Gky7X"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        },
+        {
+          "name": "El Habano",
+          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+        },
+        {
+          "name": "Franklinson",
+          "url": "https://open.spotify.com/artist/6zPPwJT8OUjA1r5DuAYXgo"
+        },
+        {
+          "name": "Medio Metro",
+          "url": "https://open.spotify.com/artist/5UpsoJL3igByfrcFhKIqtK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248347,
+      "name": "Pal Piso",
+      "url": "https://open.spotify.com/track/1yufEGuITHy338J5iFe7oE"
     },
     {
       "album": {
@@ -1924,7 +2002,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 170666,
       "name": "Perreo Post Apocaliptico (Doble Tempo Remix)",
       "url": "https://open.spotify.com/track/28yy80xJe8QkgbGuVH5iQd"
@@ -2020,7 +2098,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 185172,
       "name": "Puro",
       "url": "https://open.spotify.com/track/38GL6p8D6ZyWV7pYVnGbLT"
@@ -2309,7 +2387,7 @@
       "artists": [
         {
           "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3f12yyB5WEUGktf7JOX9lb"
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
           "name": "Uzielito Mix",
@@ -2432,6 +2510,36 @@
       "duration_ms": 178723,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"
+    },
+    {
+      "album": {
+        "name": "Toke Toke",
+        "url": "https://open.spotify.com/album/4dqwfFdYZ1b3QPrtAjvZbq"
+      },
+      "artists": [
+        {
+          "name": "Malianteo Mx",
+          "url": "https://open.spotify.com/artist/1N8srm49MOUfNdYsxQ1E06"
+        },
+        {
+          "name": "Dembow Lord",
+          "url": "https://open.spotify.com/artist/2SCxoVzCGMivxe4atz0BHS"
+        },
+        {
+          "name": "Dahel",
+          "url": "https://open.spotify.com/artist/0B4XH6ZcrdYy0Se1a2At8B"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/6NrdpkoVfqIkCbiq1LjEcS"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Toke Toke",
+      "url": "https://open.spotify.com/track/05chyVBOcYSkJqvTRW79g9"
     },
     {
       "album": {

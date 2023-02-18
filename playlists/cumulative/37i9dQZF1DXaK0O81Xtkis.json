@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: BoyWithUke",
+  "description": "make it pop! cover: The Aces",
   "name": "soda",
   "tracks": [
     {
@@ -488,6 +488,24 @@
       "duration_ms": 154062,
       "name": "All These Nights",
       "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
+    },
+    {
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "album": {
@@ -1233,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Call It Like It Is",
+        "url": "https://open.spotify.com/album/1G9K6xgvZvhVJ1vRVnzDLA"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204055,
+      "name": "Call It Like It Is",
+      "url": "https://open.spotify.com/track/1KtpAFiSZ9WO5RYI7F752Y"
+    },
+    {
+      "album": {
         "name": "Call It When You Want",
         "url": "https://open.spotify.com/album/63HmVpuNaAvKbFq50NkZGg"
       },
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
@@ -1956,6 +1992,24 @@
       "duration_ms": 226937,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe"
+    },
+    {
+      "album": {
+        "name": "DANCING ALL ALONE",
+        "url": "https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171601,
+      "name": "DANCING ALL ALONE",
+      "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
     },
     {
       "album": {
@@ -2450,7 +2504,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 196800,
       "name": "Dumpster Fire",
       "url": "https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2"
@@ -3692,7 +3746,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 142424,
       "name": "High",
       "url": "https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI"
@@ -4492,10 +4546,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 155076,
       "name": "Iced Coffee",
       "url": "https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2"
+    },
+    {
+      "album": {
+        "name": "Iced Coffee",
+        "url": "https://open.spotify.com/album/6LU5bn9sw0mk0faXIHTdNd"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Iced Coffee",
+      "url": "https://open.spotify.com/track/7CumsQizElvUqb3205E2Vo"
     },
     {
       "album": {
@@ -5780,7 +5852,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 199723,
       "name": "Love!",
       "url": "https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416"
@@ -5950,6 +6022,24 @@
       "duration_ms": 209662,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm"
+    },
+    {
+      "album": {
+        "name": "miss misery",
+        "url": "https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "miss misery",
+      "url": "https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8"
     },
     {
       "album": {
@@ -6474,6 +6564,24 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "album": {
+        "name": "How To Lose A Girl in 7 Songs",
+        "url": "https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD"
     },
     {
       "album": {
@@ -8402,7 +8510,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 140826,
       "name": "stupid i miss u",
       "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"

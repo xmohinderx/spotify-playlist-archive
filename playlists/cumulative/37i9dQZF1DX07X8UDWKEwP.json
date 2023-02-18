@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Maffio & Luis Figueroa",
+  "description": "Lo nuevo del mundo tropical. Cover: Zion & Lennox",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Desn\u00fadate",
+        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231363,
+      "name": "Desn\u00fadate",
+      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
+    },
+    {
+      "album": {
         "name": "Devu\u00e9lveme",
         "url": "https://open.spotify.com/album/5Aado9i2Z6phDjkDieB7ZR"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 187594,
       "name": "Es Mentiroso - Nueva Versi\u00f3n 2022",
       "url": "https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 268175,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
@@ -4200,6 +4218,24 @@
       "duration_ms": 253825,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/76TlvxOQhLheXqCC2NkvZQ"
+    },
+    {
+      "album": {
+        "name": "Ya Sup\u00e9rame",
+        "url": "https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125909,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk"
     },
     {
       "album": {

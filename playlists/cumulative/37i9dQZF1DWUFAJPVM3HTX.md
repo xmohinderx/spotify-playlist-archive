@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Dende\. Updates every Wednesday.
 
-1,016 songs - 2 day 4 hr 47 min
+1,019 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Holy Waters](https://open.spotify.com/track/4uUmqeL6SpR8S83kvwXe01) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Holy Waters](https://open.spotify.com/album/2zNJjdeGUbfXv1DtV4eESz) | 4:05 | 2022-01-12 | 2022-02-03 |
 | [Home](https://open.spotify.com/track/6zxurTaIpnxtpMQeb5gvua) | [Mia LJ](https://open.spotify.com/artist/6pDxZqoS1BAtgXbKaUGLSt), [Banah Winn](https://open.spotify.com/artist/2nNhVAGVply0DWSw3tQcn2), [Jaedon Alvira](https://open.spotify.com/artist/6lUuPtoiXEl3xI0g0P6nej) | [Home](https://open.spotify.com/album/0Y6AXld0XCPUsfJNE3GqJq) | 3:26 | 2022-01-12 | 2022-01-20 |
 | [Home Away From Home](https://open.spotify.com/track/3g2ZPuuGDILoQTcokZpm14) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Home Away From Home](https://open.spotify.com/album/5qTnghHR89oG2qsNfcaJeh) | 2:44 | 2022-02-02 | 2022-03-17 |
+| [Home Stu freestyle](https://open.spotify.com/track/2xSRynRiyPQW37j55OjvSb) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Home Stu freestyle](https://open.spotify.com/album/0gl7m5QowpJCwO9Hg9SFgl) | 2:30 | 2023-02-17 |  |
 | [Honey Boy](https://open.spotify.com/track/4hatWwPedC0Q7UDrTasvt4) | [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Ricky Bakken](https://open.spotify.com/artist/2KaPiBST3SmBLVOFiXAHt7), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Fairies: Act II](https://open.spotify.com/album/4U6Qx2ZCdCz2H98ZDydp5E) | 4:28 | 2022-01-12 | 2022-02-17 |
 | [Hope](https://open.spotify.com/track/7yJQ8NSjO2L8qafj6quM3Q) | [Intricate Design](https://open.spotify.com/artist/2W2bx7cmpQZqt252QTxhkE) | [Hope](https://open.spotify.com/album/6Y79p5G0pLNoCjibPgtx1R) | 4:06 | 2022-01-12 | 2022-01-20 |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-19 | 2022-09-22 |
@@ -664,6 +665,7 @@
 | [OVER2U](https://open.spotify.com/track/4sc7jAI60N6X76lHEvzLcx) | [GODBLESSRODNEY](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [OVER2U](https://open.spotify.com/album/35M2X07gE66HuGWqySS3tV) | 2:46 | 2023-02-10 |  |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-09 | 2022-10-15 |
 | [Overthinking](https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA) | 3:01 | 2023-01-18 |  |
+| [Oxygen](https://open.spotify.com/track/5fHomLj0NEDhtQyfnkxTAG) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Oxygen](https://open.spotify.com/album/1YzZ7Ixf0uQrQ3xWcZf9S5) | 3:29 | 2023-02-17 |  |
 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 | 2023-02-10 |  |
 | [Pain In My Voice](https://open.spotify.com/track/2bfJu4MiQBfJNGH1HCDoUX) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Pain In My Voice](https://open.spotify.com/album/4KhipHygaz7sHCtY8X0PQs) | 2:37 | 2022-09-22 | 2022-12-01 |
 | [Palo Santo](https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Palo Santo](https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8) | 2:55 | 2022-02-02 | 2022-04-07 |
@@ -859,6 +861,7 @@
 | [Sunday](https://open.spotify.com/track/5YTX6MAmSHdh6UI9uyvMHw) | [Rob V](https://open.spotify.com/artist/4MfMoxxIjmWNJm1Strguyd) | [Sunday](https://open.spotify.com/album/1ppZ4yRYpmhcv9NsFO0tOA) | 3:04 | 2022-03-23 | 2022-05-12 |
 | [Sundress](https://open.spotify.com/track/2PVIOPgiTf6w6RlEJxQdkg) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal](https://open.spotify.com/album/6V836oeuXh62MWgiAHZPLz) | 3:19 | 2021-12-01 | 2022-01-13 |
 | [SUNRISE](https://open.spotify.com/track/5bvsXgDtVaFSg2JFhxL1lH) | [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [SUNRISE](https://open.spotify.com/album/1DI9bwQfWVGOAYkF18mFo7) | 2:55 | 2022-06-10 | 2023-01-12 |
+| [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-17 |  |
 | [Super](https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Super](https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6) | 3:01 | 2023-01-18 |  |
 | [Supernova](https://open.spotify.com/track/6y6Iv7d6MbuLPzYdqf2DNN) | [Ketu](https://open.spotify.com/artist/1qObbEr928j18cwHIDUtWQ) | [Ano\-Ele EP](https://open.spotify.com/album/4ehh6rn4LmK2RBqk0BraNq) | 2:31 | 2022-10-14 | 2022-12-01 |
 | [SUPERSIZED](https://open.spotify.com/track/3iY4yHKHH5s0TlpSURLx2K) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [SUPERSIZED](https://open.spotify.com/album/5myLvsDSTlaSxmIQkVbBLG) | 2:01 | 2022-08-19 | 2022-08-27 |

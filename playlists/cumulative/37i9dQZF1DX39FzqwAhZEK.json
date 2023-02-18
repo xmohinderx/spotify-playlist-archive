@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Spirits",
+        "url": "https://open.spotify.com/album/2GPu9L8fSCfexCmHK295xK"
+      },
+      "artists": [
+        {
+          "name": "Secret Medicine",
+          "url": "https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/6UpAsgiZxheIKD0mAP0RB9"
+    },
+    {
+      "album": {
         "name": "Winds Amassed",
         "url": "https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3"
       },
@@ -3426,6 +3444,24 @@
       "duration_ms": 224343,
       "name": "Morning Rises",
       "url": "https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj"
+    },
+    {
+      "album": {
+        "name": "Morning Stillness",
+        "url": "https://open.spotify.com/album/6fQKkR8w8gvIW77YzXJ03t"
+      },
+      "artists": [
+        {
+          "name": "Neidar",
+          "url": "https://open.spotify.com/artist/7H5LahVbGPNKKR1YzHNdaP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Morning Stillness",
+      "url": "https://open.spotify.com/track/0RnPPtolUwGGofZqmjQWkr"
     },
     {
       "album": {

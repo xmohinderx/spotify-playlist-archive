@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Karen Jonz, CSS
 
-327 songs - 18 hr 38 min
+328 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Volta](https://open.spotify.com/track/2pZudWjHskvC5RDM2buIdo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 4](https://open.spotify.com/album/1fRe9hw31nEe1H5AD5SDMn) | 5:40 | 2022-10-21 | 2022-11-12 |
 | [voltas \(áudio de whatsapp\)](https://open.spotify.com/track/3qROJDOCZ7eoxAbr6hiKkB) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [n sei usar excel](https://open.spotify.com/album/5uxJG9jWXfk8LVHS39aGrE) | 2:09 | 2022-07-15 | 2022-12-03 |
 | [Vou Te Bagunçar](https://open.spotify.com/track/4zy6LZlj8g5sM3lOI7FChL) | [Xande](https://open.spotify.com/artist/0IqLSb4h4c1SaAijKMmUai), [Vila Condin](https://open.spotify.com/artist/5XrH8sfPNab2LWXuTjwyud) | [Vou Te Bagunçar](https://open.spotify.com/album/1ocxzbRIMJBpeIaCCQFvgH) | 2:43 | 2022-02-04 | 2022-03-12 |
+| [VOU TE CONVIDAR](https://open.spotify.com/track/0nGfP61h8yHToSYiXnngXi) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [VOU TE CONVIDAR](https://open.spotify.com/album/6CbebK3fUPIWu0SJ1KaXMm) | 3:31 | 2023-02-17 |  |
 | [Vou Ter Que Me Virar \- Mu540 FUNK RITMADO](https://open.spotify.com/track/3Femu5oJJpDjwG7rRqvvvy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [VTQMV RMXS 01](https://open.spotify.com/album/22SwyqFqkdfIc6uPXtC9tK) | 3:14 | 2022-02-25 | 2022-03-12 |
 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 | 2022-01-14 | 2022-09-24 |
 | [Vozes](https://open.spotify.com/track/3HiUwqHR8mma38Oq6dBZmS) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Zé Nigro](https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj), [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Vozes](https://open.spotify.com/album/03IpiS4Ezq1YgLAxjLeK1i) | 3:42 | 2022-03-18 | 2022-04-09 |

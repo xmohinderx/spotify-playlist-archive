@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Who are you ?",
+        "url": "https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "Who are you ?",
+      "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
+    },
+    {
+      "album": {
         "name": "wish",
         "url": "https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO"
       },
@@ -2350,7 +2372,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198062,
       "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
       "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"

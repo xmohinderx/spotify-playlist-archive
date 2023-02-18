@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-338 songs - 1 day 11 hr 23 min
+339 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2018-02-27 |  |
 | [Thousand Finger Man](https://open.spotify.com/track/65gBp1aZvizgSWsXBSsHp0) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Influences Ep: Compiled By Dj Marky](https://open.spotify.com/album/6yNAAYj6SvNtAFQ652Evh9) | 7:42 | 2018-02-27 |  |
 | [Trip to Your Mind](https://open.spotify.com/track/1yKOtLCWRVAl0fttw5zqex) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/6zFB83PujO6TtFvmLbthA9) | 9:49 | 2018-02-27 | 2022-09-13 |
-| [Trip To Your Mind](https://open.spotify.com/track/0mgba29rFUf5r6wHnTpK2y) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Be Arisionable Vol.2](https://open.spotify.com/album/4FI3nnUrQ0w0ec6g5nVkmM) | 9:58 | 2018-02-27 |  |
+| [Trip To Your Mind](https://open.spotify.com/track/0K2g7kqMdbkqrtJodDhSIT) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Trip To Your Mind](https://open.spotify.com/album/5t2IxAwjQEIWhei0QISGjc) | 9:49 | 2018-02-27 |  |
+| [Trip To Your Mind](https://open.spotify.com/track/0mgba29rFUf5r6wHnTpK2y) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Be Arisionable Vol.2](https://open.spotify.com/album/4FI3nnUrQ0w0ec6g5nVkmM) | 9:58 | 2018-02-27 | 2023-02-18 |
 | [Vertigo / Relight My Fire](https://open.spotify.com/track/2zQHhhk8MovP9H3LZMQvXa) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire](https://open.spotify.com/album/7jwEFBqnBEcyasmnz08F8P) | 9:44 | 2018-02-27 |  |
 | [Waiting](https://open.spotify.com/track/5sT72aPBgt2W74loTXoqR1) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 4:03 | 2018-02-27 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5mFDQH5fGoV7jL1AuoiRsO) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Essential Teddy Pendergrass](https://open.spotify.com/album/735qNwSoGzOLyItfQQ01RL) | 7:31 | 2018-02-27 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-182 songs - 10 hr 47 min
+183 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 |  |
 | [Horizons](https://open.spotify.com/track/11QOYYPPQoYKAlOYDs6Foy) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/48xIyVPW1JMDszgWRvA7YP) | 2:37 | 2021-03-26 | 2022-03-26 |
 | [Howl For Me Daddy](https://open.spotify.com/track/3Gze7X3OVJ0Ulgea8n6Zqo) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 2:25 | 2021-02-05 | 2022-03-26 |
+| [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 |  |
 | [I Never Like It When You Leave](https://open.spotify.com/track/2Kp5p8jiWH42gJVv4cHNBZ) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [I Never Like It When You Leave](https://open.spotify.com/album/0Q84Iiq3eoEpJ1DedX64x9) | 3:14 | 2021-02-05 | 2022-03-26 |
 | [I'll Be Glad](https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [I'll Be Glad](https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6) | 4:58 | 2022-08-26 |  |
 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 | 2022-03-25 | 2022-06-19 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State for when you're feeling unstoppable\. Featuring artists like Sauce Walka, Sosamann, Peso Peso, Voochie P, and the rest of The Sauce Familia! Stay in the mix with TrapboyDre10k, LilCJ Kasino, and DJ Chose.
+> Hip hop heat from the Lone Star State featuring Sauce Walka, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,317 likes - 40 songs - 1 hr 48 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,322 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 39 | [Still Killin](https://open.spotify.com/track/7xcjNpTcuKOcIaJYOXaXrT) | [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Still Killin](https://open.spotify.com/album/1k55ZqQFhjPSdTF7ACWUvy) | 2:16 |
 | 40 | [Drip or Drown](https://open.spotify.com/track/1Uxcmgx0iJQLXyvt9iVJUi) | [Rizzoo Rizzoo](https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT) | [Drip or Drown](https://open.spotify.com/album/4KOaljSvFm6HN6fDMHUXbu) | 2:37 |
 
-Snapshot ID: `NDM0OSxhM2YwYTQwODNlN2MwM2VlY2E1NmJiMjkyNjI5NmU4ZjRkZDc5YTlj`
+Snapshot ID: `NDM1NiwzZmYzNDAyNzcxYTg5MDg3ZTNhNzMzMjVjMzE4NjNmNDlkMjY0ZWUw`

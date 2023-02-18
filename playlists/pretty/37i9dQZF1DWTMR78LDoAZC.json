@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Arlo Parks. ",
-  "num_followers": 106456,
+  "num_followers": 106568,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDA5Yzg1ZjkwMmJlNzI4YWFjZGRjMzk2MWNjYTZkYTA2",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGNlMDY5ZTcwNDU1ZmU2ZDhjNTFlOWUxZDRlMzFmNGEy",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
     },
     {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9"
-    },
-    {
       "added_at": "2023-01-24 05:00:00",
       "album": {
         "name": "are you?",
@@ -707,6 +691,22 @@
       "duration_ms": 197773,
       "name": "are you?",
       "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 210475,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 210475,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC"
     },
     {
       "added_at": "2022-06-06 14:47:44",

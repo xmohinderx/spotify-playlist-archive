@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 13509,
+  "num_followers": 13535,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDA3MDc4YjRjM2QyYmFkZDkxNmM4NTgxZjRlMjBiMTk2",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGY5M2ZjMjc2ODk3YjFlOWUyMzQwMWFhYTgyMzMwMTY2",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -143,22 +143,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Dos Soneros... Una Historia",
-        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
+        "name": "20 A\u00f1os (La Historia) [En Vivo]",
+        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Porfi Baloa",
+          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 481280,
-      "name": "He Tratado - Live Version",
-      "url": "https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR"
+      "duration_ms": 272214,
+      "name": "Clase Social - En Vivo",
+      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -223,22 +223,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "20 A\u00f1os (La Historia) [En Vivo]",
-        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
+        "name": "Dos Soneros... Una Historia",
+        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
       },
       "artists": [
         {
-          "name": "Porfi Baloa",
-          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         },
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 272214,
-      "name": "Clase Social - En Vivo",
-      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
+      "duration_ms": 481280,
+      "name": "He Tratado - Live Version",
+      "url": "https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 393810,
       "name": "Sonido Bestial",
       "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
     },
     {
       "added_at": "2022-03-18 05:00:00",

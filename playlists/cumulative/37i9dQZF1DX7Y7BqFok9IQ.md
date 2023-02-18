@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-144 songs - 9 hr 8 min
+145 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 | 2022-07-25 |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 |  |
 | [Are You](https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Are You](https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s) | 3:40 | 2020-10-16 | 2022-07-28 |
+| [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 |  |
 | [Ball And Chain](https://open.spotify.com/track/0QQIcQzNDvqgiVhIpIQegS) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Ball And Chain](https://open.spotify.com/album/4d4u7hmfuqvEmuXEQXONnk) | 5:04 | 2021-04-09 | 2022-07-29 |
 | [Ballad of a Thin Man](https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Ballad of a Thin Man](https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT) | 6:33 | 2022-10-28 | 2023-01-06 |
 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 | 2020-10-16 | 2022-10-29 |
@@ -113,7 +114,7 @@
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2020-10-16 |  |
 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 | 2022-06-24 |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |
-| [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 |  |
+| [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 | 2023-02-18 |
 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 | 2023-01-24 |
 | [Solar Fire](https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK) | [Smith/Kotzen](https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5), [Adrian Smith](https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Smith/Kotzen](https://open.spotify.com/album/4fuwMAMhY0LC4Qu1KXdgK5) | 4:29 | 2021-03-26 | 2022-07-19 |
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 |  |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 259040,
       "name": "90s",
       "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 157733,
       "name": "Anger",
       "url": "https://open.spotify.com/track/3Ykugegz7ThqmJ3rLXjMq3"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 149958,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1FuZI50Lm6PLN6JWQagTzK"
@@ -448,10 +448,32 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/4wnxRDYuAbwAZTxXcAq6vZ"
+      },
+      "artists": [
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        },
+        {
+          "name": "Nik\u00e9 Laos",
+          "url": "https://open.spotify.com/artist/2s1srNtreW8p5TYjWQ1VN3"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177138,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/2AsxkwENblcn7EzycEZbkQ"
     },
     {
       "album": {
@@ -760,7 +782,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 197280,
       "name": "Built My Home",
       "url": "https://open.spotify.com/track/3AD3MLwYNvon9yRs0V0RZq"
@@ -906,7 +928,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 234000,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/0ZXYwAPTlh86VP3SuOk3n7"
@@ -964,7 +986,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 203840,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
@@ -1004,7 +1026,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198000,
       "name": "Chanel Pearls (with Jill Scott)",
       "url": "https://open.spotify.com/track/3jWkuKai8qoTRvshbkxh0A"
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
@@ -1714,10 +1736,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 254550,
       "name": "Futurity",
       "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
+    },
+    {
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "album": {
@@ -1758,7 +1798,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 222733,
       "name": "Get By",
       "url": "https://open.spotify.com/track/6aL5k7WuvtlCSKEvPWuwFP"
@@ -1908,6 +1948,32 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "album": {
+        "name": "BY THE WAY",
+        "url": "https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "D'LEAU",
+          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244950,
+      "name": "GOOD DAY (feat. Ego Ella May & D'LEAU)",
+      "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
     },
     {
       "album": {
@@ -2202,7 +2268,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 181279,
       "name": "Hills",
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
@@ -2268,7 +2334,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
@@ -2286,7 +2352,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 183996,
       "name": "Home",
       "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
@@ -2468,7 +2534,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 238026,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj"
@@ -2587,6 +2653,28 @@
     },
     {
       "album": {
+        "name": "In Need (Reworked)",
+        "url": "https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        },
+        {
+          "name": "SMANDEM.",
+          "url": "https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207665,
+      "name": "In Need - Reworked",
+      "url": "https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG"
+    },
+    {
+      "album": {
         "name": "Twenties (Deluxe)",
         "url": "https://open.spotify.com/album/4raCNKbdcE0tlyxl1g15fM"
       },
@@ -2663,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Just Expectationz",
+        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228877,
+      "name": "Just Expectationz",
+      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY"
       },
@@ -2696,7 +2806,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 233933,
       "name": "Kicked to the Curb",
       "url": "https://open.spotify.com/track/0RG3L67GqmTBBX0kfSAXE8"
@@ -3076,7 +3186,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 216250,
       "name": "MIDSKY",
       "url": "https://open.spotify.com/track/2XTq0vKOx4eSdh6HsUQ8gJ"
@@ -3134,10 +3244,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 233407,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm"
+    },
+    {
+      "album": {
+        "name": "Mood Right",
+        "url": "https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "Mood Right",
+      "url": "https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l"
     },
     {
       "album": {
@@ -3928,7 +4060,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214698,
       "name": "RISE",
       "url": "https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69"
@@ -4022,7 +4154,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 148085,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
@@ -4370,7 +4502,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 111498,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
@@ -4569,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175291,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
+    },
+    {
+      "album": {
         "name": "Stayback",
         "url": "https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk"
       },
@@ -4686,7 +4836,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
@@ -4810,7 +4960,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 163250,
       "name": "Sunwaves",
       "url": "https://open.spotify.com/track/7sje70FdAxpVSI106q51yf"
@@ -4916,7 +5066,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 229992,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
@@ -5098,10 +5248,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 147000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/3XhNqboav0UbpcmiJg7sHo"
+    },
+    {
+      "album": {
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "album": {
@@ -5120,7 +5288,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 234386,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc"
@@ -5382,7 +5550,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 196159,
       "name": "Till Then",
       "url": "https://open.spotify.com/track/6cCdW3KSYyXf5RUMpYLRLI"
@@ -5494,7 +5662,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 262813,
       "name": "Try",
       "url": "https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa"

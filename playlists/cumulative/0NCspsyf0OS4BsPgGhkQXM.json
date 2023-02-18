@@ -8149,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "My Mind (with Charlie Kim)",
+        "url": "https://open.spotify.com/album/6iWqZQkEZPXS5Yfxo1NCBL"
+      },
+      "artists": [
+        {
+          "name": "Outr3ach",
+          "url": "https://open.spotify.com/artist/5Fxm01Q3h4d0JsKnVHnawz"
+        },
+        {
+          "name": "Charlie Kim",
+          "url": "https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "My Mind (with Charlie Kim)",
+      "url": "https://open.spotify.com/track/6KUZphPDNp0owWVfO5waBK"
+    },
+    {
+      "album": {
         "name": "MYSELF AGAIN",
         "url": "https://open.spotify.com/album/3cn5Z5LRrC0omDyqj1t9Of"
       },
@@ -11892,6 +11914,28 @@
       "duration_ms": 177272,
       "name": "Tested",
       "url": "https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz"
+    },
+    {
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/28DQ29Hukx9FU5C7GdY4Ta"
+      },
+      "artists": [
+        {
+          "name": "So Dope",
+          "url": "https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/69bRYnIDPZM8IUmBLFVq2u"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10118,
+  "num_followers": 10155,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMDUwNzVlMDY2ZGZiZGQ0NzkyN2JmMzdjODZiZTFlYmZk",
+  "snapshot_id": "MTY3NjUyOTQxMywwMDAwMDAwMDNjMDFjMGVmNWRkNThkMzY4MzdiNmNjMDAwMDFkYWUy",
   "tracks": [
     {
       "added_at": "2023-02-14 07:47:12",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "I`m In Love",
         "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
       "artists": [
         {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -603,22 +619,6 @@
       "duration_ms": 200000,
       "name": "Film (Feat. Woshi)",
       "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Object",
-        "url": "https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "The chair",
-      "url": "https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 237030,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Object",
+        "url": "https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "The chair",
+      "url": "https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "WANT U",
-      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "Especially For You",
         "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 154786,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
-        }
-      ],
-      "duration_ms": 195206,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
+        }
+      ],
+      "duration_ms": 195206,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
     },
     {
       "added_at": "2023-02-14 07:47:12",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O"
-      },
-      "artists": [
-        {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
-    },
-    {
-      "added_at": "2023-02-14 07:47:12",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -1019,18 +1003,34 @@
     {
       "added_at": "2023-02-14 07:47:12",
       "album": {
-        "name": "Fling",
-        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+        "name": "INTERVIEW",
+        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
       "artists": [
         {
-          "name": "DIVE",
-          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 174841,
-      "name": "Fling",
-      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
+      "duration_ms": 195293,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
+    },
+    {
+      "added_at": "2023-02-14 07:47:12",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

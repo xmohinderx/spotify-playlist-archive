@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-70 songs - 7 hr 21 min
+71 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 | 2021-12-01 |  |
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 |  |
 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 | 2021-12-01 |  |
+| [Sham Ye Dhalte Dhalte](https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq) | [Swarit Nigam](https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93) | [Sham Ye Dhalte Dhalte](https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9) | 5:29 | 2023-02-17 |  |
 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 | 2021-12-01 |  |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 |  |
@@ -77,6 +78,6 @@
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/0Uj2q3Z8g1OiMwc98Rjlhw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/6W4RhKBsth6Y371hcOd61j) | 6:18 | 2022-07-26 |  |
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2022-07-29 |
 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 | 2021-12-01 |  |
-| [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 |  |
+| [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

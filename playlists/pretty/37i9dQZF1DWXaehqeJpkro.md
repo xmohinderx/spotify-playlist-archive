@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,002 likes - 163 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,008 likes - 163 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 79 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
 | 80 | [I Still](https://open.spotify.com/track/7gkzWnzYtxsnT7VaAefDVU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still](https://open.spotify.com/album/51apaO1KFFjLvJuPkJjFxb) | 3:07 |
 | 81 | [On That Day](https://open.spotify.com/track/4fx2P5JDZ7hszBkTxzftQL) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [On That Day](https://open.spotify.com/album/7hcTxoEyYvl75urS0ee3Sl) | 3:39 |
-| 82 | [우리 왜 헤어져야 해](https://open.spotify.com/track/1ZNz6s0I6XIy4HSWTz8n7n) | [Shin Yae Young](https://open.spotify.com/artist/1vGhlV6Gl9KqTskeFMlafE) | [우리 왜 헤어져야 해](https://open.spotify.com/album/6kVU7bkf0nUWmp7gzMtJJc) | 4:07 |
+| 82 | [우리 왜 헤어져야 해](https://open.spotify.com/track/1ZNz6s0I6XIy4HSWTz8n7n) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [우리 왜 헤어져야 해](https://open.spotify.com/album/6kVU7bkf0nUWmp7gzMtJJc) | 4:07 |
 | 83 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
 | 84 | [Others love easily, but I can’t](https://open.spotify.com/track/4K7P2h6dwnEK2TMvIxT7p9) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Others love easily, but I can’t](https://open.spotify.com/album/6XuFfy91eQUfCm1SyKZjqi) | 4:20 |
 | 85 | [모르시죠](https://open.spotify.com/track/2bLCWejmjDZS32CWswfdhK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/0yhmrnMwKTcXZhBwM1HJ1w) | 3:35 |

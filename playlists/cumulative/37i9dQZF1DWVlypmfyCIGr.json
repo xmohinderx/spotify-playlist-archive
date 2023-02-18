@@ -14671,6 +14671,24 @@
     },
     {
       "album": {
+        "name": "Cho",
+        "url": "https://open.spotify.com/album/4nx5OMVxi1M1K2giwuWcWf"
+      },
+      "artists": [
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252949,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/65J3b6vEI0fcfwt0A2UqvT"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU"
       },
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 252949,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ"

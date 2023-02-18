@@ -4,11 +4,12 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-185 songs - 11 hr 42 min
+186 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 | 2021-12-09 | 2022-07-29 |
+| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-02-18 |  |
 | [Ai mi morena \- Chocolate Restyle](https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Some More Horizons \(Digital Version\)](https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk) | 5:28 | 2022-01-01 |  |
 | [Ai Mi Morena \- Chocolate Restyle](https://open.spotify.com/track/5V1gtLx7ftEsGCceWxq3be) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Brazilution Special Stereo Deluxe Online Edition](https://open.spotify.com/album/3jHzW7vbLiQJ3tLhZnQOcz) | 5:30 | 2021-12-09 | 2022-07-29 |
 | [Algo Contigo \(with Our Latin Thing\)](https://open.spotify.com/track/66JW6e9yEE8A0Y3pLpW6iD) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Our Latin Thing](https://open.spotify.com/artist/7D4bz5J1TI5CohcDFQD6tn) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:09 | 2021-12-09 |  |
@@ -60,14 +61,14 @@
 | [Despues de Almuerzo Parte 3](https://open.spotify.com/track/4uIJmaku85TiNpKyCFjuTD) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica para Despues de Almuerzo](https://open.spotify.com/album/51tTFDkrYX6v1js0jEarj9) | 3:15 | 2021-12-09 | 2022-07-29 |
 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 | 2022-01-01 |  |
 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 | 2021-12-09 | 2022-11-13 |
-| [El Amor Después Del Amor](https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:44 | 2021-12-09 |  |
-| [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 | 2021-12-09 | 2022-07-28 |
+| [El Amor Después Del Amor](https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:44 | 2021-12-09 | 2023-02-18 |
+| [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 | 2021-12-09 |  |
 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 | 2021-12-09 |  |
 | [El Chuchumbé](https://open.spotify.com/track/5N7dYVrRW4FVvNpcAISp4f) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 3:26 | 2021-12-09 | 2022-07-29 |
 | [El Chuchumbé](https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 3:28 | 2022-01-01 |  |
 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 | 2021-12-09 |  |
 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 | 2021-12-09 |  |
-| [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 | 2021-12-09 |  |
+| [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 | 2021-12-09 | 2023-02-18 |
 | [El Rincón \(Chachachá\)](https://open.spotify.com/track/08jLZncRsF8HB2cgzBUTnN) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5) | 3:51 | 2022-01-01 |  |
 | [El rincón \(Chachachá\)](https://open.spotify.com/track/53FTMNsJZWS3rnJzHoaugG) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/0QIv2shOFaPcLZpzydG3k0) | 3:51 | 2021-12-09 | 2022-07-29 |
 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 | 2022-01-01 |  |

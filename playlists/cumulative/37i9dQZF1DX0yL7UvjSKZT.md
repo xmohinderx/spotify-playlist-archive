@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-236 songs - 14 hr 51 min
+238 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [He Ain't Me](https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [He Ain't Me](https://open.spotify.com/album/6s9SrAd8YNrLH2we1nzlAi) | 4:07 | 2022-08-11 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-07-15 | 2022-10-08 |
 | [Hey Magnolia](https://open.spotify.com/track/3JyOC3UOO8lTzbADm8UNyQ) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR) | 2:44 | 2022-05-13 | 2023-01-14 |
+| [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-02-17 |  |
 | [Hole In My Pocket](https://open.spotify.com/track/3eus1BzoSc9LG0pJB5VVig) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Hole In My Pocket](https://open.spotify.com/album/4Q2LMlt43lVXjJuuslS2hQ) | 3:04 | 2022-04-22 | 2022-08-12 |
 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 | 2022-02-18 |  |
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2022-01-21 |  |
@@ -225,6 +226,7 @@
 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 | 2022-07-22 |  |
 | [Valley Forge](https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:05 | 2021-10-01 |  |
 | [Wagon Wheel](https://open.spotify.com/track/359krpyCKcFF8SFvqWES9L) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/0ogkqQa8hPAtL02IqwJ36x) | 3:52 | 2021-10-01 | 2022-01-22 |
+| [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 |  |
 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 | 2021-10-01 |  |
 | [Whirlwind](https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Volunteer](https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l) | 4:04 | 2022-01-21 |  |
 | [Whiskey](https://open.spotify.com/track/304pRAROhKx7jQdNYztux2) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Whiskey](https://open.spotify.com/album/63fTnMULwSceWns5rETNHV) | 4:01 | 2022-03-18 |  |

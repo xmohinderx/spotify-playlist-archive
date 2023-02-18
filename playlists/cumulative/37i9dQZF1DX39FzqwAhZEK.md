@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-328 songs - 16 hr 33 min
+330 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Another Forest](https://open.spotify.com/track/5zV2bqDZ0MsjcVMHRGQ507) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/46cDKYGzPmhdfVKlQgJ0VA) | 3:53 | 2022-07-05 | 2022-07-29 |
 | [Another Forest](https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM) | 3:53 | 2022-07-05 | 2023-02-10 |
 | [April](https://open.spotify.com/track/5qIoVDi7sxsgWQ9D0PTlA1) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [April](https://open.spotify.com/album/1K6D2qPk66fzb9QDIfc9pv) | 3:20 | 2022-07-05 | 2022-08-16 |
+| [As It Is](https://open.spotify.com/track/6UpAsgiZxheIKD0mAP0RB9) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Hold Me Spirits](https://open.spotify.com/album/2GPu9L8fSCfexCmHK295xK) | 3:12 | 2023-02-17 |  |
 | [As Life Decides](https://open.spotify.com/track/1ZnHdj4BQHMbC6grguZkm5) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Winds Amassed](https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3) | 4:08 | 2022-07-05 |  |
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2022-07-05 |  |
 | [Aspen](https://open.spotify.com/track/0Oezanicpi90NcUA7WYR0E) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY) | [Aspen](https://open.spotify.com/album/3BE4jo7hkkusNqvyclju6c) | 1:24 | 2022-07-05 | 2023-02-10 |
@@ -198,6 +199,7 @@
 | [Morning Lagoon](https://open.spotify.com/track/0A3lEajNx703qe1CfnemYt) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/1wUSsU6jCOvPAGpQh9aRUO) | 3:54 | 2022-07-05 | 2023-02-10 |
 | [Morning Lagoon](https://open.spotify.com/track/3KKfFCcEjSp4sKqhHjUUGJ) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/6CggWBPDBfzexrJ6ZZY5Ir) | 3:54 | 2022-07-05 | 2022-07-29 |
 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2022-07-05 |  |
+| [Morning Stillness](https://open.spotify.com/track/0RnPPtolUwGGofZqmjQWkr) | [Neidar](https://open.spotify.com/artist/7H5LahVbGPNKKR1YzHNdaP) | [Morning Stillness](https://open.spotify.com/album/6fQKkR8w8gvIW77YzXJ03t) | 2:28 | 2023-02-17 |  |
 | [My Heart](https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG) | [Bella Mie](https://open.spotify.com/artist/1aqj4NItjznvMP8uHTeCLR) | [My Heart](https://open.spotify.com/album/4a77dNUR7QMqW1ltyaDhIT) | 2:57 | 2022-07-05 |  |
 | [Near Dawn](https://open.spotify.com/track/2j8g4uNaY4vIyDlKz5qVOj) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 2:47 | 2022-07-05 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2022-07-05 |  |

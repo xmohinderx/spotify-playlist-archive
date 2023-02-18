@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-113 songs - 10 hr 24 min
+114 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,9 +114,10 @@
 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 | 2022-05-13 |  |
 | [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 | 2022-07-08 |  |
 | [Yggdrasil](https://open.spotify.com/track/557wTI8uo48D59Caf2iM2I) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Yggdrasil](https://open.spotify.com/album/3TcQZvBmiStnfk8WXVfuu3) | 4:15 | 2022-05-13 | 2022-07-29 |
+| [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 | 2023-02-17 |  |
 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 | 2022-05-13 | 2022-07-29 |
 | [Ymir](https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Eptir Ragnarök](https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY) | 4:17 | 2022-07-08 |  |
-| [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 | 2022-05-13 |  |
+| [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 | 2022-05-13 | 2023-02-18 |
 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 | 2022-05-13 |  |
 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 | 2022-05-13 |  |
 | [Østavind](https://open.spotify.com/track/5iudG1J8VPUeTTtQDh6S2g) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Østavind](https://open.spotify.com/album/18Ga6kb55vcF8ZBLoonSCu) | 3:13 | 2022-05-13 | 2022-07-29 |

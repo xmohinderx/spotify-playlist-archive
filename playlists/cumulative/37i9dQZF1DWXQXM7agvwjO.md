@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Haru Nemuri \(Japan\)
 
-610 songs - 1 day 12 hr 31 min
+612 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 | 2022-09-29 | 2023-01-20 |
 | [Back In The Game](https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Back In The Game](https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF) | 3:28 | 2022-04-28 | 2022-05-20 |
 | [Back To You](https://open.spotify.com/track/0umNnTO5E0u3CE4XCq8wWO) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Back To You](https://open.spotify.com/album/7Hth7QqfXd5FMSiBbSOv8x) | 3:46 | 2022-09-29 | 2022-11-25 |
+| [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-16 |  |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-24 | 2022-05-13 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-02-17 |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2022-03-24 | 2022-05-20 |
@@ -219,6 +220,7 @@
 | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 | 2022-07-07 | 2022-08-05 |
 | [Heroik](https://open.spotify.com/track/2sRXa0KzHvIsUuN7zYBEd4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Heroik](https://open.spotify.com/album/6n50RxgjfIYDZjd20vIQOe) | 4:18 | 2022-09-08 | 2022-10-29 |
 | [Hey Molly](https://open.spotify.com/track/54IE9zQKLBvlwCWEN6AThL) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [Hey Molly](https://open.spotify.com/album/0x4OQypKeySPVnldwJHS6u) | 2:32 | 2023-01-19 |  |
+| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-16 |  |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-03-24 | 2022-04-08 |
 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-18 | 2022-08-26 |
 | [Home is Wherever you Are](https://open.spotify.com/track/703VBRaail5rJc0nTJcuwq) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Home is Wherever you Are](https://open.spotify.com/album/1KIwhHoM23KbQF6O8eOrbj) | 4:01 | 2023-01-26 |  |

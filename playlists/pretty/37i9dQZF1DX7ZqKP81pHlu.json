@@ -1,33 +1,13 @@
 {
   "description": "\u00c9coutez en boucle les hits alg\u00e9riens du moment.",
-  "num_followers": 96571,
+  "num_followers": 96679,
   "original_name": "DZ Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ2NjU1NywwMDAwMDAwMDNjMWUyNGFjN2UwMmMxMmQ4MzIyMDg4NWZkMWI0MDlk",
+  "snapshot_id": "MTY3NjYyODk4NywwMDAwMDAwMDQ4MWE3YjE1Yzc4MGQ4OTg5NzYxOGFmMjM4ZmQ0MDBj",
   "tracks": [
-    {
-      "added_at": "2023-02-15 13:09:17",
-      "album": {
-        "name": "R\u00e9silience",
-        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Roi 2 c\u0153ur (feat. Indila)",
-      "url": "https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY"
-    },
     {
       "added_at": "2023-02-15 13:09:17",
       "album": {
@@ -63,6 +43,26 @@
       "duration_ms": 192000,
       "name": "Sur Pp (feat. Soolking)",
       "url": "https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc"
+    },
+    {
+      "added_at": "2023-02-15 13:09:17",
+      "album": {
+        "name": "R\u00e9silience",
+        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Roi 2 c\u0153ur (feat. Indila)",
+      "url": "https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY"
     },
     {
       "added_at": "2023-02-15 13:09:17",

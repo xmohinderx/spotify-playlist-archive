@@ -4,22 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,096 likes - 13 songs - 44 min 51 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,095 likes - 15 songs - 57 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Endelaus Veg](https://open.spotify.com/track/3I2s2aMjP6zObtNq4mpuI4) | [Bootlegs](https://open.spotify.com/artist/06NpyvDgWUFo5YPdLkRZp3) | [Endelaus Veg](https://open.spotify.com/album/4SKTLQongv0eFc3Om0xxec) | 4:47 |
-| 2 | [Serrated Jaws](https://open.spotify.com/track/0gyOBgNqhNNVUd69XIeXzx) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [Serrated Jaws](https://open.spotify.com/album/7INxnrC3ZAWEO5kLwkDBy7) | 4:20 |
-| 3 | [Terminal Velocity](https://open.spotify.com/track/40feYW0541aw32cHHmhXCm) | [Only By Night](https://open.spotify.com/artist/0oEQuhufOFE2MLw8bW9E4i) | [Terminal Velocity](https://open.spotify.com/album/5WWHTkPwWc4hDojEuMBdQY) | 3:30 |
-| 4 | [Reminiscing](https://open.spotify.com/track/2WX93lwyQOS0Cl7lXdJ7uU) | [Tanaka](https://open.spotify.com/artist/2jKPaC2ezYgEFsMBScc1mH) | [Reminiscing](https://open.spotify.com/album/5VV7wRhx2WljCEzzuNizkM) | 3:30 |
-| 5 | [Heaven Is Noise](https://open.spotify.com/track/78UB6Pj551OsTxqCeFqZXv) | [Skeleton Shortage](https://open.spotify.com/artist/2uEb2qRHEXTuLcZPb5l63e) | [Heaven Is Noise](https://open.spotify.com/album/2HHAoBXw4HXREWhv6oLmqR) | 4:41 |
-| 6 | [Magic Words](https://open.spotify.com/track/2X06KZ11o9D08owHs2pO0z) | [APG](https://open.spotify.com/artist/43WWpQzBvWugFPxprqm1Z7) | [Magic Words](https://open.spotify.com/album/7aJP5myrQwY2qlxUGpPoPY) | 2:48 |
-| 7 | [Stand By Me](https://open.spotify.com/track/33LaFP8eNi0hZEwSDVpCLa) | [Krissie](https://open.spotify.com/artist/4H5pk9gnVCiVIXuh6cGNdM), [The Lundy Family](https://open.spotify.com/artist/5bM6pUB6wgmsWaLS9y2ajp), [Another Overload](https://open.spotify.com/artist/2v3S7Ub3u6Zs3hNu8Hq6Yw), [Animal Al](https://open.spotify.com/artist/2V267Zdwe3Wm40XdvY9LQJ) | [Stand By Me](https://open.spotify.com/album/7qU3W6roTxZ5KBf5QqTLDK) | 2:44 |
-| 8 | [Weed TV](https://open.spotify.com/track/5LgGDkgCzNzOFBBNwrfMg9) | [Uncle Father Oscar](https://open.spotify.com/artist/6wAfUy9tcrA7MLqAbzCf2h) | [Whami Guam Brad](https://open.spotify.com/album/2UeqEDbvZaQ1rzfd7UMlu2) | 2:51 |
-| 9 | [Chillout Sumatra](https://open.spotify.com/track/5yLskZtctTfIf0OmDUqsVP) | [Forest Edge](https://open.spotify.com/artist/6ID6yxO713Bx1rOmwNjLyI) | [Chillout Sumatra](https://open.spotify.com/album/0hFnGELYJ0eENtuH5ooSnU) | 3:33 |
-| 10 | [While We're On It](https://open.spotify.com/track/5Ci1oEOBYJx4rbnlCLHZcn) | [TILT](https://open.spotify.com/artist/4ifaahwu79ZwKXA2WmsfMj) | [While We're On It](https://open.spotify.com/album/4L753c23ko1Vfnl6Ty2GET) | 2:35 |
-| 11 | [ME TENGO QUE IR](https://open.spotify.com/track/0QilGvc2ukisHFbG80BlbU) | [Rodny](https://open.spotify.com/artist/4wbDY8PL52OgD6HSeiGa6C) | [ME TENGO QUE IR](https://open.spotify.com/album/1hkUWyUzkmuEauNuRwKbUV) | 3:16 |
-| 12 | [En dröm](https://open.spotify.com/track/3Eqc20FVhkUXAh7T70qZZH) | [Nyxie](https://open.spotify.com/artist/2oC7B4aRH9IcKyn5ltxRoQ) | [En dröm](https://open.spotify.com/album/1hBo7nqgqXRrzFnMJJnx22) | 3:28 |
-| 13 | [Keep the Fight Alive](https://open.spotify.com/track/0GN9C8sjhNj19EbyvcHWoI) | [Whiskey's Wake](https://open.spotify.com/artist/1rNu83JCEN6NnRXmSMZrci), [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [Distant Lands](https://open.spotify.com/album/6H7lhn9T6mnBqzfeKdA2VG) | 2:44 |
+| 1 | [Yo Geet Timilai](https://open.spotify.com/track/6Xofa0BpvABAvJWVFLXwFn) | [DJ Bishow](https://open.spotify.com/artist/3ZQ8eptBSRv3RIFE6tBpNV), [Yabesh Thapa](https://open.spotify.com/artist/1D0B4qrMRfjzDfBlijs3YH), [Bizen](https://open.spotify.com/artist/3lVjPNVSxQxVAp8XPF3nJi) | [Yo Geet Timilai](https://open.spotify.com/album/6uxydYkMtuQG4lRmuvgFl2) | 2:52 |
+| 2 | [Foundation](https://open.spotify.com/track/1R8Ik6IXTizAl4B2jg0rGU) | [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [Foundation](https://open.spotify.com/album/6ahuDx3k8Ts132VRQ3jxI7) | 2:33 |
+| 3 | [Släng bort mobilen](https://open.spotify.com/track/2vZXREMorFrk2hVBfjZI3q) | [Dryhimmarn](https://open.spotify.com/artist/3cytCFNoXv5ttskvMBXzqA) | [Släng bort mobilen](https://open.spotify.com/album/0SmAD1fUVwnh2CMVd0kqpi) | 3:15 |
+| 4 | [Reversion](https://open.spotify.com/track/5j6aO3qwHbx9JKuV0guHws) | [The Machine](https://open.spotify.com/artist/3X86QInWg7yupxaU3fvvjB) | [Reversion](https://open.spotify.com/album/6vri3ap8noqwgdmHiHvBAB) | 6:04 |
+| 5 | [follow](https://open.spotify.com/track/376QMS5IvNxgE9ro38vgNc) | [Pete Santos](https://open.spotify.com/artist/5NmID2FlbgIYi44Q45iaWf) | [follow](https://open.spotify.com/album/3tjfcJB23uBGtHyTuULp5I) | 3:46 |
+| 6 | [Jennifer](https://open.spotify.com/track/5uBNYvs4xMZ0UMqhStkcXz) | [Marques Bovre and The Evil Twins](https://open.spotify.com/artist/2gljPPno0W8McIqiIzMjf0) | [Living and Dying in the Coffee Generation](https://open.spotify.com/album/6Elru72unqSe4Fzl4KHlml) | 3:28 |
+| 7 | [Touching Freedom](https://open.spotify.com/track/41JOLlHxiofzx6RefSDIcC) | [Magnus Jarlbo](https://open.spotify.com/artist/37XZZRAhodZTxPq9IXe4gF), [Pedram Shahlai](https://open.spotify.com/artist/0mOtayobuVpTiNlctCYQjF) | [Touching Freedom](https://open.spotify.com/album/2TUIt74nWuxwa6wQ4HPxeA) | 3:31 |
+| 8 | [Hana Voodoo](https://open.spotify.com/track/7ssAyoOdmNosEuDgx4LMQw) | [Jules Brennan](https://open.spotify.com/artist/7unObIw4zbKUXYKFynXqQC) | [Hana Voodoo](https://open.spotify.com/album/5CgypmrO3NLpAN9WN1GWTG) | 6:43 |
+| 9 | [Endless Summer](https://open.spotify.com/track/0E0jzVYAm3558G6lQWPTeb) | [D203](https://open.spotify.com/artist/01teNQm7eYqYk1PV7vPdFC) | [Endless Summer](https://open.spotify.com/album/5Lp0AtnPcAZYinccG6EYP0) | 3:36 |
+| 10 | [Hej simba](https://open.spotify.com/track/3d9idsjTePekE5SVvbhneE) | [Mojje & Simba](https://open.spotify.com/artist/4HMQYw6YMRqn78xv1I7IDx) | [Hej simba](https://open.spotify.com/album/6l4wetjXGs18EpJ3TBQtwQ) | 3:10 |
+| 11 | [Hurricane](https://open.spotify.com/track/6ymmsttOZYT1SSnDxOjqRZ) | [Alma Revel](https://open.spotify.com/artist/59gWFo18Jb7jYjjZwSWO2u) | [Hurricane](https://open.spotify.com/album/0UMSfzyVsSzpgHFbKwkHJJ) | 4:55 |
+| 12 | [Summer Baby](https://open.spotify.com/track/6tK7xmnkjVLdpupBBgkZIf) | [SASS](https://open.spotify.com/artist/3HKCvaNgdKpPbnku7mYk3A) | [Summer Baby](https://open.spotify.com/album/5PTCfsVDCFYAPgRz1YjslN) | 2:38 |
+| 13 | [Funk](https://open.spotify.com/track/5zBbE86w0wMBWmLl8CP8N3) | [Jesta](https://open.spotify.com/artist/6xIQvrVL9611QGh9mQ7sZl), [Rozay](https://open.spotify.com/artist/3HstqA6AyAFg8s2XFHYq8j) | [Funk](https://open.spotify.com/album/6efVaPKCx0JHzJyyKXibNZ) | 2:40 |
+| 14 | [Bon Voyage](https://open.spotify.com/track/1gikdIy0lER7VkW0FVWL6K) | [Courant](https://open.spotify.com/artist/1ywS9qW2Y66IGkDTM1nIvE) | [Bon Voyage](https://open.spotify.com/album/0cZmjXBwGGE5YMZgQed3Uw) | 5:48 |
+| 15 | [I'll Play You Out](https://open.spotify.com/track/4otrj76FgztNIcwEQ9ypQD) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz), [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [I'll Play You Out](https://open.spotify.com/album/2Tq7qjNqYL6TGkzwXFs3FD) | 2:44 |
 
-Snapshot ID: `NzM5LDQzYTJlMTI5NjNlZjk1MDI0MjcwMWM0OWI0MDE3NjljYzljODJhYWI=`
+Snapshot ID: `NzQxLDA2OGUyNjA2MjZlZDIzYmE0ZjUwODBlMzNiYmEwMTExYjAyOGRiYmE=`

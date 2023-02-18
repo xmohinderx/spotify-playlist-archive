@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Honey Dijon.",
+  "description": "Electronic + Dance making waves, every month. Cover: Austin Millz, artwork by Ian Woods",
   "name": "Electronic + Dance Frequency",
   "tracks": [
     {
@@ -234,6 +234,28 @@
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc"
+    },
+    {
+      "album": {
+        "name": "Love Is Love",
+        "url": "https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX"
+      },
+      "artists": [
+        {
+          "name": "Ten City",
+          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "All In One Night",
+      "url": "https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe"
     },
     {
       "album": {
@@ -782,7 +804,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 229216,
       "name": "Cleo",
       "url": "https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ"

@@ -4,11 +4,12 @@
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Giulia be
 
-330 songs - 18 hr 6 min
+332 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(não\) era amor](https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [\(não\) era amor](https://open.spotify.com/album/1pX7Hry9lbEICEN2ez13K7) | 2:37 | 2023-02-14 |  |
+| [1+1 É Pouco](https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [1+1 É Pouco](https://open.spotify.com/album/54dRucOxK6INlDp0AuVAcd) | 2:37 | 2023-02-17 |  |
 | [10%](https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [10%](https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O) | 2:49 | 2023-02-14 |  |
 | [21](https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [21](https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO) | 3:35 | 2020-10-20 | 2022-07-29 |
 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 | 2020-10-20 | 2023-02-15 |
@@ -100,6 +101,7 @@
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2023-02-14 |  |
 | [Flutuo](https://open.spotify.com/track/2WEni6RxGtoWaask5A6Kok) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Flutuo](https://open.spotify.com/album/3DNnIZjJmrDNhwKhBJ35ed) | 3:25 | 2020-10-20 | 2022-07-28 |
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2020-10-20 | 2022-07-25 |
+| [Fofoca](https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fofoca](https://open.spotify.com/album/4bgdTL3Uzg6ch39LWULulc) | 2:52 | 2023-02-17 |  |
 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 | 2023-02-14 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2020-10-20 | 2023-02-15 |
 | [For Real](https://open.spotify.com/track/5JbwgOUmX9GKWgk3wSrSpn) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ícone](https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr) | 2:01 | 2020-10-20 | 2022-07-16 |

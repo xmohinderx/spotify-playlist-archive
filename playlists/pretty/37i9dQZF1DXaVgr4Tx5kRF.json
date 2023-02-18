@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 582148,
+  "num_followers": 582342,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDkyMWFiY2QxNjIzMGEyOGU1MGVkZjA2YThkZjBmNTEy",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDg2OTNhZjQwYzQzZTc2YTk1NmRmY2MxMzY0NDRiNmU5",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
-        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
-      },
-      "artists": [
-        {
-          "name": "The London Suede",
-          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Tellin' Stories",
         "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 269773,
       "name": "One To Another",
       "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
+        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
     },
     {
       "added_at": "2022-05-04 17:11:49",

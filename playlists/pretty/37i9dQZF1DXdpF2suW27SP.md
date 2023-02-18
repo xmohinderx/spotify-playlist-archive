@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,408 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,418 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [LUMI ZOO](https://open.spotify.com/track/74lZ2yteCAFo7a5naosE3g) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [LUMI ZOO](https://open.spotify.com/album/4RbIyOlxxdy5gJiREf8yd2) | 3:07 |
 | 75 | [HALLYWUD](https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HALLYWUD](https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS) | 3:01 |
 
-Snapshot ID: `MTY3NjU5MjAwMCwwMDAwMDAwMGEwYWI5MjU4MDQzNGU1YjZkMWNhNmIyYzVjNzQ3MTM0`
+Snapshot ID: `MTY3NjY3ODQwMCwwMDAwMDAwMDFlMDE5ZGNlYzkzOGJjYjc5MTIxZDZkYjRiZWUxNmUw`

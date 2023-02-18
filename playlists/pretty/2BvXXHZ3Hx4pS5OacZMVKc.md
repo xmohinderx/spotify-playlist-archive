@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain](/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BvXXHZ3Hx4pS5OacZMVKc)
 
-### [Gaming Music 2022](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
+### [Gaming Music 2023](https://open.spotify.com/playlist/2BvXXHZ3Hx4pS5OacZMVKc)
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,505 likes - 136 songs - 7 hr 4 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,516 likes - 136 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 135 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 |
 | 136 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 |
 
-Snapshot ID: `Mjc4MixjNTdjNTEzYzQyOTJiZDc2NjdhMWNlZjE5MzM4NzZmYzllYWVhZGVh`
+Snapshot ID: `Mjc4NixhMmZjZGQ1NDBiNTRjOTRlNzU4ODcyZWJkOTlmNDAwYzk5M2U3OWRi`

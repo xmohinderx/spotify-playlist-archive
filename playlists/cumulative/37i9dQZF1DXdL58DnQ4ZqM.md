@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-508 songs - 1 day 4 hr 51 min
+509 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [Terme di Caracalla](https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0) | 3:44 | 2021-08-10 | 2022-07-28 |
 | [Terme di Caracalla](https://open.spotify.com/track/7rPWpqAcS9yArMDgx8GBRu) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc) | 3:44 | 2022-07-29 |  |
 | [Terra](https://open.spotify.com/track/4Zz9Uhk1VrEghNiuRpBQ3O) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Terra](https://open.spotify.com/album/4JdEQESrfTCh7x8xmz6Lqu) | 1:44 | 2022-03-16 | 2022-07-09 |
-| [The Bishop](https://open.spotify.com/track/6vA5yrKvNXzgykp5iefZe8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Little Pear](https://open.spotify.com/album/3gDSGSwgXRpvo3TebePUBI) | 2:20 | 2022-07-08 |  |
+| [The Bishop](https://open.spotify.com/track/67lO2UHi5r7QdXMNUPYfPW) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Little Pear](https://open.spotify.com/album/0qLbDC62Vx1MUqfABRFd22) | 2:20 | 2023-01-20 |  |
+| [The Bishop](https://open.spotify.com/track/6vA5yrKvNXzgykp5iefZe8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Little Pear](https://open.spotify.com/album/3gDSGSwgXRpvo3TebePUBI) | 2:20 | 2022-07-08 | 2023-02-18 |
 | [The Dolphin \(Cape Town\)](https://open.spotify.com/track/0AjVH1xamDTDWULMtew2yP) | [Caesar](https://open.spotify.com/artist/4iC7eq8CcgMZlXoTS7fCRa) | [Coffeehouse Lounge Vol\. 1](https://open.spotify.com/album/4cIqHyrAQgTlaKoAkZZGBM) | 4:10 | 2022-07-29 | 2022-08-19 |
 | [The Dolphin \(Cape Town\)](https://open.spotify.com/track/1zFs3ysRX61ga7yArV70iz) | [Caesar](https://open.spotify.com/artist/4iC7eq8CcgMZlXoTS7fCRa) | [Coffeehouse Lounge Best Of 2014\-2016](https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA) | 4:10 | 2022-01-12 | 2022-07-29 |
 | [The Infinite Dreamer](https://open.spotify.com/track/43Y7cnIa7LPQrS0afeNATx) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Café Dreamer](https://open.spotify.com/album/6siP7PSQJ6No7B9ZgV8ynZ) | 2:12 | 2022-07-29 | 2022-12-24 |

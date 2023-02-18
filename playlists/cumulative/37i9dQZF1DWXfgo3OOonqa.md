@@ -2,9 +2,9 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> KLASS 2023: STEPH K
+> KLASS 2023
 
-823 songs - 1 day 12 hr 29 min
+824 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/7EGCjCuBiVMBx0RYmCUO1T) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [JB AHSP DEL 2](https://open.spotify.com/album/7JnIVn4bQ3vNUOmI7kyhVY) | 2:31 | 2022-09-01 | 2022-09-23 |
 | [JB X YASIN \- HYRAN ÄR PÅ 50](https://open.spotify.com/track/3tFCYOdbUReTjqB7D3Gf1F) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:52 | 2022-07-08 | 2022-08-05 |
 | [Jeni](https://open.spotify.com/track/0O0DuN2YEF96wZvsQIly2V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:22 | 2022-09-01 | 2022-11-25 |
+| [Jet Li](https://open.spotify.com/track/45rY43qrYZK3CCXgRMUUYb) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Jet Li](https://open.spotify.com/album/31Mzo6dQvNZAfsnyyLZH8Y) | 2:30 | 2023-02-17 |  |
 | [Joker](https://open.spotify.com/track/0g4CTDdkSQ2YbpM8ElnNqg) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6) | [Joker](https://open.spotify.com/album/32Lkj8gC7FsN1Gg9Zn2gcS) | 2:56 | 2022-11-10 | 2022-11-25 |
 | [Jungel](https://open.spotify.com/track/1mOHXk057Y2K322MbkB6cW) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Allt jag har](https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2) | 3:19 | 2022-05-05 | 2022-05-20 |
 | [Jungle](https://open.spotify.com/track/4X5TqfN0xbQu2dhMQm121v) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [Jungle](https://open.spotify.com/album/118mQM0CZ88qckLDdus11K) | 2:22 | 2023-01-26 | 2023-02-17 |
@@ -584,7 +585,7 @@
 | [Parana](https://open.spotify.com/track/77hThkgpdeGMelIJHo0BYp) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Parana](https://open.spotify.com/album/7l1GggbF5ZwDII6wVEBfgx) | 2:14 | 2022-05-05 | 2022-05-27 |
 | [Paranoia](https://open.spotify.com/track/6MJkTZ9Js0MdzdMe6G3pfz) | [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Malika](https://open.spotify.com/artist/3FmUPwwRC8VgtksNUyPa6e) | [Paranoia](https://open.spotify.com/album/0nCYVd2cZ6jawjRMFqCqoa) | 2:46 | 2022-08-05 | 2022-08-26 |
 | [Partner \(feat\. Aleksej\)](https://open.spotify.com/track/4eeaLsWKGiqZIUcrByHGPd) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G), [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [Partner \(feat\. Aleksej\)](https://open.spotify.com/album/4WRY0N4iMUn3ckYbd1QL54) | 2:29 | 2022-10-27 | 2022-11-25 |
-| [Partner \(feat\. Aleksej\)](https://open.spotify.com/track/7dv79D4TwkbZCaKJZaMBph) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G), [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:29 | 2023-02-16 |  |
+| [Partner \(feat\. Aleksej\)](https://open.spotify.com/track/7dv79D4TwkbZCaKJZaMBph) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G), [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:29 | 2023-02-16 | 2023-02-18 |
 | [Pay Day](https://open.spotify.com/track/5mA3OkfsPFhqjrm6VmZjQn) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO II](https://open.spotify.com/album/6jExdpIV7Jp9g0GpccI21M) | 2:49 | 2022-11-24 | 2023-01-20 |
 | [Pengamotiv](https://open.spotify.com/track/2HQnQODxqlfaWDVTwlRZZb) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Pengamotiv](https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb) | 2:51 | 2022-08-20 | 2022-10-28 |
 | [PENGAR](https://open.spotify.com/track/6nJ3Y7V8mEyb9ulnvjJ6QA) | [Ramme](https://open.spotify.com/artist/4cfDtFjU2V9lf0UsvRiqBA) | [PENGAR](https://open.spotify.com/album/0nGMjvtR0NTsl6NaWuJ7HD) | 3:07 | 2022-01-19 | 2022-02-01 |

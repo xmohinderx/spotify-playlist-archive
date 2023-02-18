@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "The Melody of the Fire",
+        "url": "https://open.spotify.com/album/4Zp90zU8T7kKMm5doGdUb6"
+      },
+      "artists": [
+        {
+          "name": "Fire Chemistry",
+          "url": "https://open.spotify.com/artist/6lLPRRXGQ0vvSV3xCk5j9C"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160590,
+      "name": "The Melody of the Fire",
+      "url": "https://open.spotify.com/track/2susFLmxFb3PpfngNrukOP"
+    },
+    {
+      "album": {
         "name": "Sheltering Fireplace (Binaural 3D Audio)",
         "url": "https://open.spotify.com/album/2AW54xhxqcySF33psC6NDu"
       },

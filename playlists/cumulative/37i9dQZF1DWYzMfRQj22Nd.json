@@ -264,7 +264,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 248275,
       "name": "Alive (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/37CytueQufCf2eqzuN8xQA"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 213488,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV"
@@ -4137,6 +4137,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n"
+      },
+      "artists": [
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224827,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL"
+    },
+    {
+      "album": {
         "name": "Lifelong",
         "url": "https://open.spotify.com/album/5jVumsoT4hQrJ19N2OXiOT"
       },
@@ -5044,6 +5066,24 @@
       "duration_ms": 223448,
       "name": "Offender",
       "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "album": {
@@ -6128,7 +6168,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 218470,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DTk1207Efq0HBUEYmbcTB"
@@ -7576,6 +7616,28 @@
       "duration_ms": 229997,
       "name": "What You Mean 2 Me",
       "url": "https://open.spotify.com/track/0x793wJ65lAhUZ6HQ0DD8Z"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Where Do We Go (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
     },
     {
       "album": {

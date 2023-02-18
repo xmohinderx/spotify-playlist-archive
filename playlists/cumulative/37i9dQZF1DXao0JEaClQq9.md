@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> if it feels ethereal, it's here\. cover: Kimbra
+> if it feels ethereal, it's here\. cover: Feist
 
-482 songs - 1 day 5 hr 58 min
+484 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Ask the Mountains](https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 7:53 | 2021-10-08 | 2022-04-19 |
 | [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 | 2022-09-09 | 2022-10-03 |
 | [Babyyy](https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Really Hot](https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx) | 1:46 | 2021-06-03 |  |
-| [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-14 | 2023-02-15 |
+| [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-14 |  |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-17 |  |
 | [Beautiful](https://open.spotify.com/track/5KgHHyIkSf7NBYllVJfhJF) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Beautiful](https://open.spotify.com/album/4HdbjrrLN9BjHfmtZ1riof) | 3:31 | 2021-07-19 | 2022-07-20 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-09-30 | 2022-11-20 |
@@ -76,8 +76,9 @@
 | [Breathless](https://open.spotify.com/track/179YXh5spiRaUDJihittPG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Breathless](https://open.spotify.com/album/63hYfwhXFIKNfVPunKy5de) | 3:02 | 2021-06-03 | 2022-04-21 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-01-28 | 2022-04-23 |
 | [BRUiiSE](https://open.spotify.com/track/09VPvD4ZZH18kczzJRaWbZ) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [BRUiiSE](https://open.spotify.com/album/0UZ9wd9bHZmAr9dxOE2QGy) | 3:23 | 2021-06-03 | 2022-07-27 |
-| [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 |  |
+| [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 | 2023-02-18 |
 | [Butterfly](https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:12 | 2021-10-08 | 2022-05-14 |
+| [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 | 2023-02-17 |  |
 | [Bystanders \(in space\)](https://open.spotify.com/track/0OUCDV4CjuCULrXar3KbAf) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Bystanders \(in space\)](https://open.spotify.com/album/1fB3W1t6xcfojQHzUF42uu) | 4:30 | 2021-11-12 | 2022-04-22 |
 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 |  |
 | [CALL ME \(Freestyle\)](https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [CALL ME \(Freestyle\)](https://open.spotify.com/album/1uveV0oi9gareah57tZdoL) | 3:05 | 2021-06-03 | 2022-06-04 |
@@ -90,7 +91,7 @@
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2021-06-03 | 2022-05-20 |
 | [Chaeri](https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Chaeri](https://open.spotify.com/album/0oaj14xWeAaya1H1BF9MLC) | 4:17 | 2021-07-01 | 2022-07-29 |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2021-06-03 |  |
-| [Childhood](https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN) | 4:10 | 2022-10-14 |  |
+| [Childhood](https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN) | 4:10 | 2022-10-14 | 2023-02-18 |
 | [Chimera](https://open.spotify.com/track/6E9X8hu59nOVjGvElKj7cd) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [HANA](https://open.spotify.com/album/56kky0KAbYN7a9LzwjeMOm) | 5:56 | 2021-06-03 | 2022-07-18 |
 | [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 | 2021-10-08 | 2022-04-20 |
 | [Cisgender](https://open.spotify.com/track/0lS7L1m0o6ffxIEYwddUde) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Cisgender](https://open.spotify.com/album/2wjKNzKnXFonVmH6OZJgmH) | 5:05 | 2021-11-12 | 2022-04-21 |
@@ -198,6 +199,7 @@
 | [Herem](https://open.spotify.com/track/6mZv6d4sOUdzDadXNMqZwa) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 7:21 | 2022-06-24 | 2022-07-05 |
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2021-06-03 |  |
 | [Hideous](https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Hideous](https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0) | 4:23 | 2022-06-03 | 2022-07-27 |
+| [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-17 |  |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2021-09-24 | 2022-04-18 |
 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-28 | 2022-11-24 |
 | [High and Lonely](https://open.spotify.com/track/2iXTMlZtsssbctAMHvr2FJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [High and Lonely](https://open.spotify.com/album/6O2xYlcjEFDKZ4RanVJ0Ky) | 3:27 | 2021-10-22 | 2022-04-22 |
@@ -293,7 +295,7 @@
 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-20 | 2022-06-19 |
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-04-08 | 2022-05-30 |
 | [Mystery Boy](https://open.spotify.com/track/6ku5XgDT9HCf9s8Hw0nC66) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Mystery Boy](https://open.spotify.com/album/1mvC41Bw6HDEikypZ0U5T3) | 3:09 | 2021-10-08 | 2022-07-29 |
-| [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 | 2023-01-27 |  |
+| [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 | 2023-01-27 | 2023-02-18 |
 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao) | 2:34 | 2023-01-27 | 2023-02-02 |
 | [Never Get To Fuck Any1](https://open.spotify.com/track/1PPJitPB8C3JWJouTgYrwB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Never Get To Fuck Any1](https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x) | 2:24 | 2021-09-24 | 2022-06-01 |
 | [neverend](https://open.spotify.com/track/4uaaTw9zjr51URmFk3WTi3) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [neverend](https://open.spotify.com/album/59apC5reODbyI6NSFVHPli) | 4:26 | 2022-05-20 | 2022-06-03 |

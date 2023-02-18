@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-769 songs - 1 day 18 hr 43 min
+770 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [gave u luv](https://open.spotify.com/track/3kDkGNORk1ZNuzaqg2UrTj) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [gave u luv](https://open.spotify.com/album/3SpjbsoFNp9B9JNLjTNwjQ) | 2:33 | 2021-03-27 | 2021-04-13 |
 | [Genius](https://open.spotify.com/track/73F87Sqh6jQWucOOvz1WFx) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [Genius](https://open.spotify.com/album/584bDi8WFob5wKP5XLbJK4) | 3:33 | 2021-05-22 | 2021-05-26 |
 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 | 2019-09-29\* | 2021-03-14 |
+| [Get Along \(With the Groove\)](https://open.spotify.com/track/69iucb7EFeICfSjgzJgyVp) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Vibe Trillionaires](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Get Along \(With the Groove\)](https://open.spotify.com/album/1QvBwRmjvnfuiuZ61vdoir) | 2:56 | 2023-02-17 |  |
 | [Get It And Go \(feat\. Blakk Soul\)](https://open.spotify.com/track/3YM0cB0vPawa2G9r35k4Fg) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [Blakk Soul](https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S) | [Get It And Go \(feat\. Blakk Soul\)](https://open.spotify.com/album/1v7zQNq26IRUM3KJWV4g3L) | 2:58 | 2021-03-14 | 2021-04-03 |
 | [Get It, Get It](https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [MAKEBA](https://open.spotify.com/artist/298U4nSkh4Zbb68nPuBYTn), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:10 | 2021-12-20 | 2022-07-06 |
 | [GET UP](https://open.spotify.com/track/51mhilUS9gAjguYyuNj3O4) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [METAL / GET UP](https://open.spotify.com/album/191QDT6Y0tN7GPYjR1vG4k) | 2:41 | 2021-04-26 | 2021-08-25 |

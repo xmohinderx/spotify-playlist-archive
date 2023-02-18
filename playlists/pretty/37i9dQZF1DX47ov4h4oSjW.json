@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104304,
+  "num_followers": 104302,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMDJhMjM5YTM2NDc5Njk4MDI4MWFmODNkYTE0ZWUwN2Mw",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMGMxMTE3ZTEyNDU5ZWEzNjI5MjY4YThlMDc4ZWVmZTcw",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Home full of solipsism",
-        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Home full of solipsism",
-      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Un Lent Mouvement",
-        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+        "name": "Home full of solipsism",
+        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
       },
       "artists": [
         {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
         }
       ],
-      "duration_ms": 161624,
-      "name": "Un Lent Mouvement",
-      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+      "duration_ms": 177882,
+      "name": "Home full of solipsism",
+      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -539,6 +523,22 @@
       "duration_ms": 96500,
       "name": "For Stormboy",
       "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Un Lent Mouvement",
+        "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 161624,
+      "name": "Un Lent Mouvement",
+      "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Dolce",
-        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Tuesday Rain",
-        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
       "artists": [
         {
-          "name": "Tjeerd Oosterhuis",
-          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 108849,
-      "name": "Tuesday Rain",
-      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
+      "duration_ms": 143011,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Tuesday Rain",
+        "url": "https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "duration_ms": 108849,
+      "name": "Tuesday Rain",
+      "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Lizards play",
-        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 146569,
-      "name": "Lizards play",
-      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "For\u00eat Profonde",
         "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 187382,
       "name": "For\u00eat Profonde",
       "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Lizards play",
+        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 146569,
+      "name": "Lizards play",
+      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Merveilleuse",
-        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
-      },
-      "artists": [
-        {
-          "name": "Valeria Henkel",
-          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
-        }
-      ],
-      "duration_ms": 121063,
-      "name": "Merveilleuse",
-      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Merveilleuse",
+        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
+      },
+      "artists": [
+        {
+          "name": "Valeria Henkel",
+          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
+        }
+      ],
+      "duration_ms": 121063,
+      "name": "Merveilleuse",
+      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Unyielding Faith",
-        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
-      },
-      "artists": [
-        {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Unyielding Faith",
-      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Unyielding Faith",
+        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Unyielding Faith",
+      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
-      },
-      "artists": [
-        {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "The Melody At Night, With You",
-        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
         }
       ],
-      "duration_ms": 344693,
-      "name": "I Loves You Porgy",
-      "url": "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 271610,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "The Melody At Night, With You",
+        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 344693,
+      "name": "I Loves You Porgy",
+      "url": "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
     },
     {
       "added_at": "2023-01-26 21:00:00",

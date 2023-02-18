@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 | 2023-02-03 |  |
+| [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 | 2023-02-03 |  |
 | [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 | 2022-08-05 | 2022-12-22 |
 | [Adolescence](https://open.spotify.com/track/5wiN2xtxIthUK9RokrTRRo) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Nostalgia](https://open.spotify.com/album/2n2Ob4KJu14O6zjSsaK8hl) | 3:54 | 2022-11-02 | 2022-11-13 |
 | [Adore me](https://open.spotify.com/track/7BZOrVN1JyV5uNbQicYHK6) | [山崎エリイ](https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e) | [Adore me](https://open.spotify.com/album/2hWqJDQNpjwUgJaIAPoJbn) | 3:51 | 2023-02-14 |  |

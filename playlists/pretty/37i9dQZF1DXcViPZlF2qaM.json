@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 39007,
+  "num_followers": 39053,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMDY1NWUxNzA2MWI2MDdhZWU4OTAyZjJjZjhjZmU1YjE4",
+  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMGQxZWE2NzFiMjllY2RmZGFjMWVhYWY4YjQ5YjQ3NDZm",
   "tracks": [
     {
       "added_at": "2022-12-20 21:43:10",
@@ -977,6 +977,26 @@
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
+      "added_at": "2022-09-02 06:00:17",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Otros Colores",
@@ -1031,22 +1051,6 @@
       "duration_ms": 166172,
       "name": "Supersticioso",
       "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
-    },
-    {
-      "added_at": "2022-03-30 19:53:15",
-      "album": {
-        "name": "Cantos revolucionarios de america latina",
-        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
-      },
-      "artists": [
-        {
-          "name": "Soledad Bravo",
-          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "Hasta siempre",
-      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-161 songs - 16 hr 34 min
+162 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Aslaf](https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk) | [Homeboyz](https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Ifarada](https://open.spotify.com/album/6HAEQocvyO7btHXW1cfBCf) | 6:24 | 2022-04-13 | 2022-09-30 |
 | [Ayessi \- Philou Louzolo Remix](https://open.spotify.com/track/3igI5hy1FFGsIPrD8Nu3Bg) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Ayessi Remixes](https://open.spotify.com/album/2EPzcPRlQi389PMXYiymoI) | 7:15 | 2022-07-21 |  |
 | [Badawi](https://open.spotify.com/track/6E7JarTA0Y68vPlLg36DJ8) | [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp), [Jerry Spoon](https://open.spotify.com/artist/0m6eNLtH4LgmXWq9Sz5d0j) | [Badawi](https://open.spotify.com/album/6S5hgVcimdXh5Zm9VTtHxk) | 5:12 | 2022-04-13 |  |
-| [Baglami](https://open.spotify.com/track/159mYyAervSmRxUdyEaOdq) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/4EK46NYAw0L0GQ8z1MjmRr) | 5:30 | 2022-12-06 |  |
+| [Baglami](https://open.spotify.com/track/159mYyAervSmRxUdyEaOdq) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/4EK46NYAw0L0GQ8z1MjmRr) | 5:30 | 2022-12-06 | 2023-02-18 |
+| [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 | 2023-02-02 |  |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-04-13 |  |
 | [Basari \- Amine K Remix](https://open.spotify.com/track/6m8jwfpf7ge0Dddsjp1pvS) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari \(Amine K Remix\)](https://open.spotify.com/album/1B40rgdqojSsyJqIiU4UHY) | 6:08 | 2022-05-26 |  |
 | [Bedouin Joy](https://open.spotify.com/track/2OKfAtj6fTgJRghXn2pxm0) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [Bedouin Joy](https://open.spotify.com/album/0aQ18bNVPwUapOiUIG3i4W) | 6:13 | 2022-04-13 |  |

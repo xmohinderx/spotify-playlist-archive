@@ -840,7 +840,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 196173,
       "name": "No Te Mereces",
       "url": "https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l"
@@ -1000,6 +1000,28 @@
       "duration_ms": 204440,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/3xFkUmXxESoJFwZGMnNg9u"
+    },
+    {
+      "album": {
+        "name": "Salud",
+        "url": "https://open.spotify.com/album/5JNU0nnxQ12Do72Bt8eVYk"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147160,
+      "name": "Salud",
+      "url": "https://open.spotify.com/track/4s5k54Ow9O6szycXuhaipW"
     },
     {
       "album": {

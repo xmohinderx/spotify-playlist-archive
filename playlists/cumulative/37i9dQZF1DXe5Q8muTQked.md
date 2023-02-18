@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-631 songs - 1 day 14 hr 54 min
+632 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 | 2021-10-20 |  |
 | [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2022-06-10 | 2023-02-15 |
 | [Let Her Go](https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/6zUsMpfw5Nif1o0kYtidiR) | 2:52 | 2021-10-20 | 2022-04-28 |
+| [Let Her Go](https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:52 | 2022-06-10 |  |
 | [Let It Be](https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:30 | 2021-10-20 |  |
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2021-10-20 |  |
 | [Let It Go](https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Let It Go](https://open.spotify.com/album/1Qz3RQIIaZFs53H51f0oMD) | 4:04 | 2021-10-20 | 2022-05-28 |
@@ -637,7 +638,7 @@
 | [Young Blood](https://open.spotify.com/track/21p4Uy5InzgMtt0pkG8GAB) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Play One We All Know](https://open.spotify.com/album/1Jd4UQffKhLShgcaAMYST0) | 3:40 | 2021-10-20 | 2022-07-29 |
 | [Young Blood](https://open.spotify.com/track/55vRRMeqFHmqQ2uFbZ6bOL) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Play One We All Know](https://open.spotify.com/album/091vPKWsx2zU6RSfD2FZcZ) | 3:40 | 2022-06-10 |  |
 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 | 2021-10-20 |  |
-| [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 | 2022-06-10 |  |
+| [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 | 2022-06-10 | 2023-02-18 |
 | [Zombie](https://open.spotify.com/track/5F0oU6oawDaAdNAaRX0I8z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/6VqpduiWt7ODKTCm03RZJf) | 3:22 | 2021-10-20 | 2022-07-03 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

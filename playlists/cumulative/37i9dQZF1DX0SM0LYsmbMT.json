@@ -1661,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Airball",
+        "url": "https://open.spotify.com/album/2balv45OFNU8x50gmXUFYn"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Airball",
+      "url": "https://open.spotify.com/track/54zP26HCJ1PBnAwp0kpE1Y"
+    },
+    {
+      "album": {
         "name": "linus | aire",
         "url": "https://open.spotify.com/album/3dUwhT5ZK7IAdbtkwkHIY8"
       },
@@ -21524,7 +21546,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 147720,
       "name": "Glissade",
       "url": "https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR"
@@ -29346,7 +29368,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178500,
       "name": "Kanaan",
       "url": "https://open.spotify.com/track/5G5nj9Ie8asmAQp8b1JS2I"
@@ -49522,7 +49544,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 148306,
       "name": "Sandy Beach",
       "url": "https://open.spotify.com/track/2b95n76DJVE8RkFtLLtnrS"

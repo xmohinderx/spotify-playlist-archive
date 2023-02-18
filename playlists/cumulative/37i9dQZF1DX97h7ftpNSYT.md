@@ -4,7 +4,7 @@
 
 > Taking it back to the 2010s\. Cover: Nipsey Hussle
 
-590 songs - 1 day 11 hr 1 min
+591 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [lose](https://open.spotify.com/track/2AGUFka8kBWCM47h5uTlDb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:20 | 2022-03-20 | 2022-04-13 |
 | [Lottery \(Renegade\)](https://open.spotify.com/track/4dZTZbmJBCCofAExHwefda) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Wayy 2 Kritical](https://open.spotify.com/album/6Z8fenVdNwyQZ9iBFkNyKZ) | 2:50 | 2022-04-13 | 2022-04-20 |
 | [Lotus Flower Bomb \(feat\. Miguel\)](https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 3:33 | 2021-09-03 | 2022-01-27 |
-| [Love Somebody](https://open.spotify.com/track/3uraOG1IkQZUhYiblPTNac) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Thugg](https://open.spotify.com/artist/6s2PAhysMWjWh8f5nF9LCo) | [Brick Factory Vol 1](https://open.spotify.com/album/4M0XASCcGYb4qqagBCJ9tu) | 3:32 | 2023-02-14 |  |
+| [Love Somebody](https://open.spotify.com/track/3uraOG1IkQZUhYiblPTNac) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Thugg](https://open.spotify.com/artist/6s2PAhysMWjWh8f5nF9LCo) | [Brick Factory Vol 1](https://open.spotify.com/album/4M0XASCcGYb4qqagBCJ9tu) | 3:32 | 2023-02-14 | 2023-02-18 |
+| [Love Somebody \(feat\. Young Thug\)](https://open.spotify.com/track/48ajXgWAXmeK5AqvAla7zG) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Brick Factory, Vol\. 1](https://open.spotify.com/album/2GApi8AmvIOCez3gbEwxk2) | 3:32 | 2023-02-14 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-07-01 |  |
 | [Love Sosa](https://open.spotify.com/track/4IowQDUOzUvNtp72HMDcKO) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 4:06 | 2021-09-03 | 2022-07-29 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2021-09-03 | 2022-04-14 |

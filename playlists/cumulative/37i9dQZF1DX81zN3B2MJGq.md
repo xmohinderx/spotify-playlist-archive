@@ -4,7 +4,7 @@
 
 > Come on a wild ride through <a href="spotify:artist:4Ws2otunReOa6BbwxxpCt6">Benny Benassi</a>'s hits and selections!
 
-16 songs - 1 hr 3 min
+17 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Chromatic \- Mixed](https://open.spotify.com/track/6PSwrxDbi48IbDP2bK6IkR) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic \(Mixed\)](https://open.spotify.com/album/0OjH2qqbzCCok4zEb4omy1) | 4:48 | 2022-09-19 |  |
 | [Cinema \(feat\. Gary Go\) \- Galantis Remix \- Mixed](https://open.spotify.com/track/2ducWFVnvBoCkTniL4ZVOe) | [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Cinema \(feat\. Gary Go\) \- Galantis Remix \[Mixed\]](https://open.spotify.com/album/70pKztpB9Ya1Pd78EyDpHy) | 2:56 | 2022-09-19 |  |
 | [Close To You \(feat\. Domino\) \- Mixed](https://open.spotify.com/track/43LFhLyccR8yvMZWYmTlxn) | [Domino](https://open.spotify.com/artist/2zqeXK0XOiBRC2e6doSIrN), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Close To You \(feat\. Domino\) \[Mixed\]](https://open.spotify.com/album/6aupQgVkaYI4qULb5bnlKI) | 3:07 | 2022-09-19 |  |
-| [Dance \- Mixed](https://open.spotify.com/track/4Nbwrx3S1a1yWwiJ3KFlkD) | [Zanjma](https://open.spotify.com/artist/53gwozfdRGVTjJapLWJUQy), [Haze\-M](https://open.spotify.com/artist/2bExjraDTchNnGtxECSQSn) | [Dance \(Mixed\)](https://open.spotify.com/album/5GXuqTO1CA5pkCkskGgheD) | 3:52 | 2022-09-19 |  |
+| [Dance \- Mixed](https://open.spotify.com/track/21N7euh48AETA6lgGwqrjP) | [Zanjma](https://open.spotify.com/artist/53gwozfdRGVTjJapLWJUQy), [Haze\-M](https://open.spotify.com/artist/2bExjraDTchNnGtxECSQSn) | [Dance \(Mixed\)](https://open.spotify.com/album/2kZLb4SrJpToNyyb2cJBAj) | 3:52 | 2022-09-19 |  |
+| [Dance \- Mixed](https://open.spotify.com/track/4Nbwrx3S1a1yWwiJ3KFlkD) | [Zanjma](https://open.spotify.com/artist/53gwozfdRGVTjJapLWJUQy), [Haze\-M](https://open.spotify.com/artist/2bExjraDTchNnGtxECSQSn) | [Dance \(Mixed\)](https://open.spotify.com/album/5GXuqTO1CA5pkCkskGgheD) | 3:52 | 2022-09-19 | 2023-02-18 |
 | [Don't Forget My Love \- John Summit Remix \- Mixed](https://open.spotify.com/track/6O9NqVCKfgpwFFtYV9CcMN) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Don't Forget My Love \- John Summit Remix \(Mixed\)](https://open.spotify.com/album/4NJbPzGiBCPJC0rgAc6FuE) | 3:51 | 2022-09-19 |  |
 | [Don’t Keep Me Waiting \- Mixed](https://open.spotify.com/track/0nCUZenxG8YFep6v64V9lJ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting \(Mixed\)](https://open.spotify.com/album/6bHk1lT7GPemfikep4ATaz) | 3:49 | 2022-09-19 |  |
 | [Escape \(feat\. Hayla\) \- Mixed](https://open.spotify.com/track/0fBVqac8RVkQbGrGBls3gI) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Mixed\]](https://open.spotify.com/album/7HJe31bY6MogRfAfIh5pMp) | 3:50 | 2022-09-19 | 2022-10-07 |

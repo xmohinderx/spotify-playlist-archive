@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-112 songs - 5 hr 58 min
+114 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 | 2022-10-11 |  |
 | [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 | 2022-10-11 |  |
 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 | 2022-10-11 |  |
-| [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 |  |
+| [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2023-02-18 |
+| [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2023-02-14 |  |
 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 | 2022-10-11 |  |
 | [No Love](https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/0DMtWYAnYSKxRA65AHlODV) | 2:57 | 2022-10-11 |  |
 | [no one else](https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Alys](https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [no one else](https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG) | 2:18 | 2022-10-11 |  |
@@ -103,7 +104,8 @@
 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 | 2022-10-11 |  |
 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 | 2022-10-11 |  |
 | [The Perks of Being a Wallflower](https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:12 | 2022-10-11 |  |
-| [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 | 2022-10-11 |  |
+| [The Sea](https://open.spotify.com/track/4LiegagyTpRT7uo2yvg0lw) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/3lZaB3KINJrV4fUISB39nc) | 2:45 | 2023-02-14 |  |
+| [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 | 2022-10-11 | 2023-02-18 |
 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 | 2022-10-11 |  |
 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 | 2022-10-11 |  |
 | [twilight](https://open.spotify.com/track/6rQbjszPzjL2Z11W1iQsSN) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [新しき光](https://open.spotify.com/album/7dIFqMgQwoK5p3znhbGOFt) | 8:39 | 2022-10-11 | 2022-11-13 |

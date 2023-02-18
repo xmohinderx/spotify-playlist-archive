@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-988 songs - 2 day 3 hr 52 min
+989 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [Re\-sepp\-ten \- VM\-sang 1986](https://open.spotify.com/track/6UPcylAJnEKnRanHyL64Qb) | [VM Holdet](https://open.spotify.com/artist/6zY5uObMbO0Snvp5jBYIdL), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Re\-Sepp\-Ten](https://open.spotify.com/album/1HHi8g9utUPTiy3vsOnAgF) | 5:23 | 2021-06-13 | 2022-11-29 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-10-10 | 2021-10-11 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-04 |
-| [Renæssance \(feat\. Jimilian\)](https://open.spotify.com/track/287uPxWhUGvBwy5e9qi1jK) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:37 | 2023-02-11 |  |
+| [Renæssance \(feat\. Jimilian\)](https://open.spotify.com/track/287uPxWhUGvBwy5e9qi1jK) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:37 | 2023-02-11 | 2023-02-18 |
 | [Rewind](https://open.spotify.com/track/1Ra5pMInPLGAHsyWSRKl5Y) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:09 | 2022-02-19 | 2022-02-21 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-01-22 |
@@ -856,6 +856,7 @@
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-09 | 2023-02-12 |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/2B42WBdF3IIcSazFD9BtvP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/album/0nqwOpcQxj5OirkQL0OOeb) | 2:10 | 2022-02-05 | 2022-02-20 |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/4GItDZYNSfmGSdDreKHJKt) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:10 | 2022-02-19 | 2022-03-22 |
+| [Sut](https://open.spotify.com/track/3AlyvahmhKPbi1vMnalfXe) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Sut](https://open.spotify.com/album/2hps5XjwPVH1fFi8UBeDW8) | 1:33 | 2023-02-17 |  |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-27 |
 | [Så Er Der Mål](https://open.spotify.com/track/6K5EM3QuhA2fUUIHj8DTPO) | [Ekspressen](https://open.spotify.com/artist/6iEtDs1Kp1FvrLlKTZ1BvS), [Kandis](https://open.spotify.com/artist/36EOFeq5ZtWgYULc9SbEbL) | [Så Er Der Mål](https://open.spotify.com/album/1tuqY5vYnLsD8np9ENReAU) | 3:10 | 2021-07-05 | 2021-07-10 |
 | [Så Længe Vi Danser](https://open.spotify.com/track/3UmiG6X4JZsT4YqKNRZkvS) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [4 Til Gulvet](https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD) | 3:16 | 2023-01-01 | 2023-01-03 |

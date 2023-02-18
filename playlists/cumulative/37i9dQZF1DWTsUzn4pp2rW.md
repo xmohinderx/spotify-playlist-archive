@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-263 songs - 17 hr 1 min
+264 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [I'm Alive](https://open.spotify.com/track/1HnAHTqxft8BhqvNYiGrSF) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Pick Me Up Off The Floor \(Deluxe Edition\)](https://open.spotify.com/album/6Qlru4pwL5Xf6zp0syH6RU) | 4:16 | 2022-02-08 | 2022-12-09 |
 | [If I'd Had Your Heart](https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U) | [Untitled](https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE) | [Reverie](https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt) | 3:49 | 2022-07-14 | 2022-11-25 |
 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 | 2021-11-19 | 2022-07-29 |
-| [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-11-24 |  |
+| [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-11-24 | 2023-02-18 |
 | [In Too Deep](https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [The Best of George White Group](https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P) | 4:08 | 2021-11-19 | 2022-11-25 |
 | [Infant Eyes \- Edit](https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd) | 6:29 | 2022-07-14 | 2022-11-25 |
 | [Infant Eyes \- Edit](https://open.spotify.com/track/51WaGUFBND6XOLcJ1HcP7Y) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/7anJAMptW5jyQ9bbnZFe9g) | 6:29 | 2021-11-19 | 2022-07-29 |
@@ -271,5 +271,6 @@
 | [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 | 2021-11-19 | 2022-05-18 |
 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 | 2021-11-19 | 2022-10-08 |
 | [Your Hands](https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 4:53 | 2022-11-29 | 2023-01-30 |
+| [Your Hands](https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 4:53 | 2023-02-16 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

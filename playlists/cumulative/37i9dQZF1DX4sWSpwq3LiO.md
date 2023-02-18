@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,546 songs - 2 day 20 hr 58 min
+1,548 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2021-02-09 | 2022-05-21 |
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-11-09 | 2023-02-11 |
 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 | 2019-05-26\* | 2019-12-17 |
+| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-02-17 |  |
 | [Filotimo](https://open.spotify.com/track/0OH6fMcg4oou7KXzPOXMpi) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Filotimo](https://open.spotify.com/album/4NGpNr0NnKlLYsG26uTLu6) | 2:13 | 2019-10-22 | 2021-05-27 |
 | [Fin](https://open.spotify.com/track/2rK5aTaCfPoSX0TqAW5YgV) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:11 | 2019-05-26\* | 2020-02-11 |
 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 | 2019-08-30 | 2020-11-17 |
@@ -982,6 +983,7 @@
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-02-16 |  |
 | [Photograph](https://open.spotify.com/track/19qQLskmsiVPAGspwfwGGd) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Photograph](https://open.spotify.com/album/32L7KIzzmOAmcg2slINDlK) | 4:36 | 2021-08-12 | 2021-09-09 |
 | [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 | 2021-09-01 | 2022-11-22 |
+| [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 | 2023-02-17 |  |
 | [Pinwheel](https://open.spotify.com/track/3nuQ5Tlfw4Mpl3dgkNY8qu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1](https://open.spotify.com/album/6nN0rcQ7C1JvZl2RiK0lt5) | 2:35 | 2019-08-08 | 2020-01-08 |
 | [Pinô](https://open.spotify.com/track/2Ai5UUXyxaulVbompgrzlo) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:45 | 2019-07-25 | 2020-03-31 |
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2020-08-04 | 2020-09-22 |

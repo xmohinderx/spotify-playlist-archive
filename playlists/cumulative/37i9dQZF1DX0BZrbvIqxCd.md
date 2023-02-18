@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-275 songs - 14 hr 38 min
+276 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2020-11-20 |  |
 | [I Forgot You](https://open.spotify.com/track/65fGvQYBCx3MxRf3xInWQQ) | [Divided Minds](https://open.spotify.com/artist/4zq1xzOD2RDkK3xaEZBBD5) | [Mood Swings](https://open.spotify.com/album/2y4c1nPI20tiTLNk3DUuRx) | 3:04 | 2020-11-20 | 2022-07-29 |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2020-11-20 |  |
-| [I Just Died in Your Arms](https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT) | 3:13 | 2020-11-20 |  |
+| [I Just Died in Your Arms](https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT) | 3:13 | 2020-11-20 | 2023-02-18 |
 | [I Just Died In Your Arms](https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot Out The Door](https://open.spotify.com/album/5uzCd2bpYjeUrgMr03JuTU) | 3:13 | 2020-11-20 | 2022-07-28 |
 | [I Just Died in Your Arms](https://open.spotify.com/track/6M4FDzgFwe4FWq0rg8F6yC) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/3QJSNGea4CXBecqJUhEJ2Q) | 3:13 | 2020-11-20 | 2022-10-18 |
 | [i luv that u hate me](https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [i luv that u hate me](https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65) | 3:41 | 2020-11-20 | 2022-11-13 |
@@ -224,6 +224,7 @@
 | [Sleeping In](https://open.spotify.com/track/0FNPI9jhoho8rZL1J7WK1v) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/1R0iib5X5CBzq2jYYfhFYf) | 3:00 | 2020-11-20 | 2022-07-29 |
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2020-11-20 |  |
 | [Smash Shit Up](https://open.spotify.com/track/21QpuibkIZywkkDQoAz3eh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Smash Shit Up](https://open.spotify.com/album/3FBUqLBuO2tUqfZiNbuwj3) | 3:49 | 2020-11-20 | 2022-05-21 |
+| [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2020-11-20 |  |
 | [So Far Gone](https://open.spotify.com/track/34BZplPGP62rkyzCaoH7tK) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [So Far Gone](https://open.spotify.com/album/3oF7uik9qO9J1tOEi8ijhk) | 3:05 | 2020-11-20 | 2022-07-29 |
 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 | 2020-11-20 |  |
 | [So Poetic](https://open.spotify.com/track/75hyY0jy2Q2ejgpFc5a5ZC) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/5AejVlzz1IHbh5cqrgH10D) | 3:07 | 2020-11-20 | 2022-07-29 |

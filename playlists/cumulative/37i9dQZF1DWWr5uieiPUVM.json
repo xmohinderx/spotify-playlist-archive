@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Joias Cravejadas",
+        "url": "https://open.spotify.com/album/1kzNudtMHdSwalDSRE5Hfs"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Joias Cravejadas",
+      "url": "https://open.spotify.com/track/5Z9sKrS7BUsjYC1SRpx3WH"
+    },
+    {
+      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr"
       },
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 182068,
       "name": "Papo Reto",
       "url": "https://open.spotify.com/track/2zKo0ACLlB9TOuzeVhMjjq"

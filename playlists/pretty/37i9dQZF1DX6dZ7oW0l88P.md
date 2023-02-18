@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,448 likes - 94 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,562 likes - 94 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 23 | [Snow Crystal](https://open.spotify.com/track/4iKtVAaAwhJedexJ8piPUv) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Snow Crystal](https://open.spotify.com/album/59FudwzUzPzugwSNbeZrf2) | 2:27 |
 | 24 | [Harp of Ambience](https://open.spotify.com/track/4JI4moyqtZxN4U4FAv41v7) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Heavenly Harp Music \(Relaxing Instrumentals\)](https://open.spotify.com/album/4ZAyhGtenHfhLraKj9kYdP) | 4:26 |
 | 25 | [Aurelia's Mermaid](https://open.spotify.com/track/7lSMV8D3zNIM42rxNce0EH) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Aurelia's Mermaid](https://open.spotify.com/album/56DO2vkQEIDNhGudBJc4dr) | 1:53 |
-| 26 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
+| 26 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 |
 | 27 | [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 |
 | 28 | [Gaia](https://open.spotify.com/track/7CwUf0NzKiRlxnMKpQqmEz) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Gaia](https://open.spotify.com/album/0ghmYo7X4pY3p0vwhVpSqk) | 1:48 |
 | 29 | [Harpicious](https://open.spotify.com/track/7c3h8ow3py2JJUtRMpG1sF) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Harpicious](https://open.spotify.com/album/73EzABIPlGC4Etx1DkctDf) | 3:20 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 56 | [Little Flower](https://open.spotify.com/track/5GxaNI9vlgxHnogjQjjZm2) | [Michael Penny](https://open.spotify.com/artist/1rfk3cLafuKhShpgY1xzFq) | [Little Flower](https://open.spotify.com/album/49eMwlV7BaQ6iMVOQb6D4S) | 1:37 |
 | 57 | [Harp Cocoon](https://open.spotify.com/track/12orMw5oRxzeJoFum2fw4J) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Harp Eclectic](https://open.spotify.com/album/7mBQkFc71dtaYwzHGmnZ69) | 3:02 |
 | 58 | [New Moon](https://open.spotify.com/track/2XXEPheFAdxO7foerddfID) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame) | [New Moon](https://open.spotify.com/album/6BXCN3mNXVjVBlmtMuFu6i) | 4:22 |
-| 59 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
+| 59 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 |
 | 60 | [Come Along](https://open.spotify.com/track/0sTXG5pN6SNmIeldiAS5PX) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [Come Along](https://open.spotify.com/album/52ZAk7muo8bcR2WWehJTtL) | 1:52 |
 | 61 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 |
 | 62 | [Cuando Duermes](https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q) | [Ivanna Alvear](https://open.spotify.com/artist/7pvajAY2nsMXGyrJ07Vzp3) | [Cuando Duermes](https://open.spotify.com/album/2HoB1MOxFmSMiQZ5N7OQyN) | 1:23 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 93 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 |
 | 94 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 |
 
-Snapshot ID: `MTY3NjA0MTQ0MSwwMDAwMDAwMDcxNjcxMDQwN2ZkYmFhNDg5NGU0ZTIxMDEzNGViMWVl`
+Snapshot ID: `MTY3NjA0MTQ0MSwwMDAwMDAwMDA4ZjIwNzFlMzlhNjkyZmI3MDU4ZDdjOThhMDNhOGJj`

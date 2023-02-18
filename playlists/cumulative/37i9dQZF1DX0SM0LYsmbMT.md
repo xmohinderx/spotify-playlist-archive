@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,361 songs - 5 day 9 hr 28 min
+3,362 songs - 5 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Aimar](https://open.spotify.com/track/44tYbgLuGYmhrUhGuBGXxv) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Aimar](https://open.spotify.com/album/3lQwzouZQLZqC7kZuI6XuI) | 2:17 | 2020-11-20 | 2021-06-18 |
 | [Air](https://open.spotify.com/track/1b06eTijUE2IvH9BuaHMbS) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Air](https://open.spotify.com/album/3qCT6GsREzPP0DkCA8kLpE) | 2:47 | 2022-03-24 | 2022-11-21 |
 | [Air](https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Air](https://open.spotify.com/album/1WVFnAYt24SDcdv1WZn1Np) | 2:47 | 2022-11-17 |  |
+| [Airball](https://open.spotify.com/track/54zP26HCJ1PBnAwp0kpE1Y) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Airball](https://open.spotify.com/album/2balv45OFNU8x50gmXUFYn) | 2:02 | 2023-02-16 |  |
 | [aire](https://open.spotify.com/track/3a3sVy6yS0SaObQXHFACHh) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [linus \| aire](https://open.spotify.com/album/3dUwhT5ZK7IAdbtkwkHIY8) | 2:32 | 2020-02-22 | 2020-05-20 |
 | [Airmode](https://open.spotify.com/track/0XjhdZLruTHOaVdJ2KhLvv) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/5PLEEcxdBS03aJq52w7MlM) | 2:22 | 2022-12-22 | 2023-01-20 |
 | [Airmode](https://open.spotify.com/track/5sutYbAzYOsOaw3SBWXSOb) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Airmode](https://open.spotify.com/album/4uCZClT1s76MUKHgC3ipMz) | 2:22 | 2022-04-21 | 2022-11-21 |
@@ -1084,7 +1085,7 @@
 | [Gleam](https://open.spotify.com/track/7miAttpnJOeJqJBBvYRxi0) | [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Gleam](https://open.spotify.com/album/34b8MR4NTmiEHArveidQnz) | 1:38 | 2021-10-19 | 2022-04-01 |
 | [Glimmer](https://open.spotify.com/track/4HWBLNWTg51uInk2FLz72Z) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Glimmer](https://open.spotify.com/album/5PgDgNoA9NCxyC0hiB9MhI) | 2:32 | 2020-10-23 | 2021-05-07 |
 | [Glint](https://open.spotify.com/track/4yLh1AgaQhxdgIOhCPAMAp) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Glint](https://open.spotify.com/album/5W4BbFuX8md3xhNHRTfW7g) | 1:52 | 2022-07-07 |  |
-| [Glissade](https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:27 | 2022-11-17 | 2022-11-21 |
+| [Glissade](https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:27 | 2022-11-17 |  |
 | [Glissade](https://open.spotify.com/track/7wckVgqFimHFAQA5GzGSGS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Glissade](https://open.spotify.com/album/3hr8SY2rU7UGqZMAcDpf4j) | 2:27 | 2022-07-14 | 2022-11-20 |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-02 | 2022-06-17 |
 | [Glow](https://open.spotify.com/track/2O0ZxPTJLVj1R8dZ0IjiM7) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Glow](https://open.spotify.com/album/0b5fGd2uojcaID4Zrh5QYI) | 1:57 | 2019-07-24 | 2020-02-11 |
@@ -1471,7 +1472,7 @@
 | [Just Us](https://open.spotify.com/track/1rH0fl85kkL8ySygNMWvRM) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Just Us](https://open.spotify.com/album/4kOYBeJdWzDMmx5xUlt2zK) | 2:03 | 2022-12-22 |  |
 | [Just Wanna Chill](https://open.spotify.com/track/1kkJBPf6QR5s5MZNLFGEcd) | [Dominant](https://open.spotify.com/artist/1KBXaBhFptSB4D7ncgxITI) | [Warm Reminiscence](https://open.spotify.com/album/1NBEZ5CeNONr1WBvFDIlZY) | 3:51 | 2019-05-26\* | 2019-08-13 |
 | [Kali](https://open.spotify.com/track/3RmVFN8tIKjBs1njqNqAG0) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Kali](https://open.spotify.com/album/7xIzIJ9Nj0ENOIPbFH3Cep) | 2:45 | 2020-03-18 | 2020-05-12 |
-| [Kanaan](https://open.spotify.com/track/5G5nj9Ie8asmAQp8b1JS2I) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Kanaan](https://open.spotify.com/album/0pQPM77rhogYLwthkAeOT9) | 2:58 | 2022-02-11 |  |
+| [Kanaan](https://open.spotify.com/track/5G5nj9Ie8asmAQp8b1JS2I) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Kanaan](https://open.spotify.com/album/0pQPM77rhogYLwthkAeOT9) | 2:58 | 2022-02-11 | 2023-02-18 |
 | [karalis](https://open.spotify.com/track/7Jv9vt5HNRhuR5qVI5wthp) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [karalis](https://open.spotify.com/album/7j2c3C4qBP2oTUHqYJ6uHN) | 2:58 | 2019-05-26\* | 2019-06-15 |
 | [Karru](https://open.spotify.com/track/4aytB0kODhqRLnJwdJqUmW) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Karru](https://open.spotify.com/album/4HQOFRq3nTEooj0PkVCtmM) | 2:29 | 2020-01-09 | 2020-05-05 |
 | [Kasimodo](https://open.spotify.com/track/7pgD39CGSkncKQWi2jjVce) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Kasimodo](https://open.spotify.com/album/2dwudUe23WKLnOfeIWfBld) | 1:39 | 2022-04-08 |  |
@@ -2469,7 +2470,7 @@
 | [Sand Castles](https://open.spotify.com/track/2gZo87geU61KDxnWE5fw2L) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Sand Castles](https://open.spotify.com/album/6V9t4zTu5erCTyU8hUWIaj) | 2:05 | 2021-03-19 | 2021-06-04 |
 | [Sandcastle](https://open.spotify.com/track/5o4sk4KHIHbLISuQ7SnKdE) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Sandcastle](https://open.spotify.com/album/6m5MWzSZKFcubFwcL0oMDD) | 1:44 | 2020-04-26 | 2020-07-03 |
 | [sandewish](https://open.spotify.com/track/1GfkXtNVCaWXOjH30MpbXN) | [Bmbu](https://open.spotify.com/artist/0aJgUHSMMS7MxUsRlMpKkR) | [interludes I](https://open.spotify.com/album/4xwj3DpxiWux6MbPwI98Ew) | 1:52 | 2019-08-02 | 2020-01-15 |
-| [Sandy Beach](https://open.spotify.com/track/2b95n76DJVE8RkFtLLtnrS) | [Plastik Beats](https://open.spotify.com/artist/0GMtfdm1l00mugEz2GPmr4) | [Sandy Beach](https://open.spotify.com/album/25vt5kfZte1pUNe7Oo58fW) | 2:28 | 2023-02-16 |  |
+| [Sandy Beach](https://open.spotify.com/track/2b95n76DJVE8RkFtLLtnrS) | [Plastik Beats](https://open.spotify.com/artist/0GMtfdm1l00mugEz2GPmr4) | [Sandy Beach](https://open.spotify.com/album/25vt5kfZte1pUNe7Oo58fW) | 2:28 | 2023-02-16 | 2023-02-18 |
 | [sanguine](https://open.spotify.com/track/7uzagNgci9QO5XqvSjoZIv) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sanguine](https://open.spotify.com/album/114H018LNub4gwqoXcqtoS) | 1:43 | 2022-03-24 | 2022-07-08 |
 | [Santa Anna](https://open.spotify.com/track/1fBdiUETHIpwfekJQON8d9) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Santa Anna](https://open.spotify.com/album/0GotAWeTX5wrTe2lZt7Xso) | 2:00 | 2022-11-17 | 2022-12-02 |
 | [Santa Anna](https://open.spotify.com/track/59qb6in5aDPsgMOzkfEc67) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Santa Anna](https://open.spotify.com/album/4K3ZxGikQt4WuYccm2qeQs) | 2:00 | 2022-11-10 | 2022-11-24 |

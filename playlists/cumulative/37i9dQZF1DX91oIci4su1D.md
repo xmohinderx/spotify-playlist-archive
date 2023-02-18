@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-526 songs - 1 day 8 hr 24 min
+527 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Age of Infinity](https://open.spotify.com/track/66qLxvxlzcgQmxSVr32GhG) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Diago](https://open.spotify.com/artist/6VVgFDLnj2ZW04op59d4iC) | [Age of Infinity](https://open.spotify.com/album/2ewaPVNitzKIvkDu5nuyks) | 3:14 | 2022-04-15 | 2022-11-19 |
 | [Alibi \- Farius Lost In 137 Mix](https://open.spotify.com/track/3QpK4EjLY4NPCshSBcmdwL) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Diversify \(Remixes\)](https://open.spotify.com/album/69BDKGjSgQJoVjPKdjYlH3) | 4:22 | 2021-12-17 | 2022-03-12 |
 | [Alive](https://open.spotify.com/track/48XRakTXOgK2zMGjWoIpxj) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Alive](https://open.spotify.com/album/4SIHp025Lt02gLujQPN2Ta) | 2:58 | 2022-08-05 |  |
+| [All Falls Down](https://open.spotify.com/track/7mbUX7eBTYdN0FNNQqbdyy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Kyle Anson](https://open.spotify.com/artist/0FeeM3GXVth20s0RWfI5rE) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:06 | 2023-02-17 |  |
 | [All I Want](https://open.spotify.com/track/0Xg6Qq6FNmO5GaCD9S8fHY) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [All I Want](https://open.spotify.com/album/6D2PFcFuKxjKocz9GQhBQV) | 2:55 | 2022-11-04 | 2022-12-03 |
 | [All or Nothing](https://open.spotify.com/track/5pUozP7ECHhMLAgRCR9z6y) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [All or Nothing](https://open.spotify.com/album/0Z74bCmcj81sCytlEFDvp2) | 3:29 | 2022-08-19 | 2022-09-03 |
 | [All Over My Skin](https://open.spotify.com/track/5qVkxrb06HPP4t592deVJH) | [EMBERS](https://open.spotify.com/artist/1o4OrJNVM9ZSj0paJaEVxk), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Ava La'Rae](https://open.spotify.com/artist/5qCHujnLBXrf4txu5pTWOm) | [All Over My Skin](https://open.spotify.com/album/1K4I9cTFAZfZw4Kc8hN9vM) | 2:56 | 2021-12-17 | 2022-02-26 |
@@ -317,7 +318,7 @@
 | [My Favourite Mistake](https://open.spotify.com/track/1sPQ7UdfZSeyDWiLCNpzmP) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [My Favourite Mistake](https://open.spotify.com/album/3wx7Cl43qUKymyCUcHij79) | 3:23 | 2021-12-17 | 2022-03-12 |
 | [My Guiding Light](https://open.spotify.com/track/6WQ0dxunGQuNXVNYmkDXfU) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [My Guiding Light](https://open.spotify.com/album/62I1qDECH4NTIbBFtMSaJz) | 3:45 | 2021-12-17 | 2022-12-10 |
 | [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 | 2022-08-27 |
-| [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 |  |
+| [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 | 2023-02-18 |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 |  |
 | [Never Alone](https://open.spotify.com/track/3BDs1MOQNYRX0G0kmpV8Iw) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Never Alone](https://open.spotify.com/album/0YdiKCM6bohQZxmQOHbDWt) | 3:37 | 2022-01-14 | 2022-08-30 |
 | [Never Be Alone](https://open.spotify.com/track/6FAK5GkhC4kanPdOGTlWhz) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Mirjam Tumaini](https://open.spotify.com/artist/0VIpOJKQgRWdlBhePFUOpd) | [Never Be Alone](https://open.spotify.com/album/52zvyjKhpOAr2tMmPj1Qbo) | 3:06 | 2022-06-17 |  |

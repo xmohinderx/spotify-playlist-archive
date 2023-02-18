@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,208 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 74 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 75 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 |
 
-Snapshot ID: `MTY3MzU2ODcxNywwMDAwMDAwMDM1NjdiYWI5MDE3ZjE5NjU3ZmYxNDY1Y2U0YzFlNWRh`
+Snapshot ID: `MTY3NjYxNDE1MSwwMDAwMDAwMDgzZTg4ODcxYmU1NTEyZTg2YTM3M2E3OGRkMDQ1YTcy`

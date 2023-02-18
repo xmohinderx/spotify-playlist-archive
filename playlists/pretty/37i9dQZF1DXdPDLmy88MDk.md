@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,258 likes - 104 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,434 likes - 104 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 27 | [Breath](https://open.spotify.com/track/2VZk7tEFeZ2WkpRsTPAnfp) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Evolutions](https://open.spotify.com/album/1qo5NaOMvLbHTQ5Fbrg8fe) | 2:13 |
 | 28 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 |
 | 29 | [January](https://open.spotify.com/track/4hAPJblcXnHnJgfkxncY9e) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Kristian Kvalvaag](https://open.spotify.com/artist/2gWimrrYeCW2NMr5yE8Xvh) | [January](https://open.spotify.com/album/7F8W8iX7Vddunbq8P3LwYM) | 2:57 |
-| 30 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
+| 30 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 |
 | 31 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 |
 | 32 | [Brotin](https://open.spotify.com/track/1ByjUtjfHISyPBH1m4uhvT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Brotin](https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH) | 3:15 |
 | 33 | [Evening Light](https://open.spotify.com/track/0WXWiXfd4V6MCkBkrUV0NK) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Evening Light](https://open.spotify.com/album/1Ky1QmifzrNmlaUtprdyBX) | 2:21 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 103 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 104 | [Infinité](https://open.spotify.com/track/4rMf7O7IA7M8Aly99i3GSd) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx) | [Silent Moves \- Music by Dan Evmark](https://open.spotify.com/album/4pmY5rkR1S9OgZ8EYcKO4g) | 4:22 |
 
-Snapshot ID: `MTY3NTkzNDAzNywwMDAwMDAwMDY0MzlhYWZiZTBhYzFiODU1YzFiNTc1YzUyY2VjZWVi`
+Snapshot ID: `MTY3NTkzNDAzNywwMDAwMDAwMDY5NDhjZmI3NDllM2I2ZTJlYWUzYTFhMTA4YTdmMzdh`

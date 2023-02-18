@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100% Cotton",
+        "url": "https://open.spotify.com/album/70jtGdNIVF4nk48YWC2XTF"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275760,
+      "name": "100% Cotton (feat. Marcus Anderson)",
+      "url": "https://open.spotify.com/track/0CQUa0G8svZU88rMUM8GYv"
+    },
+    {
+      "album": {
         "name": "J Funk City",
         "url": "https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy"
       },
@@ -643,6 +665,36 @@
     },
     {
       "album": {
+        "name": "Bleecker Street",
+        "url": "https://open.spotify.com/album/08iaTopFdcF91ZYzdBPYAQ"
+      },
+      "artists": [
+        {
+          "name": "Pete Calandra and Straight Up",
+          "url": "https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam"
+        },
+        {
+          "name": "Tom Barney",
+          "url": "https://open.spotify.com/artist/5XxDVArhoK6MGgXFKelTti"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Eric Valentine",
+          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255839,
+      "name": "Bleecker Street",
+      "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/5bI7Vhpz1VVa9kGCaZVxcH"
       },
@@ -760,7 +812,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -3005,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "Living in This House",
+        "url": "https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP"
+      },
+      "artists": [
+        {
+          "name": "Threestyle",
+          "url": "https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234117,
+      "name": "Living in This House",
+      "url": "https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv"
+    },
+    {
+      "album": {
         "name": "Authentic Life",
         "url": "https://open.spotify.com/album/0dwwTaGfMvpCOv7Ikgo8Uq"
       },
@@ -3466,7 +3536,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 240640,
       "name": "Nine 2 Five",
       "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
@@ -4284,7 +4354,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"

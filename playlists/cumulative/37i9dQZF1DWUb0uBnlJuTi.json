@@ -4111,6 +4111,32 @@
     },
     {
       "album": {
+        "name": "Guilty Pleasures (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/4KGZEfzmcVMM6XujS0RWyp"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255356,
+      "name": "Sticking to My Guns",
+      "url": "https://open.spotify.com/track/6uuoajOLX3soGGLdnWTenn"
+    },
+    {
+      "album": {
         "name": "Family Business, Pt. 2 (Instrumental)",
         "url": "https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI"
       },
@@ -4256,7 +4282,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"

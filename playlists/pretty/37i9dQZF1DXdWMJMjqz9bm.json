@@ -1,28 +1,80 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: Connor Price and Hoodie Allen",
-  "num_followers": 185292,
+  "description": "A little bit of pop, a little bit of rap. Cover: NF",
+  "num_followers": 185414,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4NTk3MiwwMDAwMDAwMGMwYjQ3YmYyZDNkMGVlMDUxODVlMTVlODMzNjFiMDI0",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDEyNjE3NmVlMmM4NzgzYzhkMTMzNDg5MjI2MDU3Y2Yz",
   "tracks": [
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "age tape 8",
-        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 177230,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "white dress",
+        "url": "https://open.spotify.com/album/3atwTksgz29JYwgxuVUbsK"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 220704,
+      "name": "white dress",
+      "url": "https://open.spotify.com/track/52RuHnL5Syin3kHLoBvUxK"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "duration_ms": 138282,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Pretty Ones",
+        "url": "https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Pretty Ones",
+      "url": "https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -41,6 +93,38 @@
       "url": "https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ"
     },
     {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "slow",
+        "url": "https://open.spotify.com/album/4xbP5uCoRcocDrvZujOm7Y"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "duration_ms": 112220,
+      "name": "slow",
+      "url": "https://open.spotify.com/track/0OsBYGVkUv8htOal8W5Wiw"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "age tape 8",
+        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "on life",
@@ -55,6 +139,22 @@
       "duration_ms": 132260,
       "name": "on life",
       "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Tom Brady",
+        "url": "https://open.spotify.com/album/24cmHXOPr2NLM6L1zIvrsA"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 136383,
+      "name": "Tom Brady",
+      "url": "https://open.spotify.com/track/02cQm104XjRk0sQd1ZQb8y"
     },
     {
       "added_at": "2023-02-09 23:39:32",
@@ -109,6 +209,22 @@
       "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
     },
     {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2VXoWxenvGsrcO8JxXq2hd"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        }
+      ],
+      "duration_ms": 248355,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/35y5F1N5bCTPLQ8qJzuYPE"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Whatchutrynado?",
@@ -155,6 +271,22 @@
       "duration_ms": 133379,
       "name": "LMAO",
       "url": "https://open.spotify.com/track/4jbX8yMax8x7jTM1ceAARY"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "1(800)HIT-EAZY: Line 2",
+        "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM"
     },
     {
       "added_at": "2023-02-03 05:00:00",

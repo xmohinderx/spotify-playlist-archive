@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 114436,
+  "num_followers": 114614,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMGNkNTZkMjhjZDM0MjVlNWVlOWVkNjEyNDRmYTYwYjE2",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMGFjN2JjODgwMDNlMThjNDMyZGY2Y2YzZWU1YTRkY2Yw",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 142462,
-      "name": "Einmal um die Welt",
-      "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
-    },
-    {
-      "added_at": "2023-02-17 01:12:25",
+      "added_at": "2023-02-18 01:13:20",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -111,6 +95,22 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 142462,
+      "name": "Einmal um die Welt",
+      "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Die gute Seite (Die lange Seite)",
         "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Von Hier An Blind",
         "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -323,6 +323,22 @@
       "duration_ms": 195416,
       "name": "Liebe",
       "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -395,22 +411,6 @@
       "duration_ms": 218546,
       "name": "Wie sch\u00f6n du bist",
       "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
       },
       "artists": [
         {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
         }
       ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+      "duration_ms": 220173,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
       "artists": [
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Nur getr\u00e4umt",
-      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -691,6 +691,22 @@
       "duration_ms": 159150,
       "name": "Kippe",
       "url": "https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -835,22 +851,6 @@
       "duration_ms": 164453,
       "name": "Tag ein Tag aus",
       "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Nur f\u00fcr Dich",
-      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
     },
     {
       "added_at": "2023-02-13 08:33:30",

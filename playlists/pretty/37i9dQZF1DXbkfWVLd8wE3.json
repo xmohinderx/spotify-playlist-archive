@@ -1,12 +1,12 @@
 {
   "description": "In Da Club and more classics",
-  "num_followers": 116407,
+  "num_followers": 116685,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NzIwMCwwMDAwMDAwMDlkOGQxMTEyOGUzMjIwMGVjMmYwNzAyYzFkNzMwYTEz",
+  "snapshot_id": "MTY3NTI2NzIwMCwwMDAwMDAwMGUwNGIzOTc2Njk0MzExNTA5YTgzNDIxODM1OWZjNjZm",
   "tracks": [
     {
       "added_at": "2022-01-25 17:11:18",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-01-25 17:11:18",
       "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2022-01-25 17:11:18",
+      "album": {
         "name": "The Best of 2Pac",
         "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 268960,
       "name": "Changes",
       "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
-    },
-    {
-      "added_at": "2022-01-25 17:11:18",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
     },
     {
       "added_at": "2022-01-25 17:11:18",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-01-25 17:11:18",
       "album": {
-        "name": "When Disaster Strikes...",
-        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 194293,
-      "name": "Put Your Hands Where My Eyes Could See",
-      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+      "duration_ms": 196640,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
     },
     {
       "added_at": "2022-01-25 17:11:18",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-01-25 17:11:18",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 196640,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
+      "duration_ms": 194293,
+      "name": "Put Your Hands Where My Eyes Could See",
+      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
     },
     {
       "added_at": "2022-01-25 17:11:18",

@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Florance",
+        "url": "https://open.spotify.com/album/7DdGOa4uvONONSY518J4MZ"
+      },
+      "artists": [
+        {
+          "name": "Hibiscus",
+          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122123,
+      "name": "Florance",
+      "url": "https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ"
+    },
+    {
+      "album": {
         "name": "flux de vibrations",
         "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
       },

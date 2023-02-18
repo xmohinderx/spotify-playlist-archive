@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: From Ashes To New",
+  "description": "Metalcore at its finest. Cover: The Amity Affliction",
   "name": "The Core",
   "tracks": [
     {
@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Hope is a Cult",
+        "url": "https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221347,
+      "name": "Best For You",
+      "url": "https://open.spotify.com/track/0Fa9nx13nJ7CiZLRM3in1S"
+    },
+    {
+      "album": {
         "name": "Beta Gods",
         "url": "https://open.spotify.com/album/1Uw2WdS8xyAABgFUqCt5ON"
       },
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 217320,
       "name": "Boltcutter",
       "url": "https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH"
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 230690,
       "name": "Chimera",
       "url": "https://open.spotify.com/track/4OEF00eP9KhyF0ZshrZ8Uj"
@@ -3687,6 +3705,28 @@
     },
     {
       "album": {
+        "name": "Empty, Like Me.",
+        "url": "https://open.spotify.com/album/0wKIiZrKsOPxqhRxvlWcQ0"
+      },
+      "artists": [
+        {
+          "name": "Grieve",
+          "url": "https://open.spotify.com/artist/6DAXLVtNvEBAy0ncBuaQGv"
+        },
+        {
+          "name": "Joshua Roberts",
+          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264710,
+      "name": "Empty, Like Me.",
+      "url": "https://open.spotify.com/track/1oaRm4ubgYTSlDNM0xGbgR"
+    },
+    {
+      "album": {
         "name": "End Of Existence",
         "url": "https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L"
       },
@@ -3998,7 +4038,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
@@ -5153,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Heretic (feat. Loz Taylor)",
+        "url": "https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212878,
+      "name": "Heretic (feat. Loz Taylor)",
+      "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
+    },
+    {
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/1KPoWP9JGpfSR6a14L7VML"
       },
@@ -5208,6 +5266,24 @@
       "duration_ms": 205276,
       "name": "Hip To Be Scared",
       "url": "https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG"
+    },
+    {
+      "album": {
+        "name": "Hivemind",
+        "url": "https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl"
+      },
+      "artists": [
+        {
+          "name": "Acacia Ridge",
+          "url": "https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247896,
+      "name": "Hivemind",
+      "url": "https://open.spotify.com/track/7lRciDLcZY0MKaMyakkvu0"
     },
     {
       "album": {
@@ -5370,6 +5446,28 @@
       "duration_ms": 201565,
       "name": "I Run With Wolves",
       "url": "https://open.spotify.com/track/7oNOP1xca406nustARPRru"
+    },
+    {
+      "album": {
+        "name": "I See Dead People",
+        "url": "https://open.spotify.com/album/3R8VofbgLwq9q48eueOCqC"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        },
+        {
+          "name": "Louie Knuxx",
+          "url": "https://open.spotify.com/artist/2SQXiX0AGHf3Aw43or85KX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216579,
+      "name": "I See Dead People",
+      "url": "https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9"
     },
     {
       "album": {
@@ -6414,7 +6512,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198657,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
@@ -7462,7 +7560,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 203021,
       "name": "nuBlood (feat. Fame On Fire)",
       "url": "https://open.spotify.com/track/2UuW4bsWhUUWcD07r2tSdq"
@@ -9068,7 +9166,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 217127,
       "name": "Show Me Your God",
       "url": "https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv"
@@ -9086,7 +9184,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 220066,
       "name": "Sign Of Life",
       "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
@@ -10232,6 +10330,24 @@
       "duration_ms": 215626,
       "name": "The End to a Brief Moment of Lasting Intimacy",
       "url": "https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29"
+    },
+    {
+      "album": {
+        "name": "THE GREAT DEPRESSION",
+        "url": "https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "THE GREAT DEPRESSION",
+      "url": "https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr"
     },
     {
       "album": {
@@ -11474,6 +11590,24 @@
       "duration_ms": 214874,
       "name": "Weapon",
       "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"
+    },
+    {
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212082,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
     },
     {
       "album": {

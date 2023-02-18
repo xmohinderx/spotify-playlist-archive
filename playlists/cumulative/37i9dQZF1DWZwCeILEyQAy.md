@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Gloss Up
 
-274 songs - 11 hr 35 min
+276 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Don't Worry Bout It](https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp) | 2:43 | 2023-01-20 | 2023-02-17 |
 | [Don't Worry Bout It](https://open.spotify.com/track/6lGIG2grLsGWpVd2wtK94h) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:43 | 2023-02-10 |  |
 | [Drill a RaMA \(feat\. Benny the Butcher\)](https://open.spotify.com/track/0ScyCZruSs8LADmXmsEQ19) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [THE LIZ](https://open.spotify.com/album/4qBqFNBcgixIpe1tlvE8ck) | 2:43 | 2021-11-05 | 2022-03-18 |
+| [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 | 2023-02-17 |  |
 | [Dumb/Stupid](https://open.spotify.com/track/2ewdtjffbtvP0Lt68K9jsE) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY), [LX Xander](https://open.spotify.com/artist/7598n51vAewRhWsNTYeSvU) | [Mischief Mixtape](https://open.spotify.com/album/5O2jPbU1pueqbGMjMliwMP) | 1:45 | 2022-11-18 | 2022-11-26 |
 | [Dummy Ummy](https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dummy Ummy](https://open.spotify.com/album/5ZO8kA1XhkGlf3fZZYgIZ3) | 1:51 | 2022-03-11 | 2022-07-29 |
 | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3) | 2:46 | 2022-04-15 | 2022-07-22 |
@@ -96,7 +97,7 @@
 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 | 2022-09-09 | 2022-10-01 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-07-22 |  |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu) | 2:17 | 2022-05-03 | 2022-07-29 |
-| [F.N.G.M.](https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 1:54 | 2022-07-22 |  |
+| [F.N.G.M.](https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 1:54 | 2022-07-22 | 2023-02-18 |
 | [Fake Love](https://open.spotify.com/track/7nZqPwoxgPpE9ghskM6tHh) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Fake Love](https://open.spotify.com/album/5jcWxbHoRtLdZvVTIbftd4) | 2:00 | 2022-04-08 | 2022-07-29 |
 | [Fasho Fasho](https://open.spotify.com/track/5cYBnLxnTUxqu3ZK1cPMnm) | [Chelly Flame](https://open.spotify.com/artist/5zgtnqJoKA4WVzfUcPw1W7) | [Fasho Fasho](https://open.spotify.com/album/7rfjsqxWNtGFaANAOYamVe) | 2:02 | 2022-10-28 | 2022-11-09 |
 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 | 2021-11-05 | 2022-06-04 |
@@ -245,7 +246,7 @@
 | [Switch](https://open.spotify.com/track/5D4s8L8HQ1kh2YGbczUonD) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Switch](https://open.spotify.com/album/7EDiA9kZvIW9pcVFKB9cnh) | 2:06 | 2022-11-25 | 2022-12-24 |
 | [Talk](https://open.spotify.com/track/1r1s3410xYexj6RHM670dc) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Talk](https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK) | 2:01 | 2021-11-05 | 2022-09-09 |
 | [Talk My Shit 2](https://open.spotify.com/track/2ljB6EKIEDgl7vdmQEEyyb) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Talk My Shit 2](https://open.spotify.com/album/2fH9mTeQ0tC9cHLDiHttrK) | 3:25 | 2022-06-10 | 2022-07-28 |
-| [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 |  |
+| [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-02-18 |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-09-16 | 2022-10-15 |
 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 | 2022-10-14 |  |
 | [Texture](https://open.spotify.com/track/6PVRA5iRJrIEMTGwx45yoA) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Texture](https://open.spotify.com/album/25wwmPMZFuMCFYdholXIIL) | 3:32 | 2022-12-09 |  |
@@ -281,6 +282,7 @@
 | [Why Me](https://open.spotify.com/track/58t3CCrolRpZOsuAMdDZSQ) | [Neisha Neshae](https://open.spotify.com/artist/7IAHqUnycA5bsMGTVxmqJg) | [Why Me](https://open.spotify.com/album/4i9hsqsasNXuj6RXXAtyXE) | 2:19 | 2022-10-14 | 2023-01-21 |
 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 | 2022-06-10 | 2022-10-15 |
 | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu) | 2:35 | 2021-11-05 | 2022-02-25 |
+| [You The Type](https://open.spotify.com/track/7x5u4be4YDbkD31q3tNj2u) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [You The Type](https://open.spotify.com/album/7H6MsLhxLDDNpeymsKNXDH) | 3:25 | 2023-02-17 |  |
 | [Young And Turnt](https://open.spotify.com/track/6J5bbXGG1GdDxIYex4tSg5) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [My Bad I’m Late](https://open.spotify.com/album/5t7W5Ds5cX4fMs8l1lFIIN) | 1:50 | 2022-10-14 | 2022-12-03 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

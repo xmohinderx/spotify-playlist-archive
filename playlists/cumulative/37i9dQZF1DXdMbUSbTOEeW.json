@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
@@ -275,6 +275,32 @@
     },
     {
       "album": {
+        "name": "Banna Re",
+        "url": "https://open.spotify.com/album/7G7tYDvqxDNqAG0yhZkCep"
+      },
+      "artists": [
+        {
+          "name": "Project 91",
+          "url": "https://open.spotify.com/artist/6HbsMua3wRqwv8WQRpbpYp"
+        },
+        {
+          "name": "Bramha",
+          "url": "https://open.spotify.com/artist/54aaAVP09vkCtRd9WjuEW8"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Banna Re",
+      "url": "https://open.spotify.com/track/0Yu3YJCrxA8htVYv4r9e19"
+    },
+    {
+      "album": {
         "name": "Bappi",
         "url": "https://open.spotify.com/album/45qi6kZ0LB5kqE8tbmjCy9"
       },
@@ -294,6 +320,24 @@
       "duration_ms": 204374,
       "name": "Bappi - Edit",
       "url": "https://open.spotify.com/track/3oQmoqWlT0HUl0w48CN2Mo"
+    },
+    {
+      "album": {
+        "name": "Bass Rani",
+        "url": "https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Bass Rani",
+      "url": "https://open.spotify.com/track/6uiTWAJmiA7UO0bb80982m"
     },
     {
       "album": {
@@ -417,6 +461,32 @@
     },
     {
       "album": {
+        "name": "Bombay Dreams (feat. Kavita Seth)",
+        "url": "https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Bombay Dreams (feat. Kavita Seth)",
+      "url": "https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl"
       },
@@ -506,7 +576,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214639,
       "name": "Casanova (feat. Simar Kaur)",
       "url": "https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe"
@@ -582,7 +652,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 200000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A"
@@ -703,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Desert Disco",
+        "url": "https://open.spotify.com/album/779wLBWoL0hQLaYAbQhiA3"
+      },
+      "artists": [
+        {
+          "name": "BODMAS",
+          "url": "https://open.spotify.com/artist/7pi70ZtnhO0CTTkF2fts50"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289419,
+      "name": "Desert Disco",
+      "url": "https://open.spotify.com/track/6EZq7cj5ryaVZDQeM5DVGf"
+    },
+    {
+      "album": {
         "name": "Diaspora Girl (ShiShi Remix)",
         "url": "https://open.spotify.com/album/2PFIAmGeu3V5zLRkzJaIvU"
       },
@@ -748,10 +836,32 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 168545,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS"
+    },
+    {
+      "album": {
+        "name": "Dillagi",
+        "url": "https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84012,
+      "name": "Dillagi",
+      "url": "https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np"
     },
     {
       "album": {
@@ -818,7 +928,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 105142,
       "name": "Ek Meri Akh Kashni Trap Mix",
       "url": "https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt"
@@ -848,7 +958,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 167058,
       "name": "Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan)",
       "url": "https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03"
@@ -1130,7 +1240,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 163208,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
@@ -1204,7 +1314,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
@@ -1270,7 +1380,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -1296,7 +1406,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
@@ -1454,7 +1564,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 130666,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
@@ -1498,7 +1608,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
@@ -1603,6 +1713,36 @@
     },
     {
       "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Jadi Buti (feat. Rashmeet Kaur)",
+      "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
+    },
+    {
+      "album": {
         "name": "Jalebi Baby (Tesher x Jason Derulo) [DallasK Remix]",
         "url": "https://open.spotify.com/album/7Gz8KFyOaJ67RTRicF5n7F"
       },
@@ -1648,6 +1788,28 @@
       "duration_ms": 263520,
       "name": "Jhanak Jhanak",
       "url": "https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV"
+    },
+    {
+      "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "album": {
@@ -1718,6 +1880,28 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn"
+    },
+    {
+      "album": {
+        "name": "Marigold Soundsystem",
+        "url": "https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Leja",
+      "url": "https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp"
     },
     {
       "album": {
@@ -1987,6 +2171,32 @@
     },
     {
       "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "album": {
         "name": "Mehndi Te Vavi",
         "url": "https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W"
       },
@@ -2068,7 +2278,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -2138,6 +2348,32 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "album": {
+        "name": "Bass Rani",
+        "url": "https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Julius Sylvest",
+          "url": "https://open.spotify.com/artist/533nJfX56F25FOytbE46tU"
+        },
+        {
+          "name": "Gagan Mudgal",
+          "url": "https://open.spotify.com/artist/4faYoMlqyHUk7oGpbK2nNo"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Mumbai Dance",
+      "url": "https://open.spotify.com/track/3Trk97TnEvpYk1iIcR3GRq"
     },
     {
       "album": {
@@ -2212,6 +2448,36 @@
       "duration_ms": 214207,
       "name": "Naacho Naacho (From \"Rrr\")",
       "url": "https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG"
+    },
+    {
+      "album": {
+        "name": "Naagin",
+        "url": "https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag"
+      },
+      "artists": [
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Naagin",
+      "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
     },
     {
       "album": {
@@ -2494,10 +2760,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "album": {
+        "name": "Pahari EDM Drop",
+        "url": "https://open.spotify.com/album/1wjiukEkEjiwkNXD1HEQY4"
+      },
+      "artists": [
+        {
+          "name": "Hb Mania",
+          "url": "https://open.spotify.com/artist/6C8kHWXwnezUU6eCGwgr1e"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Pahari EDM Drop",
+      "url": "https://open.spotify.com/track/5z3dsvkkwDvlrw8g7ntpfn"
     },
     {
       "album": {
@@ -2604,7 +2888,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
@@ -2670,6 +2954,28 @@
       "duration_ms": 216774,
       "name": "Private Party (From \"Don\")",
       "url": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
+    },
+    {
+      "album": {
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
       "album": {
@@ -2812,10 +3118,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176867,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+    },
+    {
+      "album": {
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "Roz",
+      "url": "https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn"
     },
     {
       "album": {
@@ -2926,6 +3254,50 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
+    },
+    {
+      "album": {
+        "name": "Saturday/Sunday",
+        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166572,
+      "name": "Saturday/Sunday",
+      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
+    },
+    {
+      "album": {
+        "name": "Sauda",
+        "url": "https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Sauda",
+      "url": "https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV"
     },
     {
       "album": {
@@ -3313,6 +3685,32 @@
     },
     {
       "album": {
+        "name": "The Naani Song",
+        "url": "https://open.spotify.com/album/61Dy7XSz7DO7txGaQeKY3e"
+      },
+      "artists": [
+        {
+          "name": "KS Abhishek",
+          "url": "https://open.spotify.com/artist/2qyLcNy946Ywef0ZnEnq0M"
+        },
+        {
+          "name": "Naani",
+          "url": "https://open.spotify.com/artist/5UNep9mQ7MXfuCmZ6aWVUl"
+        },
+        {
+          "name": "Sukanya Chattopadhyay",
+          "url": "https://open.spotify.com/artist/237MSTpAwqV8LuM9b2eF0B"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "The Naani Song",
+      "url": "https://open.spotify.com/track/74IinPT5MUEx90zNUguaSL"
+    },
+    {
+      "album": {
         "name": "COLLABS VOL. 1 (INT\u2019L VER.)",
         "url": "https://open.spotify.com/album/4gG7E1oREuA5rNKvyj7zXE"
       },
@@ -3524,10 +3922,36 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+        "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
     },
     {
       "album": {
@@ -3649,6 +4073,28 @@
     },
     {
       "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "album": {
         "name": "Why Can't You Wait (3LAU Remix)",
         "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
       },
@@ -3668,7 +4114,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 221612,
       "name": "Why Can't You Wait - 3LAU Remix",
       "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"

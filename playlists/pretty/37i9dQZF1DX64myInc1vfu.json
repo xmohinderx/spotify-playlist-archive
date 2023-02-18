@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 60568,
+  "num_followers": 60665,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwNDAwMCwwMDAwMDAwMDYxNWRkNTdmOGYwOWMyNmY1YjEwOGM2NzUwZDM3ZGM1",
+  "snapshot_id": "MTY3NjMwNDAwMCwwMDAwMDAwMDRlZGNmYzVjNzY5MWNkMDExNDc4MjIyMWM3MmUyNjUz",
   "tracks": [
     {
       "added_at": "2023-02-13 16:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-02-13 16:00:00",
       "album": {
-        "name": "Cuando Los Malandros Lloran",
-        "url": "https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO"
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
       "artists": [
         {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Cuando Los Malandros Lloran",
-      "url": "https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG"
+      "duration_ms": 157176,
+      "name": "Odio Gitano",
+      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
     },
     {
       "added_at": "2023-02-13 16:00:00",
@@ -899,18 +903,18 @@
     {
       "added_at": "2023-02-13 16:00:00",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+        "name": "Cuando Los Malandros Lloran",
+        "url": "https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+      "duration_ms": 143000,
+      "name": "Cuando Los Malandros Lloran",
+      "url": "https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG"
     }
   ],
   "unique_name": "Lento.",

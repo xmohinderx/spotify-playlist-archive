@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 50349,
+  "num_followers": 50385,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDgwOTUxMThmZTIwMjllYThmMGViODk4ZWE5NDVhY2Iw",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGU3YTA4MTBjOWRkOTFlNzY5MzA2YzY0Nzk0NTI4MTQ2",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
         }
       ],
-      "duration_ms": 95973,
-      "name": "Bocuma",
-      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+      "duration_ms": 439160,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -535,22 +551,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
-        }
-      ],
-      "duration_ms": 439160,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "See You When You Get There",
-        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 364795,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sarita Colonia",
         "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227317,
       "name": "Sarita Colonia - Edit",
       "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "See You When You Get There",
+        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 364795,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Find Myself EP",
         "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 364579,
       "name": "Raw Charmer",
       "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
-      },
-      "artists": [
-        {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
-        }
-      ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "It's Just A Silly Phase I'm Going Through",
         "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 295592,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",

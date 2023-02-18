@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 201409,
       "name": "80's",
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 192391,
       "name": "Aujourd'hui",
       "url": "https://open.spotify.com/track/5MTqsR5MkKldD4SJW4WuzA"
@@ -2010,10 +2010,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 136907,
       "name": "Costco freestyle",
       "url": "https://open.spotify.com/track/0oFFNSKg6DvV7rYTCwfMMP"
+    },
+    {
+      "album": {
+        "name": "Zayon",
+        "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201627,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8"
     },
     {
       "album": {
@@ -2938,6 +2956,24 @@
       "duration_ms": 218351,
       "name": "Freestyle 445",
       "url": "https://open.spotify.com/track/2Nlq4s9oWESKTbiUXcU7tH"
+    },
+    {
+      "album": {
+        "name": "Froid",
+        "url": "https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG"
+      },
+      "artists": [
+        {
+          "name": "PCL",
+          "url": "https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Froid",
+      "url": "https://open.spotify.com/track/7xdBeATvkJWIEsh60xc2GZ"
     },
     {
       "album": {
@@ -3977,6 +4013,28 @@
     },
     {
       "album": {
+        "name": "Le calme avant la temp\u00eate",
+        "url": "https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Joey G",
+          "url": "https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233314,
+      "name": "Leansy",
+      "url": "https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw"
       },
@@ -4729,6 +4787,32 @@
     },
     {
       "album": {
+        "name": "Zayon",
+        "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn"
+        },
+        {
+          "name": "Primero",
+          "url": "https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217042,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/5DKGxw5dGLk92vicX5WbBb"
+    },
+    {
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -4846,6 +4930,28 @@
       "duration_ms": 174915,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
+    },
+    {
+      "album": {
+        "name": "Zayon",
+        "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220823,
+      "name": "On L'Fait",
+      "url": "https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex"
     },
     {
       "album": {
@@ -5952,7 +6058,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 182412,
       "name": "Sale",
       "url": "https://open.spotify.com/track/7cwukLwSfRLqbkcetVP8Nl"
@@ -6976,7 +7082,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 210434,
       "name": "Zayon",
       "url": "https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE"

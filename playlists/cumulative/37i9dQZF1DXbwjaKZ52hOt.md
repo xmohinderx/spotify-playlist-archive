@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-302 songs - 8 hr 56 min
+303 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Skip to My Lou](https://open.spotify.com/track/4LzMGZEwmCdxfczMbS0qOp) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 1:13 | 2022-02-25 |  |
 | [Star Light, Star Bright](https://open.spotify.com/track/479oXz75lANhpwBC6ctAhX) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 | 2022-02-25 |  |
 | [Teddy Bear](https://open.spotify.com/track/1ywNV7GoOLPbfsnOzuH8qU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:01 | 2022-02-25 |  |
-| [Teddy Bears Picnic](https://open.spotify.com/track/51OolYPI1CYgToZcsxm8xT) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:35 | 2023-01-27 |  |
+| [Teddy Bears Picnic](https://open.spotify.com/track/4XAtEqt8UJS9yM6jvVFbiC) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:35 | 2023-02-10 |  |
+| [Teddy Bears Picnic](https://open.spotify.com/track/51OolYPI1CYgToZcsxm8xT) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:35 | 2023-01-27 | 2023-02-18 |
 | [Teddy Bears Picnic](https://open.spotify.com/track/74N7PZd0963VY5JaweEF3i) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/0hm7XSyKA0yBFi9hxpnnsY) | 2:35 | 2022-02-25 | 2023-02-10 |
 | [Ten in the Bed](https://open.spotify.com/track/6FXMOKUDn8jNDv9wGGQBA7) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 9: Songs for Kids](https://open.spotify.com/album/3vSIO6N0wUTzyM2B3DIZ8w) | 1:55 | 2022-02-25 |  |
 | [The Ant and the Grasshopper](https://open.spotify.com/track/2XMGcpqxIfY1Q6j85wlC43) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:36 | 2022-02-25 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: BESTIES
 
-1,689 songs - 3 day 21 hr 29 min
+1,690 songs - 3 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [DIFFERENT](https://open.spotify.com/track/45zMOuI0F3QURB102CJ0ox) | [Planet Vegeta](https://open.spotify.com/artist/5aQYgn7I6w88xX4KWyjIof) | [DIFFERENT](https://open.spotify.com/album/0O0wYEtICzwVkz4wIaDdeQ) | 2:58 | 2022-05-25 | 2022-06-16 |
 | [Different to You](https://open.spotify.com/track/1FK4dsUXrreDW20roSvcrt) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Different to You](https://open.spotify.com/album/1jww6CAObVfwW2DKBVRJxz) | 4:31 | 2022-04-06 | 2022-04-21 |
 | [DINERO](https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo) | [Saitxero](https://open.spotify.com/artist/7eAziNg8S3NJiBsGCXjYbF) | [DINERO](https://open.spotify.com/album/5FUbjirtgcdkwLGqIONS4d) | 2:25 | 2022-09-14 | 2022-10-13 |
-| [dinner with the moon](https://open.spotify.com/track/3pz8YQ1OHYJ3QaBNKNsVPO) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [little star](https://open.spotify.com/album/0TgD84AF4DYHqx3aEa4af1) | 2:53 | 2023-02-08 |  |
+| [dinner with the moon](https://open.spotify.com/track/3pz8YQ1OHYJ3QaBNKNsVPO) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [little star](https://open.spotify.com/album/0TgD84AF4DYHqx3aEa4af1) | 2:53 | 2023-02-08 | 2023-02-18 |
+| [dinner with the moon](https://open.spotify.com/track/5IaH94tPKGcTn7QCplEECq) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [little star](https://open.spotify.com/album/7I7I9FDsBykUzmfKukq28s) | 2:53 | 2023-02-15 |  |
 | [Dirty City](https://open.spotify.com/track/6DqawvTUfc0Ore1blfP2kf) | [Rita B](https://open.spotify.com/artist/6ACoLEMc5dRPp6giaxiVC7) | [Hindsight](https://open.spotify.com/album/5HVmhRASRAcHfJnx2oRvBF) | 4:24 | 2022-04-06 | 2022-04-21 |
 | [dirty dancing](https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [dirty dancing](https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7) | 2:39 | 2022-07-19 | 2022-08-11 |
 | [Dirty Scene](https://open.spotify.com/track/1Eqzb3SjSnVCfQnrKrHWlm) | [The Nagging Doubts](https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr) | [Dirty Scene](https://open.spotify.com/album/5jBbvQ4OoiKggVaUn08RDT) | 2:56 | 2022-03-23 | 2022-04-07 |

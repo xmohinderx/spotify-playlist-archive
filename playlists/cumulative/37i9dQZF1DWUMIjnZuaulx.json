@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Jekalyn Carr",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Jonathan McReynolds",
   "name": "Fresh Gospel",
   "tracks": [
+    {
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302102,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
+    },
     {
       "album": {
         "name": "Adulting (Live)",
@@ -126,6 +148,24 @@
       "duration_ms": 390350,
       "name": "All Things Working",
       "url": "https://open.spotify.com/track/3Lr6aWrd9Hrdv4u4ruifL4"
+    },
+    {
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/14bqfyjL6pg75m9NUgY891"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2DqCvLwQ5ardSLPJ7RdgOA"
     },
     {
       "album": {
@@ -1473,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "He'll Do It Again / Hezekiah Walker (Live)",
+        "url": "https://open.spotify.com/album/6tgyj5biSbdyQqT7jjzt2d"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347553,
+      "name": "He'll Do It Again / Hezekiah Walker - Live",
+      "url": "https://open.spotify.com/track/56JD7wHQzq1qTtNlp7F5J9"
+    },
+    {
+      "album": {
         "name": "Project LA: Alive in Los Angeles",
         "url": "https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL"
       },
@@ -1838,7 +1900,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 250658,
       "name": "House of the Lord (No Limits)",
       "url": "https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj"
@@ -2798,7 +2860,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 478000,
       "name": "Let The Redeemed Of The Lord Say So - Live",
       "url": "https://open.spotify.com/track/3oEvGMSAWHNJHcXU7FbIU4"
@@ -3068,6 +3130,24 @@
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "album": {
+        "name": "Mighty God",
+        "url": "https://open.spotify.com/album/1UeyYKxUY2XSI4UvpSImJL"
+      },
+      "artists": [
+        {
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252142,
+      "name": "Mighty God",
+      "url": "https://open.spotify.com/track/2u9ecNBR8IcmJye5QtlDDC"
     },
     {
       "album": {
@@ -5000,7 +5080,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
@@ -5360,7 +5440,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 196830,
       "name": "Your World",
       "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"

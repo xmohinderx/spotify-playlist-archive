@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "AE_LIVE_DUBLIN_150718",
+        "url": "https://open.spotify.com/album/1Ly68Zq80UEFoMauz0fTfE"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4935250,
+      "name": "AE_LIVE_DUBLIN_150718",
+      "url": "https://open.spotify.com/track/3tSReuefpAAhlkCwtEPRd9"
+    },
+    {
+      "album": {
         "name": "AE_LIVE_NIJMEGEN_221116",
         "url": "https://open.spotify.com/album/5tgzJZtWLqRbc4rq2HXOqA"
       },
@@ -132,6 +150,24 @@
     {
       "album": {
         "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "Altibzz",
+      "url": "https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh"
+    },
+    {
+      "album": {
+        "name": "Quaristice",
         "url": "https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y"
       },
       "artists": [
@@ -142,7 +178,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 172480,
       "name": "Altibzz",
       "url": "https://open.spotify.com/track/2dqLO6897sZKnAAXuOcdGW"
@@ -578,10 +614,28 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 456226,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/2H9h90KQGqB2z34sptglwj"
+    },
+    {
+      "album": {
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456226,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
     },
     {
       "album": {
@@ -1658,10 +1712,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 444493,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5seVVzH1SZXwu7UjrDcHnD"
+    },
+    {
+      "album": {
+        "name": "Incunabula",
+        "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436000,
+      "name": "Lowride",
+      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
     },
     {
       "album": {
@@ -1676,7 +1748,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 436000,
       "name": "Lowride",
       "url": "https://open.spotify.com/track/7gu3aKNbBq2nSWMhybCfBf"
@@ -1846,6 +1918,24 @@
     {
       "album": {
         "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468800,
+      "name": "Nil",
+      "url": "https://open.spotify.com/track/1Vd2YEy1uOaOjsAjJ1IMwb"
+    },
+    {
+      "album": {
+        "name": "Amber",
         "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
       },
       "artists": [
@@ -1856,7 +1946,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 468800,
       "name": "Nil",
       "url": "https://open.spotify.com/track/7ve54JSHBvuDEqDD5zixOl"
@@ -2612,7 +2702,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 300013,
       "name": "Simmm",
       "url": "https://open.spotify.com/track/1DDTOzysMCyYArxftQIGsp"
@@ -2778,6 +2868,24 @@
       "duration_ms": 219480,
       "name": "Tankakern",
       "url": "https://open.spotify.com/track/3ZD4sI2uQ1ZMUgU2PlGdYx"
+    },
+    {
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Tankakern",
+      "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"
     },
     {
       "album": {

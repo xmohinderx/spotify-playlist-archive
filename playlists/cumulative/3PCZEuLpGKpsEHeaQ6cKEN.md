@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Cedric Gervais
 
-431 songs - 23 hr 5 min
+432 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Makes Me Feel Good](https://open.spotify.com/track/1rAp3ZUBO0qHKMBucSvq8U) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [Makes Me Feel Good](https://open.spotify.com/album/4CIhrgOJY39WbYEpCfOfaA) | 2:59 | 2022-06-09 | 2022-07-22 |
 | [Maniac](https://open.spotify.com/track/4SLjFUVlRgVFXLwCV2k3vv) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Maniac](https://open.spotify.com/album/22atNXj1zazogTaxP9H6sL) | 3:09 | 2022-06-09 | 2022-09-09 |
 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 | 2022-10-20 | 2022-11-18 |
+| [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/track/08UMJkKYltb67u9dHVlj8P) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Noize Generation](https://open.spotify.com/artist/0KETuRn1Qq622O6Q0WN1r9), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/album/4looyjj1OsMTR4cpexpBHU) | 2:25 | 2023-02-17 |  |
 | [Matter Of Time](https://open.spotify.com/track/7i5cFCdJt2jAqtaPhwnBJI) | [MŪNTII](https://open.spotify.com/artist/5fomjHx6JSVq8nCgHgxsAI) | [Matter Of Time](https://open.spotify.com/album/5hhtgaghc9eZ3TZcmfmbOt) | 2:50 | 2022-06-09 | 2022-09-16 |
 | [Mind Games \- Les Bisous Remix](https://open.spotify.com/track/5XkAxo2FkFWOnDvSt9ml2d) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Mind Games \(Les Bisous Remix\)](https://open.spotify.com/album/37Rp2p8JvP8QBJAcgiRwuu) | 2:46 | 2022-11-24 | 2023-01-06 |
 | [Mistakes](https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0) | 2:33 | 2022-06-09 | 2022-07-15 |

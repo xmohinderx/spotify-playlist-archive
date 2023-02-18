@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-151 songs - 8 hr 22 min
+154 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 | 2022-11-11 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
 | [dusk without you](https://open.spotify.com/track/6q4r9Eqv8G5Nz5Mi1jU8Yk) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [dusk without you EP](https://open.spotify.com/album/18NMn5a6IeQcBOFgzE3nWu) | 3:22 | 2023-01-13 |  |
+| [Echo](https://open.spotify.com/track/4c7qz4XbADXeyr8LAxNTUK) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Echo](https://open.spotify.com/album/5lhdWrh4Wa3wH1nkt73RWI) | 2:11 | 2023-02-17 |  |
 | [Echosphere](https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Echosphere](https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX) | 2:41 | 2022-12-19 |  |
 | [Effortless](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Tony Iver](https://open.spotify.com/artist/33Y6lgwXmYok6gkTjnaYZ5) | [Effortless](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:29 | 2022-12-19 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
@@ -94,6 +95,7 @@
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |
 | [pound for pound](https://open.spotify.com/track/6QqlgQ6xSc4SrsP0vWlmpa) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [pound for pound](https://open.spotify.com/album/7uFbEtssmk8DYTKqMwjAil) | 2:50 | 2022-11-11 |  |
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 |  |
+| [Quiet before the Tempest](https://open.spotify.com/track/64VfF4iKHho1Y5q5e2Ltwo) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Quiet before the Tempest](https://open.spotify.com/album/7AxACJsdvmSjhvB9RiiGWe) | 2:43 | 2023-02-17 |  |
 | [Reconnection](https://open.spotify.com/track/2pAZtBeTf2wd97g709xOXx) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Reconnection](https://open.spotify.com/album/6fqlzVb31jQJUJgdoLXsvc) | 1:54 | 2023-01-27 |  |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2022-03-30 |  |
 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 | 2022-03-30 |  |
@@ -114,6 +116,7 @@
 | [Slow Move](https://open.spotify.com/track/3mnAvzGT0DYm0pGxtJp5Yi) | [Amber Fall](https://open.spotify.com/artist/56KiUsVJcleCu44rnYvPh9) | [Slow Move](https://open.spotify.com/album/27jqdgUJaoV4Y6TZc7DOgt) | 2:30 | 2023-02-03 |  |
 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 |  |
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
+| [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Swirl](https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Swirl](https://open.spotify.com/album/01Qt1xfREQwMLZVPceyipW) | 2:09 | 2023-02-09 |  |

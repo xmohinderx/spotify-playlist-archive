@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non-binary and gender-fluid artists. Cover: Villano Antillano",
+  "description": "Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non-binary and gender-fluid artists. Cover: Sam Smith",
   "name": "Transcend",
   "tracks": [
     {
@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Danke Schoen",
+        "url": "https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158674,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n"
+    },
+    {
+      "album": {
         "name": "Urdata",
         "url": "https://open.spotify.com/album/6i6yQB0bedTRrDOEZ3hxwn"
       },
@@ -744,6 +762,24 @@
       "duration_ms": 244500,
       "name": "deadname",
       "url": "https://open.spotify.com/track/4GDoSxigoOM1wRsCOXfWar"
+    },
+    {
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "album": {
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 216638,
       "name": "fitt (with Amaarae)",
       "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 172113,
       "name": "Gimme (feat. Koffee & Jessie Reyez)",
       "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 239746,
       "name": "Hauntology",
       "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
@@ -1716,7 +1752,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 183373,
       "name": "I Saw Light",
       "url": "https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8"
@@ -1796,6 +1832,32 @@
       "duration_ms": 164060,
       "name": "I'm Not Giving Up",
       "url": "https://open.spotify.com/track/5FL7QmPdRJ2nUL8Qf2XLvP"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "album": {
@@ -2258,7 +2320,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 247610,
       "name": "Midnight Ride (feat. Robert Owens) - Edit",
       "url": "https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb"
@@ -2294,7 +2356,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 164053,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c"
@@ -2334,6 +2396,24 @@
       "duration_ms": 264873,
       "name": "My Own Person",
       "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+    },
+    {
+      "album": {
+        "name": "Shut In",
+        "url": "https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Pit",
+          "url": "https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121852,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk"
     },
     {
       "album": {
@@ -2420,7 +2500,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 248493,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/3eb9lgvOpZoW3qpW30PNOZ"
@@ -2474,7 +2554,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 244146,
       "name": "PAPERBAG",
       "url": "https://open.spotify.com/track/0t2vdbbw2HHbPhhZfXk5oc"
@@ -2994,7 +3074,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 227073,
       "name": "Sister Duress",
       "url": "https://open.spotify.com/track/7tYGCXhQhqG6eQUOejVCwE"

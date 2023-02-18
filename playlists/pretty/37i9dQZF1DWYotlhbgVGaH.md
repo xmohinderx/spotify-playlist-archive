@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,484 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,528 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 44 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 | 45 | [Knockin' At Your Door](https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M) | [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Vise Grip](https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN), [Connie Champagne](https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0), [David Rubin](https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Tom Beyer](https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM), [Tom Griesser](https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Whitney Wilson](https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7) | [Mortyfied!](https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e) | 2:49 |
 | 46 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
-| 47 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
-| 48 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
+| 47 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
+| 48 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 49 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 | 50 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDFhMDczOGFkN2ZjOTk0YzVmZjI1M2EzZTJiZjJhZDNj`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGExMjA4Y2I0Yzg4MWY4MzhlYWExZmMwYjA3YTlhNjI4`

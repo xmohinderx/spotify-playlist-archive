@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> The pulse of new indie rock\. Featuring boygenius.
+> The pulse of new indie rock\. Featuring Lovejoy.
 
-798 songs - 1 day 19 hr 27 min
+800 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-10-14 | 2022-11-12 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-06-07 | 2022-06-11 |
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-02-11 | 2022-04-21 |
-| [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 | 2022-07-01 |  |
+| [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 | 2022-07-01 | 2023-02-18 |
 | [2young2die](https://open.spotify.com/track/7IcpaXgRxjwrF8ZHBgxIVd) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Love & Melancholy](https://open.spotify.com/album/7eynSCg4pvP075HLVnZNNx) | 2:57 | 2022-06-10 | 2022-07-16 |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-18 |
 | [85 Down PCH](https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 2:16 | 2022-11-18 | 2022-12-08 |
@@ -276,6 +276,7 @@
 | [First Time Caller](https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [First Time Caller](https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6) | 5:17 | 2022-09-16 | 2022-11-19 |
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-14 | 2022-10-29 |
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-07-19 | 2022-02-19 |
+| [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-17 |  |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-07-23 | 2022-04-10 |
 | [Focus](https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Focus](https://open.spotify.com/album/69QkIjxgLwRUFibhVxRKpA) | 2:41 | 2022-09-30 | 2022-10-22 |
 | [Fool](https://open.spotify.com/track/18wWSj6ydP6E8oSkgw5vrM) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [Fool](https://open.spotify.com/album/6ZFJA2oxw1AdQUop3BzTV8) | 3:11 | 2021-08-20 | 2022-06-11 |
@@ -313,6 +314,7 @@
 | [Happy Right Now](https://open.spotify.com/track/2BGElnbD5SDoAtGqQEC6a8) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Happy Right Now](https://open.spotify.com/album/0PLcWUlTiktZTyDQWp8tIY) | 2:46 | 2021-10-22 | 2021-12-26 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-06-07 | 2022-04-15 |
 | [Hatch](https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Hatch](https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56) | 3:14 | 2021-09-17 | 2022-04-29 |
+| [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 | 2023-02-17 |  |
 | [Head Cheerleader](https://open.spotify.com/track/73DSvDKrNsvmVhvVJGwoGF) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Head Cheerleader](https://open.spotify.com/album/3b0fhWtykcE0DBzpqQsdAe) | 3:08 | 2021-06-07 | 2022-04-17 |
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-17 | 2022-04-09 |
 | [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 | 2022-11-04 | 2023-01-28 |
@@ -330,7 +332,7 @@
 | [hollllllllliday](https://open.spotify.com/track/5ZcPvn9grLZzppQ69iCAxr) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [hollllllllliday](https://open.spotify.com/album/18tFNt03nX0MCBPhEmTSAh) | 2:54 | 2022-10-07 | 2022-11-19 |
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-02 | 2022-06-11 |
 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 | 2022-07-29 | 2022-11-19 |
-| [Homebody](https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Homebody](https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG) | 2:49 | 2023-01-20 |  |
+| [Homebody](https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Homebody](https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG) | 2:49 | 2023-01-20 | 2023-02-18 |
 | [Hometown](https://open.spotify.com/track/0k1lGsi6pL8abra2yzIxeU) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Hometown](https://open.spotify.com/album/0Zrm8OUvkOisdzvWo9Fhl8) | 2:56 | 2021-07-02 | 2022-02-11 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-06-25 | 2022-04-21 |
 | [Hope & Smoke](https://open.spotify.com/track/1rGBiFbVFhGJSBhqPSmyyH) | [King Shelter](https://open.spotify.com/artist/2wzc9c6rclNEtMBAkg3FEN) | [Hope & Smoke](https://open.spotify.com/album/6PdggSTTyMHwwSM5BIkfu0) | 2:48 | 2021-08-06 | 2022-04-20 |

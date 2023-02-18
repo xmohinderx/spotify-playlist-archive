@@ -1,13 +1,53 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Jason Derulo",
-  "num_followers": 109493,
+  "description": "The hottest new pop with the all the drops. Cover: Icona Pop & Galantis",
+  "num_followers": 109629,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDE2MDQ3ODdjMDUxYzYwZDk1ZjQwMjVhZDYwOWEyZTg0",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGZkYTM5Mjk4ZTIzNmEzYzQ3YjRiNWZjNjUwN2Q4YzZl",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "ILYAF (I love you always forever)",
+        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 166091,
+      "name": "ILYAF (I love you always forever)",
+      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
+    },
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
@@ -27,6 +67,42 @@
       "duration_ms": 166572,
       "name": "Saturday/Sunday",
       "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Sugar (feat. Soaky Siren)",
+        "url": "https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "duration_ms": 144024,
+      "name": "Sugar (feat. Soaky Siren)",
+      "url": "https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -49,20 +125,72 @@
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
         }
       ],
-      "duration_ms": 193381,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
+      "duration_ms": 126774,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "No Saving Us (feat. SAYGRACE)",
+        "url": "https://open.spotify.com/album/7soMTIjTtiKw0PJQVl60k0"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "No Saving Us (feat. SAYGRACE)",
+      "url": "https://open.spotify.com/track/4GHxtNdSBBaWaivjS1Y05R"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "Money For Nothing",
+          "url": "https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY"
+        }
+      ],
+      "duration_ms": 123934,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -99,26 +227,6 @@
       "duration_ms": 178451,
       "name": "Firewalk",
       "url": "https://open.spotify.com/track/1NKpQ4bVY4rsTdUl7f4Cp7"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "ILYAF (I love you always forever)",
-        "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 166091,
-      "name": "ILYAF (I love you always forever)",
-      "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -345,22 +453,6 @@
       "url": "https://open.spotify.com/track/5sds9CuXKUMqdq05BPFXyi"
     },
     {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/2GahSUzUH4DzA1K7arrNHK"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/0zT3R25EU3tGDj9aDAfWn8"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Enough To Drink",
@@ -401,26 +493,6 @@
       "url": "https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 239888,
-      "name": "Escapism. - Sped Up",
-      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Heaven",
@@ -455,26 +527,6 @@
       "duration_ms": 171188,
       "name": "Hooked (Hot Stuff)",
       "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
-      },
-      "artists": [
-        {
-          "name": "Pascal Letoublon",
-          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
-        },
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -583,30 +635,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 119314,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Alone At Midnight",
         "url": "https://open.spotify.com/album/6yETZMXh1lCGTCZrfpWsqF"
       },
@@ -699,30 +727,6 @@
       "duration_ms": 167419,
       "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Guddi Riddim",
-        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Guddi Riddim",
-      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "added_at": "2023-01-06 05:00:00",

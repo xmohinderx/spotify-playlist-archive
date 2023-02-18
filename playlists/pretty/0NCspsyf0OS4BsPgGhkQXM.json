@@ -1,13 +1,121 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2032476,
+  "num_followers": 2032433,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4ODgsYjIwY2JkMGI2ZmRhMDQwNjU5ZmFkNGExNTYxMzRmZjViNzI0YTNkYg==",
+  "snapshot_id": "MTI4OTUsZTUwNjBjMWE4MWJkYmQ4MGMzYTg3NGZjMTQ3ZmNkNTI0OWQ2MTFkMg==",
   "tracks": [
+    {
+      "added_at": "2023-02-17 17:30:46",
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/28DQ29Hukx9FU5C7GdY4Ta"
+      },
+      "artists": [
+        {
+          "name": "So Dope",
+          "url": "https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/69bRYnIDPZM8IUmBLFVq2u"
+    },
+    {
+      "added_at": "2023-02-01 17:25:54",
+      "album": {
+        "name": "Don't Let Me Down (Remixes) (feat. Daya)",
+        "url": "https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Don't Let Me Down (feat. Daya) - Illenium Remix",
+      "url": "https://open.spotify.com/track/15BlympuVSfZFROojEMY2M"
+    },
+    {
+      "added_at": "2023-02-01 17:25:54",
+      "album": {
+        "name": "Bad Karma",
+        "url": "https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "Bad Karma",
+      "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
+    },
+    {
+      "added_at": "2023-02-01 17:25:54",
+      "album": {
+        "name": "Blue KNY Factory Remix",
+        "url": "https://open.spotify.com/album/4hbExwrtN2PYGnnGVchbsK"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Kny factory",
+          "url": "https://open.spotify.com/artist/175xNk1ZMOKlcRaTiWB7Wy"
+        },
+        {
+          "name": "Yannick Rastogi",
+          "url": "https://open.spotify.com/artist/7vkZrJjwg12X5jpgfwstJJ"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Blue KNY Factory Remix - KNY Factory Remix",
+      "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
+    },
+    {
+      "added_at": "2023-02-01 17:25:54",
+      "album": {
+        "name": "Northern Lights (Remixes)",
+        "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Neck And Neck - DNMO Remix",
+      "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
+    },
     {
       "added_at": "2023-02-03 17:01:04",
       "album": {
@@ -351,30 +459,6 @@
     {
       "added_at": "2023-02-01 17:25:54",
       "album": {
-        "name": "Don't Let Me Down (Remixes) (feat. Daya)",
-        "url": "https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Don't Let Me Down (feat. Daya) - Illenium Remix",
-      "url": "https://open.spotify.com/track/15BlympuVSfZFROojEMY2M"
-    },
-    {
-      "added_at": "2023-02-01 17:25:54",
-      "album": {
         "name": "LOGOS",
         "url": "https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP"
       },
@@ -407,22 +491,6 @@
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7"
-    },
-    {
-      "added_at": "2023-02-01 17:25:54",
-      "album": {
-        "name": "Bad Karma",
-        "url": "https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx"
-      },
-      "artists": [
-        {
-          "name": "Axel Thesleff",
-          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "Bad Karma",
-      "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
     },
     {
       "added_at": "2023-02-01 17:25:54",
@@ -575,30 +643,6 @@
     {
       "added_at": "2023-02-01 17:25:54",
       "album": {
-        "name": "Blue KNY Factory Remix",
-        "url": "https://open.spotify.com/album/4hbExwrtN2PYGnnGVchbsK"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Kny factory",
-          "url": "https://open.spotify.com/artist/175xNk1ZMOKlcRaTiWB7Wy"
-        },
-        {
-          "name": "Yannick Rastogi",
-          "url": "https://open.spotify.com/artist/7vkZrJjwg12X5jpgfwstJJ"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Blue KNY Factory Remix - KNY Factory Remix",
-      "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
-    },
-    {
-      "added_at": "2023-02-01 17:25:54",
-      "album": {
         "name": "The Blueprint (Deluxe)",
         "url": "https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy"
       },
@@ -675,6 +719,26 @@
       "duration_ms": 243380,
       "name": "Keep It Mello (feat. Omar LinX)",
       "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
+    },
+    {
+      "added_at": "2023-02-17 17:54:05",
+      "album": {
+        "name": "My Mind (with Charlie Kim)",
+        "url": "https://open.spotify.com/album/6iWqZQkEZPXS5Yfxo1NCBL"
+      },
+      "artists": [
+        {
+          "name": "Outr3ach",
+          "url": "https://open.spotify.com/artist/5Fxm01Q3h4d0JsKnVHnawz"
+        },
+        {
+          "name": "Charlie Kim",
+          "url": "https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "My Mind (with Charlie Kim)",
+      "url": "https://open.spotify.com/track/6KUZphPDNp0owWVfO5waBK"
     },
     {
       "added_at": "2023-02-01 17:25:54",
@@ -1171,30 +1235,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-02-01 17:25:54",
-      "album": {
-        "name": "Northern Lights (Remixes)",
-        "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        },
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Neck And Neck - DNMO Remix",
-      "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
     },
     {
       "added_at": "2023-02-01 17:25:54",

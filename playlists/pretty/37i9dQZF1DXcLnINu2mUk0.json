@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26303,
+  "num_followers": 26340,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMDIyNjU1YzllODUzZDZkYTBhMTAwNGRhMzFmNjhiNTIz",
+  "snapshot_id": "MTY3NjU5MjAwMCwwMDAwMDAwMGYwMmI1ZDBlNmRkOGVkM2ZiY2VkMmVmMzJiZGZiOTY5",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
-      "added_at": "2023-02-17 01:10:19",
+      "added_at": "2023-02-18 01:11:44",
       "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "S\u00f3 N\u00f3s Os Dois",
+        "url": "https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "S\u00f3 N\u00f3s Os Dois",
+      "url": "https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Aquece",
         "url": "https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 199376,
       "name": "Tequila (Studio Version)",
       "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "S\u00f3 N\u00f3s Os Dois",
-        "url": "https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "S\u00f3 N\u00f3s Os Dois",
-      "url": "https://open.spotify.com/track/35XIgRzlwtMsfF8wVAKG8i"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK"
     },
     {
-      "added_at": "2023-02-17 01:10:19",
+      "added_at": "2023-02-18 01:11:44",
       "album": {
         "name": "brilhante",
         "url": "https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz"

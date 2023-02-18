@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-493 songs - 1 day 12 hr 17 min
+494 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2021-10-06 | 2022-06-01 |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
-| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 |  |
+| [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 | 2023-02-18 |
 | [Festa na Praia](https://open.spotify.com/track/0Is39OnMsWNLRoWomgVbne) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Festa na Praia](https://open.spotify.com/album/2CThhhWYRRGGG4MOIYlEGs) | 4:11 | 2021-10-06 | 2022-04-19 |
 | [Fighting Slowly](https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Ayuune Sule](https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL) | [Fighting Slowly](https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk) | 5:22 | 2021-10-06 | 2022-07-29 |
 | [Filibusteros](https://open.spotify.com/track/4Q5fXlW4pCg2MlmPRjXANp) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [Filibusteros](https://open.spotify.com/album/6Co7dfsIvfkwughSqAg8vC) | 7:30 | 2021-10-06 | 2022-06-09 |
@@ -388,6 +388,7 @@
 | [Saluf](https://open.spotify.com/track/1ULE8R1kexScRh253uXXpp) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Saluf](https://open.spotify.com/album/0dXdsSXYQAOYh4zVHfzpVL) | 5:03 | 2021-10-06 | 2022-07-20 |
 | [Samarin Bolga](https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0) | [Uppers Chapter 2](https://open.spotify.com/artist/7vgsluTYoqjWOYriW3PeRX), [Kill Emil](https://open.spotify.com/artist/3y9hQYlwNKqhdybIJTFzTr) | [Afro Edits](https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C) | 4:08 | 2021-10-06 | 2022-06-29 |
 | [Sankofa Song](https://open.spotify.com/track/5KaSo0t3rbcmgd7gDIvlpK) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:25 | 2021-10-06 | 2022-06-02 |
+| [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 | 2023-02-02 |  |
 | [Say the Word](https://open.spotify.com/track/3ki2cRGh2tviyJHM2Ygdq5) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/2GqM2KPg3egBeZk1bFEvlg) | 3:27 | 2021-10-06 | 2022-04-21 |
 | [Say the Word](https://open.spotify.com/track/5ySFN6UT59uqDxp9TrSFvT) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:27 | 2021-10-06 | 2022-04-21 |
 | [Serpentines \(to Nikšić\)](https://open.spotify.com/track/5nLwagkCr9b7kvXGqmPGMZ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Serpentines \(to Nikšić\)](https://open.spotify.com/album/08BlKbdWhzZpClKQnFIX9s) | 4:47 | 2022-08-31 | 2022-12-03 |

@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Sham Ye Dhalte Dhalte",
+        "url": "https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9"
+      },
+      "artists": [
+        {
+          "name": "Swarit Nigam",
+          "url": "https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329863,
+      "name": "Sham Ye Dhalte Dhalte",
+      "url": "https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq"
+    },
+    {
+      "album": {
         "name": "Forever Jagjit",
         "url": "https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 338920,
       "name": "Yeh Watan Tumhara Hai",
       "url": "https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr"

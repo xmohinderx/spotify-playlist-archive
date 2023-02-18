@@ -1,13 +1,85 @@
 {
   "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Marca MP en portada. ",
-  "num_followers": 477841,
+  "num_followers": 478385,
   "original_name": "sad sierre\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM5NDYzMiwwMDAwMDAwMGJlMDNiNGIzNmQyY2YzNzViMGJhYzhlZTQwN2Q2YWQ0",
+  "snapshot_id": "MTY3NjYxMzYwMCwwMDAwMDAwMDQxODcwMGI4ZDIyMjY5MGY3ZDRlYjg5ZDUzYzE1ZmEw",
   "tracks": [
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Labios de Cereza",
+        "url": "https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Labios de Cereza",
+      "url": "https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn"
+    },
+    {
+      "added_at": "2023-02-14 17:10:32",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+    },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
@@ -47,146 +119,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 240654,
-      "name": "Extssy Model",
-      "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
-    },
-    {
-      "added_at": "2023-02-14 17:10:32",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 252166,
-      "name": "La \u00daltima Vez - Deluxe",
-      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Cambio De Canci\u00f3n",
-        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Labios de Cereza",
-        "url": "https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Labios de Cereza",
-      "url": "https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 155125,
-      "name": "Cuando T\u00fa Me Miras",
-      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -199,22 +131,6 @@
       "duration_ms": 211198,
       "name": "Perro Abandonado",
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -239,8 +155,8 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
       },
       "artists": [
         {
@@ -248,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 287929,
-      "name": "Jueves 10",
-      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -267,6 +183,38 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 292236,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "NO SE VA",
+        "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
+      },
+      "artists": [
+        {
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+        }
+      ],
+      "duration_ms": 251981,
+      "name": "NO SE VA",
+      "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -287,18 +235,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+      "duration_ms": 264300,
+      "name": "Ya Te Perd\u00ed - Deluxe",
+      "url": "https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 287929,
+      "name": "Jueves 10",
+      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -315,6 +279,138 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 240654,
+      "name": "Extssy Model",
+      "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Te Excitas (Single)",
+        "url": "https://open.spotify.com/album/7m7CAVltTzxH9ZYYR0dWhQ"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "duration_ms": 338128,
+      "name": "Te Excitas",
+      "url": "https://open.spotify.com/track/4UD4wSysN1dcnV79Zlp1Jz"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Solo Tu Podras",
+        "url": "https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 206814,
+      "name": "Solo Tu Podras",
+      "url": "https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Blanco Y Negro",
+        "url": "https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR"
+      },
+      "artists": [
+        {
+          "name": "Dano Arias",
+          "url": "https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Blanco Y Negro",
+      "url": "https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Nuestras metas",
+        "url": "https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK"
+      },
+      "artists": [
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Nuestras metas",
+      "url": "https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -337,10 +433,10 @@
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "amorlove",
-        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
+        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
       },
       "artists": [
         {
@@ -348,153 +444,45 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 149386,
-      "name": "amorlove",
-      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
+      "duration_ms": 207720,
+      "name": "d\u00e9jame vivir",
+      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "L\u00e1grimas De Dolor",
+        "url": "https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 229621,
+      "name": "L\u00e1grimas De Dolor",
+      "url": "https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD"
     },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 264300,
-      "name": "Ya Te Perd\u00ed - Deluxe",
-      "url": "https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Para No Verte Mas",
-        "url": "https://open.spotify.com/album/54mb1gZmF7eMRpsLbPcY0O"
-      },
-      "artists": [
-        {
-          "name": "Eskuela de Las Calles",
-          "url": "https://open.spotify.com/artist/6V11W3tkCfXgwSEZ3VQGfR"
-        }
-      ],
-      "duration_ms": 223923,
-      "name": "Para No Verte Mas",
-      "url": "https://open.spotify.com/track/1iM44BAVCu9b2CsKeE68HD"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Nuestras metas",
-        "url": "https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK"
-      },
-      "artists": [
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Nuestras metas",
-      "url": "https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+      "duration_ms": 188888,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -515,18 +503,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Este Sentimiento",
-        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+        "name": "Cambio De Canci\u00f3n",
+        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Este Sentimiento",
-      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -547,66 +535,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 137541,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq"
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -627,18 +583,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+      "duration_ms": 137541,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -659,18 +631,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "DEL Records Presenta: Por Causa DEL Amor",
-        "url": "https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9"
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
       },
       "artists": [
         {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Pistie Tu Recuerdo",
-      "url": "https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx"
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -691,70 +663,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "solo",
-        "url": "https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ"
+        "name": "Que Me Hiciste",
+        "url": "https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Estilo Noreste",
+          "url": "https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r"
         }
       ],
-      "duration_ms": 228740,
-      "name": "solo",
-      "url": "https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Noches Tristes",
-        "url": "https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa"
-      },
-      "artists": [
-        {
-          "name": "Distinto",
-          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "La Realidad",
-      "url": "https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Despues De Ti",
-        "url": "https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 135185,
-      "name": "Despues De Ti",
-      "url": "https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Maldito Olvido",
-        "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
-      },
-      "artists": [
-        {
-          "name": "Diamante Perez",
-          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
-        },
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9"
-        }
-      ],
-      "duration_ms": 214804,
-      "name": "Maldito Olvido",
-      "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+      "duration_ms": 247367,
+      "name": "Que Me Hiciste",
+      "url": "https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -775,50 +695,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Que Me Hiciste",
-        "url": "https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum"
+        "name": "solo",
+        "url": "https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ"
       },
       "artists": [
         {
-          "name": "Estilo Noreste",
-          "url": "https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 247367,
-      "name": "Que Me Hiciste",
-      "url": "https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn"
+      "duration_ms": 228740,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "2:26am",
-        "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
       },
       "artists": [
         {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 201804,
-      "name": "2:26am",
-      "url": "https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Me Cans\u00e9",
-        "url": "https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 301642,
-      "name": "Me Cans\u00e9",
-      "url": "https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI"
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -839,6 +743,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Para No Verte Mas",
+        "url": "https://open.spotify.com/album/54mb1gZmF7eMRpsLbPcY0O"
+      },
+      "artists": [
+        {
+          "name": "Eskuela de Las Calles",
+          "url": "https://open.spotify.com/artist/6V11W3tkCfXgwSEZ3VQGfR"
+        }
+      ],
+      "duration_ms": 223923,
+      "name": "Para No Verte Mas",
+      "url": "https://open.spotify.com/track/1iM44BAVCu9b2CsKeE68HD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -855,18 +775,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Piensa",
-        "url": "https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV"
+        "name": "Despues De Ti",
+        "url": "https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx"
       },
       "artists": [
         {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 273339,
-      "name": "Piensa",
-      "url": "https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my"
+      "duration_ms": 135185,
+      "name": "Despues De Ti",
+      "url": "https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -887,34 +823,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Era El \u00danico",
-        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+        "name": "DEL Records Presenta: Por Causa DEL Amor",
+        "url": "https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9"
       },
       "artists": [
         {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
         }
       ],
-      "duration_ms": 130375,
-      "name": "Era El \u00danico",
-      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "INERCIA",
-        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC"
+      "duration_ms": 189440,
+      "name": "Pistie Tu Recuerdo",
+      "url": "https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx"
     }
   ],
   "unique_name": "sad sierre\u00f1o",

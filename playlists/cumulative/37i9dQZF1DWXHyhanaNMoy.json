@@ -2435,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Doe M'n Best",
+        "url": "https://open.spotify.com/album/0anPnXu2zJj2DD90l0edE8"
+      },
+      "artists": [
+        {
+          "name": "Wowi",
+          "url": "https://open.spotify.com/artist/6wMTXQM1eVz7pU83iGskyR"
+        },
+        {
+          "name": "Some",
+          "url": "https://open.spotify.com/artist/21Sh5EcNtL9tl8YeT7t81M"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Doe M'n Best",
+      "url": "https://open.spotify.com/track/67IJXCN36NMxeDUHccfu2s"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1gTywEF0u2qLADTzEnwbsd"
       },

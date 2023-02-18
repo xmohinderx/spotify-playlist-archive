@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 100858,
       "name": "70s",
       "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 126955,
       "name": "Can You Bounce? - Remix",
       "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
@@ -1202,6 +1202,24 @@
       "duration_ms": 144000,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
+    },
+    {
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "album": {
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 111304,
       "name": "Orange Soda - Jersey Club Remix",
       "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
@@ -3568,6 +3586,28 @@
       "duration_ms": 124444,
       "name": "Press Play (Gamer Girl)",
       "url": "https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o"
+    },
+    {
+      "album": {
+        "name": "Pretty Ones",
+        "url": "https://open.spotify.com/album/6SRrDF2P7b83fiFkd1DGN5"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221570,
+      "name": "Pretty Ones",
+      "url": "https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr"
     },
     {
       "album": {
@@ -4502,6 +4542,24 @@
       "duration_ms": 103073,
       "name": "Trip to Brazil",
       "url": "https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx"
+    },
+    {
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "album": {

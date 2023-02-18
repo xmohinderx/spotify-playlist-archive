@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2132974,
+  "num_followers": 2136777,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0NDA2MiwwMDAwMDAwMGRlY2QwZWI3ZjhiOTQzOWNiZTE5YmIzN2RhZTc4ZmU4",
+  "snapshot_id": "MTY3MzU0NDA2MiwwMDAwMDAwMDZmMWIyYTAyMjhmYjQ0OTcxNjcwMmEyMzkzMTE3NTk4",
   "tracks": [
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "Pura Playa",
+        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "Pura Playa",
-        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 212703,
+      "name": "No Le Temas A \u00c9l (feat. H\u00e9ctor & Tito)",
+      "url": "https://open.spotify.com/track/1eknj4ni0Cbswll0c5Fi3A"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        },
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        }
-      ],
-      "duration_ms": 212703,
-      "name": "No Le Temas A \u00c9l (feat. H\u00e9ctor & Tito)",
-      "url": "https://open.spotify.com/track/1eknj4ni0Cbswll0c5Fi3A"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
+        "name": "El Pat\u00e1n",
+        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
       },
       "artists": [
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
+      "duration_ms": 236893,
+      "name": "Daga Adicta",
+      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "El Pat\u00e1n",
-        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
       },
       "artists": [
         {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         }
       ],
-      "duration_ms": 236893,
-      "name": "Daga Adicta",
-      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
+      "duration_ms": 198946,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "A Ti No",
-      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Drama Queen (Deluxe Version)",
         "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 228560,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "A Ti No",
+      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "The Bad Boy (The Most Wanted Edition)",
-        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "Blin Blin, Vol. 1",
         "url": "https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc"
       },
@@ -2879,6 +2863,22 @@
       "duration_ms": 144186,
       "name": "Villana",
       "url": "https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "The Bad Boy (The Most Wanted Edition)",
+        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -2975,6 +2975,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 183196,
+      "name": "Te Ir\u00e9 a Buscar",
+      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
         "name": "La Calle Vol. 1",
         "url": "https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME"
       },
@@ -3007,22 +3023,6 @@
       "duration_ms": 131773,
       "name": "Amor Con la Ropa",
       "url": "https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 183196,
-      "name": "Te Ir\u00e9 a Buscar",
-      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3423,22 +3423,6 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Tuve un Sueno",
-      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
-    },
-    {
-      "added_at": "2022-12-16 17:15:38",
-      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -3455,6 +3439,22 @@
       "duration_ms": 223013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
+    },
+    {
+      "added_at": "2022-12-16 17:15:38",
+      "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Tuve un Sueno",
+      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3679,22 +3679,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/3DGMNR9O9QpuMhRaZlxAtN"
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
       "artists": [
         {
-          "name": "Pipe Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
         },
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
         }
       ],
-      "duration_ms": 294826,
-      "name": "Vaina Loca - Remix",
-      "url": "https://open.spotify.com/track/6dZyrKtOxPV8kXlln1ylk8"
+      "duration_ms": 190186,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
     },
     {
       "added_at": "2022-12-16 17:15:38",
@@ -3719,22 +3719,22 @@
     {
       "added_at": "2022-12-16 17:15:38",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+        "name": "History",
+        "url": "https://open.spotify.com/album/3DGMNR9O9QpuMhRaZlxAtN"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
         },
         {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+      "duration_ms": 294826,
+      "name": "Vaina Loca - Remix",
+      "url": "https://open.spotify.com/track/6dZyrKtOxPV8kXlln1ylk8"
     },
     {
       "added_at": "2022-12-16 17:15:38",

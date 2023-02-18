@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Scowl
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Heriot
 
-329 songs - 21 hr 2 min
+335 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Decider](https://open.spotify.com/track/1RDsaI3HmmqcCpAu6xjna3) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Decider](https://open.spotify.com/album/78opHBtvQxLJqlZ14uEHjW) | 4:29 | 2022-08-05 |  |
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-02 |  |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-22 |  |
+| [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-02-17 |  |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-22 |  |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 |  |
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 |  |
@@ -91,6 +92,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 |  |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
+| [Endless Return to the Kingdom of Sleep](https://open.spotify.com/track/21U4EHOgwhHBdscrRKWcXw) | [Predatory Void](https://open.spotify.com/artist/6I1ox6Hu5K9xpmCIAhF7Ch) | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/album/67hjoAqUrtExU3vT4JoxwV) | 6:31 | 2023-02-17 |  |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
@@ -119,6 +121,7 @@
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 |  |
 | [Fortress of Torture](https://open.spotify.com/track/5XHC0TN0uBzgUulFXUaSXj) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Fortress of Torture](https://open.spotify.com/album/1HAZFcWJWu9RWbND8aqkAN) | 1:28 | 2022-08-12 |  |
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 |  |
+| [FRESH BONES](https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [FRESH BONES](https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW) | 2:28 | 2023-02-17 |  |
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
@@ -174,6 +177,7 @@
 | [Misery](https://open.spotify.com/track/718kW5adekn5hC9lF7ZED4) | [Author & Punisher](https://open.spotify.com/artist/4QtqJ5KVIhBruJWEhWjnsv) | [Krüller](https://open.spotify.com/album/6RVqlSdUv4Mj79zYuCWw7a) | 4:49 | 2022-02-11 |  |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-11 |  |
 | [Moonlit Torture \(feat\. Dwid Hellion\)](https://open.spotify.com/track/0nyydGaHafNp44nIlMNwta) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE), [Dwid Hellion](https://open.spotify.com/artist/4PB2NpCeTvqRNzqnQz00Jm) | [Moonlit Torture \(feat\. Dwid Hellion\)](https://open.spotify.com/album/1gRyk7ckJ2MGol5tP2th1m) | 4:34 | 2022-08-12 |  |
+| [Morbid Effigy \(feat\. John Gallagher of Dying Fetus\)](https://open.spotify.com/track/3sJAGFYaWIsOZoXiMGWcXi) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [John Gallagher](https://open.spotify.com/artist/3SdmYL7oUhaUFwJhBGp2D6) | [Morbid Effigy \(feat\. John Gallagher of Dying Fetus\)](https://open.spotify.com/album/3H1jdoNX8YfDBUejrwq5oL) | 4:11 | 2023-02-17 |  |
 | [Mother Fucking Liar](https://open.spotify.com/track/2iu3j0Gumnc0aTUhuGjJAR) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Mother Fucking Liar](https://open.spotify.com/album/5rIBeueszVxOFNhXulxiwb) | 3:12 | 2022-04-29 |  |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 |  |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 |  |
@@ -242,6 +246,7 @@
 | [Selfish Hearts](https://open.spotify.com/track/0smmYlU6Y8aYAxMxoF13gC) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Selfish Hearts](https://open.spotify.com/album/3O1wud1esviXgsvwkzBK5p) | 2:50 | 2022-05-27 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2022-03-25 |  |
 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2022-11-18 |  |
+| [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 | 2023-02-17 |  |
 | [Shaken \(not stirred\)](https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Shaken \(not stirred\)](https://open.spotify.com/album/3pDXkhMOLNggMubMljdkRJ) | 5:19 | 2022-09-02 |  |
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 |  |
@@ -294,6 +299,7 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 |  |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 |  |
+| [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-17 |  |
 | [Turn to Me](https://open.spotify.com/track/1hXtv1txnXMXAvZU2YdRme) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 3:42 | 2023-01-13 |  |
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 |  |
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 |  |

@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/5lhdWrh4Wa3wH1nkt73RWI"
+      },
+      "artists": [
+        {
+          "name": "William Reed",
+          "url": "https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131418,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4c7qz4XbADXeyr8LAxNTUK"
+    },
+    {
+      "album": {
         "name": "Echosphere",
         "url": "https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX"
       },
@@ -1573,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Quiet before the Tempest",
+        "url": "https://open.spotify.com/album/7AxACJsdvmSjhvB9RiiGWe"
+      },
+      "artists": [
+        {
+          "name": "Across The Great Valley",
+          "url": "https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "Quiet before the Tempest",
+      "url": "https://open.spotify.com/track/64VfF4iKHho1Y5q5e2Ltwo"
+    },
+    {
+      "album": {
         "name": "Reconnection",
         "url": "https://open.spotify.com/album/6fqlzVb31jQJUJgdoLXsvc"
       },
@@ -1950,6 +1986,24 @@
       "duration_ms": 177230,
       "name": "space cadet academy",
       "url": "https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT"
+    },
+    {
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6"
+      },
+      "artists": [
+        {
+          "name": "Serenity Within",
+          "url": "https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167781,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-276 songs - 15 hr 40 min
+277 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2022-07-19 | 2022-10-16 |
 | [Dark Forest](https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 2:30 | 2022-07-19 |  |
 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 | 2022-06-29 |  |
-| [Dazed](https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa) | [Diskret](https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH) | [Dazed](https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO) | 3:30 | 2022-06-29 |  |
+| [Dazed](https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa) | [Diskret](https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH) | [Dazed](https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO) | 3:30 | 2022-06-29 | 2023-02-18 |
 | [Dazzle Ships](https://open.spotify.com/track/0i6aTPr964TYjgmXzRAdkp) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Dazzle Ships](https://open.spotify.com/album/5VxkdxCc2agKg0kTJZFoQS) | 2:35 | 2022-07-19 | 2022-07-29 |
 | [Dazzle Ships](https://open.spotify.com/track/6XkwLtL1E0lK0ZM134DOnc) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Dazzle Ships](https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ) | 2:35 | 2022-07-19 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2022-07-19 |  |
@@ -182,6 +182,7 @@
 | [Mountain Fog](https://open.spotify.com/track/3W4XdEp5feFsi9mePm506Q) | [Kalajvi](https://open.spotify.com/artist/2me6X7yihiSqhZTFSLH40V) | [Mountain Fog](https://open.spotify.com/album/2v3Nd2cDsZioTw0N157B3s) | 2:54 | 2022-06-29 | 2022-08-01 |
 | [Mountains](https://open.spotify.com/track/6AfCbp1MYafDCjZZnwEaQx) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Mountains](https://open.spotify.com/album/2coNnA3QDgoYWqQgK7BDM9) | 2:18 | 2022-06-29 | 2022-07-29 |
 | [Myth](https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3) | 2:39 | 2022-07-19 |  |
+| [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2023-02-18 |  |
 | [Nature's Cradle](https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW) | 3:20 | 2022-07-19 | 2022-08-24 |
 | [Nature's Cradle](https://open.spotify.com/track/4P5BrmxMAJrqenB0L1e5Up) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-06-29 |  |

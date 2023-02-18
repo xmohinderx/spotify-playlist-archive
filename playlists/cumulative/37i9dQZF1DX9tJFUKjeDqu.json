@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 262320,
       "name": "Dodging The Blues",
       "url": "https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5"
@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Roads",
+        "url": "https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz"
+      },
+      "artists": [
+        {
+          "name": "Lior Holzman",
+          "url": "https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195386,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN"
+    },
+    {
+      "album": {
         "name": "The Heart of the Delta",
         "url": "https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx"
       },
@@ -2102,6 +2120,24 @@
       "duration_ms": 110133,
       "name": "Wing It",
       "url": "https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ"
+    },
+    {
+      "album": {
+        "name": "With Love from My Porch",
+        "url": "https://open.spotify.com/album/0DRbvFvHJDxRp4zLT2JvJe"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallace",
+          "url": "https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113503,
+      "name": "With Love from My Porch",
+      "url": "https://open.spotify.com/track/79Eobaxlzqp9jrepMMFqlV"
     },
     {
       "album": {

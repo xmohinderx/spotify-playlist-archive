@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178056,
       "name": "Action",
       "url": "https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK"
@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "DROP 'EM",
+        "url": "https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162901,
+      "name": "DROP 'EM",
+      "url": "https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5"
+    },
+    {
+      "album": {
         "name": "El Pana Dero",
         "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 146313,
       "name": "Guaracha En Reggaetonlandia",
       "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
@@ -1457,6 +1479,28 @@
     },
     {
       "album": {
+        "name": "Midnight (feat. LINK)",
+        "url": "https://open.spotify.com/album/2jSolctatBqVTEUDJ6lRyD"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        },
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Midnight (feat. LINK)",
+      "url": "https://open.spotify.com/track/5HpRQNBXWdFdXcLCNS5Niv"
+    },
+    {
+      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF"
       },
@@ -1837,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/48asWtGeUdrvyLjixjfmQy"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        },
+        {
+          "name": "YAWNS",
+          "url": "https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168891,
+      "name": "Para Ti (feat. YAWNS)",
+      "url": "https://open.spotify.com/track/09Fth0vWobNAsmzCJo2Lve"
+    },
+    {
+      "album": {
         "name": "Patience (feat. Kayla Rose)",
         "url": "https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7"
       },
@@ -1970,7 +2036,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 189600,
       "name": "Plus 1 (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj"
@@ -2220,7 +2286,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 179308,
       "name": "Stop The World",
       "url": "https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo"
@@ -2610,7 +2676,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 194124,
       "name": "Vamos a Beber",
       "url": "https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd"

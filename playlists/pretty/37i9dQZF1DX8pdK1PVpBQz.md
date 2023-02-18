@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: BESTIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,925 likes - 98 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,928 likes - 98 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 68 | [EVERYTHING ON ME](https://open.spotify.com/track/1GGdPTdVCMVtOQ3WZlbfrD) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA) | [EVERYTHING ON ME](https://open.spotify.com/album/213DkHPPrJw28gDZu1JeHQ) | 3:16 |
 | 69 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 |
 | 70 | [HELL BANG](https://open.spotify.com/track/2sAfXoygpFIgjDvw1NQoYZ) | [WXCKY](https://open.spotify.com/artist/7F3Lh3KunK7F8XJaxNOUY4), [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Eryxse](https://open.spotify.com/artist/6imt6WsSJ4CsmGIynup4wW) | [HELL BANG](https://open.spotify.com/album/0PgBy8xp4DITrDxOQ9CNAj) | 1:31 |
-| 71 | [dinner with the moon](https://open.spotify.com/track/3pz8YQ1OHYJ3QaBNKNsVPO) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [little star](https://open.spotify.com/album/0TgD84AF4DYHqx3aEa4af1) | 2:53 |
+| 71 | [dinner with the moon](https://open.spotify.com/track/5IaH94tPKGcTn7QCplEECq) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [little star](https://open.spotify.com/album/7I7I9FDsBykUzmfKukq28s) | 2:53 |
 | 72 | [Fluorescent \(feat\. Dear Seattle\)](https://open.spotify.com/track/5G5v07JZJORC70QJ9p5oAf) | [Grenade Jumper](https://open.spotify.com/artist/23OPocVUkq5cvRZsjrW2xP), [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Fluorescent \(feat\. Dear Seattle\)](https://open.spotify.com/album/132kCew1kV0wcjEIbP0hxf) | 2:40 |
 | 73 | [Dexamphetamine](https://open.spotify.com/track/2zhOlkYly1bX1qZmfHoMHl) | [BAYANG \(tha Bushranger\)](https://open.spotify.com/artist/6cAeWipy7tqdKa5mIPHMIY), [Nerdie](https://open.spotify.com/artist/3CMEqt3aTZozLZQHEF56V7) | [Dexamphetamine/Ghola](https://open.spotify.com/album/1pq6xDIqQhoMuFz5KKqIjm) | 2:12 |
 | 74 | [Orange](https://open.spotify.com/track/4Gav4dJAzDdABAaXm0L00T) | [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [Orange](https://open.spotify.com/album/6Fg8W91ZK9HeBZSsLWXTje) | 2:00 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 97 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 |
 | 98 | [i promise i love you](https://open.spotify.com/track/4thJoOa21Qt3vqIn6PSFop) | [TALLOU](https://open.spotify.com/artist/5AUnfQ7sUzW6s7F8BZ85u8) | [i promise i love you](https://open.spotify.com/album/7fxyTH08fkgiP0TpPvNcI0) | 3:06 |
 
-Snapshot ID: `MTY3NjQ0MjgxMSwwMDAwMDAwMDgzMDQzNjc2MjhkY2RmZTE5ZDVmNGY5ODJmODdkMzFm`
+Snapshot ID: `MTY3NjQ0MjgxMSwwMDAwMDAwMGZlODhlNTM1NjY3Y2RhMGE5Nzg3OWQ0MjRhMmQyNWJj`

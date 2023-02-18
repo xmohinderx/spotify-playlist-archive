@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > Para las mujeres que le dan duro al  gym\. ¡A quemar grasa con este playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,839 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,971 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 80 | [No Te Vayas](https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas](https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok) | 3:21 |
 | 81 | [Coronao Now](https://open.spotify.com/track/7FbKipScVxkjQxQXwTd0gL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Coronao Now](https://open.spotify.com/album/5VVkOFYXmjtYd6hoasaWKQ) | 3:37 |
 | 82 | [La Respuesta](https://open.spotify.com/track/2fOjendzUzepHwR9QrVyYF) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Respuesta](https://open.spotify.com/album/4lKXaL7t6jn8V4nvmZ6ggZ) | 3:02 |
-| 83 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 |
-| 84 | [badwine \- Remix](https://open.spotify.com/track/5MPQfbK3LIOyPT84WJyD7g) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [badwine \(Remix\)](https://open.spotify.com/album/6lv1q40UA6Fpe6MEImlzpc) | 2:34 |
+| 83 | [badwine \- Remix](https://open.spotify.com/track/5MPQfbK3LIOyPT84WJyD7g) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [badwine \(Remix\)](https://open.spotify.com/album/6lv1q40UA6Fpe6MEImlzpc) | 2:34 |
+| 84 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 |
 | 85 | [El Boom](https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [El Boom](https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW) | 3:39 |
 | 86 | [Bebesita](https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:05 |
 | 87 | [Te Soñé de Nuevo](https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 99 | [Confía](https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:22 |
 | 100 | [Me Gusta \- Remix](https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Gusta \(Remix\)](https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r) | 3:17 |
 
-Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDEzNDU0Njk0ODExOTNlN2NiNmEwZDIwNWI1MTUyNTY0`
+Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDlhYTMzYWRkNjQ2ZGU5MjEwZDBjNTRkNzg2ZGY4YWMz`

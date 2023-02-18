@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-200 songs - 11 hr 34 min
+201 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 | 2022-05-30 |  |
 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 | 2022-05-30 | 2022-07-29 |
 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 | 2022-06-24 |  |
+| [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 | 2023-02-18 |  |
 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 | 2022-09-16 | 2022-12-16 |
 | [We Are the Love We Give \- Acoustic](https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [We Are the Love We Give \(Acoustic\)](https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ) | 3:06 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-05-30 | 2022-07-29 |
@@ -204,7 +205,7 @@
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4lGBYppTdnYP5ELFc13KOb) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/3rcKlt3Yh8TKM4LpTHEbrt) | 3:09 | 2022-05-30 | 2022-07-29 |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2022-06-24 |  |
 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 | 2022-05-30 | 2022-11-27 |
-| [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 | 2022-05-30 |  |
+| [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 | 2022-05-30 | 2023-02-18 |
 | [Without You](https://open.spotify.com/track/7gQ0Ujx0iQ6yxNTFukpwFx) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/5gJz01RcHXsdy2IDWsnPtP) | 4:32 | 2022-05-30 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 | 2022-11-07 |  |
 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 | 2022-05-30 |  |

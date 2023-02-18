@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,387 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,464 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 56 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 57 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
 | 58 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
-| 59 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 |
+| 59 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 |
 | 60 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 |
-| 61 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 |
+| 61 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 |
 | 62 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 |
 | 63 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
 | 64 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 75 | [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 |
 | 76 | [Sou Eu](https://open.spotify.com/track/3Jxxzv0FEqlL9rYaETaccs) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Sou Eu](https://open.spotify.com/album/0o8HSd47qb6yQxh8VKkFtz) | 5:06 |
 | 77 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
-| 78 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 |
-| 79 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
+| 78 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 |
+| 79 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 |
 | 80 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 | 81 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 |
-| 82 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 |
+| 82 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 83 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDg3ZDVlNzE4YmJhZjEwMjgwNWVjNzBjNTg5MjViZTlh`
+Snapshot ID: `MTY3NjAzMTg2NCwwMDAwMDAwMDdmNDg5ZWJmZDY0YjE4OTdiZjI5NmQyMWFlZjFjYjVj`

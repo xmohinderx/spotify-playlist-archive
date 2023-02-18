@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 31333,
+  "num_followers": 31411,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMGUxYzRkN2YyOWVlNzg1ODZkMmE1MGVmZWZiNGNkYmNl",
+  "snapshot_id": "MTY3NjU4ODQwMCwwMDAwMDAwMDQyMWE0ZjYyYjA4OTc2MzMwY2VhYzhiYjU2NjkxYWM1",
   "tracks": [
     {
       "added_at": "2023-01-27 09:31:58",
@@ -217,26 +217,6 @@
       "url": "https://open.spotify.com/track/7FgTiCDEwiRNrjvHLPEiyS"
     },
     {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
-    },
-    {
       "added_at": "2023-02-03 09:16:38",
       "album": {
         "name": "Ifunanya",
@@ -255,6 +235,26 @@
       "duration_ms": 218166,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -371,22 +371,18 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
+        "name": "Wind of Revival",
+        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 224634,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
+      "duration_ms": 281251,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Wind of Revival",
-        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 281251,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
+      "duration_ms": 224634,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 197522,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 355250,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 197522,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -595,38 +595,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -647,18 +615,34 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -683,6 +667,22 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "Final Say",
         "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 209194,
       "name": "Final Say",
       "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -899,6 +899,42 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "added_at": "2023-02-10 10:44:11",
+      "album": {
+        "name": "Love Is Sweet",
+        "url": "https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Love Is Sweet",
+      "url": "https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
         "name": "Yehowah",
         "url": "https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp"
       },
@@ -965,24 +1001,20 @@
       "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
     },
     {
-      "added_at": "2023-02-10 10:44:11",
+      "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Love Is Sweet",
-        "url": "https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu"
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
       },
       "artists": [
         {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 155513,
-      "name": "Love Is Sweet",
-      "url": "https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE"
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-02-03 09:16:38",
@@ -1011,18 +1043,18 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+        "name": "Aware",
+        "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+      "duration_ms": 165928,
+      "name": "You Called Me Out",
+      "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -1039,22 +1071,6 @@
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
-        "name": "Aware",
-        "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 165928,
-      "name": "You Called Me Out",
-      "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -1111,22 +1127,6 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Come Alive (Deluxe)",
-        "url": "https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF"
-      },
-      "artists": [
-        {
-          "name": "All Nations Music",
-          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 311623,
-      "name": "Come Alive (feat. Todd Dulaney)",
-      "url": "https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "Faaji Friday 4.0",
         "url": "https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
+        "name": "Come Alive (Deluxe)",
+        "url": "https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF"
+      },
+      "artists": [
+        {
+          "name": "All Nations Music",
+          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 311623,
+      "name": "Come Alive (feat. Todd Dulaney)",
+      "url": "https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
         "name": "W'asem",
         "url": "https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f"
       },
@@ -1287,6 +1287,26 @@
       "duration_ms": 219144,
       "name": "W'asem",
       "url": "https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
     },
     {
       "added_at": "2023-01-27 09:31:58",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-27 09:31:58",
       "album": {
-        "name": "Shower Me",
-        "url": "https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe"
-      },
-      "artists": [
-        {
-          "name": "Sam Oladotun",
-          "url": "https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Shower Me",
-      "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"
-    },
-    {
-      "added_at": "2023-01-27 09:31:58",
-      "album": {
         "name": "No Other God",
         "url": "https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 437345,
       "name": "No Other God",
       "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
+    },
+    {
+      "added_at": "2023-01-27 09:31:58",
+      "album": {
+        "name": "Shower Me",
+        "url": "https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe"
+      },
+      "artists": [
+        {
+          "name": "Sam Oladotun",
+          "url": "https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Shower Me",
+      "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"
     },
     {
       "added_at": "2023-01-27 09:31:58",

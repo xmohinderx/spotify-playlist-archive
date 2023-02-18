@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Sant",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Tribo da Periferia",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 141333,
       "name": "157",
       "url": "https://open.spotify.com/track/6RDpNYmvVAY0NCjWKr9e40"
+    },
+    {
+      "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/3Lp50deOAmqBJsN4vBPZLs"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Killergui",
+          "url": "https://open.spotify.com/artist/1bPxKzl5Lg8eMzsB7az0Jc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1sL8jrQOc3lG2Tow2lpjDj"
     },
     {
       "album": {
@@ -3290,7 +3312,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 349156,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/0FK97NjseyJ92JfXucS75W"
@@ -5669,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Por Mim",
+        "url": "https://open.spotify.com/album/2GnNEgGmlPonEmhi1SAKy6"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Por Mim",
+      "url": "https://open.spotify.com/track/5K2Xo21OoSpjA6asllBxvP"
+    },
+    {
+      "album": {
         "name": "Poseidon",
         "url": "https://open.spotify.com/album/4PvD6dylkxai8n0uSCxa3x"
       },
@@ -6258,7 +6298,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 151304,
       "name": "Ruas de Sangue",
       "url": "https://open.spotify.com/track/5guFfy2jcQXgMND6mZwiYG"
@@ -6378,6 +6418,28 @@
       "duration_ms": 217872,
       "name": "Sala de Estar",
       "url": "https://open.spotify.com/track/1LTgY069vxDFybdo3Lhr9h"
+    },
+    {
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/1nPYdOi97hrkjJWGhjFAwF"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/54vIuLVHXrmNx08KCaledL"
     },
     {
       "album": {
@@ -7628,7 +7690,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 108323,
       "name": "Voltei",
       "url": "https://open.spotify.com/track/77Yf4Jfx61VmOvOG1c4jhL"

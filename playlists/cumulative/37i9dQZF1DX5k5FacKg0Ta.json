@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Big Push",
+        "url": "https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Heinola Quartet",
+          "url": "https://open.spotify.com/artist/1wqgTdQxJwz27q0AjYJAMp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385408,
+      "name": "Big Push",
+      "url": "https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs"
+    },
+    {
+      "album": {
         "name": "Births Today",
         "url": "https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X"
       },
@@ -396,7 +414,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 435773,
       "name": "Corona",
       "url": "https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i"
@@ -1167,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/54j1wZqvFpfXHSdj2joxkF"
+      },
+      "artists": [
+        {
+          "name": "Emma Salokoski",
+          "url": "https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U"
+        },
+        {
+          "name": "Jarmo Saari",
+          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270249,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0iwtrXQ6hkcuRqSuAhWplA"
+    },
+    {
+      "album": {
         "name": "Northern Journey",
         "url": "https://open.spotify.com/album/7l0MEB1zSQrL6ISBLpJCxf"
       },
@@ -1236,7 +1276,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 295889,
       "name": "Orlo",
       "url": "https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd"
@@ -1342,6 +1382,32 @@
       "duration_ms": 194013,
       "name": "Poncho",
       "url": "https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn"
+    },
+    {
+      "album": {
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
     },
     {
       "album": {
@@ -1628,7 +1694,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 260838,
       "name": "Stream Lines",
       "url": "https://open.spotify.com/track/4nBw9s80yHFNGPCDCR0u0j"
@@ -1646,7 +1712,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 184774,
       "name": "Sumu",
       "url": "https://open.spotify.com/track/2k5oko6OV9lmtoie6eJ4eS"
@@ -1664,7 +1730,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 347106,
       "name": "Sunday 20",
       "url": "https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19"
@@ -1886,7 +1952,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 393066,
       "name": "What Is It (That You're so Afraid Of)",
       "url": "https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF"

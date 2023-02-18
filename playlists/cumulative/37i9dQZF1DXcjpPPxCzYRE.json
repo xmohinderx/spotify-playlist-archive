@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 214760,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 303544,
       "name": "Gothic Babe Tendencies (feat. blackbear)",
       "url": "https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240622,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
+    },
+    {
+      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -1198,6 +1220,28 @@
       "duration_ms": 194346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "album": {
+        "name": "More of Your Love",
+        "url": "https://open.spotify.com/album/15iwuw5NkGLK78cvvoCGr1"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        },
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215582,
+      "name": "More of Your Love",
+      "url": "https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM"
     },
     {
       "album": {
@@ -1522,7 +1566,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 223746,
       "name": "Paper Aeroplane",
       "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"

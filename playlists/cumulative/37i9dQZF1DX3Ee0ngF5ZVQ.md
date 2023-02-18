@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-406 songs - 1 day 0 hr 11 min
+407 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 |  |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 |  |
+| [I Ain't Going Nowhere](https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [I Ain't Going Nowhere](https://open.spotify.com/album/6Eo6qKbzmF1J5YiiuWzYJV) | 3:24 | 2023-02-17 |  |
 | [I Can't Even Drink Straight](https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [I Can't Even Drink Straight](https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD) | 3:26 | 2022-05-27 | 2022-07-09 |
 | [I Can’t Dance](https://open.spotify.com/track/6Ts52EJXbAzKOGk8t3F0oO) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [I Can’t Dance](https://open.spotify.com/album/76tTWbN7iafP7XZjJLLNYQ) | 3:05 | 2022-02-18 | 2022-07-28 |
 | [I Don't Cry in My Cowboy Hat](https://open.spotify.com/track/59pvwcHltR2DS3Kx9HgwAb) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [I Don't Cry in My Cowboy Hat \(Pt\. 1\)](https://open.spotify.com/album/5VxCE8UDCz9u4JuXm82hsz) | 3:25 | 2021-12-17 | 2022-07-29 |
@@ -382,7 +383,7 @@
 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 | 2022-10-07 |  |
 | [Western Tears](https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Western Tears](https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK) | 4:08 | 2022-03-25 | 2022-11-12 |
 | [what else can she do](https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 5:10 | 2022-04-15 | 2022-08-20 |
-| [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 | 2021-12-17 |  |
+| [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 | 2021-12-17 | 2023-02-18 |
 | [Whatever It Is](https://open.spotify.com/track/5GIHSqXNkKFn0H0N1hWh20) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Whatever It Is](https://open.spotify.com/album/4WAcafmCgjkUIcYDqGAVLQ) | 3:27 | 2021-12-17 | 2022-03-19 |
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |

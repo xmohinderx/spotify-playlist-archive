@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,751 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,798 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 33 | [Bourgie Bourgie](https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Bourgie Bourgie](https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga) | 6:32 |
 | 34 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
 | 35 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
-| 36 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
-| 37 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
+| 36 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
+| 37 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
 | 38 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 39 | [Everything Happens for a Reason](https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Everything Happens for a Reason](https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP) | 3:09 |
 | 40 | [In My Arms](https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [In My Arms](https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0) | 3:25 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 44 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 45 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
 | 46 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
-| 47 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
-| 48 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
+| 47 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
+| 48 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
 | 49 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
 | 50 | [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 |
 | 51 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 55 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
 | 56 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
 | 57 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
-| 58 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
-| 59 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
+| 58 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
+| 59 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 | 60 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDE4OGE0NDBjYWU0N2ViYmQ3MTQ1Zjk2ZWQ4NzdmM2Ni`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDBlZGY4YzI4OWJjZGUyMWE5M2JlOWQwMzhkNzE0NDI3`

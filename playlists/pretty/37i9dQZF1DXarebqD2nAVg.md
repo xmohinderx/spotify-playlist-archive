@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,632 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,660 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 22 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 |
 | 23 | [In My Eyes](https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [In My Eyes](https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di) | 1:41 |
 | 24 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
-| 25 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 |
-| 26 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
-| 27 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
-| 28 | [Why](https://open.spotify.com/track/49mcwkJTu9JNHTSPdxFbv6) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Forget About Her](https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD) | 1:14 |
+| 25 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
+| 26 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 |
+| 27 | [Why](https://open.spotify.com/track/49mcwkJTu9JNHTSPdxFbv6) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Forget About Her](https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD) | 1:14 |
+| 28 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
 | 29 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
 | 30 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 31 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
 | 50 | [Love Myself](https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Pins & Needles](https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF) | 1:32 |
 
-Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDcwNzY4MWU3MWMwYzhlNjNlYWY4ZTg2NjlhZGMyYmUx`
+Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDdjNjZmMDNiYmNjYWFiOTAxY2MyMmQ5ODRmYTRjNTlh`

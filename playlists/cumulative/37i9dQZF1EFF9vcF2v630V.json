@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166493,
+      "name": "agit",
+      "url": "https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb"
+    },
+    {
+      "album": {
         "name": "ALL MY PEOPLE",
         "url": "https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 97747,
+  "num_followers": 97864,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUyODcwOSwwMDAwMDAwMGQzNmE1YmY3NzNkYWE5NzIzOTAxNjc4OTYyOTgwMWZh",
+  "snapshot_id": "MTY3NjUyODcwOSwwMDAwMDAwMDUyNGViMDA3ZGJjNGNjNzQwMGZjZmY4YzAwM2U0MmQ3",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Marakkavillayae(Jersey)",
+        "url": "https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 237067,
+      "name": "Marakkavillayae",
+      "url": "https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Marakkavillayae(Jersey)",
-        "url": "https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 237067,
-      "name": "Marakkavillayae",
-      "url": "https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Zero (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 284800,
       "name": "Uyire Un Uyirena",
       "url": "https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Namma Veettu Pillai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Gaandakannazhagi",
-      "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
     },
     {
       "added_at": "2021-08-02 09:30:31",
@@ -743,6 +723,26 @@
       "duration_ms": 287786,
       "name": "Avalukena",
       "url": "https://open.spotify.com/track/6nP69wy9Y1PonStmqt33uk"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Namma Veettu Pillai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Gaandakannazhagi",
+      "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
     },
     {
       "added_at": "2021-08-02 09:30:31",

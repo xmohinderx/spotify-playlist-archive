@@ -2,9 +2,9 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: Honey Dijon.
+> Electronic + Dance making waves, every month\. Cover: Austin Millz, artwork by Ian Woods
 
-225 songs - 13 hr 17 min
+226 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-05 |  |
 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 |  |
 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/538fzgi7SpX9LWVFwR0bIw) | 3:39 | 2022-02-01 | 2022-04-29 |
+| [All In One Night](https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Love Is Love](https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX) | 3:07 | 2023-02-17 |  |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/4MntS4sILmujgVJgWJoRbv) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0) | 5:13 | 2022-02-01 | 2022-06-18 |
 | [All Over This Party \- salute Remix](https://open.spotify.com/track/74y9q95NblVSvnurtU62WR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [All Over This Party \(salute Remix\)](https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY) | 3:08 | 2023-01-27 |  |
 | [Always Be My Baby \- Austin Millz Remix](https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Always Be My Baby \(Austin Millz Remix\)](https://open.spotify.com/album/7zQMAaw56pnSMQZQoMLq16) | 2:00 | 2022-07-08 |  |
@@ -45,7 +46,7 @@
 | [Ceci n'est pas un cliché](https://open.spotify.com/track/4siEGldODDzVHfEJnlmwnr) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Ceci n'est pas un cliché](https://open.spotify.com/album/0R731B5GBbKMcWrkG5sixY) | 3:46 | 2022-04-15 |  |
 | [Change Your Mind \[District 8\] \- Full Vocal Edit](https://open.spotify.com/track/1SXr5oK5NAgCftLinqYgkK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv) | [Change Your Mind \[District 8\]](https://open.spotify.com/album/2oTeVgUzdtarfr4rB3aKrK) | 4:11 | 2022-05-27 |  |
 | [Chrysalis](https://open.spotify.com/track/7uzV2ai0RulhrWLXd2HDpt) | [Tush](https://open.spotify.com/artist/0dvigBceOI6LV8RbHsHGjt) | [Fantast](https://open.spotify.com/album/2ZAYvtFWi4pvsjPHxtkc3Z) | 4:15 | 2022-02-01 | 2022-06-18 |
-| [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 | 2022-02-01 |  |
+| [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 | 2022-02-01 | 2023-02-18 |
 | [Colours](https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Colours](https://open.spotify.com/album/12iI9cnI21f6BfPsXGLdE9) | 2:41 | 2022-02-01 | 2022-06-18 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-06-17 |  |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-10 |  |

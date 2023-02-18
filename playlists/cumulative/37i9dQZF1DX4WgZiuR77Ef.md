@@ -4,11 +4,12 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-182 songs - 12 hr 48 min
+184 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 | 2020-10-30 | 2022-04-09 |
+| [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 | 2023-02-17 |  |
 | [A Message from the Meters](https://open.spotify.com/track/0uV4hoKCnJIlveeJZKhgux) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Jeannie's Getdown](https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn) | 3:06 | 2020-10-30 | 2022-04-09 |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-07-01 |  |
@@ -24,6 +25,7 @@
 | [Brand New Day](https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Brand New Day](https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG) | 3:59 | 2021-08-06 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Break the Wall](https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE) | 3:59 | 2021-08-06 |  |
 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 | 2022-05-27 |  |
+| [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 | 2023-02-17 |  |
 | [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 | 2020-10-30 |  |
 | [Canned Champagne](https://open.spotify.com/track/4yYR3NQfBqgN9OdX2Z32BX) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5), [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Canned Champagne](https://open.spotify.com/album/6F75dyCtjcnQoXYyjjzBy9) | 4:06 | 2020-10-30 | 2022-04-09 |
 | [Cashew](https://open.spotify.com/track/5cicFBkl7O1Q7f4IKT20Mw) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Cashew](https://open.spotify.com/album/7MOBVl0YbpdVHNVEOovUja) | 3:56 | 2021-06-11 |  |

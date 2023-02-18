@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0puras rimas de la calle. Aczino y Gera MX en portada ",
+  "description": "Hip-hop 100%\u00a0mexicano,\u00a0puras rimas de la calle. Aczino y Gera MX en portada ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 208100,
       "name": "Backwood",
       "url": "https://open.spotify.com/track/0XFVr6pMGZwTmMjJnISpFG"
@@ -798,6 +798,28 @@
       "duration_ms": 216000,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/08fINYP5wSOu90PmVA3AtS"
+    },
+    {
+      "album": {
+        "name": "BIEN",
+        "url": "https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD"
+      },
+      "artists": [
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "BIEN",
+      "url": "https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e"
     },
     {
       "album": {
@@ -1260,7 +1282,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 139030,
       "name": "Cool Like Dat",
       "url": "https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O"
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 202308,
       "name": "De Niro",
       "url": "https://open.spotify.com/track/37e713wCRv41OKBhv8cymy"
@@ -1779,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Malo",
+        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
+      },
+      "artists": [
+        {
+          "name": "El Moreno Mexicano",
+          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183353,
+      "name": "El Ni\u00f1o Malo",
+      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
+    },
+    {
+      "album": {
         "name": "El Paso",
         "url": "https://open.spotify.com/album/5DgmRYNaI2aZk9s6ScwypE"
       },
@@ -1790,7 +1830,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 154285,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/3ZXYMVZVoT6xUplGpMNlCH"
@@ -1897,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Encerrado",
+        "url": "https://open.spotify.com/album/5NtVHSmNl17ooLm9CKb2FG"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279528,
+      "name": "Encerrado",
+      "url": "https://open.spotify.com/track/2QdTFITyRrfI9fFiTVNIIv"
+    },
+    {
+      "album": {
         "name": "Entes",
         "url": "https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA"
       },
@@ -2000,6 +2062,24 @@
       "duration_ms": 192750,
       "name": "Es Otra Noche",
       "url": "https://open.spotify.com/track/3TwzKRjw2GeMDExPL62Wkc"
+    },
+    {
+      "album": {
+        "name": "Esta Vez Est\u00e1 Bien",
+        "url": "https://open.spotify.com/album/3SWSiKlS8CCkAlSBMgRPx1"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138851,
+      "name": "Esta Vez Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/7dJi7U6wWSILrecj3Zu3Wy"
     },
     {
       "album": {
@@ -2216,7 +2296,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 250666,
       "name": "Fuerza Vocal",
       "url": "https://open.spotify.com/track/4feH6J8GiazximCINmxvxa"
@@ -3224,7 +3304,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 266916,
       "name": "Medicado",
       "url": "https://open.spotify.com/track/5UxTvv7pCrRdoxEZCWRuo4"
@@ -4090,7 +4170,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 192048,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw"
@@ -5496,7 +5576,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178644,
       "name": "Tigre - Episodio 1",
       "url": "https://open.spotify.com/track/7tOAtM8AenhTBIgVj3yFGH"
@@ -5556,6 +5636,24 @@
       "duration_ms": 219760,
       "name": "Tiro Arriba",
       "url": "https://open.spotify.com/track/0qNme8u6vZNaSSZjyvqMU2"
+    },
+    {
+      "album": {
+        "name": "TITAN",
+        "url": "https://open.spotify.com/album/6uCFmvA6STNCIAEEZ5lvEg"
+      },
+      "artists": [
+        {
+          "name": "Carlos Salcedo",
+          "url": "https://open.spotify.com/artist/2hM5gdJwbydmpjgdGD5hNA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136894,
+      "name": "TITAN",
+      "url": "https://open.spotify.com/track/5NNe8wKIGW9PJqC6NWbpLK"
     },
     {
       "album": {

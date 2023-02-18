@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 17648,
+  "num_followers": 17694,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDg3MywwMDAwMDAwMDRiNzIyZTA0YmZiYjVjMGI0Mzg4ODUwNTBjOGIzNWI2",
+  "snapshot_id": "MTY3NjM2MDg3MywwMDAwMDAwMDllOGMxYjhiNWEzYmRkYTc5NjM5MDY2ZDRkMzNhODQ1",
   "tracks": [
     {
       "added_at": "2023-02-14 07:47:53",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-02-14 07:47:53",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 206399,
-      "name": "Turn On (Feat. Jiselle)",
-      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
-    },
-    {
-      "added_at": "2023-02-14 07:47:53",
-      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 144545,
       "name": "bag on you",
       "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
+    },
+    {
+      "added_at": "2023-02-14 07:47:53",
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "duration_ms": 206399,
+      "name": "Turn On (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
     },
     {
       "added_at": "2023-02-14 07:47:53",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2023-02-14 07:47:53",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
         }
       ],
-      "duration_ms": 213000,
-      "name": "I want to (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+      "duration_ms": 167500,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
     },
     {
       "added_at": "2023-02-14 07:47:53",
@@ -1051,6 +1047,26 @@
     {
       "added_at": "2023-02-14 07:47:53",
       "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "I want to (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+    },
+    {
+      "added_at": "2023-02-14 07:47:53",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 160443,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
-    },
-    {
-      "added_at": "2023-02-14 07:47:53",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
-      },
-      "artists": [
-        {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
     },
     {
       "added_at": "2023-02-14 07:47:53",

@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Taj Mahal",
-  "num_followers": 43924,
+  "num_followers": 43948,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGU0MzUwYjZhYjExMDVmNTZkYjI2M2ZjZDY2OThlOTll",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGJmZDUxMTQ2MmVjODJmMjhjYTBlNTQyZTVhN2U2NDll",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Oscar's Motel",
+        "url": "https://open.spotify.com/album/7anpP5D532as0LuzKLSsLS"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "Oscar's Motel",
+      "url": "https://open.spotify.com/track/65qVWbRkA4ObUGsCpHZeAx"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 230917,
+      "name": "Count Your Chickens",
+      "url": "https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz"
+    },
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
@@ -69,6 +101,22 @@
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
     },
     {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Blues All Around",
+        "url": "https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 248081,
+      "name": "Blues All Around",
+      "url": "https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Gee Baby Ain't I Good To You",
@@ -99,22 +147,6 @@
       "duration_ms": 348760,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Don't Walk Out That Door",
-        "url": "https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 249045,
-      "name": "Don't Walk Out That Door",
-      "url": "https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA"
     },
     {
       "added_at": "2023-01-20 05:01:00",

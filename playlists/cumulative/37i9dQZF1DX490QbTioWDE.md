@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-295 songs - 19 hr 24 min
+296 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Como Me Duele Perderte](https://open.spotify.com/track/2W8kUtFezyRlruEbbRp3fR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Como Me Duele Perderte](https://open.spotify.com/album/7xmEvlYgWQwu4RrfZAVSzQ) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 | 2022-01-07 | 2023-01-18 |
 | [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
+| [Costumbres](https://open.spotify.com/track/6gCcOzq4uy8VQktaBzx7wy) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Costumbres](https://open.spotify.com/album/4jX7jBxxmd04LdZB35Hg2r) | 3:30 | 2023-02-17 |  |
 | [Cuando Grita la Piel / Amiga del Alma](https://open.spotify.com/track/3Fm7HsAtL7YD0Ecjsj980C) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Aquellas Canciones Inolvidables](https://open.spotify.com/album/5cZIWDRBhoWptFfZ7BCiei) | 4:24 | 2021-12-24 | 2022-07-13 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2022-07-22 |  |
 | [Cuando Me Enamoro](https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 2:57 | 2021-12-24 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [Me Extrañarás](https://open.spotify.com/track/1e4PRJWfSorO7RLgqDRvYR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Extrañarás](https://open.spotify.com/album/366XQK2TfrjoWv17w2B9eD) | 4:17 | 2021-12-24 | 2022-07-29 |
 | [Me Levanté](https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Levanté](https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d) | 3:28 | 2022-08-12 |  |
 | [Me Va Bien Sin Ti](https://open.spotify.com/track/2bblMFEQCjeFbzM4KqKBfr) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Me Va Bien Sin Ti](https://open.spotify.com/album/6tZZNZsTNHmOSrtGtzCtDy) | 3:01 | 2022-06-10 | 2022-12-08 |
-| [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 | 2021-12-24 |  |
+| [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 | 2021-12-24 | 2023-02-18 |
 | [Mega Cuarteto Romantico Vol 1](https://open.spotify.com/track/5VgtojYctKrOOv6YnxjhcR) | [Tropi Tube](https://open.spotify.com/artist/7GSp6NePVNPHZ59UjBiy1C), [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor), [Merengue Mix](https://open.spotify.com/artist/2JnwDDryDxlUAc4oNtLbqb), [Q Mania](https://open.spotify.com/artist/5Z6deIVVgdcbKOpAbJOJmr), [El Ramy](https://open.spotify.com/artist/71GI3crYM00yVUTgsyfcgt), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [ALEGRISIMO DOBLE CUARTETO](https://open.spotify.com/artist/4iOmVjQxfB3mdEr9Y2dq9I) | [Mega Cuarteto Romantico Vol 1](https://open.spotify.com/album/793w83fc1NO7QznNOUKNIE) | 8:21 | 2022-03-18 | 2022-05-20 |
 | [Mentira](https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Mentira](https://open.spotify.com/album/6uSys9pSb3hy8jUOFlM8Uw) | 3:29 | 2021-12-24 | 2022-10-16 |
 | [Mi Cama Huele A Ti](https://open.spotify.com/track/0M8Fzjbx1Ia5zcd3MzIKVB) | [Mauri Monasterio](https://open.spotify.com/artist/2hwkCUHxNoO6vIAU5Wv4lo), [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [A Pleno](https://open.spotify.com/album/3ym8AntZiGMg6lP2UDZ0qL) | 3:43 | 2022-01-07 | 2022-07-27 |

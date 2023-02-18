@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,521 likes - 38 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,586 likes - 38 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 35 | [Ocean Winds And Birds](https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:31 |
 | 36 | [Birds and Increasing Wind](https://open.spotify.com/track/1YBs0EOOgWqCw58d9gxWlB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Spring Birds in the Forest](https://open.spotify.com/album/0BhDcOpk8LFSJkGLeREQUN) | 1:52 |
 | 37 | [Summer Breeze Bird](https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:20 |
-| 38 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
+| 38 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 |
 
-Snapshot ID: `MTY2OTAyODY3MCwwMDAwMDAwMGU1MjE5ZTQ3YTQ5ZTRkZmIxMDM0ZjY0OTJlMjgyZjY0`
+Snapshot ID: `MTY2OTAyODY3MCwwMDAwMDAwMDg0YmE1NGU4MzRkM2EwMzNkM2ViYmQ4Njk4MjkzMDU1`

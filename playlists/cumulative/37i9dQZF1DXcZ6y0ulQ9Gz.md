@@ -4,7 +4,7 @@
 
 > A eclectic mix of past & current Indie favourites\. Cover: Steve Lacy
 
-668 songs - 1 day 16 hr 44 min
+669 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-08-23 |  |
 | [Darjeeling](https://open.spotify.com/track/04zqwGKyCI0LxpC9ycUwsZ) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Darjeeling](https://open.spotify.com/album/2rBaSZCFbNWwzVcJmOEvMx) | 3:19 | 2021-01-15 | 2022-07-29 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2022-03-25 | 2022-08-24 |
-| [Dark Red](https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr) | 2:53 | 2023-02-10 |  |
+| [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2023-02-10 |  |
+| [Dark Red](https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr) | 2:53 | 2023-02-10 | 2023-02-18 |
 | [Daydreams](https://open.spotify.com/track/70WgEi9W3tvmBylqe9d2iU) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Slow Wave](https://open.spotify.com/album/2UiKxm6nGyqKboSADuE7Ke) | 3:46 | 2021-01-28 | 2022-04-13 |
 | [Dead Hearts](https://open.spotify.com/track/7EW5ph4wD2L22q2YZ8kC6Q) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/4D3ZqNUaAwJmq2xjw0GGi2) | 3:31 | 2020-10-29\* | 2022-04-16 |
 | [Deadline](https://open.spotify.com/track/1aUOZefupdIGf4ohZayFbO) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deadline](https://open.spotify.com/album/2qaw9qJCDhB7zddI7rXLcq) | 3:38 | 2021-06-14 | 2022-07-29 |

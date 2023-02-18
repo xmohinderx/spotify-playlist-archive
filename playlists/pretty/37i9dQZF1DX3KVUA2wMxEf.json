@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 69696,
+  "num_followers": 69773,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGExYWE0ZmJhM2E2YTAyYzUxOTkyYzdhN2U1Mjc2NjRm",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDZiZjQ2NTg0Y2U1ZDFjODlkODg5Yzc5NjY5MjExMDM1",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
+        "name": "Tu Eres Como el Fuego",
+        "url": "https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9"
+      },
+      "artists": [
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Indica Sound",
+          "url": "https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Tu Eres Como el Fuego",
+      "url": "https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
         "name": "RAS Portraits",
         "url": "https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9"
       },
@@ -491,22 +511,6 @@
       "duration_ms": 290906,
       "name": "Sentimento Original",
       "url": "https://open.spotify.com/track/221XD85dLV8jiMyrEz1JBQ"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Tu Eres Como el Fuego",
-        "url": "https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9"
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
       "artists": [
         {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "Indica Sound",
-          "url": "https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 211853,
-      "name": "Tu Eres Como el Fuego",
-      "url": "https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF"
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 251878,
-      "name": "Puedo esperarte",
-      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
         "name": "RAS Portraits",
         "url": "https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215197,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 251878,
+      "name": "Puedo esperarte",
+      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -807,38 +807,6 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
         "name": "Una cosa es el ska y otra cosa es el rocksteady",
         "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
       },
@@ -851,6 +819,22 @@
       "duration_ms": 209442,
       "name": "Me cambiaste la vida",
       "url": "https://open.spotify.com/track/0ryQ6jI5uGf8oymICMTpRH"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -871,6 +855,22 @@
       "duration_ms": 189806,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-01-27 05:01:00",

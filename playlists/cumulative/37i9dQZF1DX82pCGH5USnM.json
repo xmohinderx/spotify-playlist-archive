@@ -4685,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/6k8jzUy9YBR5dw6yyexbqA"
+      },
+      "artists": [
+        {
+          "name": "Naupaka",
+          "url": "https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x"
       },
@@ -10174,6 +10192,24 @@
       "duration_ms": 107294,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1YTf5EFF82UYyTa1KIlWoZ"
+    },
+    {
+      "album": {
+        "name": "Keep It Chill",
+        "url": "https://open.spotify.com/album/5cyotxqSzrwck7zLt1ZyqK"
+      },
+      "artists": [
+        {
+          "name": "Plastik Flamingos",
+          "url": "https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157767,
+      "name": "Some Like It Hot",
+      "url": "https://open.spotify.com/track/7sud5rRJp7QOLsWyZXmF9T"
     },
     {
       "album": {

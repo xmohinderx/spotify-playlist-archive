@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 142400,
       "name": "Broken Ledge",
       "url": "https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14"
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176371,
       "name": "Ein neuer Tag",
       "url": "https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR"
@@ -7221,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "Meia Noite",
+        "url": "https://open.spotify.com/album/1mfDvDCUaRpqNpBer9xqNN"
+      },
+      "artists": [
+        {
+          "name": "Gereo Luna",
+          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/6pP7IVUYULZLjZ4bzGflVD"
+    },
+    {
+      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp"
       },
@@ -9400,7 +9418,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 204566,
       "name": "Rayos de luz",
       "url": "https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX"
@@ -11621,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Sunno",
+        "url": "https://open.spotify.com/album/1SqvAHWMwGHTW7iHSM1h6r"
+      },
+      "artists": [
+        {
+          "name": "Julia Phero",
+          "url": "https://open.spotify.com/artist/4mQarmylGStPOrvNjf2HHS"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sunno",
+      "url": "https://open.spotify.com/track/3M3lz4VfhjrsvinuUU4ZJ0"
+    },
+    {
+      "album": {
         "name": "Light of The Moon",
         "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
       },
@@ -12280,7 +12316,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176000,
       "name": "Touha",
       "url": "https://open.spotify.com/track/3TCIHrNMw2vupAQfg3krlO"
@@ -12683,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Unremain",
+        "url": "https://open.spotify.com/album/5nkzSeF4X30Fq5jfEgXTZc"
+      },
+      "artists": [
+        {
+          "name": "Rania Lees",
+          "url": "https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Unremain",
+      "url": "https://open.spotify.com/track/3ctrMLYxilwSeAK5AdVrLj"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
       },
@@ -12910,7 +12964,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 136654,
       "name": "Versuchen",
       "url": "https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni"

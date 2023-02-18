@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Gomme, Vol. 1",
+        "url": "https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277398,
+      "name": "Coeur moderne",
+      "url": "https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd"
+    },
+    {
+      "album": {
         "name": "Chambre Noire",
         "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
       },
@@ -900,6 +918,28 @@
       "duration_ms": 225600,
       "name": "Do Me Like",
       "url": "https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt"
+    },
+    {
+      "album": {
+        "name": "Dodo (Remix)",
+        "url": "https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156051,
+      "name": "Dodo - Remix",
+      "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
     },
     {
       "album": {
@@ -2446,7 +2486,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 331613,
       "name": "Pays de merveilles",
       "url": "https://open.spotify.com/track/3kDm6WcoCPHjvucG5mv3dY"
@@ -2640,7 +2680,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 209711,
       "name": "Run",
       "url": "https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w"

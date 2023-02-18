@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-695 songs - 1 day 16 hr 8 min
+697 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Heart Mending](https://open.spotify.com/track/1VCfBGr1b6Jw4qojj6ka1b) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Rooftops](https://open.spotify.com/album/56PAoGMrDmfqE4Iiwa6VB4) | 5:17 | 2020-04-03\* | 2021-01-05 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-02-19 | 2021-08-20 |
 | [Hey Love](https://open.spotify.com/track/1AfZ66laB3o8sgaNnWcuPI) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Hey Love / Precarious](https://open.spotify.com/album/6GjkILNGTM5zt1Ks0MoDfT) | 3:35 | 2022-11-25 |  |
+| [Highlands](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Highlands](https://open.spotify.com/album/6k8jzUy9YBR5dw6yyexbqA) | 2:02 | 2023-02-17 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-06 | 2022-07-01 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-09-22 |  |
 | [Home.Finally](https://open.spotify.com/track/0nYfa6KoT3LXMc6eFNR8UP) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Home.Finally](https://open.spotify.com/album/5CwbB05IOwWzIisyPNVT8U) | 2:41 | 2022-06-24 | 2022-07-01 |
@@ -566,6 +567,7 @@
 | [solar bliss](https://open.spotify.com/track/5pmOBhY1ZyQwpebo3vfzes) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [solar bliss](https://open.spotify.com/album/171awXr7cajam1zPKEh9XV) | 2:44 | 2022-09-02 |  |
 | [Solar Smile](https://open.spotify.com/track/2mzIEhqRq7O2sfVtUPFux7) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Solar Smile](https://open.spotify.com/album/6wk7DhHGCje3P6dfWV4aqE) | 2:31 | 2021-02-04 | 2022-06-24 |
 | [Solitude](https://open.spotify.com/track/1YTf5EFF82UYyTa1KIlWoZ) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Solitude](https://open.spotify.com/album/1XIkAi3l0twutovCyEpBbU) | 1:47 | 2020-04-03\* | 2020-07-22 |
+| [Some Like It Hot](https://open.spotify.com/track/7sud5rRJp7QOLsWyZXmF9T) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Keep It Chill](https://open.spotify.com/album/5cyotxqSzrwck7zLt1ZyqK) | 2:37 | 2023-02-17 |  |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2021-04-15 | 2022-09-23 |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2020-04-03\* | 2021-03-18 |
 | [Soul Spectral](https://open.spotify.com/track/4NSAXuEw0kwuwvCG89L4hi) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Greg Paulus](https://open.spotify.com/artist/0DRjf5CVRpPpDSjHSdRAM3) | [Soul Spectral EP](https://open.spotify.com/album/4URtVxo78Lf8RjBmWkAVyS) | 6:00 | 2021-03-18 | 2021-08-20 |

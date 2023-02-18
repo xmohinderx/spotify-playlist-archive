@@ -2,7 +2,7 @@
 
 ### [SABOR](https://open.spotify.com/playlist/37i9dQZF1DWSgM16hVIBq6)
 
-> Tira los pasos prohibidos\. Dance the night away with your favorite tropical tunes.
+> Tira unos pasos prohibidos\. Dance the night away with your favorite tropical tunes.
 
 186 songs - 13 hr 18 min
 

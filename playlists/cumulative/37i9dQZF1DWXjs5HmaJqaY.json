@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277620,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5"
+    },
+    {
+      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 239515,
       "name": "Dominator - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP"
+    },
+    {
+      "album": {
+        "name": "Donnerchello",
+        "url": "https://open.spotify.com/album/3VkUXlSrqfFUrjn6hsrTN7"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402642,
+      "name": "Donnerchello",
+      "url": "https://open.spotify.com/track/1NKkZ1VBCwHM2fEo7CV8os"
     },
     {
       "album": {
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 266666,
       "name": "Known",
       "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
@@ -1003,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415542,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL"
+    },
+    {
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C"
       },
@@ -1018,6 +1072,28 @@
       "duration_ms": 462774,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k"
+    },
+    {
+      "album": {
+        "name": "Latlal Remixes",
+        "url": "https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437660,
+      "name": "Latlal - Spada Remix",
+      "url": "https://open.spotify.com/track/6ZHjcEwUp3dWOrv29N9BmU"
     },
     {
       "album": {
@@ -1466,7 +1542,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 262291,
       "name": "Philophobia",
       "url": "https://open.spotify.com/track/0kEUW8rGtl1WQ2x86T8wVG"
@@ -1554,6 +1630,28 @@
       "duration_ms": 322020,
       "name": "Purple Noise",
       "url": "https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ"
+    },
+    {
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344744,
+      "name": "Rescue Me - DJ Island Remix",
+      "url": "https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg"
     },
     {
       "album": {

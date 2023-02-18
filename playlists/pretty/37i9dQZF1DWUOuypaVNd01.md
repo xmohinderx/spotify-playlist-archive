@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,909 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,957 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 10 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
 | 11 | [Debochando da Mídia](https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [L7NNON](https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc), [Ian Girão](https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF) | [Debochando da Mídia](https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo) | 3:21 |
 | 12 | [Pop Smoke Freestyle](https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 3:07 |
-| 13 | [12](https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [12](https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb) | 2:00 |
-| 14 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
+| 13 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
+| 14 | [12](https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [12](https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb) | 2:00 |
 | 15 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
 | 16 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
 | 17 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 | 50 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
 
-Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMGFmMjA2NTc0NjFhZmM0MDA0NDVmMGYxZjVkMmE5YTI0`
+Snapshot ID: `MTY3NTk5ODA2MCwwMDAwMDAwMDkzZTZmMjgzNDAzYzVhMDlkODk5ODZkYmNlODQyNzJh`

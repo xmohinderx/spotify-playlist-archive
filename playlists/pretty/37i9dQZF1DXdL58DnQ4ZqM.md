@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,107 likes - 153 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,113 likes - 153 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 97 | [Sunny Afternoon](https://open.spotify.com/track/454nvk0jwgJ7aV1hg2bsZQ) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Sunny Afternoon](https://open.spotify.com/album/692nGJ7XJcIhlR4Df18B3X) | 2:18 |
 | 98 | [Shore](https://open.spotify.com/track/2fRZj7P8wV34zb5OltBVqE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Shore](https://open.spotify.com/album/1TlRXsdSE49gQPU0yiIspY) | 2:40 |
 | 99 | [St\. Petersburg](https://open.spotify.com/track/2NPUQueLOJBQR8I3gnrL3v) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Vacation](https://open.spotify.com/album/2n2pGJ9S9GLl6WlGYRl5rd) | 2:28 |
-| 100 | [The Bishop](https://open.spotify.com/track/6vA5yrKvNXzgykp5iefZe8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Little Pear](https://open.spotify.com/album/3gDSGSwgXRpvo3TebePUBI) | 2:20 |
+| 100 | [The Bishop](https://open.spotify.com/track/67lO2UHi5r7QdXMNUPYfPW) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Little Pear](https://open.spotify.com/album/0qLbDC62Vx1MUqfABRFd22) | 2:20 |
 | 101 | [Bob's Blues](https://open.spotify.com/track/2eep97s2NVaQGFkrLkiD3e) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 5:24 |
 | 102 | [I Remember Clifford](https://open.spotify.com/track/0MZVl0CKUu3mV8TQDBxbCN) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 6:38 |
 | 103 | [another perspective](https://open.spotify.com/track/4jNUYBuUipHefrBzXLbUdJ) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [hiraeth](https://open.spotify.com/album/0IHdXaDGLisO2XhWoLrBBX) | 2:46 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 152 | [whiskey sour](https://open.spotify.com/track/2gxmc5NdgXjfLOFlAYuDuG) | [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [whiskey sour](https://open.spotify.com/album/1QzDis0oZARpSYyIWaRkHs) | 2:17 |
 | 153 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDc1MWFiMmM3OTgwZjk1YmEwNmMxMjE0YWYzYzIwM2U3`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGI0YTcwNjVmZWQ0YWU5NWNkMDA4OTBmODgwYTljNDAw`

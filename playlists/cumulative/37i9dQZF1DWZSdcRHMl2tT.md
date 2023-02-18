@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-352 songs - 18 hr 4 min
+354 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Escarpment](https://open.spotify.com/track/5CcHSH8zYIIeqCtLeQDt49) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Escarpment](https://open.spotify.com/album/0bcBdGbBUsCbUVwoiBlzcA) | 2:37 | 2022-04-05 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2022-04-05 | 2022-09-23 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2022-04-05 |  |
-| [Fanfare](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5) | [Beach\_Techniques](https://open.spotify.com/artist/30FRPU615QLzBQRgzyfKoj), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Fanfare](https://open.spotify.com/album/2JWzpyP2ihJSEn2MP3IsMS) | 4:06 | 2022-11-25 |  |
+| [Fanfare](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Fanfare](https://open.spotify.com/album/2JWzpyP2ihJSEn2MP3IsMS) | 4:06 | 2022-11-25 |  |
 | [fascination](https://open.spotify.com/track/2ZiOzyhYErIcdZUgAqprwO) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Fascination](https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb) | 2:41 | 2022-04-05 | 2022-09-02 |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2022-04-05 | 2022-07-29 |
 | [feeling good](https://open.spotify.com/track/1Np0V3QfuemgSA418CmIrV) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [feeling good](https://open.spotify.com/album/7oskxvHjMjh5i03o9reVz5) | 3:14 | 2022-09-02 |  |
@@ -111,11 +111,13 @@
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2022-07-08 |  |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2022-04-05 | 2022-07-01 |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-05 |  |
+| [flen](https://open.spotify.com/track/04Tv9Yle3gJFfoAaLTfkl2) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [flen](https://open.spotify.com/album/3JNyew4yc6p7tSkQiaYPkR) | 1:57 | 2023-02-17 |  |
 | [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2022-04-05 |  |
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2022-04-05 |  |
 | [floatation](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [floatation](https://open.spotify.com/album/1dMH9o6LooryG5IgWy7q7J) | 3:17 | 2022-09-02 |  |
 | [Floating](https://open.spotify.com/track/7trcNSGxT8x26jcv93YbiY) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Floating](https://open.spotify.com/album/2mBPlc7WO70IayqZj2fxo1) | 2:34 | 2022-09-23 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-05 |  |
+| [Florance](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Florance](https://open.spotify.com/album/7DdGOa4uvONONSY518J4MZ) | 2:02 | 2023-02-17 |  |
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2022-04-05 |  |
 | [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2022-04-05 |  |

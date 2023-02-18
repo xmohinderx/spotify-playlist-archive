@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-313 songs - 17 hr 57 min
+314 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All I Really Wanted](https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [All I Really Wanted](https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo) | 3:11 | 2022-09-09 | 2022-10-01 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2022-01-14 | 2022-03-05 |
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 | 2022-01-14 | 2022-07-29 |
-| [AMERICAN HORROR STORY](https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:09 | 2022-07-08 |  |
+| [AMERICAN HORROR STORY](https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:09 | 2022-07-08 | 2023-02-18 |
 | [ANOTHER ONE](https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu) | [Ronny J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [ANOTHER ONE](https://open.spotify.com/album/26y1j3uFW7kmEXT3ODkDCE) | 3:12 | 2022-06-10 | 2022-11-19 |
 | [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 | 2022-01-14 |  |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2022-01-14 |  |
@@ -78,6 +78,7 @@
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-10 |  |
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2022-07-08 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-23 | 2022-07-29 |
+| [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2023-02-17 |  |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 |  |
 | [Dogs Out \(feat\. Lil Wayne & Swizz Beatz\)](https://open.spotify.com/track/6jJAznWYXQPU3GitNAgm78) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 2:45 | 2022-01-14 | 2022-03-11 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-03-25 | 2022-04-21 |

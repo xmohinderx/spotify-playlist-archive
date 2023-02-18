@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Polo G, Future\)
 
-1,040 songs - 2 day 5 hr 6 min
+1,042 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Lazy Summer Day](https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lazy Summer Day / Chinese Restaurant](https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ) | 2:21 | 2022-09-01 | 2022-09-30 |
 | [LBS](https://open.spotify.com/track/58WSRZe9jL2zTMyHsPA11g) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [LBS](https://open.spotify.com/album/0fcZGOEpf3cP4F5RivOmKh) | 2:30 | 2022-01-27 | 2022-02-25 |
 | [Leave Me Alone](https://open.spotify.com/track/79YH7hn9KqHenOPsqTwmA3) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Reason](https://open.spotify.com/album/4ipcf9ZJ8PazwRGKJ6bD7N) | 3:16 | 2022-11-10 | 2022-12-30 |
+| [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-02-16 |  |
 | [LEMONADE](https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:59 | 2022-04-07 | 2022-05-13 |
 | [Lesson Learned](https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Lost Souls](https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2) | 3:29 | 2022-06-02 | 2022-06-17 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-15 | 2023-02-03 |
@@ -799,6 +800,7 @@
 | [She Know](https://open.spotify.com/track/3iIXhhRB1zP1SIiu45zYV4) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [She Know](https://open.spotify.com/album/3dPd8uPJ6QwoKvnxzXnGhn) | 2:35 | 2022-12-08 | 2023-01-28 |
 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2022-05-06 | 2022-06-17 |
 | [Shibuya Night](https://open.spotify.com/track/30DJKQDA9WsmPjKKPalz8Z) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Shibuya Night](https://open.spotify.com/album/7td91qpJi1KyIxSZKURk0L) | 2:51 | 2022-09-01 | 2022-09-30 |
+| [SHiLLA](https://open.spotify.com/track/3bOaZrSrF4dnn6DiXVchZN) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [THE CORE TAPE, Vol\. 1](https://open.spotify.com/album/5QTXZPqCQwsQd6sByRsXNH) | 1:58 | 2023-02-16 |  |
 | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg) | 3:35 | 2022-11-10 | 2023-01-13 |
 | [Shoe](https://open.spotify.com/track/3e5kKuq4PldRvqlgTTvkWg) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Vurplay](https://open.spotify.com/artist/1M7XFkQ3d5a2ueBD1HBjWN), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Shoe](https://open.spotify.com/album/0HJjrbIfhJhQa4C9zU9h1j) | 2:32 | 2022-06-30 | 2022-07-29 |
 | [SHTICKY](https://open.spotify.com/track/01XBoslQj87lB9Y2Hqae6j) | [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH), [DJ Ziqq](https://open.spotify.com/artist/732U6klwMbJypcaYvGkQmo), [Fuego](https://open.spotify.com/artist/7CnWVhfXRU4HM3p9ZlBaAo) | [SHTICKY](https://open.spotify.com/album/2ILLjRCMWKMzYxL3IY6w8P) | 2:33 | 2022-09-15 | 2022-10-28 |

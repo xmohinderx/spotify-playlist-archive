@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Where the past meets the present. Cover: Nicki Minaj",
+  "description": "Where the past meets the present. Cover: Ice Spice",
   "name": "Sample This",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 191757,
       "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
       "url": "https://open.spotify.com/track/21wkixaulehrFctAvEhvQl"
@@ -646,6 +646,24 @@
       "duration_ms": 127441,
       "name": "Not My N*gga",
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
+    },
+    {
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110053,
+      "name": "PAITIENCE",
+      "url": "https://open.spotify.com/track/7j1fBiNjgkuGEaWoOoWAKX"
     },
     {
       "album": {
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 138541,
       "name": "Twerkulator",
       "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"

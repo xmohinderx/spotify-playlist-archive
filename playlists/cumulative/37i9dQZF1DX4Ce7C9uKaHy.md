@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-131 songs - 4 hr 43 min
+132 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Pizza and You](https://open.spotify.com/track/0zrI1YgLDhKFHDtAU8FfOH) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Pizza and You](https://open.spotify.com/album/637uo3pm29TfIRdCLyB6ds) | 1:52 | 2020-05-06 | 2022-07-29 |
 | [Pizza and You](https://open.spotify.com/track/2moQmeENB1QMJXrEkFUcWT) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Pizza and You](https://open.spotify.com/album/5cHhDMSZBfdailiFiiYRNI) | 1:52 | 2020-05-06 |  |
 | [Please Don't Say Goodbye](https://open.spotify.com/track/1GkNidhazrYWNClz3mWw7q) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Air Signs](https://open.spotify.com/album/5pzqhtozA6dJu0pKh7vF15) | 1:57 | 2020-05-06 | 2022-07-29 |
-| [Please Don't Say Goodbye](https://open.spotify.com/track/72zJx1CWNTbD78Ziu0UGjk) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Please Don't Say Goodbye](https://open.spotify.com/album/6gASWphaTZCtCWP8AY7Eza) | 1:57 | 2020-05-06 |  |
+| [Please Don't Say Goodbye](https://open.spotify.com/track/72zJx1CWNTbD78Ziu0UGjk) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Please Don't Say Goodbye](https://open.spotify.com/album/6gASWphaTZCtCWP8AY7Eza) | 1:57 | 2020-05-06 | 2023-02-18 |
+| [Please Dont Say Goodbye](https://open.spotify.com/track/16krYiXZGkxkEeQkTdqZYw) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Luminaries](https://open.spotify.com/album/0v0sVgY6YqzCgztknGMYIJ) | 1:57 | 2020-05-06 |  |
 | [Pure Bliss](https://open.spotify.com/track/3UGkOzl8GUJvwQlsdGYj8E) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/7F5LeCpEp53MwfmPtZqPnp) | 2:36 | 2020-05-06 | 2022-07-29 |
 | [Pure Bliss](https://open.spotify.com/track/69uZTz8xKc5cb0rZEUy8YC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt) | 2:36 | 2020-05-06 |  |
 | [Pure Imagination](https://open.spotify.com/track/6redzaZ6sGkqvZiUxKLYB8) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Discography](https://open.spotify.com/album/6d5aTFlnrl6n2U9Q7f8HNV) | 1:52 | 2020-05-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 668997,
+  "num_followers": 668990,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ODY2OTI3YmM1MmNlNTMyY2E5ODk1YmIzZjc0N2Mz",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDYzNTcwZTMyNjZiYmM4OTk2ZGU3OTgzYmQ1M2YwZTdj",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -63,6 +63,22 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Plaquemine",
+        "url": "https://open.spotify.com/album/5kp6Tqyvjk3JIAtO3s4d4N"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "Plaquemine",
+      "url": "https://open.spotify.com/track/56M0BOuK6FO44wShNMFEbh"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 166240,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "2nd Right, 3rd Row",
-        "url": "https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW"
-      },
-      "artists": [
-        {
-          "name": "Eric Von Schmidt",
-          "url": "https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Turtle Beach",
-      "url": "https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT"
     }
   ],
   "unique_name": "Acoustic Blues",

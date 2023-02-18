@@ -4,7 +4,7 @@
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Loud
 
-188 songs - 11 hr 15 min
+189 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Devenir immortel \(et puis mourir\)](https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Une année record](https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ) | 3:28 | 2022-03-11 |  |
 | [Diamant](https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:07 | 2022-03-11 |  |
 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 | 2022-03-11 |  |
+| [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 | 2022-03-11 |  |
 | [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 | 2022-03-11 | 2023-02-02 |
 | [Doo Wop](https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [DEAD.](https://open.spotify.com/album/3LKroOov310fASJk3twjmP) | 4:39 | 2022-03-11 |  |
 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 | 2022-03-11 |  |
@@ -149,7 +150,7 @@
 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 | 2022-03-11 |  |
 | [PERE NOEL](https://open.spotify.com/track/6Q6GGjCCYlWTHCAiBlRRRw) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Désolé Pour L'Attente](https://open.spotify.com/album/5dmhIDk1O9n2M1zufAGMqd) | 2:14 | 2022-03-11 | 2023-02-16 |
 | [Petit Jésus](https://open.spotify.com/track/0s78B9I8deCSI0mqfiqhnS) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Contrôle V2](https://open.spotify.com/album/4h9AAx6QfWYziJZzOAgOhB) | 4:56 | 2022-03-11 | 2022-07-28 |
-| [Petit prince](https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Petit prince](https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4) | 4:04 | 2022-03-11 |  |
+| [Petit prince](https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Petit prince](https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4) | 4:04 | 2022-03-11 | 2023-02-18 |
 | [PLG](https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:29 | 2022-03-11 |  |
 | [Plume](https://open.spotify.com/track/3KEAAQ6ftipgLCKyUv6v3s) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/48KJxkDN6HsfsZFDNf8kjT) | 2:37 | 2022-03-11 |  |
 | [Poudlard](https://open.spotify.com/track/4pfMIb2dqdtav6uLwhznF4) | [TWI$t](https://open.spotify.com/artist/05AdrorgbkCbTDFMXMIE4f), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Poudlard](https://open.spotify.com/album/6NLD90o2xMyDpBHgIUsAxt) | 2:41 | 2022-03-11 | 2022-07-24 |

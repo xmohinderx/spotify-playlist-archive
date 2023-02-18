@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-115 songs - 7 hr 39 min
+117 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 | 2022-04-15 |  |
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |
 | [Desert Flower Blues](https://open.spotify.com/track/6eT8Gtpe0T2Q79CTCYGiWe) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Desert Flower Blues](https://open.spotify.com/album/2nLCI1N0Ftgvd0EdNupPV4) | 2:55 | 2022-11-18 |  |
-| [Dodging The Blues](https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Essential Blues](https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5) | 4:22 | 2022-04-15 |  |
+| [Dodging The Blues](https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Essential Blues](https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5) | 4:22 | 2022-04-15 | 2023-02-18 |
 | [Don't Be Fooled](https://open.spotify.com/track/2CAIdlGCNRSDyJ8Y2UdQVo) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:31 | 2023-01-06 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-10-14 |  |
 | [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 | 2022-04-15 | 2022-11-13 |
@@ -87,6 +87,7 @@
 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 | 2022-04-15 |  |
 | [Rememberin' Stevie](https://open.spotify.com/track/2x6sAQFBhY5eqp0yqA0vBD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/4dzFJPnPuJT2gjZNfkYkWO) | 6:59 | 2022-04-15 |  |
 | [Riviera Paradise](https://open.spotify.com/track/2Pv7Vi2OY2ZTsrZlqZ8k8A) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 8:50 | 2022-04-15 |  |
+| [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
 | [Rope Hill](https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk) | [The Realist](https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ) | [The Heart of the Delta](https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx) | 1:25 | 2022-07-29 |  |
 | [Sad but True](https://open.spotify.com/track/4naYwJluM8H8dNuwlCB0Qf) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Session Masters](https://open.spotify.com/album/6860zM9w6dmFEc8HVnV6Ih) | 5:47 | 2022-04-15 |  |
 | [Seven Thirty](https://open.spotify.com/track/1Zm60s0lcImDsXthozhDlr) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Odds Or Evens](https://open.spotify.com/album/5FisgSJmd2fDoCA1DZkP9I) | 6:26 | 2022-04-15 | 2022-07-29 |
@@ -122,6 +123,7 @@
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-04-15 |  |
 | [When I'm With You](https://open.spotify.com/track/5FWOKwCQMQrStHCwSa0nSW) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [When I'm With You](https://open.spotify.com/album/5Uph6wx9f8zrVNDke8fIot) | 2:22 | 2023-01-06 |  |
 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-01-13 |  |
+| [With Love from My Porch](https://open.spotify.com/track/79Eobaxlzqp9jrepMMFqlV) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [With Love from My Porch](https://open.spotify.com/album/0DRbvFvHJDxRp4zLT2JvJe) | 1:53 | 2023-02-17 |  |
 | [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

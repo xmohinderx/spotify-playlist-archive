@@ -1,13 +1,45 @@
 {
-  "description": "make it pop! cover: BoyWithUke",
-  "num_followers": 202175,
+  "description": "make it pop! cover: The Aces",
+  "num_followers": 202212,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDk3MDI5OTFlNDlhZDM0YmViZjliNDBmNjZlMDI5ZWZh",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDc4NjYzYjQwYTIzMGMyNTAwYjhmNmQ3OTZjNTZiZDIx",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "miss misery",
+        "url": "https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "miss misery",
+      "url": "https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8"
+    },
     {
       "added_at": "2023-02-10 05:01:00",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ"
-      },
-      "artists": [
-        {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "How To Lose A Girl in 7 Songs",
+        "url": "https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Story of a Boy",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "VICIOUS",
-        "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
+        "name": "Call It Like It Is",
+        "url": "https://open.spotify.com/album/1G9K6xgvZvhVJ1vRVnzDLA"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
         }
       ],
-      "duration_ms": 132793,
-      "name": "VICIOUS",
-      "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
+      "duration_ms": 204055,
+      "name": "Call It Like It Is",
+      "url": "https://open.spotify.com/track/1KtpAFiSZ9WO5RYI7F752Y"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -107,6 +139,70 @@
       "duration_ms": 175760,
       "name": "Too Late (with AJR)",
       "url": "https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "My Stupid Heart",
+        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "My Stupid Heart",
+      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "DANCING ALL ALONE",
+        "url": "https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "DANCING ALL ALONE",
+      "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "VICIOUS",
+        "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "VICIOUS",
+      "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -139,22 +235,6 @@
       "duration_ms": 203765,
       "name": "All for Nothing",
       "url": "https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "My Stupid Heart",
-        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "My Stupid Heart",
-      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -599,22 +679,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Love!",
-        "url": "https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN"
-      },
-      "artists": [
-        {
-          "name": "Hallie",
-          "url": "https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW"
-        }
-      ],
-      "duration_ms": 199723,
-      "name": "Love!",
-      "url": "https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "happier",
         "url": "https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P"
       },
@@ -711,22 +775,6 @@
       "duration_ms": 132260,
       "name": "on life",
       "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5"
-      },
-      "artists": [
-        {
-          "name": "Jacob Sartorius",
-          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
-        }
-      ],
-      "duration_ms": 142424,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -907,22 +955,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Dumpster Fire",
-        "url": "https://open.spotify.com/album/556wDyg1w9UwoivJ3bg3TI"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Dumpster Fire",
-      "url": "https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "FAVORITE PART",
         "url": "https://open.spotify.com/album/2ozUR3Sj5ZBn9W5zsMusVu"
       },
@@ -1084,7 +1116,7 @@
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Iced Coffee",
-        "url": "https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj"
+        "url": "https://open.spotify.com/album/6LU5bn9sw0mk0faXIHTdNd"
       },
       "artists": [
         {
@@ -1094,7 +1126,7 @@
       ],
       "duration_ms": 155076,
       "name": "Iced Coffee",
-      "url": "https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2"
+      "url": "https://open.spotify.com/track/7CumsQizElvUqb3205E2Vo"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "stupid i miss u",
-        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "stupid i miss u",
-      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "star tripping",
         "url": "https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR"
       },
@@ -1211,26 +1227,6 @@
       "duration_ms": 200213,
       "name": "I Can\u2019t Grow Up",
       "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Coast",
-        "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Coast (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
     },
     {
       "added_at": "2023-02-03 05:00:00",

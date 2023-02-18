@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7762,
+  "num_followers": 7767,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDBmYjA2ZTAyYjIyMmUyNWE2NTNmOWFhNjIxMDVlZWJl",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDMzZDFjYjQxOTQwOTdkMmM0OGVhY2Y0NzRjY2M1NjFj",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/2pk0oogNirjDQeOlp41seB"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 209361,
       "name": "Goals_",
       "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb"
-      },
-      "artists": [
-        {
-          "name": "Vardaan Arora",
-          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/2pk0oogNirjDQeOlp41seB"
     },
     {
       "added_at": "2022-08-25 15:45:44",

@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami
 
-107 songs - 5 hr 19 min
+108 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 | 2022-11-25 | 2023-01-14 |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
+| [Neurose](https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz) | [Mika Mc](https://open.spotify.com/artist/7Dtyvrw9EwQcMgHuBaOZJn), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Neurose](https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg) | 2:34 | 2023-02-17 |  |
 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 | 2022-11-18 |  |
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |
 | [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 | 2022-11-04 | 2023-01-06 |
@@ -88,7 +89,7 @@
 | [Pussy Gang](https://open.spotify.com/track/52npQUIsokCB0tVtLXpaA2) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Outro Lado](https://open.spotify.com/album/3sfi3GaNL0dJRDOgQSHbmr) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Realeza](https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Rapper](https://open.spotify.com/album/6QUcLAP54GOcf5ZUoSbUoZ) | 2:22 | 2022-12-12 |  |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-11 | 2022-04-16 |
-| [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 | 2023-01-20 |  |
+| [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 | 2023-01-20 | 2023-02-18 |
 | [Retada](https://open.spotify.com/track/1AGkCSTgA9CXLEalVk8VOj) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:30 | 2023-02-03 |  |
 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 | 2022-03-25 | 2022-11-05 |
 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 | 2022-09-17 |  |

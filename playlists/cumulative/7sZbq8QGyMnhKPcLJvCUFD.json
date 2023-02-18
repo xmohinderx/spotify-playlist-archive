@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p"
+      },
+      "artists": [
+        {
+          "name": "iFeature",
+          "url": "https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Cozy Thunder",
+      "url": "https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih"
+    },
+    {
+      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9"
       },
@@ -1601,6 +1619,28 @@
     },
     {
       "album": {
+        "name": "Guide You Home",
+        "url": "https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb"
+      },
+      "artists": [
+        {
+          "name": "Diviners",
+          "url": "https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA"
+        },
+        {
+          "name": "Level 8",
+          "url": "https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192314,
+      "name": "Guide You Home",
+      "url": "https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc"
       },
@@ -1772,6 +1812,24 @@
       "duration_ms": 188347,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p"
+      },
+      "artists": [
+        {
+          "name": "iFeature",
+          "url": "https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/2r5Vi46hcW5BZxkyFYlpPu"
     },
     {
       "album": {

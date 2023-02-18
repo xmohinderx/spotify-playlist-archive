@@ -2,9 +2,9 @@
 
 ### [Lifted Frequency](https://open.spotify.com/playlist/37i9dQZF1DXaod7SIWA11W)
 
-> Get lifted by the waves of faith\-infused music\.  Cover:  Kierra Sheard
+> Get lifted by the waves of faith\-infused music\.  Cover: Foggie Raw, artwork by Ian Woods
 
-196 songs - 12 hr 7 min
+197 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Authentic Love](https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [Authentic Love](https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3) | 4:42 | 2022-06-01 | 2022-10-01 |
 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 | 2022-07-17 | 2022-09-03 |
 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 | 2022-09-30 |  |
-| [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 | 2022-06-01 |  |
+| [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 | 2022-06-01 | 2023-02-18 |
 | [Be Real Black For Me](https://open.spotify.com/track/0IF9SiJ4SUvImDmyQsXAbj) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Be Real Black For Me](https://open.spotify.com/album/3j6rEmfILvN1rcNm9FhYky) | 3:54 | 2022-02-18 | 2022-06-01 |
 | [Beat the Block Up](https://open.spotify.com/track/1YYlKFIlOQrfRhENbmSY4x) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Beat the Block Up](https://open.spotify.com/album/4GPDjZ6kPfO4twbBtAMlfZ) | 2:35 | 2022-02-18 | 2022-06-01 |
 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 | 2022-02-27 | 2022-12-17 |
@@ -77,6 +77,7 @@
 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 | 2022-07-17 | 2022-12-17 |
 | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0) | 3:25 | 2022-06-01 | 2022-12-17 |
 | [He Understands](https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Feelings](https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4) | 6:45 | 2022-02-18 |  |
+| [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2023-02-18 |  |
 | [Heartbeat \- Live](https://open.spotify.com/track/6CQ6A3rlDDBUYXHONUDvPs) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [Heartbeat \(Live\)](https://open.spotify.com/album/0oXvXE4iVb0dSIEeuFnN1C) | 4:07 | 2022-02-18 | 2022-10-01 |
 | [Here All the Time \(feat\. Maranda Curtis\)](https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 6:02 | 2022-12-16 |  |
 | [High Up](https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [High Up](https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz) | 3:00 | 2022-02-18 | 2022-10-01 |

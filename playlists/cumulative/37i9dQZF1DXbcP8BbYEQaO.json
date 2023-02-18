@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180907,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
+    },
+    {
+      "album": {
         "name": "Tomorrow's Yesterdays",
         "url": "https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW"
       },
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 192541,
       "name": "It's Been So Long",
       "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
@@ -5420,6 +5438,24 @@
       "duration_ms": 206653,
       "name": "Mathematics",
       "url": "https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp"
+    },
+    {
+      "album": {
+        "name": "MEZCAL MINT GUM N COCAINE",
+        "url": "https://open.spotify.com/album/5NrSC4lV0XHAa8cEkIxy3n"
+      },
+      "artists": [
+        {
+          "name": "KILLBOY",
+          "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "MEZCAL MINT GUM N COCAINE",
+      "url": "https://open.spotify.com/track/5174aBUvlBHClVp9cr7JoG"
     },
     {
       "album": {
@@ -7878,7 +7914,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 192106,
       "name": "temporary",
       "url": "https://open.spotify.com/track/2UZ23yylRr0sZKZAhhWW6b"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198500,
       "name": "The Devil You Know (feat. Micky Blue)",
       "url": "https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a"
@@ -9310,6 +9346,24 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "album": {
+        "name": "\u00bfQUI\u00c9N TE MANDA?",
+        "url": "https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "\u00bfQUI\u00c9N TE MANDA?",
+      "url": "https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO"

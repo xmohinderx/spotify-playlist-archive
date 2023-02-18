@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Niky Savage
 
-425 songs - 18 hr 28 min
+426 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Rosario](https://open.spotify.com/track/4pybV3VytR7wckSzlflKjO) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi), [Myøs](https://open.spotify.com/artist/2ADFQayzQr49fYqlb9c7xk) | [Rosario](https://open.spotify.com/album/6Mkngcv8bvCOGgER4Wp3dg) | 3:08 | 2022-11-08 | 2022-12-09 |
 | [Round \#1](https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Round \#1](https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN) | 2:27 | 2022-10-06 | 2022-11-09 |
 | [RS6](https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [RS6](https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW) | 2:12 | 2022-08-25 | 2023-01-27 |
+| [RWINA](https://open.spotify.com/track/6ue77ihbiiOZch5DQfd1TL) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [RWINA](https://open.spotify.com/album/1P2BmgspAw3IvwEpaDBBnc) | 2:35 | 2023-02-16 |  |
 | [Réalité](https://open.spotify.com/track/5A38jUFZ5wTSCmYycPGdrs) | [Nuel](https://open.spotify.com/artist/5E3PTmB24Rrp3XW9Xk2Ixs) | [Réalité](https://open.spotify.com/album/2DB5cZjeqKEkE8NRQ1xJJS) | 2:18 | 2023-01-17 |  |
 | [Salto nel vuoto](https://open.spotify.com/track/6XTkT4PPwwbg8sWWWSH8Lu) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Salto nel vuoto](https://open.spotify.com/album/4fUTP5dYBbYd0lraO7wwjv) | 3:11 | 2022-05-10 | 2022-06-10 |
 | [San Nicola Borgo](https://open.spotify.com/track/0xBxPiVniMhV58XTrELRH1) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [San Nicola Borgo](https://open.spotify.com/album/7adRGIcl1seEOMinRNE6DG) | 2:39 | 2022-12-08 | 2022-12-24 |

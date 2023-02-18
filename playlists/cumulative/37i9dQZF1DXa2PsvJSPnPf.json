@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Falling Snow in Santa Fe",
+        "url": "https://open.spotify.com/album/7COeOahgGmkCcy3riGWJLF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220416,
+      "name": "Falling Snow in Santa Fe",
+      "url": "https://open.spotify.com/track/5cniB9uCQHULDoYPqxGfms"
+    },
+    {
+      "album": {
         "name": "Fast Like a Match",
         "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
       },
@@ -1512,6 +1530,24 @@
       "duration_ms": 286932,
       "name": "Love Is The King",
       "url": "https://open.spotify.com/track/46ewtMKwdS4EUNm5YsGwjD"
+    },
+    {
+      "album": {
+        "name": "Love Me Today",
+        "url": "https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrews",
+          "url": "https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Love Me Today",
+      "url": "https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU"
     },
     {
       "album": {

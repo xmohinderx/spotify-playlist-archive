@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,864 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,885 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 79 | [Menuet \- Piano Version](https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Menuet \(Piano Version\)](https://open.spotify.com/album/1getuZrn1FR7hL3UD54GO3) | 1:37 |
 | 80 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
 | 81 | [Piano Sonata No\. 28 in A Major, Op\. 101: I\. Etwas lebhaft und mit der innigsten Empfindung\. Allegretto ma non troppo \- Recorded 2021\-2](https://open.spotify.com/track/63tnRKtKA7UFpAm56rCuiP) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonatas Opp\. 101 & 106](https://open.spotify.com/album/3ZV0BCtPGQ5W7gESiXb8wG) | 3:21 |
-| 82 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
+| 82 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 83 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
-| 84 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 84 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
 | 85 | [Memories, ephemeral existence](https://open.spotify.com/track/30kgqdE2MOuVDHqsTW5anM) | [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Stones of Paradise](https://open.spotify.com/album/5zGMTu0j6RX3CIyRcond8m) | 4:30 |
 | 86 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 87 | [ピアノ協奏曲第2番 ハ短調 作品18 \- 第1楽章 Moderato](https://open.spotify.com/track/7Ij3Jk3XpiNP8ijIQiePjO) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j), [ロイヤル・リヴァプール・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7fnstXMT6WRekC9jxNVC2A), [ヴァシリー・ペトレンコ](https://open.spotify.com/artist/1RGwkEfWNdQRExPMElY4jS) | [ラフマニノフ:ピアノ協奏曲第2番 / カプースチン:8つの演奏会用エチュード](https://open.spotify.com/album/54VWhdCGU7Vn7f2JRRrVFr) | 10:56 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 93 | [Where'd You Put Me](https://open.spotify.com/track/2S0ljxYxpYhRzH6EBVsUJk) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Where'd You Put Me](https://open.spotify.com/album/0AZUt0xHVvjA609ipJEp3j) | 1:12 |
 | 94 | [Footprints You've Walked](https://open.spotify.com/track/13Zjtg684lLCXdSFeumzl6) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: I’m Always with You](https://open.spotify.com/album/1P3g6igU7Y4gT02Y9PcTVY) | 5:07 |
 | 95 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 |
-| 96 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 |
+| 96 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
 | 97 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 |
-| 98 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
+| 98 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 |
 | 99 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 |
 | 100 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDgzMjdhZTdjMjc4YzkyNzNlNzNhMTc4YzMxYjBkNDM0`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDFkNjQyNjFkMGU4NTdlMDZhZTE5ZmMzMjdjZjRlYzIy`

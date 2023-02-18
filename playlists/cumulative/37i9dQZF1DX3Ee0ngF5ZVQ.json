@@ -3379,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Going Nowhere",
+        "url": "https://open.spotify.com/album/6Eo6qKbzmF1J5YiiuWzYJV"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204489,
+      "name": "I Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
+    },
+    {
+      "album": {
         "name": "I Can't Even Drink Straight",
         "url": "https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD"
       },
@@ -6944,7 +6962,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 225060,
       "name": "What's Your Drinkin' Song",
       "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"

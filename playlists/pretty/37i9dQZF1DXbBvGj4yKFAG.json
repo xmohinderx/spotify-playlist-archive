@@ -1,13 +1,29 @@
 {
   "description": "may include",
-  "num_followers": 2046,
+  "num_followers": 2503,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjk2MywwMDAwMDAwMGViMGE1MWUxZjFkMjlmYjRjNTNjMDVlNjE2YTU3Y2E3",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDJhMWJiMWM3M2E1NDUyNTViNDQ3M2EzNWJlMjIyMzY3",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "A Hopeful Ending",
+        "url": "https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "A Hopeful Ending",
+      "url": "https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX"
+    },
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
@@ -27,34 +43,18 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+        "name": "DISORDER",
+        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
         }
       ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
+      "duration_ms": 120428,
+      "name": "WASTE",
+      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "DISORDER",
-        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
       },
       "artists": [
         {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         }
       ],
-      "duration_ms": 120428,
-      "name": "WASTE",
-      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
         "name": "old songs",
         "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
-        {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
-        }
-      ],
-      "duration_ms": 107590,
-      "name": "Fight Club",
-      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
         "name": "fairies in our house",
         "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 186346,
       "name": "Triptych",
       "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 107590,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -815,22 +831,6 @@
       "duration_ms": 192000,
       "name": "you're not the one that i want",
       "url": "https://open.spotify.com/track/4qj1tji798varSboYl713s"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     }
   ],
   "unique_name": "side effects",

@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Alikiba
 
-211 songs - 11 hr 57 min
+212 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Loyalty \(feat\. Marioo & Nandy\)](https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Slave Becomes A King](https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO) | 3:25 | 2021-06-25 | 2022-08-12 |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2021-10-14 | 2022-02-25 |
 | [Magical](https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Romantic](https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq) | 3:04 | 2022-09-23 |  |
+| [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |
 | [Make it bounce \(Katika\)](https://open.spotify.com/track/6t6MpkK03yHwcK6S4L1pMR) | [iiCons](https://open.spotify.com/artist/4NcqeUfjUFtjSdpjd14gbQ) | [Make it bounce \(Katika\)](https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5) | 2:57 | 2022-05-12 | 2022-07-15 |
 | [Mama](https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mama](https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj) | 2:54 | 2022-05-05 | 2022-09-24 |
 | [Mama](https://open.spotify.com/track/0pUlYfkpF0uUP3vu7tSe3B) | [Lulu Diva](https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr) | [Mama](https://open.spotify.com/album/2cLFk3vyXGbEsg20dDXcZF) | 3:08 | 2022-01-06 | 2022-04-15 |

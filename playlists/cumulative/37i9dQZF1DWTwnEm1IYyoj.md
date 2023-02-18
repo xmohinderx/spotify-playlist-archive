@@ -2,7 +2,7 @@
 
 ### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
-> Warm familiar pop you know and love\. Cover: John Legend
+> Warm familiar pop you know and love\. Cover: Sam Smith
 
 368 songs - 22 hr 57 min
 

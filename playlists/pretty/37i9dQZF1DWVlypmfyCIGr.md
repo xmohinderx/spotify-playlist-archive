@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,615 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,632 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 32 | [兵士と花火 feat\. サンゼン](https://open.spotify.com/track/4Y0nRXOVUcHfDMWfh6CnjP) | [未聴感ポップLab](https://open.spotify.com/artist/78a6BRZ2jMxzhW76Nxl4HR), [サンゼン](https://open.spotify.com/artist/0ULBcOX2FaU8lWd2GFBLI4) | [兵士と花火 feat\. サンゼン](https://open.spotify.com/album/4LhuPxUxYPYo5hz0Oen8Yj) | 3:48 |
 | 33 | [レジリエンス \(starring nui\)](https://open.spotify.com/track/7ytdZbWIT104p3m3ooyu0Z) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [nui](https://open.spotify.com/artist/1w8URhGe2U7oTUV0uTM2hF) | [レジリエンス \(starring nui\)](https://open.spotify.com/album/5uStqJWyIzs8BRXEIMevhT) | 2:51 |
 | 34 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 |
-| 35 | [Let's Go](https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's Go](https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU) | 4:12 |
+| 35 | [Let's Go](https://open.spotify.com/track/65J3b6vEI0fcfwt0A2UqvT) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Cho](https://open.spotify.com/album/4nx5OMVxi1M1K2giwuWcWf) | 4:12 |
 | 36 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
 | 37 | [The Space Between Us](https://open.spotify.com/track/7p73wPwb83DE5xuDEmEEc0) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [The Space Between Us](https://open.spotify.com/album/47MDHhUGNZNPkausZS7syk) | 2:55 |
 | 38 | [Aokumijikaiharu](https://open.spotify.com/track/2a0ttK1xvdW1HjqTTUNnSU) | [SWALLOW](https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs) | [Aokumijikaiharu](https://open.spotify.com/album/5yA5x6pXYqLvaBeIK1bGbi) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Ivyness](https://open.spotify.com/track/5x3fgpsCUig1DyVdFkBcOY) | [Utae](https://open.spotify.com/artist/30aaJCBZ3WASNcbq27Z3MG) | [Ivyness](https://open.spotify.com/album/1X3eMxtKRiiQr0QMeACvvt) | 3:16 |
 | 80 | [Light Bulb](https://open.spotify.com/track/1Uc2aVDZEuFANFb7CpOHWx) | [Swimming Sheep](https://open.spotify.com/artist/4lXsVyFTJxtA8LxnKzmDxz) | [Light Bulb](https://open.spotify.com/album/1DwlZA4BoBA7ftQGf0TNzn) | 1:48 |
 
-Snapshot ID: `MTY3NjMwMDQwMCwwMDAwMDAwMDYzZWZjMDNlMjc5Yjg2OTBkODI5ODQyZGUxMTgwNmE5`
+Snapshot ID: `MTY3NjMwMDQwMCwwMDAwMDAwMGUwOGI3ZGMyOTI1YWQzNWMzNGNhZTkzODY3NjE2NTIw`

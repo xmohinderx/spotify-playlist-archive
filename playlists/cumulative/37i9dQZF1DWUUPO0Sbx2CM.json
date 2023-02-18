@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "BANG! BANG!",
+        "url": "https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "BANG! BANG!",
+      "url": "https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr"
+    },
+    {
+      "album": {
         "name": "Out of the Darkness",
         "url": "https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 198600,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
@@ -1940,10 +1958,6 @@
         {
           "name": "Joe L Barnes",
           "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        },
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
         }
       ],
       "date_added": "2023-02-08",

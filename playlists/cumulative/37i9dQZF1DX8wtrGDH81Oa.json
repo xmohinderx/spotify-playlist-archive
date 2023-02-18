@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 407188,
       "name": "AMS - Alex Hoevelmann Rework",
       "url": "https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 173943,
       "name": "Close to midnight",
       "url": "https://open.spotify.com/track/5ZBYK7vXdvFd5X6w0nluhm"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 171660,
       "name": "days of darkness",
       "url": "https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN"
@@ -1734,6 +1734,24 @@
       "duration_ms": 162000,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8"
+    },
+    {
+      "album": {
+        "name": "Il Mondriano",
+        "url": "https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG"
+      },
+      "artists": [
+        {
+          "name": "papi.",
+          "url": "https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207543,
+      "name": "Il Mondriano",
+      "url": "https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp"
     },
     {
       "album": {
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 134250,
       "name": "U Know",
       "url": "https://open.spotify.com/track/2qogVA8zkwNRF5KGWMfA8C"

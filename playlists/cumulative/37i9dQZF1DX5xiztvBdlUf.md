@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-312 songs - 1 day 5 hr 35 min
+313 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-11-26 | 2022-06-16 |
 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 | 2022-10-28 |  |
 | [Hujan](https://open.spotify.com/track/4yk6OhBXGUMbQLfYCY53nE) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Hujan](https://open.spotify.com/album/6pdcYvI6izBIT7bn4c40oS) | 6:19 | 2021-11-26 | 2022-07-29 |
-| [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 | 2022-04-15 |  |
+| [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 | 2022-04-15 | 2023-02-18 |
 | [I hear you](https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J), [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Black Soda](https://open.spotify.com/artist/4DIbWYMpiH7S0Zw3PjUT3k) | [I hear you feat\. Black Soda](https://open.spotify.com/album/5Ntg5OczGoT9QLJzIwXDpc) | 8:03 | 2021-11-26 | 2022-04-20 |
 | [I Want It All \(feat\. Elderbrook\) \- Route 94 Remix](https://open.spotify.com/track/0LjpThe4YPL9VG0MFozbwE) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [I Want It All \(feat\. Elderbrook\) \[Remixes\]](https://open.spotify.com/album/0c7jQkV3HG2b6KhG7P0gfc) | 3:31 | 2021-11-26 | 2022-04-05 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-02-18 | 2022-10-13 |
@@ -239,6 +239,7 @@
 | [Runaway](https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Runaway](https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5) | 3:58 | 2022-11-15 | 2022-11-26 |
 | [Running up That Hill](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Running up That Hill](https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw) | 5:07 | 2022-02-18 |  |
 | [Second Chance](https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 7:45 | 2021-11-26 | 2022-07-29 |
+| [Second Line](https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Second Line](https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO) | 4:11 | 2023-02-17 |  |
 | [Sequoia](https://open.spotify.com/track/23FvcB0j0HRa2YUWkzVmWi) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sequoia](https://open.spotify.com/album/2FFjfrpopWyK0t09hFqfLw) | 3:17 | 2021-11-26 | 2022-02-04 |
 | [Sezon](https://open.spotify.com/track/6xlfITFTlS8sley7cC9Uei) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Iliada EP](https://open.spotify.com/album/49OvMXscS6RSboc2blW3ci) | 7:19 | 2022-04-04 | 2022-04-17 |
 | [Shades](https://open.spotify.com/track/4SdBlOhE545Zr2ZH2oca3i) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Shades](https://open.spotify.com/album/2bbgXtnw9mpweJSSw4XOf5) | 4:05 | 2022-04-15 | 2022-07-27 |

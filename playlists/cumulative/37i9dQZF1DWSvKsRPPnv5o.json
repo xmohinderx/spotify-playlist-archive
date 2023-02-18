@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "60 Days",
+        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "60 Days",
+      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
+    },
+    {
+      "album": {
         "name": "90210 (feat. Bino Rideaux)",
         "url": "https://open.spotify.com/album/26ov55hQil9fdbIKtEy6Rm"
       },
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 173635,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/58GSD2I140d9rLdSurr38s"
@@ -2164,6 +2186,28 @@
       "duration_ms": 177750,
       "name": "Elon",
       "url": "https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN"
+    },
+    {
+      "album": {
+        "name": "Endzone",
+        "url": "https://open.spotify.com/album/3jD7Qob2hsGhgTqaMzuNpb"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Endzone",
+      "url": "https://open.spotify.com/track/0hKRl06sY5KK9juJCG2RCz"
     },
     {
       "album": {
@@ -3312,7 +3356,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176178,
       "name": "House Party",
       "url": "https://open.spotify.com/track/31tXkuZRdsmLEJmkHVmIiS"
@@ -4122,7 +4166,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 182400,
       "name": "Let Me Know (feat. Jeremih)",
       "url": "https://open.spotify.com/track/0JOFB6I6pIOXgieSBVFCNf"
@@ -4338,7 +4382,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 146625,
       "name": "Literally",
       "url": "https://open.spotify.com/track/6KN9nYlr3TIH8irQ1YeOHX"
@@ -4910,7 +4954,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 208620,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
@@ -6503,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "Shot Callin'",
+        "url": "https://open.spotify.com/album/7umP1ckNfIPlue5mOeAT0T"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Shot Callin'",
+      "url": "https://open.spotify.com/track/24kYfgIAUqAmlDHys3vjAL"
+    },
+    {
+      "album": {
         "name": "Sign Language",
         "url": "https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig"
       },
@@ -6996,6 +7058,28 @@
       "duration_ms": 145191,
       "name": "Tada",
       "url": "https://open.spotify.com/track/20BdyrB29mlD1hBp20ZDve"
+    },
+    {
+      "album": {
+        "name": "Tada (feat. Blxst)",
+        "url": "https://open.spotify.com/album/19tfV4P34rmSvKoc6abGJw"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186563,
+      "name": "Tada (feat. Blxst)",
+      "url": "https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz"
     },
     {
       "album": {
@@ -7602,6 +7686,24 @@
       "duration_ms": 171493,
       "name": "What It Cost Us",
       "url": "https://open.spotify.com/track/4sEcRUHvz58OD9PrRfzgtU"
+    },
+    {
+      "album": {
+        "name": "What You Doin",
+        "url": "https://open.spotify.com/album/18wSzWUr8yOOvitSLVfW33"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "What You Doin",
+      "url": "https://open.spotify.com/track/3FlvdsRxDZz7kAEsgcspt5"
     },
     {
       "album": {

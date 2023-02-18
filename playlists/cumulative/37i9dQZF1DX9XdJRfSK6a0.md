@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-73 songs - 3 hr 56 min
+75 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g) | 6:56 | 2019-01-04 | 2022-07-29 |
 | [1440 \- Remastered 10th Anniversary Edition](https://open.spotify.com/track/72pCATqZdEBOuL6EStKFRv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Eulogy for Evolution 2017 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/0CCmRxJMfXmuJMksYEWK3j) | 6:56 | 2019-01-04 |  |
 | [Alexander](https://open.spotify.com/track/0XFWVvTcY1hntfA4Befeyz) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/5C1Ynh8hxPOUyy5iA0tZXh) | 2:54 | 2019-01-04 | 2022-07-29 |
-| [Alexander](https://open.spotify.com/track/7IqTgS5JmEvcikB01hVst7) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/4efyDnXUkaxPNFSSZDRoqC) | 2:54 | 2019-01-04 |  |
+| [Alexander](https://open.spotify.com/track/3lwfvLFY4GjgaTxnlvowNP) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/734M3Ru7dLVlu2ol202cg0) | 2:54 | 2022-09-27 |  |
+| [Alexander](https://open.spotify.com/track/7IqTgS5JmEvcikB01hVst7) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/4efyDnXUkaxPNFSSZDRoqC) | 2:54 | 2019-01-04 | 2023-02-18 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-01-04 |  |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2019-01-04 | 2022-07-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 | 2019-01-04 |  |
@@ -54,7 +55,8 @@
 | [Porch Sitting Song](https://open.spotify.com/track/5DMI1Uz32jJbLuxVzAavHU) | [Solander](https://open.spotify.com/artist/123zs4FVoUcDFM90b4Lxmr) | [Passing Mt\. Satu](https://open.spotify.com/album/5txrgRLiA9puZzstN0GZxJ) | 2:11 | 2019-01-04 |  |
 | [Quiet Fan For SK](https://open.spotify.com/track/5tKM4B9wwjmLNO8fTwsSfS) | [P.G\. Six](https://open.spotify.com/artist/4GYG5rH2oxRMJ8DSTof7QK) | [Parlor Tricks And Porch Favorites](https://open.spotify.com/album/2YxwapK0BWNieZnHOikHV3) | 7:03 | 2019-01-04 |  |
 | [Salt hill pt.1](https://open.spotify.com/track/27XkBk6X6o5MSST31awiNA) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/1QvatR5Ff7CDkeyQAgHrwW) | 2:40 | 2019-01-04 | 2022-07-29 |
-| [Salt Hill Pt.1](https://open.spotify.com/track/6rPTtssKdCgY4qET4dqNUr) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/4p48cqofI5gHf7aj5KEzxH) | 2:40 | 2019-01-04 |  |
+| [Salt Hill Pt.1](https://open.spotify.com/track/51YVHQbUGFIP6aUhfBjwaD) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/2su5Q8CA1md9jgZMfQQ9HQ) | 2:40 | 2022-09-27 |  |
+| [Salt Hill Pt.1](https://open.spotify.com/track/6rPTtssKdCgY4qET4dqNUr) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/4p48cqofI5gHf7aj5KEzxH) | 2:40 | 2019-01-04 | 2023-02-18 |
 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 | 2019-01-04 |  |
 | [Straumnes](https://open.spotify.com/track/16f0oRsBHo88vgUbVqcteK) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 2:01 | 2019-01-04 | 2022-07-29 |
 | [Straumnes](https://open.spotify.com/track/73Zl1qvHnU6qz1uUjOdXuo) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/5CtxgcqieOcYKyQjGKI0nY) | 2:01 | 2019-01-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Paola Guanche\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,908 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,915 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 19 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
 | 20 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
 | 21 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
-| 22 | [Eres](https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb) | [Drea](https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL) | [Eres](https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l) | 2:49 |
-| 23 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
+| 22 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
+| 23 | [Eres](https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb) | [Drea](https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL) | [Eres](https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l) | 2:49 |
 | 24 | [Olvidarte Para Qué](https://open.spotify.com/track/6ZBsNz0WOrJi4GsJTABdvg) | [Astrid Celeste](https://open.spotify.com/artist/17bJlJD5HIrXLGykmaXUwy) | [Olvidarte Para Qué](https://open.spotify.com/album/5QhqosoqUtQTODvmT5Qwji) | 3:31 |
 | 25 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 26 | [Modo Racing](https://open.spotify.com/track/5Tfu400KFxjNmUuhObNYjF) | [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj) | [Modo Racing](https://open.spotify.com/album/07UFeeR6w1OqWkdFBTxX4O) | 3:21 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 35 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 |
 | 36 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
 | 37 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
-| 38 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
-| 39 | [María José](https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [María José](https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM) | 3:15 |
-| 40 | [Tu Tatuaje \- Acoustic](https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR) | [La Ganga Calé](https://open.spotify.com/artist/6rSMOnbJFs8grTn6sfRJXZ), [Basik Sessions](https://open.spotify.com/artist/2VmMZYJ2K1XXvWiBZCuaJ3) | [Tu Tatuaje \(Acoustic\)](https://open.spotify.com/album/5xFeccb974udUGNqfbDedN) | 3:08 |
-| 41 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
-| 42 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
-| 43 | [anti\-love](https://open.spotify.com/track/0ZcsaOLKAD6qzDa6CUMhuv) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [anti\-love](https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh) | 2:49 |
-| 44 | [u da one](https://open.spotify.com/track/3vou92sb4ezJ5XP8J3Ar6L) | [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9), [Hitalot](https://open.spotify.com/artist/1CEtMW7FUysM7Le5wdNwSA), [Michaela Fano](https://open.spotify.com/artist/7HRqGghJV95hgMIuRligBR) | [u da one](https://open.spotify.com/album/3Hk7hHLZE2DNfihJheOcHT) | 3:45 |
-| 45 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
+| 38 | [María José](https://open.spotify.com/track/4D4hqAjmeaUYG4B0PdcMiP) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [María José](https://open.spotify.com/album/7xwMkhp2I3xoLR3zh9FazM) | 3:15 |
+| 39 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
+| 40 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 41 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
+| 42 | [Tu Tatuaje \- Acoustic](https://open.spotify.com/track/7dEVsxtgjC7M1EhBdUDReR) | [La Ganga Calé](https://open.spotify.com/artist/6rSMOnbJFs8grTn6sfRJXZ), [Basik Sessions](https://open.spotify.com/artist/2VmMZYJ2K1XXvWiBZCuaJ3) | [Tu Tatuaje \(Acoustic\)](https://open.spotify.com/album/5xFeccb974udUGNqfbDedN) | 3:08 |
+| 43 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
+| 44 | [anti\-love](https://open.spotify.com/track/0ZcsaOLKAD6qzDa6CUMhuv) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [anti\-love](https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh) | 2:49 |
+| 45 | [u da one](https://open.spotify.com/track/3vou92sb4ezJ5XP8J3Ar6L) | [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9), [Hitalot](https://open.spotify.com/artist/1CEtMW7FUysM7Le5wdNwSA), [Michaela Fano](https://open.spotify.com/artist/7HRqGghJV95hgMIuRligBR) | [u da one](https://open.spotify.com/album/3Hk7hHLZE2DNfihJheOcHT) | 3:45 |
 | 46 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
 | 47 | [Fluye](https://open.spotify.com/track/08cB5cxAoEP2odvWjOFSA6) | [SilverPoppy](https://open.spotify.com/artist/1vk28RZoUjlCNwJlirsJXv), [Shaeta](https://open.spotify.com/artist/0CG9eef9JqksLsgNjcdC8h), [Insert Soul](https://open.spotify.com/artist/1881wAudoT8hotL7FS4zIH) | [Fluye](https://open.spotify.com/album/5qHsbok31cDhHmiL9EFF3D) | 3:47 |
 | 48 | [C\-408](https://open.spotify.com/track/7CeShaWbO4GyGt5Ykl0yuT) | [Aurel Luna](https://open.spotify.com/artist/0FOr9PBT5SuqNPS2C3mLgk) | [C\-408](https://open.spotify.com/album/78c1wvr9ZYQrt3BNY1qZU9) | 3:54 |
 | 49 | [Estación Universidad](https://open.spotify.com/track/1It0aUrjbHCwyxkhxSgawZ) | [Autopiloto](https://open.spotify.com/artist/21BjoPG0ZCtaeW6cn9p2M3), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Estación Universidad](https://open.spotify.com/album/4hQymR2wBMScbJMDxylCF0) | 4:25 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NjQzNzIwMCwwMDAwMDAwMDAwOWNjMDE1NmNlNjNmN2IxN2Q4ZTM1NjVhMThhYzMz`
+Snapshot ID: `MTY3NjQzNzIwMCwwMDAwMDAwMGUxOTFiOGU2YzI5MmY2YjZlODExM2NhMDJiMTZiZTU0`

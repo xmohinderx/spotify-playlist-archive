@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-404 songs - 23 hr 3 min
+405 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Matemática sentimental](https://open.spotify.com/track/3mRxdRzBEcydtMyUDxjRc6) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Matemática sentimental](https://open.spotify.com/album/77pcWgYSez4zAM8VoRXLB1) | 2:58 | 2022-04-01 | 2022-04-25 |
 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 | 2022-01-07 |  |
 | [Me Enamoré Muy Fácil](https://open.spotify.com/track/7MlqR8FMlCuCPDeSsxcAmd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Me Enamoré Muy Fácil](https://open.spotify.com/album/0uUcyrBYVxD7h3pCFJabXb) | 3:21 | 2022-01-07 | 2022-07-28 |
+| [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-02-17 |  |
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 |  |
 | [Me hace bien](https://open.spotify.com/track/5eLyocmado1OAnuua5kNlS) | [Los Hermanos Morgan](https://open.spotify.com/artist/4hgrhLThMxBSxW5h0gMfoe) | [Me hace bien](https://open.spotify.com/album/4rXrbWylVd16oQXQ78GSiY) | 3:10 | 2022-04-01 | 2022-04-13 |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 | 2022-07-25 |
@@ -279,7 +280,7 @@
 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2022-01-07 |  |
 | [Para Mí](https://open.spotify.com/track/6GtnxNS9Y4L5R14l9LMMzZ) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/4whaDppy4KYRXa1Voy3Ydi) | 3:18 | 2022-01-07 | 2022-07-29 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-28 | 2022-07-27 |
-| [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-01-20 |  |
+| [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-01-20 | 2023-02-18 |
 | [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 | 2022-07-29 |  |
 | [Paralelos](https://open.spotify.com/track/0uUSAVzlKwQCjpsB21Qlg7) | [Universos](https://open.spotify.com/artist/2Rx84pqygIYad4A1PaHu1l), [Ellen Pub](https://open.spotify.com/artist/0G4Y5ivygdqDzmlzHXjpIo) | [Paralelos](https://open.spotify.com/album/1YEdetwDrFjHKwIV5F8ukb) | 4:30 | 2022-01-07 | 2022-07-28 |
 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 
 > Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 20 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 20 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 | 2 | [Perennial Bloom](https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 2:43 |
 | 3 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 |
 | 4 | [Emergence](https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 8:24 |
-| 5 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
+| 5 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 |
 | 6 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
 | 7 | [Herds](https://open.spotify.com/track/6FizwvsbA4PUrGCFZtx9w8) | [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj) | [Kindred Phenomena](https://open.spotify.com/album/2iV8qDh26lywn93NEbCuG5) | 8:56 |
 | 8 | [Gravity that Binds](https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 15:47 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 | 19 | [Sit Around The Fire](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Sit Around The Fire](https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x) | 8:22 |
 | 20 | [Loch Raven](https://open.spotify.com/track/2c72qfxXOJUlPoJimDcI20) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Feels](https://open.spotify.com/album/21LZ1OSKbxSU5I7QBUalW8) | 4:59 |
 
-Snapshot ID: `MTY3MzM2ODc5OCwwMDAwMDAwMDlmOTQ2NTcyNmY1MDc5NzkwMTdiYmY3M2NmOTBkNTli`
+Snapshot ID: `MTY3MzM2ODc5OCwwMDAwMDAwMDdjNzc0M2FlZDNhOWFlMDUxMmVjZmE1Yzk3MDlkMThm`

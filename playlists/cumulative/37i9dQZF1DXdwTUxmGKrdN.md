@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-207 songs - 15 hr 15 min
+208 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 | 2021-12-27 |  |
 | [I'm All Ears](https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [I'm All Ears](https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC) | 4:59 | 2021-12-27 | 2022-07-28 |
 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 | 2022-04-11 |  |
-| [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 | 2022-01-17 |  |
+| [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 | 2022-01-17 | 2023-02-18 |
 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 | 2022-01-03 | 2022-10-13 |
 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 | 2021-12-27 |  |
 | [Infinite Soul \(Radio Single\)](https://open.spotify.com/track/55xnJlHCwTVBPXF7IbpIns) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Infinite Soul \(Radio Single\)](https://open.spotify.com/album/4tzUhsd3cBxwRC4YuLcTCc) | 4:01 | 2022-04-11 | 2022-04-21 |
@@ -119,7 +119,7 @@
 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 | 2022-01-10 |  |
 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 | 2022-01-10 |  |
 | [Let's Get Serious](https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Let's Get Serious](https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj) | 4:06 | 2021-12-27 | 2022-07-29 |
-| [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 | 2023-02-16 |
+| [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2022-07-18 |  |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Mike Phillips](https://open.spotify.com/album/4FomqjIojtkML36UO4rW7W) | 2:02 | 2022-12-20 | 2023-01-03 |
 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 | 2021-12-27 |  |
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-07-18 |  |
@@ -154,7 +154,7 @@
 | [Reverence](https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Turn It Up](https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb) | 5:03 | 2022-04-11 | 2022-04-17 |
 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 | 2021-12-27 |  |
 | [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 | 2023-01-02 |
-| [Romantic Nights](https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 3:48 | 2023-01-31 |  |
+| [Romantic Nights](https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 3:48 | 2023-01-31 | 2023-02-18 |
 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 | 2022-01-03 | 2022-07-29 |
 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 | 2023-01-07 |
 | [Sample That](https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Retrospect](https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh) | 4:20 | 2021-12-27 | 2022-07-27 |
@@ -208,6 +208,7 @@
 | [Valentin Dream \(feat\. Bob Baldwin\)](https://open.spotify.com/track/1wugADbCBtcDPbd0D7NtX0) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Quantum Drive](https://open.spotify.com/album/43yX6oV0cDl7E6KEJ3cyb1) | 4:20 | 2022-04-11 | 2022-04-21 |
 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 | 2022-04-11 |  |
 | [What The Wind Knows](https://open.spotify.com/track/0PrN59cfD9Dkvtnsmje9WE) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 3:34 | 2022-01-03 | 2022-07-14 |
+| [What The Wind Knows](https://open.spotify.com/track/48aCBwMYM5rfUZlN26KVRF) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR) | 3:34 | 2023-02-14 |  |
 | [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-10-03 |  |
 | [What You Do To Me](https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do to Me](https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1) | 4:57 | 2022-05-23 | 2022-07-29 |
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2021-12-27 |  |

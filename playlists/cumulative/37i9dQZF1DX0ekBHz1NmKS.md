@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-644 songs - 1 day 10 hr 7 min
+645 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cute & Cruel \(feat\. First Aid Kit\)](https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:00 | 2022-10-15 |  |
 | [Daddy Issues](https://open.spotify.com/track/6gohkTYsaQDvrcD6sMUxq2) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
+| [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2023-02-18 |  |
 | [Dansar på lakan](https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z) | [Dansar på lakan](https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS) | 3:11 | 2021-12-16 | 2022-01-10 |
 | [Dear Havanna](https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Havanna Werner Johnson](https://open.spotify.com/artist/5Jv214x15UoVfHMo4LIpLU) | [Dear Havanna](https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb) | 2:57 | 2021-12-16 | 2022-03-31 |
 | [Death Of Me](https://open.spotify.com/track/5OLWoMycnrKMQIB5g6hjZw) | [Lance & Linton](https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c) | [Death Of Me](https://open.spotify.com/album/4Jv7YmMG9g5NyzUgQJzFSS) | 3:23 | 2021-12-16 | 2022-03-07 |
@@ -308,7 +309,7 @@
 | [King of Empty Conversations](https://open.spotify.com/track/7ypIMg9prFSXhi1nX4cK6m) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [King of Empty Conversations](https://open.spotify.com/album/4FanSVdF3aguiuuJi0qgO0) | 3:22 | 2022-11-17 | 2023-01-08 |
 | [Kiss Me](https://open.spotify.com/track/4JQQp0QINDwgTRlqQmC7xU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/0UeGiO8l1r0HtBGmkkB9ic) | 3:21 | 2022-09-15 | 2022-09-30 |
 | [Knallpulver](https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Knallpulver](https://open.spotify.com/album/4OAO9n9fnusvbLTBa3m0fl) | 2:38 | 2022-05-26 | 2022-07-28 |
-| [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 |  |
+| [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 | 2023-02-18 |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |
 | [Korthus](https://open.spotify.com/track/19ILYbyW3BPeDUxH3TYBPU) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Korthus](https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8) | 3:02 | 2022-11-04 | 2023-02-01 |
 | [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-09-01 | 2022-10-13 |

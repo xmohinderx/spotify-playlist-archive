@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover, Luke Bar$",
+  "description": "New music breaking waves. Cover, Rican Da Menace",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 212830,
       "name": "All Over This Party",
       "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
@@ -1100,10 +1100,54 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 155742,
       "name": "Doves",
       "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
+    },
+    {
+      "album": {
+        "name": "DROPPING 4s",
+        "url": "https://open.spotify.com/album/1zRP85In24yIFd7Jz79AEv"
+      },
+      "artists": [
+        {
+          "name": "150 EBK",
+          "url": "https://open.spotify.com/artist/2KYCLOKwnu5Fk3pCA8SKTJ"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "DROPPING 4s",
+      "url": "https://open.spotify.com/track/51G1Db6j2UUiil1DzkPP9U"
+    },
+    {
+      "album": {
+        "name": "DUMB (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146919,
+      "name": "DUMB (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
     },
     {
       "album": {
@@ -1264,6 +1308,24 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "album": {
+        "name": "Face",
+        "url": "https://open.spotify.com/album/2FU4NwQkSHHPt8OrCZ7sKN"
+      },
+      "artists": [
+        {
+          "name": "Butch Dawson",
+          "url": "https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ"
     },
     {
       "album": {
@@ -1560,7 +1622,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 217043,
       "name": "Gratuity",
       "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
@@ -1626,6 +1688,32 @@
       "duration_ms": 152062,
       "name": "Haku",
       "url": "https://open.spotify.com/track/1USaSmbCC4U80jbN7ZrqeN"
+    },
+    {
+      "album": {
+        "name": "The Revive (The Ascension 2 Prelude)",
+        "url": "https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158362,
+      "name": "Hand Her The Gun",
+      "url": "https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN"
     },
     {
       "album": {
@@ -1779,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Going Lie",
+        "url": "https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133511,
+      "name": "I Ain't Going Lie",
+      "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
+    },
+    {
+      "album": {
         "name": "I CAN'T STAND Y'ALL",
         "url": "https://open.spotify.com/album/3boh4YIOlTWCWy1rDSirSt"
       },
@@ -1910,7 +2016,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 196122,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
@@ -2725,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "One Mo Chance",
+        "url": "https://open.spotify.com/album/5vTUjOO1XQLmgP5AwVZpym"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110080,
+      "name": "One Mo Chance",
+      "url": "https://open.spotify.com/track/3c1wpfkGzcL260V38wtzCn"
+    },
+    {
+      "album": {
         "name": "One Track Minded",
         "url": "https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr"
       },
@@ -3256,7 +3380,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 163601,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy"

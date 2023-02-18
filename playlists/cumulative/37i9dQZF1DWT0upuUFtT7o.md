@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: romeo + juliet
 
-1,193 songs - 2 day 17 hr 28 min
+1,194 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,7 +1066,8 @@
 | [Thinking of You](https://open.spotify.com/track/6GdaH0cJswxjiU8PngVdje) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Thinking of You](https://open.spotify.com/album/1A1An38fD4HI1icvarYgnA) | 3:42 | 2022-07-06 | 2022-09-07 |
 | [Thinking Of You](https://open.spotify.com/track/7MLhL0O3bzjU7hVcAc6lFQ) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Thinking Of You](https://open.spotify.com/album/2ptJ2SyvUIuTkm6EtN8wK5) | 3:42 | 2022-07-06 | 2022-08-26 |
 | [This is not my idea of a party](https://open.spotify.com/track/1ZyfvbZVUA21DusJuXnwUe) | [Tj Loft](https://open.spotify.com/artist/2SJuurn3oYAjsbiHaKqXvc) | [This is not my idea of a party](https://open.spotify.com/album/5Z1NUSVwtqJlR48ZhXwt4Q) | 2:40 | 2022-06-08 | 2022-06-30 |
-| [this moment \(333\)](https://open.spotify.com/track/6i4L7k1SOUvZQvKxNOPPTZ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [this moment \(333\)](https://open.spotify.com/album/3qSPRX4b7sdGKout28zWGX) | 3:45 | 2023-01-11 |  |
+| [this moment \(333\)](https://open.spotify.com/track/5nVyNgFGdH3arEYSqn7Ofb) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [this moment \(333\)](https://open.spotify.com/album/3n7DF91s2IYsXXXnV2Kpvo) | 3:45 | 2023-01-11 |  |
+| [this moment \(333\)](https://open.spotify.com/track/6i4L7k1SOUvZQvKxNOPPTZ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [this moment \(333\)](https://open.spotify.com/album/3qSPRX4b7sdGKout28zWGX) | 3:45 | 2023-01-11 | 2023-02-18 |
 | [This Time](https://open.spotify.com/track/5iY5wtzXfjHVGNt9SWVfGS) | [Maunders](https://open.spotify.com/artist/1d9ZuJE0KZcEe6O41Dao57) | [This Time](https://open.spotify.com/album/7IrX6WvjlwHTwf8mPJuK3q) | 4:14 | 2022-03-22 | 2022-04-13 |
 | [this weeks laundry](https://open.spotify.com/track/3DikPWZtZZbj7d2gD1owX6) | [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [this weeks laundry](https://open.spotify.com/album/2ouoZHveeYxVUJKg1VnqwL) | 4:33 | 2022-01-19 | 2022-02-10 |
 | [Thousand](https://open.spotify.com/track/6nNNTa39yggqqTjTWos4sQ) | [Silver Liz](https://open.spotify.com/artist/063uvG0luqeuz7qjH8QiQQ) | [Thousand](https://open.spotify.com/album/3HNUb45INUuqxn6Xh34ZTM) | 3:19 | 2022-04-12 | 2022-05-05 |

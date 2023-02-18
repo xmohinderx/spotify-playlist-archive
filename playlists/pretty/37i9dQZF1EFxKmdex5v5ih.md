@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707 likes - 213 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708 likes - 213 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 166 | [Hopeful](https://open.spotify.com/track/5NYoDiS8tn1pJgZ7z6r6vE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:18 |
 | 167 | [Words](https://open.spotify.com/track/52eerLN7dJGhXyXFjm0jPC) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [What's Going On](https://open.spotify.com/album/4MHruYLEcaEot8BJylX8OZ) | 3:35 |
 | 168 | [You Don't Know Me \- Sidekick Remix](https://open.spotify.com/track/2ccYBt0ueoDgsechbxOxAp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Sidekick](https://open.spotify.com/artist/1t3FcaCHl6XU3kkZbF1L3R) | [TREAT MYSELF \(Remixes\)](https://open.spotify.com/album/3rVTt0GeBwr0JRLTxzX1no) | 3:24 |
-| 169 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 |
-| 170 | [on my way](https://open.spotify.com/track/5VrJrBAYUAEn3412GKfQEl) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:57 |
+| 169 | [on my way](https://open.spotify.com/track/5VrJrBAYUAEn3412GKfQEl) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:57 |
+| 170 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 |
 | 171 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
 | 172 | [No Love Songs](https://open.spotify.com/track/0OI0XaMptcfdrGBWhZCTvW) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:08 |
 | 173 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 |
@@ -217,9 +217,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 207 | [Folding My Patience](https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL) | [Slaus Brown\-Paul](https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5), [Shon Howard](https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD), [Tony Medina](https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB) | [The Burning Point Sessions](https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3) | 5:17 |
 | 208 | [It Ain't Love](https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F) | [Star Candy](https://open.spotify.com/artist/0ypSAR9wFSMZxJzDdbJzM0) | [Up Close](https://open.spotify.com/album/2Atzg6ScJm9y7EO2xR3hPV) | 5:09 |
 | 209 | [No More Losses](https://open.spotify.com/track/2t17IqLTuiqHKCHX8Jm0OY) | [Bhlocka](https://open.spotify.com/artist/71tbSZx32BtGDmiY7aSn5E) | [No More Losses](https://open.spotify.com/album/57sSlepVJdewjJjUOpzeUc) | 3:20 |
-| 210 | [Drown](https://open.spotify.com/track/4X4Iv5Sq9L3NUcow2kezBJ) | [Salami Army](https://open.spotify.com/artist/3j40VcfrRzAbdrs7CEdRxX) | [Drown](https://open.spotify.com/album/2rsYtal7eWCn7JFcTmfTW7) | 3:58 |
-| 211 | [Things \(Things\)](https://open.spotify.com/track/75WmIlFJNQcdnbUBNiuemB) | [The Cheap Soap](https://open.spotify.com/artist/5kWpxzYuRo2QbrSkh1KwRx) | [I Was and I Did](https://open.spotify.com/album/7v1qW0bkIIbpOH9KZ135Wi) | 1:33 |
+| 210 | [Things \(Things\)](https://open.spotify.com/track/75WmIlFJNQcdnbUBNiuemB) | [The Cheap Soap](https://open.spotify.com/artist/5kWpxzYuRo2QbrSkh1KwRx) | [I Was and I Did](https://open.spotify.com/album/7v1qW0bkIIbpOH9KZ135Wi) | 1:33 |
+| 211 | [Drown](https://open.spotify.com/track/4X4Iv5Sq9L3NUcow2kezBJ) | [Salami Army](https://open.spotify.com/artist/3j40VcfrRzAbdrs7CEdRxX) | [Drown](https://open.spotify.com/album/2rsYtal7eWCn7JFcTmfTW7) | 3:58 |
 | 212 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 | 213 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 
-Snapshot ID: `Mjc5NDMyMDcsMDAwMDAwMDA2OTRlYTZjYjE3MjQyOTE1MWI3ODBjMTcyMzI2ZWFkYg==`
+Snapshot ID: `Mjc5NDQ2NDcsMDAwMDAwMDA1ZGE4ZTAzYmExNGIwYmNhZGEwNDA3ZjljNTZlYTJmOQ==`

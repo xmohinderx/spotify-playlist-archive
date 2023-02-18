@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-150 songs - 11 hr 4 min
+151 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Silent Waves](https://open.spotify.com/track/4yxTa8dO2tCQZ6Xil9S1FA) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2) | [Silent Waves](https://open.spotify.com/album/4YUHjJEz3YWglKA0Tv88zo) | 6:51 | 2022-01-28 | 2022-07-29 |
 | [Silouans Song](https://open.spotify.com/track/4C2YTs1QwX1V8Xv5xn9fkF) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT), [Tallin Chamber Orchestra](https://open.spotify.com/artist/4usHIsx5A139Rw4cZVfPuu) | [Arvo Pärt: Te Deum](https://open.spotify.com/album/0pPXmjmIGwCtIBWiOXO71k) | 5:46 | 2022-01-28 | 2022-08-03 |
 | [Silouans Song](https://open.spotify.com/track/69JT8eQGPaKDdmFDnb907J) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT), [Tallin Chamber Orchestra](https://open.spotify.com/artist/4usHIsx5A139Rw4cZVfPuu) | [Pärt: Te Deum](https://open.spotify.com/album/5Ml5QHwiVXPlrqD5IC9FYN) | 5:46 | 2022-01-28 | 2022-07-29 |
-| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-01-28 |  |
+| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-01-28 | 2023-02-18 |
+| [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-03 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2022-01-28 | 2022-07-29 |
 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 | 2022-01-28 | 2022-08-03 |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2022-01-28 |  |

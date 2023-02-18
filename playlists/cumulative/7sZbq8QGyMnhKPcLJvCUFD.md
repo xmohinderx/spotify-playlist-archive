@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-198 songs - 10 hr 11 min
+201 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |
 | [Consume Me](https://open.spotify.com/track/2eBajT1oKY0ugtD1Lc5zaq) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Consume Me](https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH) | 5:12 | 2023-01-13 |  |
+| [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 |  |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 |  |
@@ -82,6 +83,7 @@
 | [Go Off](https://open.spotify.com/track/7jw05QlMKjqOoEHLCeXUD7) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off](https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz) | 2:25 | 2022-11-02 |  |
 | [Gone](https://open.spotify.com/track/0imRyOIkwxkEzdNikpK3UM) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [4 LOVE](https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe) | 2:39 | 2023-02-14 |  |
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 |  |
+| [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 |  |
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 |  |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 |  |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 |  |
@@ -91,6 +93,7 @@
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [ILY](https://open.spotify.com/track/1CODxPEoQv5e0yJuOiLvbj) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:40 | 2022-12-07 |  |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 |  |
+| [Indifferent](https://open.spotify.com/track/2r5Vi46hcW5BZxkyFYlpPu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:00 | 2023-02-17 |  |
 | [Innocent](https://open.spotify.com/track/0R1IWHDG0pHI7Zyx0k5Fpz) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Michaella](https://open.spotify.com/artist/0gWwBifnNhOq7IisbNp2mj) | [Innocent](https://open.spotify.com/album/7oTVJrxC7dlTsNVjY4HplV) | 2:52 | 2022-05-19 |  |
 | [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 |  |
 | [Insides](https://open.spotify.com/track/6ahPq19N2CB1YcHKrs4890) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg), [JESSY KVGE](https://open.spotify.com/artist/7mhkgK8BCWTwGdsKPGwPgm) | [Insides](https://open.spotify.com/album/3IOlEaEF7q1mnrnrgufyF0) | 2:48 | 2023-02-08 |  |

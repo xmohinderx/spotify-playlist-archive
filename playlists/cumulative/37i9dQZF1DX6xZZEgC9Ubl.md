@@ -4,7 +4,7 @@
 
 > In your bag\. Cover: The Kid Laroi
 
-776 songs - 1 day 11 hr 17 min
+778 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 | 2022-07-22 |  |
 | [i got yr message](https://open.spotify.com/track/1ATiZWaQ3xKkXhnBUL75rV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:26 | 2022-02-11 | 2022-07-29 |
 | [I Hate Love](https://open.spotify.com/track/2Hb0xOroIPtuunNoCwKtmt) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [27CLUB](https://open.spotify.com/artist/75FDYkuEWuVAYlrghPNi4z) | [I Hate Love](https://open.spotify.com/album/0CWVgXuB3ugauQmVmJ4jzd) | 3:58 | 2021-01-15 | 2021-03-26 |
-| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 |  |
+| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 | 2023-02-18 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-29 | 2022-04-13 |
 | [I lied when I said that I'm okay](https://open.spotify.com/track/6vyuUfnwPZK2z7KKgRzcxM) | [Paris Snow](https://open.spotify.com/artist/2QKsUEpStygXfQeQDwkw8E) | [I lied when I said that I'm okay](https://open.spotify.com/album/4bx4OqlgZvrrsgg9K5hyka) | 2:16 | 2021-09-22 | 2022-04-18 |
 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 | 2022-12-14 |  |
@@ -521,7 +521,7 @@
 | [PARANOID](https://open.spotify.com/track/7wRW6FhvuOrXtvlOkW5VrX) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [TOO GOOD TO BE TRUE](https://open.spotify.com/album/4YGNTJCsfomnXHGO80oSD2) | 2:30 | 2022-03-25 | 2022-06-30 |
 | [patience.](https://open.spotify.com/track/6PkmgGS8wwfLgwqIzwv8zt) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [patience.](https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z) | 2:28 | 2022-05-13 | 2022-05-19 |
 | [PAVEMENT](https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [CHASING BUTTERFLIES](https://open.spotify.com/album/3uQxnxiEOlKgkTnxZ2IXuD) | 3:36 | 2021-09-17 | 2022-04-05 |
-| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 |  |
+| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 | 2023-02-18 |
 | [Petrified](https://open.spotify.com/track/2M85nUhefR3JP7k5EXhlqE) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Petrified](https://open.spotify.com/album/1ORMjwQE0Gz64gU3iIwxel) | 3:06 | 2020-12-13\* | 2021-06-19 |
 | [Phone Down](https://open.spotify.com/track/6zzoT6kZHM4SpPCjLdfLVg) | [Boy Pape](https://open.spotify.com/artist/5HHhIPYoYyTyp1mvCngnkZ) | [Phone Down](https://open.spotify.com/album/6MOkdkDvzJ7CmXMdDLq4tc) | 2:12 | 2020-12-18 | 2021-01-05 |
 | [picture us](https://open.spotify.com/track/6anqdTarC0O3k4MZfaSOnz) | [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [picture us](https://open.spotify.com/album/0ZgKrG7VgRfHY5FvfWOEJO) | 2:44 | 2021-09-17 | 2022-04-18 |
@@ -568,6 +568,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-09 |  |
 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2021-02-28 | 2021-05-29 |
 | [Run With Me](https://open.spotify.com/track/47sNxyy50TGw36Qi2WN5wo) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Run With Me](https://open.spotify.com/album/3VX82yt0piKMRH4xuNbQjd) | 2:31 | 2020-12-13\* | 2021-02-27 |
+| [runaway \- OG Version](https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [runaway \(OG Version\)](https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6) | 2:50 | 2023-02-17 |  |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-02-01 |
 | [running cold, Pt\. 2](https://open.spotify.com/track/7s3N63kIf2m8cBlHOomjQc) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [running cold, Pt\. 2](https://open.spotify.com/album/4yqeqqjRkxO04BQiVaiAIH) | 2:26 | 2021-09-17 | 2022-04-18 |
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2020-12-13\* | 2021-03-14 |
@@ -722,6 +723,7 @@
 | [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-02-10 |  |
 | [USED2KNOW](https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WITH OR WITHOUT YOU](https://open.spotify.com/album/34SV634wGtLESb5QalBf32) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-17 |  |
+| [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 | 2023-02-17 |  |
 | [Vacant](https://open.spotify.com/track/23zIyee1HHriTZoZYn2APq) | [Nuski2Squad](https://open.spotify.com/artist/3uP53hX8J0OwqD4Qnbe59z) | [Vacant](https://open.spotify.com/album/6F5E14BlDPGq7JIkHJYR4u) | 2:20 | 2021-10-11 | 2021-10-13 |
 | [Vampire Diaries](https://open.spotify.com/track/186ZanMiBD5iuy9vfsi5lA) | [Bad Neighbors](https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Vampire Diaries](https://open.spotify.com/album/6k7oTN81ZtUb2WH6qDlvYm) | 3:24 | 2022-04-11 | 2022-07-29 |
 | [VANISH](https://open.spotify.com/track/5rmHtbUCbjFqmeoOuP9b7B) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [VANISH](https://open.spotify.com/album/64SC9qBRHXTwA8bkN5yfVI) | 2:10 | 2021-10-29 | 2022-07-29 |

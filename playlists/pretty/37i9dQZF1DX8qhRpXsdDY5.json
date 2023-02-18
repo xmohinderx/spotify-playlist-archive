@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 197471,
+  "num_followers": 197454,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDE1ZDM1ZjhkNmQzOTEzNTgyYTM2OGM5NzMwNTRkZTUw",
+  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMGE0N2E1MmE5ZTQ5ZWFhNzdmYTgwMTAxMzhjNmFjYjMw",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 148740,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Dios Me Se\u00f1al\u00f3",
         "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 148259,
       "name": "Tu Adi\u00f3s Es Mi Navidad",
       "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
     },
     {
       "added_at": "2022-12-19 23:50:20",

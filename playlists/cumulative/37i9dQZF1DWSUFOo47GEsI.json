@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 192000,
       "name": "Breathe into the Still",
       "url": "https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 177985,
       "name": "Close Your Eyes Once Again",
       "url": "https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 212089,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 261000,
       "name": "Country Chimes",
       "url": "https://open.spotify.com/track/3htH2dXVeOFB2qfqJBO9Og"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 153917,
       "name": "Eenzame stilte",
       "url": "https://open.spotify.com/track/1e6nwN0hH6Ui144FkjL53z"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 201500,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 197230,
       "name": "Floating Rocks",
       "url": "https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 181182,
       "name": "From Ice to Water",
       "url": "https://open.spotify.com/track/3ddCRaKiwydCnvYSy6tL2D"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 176273,
       "name": "From Within",
       "url": "https://open.spotify.com/track/7qxkgMuJLZ2jaDvk0RnjNf"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 240074,
       "name": "Ida",
       "url": "https://open.spotify.com/track/7GkIuSUwvTdG4JoEI7FeJ8"
@@ -3119,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Meia Noite",
+        "url": "https://open.spotify.com/album/1mfDvDCUaRpqNpBer9xqNN"
+      },
+      "artists": [
+        {
+          "name": "Gereo Luna",
+          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/6pP7IVUYULZLjZ4bzGflVD"
+    },
+    {
+      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp"
       },
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 197573,
       "name": "Mellow Mountain",
       "url": "https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI"
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 220800,
       "name": "Slow Down the Night",
       "url": "https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB"
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214330,
       "name": "Slowly Flying",
       "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 202000,
       "name": "Stelle",
       "url": "https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH"
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 163052,
       "name": "Sueno",
       "url": "https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx"
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 203058,
       "name": "The Arco",
       "url": "https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW"
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 185750,
       "name": "Vi m\u00f8tes igjen",
       "url": "https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz"

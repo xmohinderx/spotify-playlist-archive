@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-531 songs - 1 day 17 hr 13 min
+533 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 | 2022-04-14 | 2022-09-23 |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-04-14 | 2022-09-16 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 | 2023-02-03 |
-| [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
+| [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 | 2023-02-18 |
 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 | 2023-01-19 | 2023-02-15 |
 | [Butterscotch](https://open.spotify.com/track/39PpSNPOIoOtam0j0e2f03) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In The Moment](https://open.spotify.com/album/67IGAmmZ4PW7h8GbpKTpgj) | 2:39 | 2022-04-14 | 2022-05-03 |
 | [Bye Bye Blackbird](https://open.spotify.com/track/2iGbLTqpJYeH3tMWuQ8I1z) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Bye Bye Blackbird](https://open.spotify.com/album/20amhdyesQ1J8ngfDMv6nr) | 3:07 | 2022-04-14 | 2022-09-23 |
@@ -90,7 +90,7 @@
 | [Cantaloupe Island](https://open.spotify.com/track/3IUX5LP1PJrneT8YRmZ3zY) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Sayin' Somethin'](https://open.spotify.com/album/6Lx0TWxJVikugddsq6RYYd) | 7:18 | 2022-04-14 | 2022-04-28 |
 | [Carry On](https://open.spotify.com/track/5hzDqrcTySa1Ek9nRCRd7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Carry On](https://open.spotify.com/album/6cnOoNMXb9MsYM11nbOjDF) | 2:48 | 2022-04-14 | 2022-04-27 |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-29 | 2023-02-03 |
-| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 |  |
+| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 | 2023-02-18 |
 | [Ciaccona per Embrik](https://open.spotify.com/track/4rznhkoOr1AYneKuWBef4V) | [Trygve Seim](https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8) | [Helsinki Songs](https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM) | 6:00 | 2022-04-14 | 2022-10-02 |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Come Sunday](https://open.spotify.com/track/0iL0t2UplDSAMYgAcuHU8a) | [Larry Bennett Jr.](https://open.spotify.com/artist/5JmuUqhsHcg0tDtqF0kquP) | [Come Sunday](https://open.spotify.com/album/2QnlZpMXmIynGwFkd8dkaY) | 5:04 | 2022-04-14 | 2022-05-14 |
@@ -432,6 +432,7 @@
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2022-04-14 | 2022-10-11 |
 | [Stolen Moments](https://open.spotify.com/track/11jHKP7tpYcDrVuSctGG6o) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Jazz: 1950's and 60's Hits](https://open.spotify.com/album/6Rok1pvg6wcWkR8JmRxrqP) | 8:44 | 2022-04-14 | 2022-07-29 |
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-06-30 | 2022-11-11 |
+| [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-16 |  |
 | [Strange Fruit](https://open.spotify.com/track/0iYWtWNtQRUlSZDESD5cnK) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore/Decca Masters](https://open.spotify.com/album/1LTW62zneyklPRBYWq6ZHz) | 3:12 | 2022-04-14 | 2022-04-27 |
 | [Summer In Central Park](https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 6:41 | 2022-04-14 | 2022-09-23 |
 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 | 2022-04-14 | 2022-09-23 |
@@ -477,6 +478,7 @@
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-04-14 | 2023-02-03 |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2022-06-30 | 2023-02-03 |
 | [These Foolish Things Remind Me Of You \- Instrumental](https://open.spotify.com/track/40JmQVnCA43uV4htsa4G4t) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris Vol 2](https://open.spotify.com/album/4u8oRupYDjQ8kCMaWiYa11) | 4:41 | 2022-04-14 | 2022-07-29 |
+| [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-16 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-08 |  |
 | [Thoughtful Proposal](https://open.spotify.com/track/4upT0MOhQioDcN2eX2fScs) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [I Dream of a Sound](https://open.spotify.com/album/3VZjREftBTuIM3Ks8qiwSq) | 3:14 | 2022-10-13 | 2022-12-02 |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-23 | 2023-02-03 |

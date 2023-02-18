@@ -1,13 +1,125 @@
 {
-  "description": "New music breaking waves. Cover, Luke Bar$",
-  "num_followers": 88350,
+  "description": "New music breaking waves. Cover, Rican Da Menace",
+  "num_followers": 88355,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MzA0NCwwMDAwMDAwMGYyY2U3MTliZjNjYjM2ZWNmZDRlMWEyNmQ5OTQwNGU0",
+  "snapshot_id": "MTY3NjYyNTUyOSwwMDAwMDAwMDNlNDk2ZGRmOWE2N2I2YjAyM2Q5MTBhYzg2NDA3ZmQ5",
   "tracks": [
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "DUMB (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 146919,
+      "name": "DUMB (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
+    },
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "DROPPING 4s",
+        "url": "https://open.spotify.com/album/1zRP85In24yIFd7Jz79AEv"
+      },
+      "artists": [
+        {
+          "name": "150 EBK",
+          "url": "https://open.spotify.com/artist/2KYCLOKwnu5Fk3pCA8SKTJ"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "duration_ms": 129306,
+      "name": "DROPPING 4s",
+      "url": "https://open.spotify.com/track/51G1Db6j2UUiil1DzkPP9U"
+    },
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "Face",
+        "url": "https://open.spotify.com/album/2FU4NwQkSHHPt8OrCZ7sKN"
+      },
+      "artists": [
+        {
+          "name": "Butch Dawson",
+          "url": "https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ"
+    },
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "One Mo Chance",
+        "url": "https://open.spotify.com/album/5vTUjOO1XQLmgP5AwVZpym"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "duration_ms": 110080,
+      "name": "One Mo Chance",
+      "url": "https://open.spotify.com/track/3c1wpfkGzcL260V38wtzCn"
+    },
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "The Revive (The Ascension 2 Prelude)",
+        "url": "https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 158362,
+      "name": "Hand Her The Gun",
+      "url": "https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN"
+    },
+    {
+      "added_at": "2023-02-17 08:42:13",
+      "album": {
+        "name": "I Ain't Going Lie",
+        "url": "https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "duration_ms": 133511,
+      "name": "I Ain't Going Lie",
+      "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
+    },
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
@@ -771,86 +883,6 @@
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Gratuity",
-        "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Gratuity",
-      "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Doves",
-        "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Doves",
-      "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr"
-      },
-      "artists": [
-        {
-          "name": "S\u00e6kyi",
-          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
-        }
-      ],
-      "duration_ms": 196122,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "All Over This Party",
-        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
-      },
-      "artists": [
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 212830,
-      "name": "All Over This Party",
-      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        }
-      ],
-      "duration_ms": 163601,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy"
     }
   ],
   "unique_name": "Ripple Effect",

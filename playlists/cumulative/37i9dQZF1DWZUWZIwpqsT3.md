@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-145 songs - 7 hr 3 min
+146 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bella Ciao \(feat\. Andre Sarate & Adolfo Celdran\)](https://open.spotify.com/track/1kJ1E0czwQPvUVNXCLaHAB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Adolfo Celdran](https://open.spotify.com/artist/6aI1hAdb3IC4JNgYJOsVr7), [André Sarate](https://open.spotify.com/artist/0w5G9RC0o4u8L0cCchFwBb) | [Bella Ciao \(feat\. Andre Sarate & Adolfo Celdran\)](https://open.spotify.com/album/1SAdASSzDf70GDvfGSX5D0) | 2:50 | 2021-12-03 |  |
 | [Big Jet Plane](https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Big Jet Plane](https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA) | 3:02 | 2022-06-17 |  |
 | [Big Jet Plane](https://open.spotify.com/track/71P1N0X76YtZMbBIGG47un) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Big Jet Plane](https://open.spotify.com/album/1D4ITrJ9CiiaagmBMUexV3) | 3:02 | 2021-12-03 | 2022-07-29 |
+| [Boa Sorte \(Alok, Vanessa da Mata e Cat Dealers\)](https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Boa Sorte \(Alok, Vanessa da Mata e Cat Dealers\)](https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF) | 3:11 | 2023-02-17 |  |
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-07 | 2022-11-13 |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-06-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 173699,
+  "num_followers": 173799,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGE3Y2MwNDNjYThhZmUxM2JlM2IxZjc0OGRkNjQ5NTE5",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDdhYmY0MzdhNTY0YTA0NGE0YTNmOGQ0YjU3MTVkZTI5",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -53,6 +53,30 @@
       "url": "https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu"
     },
     {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
+    },
+    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "MAINS",
@@ -93,22 +117,6 @@
       "url": "https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Enigmatic Ocean",
-        "url": "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB"
-      },
-      "artists": [
-        {
-          "name": "Jean-Luc Ponty",
-          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Galaxias",
@@ -127,6 +135,22 @@
       "duration_ms": 236905,
       "name": "Galaxias (Radio Edit)",
       "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Enigmatic Ocean",
+        "url": "https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB"
+      },
+      "artists": [
+        {
+          "name": "Jean-Luc Ponty",
+          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -165,22 +189,6 @@
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Aristocrats",
-        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
-      },
-      "artists": [
-        {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Bad Asteroid",
-      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
-    },
-    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "VHS Fireplace Love (Live)",
@@ -203,6 +211,22 @@
       "duration_ms": 164000,
       "name": "VHS Fireplace Love - Live",
       "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Aristocrats",
+        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Bad Asteroid",
+      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -649,6 +673,22 @@
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Time In Place",
@@ -691,22 +731,6 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -819,22 +843,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
-      },
-      "artists": [
-        {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -847,6 +855,22 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -945,6 +969,22 @@
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -991,22 +1031,6 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1109,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1127,22 +1167,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1381,26 +1405,6 @@
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Common Ground",
-        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        }
-      ],
-      "duration_ms": 406453,
-      "name": "The Little Boxer",
-      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Aslan",
@@ -1429,22 +1433,6 @@
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "close tail",
@@ -1465,20 +1453,40 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
-      "added_at": "2022-02-11 19:09:35",
+      "added_at": "2021-07-16 04:01:00",
       "album": {
-        "name": "The Description Is Not The Described",
-        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
       },
       "artists": [
         {
-          "name": "Nathaniel Cross",
-          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 433160,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "duration_ms": 406453,
+      "name": "The Little Boxer",
+      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
     }
   ],
   "unique_name": "Fusion Fest",

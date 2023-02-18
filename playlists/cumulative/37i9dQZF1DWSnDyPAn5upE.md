@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-135 songs - 10 hr 32 min
+136 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,8 +140,9 @@
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2022-05-18 |  |
 | [Violence](https://open.spotify.com/track/59rWOvuBELmfqvVBI9NiWf) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:37 | 2022-05-18 |  |
 | [Waving](https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk) | [Nebno](https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf) | [Waving](https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK) | 4:05 | 2022-05-18 |  |
-| [what's on the inside](https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [what's on the inside](https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67) | 4:10 | 2022-12-02 |  |
+| [what's on the inside](https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [what's on the inside](https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67) | 4:10 | 2022-12-02 | 2023-02-18 |
 | [Yodeling Slits](https://open.spotify.com/track/6wvDPoypPjxxEgvgUUNxWc) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 2:41 | 2022-05-18 |  |
 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 | 2022-05-18 |  |
+| [心痛を受け入れます](https://open.spotify.com/track/72XuEUV21PjYcWswFeqyiw) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [ロストエデンへのパス](https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA) | 1:54 | 2023-02-17 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

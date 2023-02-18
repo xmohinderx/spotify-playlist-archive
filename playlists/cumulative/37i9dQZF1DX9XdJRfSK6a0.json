@@ -154,6 +154,28 @@
     {
       "album": {
         "name": "Hotell",
+        "url": "https://open.spotify.com/album/734M3Ru7dLVlu2ol202cg0"
+      },
+      "artists": [
+        {
+          "name": "Andreas S\u00f6derstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo"
+        },
+        {
+          "name": "Johan Berthling",
+          "url": "https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174781,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/3lwfvLFY4GjgaTxnlvowNP"
+    },
+    {
+      "album": {
+        "name": "Hotell",
         "url": "https://open.spotify.com/album/4efyDnXUkaxPNFSSZDRoqC"
       },
       "artists": [
@@ -168,7 +190,7 @@
       ],
       "date_added": "2019-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 174781,
       "name": "Alexander",
       "url": "https://open.spotify.com/track/7IqTgS5JmEvcikB01hVst7"
@@ -882,6 +904,24 @@
     {
       "album": {
         "name": "The Valleys",
+        "url": "https://open.spotify.com/album/2su5Q8CA1md9jgZMfQQ9HQ"
+      },
+      "artists": [
+        {
+          "name": "Rickard J\u00e4verling",
+          "url": "https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160020,
+      "name": "Salt Hill Pt.1",
+      "url": "https://open.spotify.com/track/51YVHQbUGFIP6aUhfBjwaD"
+    },
+    {
+      "album": {
+        "name": "The Valleys",
         "url": "https://open.spotify.com/album/4p48cqofI5gHf7aj5KEzxH"
       },
       "artists": [
@@ -892,7 +932,7 @@
       ],
       "date_added": "2019-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 160020,
       "name": "Salt Hill Pt.1",
       "url": "https://open.spotify.com/track/6rPTtssKdCgY4qET4dqNUr"

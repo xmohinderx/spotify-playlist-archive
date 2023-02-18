@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-2,889 songs - 7 day 9 hr 13 min
+2,890 songs - 7 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,8 @@
 | [LEPRECHAUN CHRISTMAS](https://open.spotify.com/track/4JFry1IB3xMTJYf5at7qNl) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [humansystem](https://open.spotify.com/album/58SWLBeVneUkX5mfW3PGno) | 4:11 | 2021-12-08 | 2022-12-21 |
 | [Let me sing a sad song](https://open.spotify.com/track/4AO2Oz0SemxZTt0amPvgH8) | [tomodati](https://open.spotify.com/artist/2jUHyOTAww2DwD3RDGwjzd) | [Let me sing a sad song](https://open.spotify.com/album/67LNvAXkclDFY1I6z9ySAy) | 2:15 | 2022-05-16 | 2022-05-31 |
 | [Let's Danceee](https://open.spotify.com/track/0MljPpmpTTYiY0eY3Lm1uZ) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [Let's Danceee](https://open.spotify.com/album/6js1uux8DcDHKaNwSgYX40) | 4:10 | 2022-02-07 | 2022-02-23 |
-| [Let's Go](https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's Go](https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU) | 4:12 | 2023-02-13 |  |
+| [Let's Go](https://open.spotify.com/track/65J3b6vEI0fcfwt0A2UqvT) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Cho](https://open.spotify.com/album/4nx5OMVxi1M1K2giwuWcWf) | 4:12 | 2023-02-13 |  |
+| [Let's Go](https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's Go](https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU) | 4:12 | 2023-02-13 | 2023-02-18 |
 | [Lies](https://open.spotify.com/track/5pApSX9QvfUzLBJddEEqdw) | [SLMCT](https://open.spotify.com/artist/1gj0i6cwXRPKfDaxwNwPab) | [Lies](https://open.spotify.com/album/4aNjYZicivk4Si3Chjq2ZJ) | 2:53 | 2022-07-25 | 2022-08-09 |
 | [Life Goes On](https://open.spotify.com/track/5VGOqVCZzAFyMDjaAdgFhW) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [Life Goes On](https://open.spotify.com/album/6pg5xBE7YRNmb7m9h6q3hR) | 2:51 | 2022-06-14 | 2022-06-21 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-01-16 | 2023-01-24 |

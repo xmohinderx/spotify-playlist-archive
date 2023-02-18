@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-456 songs - 1 day 3 hr 6 min
+457 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Beautiful Girls](https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls](https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO) | 3:58 | 2021-03-09 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/4nTWserD4pdou0yCPeW8Cv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 2:24 | 2021-03-09 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/3okCom7lQiJ7VsViKBYQGf) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Big Yellow Taxi](https://open.spotify.com/album/3xiJ5MtyMBsqrUrr223NpJ) | 2:26 | 2022-01-10 | 2023-02-14 |
+| [Big Yellow Taxi](https://open.spotify.com/track/5M7NJBfJQMKPg5jfcJoF9D) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Big Yellow Taxi](https://open.spotify.com/album/6BYKYEEBuWR1iAHAVJPTf9) | 2:26 | 2022-01-10 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/5TvzoXAbSg0AtGs39030xq) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turn Her Up](https://open.spotify.com/album/4C9Di0BnbpWK8NfgDfoukF) | 2:26 | 2021-03-09 | 2022-07-29 |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-03-09 |  |
 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 | 2022-01-10 | 2022-07-26 |
@@ -61,7 +62,7 @@
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2021-03-09 |  |
 | [By Your Side \- Abbey Road Live Version](https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [By Your Side \(Abbey Road Live Version\)](https://open.spotify.com/album/3mH8f6BWGWZOVzteyY1A7q) | 3:13 | 2021-03-09 | 2022-11-13 |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2021-03-09 |  |
-| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 |  |
+| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 | 2023-02-18 |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2021-03-09 |  |
 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 | 2021-03-09 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/64mIsDq15574VzIws46Axl) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Can't Stop The Feeling](https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2) | 4:23 | 2021-03-09 |  |

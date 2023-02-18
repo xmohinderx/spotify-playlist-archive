@@ -779,6 +779,68 @@
     },
     {
       "album": {
+        "name": "Kimberly Akimbo (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1X4panrbiKDmwkRQ2hfos8"
+      },
+      "artists": [
+        {
+          "name": "Victoria Clark",
+          "url": "https://open.spotify.com/artist/2KSCnFEc7wBSpCZJsmZvhV"
+        },
+        {
+          "name": "Justin Cooley",
+          "url": "https://open.spotify.com/artist/69XPwiMzfZFRYf2t39bkPH"
+        },
+        {
+          "name": "Steven Boyer",
+          "url": "https://open.spotify.com/artist/5QM17Ow1MHGfdWT3cUPelk"
+        },
+        {
+          "name": "Alli Mauzey",
+          "url": "https://open.spotify.com/artist/7rnHKMD15HPfqWZ09iZ4rU"
+        },
+        {
+          "name": "Bonnie Milligan",
+          "url": "https://open.spotify.com/artist/2dWTkKrPGvkwSTSuRSwJNc"
+        },
+        {
+          "name": "Michael Iskander",
+          "url": "https://open.spotify.com/artist/2QEGsMPujjxa7w7HVobklx"
+        },
+        {
+          "name": "Olivia Elease Hardy",
+          "url": "https://open.spotify.com/artist/7nbZFbSW5TbrlDTDK5Cv9C"
+        },
+        {
+          "name": "Fernell Hogan",
+          "url": "https://open.spotify.com/artist/2PXBN7Uc4HVcndCcBW5RvS"
+        },
+        {
+          "name": "Nina White",
+          "url": "https://open.spotify.com/artist/68F6Fim18yqlXgPsG4sEle"
+        },
+        {
+          "name": "Kimberly Akimbo Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/0PAzSjYA0uRlEyXjWg0GOQ"
+        },
+        {
+          "name": "Jeanine Tesori",
+          "url": "https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z"
+        },
+        {
+          "name": "David Lindsay-Abaire",
+          "url": "https://open.spotify.com/artist/7xiEb9WVfHiJntK8CErwna"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182648,
+      "name": "Great Adventure",
+      "url": "https://open.spotify.com/track/4H4K1tJ1FZu1oAX6pFclVe"
+    },
+    {
+      "album": {
         "name": "Six: The Musical (Studio Cast Recording)",
         "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
       },
@@ -3164,7 +3226,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 237000,
       "name": "Wheels of a Dream",
       "url": "https://open.spotify.com/track/30QU7LJjegTlytck8SrljA"

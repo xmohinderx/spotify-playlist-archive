@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319496,
+  "num_followers": 319522,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDYxNTQ0ZjE1NDlkNmIyZTU3ZWNlYzM5MjhlYzc0ZjEw",
+  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMGMwYzgzODY0MzUwMGUzNDg5NTk4MTM0NGYwZTM4MGFi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "My Purple iPod Nano (2nd Gen)",
+        "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
+      },
+      "artists": [
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "duration_ms": 164661,
+      "name": "My Purple iPod Nano (2nd Gen)",
+      "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "My Purple iPod Nano (2nd Gen)",
-        "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
-      },
-      "artists": [
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
-        }
-      ],
-      "duration_ms": 164661,
-      "name": "My Purple iPod Nano (2nd Gen)",
-      "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
     },
     {
       "added_at": "2022-06-20 14:23:17",

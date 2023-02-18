@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 46256,
+  "num_followers": 46245,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMDc4YTU4ZTllYmZlYTJhNDZkNWQxZTFjZTlkODlkMmVj",
+  "snapshot_id": "MTY3MTE0ODgwMCwwMDAwMDAwMGJlYzM3MzQ5YTMyMGZlNDljNWUxYzFlZDQ4YzEzOGI2",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Gift Wrapped: 20 Songs That Keep On Giving",
-        "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "All I Want for Christmas Is You - 2005",
-      "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Attack Of The Killer B-Sides",
         "url": "https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 222653,
       "name": "Right Where You Want Me To Be",
       "url": "https://open.spotify.com/track/58qF66l5z6MuoZiUVcF9zS"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Gift Wrapped: 20 Songs That Keep On Giving",
+        "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "All I Want for Christmas Is You - 2005",
+      "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -219,8 +219,8 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "I Won't Be Home For Christmas",
-        "url": "https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 198093,
-      "name": "I Won't Be Home For Christmas",
-      "url": "https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0"
+      "duration_ms": 239306,
+      "name": "Boxing Day",
+      "url": "https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -315,38 +315,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 109186,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Boxing Day",
-      "url": "https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Everything In Time (B-Sides, Rarities, Remixes)",
         "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 160586,
       "name": "Oi To The World",
       "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "I Won't Be Home For Christmas",
+        "url": "https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "I Won't Be Home For Christmas",
+      "url": "https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 109186,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
     },
     {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
-    },
-    {
       "added_at": "2022-11-18 01:09:25",
       "album": {
         "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
@@ -487,6 +471,22 @@
       "duration_ms": 126144,
       "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas EP",
         "url": "https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 187333,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Song",
         "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
       },
@@ -747,6 +731,38 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 244932,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 127733,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Maybe Memories",
         "url": "https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 92706,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 244932,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -912,13 +896,13 @@
       },
       "artists": [
         {
-          "name": "Issues",
-          "url": "https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm"
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
+      "duration_ms": 209373,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
     },
     {
       "added_at": "2022-12-01 23:00:47",
@@ -935,6 +919,22 @@
       "duration_ms": 185973,
       "name": "Lieder und Lametta",
       "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Issues",
+          "url": "https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
-      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 165547,
       "name": "Hope This Christmas",
       "url": "https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
+      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Medium Rare",
-        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "This Time of Year",
-      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Medium Rare",
+        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "This Time of Year",
+      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
     }
   ],
   "unique_name": "Punk Christmas",

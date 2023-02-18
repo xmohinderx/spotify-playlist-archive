@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Yellow Tape 2",
+        "url": "https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143480,
+      "name": "Ambition For Cash",
+      "url": "https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe"
+    },
+    {
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS"
       },

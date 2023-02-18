@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Moon Dreams",
+        "url": "https://open.spotify.com/album/0IO2htewlGs8NvChgWVqje"
+      },
+      "artists": [
+        {
+          "name": "Fukuro's Music Box",
+          "url": "https://open.spotify.com/artist/1WEg120Q0Np370f59ijsMD"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139911,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/512L5ENVhWktPdjQ3RqMgM"
+    },
+    {
+      "album": {
         "name": "The Swedish Music Box",
         "url": "https://open.spotify.com/album/5PqtljsrO2JyW76jJtCS9U"
       },

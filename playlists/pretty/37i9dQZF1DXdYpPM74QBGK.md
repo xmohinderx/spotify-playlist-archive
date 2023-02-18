@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 
 > Party on with these top children's tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 7 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 |
 | 8 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 |
 | 9 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 |
-| 10 | [We Are The Planets](https://open.spotify.com/track/6T6reDGarkisz8OraafLRy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:41 |
+| 10 | [We Are The Planets](https://open.spotify.com/track/3OQVXUIYVddmvvf8nnXopf) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj) | 1:40 |
 | 11 | [Happy](https://open.spotify.com/track/5V3T4m5Ak4wjfON9SekdYE) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 3:02 |
 | 12 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 13 | [Theme Music From Peppa Pig](https://open.spotify.com/track/2mj9A3L5BCnEPyO96IHwUj) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Theme Music](https://open.spotify.com/album/6aguOTqeqozI5LAWK4m4cu) | 0:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 49 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 |
 | 50 | [Elephant \(triple j Like A Version\)](https://open.spotify.com/track/0RHWFlVVJZ82sAEgYCQB6y) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 3:22 |
 
-Snapshot ID: `MTY2OTgxNjUwMCwwMDAwMDAwMGUyNGRjZDBkYmNjNDI1NzljOGJkYTEzNTFiMWJhMmMx`
+Snapshot ID: `MTY2OTgxNjUwMCwwMDAwMDAwMGZiMDIzZmUyZDUyZDNmMGZmOWU3ZmE1N2E3NjIzMjU2`

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-412 songs - 18 hr 30 min
+413 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 |  |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-11-10 | 2022-05-27 |
 | [Idle](https://open.spotify.com/track/79gx3Gij4dKGWd51devriE) | [Forgt](https://open.spotify.com/artist/0OndrzOYkj0brCMkn66B5C) | [Idle](https://open.spotify.com/album/5WqJp4sumpU0cucq0iZSPl) | 3:30 | 2021-11-10 | 2022-05-20 |
+| [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 | 2023-02-17 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-10 | 2022-01-22 |
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 |  |
 | [in solitude](https://open.spotify.com/track/0AObwfIRlQauAl0GgRB0vk) | [réel vie](https://open.spotify.com/artist/6o4jkladkbsym75YLbCDB6) | [in solitude](https://open.spotify.com/album/5GXDZ4lnQfcxdvMQfGCRGx) | 3:23 | 2021-11-10 | 2022-05-20 |
@@ -194,7 +195,7 @@
 | [La Espera](https://open.spotify.com/track/7gcrgp7kVXdkODv834Wnwp) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:24 | 2021-11-10 | 2022-07-08 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 |  |
 | [Ladder to the Stars](https://open.spotify.com/track/1SAux0dXdZBJphTIr6zg6p) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ladder to the Stars](https://open.spotify.com/album/25UuqndPirVvQoJxONlsMw) | 2:53 | 2022-09-09 |  |
-| [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 |  |
+| [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 | 2023-02-18 |
 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-10 | 2022-01-22 |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |

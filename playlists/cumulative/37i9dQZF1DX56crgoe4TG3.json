@@ -1035,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/2Ik9BowAsjPPahUwRODcw3"
+      },
+      "artists": [
+        {
+          "name": "Danny Burns",
+          "url": "https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/4buQZSZOZeyEwDFXsrGBCM"
+    },
+    {
+      "album": {
         "name": "John Tucker Must Die",
         "url": "https://open.spotify.com/album/4RvZcbxP0bgCfo5PrMaN4x"
       },

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 243979,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 165067,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb"
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+    },
+    {
+      "album": {
         "name": "Angel Flying Too Close To The Ground",
         "url": "https://open.spotify.com/album/10OfjggATPKscEFOWCN6B6"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 239538,
       "name": "Angel Flying Too Close To The Ground",
       "url": "https://open.spotify.com/track/7o6Rv0ciQvug3oWxpR0Klx"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 182216,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2xdQMKQ0ZO1O6WtAImKmYK"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 235812,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3zU6Sm45Jpd3uaI8sFnT8c"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 164210,
       "name": "Dream on - Acoustic",
       "url": "https://open.spotify.com/track/0WhKVpTyAKGF6aPzdIiSDG"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 141286,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
@@ -1142,10 +1160,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 217777,
       "name": "Hollywood's Bleeding",
       "url": "https://open.spotify.com/track/56twDecxsQon61crfEXrA5"
+    },
+    {
+      "album": {
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/7wwkxUOInfcPbeiLVuTLJD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "How Long Will I Love You (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6nSn3hjEeDP5JLXfxrkDrY"
     },
     {
       "album": {
@@ -1203,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "HURTFUL",
+        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "HURTFUL",
+      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
+    },
+    {
+      "album": {
         "name": "I Can't Make You Love Me (Live at the Auckland Town Hall)",
         "url": "https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6"
       },
@@ -1250,7 +1304,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 216841,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
@@ -1326,7 +1380,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 136567,
       "name": "Immigrant song - Acoustic",
       "url": "https://open.spotify.com/track/00snlq1FOJyenGxpIHbVta"
@@ -1680,7 +1734,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 236883,
       "name": "Metal Firecracker",
       "url": "https://open.spotify.com/track/1iyciPIHuwVNweVNK4B7W4"
@@ -1734,7 +1788,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
@@ -1792,6 +1846,24 @@
       "duration_ms": 199114,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+    },
+    {
+      "album": {
+        "name": "No One's Gonna Love You",
+        "url": "https://open.spotify.com/album/20dnZ3BrNrsHnkTyHb6MW7"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240461,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/0cQmxIOVXnwTDBeT6tCwpV"
     },
     {
       "album": {
@@ -1864,6 +1936,24 @@
       "duration_ms": 226603,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Acoustic)",
+        "url": "https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "Purple Rain - Acoustic",
+      "url": "https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1"
     },
     {
       "album": {
@@ -2091,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "She Will Be Loved - Acoustic",
+        "url": "https://open.spotify.com/album/0I59G35Q1DVjkM47dcXOuG"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258170,
+      "name": "She Will Be Loved - Acoustic",
+      "url": "https://open.spotify.com/track/6iRI1Fgj3gdzilONqNlV4d"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
       },
@@ -2200,10 +2308,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
+    },
+    {
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
+      },
+      "artists": [
+        {
+          "name": "Roberta Loki",
+          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256730,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
     },
     {
       "album": {
@@ -2703,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Whatcha Say - Acoustic",
+        "url": "https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "Whatcha Say - Acoustic",
+      "url": "https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW"
+    },
+    {
+      "album": {
         "name": "When the Party's over (Acoustic Piano)",
         "url": "https://open.spotify.com/album/1m9j79xq6uxNjUeuai8QAl"
       },
@@ -2934,7 +3078,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 190981,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6"

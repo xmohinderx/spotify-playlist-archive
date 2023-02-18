@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 32 | [Thank God It's Christmas](https://open.spotify.com/track/0R7asl3iwOW26Bl0EvdtBS) | [mxg](https://open.spotify.com/artist/4lTSpa6zFp4KIqTVui7W7c), [greisun](https://open.spotify.com/artist/5TiLJhdooCyVVsg9dgElN5), [emblum](https://open.spotify.com/artist/65vnGz3oU1vJhwOV2qTOhc) | [Thank God It's Christmas](https://open.spotify.com/album/3WJ8szLHo4FGv1VeOQhUuI) | 3:15 |
 | 33 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
 | 34 | [O Christmas Tree](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 |
-| 35 | [First Christmas \(That I Loved You\) \- From The Netflix Film Let It Snow](https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt) | 3:02 |
+| 35 | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4) | 3:02 |
 | 36 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 | 37 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Everly](https://open.spotify.com/artist/5QMHsP8RVHiuoiqhgOI6ud) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 |
 | 38 | [Little Saint Nick](https://open.spotify.com/track/75dfH68JDisE8dDaD4KlVY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Christmas With The Beach Boys](https://open.spotify.com/album/4eKWZxl6GskSlM2u7TYOC0) | 2:10 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMDUzYmZjYzQyNTNkMmEyZGZhYjVkM2YyNmVjNTMyOGEw`
+Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMGMwOWZjNmFjNmFlNDhhMzcyN2Q1NDU4MWZmMDk3MDQ1`

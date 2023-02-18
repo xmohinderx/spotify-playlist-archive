@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 4288,
+  "num_followers": 4301,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGZkNTQ5ZjE3MDlhODdjMWNmMjU3NzRiY2EzMDg3ZjA5",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDY1ZjdhNzcxMzUyYjVkZDIxZDMwY2I0NzNkOGE4OTBh",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -571,18 +571,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
       "artists": [
         {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -607,26 +615,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 352026,
-      "name": "Brokenness Aside",
-      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
     },
     {
       "added_at": "2021-06-29 13:36:02",

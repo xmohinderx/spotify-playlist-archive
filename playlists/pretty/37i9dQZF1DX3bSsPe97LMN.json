@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. La Receta en portada.",
-  "num_followers": 49393,
+  "num_followers": 49490,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGQwYzdkODYzMmU4MzMwZjE2ZWY2NjE1NzNjOTgyN2Iw",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDJmNjdkODA2MmJlNDhkYzM1ZDE3ODEzZmE0ZjEwYWRm",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -153,20 +153,20 @@
       "url": "https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/1sSKz7PYco6qblWi8cIZoM"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/6syuatoW05nFiHFcT0uoKJ"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -183,22 +183,6 @@
       "duration_ms": 234189,
       "name": "Falso",
       "url": "https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/1sSKz7PYco6qblWi8cIZoM"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/6syuatoW05nFiHFcT0uoKJ"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -301,6 +285,22 @@
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "H\u00e1gase Hombre",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
       "added_at": "2023-01-13 06:00:00",
       "album": {
         "name": "En Vivo De Culiacan",
@@ -351,22 +335,6 @@
       "duration_ms": 158772,
       "name": "El Dos Sierras ( En Vivo)",
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
-    },
-    {
-      "added_at": "2022-12-02 06:00:00",
-      "album": {
-        "name": "De Botas O Gabanas (En Vivo)",
-        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "De Botas O Gabanas - En Vivo",
-      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -387,6 +355,22 @@
       "duration_ms": 281100,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
+    },
+    {
+      "added_at": "2022-12-02 06:00:00",
+      "album": {
+        "name": "De Botas O Gabanas (En Vivo)",
+        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "De Botas O Gabanas - En Vivo",
+      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -513,6 +497,22 @@
       "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
@@ -527,6 +527,22 @@
       "duration_ms": 162389,
       "name": "5 Estrellas - En Vivo",
       "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -549,22 +565,6 @@
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Este Sentimiento",
-        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Este Sentimiento",
-      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
-    },
-    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "No Se Olvida",
@@ -579,6 +579,22 @@
       "duration_ms": 151853,
       "name": "No Se Olvida",
       "url": "https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -599,22 +615,6 @@
       "duration_ms": 198661,
       "name": "Fuimos Un Fracaso",
       "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
-    },
-    {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Con Un Porte Diferente (Vol 2)",
-        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 216851,
-      "name": "Dices Que Me Quieres",
-      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
-    },
-    {
       "added_at": "2023-01-27 06:00:00",
       "album": {
         "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
@@ -795,6 +779,22 @@
       "duration_ms": 212004,
       "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
     },
     {
-      "added_at": "2023-01-27 06:00:00",
-      "album": {
-        "name": "De La Nada",
-        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        },
-        {
-          "name": "Hd_offisial",
-          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
-        }
-      ],
-      "duration_ms": 264003,
-      "name": "De La Nada",
-      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "El Sera y El Chavo",
@@ -973,6 +953,26 @@
       "url": "https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74"
     },
     {
+      "added_at": "2023-01-27 06:00:00",
+      "album": {
+        "name": "De La Nada",
+        "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Hd_offisial",
+          "url": "https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX"
+        }
+      ],
+      "duration_ms": 264003,
+      "name": "De La Nada",
+      "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
+    },
+    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Peque\u00f1a y Frag\u00edl",
@@ -1003,6 +1003,22 @@
       "duration_ms": 248117,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Tiempos de Guerra 2",
+        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Tiempos de Guerra 2",
+      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 200187,
       "name": "Sigo De Pie (En Vivo)",
       "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Tiempos de Guerra 2",
-        "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Tiempos de Guerra 2",
-      "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
-      "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "El Wizard Es Mi Apodo",
@@ -1267,6 +1251,22 @@
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
+    },
+    {
+      "added_at": "2022-12-05 23:10:14",
+      "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2022-10-14 05:00:00",

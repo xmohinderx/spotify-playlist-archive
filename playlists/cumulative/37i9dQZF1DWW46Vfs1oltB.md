@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: BE'O\(비오\)\)
 
-800 songs - 1 day 20 hr 29 min
+802 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [kiss kiss bang bang \(Feat\. twlv\)](https://open.spotify.com/track/6iFDPysdhEJTbwMKwoEXm6) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [kiss kiss bang bang](https://open.spotify.com/album/4dMTqGfto1b514039Q5O3M) | 3:21 | 2023-01-03 | 2023-01-11 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2021-12-18 | 2022-07-07 |
 | [Knock Knock \(Feat\. pH\-1, Moon Sujin\)](https://open.spotify.com/track/1eX3uqAJ1gXZPOR0aXQD4G) | [SMMT](https://open.spotify.com/artist/69R22YmY8X0TLe22n417Zm), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Mr\. Hollywood](https://open.spotify.com/album/7h0ipn1ZRUUznOKiMRqiAl) | 2:57 | 2022-08-31 | 2022-12-20 |
+| [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 | 2023-02-17 |  |
 | [Korea Bank \(Feat\. YDG\)](https://open.spotify.com/track/4fHUAvyszdqZ8PbjrZuXsN) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-19 | 2022-10-30 |
 | [KoreanDrugDealer \(Feat\. Dbo\)](https://open.spotify.com/track/3lkdQNWZHfqyDBediwX6S5) | [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [^\_\_\_^](https://open.spotify.com/album/4Z3dLb2CwDM5VWvJXsVVsA) | 3:42 | 2022-11-07 | 2022-11-17 |
 | [KrOWN \- Choiza of Dynamic Duo](https://open.spotify.com/track/74KUxRJj4MnfEA0HYniXI0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:04 | 2022-09-05 |  |
@@ -448,6 +449,7 @@
 | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/track/5E8N11KrFYhE97aDwMpVh7) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/album/31sC3hK0s5lx7NWr4edySi) | 3:04 | 2022-05-04 | 2022-05-25 |
 | [Lowlife Princess](https://open.spotify.com/track/0PqUct6dFr4rx1oXhgBysQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:31 | 2022-11-22 |  |
 | [M.S.F \(Feat.M1NU\)](https://open.spotify.com/track/7bKyjVNiadLn8RHl5rRJHx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Veinyfl](https://open.spotify.com/artist/7zVfEU7GNOsAKr6r7w96Dj), [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH) | [M.S.F](https://open.spotify.com/album/4MRjnkOdl6K5wC8uFhJ9CE) | 3:16 | 2022-03-24 | 2022-04-09 |
+| [MAGIC!](https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:59 | 2023-02-17 |  |
 | [Make it BIG \(Feat\. DON MALIK, Skinny Brown\)](https://open.spotify.com/track/1NkT9inGNy3qZ3G5qcgsQF) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Blended Noise](https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O) | 2:44 | 2022-03-26 | 2022-06-28 |
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-08 | 2022-07-04 |
 | [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 | 2021-12-18 | 2022-07-08 |

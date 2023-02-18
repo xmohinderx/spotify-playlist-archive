@@ -3417,6 +3417,32 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4nx0MICtzlbMeruCNSnIPO"
+      },
+      "artists": [
+        {
+          "name": "Flamingo Cartel",
+          "url": "https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D"
+        },
+        {
+          "name": "DJ TARO",
+          "url": "https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo"
+        },
+        {
+          "name": "Julisa",
+          "url": "https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218997,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/60VGUSDVni8Qvbng1brQIQ"
+    },
+    {
+      "album": {
         "name": "Sweet Sticky Thing(feat. mabanua, \u3055\u3089\u3055)",
         "url": "https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR"
       },
@@ -4288,7 +4314,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 232766,
       "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo"

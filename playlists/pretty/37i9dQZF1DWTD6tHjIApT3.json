@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Furui Riho",
-  "num_followers": 91794,
+  "num_followers": 91891,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU1OTYwMCwwMDAwMDAwMGNkZDk5OTk0ZTg0YzJjNmNkYzhkYTQyYWVlYTE1YTUz",
+  "snapshot_id": "MTY3NjU1OTYwMCwwMDAwMDAwMDRmNzhkODU3MTJhOGJhYzBkMDc1MzI0ZjlhYzAxNWZh",
   "tracks": [
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 234879,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "Baby you",
+        "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Baby you",
+      "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -1335,22 +1367,6 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
-        "name": "Flare",
-        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 234879,
-      "name": "Flare",
-      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1403,6 +1419,22 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
         "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
         "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
       },
@@ -1419,18 +1451,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
+        "name": "Without Love",
+        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
       },
       "artists": [
         {
-          "name": "\u6709\u83ef",
-          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+          "name": "LMYK",
+          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo"
+      "duration_ms": 247104,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1467,22 +1499,6 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
-      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
         "name": "\u5148\u99c6\u8005",
         "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Without Love",
-        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
+        "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+        "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
       },
       "artists": [
         {
-          "name": "LMYK",
-          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 247104,
-      "name": "Without Love",
-      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
+      "duration_ms": 309662,
+      "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
+      "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 216000,
       "name": "TRUMAN",
       "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "\u9752\u85cd\u904a\u6cf3",
-      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1567,34 +1567,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
       "artists": [
         {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2023-02-16 15:00:00",
-      "album": {
-        "name": "Baby you",
-        "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
-      },
-      "artists": [
-        {
-          "name": "\u6709\u83ef",
-          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Baby you",
-      "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
+      "duration_ms": 228013,
+      "name": "\u9752\u85cd\u904a\u6cf3",
+      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "Never Fear",
-        "url": "https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT"
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
       },
       "artists": [
         {
-          "name": "Mao Abe",
-          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Never Fear",
-      "url": "https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3"
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1647,8 +1631,8 @@
     {
       "added_at": "2023-02-16 15:00:00",
       "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/1H2xGnSFOfAEFSwosFDmBN"
       },
       "artists": [
         {
@@ -1656,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
         }
       ],
-      "duration_ms": 271889,
-      "name": "\u82b1\u706b",
-      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
+      "duration_ms": 262000,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux"
     },
     {
       "added_at": "2023-02-16 15:00:00",
@@ -1695,6 +1679,26 @@
       "duration_ms": 322146,
       "name": "Hikare Inochi",
       "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
+    },
+    {
+      "added_at": "2023-02-16 15:00:00",
+      "album": {
+        "name": "\u96e8\u6a21\u69d8",
+        "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Penoreri",
+          "url": "https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK"
+        }
+      ],
+      "duration_ms": 147437,
+      "name": "\u96e8\u6a21\u69d8",
+      "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"
     }
   ],
   "unique_name": "Women's Voice",

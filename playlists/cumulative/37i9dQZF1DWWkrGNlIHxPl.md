@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-233 songs - 13 hr 23 min
+234 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ya Ouahrane rouhi](https://open.spotify.com/track/2Ab0pXBoAKJnFwiTVXTs4k) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Hasni Aouni](https://open.spotify.com/album/5WzhC25un0XQdqNIJ7peRs) | 4:29 | 2022-06-06 | 2022-06-24 |
 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 | 2022-06-06 | 2022-06-24 |
 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-12-16 | 2022-02-04 |
+| [You Make It Okay](https://open.spotify.com/track/4Cip7XIF27YDADmpIUTuVB) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7) | [You Make It Okay](https://open.spotify.com/album/7CpzaD2s0jv6jY1khBb5m7) | 3:24 | 2023-02-17 |  |
 | [Yuma](https://open.spotify.com/track/5vNy0FcoDqdVysT5QnlJz1) | [Rizan Said](https://open.spotify.com/artist/1XDAb5Gk7iu6k9DSELAIlp) | [Saz Û Dilan](https://open.spotify.com/album/0Zga576QPWDLkSH5Rxp7Lu) | 3:35 | 2022-06-06 | 2022-06-24 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

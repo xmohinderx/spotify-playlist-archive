@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Gracie Abrams",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Joy Oladokun",
   "name": "Fresh Folk",
   "tracks": [
+    {
+      "album": {
+        "name": "Warm Terracotta",
+        "url": "https://open.spotify.com/album/06e1jBee1AK8hFoAjiuWTf"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "& She Drinks Tea Just for the Company",
+      "url": "https://open.spotify.com/track/3pUvMtgoYRVHeVmE47x8ZM"
+    },
     {
       "album": {
         "name": "(Remember Me) I'm the One Who Loves You",
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 301278,
       "name": "all in good Time,",
       "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 246000,
       "name": "Be (For July)",
       "url": "https://open.spotify.com/track/5ItO5kS0iPwB5AypKJ0dOG"
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178512,
       "name": "Can't Get High",
       "url": "https://open.spotify.com/track/6pEwmzXlnUaitpjfFWzfMc"
@@ -2662,6 +2680,24 @@
       "duration_ms": 280697,
       "name": "Cedar On The Fire",
       "url": "https://open.spotify.com/track/0DDyjtzGMb4CAew87M4DCN"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
       "album": {
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
@@ -3418,6 +3454,24 @@
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "album": {
+        "name": "Dawncolored Horse",
+        "url": "https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244933,
+      "name": "Dawncolored Horse",
+      "url": "https://open.spotify.com/track/3InAiW7SMYPaO3roqeGVY5"
     },
     {
       "album": {
@@ -4467,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/3O8ooLR5rOrj4LT5WRb4Yw"
       },
@@ -4714,6 +4786,24 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
+    },
+    {
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "album": {
@@ -5375,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Get It Back",
+        "url": "https://open.spotify.com/album/1qUVp9K0Z7w4gMbpzq1wd3"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Get It Back",
+      "url": "https://open.spotify.com/track/29mhNauP6A7LSLqiMOWNlv"
+    },
+    {
+      "album": {
         "name": "Get What You Want",
         "url": "https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd"
       },
@@ -5790,7 +5898,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 204444,
       "name": "Half the Story",
       "url": "https://open.spotify.com/track/73j46sAcr4IumQBuFZGk60"
@@ -6227,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN"
+    },
+    {
+      "album": {
         "name": "High and Lonesome",
         "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
       },
@@ -6398,7 +6524,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 207812,
       "name": "Hold On (with Gone Gone Beyond)",
       "url": "https://open.spotify.com/track/1Zt5xYz9Fnsoa5rkbSPJWe"
@@ -6420,6 +6546,24 @@
       "duration_ms": 282506,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq"
+    },
+    {
+      "album": {
+        "name": "Holding Pattern",
+        "url": "https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h"
     },
     {
       "album": {
@@ -6870,7 +7014,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 188346,
       "name": "Hurts (But It Goes Away) - Acoustic",
       "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
@@ -9093,6 +9237,24 @@
     },
     {
       "album": {
+        "name": "Look At Us Now (Honeycomb)",
+        "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272291,
+      "name": "Look At Us Now (Honeycomb) - Single Version",
+      "url": "https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/7xQTGR29x2BzB1zYniXIan"
       },
@@ -9176,7 +9338,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214133,
       "name": "Lost Myself",
       "url": "https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3"
@@ -9776,7 +9938,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 234028,
       "name": "Miles Are Wide",
       "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
@@ -10245,6 +10407,24 @@
     },
     {
       "album": {
+        "name": "Never Fall Apart",
+        "url": "https://open.spotify.com/album/65QVYu346MPfVZpBxHr9MK"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339084,
+      "name": "Never Fall Apart: Epilogue",
+      "url": "https://open.spotify.com/track/0LRJNAJZXoxWnMUuMvu3uF"
+    },
+    {
+      "album": {
         "name": "Never Giving Up",
         "url": "https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM"
       },
@@ -10408,7 +10588,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
@@ -10636,6 +10816,24 @@
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+    },
+    {
+      "album": {
+        "name": "notre dame",
+        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258430,
+      "name": "notre dame",
+      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
     },
     {
       "album": {
@@ -10936,7 +11134,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 188364,
       "name": "On Your Way - Acoustic",
       "url": "https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ"
@@ -11298,6 +11496,24 @@
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
+    },
+    {
+      "album": {
+        "name": "Parched",
+        "url": "https://open.spotify.com/album/5I4W743nQNBUZ76wdpg5ov"
+      },
+      "artists": [
+        {
+          "name": "Olive Klug",
+          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242390,
+      "name": "Parched",
+      "url": "https://open.spotify.com/track/2HLx0fc5WDpKXxPY6IWJMC"
     },
     {
       "album": {
@@ -13892,7 +14108,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 231416,
       "name": "Stay (ft. Gary Clark Jr.)",
       "url": "https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f"
@@ -14683,6 +14899,24 @@
     },
     {
       "album": {
+        "name": "Terrestrial Man",
+        "url": "https://open.spotify.com/album/0Xf1goy6gCUxMlTdzTOWTm"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264879,
+      "name": "Terrestrial Man",
+      "url": "https://open.spotify.com/track/0sNOQIiJEuEINXFmtZYXam"
+    },
+    {
+      "album": {
         "name": "Thank You Very Much",
         "url": "https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv"
       },
@@ -14694,7 +14928,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 327867,
       "name": "Thank You Very Much",
       "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
@@ -14712,7 +14946,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 221320,
       "name": "That's How I Got To Memphis",
       "url": "https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa"
@@ -15414,6 +15648,24 @@
       "duration_ms": 211733,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/4o1TQtYz86JdaqhIphYERp"
+    },
+    {
+      "album": {
+        "name": "There\u2019s Always Room (Alternate Version)",
+        "url": "https://open.spotify.com/album/5dDPGM1qxyHQnSFuiPWeyA"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167254,
+      "name": "There's Always Room - Alternate Version",
+      "url": "https://open.spotify.com/track/2XLD7DGOSkUjZymjqP5irl"
     },
     {
       "album": {
@@ -17137,6 +17389,24 @@
     },
     {
       "album": {
+        "name": "When The Storm Has Passed b/w Moonlight, Stay Above",
+        "url": "https://open.spotify.com/album/3nkAY6doVQ6cI4uLvB9pro"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279447,
+      "name": "When The Storm Has Passed",
+      "url": "https://open.spotify.com/track/6MQwPbHoKiyfyX1kF32Hch"
+    },
+    {
+      "album": {
         "name": "When We Believed",
         "url": "https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv"
       },
@@ -18028,7 +18298,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"

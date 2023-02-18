@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-852 songs - 1 day 19 hr 8 min
+853 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 |  |
 | [Cavalier](https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Cavalier](https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL) | 2:55 | 2022-10-13 | 2023-01-20 |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-10-27 | 2023-02-17 |
-| [Centipede](https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA) | 2:37 | 2023-02-17 |  |
+| [Centipede](https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA) | 2:37 | 2023-02-17 | 2023-02-18 |
+| [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-02-17 |  |
 | [Century](https://open.spotify.com/track/6uo5uOXkWZxhJnvmzOiMyI) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [My Mental Health / Century](https://open.spotify.com/album/7xWiUH6zYAwThwTwdvkQgb) | 3:29 | 2021-12-17 | 2022-01-12 |
 | [Chain Wallet Rock](https://open.spotify.com/track/2iPNlGXuNRdMsZZA2FlMJu) | [I Fight Dragons](https://open.spotify.com/artist/7DBXiFez54rbGjqw1tWi5w) | [Chain Wallet Rock](https://open.spotify.com/album/0mVijTzBDZMkLBW31JXlou) | 3:51 | 2021-12-17 | 2022-01-15 |
 | [Change](https://open.spotify.com/track/4IjMdBqGYxlZhydZjTVh6M) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Change](https://open.spotify.com/album/4eCE6HE8edpgwf4LLisoiG) | 3:15 | 2021-12-17 | 2022-01-21 |

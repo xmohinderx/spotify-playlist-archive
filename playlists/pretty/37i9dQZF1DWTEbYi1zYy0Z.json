@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Lin Rountree",
-  "num_followers": 44424,
+  "num_followers": 44482,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGU3NzNjZTI3Y2Y3YTVjMjg2NzFkZmY5MzFjNzAyMDgz",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGRlZGY1YzhlNGM1MjIzNmZmMGUwNDljYjRmMjhlNjEz",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -23,6 +23,42 @@
       "duration_ms": 259624,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "100% Cotton",
+        "url": "https://open.spotify.com/album/70jtGdNIVF4nk48YWC2XTF"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "100% Cotton (feat. Marcus Anderson)",
+      "url": "https://open.spotify.com/track/0CQUa0G8svZU88rMUM8GYv"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -45,56 +81,20 @@
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Lean Into It",
-        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
       },
       "artists": [
         {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
         }
       ],
-      "duration_ms": 264148,
-      "name": "Lean Into It",
-      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Del Mar",
-        "url": "https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p"
-      },
-      "artists": [
-        {
-          "name": "Rick Habana",
-          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
-        },
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "added_at": "2023-02-03 05:01:00",
@@ -117,20 +117,32 @@
       "url": "https://open.spotify.com/track/2BthCO2NWEyStwmCcQANRe"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+        "name": "Bleecker Street",
+        "url": "https://open.spotify.com/album/08iaTopFdcF91ZYzdBPYAQ"
       },
       "artists": [
         {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+          "name": "Pete Calandra and Straight Up",
+          "url": "https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam"
+        },
+        {
+          "name": "Tom Barney",
+          "url": "https://open.spotify.com/artist/5XxDVArhoK6MGgXFKelTti"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Eric Valentine",
+          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
         }
       ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+      "duration_ms": 255839,
+      "name": "Bleecker Street",
+      "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -165,20 +177,20 @@
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "All Love",
-        "url": "https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8"
+        "name": "Living in This House",
+        "url": "https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP"
       },
       "artists": [
         {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+          "name": "Threestyle",
+          "url": "https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX"
         }
       ],
-      "duration_ms": 192081,
-      "name": "All Love",
-      "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
+      "duration_ms": 234117,
+      "name": "Living in This House",
+      "url": "https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -249,26 +261,6 @@
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
     },
     {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "Stick It Out",
-        "url": "https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5"
-      },
-      "artists": [
-        {
-          "name": "James 'PJ' Spraggins",
-          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
-        },
-        {
-          "name": "Eric Dubose",
-          "url": "https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Summer Solstice",
@@ -287,6 +279,38 @@
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 192081,
+      "name": "All Love",
+      "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Lean Into It",
+        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "duration_ms": 264148,
+      "name": "Lean Into It",
+      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -377,22 +401,6 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
-      "added_at": "2022-10-24 14:43:12",
-      "album": {
-        "name": "Breakthrough (Radio Version)",
-        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
-      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
-    },
-    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Another Day In Paradise",
@@ -407,6 +415,42 @@
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p"
+      },
+      "artists": [
+        {
+          "name": "Rick Habana",
+          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
+    },
+    {
+      "added_at": "2022-10-24 14:43:12",
+      "album": {
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -457,22 +501,6 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
       "added_at": "2022-10-17 15:45:13",
       "album": {
         "name": "Unspeakable",
@@ -487,6 +515,22 @@
       "duration_ms": 226438,
       "name": "Unspeakable",
       "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -541,22 +585,6 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Off The Top",
-        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 259044,
-      "name": "Off The Top - radio single",
-      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -571,6 +599,22 @@
       "duration_ms": 240640,
       "name": "Secret Sauce",
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Off The Top",
+        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 259044,
+      "name": "Off The Top - radio single",
+      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -605,6 +649,22 @@
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "G-Stream 2-Turn It Up",
+        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "G-Wiggle",
+      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -623,22 +683,6 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2022-02-14 15:14:54",
@@ -673,6 +717,26 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
+      },
+      "artists": [
+        {
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Free",
@@ -695,26 +759,6 @@
     {
       "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
       },
@@ -727,6 +771,22 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -745,20 +805,24 @@
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "Summer in Blue",
-        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+        "name": "Stick It Out",
+        "url": "https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5"
       },
       "artists": [
         {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+          "name": "James 'PJ' Spraggins",
+          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
+        },
+        {
+          "name": "Eric Dubose",
+          "url": "https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK"
         }
       ],
-      "duration_ms": 269129,
-      "name": "Summer In Blue",
-      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+      "duration_ms": 220909,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -807,62 +871,6 @@
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 274096,
-      "name": "Busta Move",
-      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     }
   ],
   "unique_name": "New Smooth Jazz",

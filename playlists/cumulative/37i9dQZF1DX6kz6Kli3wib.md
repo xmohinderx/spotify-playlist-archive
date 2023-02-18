@@ -4,13 +4,14 @@
 
 > Soft electronic music for your dinner.
 
-253 songs - 12 hr 26 min
+255 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Degrees](https://open.spotify.com/track/0YounOBAiTYt0LYuLBewVo) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [30 Degrees](https://open.spotify.com/album/29FHccTZVEAbgmLwCssMbA) | 2:29 | 2022-07-29 | 2022-09-23 |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2021-11-11 |  |
 | [Acquacalda](https://open.spotify.com/track/6dMBQNftw7Pcrg02853Qae) | [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Acquacalda](https://open.spotify.com/album/2o8vAog28e5fSW2zNMKL8D) | 3:10 | 2021-11-11 | 2022-02-11 |
+| [Adore](https://open.spotify.com/track/7rLY1ca0qavXjgyhDcETEh) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Adore](https://open.spotify.com/album/4y0TWPqptIt5Cy94kUEyfm) | 2:07 | 2023-02-17 |  |
 | [All Now](https://open.spotify.com/track/7AfAtvY4rhcRAnFOtvqiPU) | [Time Lines](https://open.spotify.com/artist/2gckwTYh1Gf4GZ98mzOBfa) | [All Now](https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP) | 2:49 | 2021-11-11 | 2022-01-22 |
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-11 | 2022-02-11 |
 | [Another Shot](https://open.spotify.com/track/1Uc5EFttqhNXqiJsH2vfIs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Another Shot](https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5) | 3:17 | 2022-08-16 |  |
@@ -129,6 +130,7 @@
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-11 | 2022-04-06 |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [Little Miss Universe](https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Little Miss Universe](https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1) | 3:23 | 2022-05-20 | 2022-09-09 |
+| [Looped\-tape excesses](https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Looped\-tape excesses](https://open.spotify.com/album/3qnZ5AacXwJJcnAsPpyOth) | 3:32 | 2023-02-17 |  |
 | [Lounge Joint](https://open.spotify.com/track/3SkVZHNHUVDzelIarOrgDe) | [Minor Keyz](https://open.spotify.com/artist/3vmtpFNZmk6ZfJd2sGDJDp) | [The Weekend](https://open.spotify.com/album/1LLNpIVJt4wHbxaoKwUyeE) | 1:21 | 2021-11-11 | 2022-04-15 |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2021-11-11 |  |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2021-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 60745,
+  "num_followers": 60806,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGExNDdiNjNhNjY0OWJjNmU5OWY1Nzk3M2JlZjQ3Yjcw",
+  "snapshot_id": "MTY3NTM5MzIwMCwwMDAwMDAwMGE2NTc4MTVjNGRlZTNkYjlhYzBjYjZmM2I4Y2U3MGVl",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -999,8 +999,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Batida",
-        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
+        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 244539,
-      "name": "Batida",
-      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
+      "duration_ms": 165000,
+      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+        "name": "Batida",
+        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
+      "duration_ms": 244539,
+      "name": "Batida",
+      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+        "name": "Saudade de Cristo",
+        "url": "https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5"
       },
       "artists": [
         {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+      "duration_ms": 296506,
+      "name": "Saudade de Cristo",
+      "url": "https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Saudade de Cristo",
-        "url": "https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5"
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 296506,
-      "name": "Saudade de Cristo",
-      "url": "https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX"
+      "duration_ms": 224000,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Planos Melhores",
-        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
+        "name": "Amor de Pai",
+        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
       },
       "artists": [
         {
-          "name": "Andressa Cordeiro",
-          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
+          "name": "Jess\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
         }
       ],
-      "duration_ms": 184991,
-      "name": "Planos Melhores",
-      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
+      "duration_ms": 229523,
+      "name": "Amor de Pai",
+      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor de Pai",
-        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
+        "name": "Planos Melhores",
+        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Lucas",
-          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
+          "name": "Andressa Cordeiro",
+          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
         }
       ],
-      "duration_ms": 229523,
-      "name": "Amor de Pai",
-      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
+      "duration_ms": 184991,
+      "name": "Planos Melhores",
+      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
     },
     {
       "added_at": "2023-02-03 03:00:00",

@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
-140 songs - 7 hr 24 min
+142 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Ayuda](https://open.spotify.com/track/409Adkufa9knwtBWhAJ1zT) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/2ckHRwGmNNXcNKE3Ppquwo) | 3:57 | 2022-10-16 |  |
 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 | 2022-08-01 |  |
 | [Beefsito](https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN) | [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl) | [Beefsito](https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM) | 2:10 | 2022-11-25 |  |
-| [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-08-01 |  |
+| [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-08-01 | 2023-02-18 |
+| [Bi](https://open.spotify.com/track/7CzCpXNO8W4ngY2zJGtIHw) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:05 | 2022-10-16 |  |
 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 | 2022-03-08 |  |
 | [Bilingue](https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bilingue](https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf) | 2:51 | 2021-12-13 |  |
 | [BMW](https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BMW](https://open.spotify.com/album/0O0bJzAu1uswYmCej2I6Hz) | 2:32 | 2022-11-25 |  |
@@ -118,7 +119,8 @@
 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 | 2022-06-27 |  |
 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 | 2021-12-13 |  |
 | [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 | 2023-01-13 |  |
-| [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 |  |
+| [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2022-10-16 |  |
+| [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 | 2023-02-18 |
 | [Rompiendo Esquemas](https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Dj Kaizen \(Chile\)](https://open.spotify.com/artist/3zRSeoE7Udey1Ggleah4VH) | [Verso… Luego Existo \(The NYC Version\)](https://open.spotify.com/album/2TejLZ73MuwhR4dQMNVAGZ) | 2:59 | 2021-12-13 |  |
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-12-13 | 2022-07-29 |
 | [SANA SANA](https://open.spotify.com/track/7kakp7vYlAUJAOTBYh42ic) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 2:58 | 2022-06-27 |  |

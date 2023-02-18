@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-105 songs - 6 hr 28 min
+106 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Seventh Man](https://open.spotify.com/track/66wsgXCHuYUJMVdh1t09jy) | [Jim Wallis](https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL), [Nick Goss](https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB) | [Pool](https://open.spotify.com/album/0brYnL9IbHnqPYOqEEkNrC) | 6:42 | 2022-07-11 | 2022-10-29 |
 | [Silent Fall](https://open.spotify.com/track/6KYDAUs79tYUEiofQm5jkj) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX), [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Silent Fall](https://open.spotify.com/album/4vAs9fJE03B9U6Mx85Pfg3) | 5:43 | 2022-01-10 | 2022-07-12 |
 | [Sinfonia \(After Bach, BWV 248\)](https://open.spotify.com/track/5IiLoZK1u0cRrPWIRnydXG) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Sinfonia \(After Bach, BWV 248\)](https://open.spotify.com/album/2dTHnNQKu9f7x7FN7G0rzk) | 4:40 | 2022-10-28 | 2023-02-02 |
-| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-11 |  |
+| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-11 | 2023-02-18 |
+| [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-01 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2022-07-11 | 2022-07-29 |
 | [Solregn](https://open.spotify.com/track/09kBa4sfszwK5MN1DWoOFw) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Solregn](https://open.spotify.com/album/3jd2zTBl6CJLIX8YTn7xhv) | 3:10 | 2023-02-01 |  |
 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 | 2022-10-28 | 2023-02-02 |

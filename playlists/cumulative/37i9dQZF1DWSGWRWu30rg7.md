@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Andrea Tanzil
 
-1,501 songs - 3 day 19 hr 57 min
+1,504 songs - 3 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Berdua](https://open.spotify.com/track/5LieYarl7awUlOXIBV0cHu) | [belva devara](https://open.spotify.com/artist/77HRI0AHXEfScyt1yAbqq7), [Sabrina Anggraini](https://open.spotify.com/artist/6izKjal8U94M2ucXB1lp8X) | [Berdua](https://open.spotify.com/album/4MvHWTbvaxjm4hIpKPgcmV) | 4:16 | 2022-04-21 | 2022-05-13 |
 | [Bergala](https://open.spotify.com/track/11srXBmq0gJBSSnvnMF0O0) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Bergala](https://open.spotify.com/album/1hioznUHrmxoRglxFYB4br) | 3:16 | 2022-09-29 | 2022-10-14 |
 | [Bergerak](https://open.spotify.com/track/1Zd5ABEFOlRkD3LV9tJvi5) | [Noon Radar](https://open.spotify.com/artist/0NmY15BDCXUaL7UbetZ8D0) | [Gradien](https://open.spotify.com/album/495hU8u1ypBj3U9rgx9TnT) | 3:34 | 2022-08-25 | 2022-09-09 |
+| [Berharap Jadi Kisah](https://open.spotify.com/track/5Ul6QCytuyxDahmJDSsOOC) | [BiruMuda](https://open.spotify.com/artist/0RullS1YL4LIW6KEl4Az1s) | [Berharap Jadi Kisah](https://open.spotify.com/album/6mXpjfbby8Xic7lXjgpQnC) | 3:33 | 2023-02-17 |  |
 | [Berharap Rembulan](https://open.spotify.com/track/0LJXxFuiotarwxPGFXcqwy) | [Fahreza Rizani](https://open.spotify.com/artist/4TvBwowKW8Lx2tVAjk9vZ6) | [Berharap Rembulan](https://open.spotify.com/album/6Px6eIh0vS0dOFLF2je7wa) | 2:55 | 2022-10-13 | 2022-11-12 |
 | [Berhenti Mencintaimu](https://open.spotify.com/track/6Ic5SNLPEPHkhcGBUoSVRk) | [Lydia Putri](https://open.spotify.com/artist/5iPQfQCntcTzmBLd5v5Gtv) | [Berhenti Mencintaimu](https://open.spotify.com/album/7oV7HNArCjRiIvbidATfFm) | 3:29 | 2022-01-13 | 2022-01-28 |
 | [Beriku Tanda.](https://open.spotify.com/track/7ylERNUSctEhCbNAasTuUn) | [Dhanis Martin](https://open.spotify.com/artist/1hOC2qDALmIuQHi8gOgZfR) | [Beriku Tanda.](https://open.spotify.com/album/4ptUbwIKRfw57WVNhoYEOt) | 3:05 | 2022-02-24 | 2022-03-11 |
@@ -480,7 +481,7 @@
 | [Harus Berpisah](https://open.spotify.com/track/6jeKBQzfPlE3iajv42DGfS) | [Joelle Gabriella](https://open.spotify.com/artist/76no73cyuRogXDZOnvjuOI) | [Harus Berpisah](https://open.spotify.com/album/51M1MWdqgLRdULjh4edZJU) | 3:26 | 2022-09-15 | 2022-09-30 |
 | [Hasrat Palsu](https://open.spotify.com/track/5bEFSiYkkWNwS1MsyNgTsC) | [Riakustik](https://open.spotify.com/artist/0DIjS79Qn9csHOmj8ih1B7) | [Hasrat Palsu](https://open.spotify.com/album/4MAQhuckdr5aLKG79UvNzy) | 3:29 | 2022-02-03 | 2022-02-18 |
 | [hate/regret.](https://open.spotify.com/track/6vXoKMtznCCyAO49fhnXkX) | [Mango Street](https://open.spotify.com/artist/2MBf4xPU2qC1AEkLqOaiXq) | [hate/regret.](https://open.spotify.com/album/58jOG6Dq6MGmnRqQCwUXuK) | 3:12 | 2022-03-17 | 2022-04-01 |
-| [Hati](https://open.spotify.com/track/3PGqBTgJwoBldskkrMY7Uv) | [Mariani](https://open.spotify.com/artist/2d8VU9F9peezh9QgVPZmxj) | [Hati](https://open.spotify.com/album/4Dp71ewyzVKs9P9kT7voe9) | 4:21 | 2023-02-09 |  |
+| [Hati](https://open.spotify.com/track/3PGqBTgJwoBldskkrMY7Uv) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Hati](https://open.spotify.com/album/4Dp71ewyzVKs9P9kT7voe9) | 4:21 | 2023-02-09 |  |
 | [Hati Bicara](https://open.spotify.com/track/7w06Jd92MlHPWRj3sw3PPr) | [Aletta Stars](https://open.spotify.com/artist/5JroARhtfpri0fi6hiSYuY) | [Hati Bicara](https://open.spotify.com/album/1ZKRH3EAQYkxayArQz9B29) | 4:09 | 2022-02-17 | 2022-03-05 |
 | [Hati Yang Salah](https://open.spotify.com/track/2YHI9cmQdtX8hV7NxKMcia) | [Sharla Martiza](https://open.spotify.com/artist/5yXlvtoCNwJJHMztACsnd9) | [Hati Yang Salah](https://open.spotify.com/album/1XLoYmDTmb4hpc2n7AAEKb) | 3:45 | 2022-07-14 | 2022-08-12 |
 | [Have I Ever Told You? \(Remember to Love\)](https://open.spotify.com/track/33deVQUImxcAnCRpkD2236) | [Kakek & Nenek](https://open.spotify.com/artist/4qEdTwWrqVn6JlblqJInZs) | [Have I Ever Told You? \(Remember to Love\)](https://open.spotify.com/album/0726srcQGdk491jTssy4bO) | 5:49 | 2022-01-13 | 2022-01-28 |
@@ -839,6 +840,7 @@
 | [Memoria](https://open.spotify.com/track/5B4DPQLtIu3JkxiPIIgCl5) | [Fostan](https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj) | [Memoria](https://open.spotify.com/album/42NiiV0zFzVA2QQWcXZtl2) | 4:11 | 2022-10-20 | 2022-11-25 |
 | [Memories](https://open.spotify.com/track/0tWFB9klamv4SyQ2XKT8Wm) | [Sunny Summer Day](https://open.spotify.com/artist/6qXg5xXMLAVhGJpXU3oVy9) | [Memories](https://open.spotify.com/album/4RM4GjT2xsC90Lo1LSMEBP) | 2:48 | 2022-06-16 | 2022-07-08 |
 | [Menangislah](https://open.spotify.com/track/7f7b8c9v0GOPK3ATAKZJ3E) | [Een](https://open.spotify.com/artist/7bbJDNQGq6bCDbsJkPVMbW), [Secret Band](https://open.spotify.com/artist/1LiWM9widt4HuFbfwr42ZX) | [Menangislah](https://open.spotify.com/album/3buc8EEKw5iVxCJyrfq5tG) | 4:06 | 2022-04-21 | 2022-05-06 |
+| [Menari Sendiri](https://open.spotify.com/track/6lT4iQgDgtKSA3cuFK11ao) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Menari Sendiri](https://open.spotify.com/album/7dqcRrv6xYWfsQIe08ju7R) | 4:41 | 2023-02-17 |  |
 | [Mencintaimu Mencintainya](https://open.spotify.com/track/4N7wu9yPRDIlxVum7O5MrA) | [Russ\_Nozz](https://open.spotify.com/artist/0fYJpcMGw4BgHbRBjLP9Ex), [Rezcky Purba The Titans](https://open.spotify.com/artist/1JYot4JioyaiGRXBSEjqrO) | [Mencintaimu Mencintainya](https://open.spotify.com/album/7hxSCNp236uhm9ihYroZrK) | 4:16 | 2022-06-02 | 2022-06-24 |
 | [Mendaki Rasa](https://open.spotify.com/track/5JZhmCDs16MX2S05IxCVeF) | [Imaji Tomi](https://open.spotify.com/artist/7nu5bh7NaULVisnRwBKubY) | [Mendaki Rasa](https://open.spotify.com/album/5R9Sm4ZUh961T2PyG5F4nC) | 3:34 | 2022-02-17 | 2022-03-05 |
 | [Mendarat \- From "Mendarat Darurat"](https://open.spotify.com/track/5GQv5LOGSgCDrFTZvcxKPi) | [STEVESMITH](https://open.spotify.com/artist/397847upVgGmm19tyoKyft), [Nicho Benito](https://open.spotify.com/artist/1dt6PcdwsO2hJgqVZU6MFd) | [Mendarat \(From "Mendarat Darurat"\)](https://open.spotify.com/album/2JRAmv9IrzcyclfYrrpVov) | 5:04 | 2022-09-01 | 2022-09-16 |
@@ -1275,6 +1277,7 @@
 | [Sweet Little Misery](https://open.spotify.com/track/5U27zdxXRqZQHhrDbVAIDx) | [Zizi](https://open.spotify.com/artist/2aWiM9yTe85lKiQuRiRdFe) | [Sweet Little Misery](https://open.spotify.com/album/10R7a5FpbeadYUluFXAp5p) | 4:21 | 2022-01-27 | 2022-02-11 |
 | [Sweet Sour](https://open.spotify.com/track/6puXAhIpCzMzmlxTsZnQ0F) | [Mad Elephant](https://open.spotify.com/artist/2d00FwarxUPoFLD0BFwqIa), [Axel Kurnia Pradana](https://open.spotify.com/artist/4FsxQ3LO7ujB9Lfb6h4uyi) | [Sweet Sour](https://open.spotify.com/album/1L2YbViU5ufVacrpbB7RQU) | 4:22 | 2022-11-17 | 2022-12-01 |
 | [Symphony](https://open.spotify.com/track/5Kh73T5Gd5MBJPAL7wHRLx) | [Rai.](https://open.spotify.com/artist/2OmqkucL2UpLXU7sMkUVd5) | [Symphony](https://open.spotify.com/album/5xvZOPYXV65wBb6udJld70) | 3:23 | 2022-05-26 | 2022-06-10 |
+| [Symphony Finansial](https://open.spotify.com/track/46ecTVBr0fvmbdtUrfxRHN) | [Poor Too Geez](https://open.spotify.com/artist/14AeNguwkEe71AvXYVmyeo) | [Symphony Finansial](https://open.spotify.com/album/2QIR6RhlENzwjUlYeHQCYO) | 4:50 | 2023-02-17 |  |
 | [Tak Ada Salahnya](https://open.spotify.com/track/037b7twXc0hVbTqUjjK3MI) | [Adjani](https://open.spotify.com/artist/2ChD8hHQcN9XKTl52xfwy7) | [Tak Ada Salahnya](https://open.spotify.com/album/5W61jsiRUz484pZ14ldN18) | 3:42 | 2023-02-09 |  |
 | [Tak Bisa Bersama](https://open.spotify.com/track/3PzOzgibLVYZiiIo2G0a6p) | [Iyuth](https://open.spotify.com/artist/3eILAE9Jc9kQwiqeG6glYi) | [Tak Bisa Bersama](https://open.spotify.com/album/0ZjYsubw85xeEjP6kndJKq) | 4:05 | 2022-02-17 | 2022-03-05 |
 | [Tak Dapat Bicara](https://open.spotify.com/track/6b3byQOgFnl4ZDyyJe69h7) | [Muara Ibrahim](https://open.spotify.com/artist/6BSvtDwJjvN8IMhXo0Pf74) | [Tak Dapat Bicara](https://open.spotify.com/album/6GFATW1w0r3sBquZymeTAx) | 4:38 | 2022-01-20 | 2022-02-04 |

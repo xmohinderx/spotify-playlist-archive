@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-860 songs - 1 day 13 hr 34 min
+861 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Départ](https://open.spotify.com/track/35ZsQf6ONY4YYxyyr0Kj2o) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Départ](https://open.spotify.com/album/69aFKb0LkHjwRhyVDpAK3A) | 3:10 | 2020-08-14\* | 2020-09-30 |
 | [Déroutant](https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Déroutant](https://open.spotify.com/album/4YsTa45DGzHfCodlJGE3X2) | 2:34 | 2021-04-22 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-02-15 | 2022-09-15 |
-| [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-02-25 |  |
+| [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-02-25 | 2023-02-18 |
 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-05-06 |  |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2020-11-12 | 2021-06-02 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-05 |  |
@@ -246,7 +246,7 @@
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-04-23 | 2021-08-05 |
 | [Foothills](https://open.spotify.com/track/20oGEJKvYaJPJ9fa2QKlIc) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Foothills](https://open.spotify.com/album/2JazNostDaHeAcBFWDpxAI) | 2:43 | 2020-08-14\* | 2021-01-21 |
 | [Footprints](https://open.spotify.com/track/6JJ6h8zIfLOBivaUbsDKvz) | [Aron Risa](https://open.spotify.com/artist/4ZBYqZ6jRnD5xPtLWDvexS) | [Footprints](https://open.spotify.com/album/5GZU6r49UFFBsKxm2gMCrI) | 2:25 | 2020-08-14\* | 2022-09-24 |
-| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 |  |
+| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-04-13 | 2023-02-18 |
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-02-13 | 2022-06-08 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2020-11-12 | 2022-05-21 |
@@ -384,7 +384,7 @@
 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 | 2021-03-14 | 2022-04-16 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2020-12-03 |  |
 | [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2021-11-12 |  |
-| [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 | 2021-05-07 | 2023-02-17 |
+| [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 | 2021-05-07 |  |
 | [Le Ballet de L\`Oubli](https://open.spotify.com/track/1ZvZqIoLskfHuZ3A0akrsV) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Le Ballet de L\`Oubli](https://open.spotify.com/album/1BYFGajwHEIseik0EvBU6m) | 3:23 | 2022-04-21 | 2022-06-08 |
 | [Le banc](https://open.spotify.com/track/1ulHXuoZXGPkQ24TSVKsT8) | [Papa Tout Gris](https://open.spotify.com/artist/5gMVuR8wX0TRmtrYl3j7ge) | [Le banc](https://open.spotify.com/album/1AmUfkKAtFCjJ0gRFrC8lP) | 2:00 | 2020-08-14\* | 2020-08-20 |
 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 | 2020-11-12 | 2022-07-20 |
@@ -432,6 +432,7 @@
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-04-12 | 2021-11-24 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-09-30 | 2021-11-11 |
 | [Love Is A Mirror](https://open.spotify.com/track/2Y3etIESkHdEBq4L7RL70W) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Love Is A Mirror](https://open.spotify.com/album/7ins1STZ34Ge8D9e3WUphi) | 2:30 | 2020-11-12 | 2021-05-20 |
+| [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-06 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2020-08-14\* | 2020-08-20 |
 | [Low](https://open.spotify.com/track/47NrymHrpDp5A5yzDPVwMp) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Low](https://open.spotify.com/album/4HjKTcQJ1FuzweldF83GCx) | 2:42 | 2022-07-19 | 2022-09-15 |
 | [Lucidity](https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Lucidity](https://open.spotify.com/album/57LcyjJDa98LkcEBN7MJ4E) | 2:20 | 2021-11-02 | 2022-04-22 |

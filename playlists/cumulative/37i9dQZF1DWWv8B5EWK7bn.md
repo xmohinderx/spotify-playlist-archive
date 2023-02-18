@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-266 songs - 19 hr 20 min
+267 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 | 2022-07-14 | 2023-01-21 |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 | 2022-10-01 |
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 | 2023-02-10 |
+| [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 | 2021-10-06 |  |
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2023-01-20 |  |
 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 | 2023-01-20 |  |
 | [Metal](https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo) | [Metal](https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN) | 3:12 | 2022-08-11 | 2022-10-01 |
@@ -242,7 +243,7 @@
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2021-10-06 | 2022-08-12 |
 | [This Is A Life](https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [This Is A Life \(From the Original Motion Picture "Everything Everywhere All at Once"\)](https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR) | 2:41 | 2022-03-11 | 2022-08-04 |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-06 | 2022-09-07 |
-| [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 |  |
+| [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 | 2023-02-18 |
 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 | 2023-01-04 |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |
 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 | 2023-02-14 |

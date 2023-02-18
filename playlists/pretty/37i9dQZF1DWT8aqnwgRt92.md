@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,216 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,859 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 15 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 |
 | 16 | [AMBER](https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Hanabi](https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9) | 3:54 |
 | 17 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 |
-| 18 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
+| 18 | [BLUE GIANT](https://open.spotify.com/track/6cNsewEICKlNmFT8q3i4b9) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 3:38 |
 | 19 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 |
 | 20 | [めざせポケモンマスター \-with my friends\-](https://open.spotify.com/track/0nLGu3icAxmtS0KEvC1wOe) | [サトシ\(CV:松本梨香\)](https://open.spotify.com/artist/4W1d1c48W1NQZArFVHyQO8) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:06 |
 | 21 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 44 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
 | 45 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 |
 | 46 | [祈](https://open.spotify.com/track/2zA8ieFjvQNetHoSnXCYyb) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [祈](https://open.spotify.com/album/6l6gilWLojDjJIUXVdm2qD) | 4:40 |
-| 47 | [Usotsuki](https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Usotsuki](https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia) | 3:37 |
+| 47 | [Usotsuki](https://open.spotify.com/track/2PyYJTYEfA3jVXWNqaex5u) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:37 |
 | 48 | [DownTimer](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [RetBear \(unknown Vo:O2\)](https://open.spotify.com/artist/0JCG5k6oSPaafCB8PFLFOh) | [DownTimer](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 |
 | 49 | [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 |
 | 50 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 59 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 |
 | 60 | [lol](https://open.spotify.com/track/0Y0VtmNYHUMdk9cv1HKWPj) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [lol](https://open.spotify.com/album/6hvyEYVC33cce07AcK2mTr) | 2:53 |
 | 61 | [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 |
-| 62 | [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 |
+| 62 | [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 |
 | 63 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 |
 | 64 | [Selfhug Biglove](https://open.spotify.com/track/644uk2f8dAJCvxly8s20St) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Selfhug Biglove](https://open.spotify.com/album/4Xe3CMj63mISzrF7iXMuvg) | 3:47 |
 | 65 | [Cozy Crazy Party !](https://open.spotify.com/track/41uAxoZtsgiN7XY970uAB0) | [TRD](https://open.spotify.com/artist/6uLJZQnkE2LOdY4iitog1A) | [Cozy Crazy Party !](https://open.spotify.com/album/2Xbxh57nwwKfCi62o79h4q) | 3:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 |
 | 85 | [SEIEN](https://open.spotify.com/track/42o1jncT5EodHI9TP6J3f5) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [SEIEN](https://open.spotify.com/album/0U6PwfdcTKaLaHKyIWGl16) | 3:26 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDMzODNjNWIyNmFhMjljOGEzODRkZDZjM2M0YTkxZDQx`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDJkY2Y0Y2E3OTRlYTczYzRmMmY3ODI3ZGQ3OTZmMzhl`

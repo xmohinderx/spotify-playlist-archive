@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6nM7v7Uhd8mnwTOiUZU8Uu"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162618,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/22utKBg816BokCNCCmgMiE"
+    },
+    {
+      "album": {
         "name": "Final Say",
         "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
       },

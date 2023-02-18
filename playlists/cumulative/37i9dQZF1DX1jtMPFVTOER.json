@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Jonah Yano",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Busty and The Bass & Magi Merlin",
   "name": "Orbit",
   "tracks": [
     {
@@ -748,6 +748,28 @@
       "duration_ms": 156956,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/1yvBiaQXOJmWa21RgSPu18"
+    },
+    {
+      "album": {
+        "name": "Bitches Are Back",
+        "url": "https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm"
+      },
+      "artists": [
+        {
+          "name": "M.E.B.",
+          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "Bitches Are Back",
+      "url": "https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE"
     },
     {
       "album": {
@@ -2635,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267522,
+      "name": "Far From Here",
+      "url": "https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9"
+    },
+    {
+      "album": {
         "name": "Feel It Comin",
         "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
       },
@@ -3256,7 +3300,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 181133,
       "name": "Goodmorning",
       "url": "https://open.spotify.com/track/4p7X0UhdnqQNYv0JAlW3Vj"
@@ -3676,6 +3720,28 @@
       "duration_ms": 273255,
       "name": "IN THE WEE SMALL HOURS OF THE MORNING",
       "url": "https://open.spotify.com/track/5GnpiOhet76cQrplVi8ZED"
+    },
+    {
+      "album": {
+        "name": "Inthecut",
+        "url": "https://open.spotify.com/album/1TuFyUZMXMbqXOjgpBE94i"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207710,
+      "name": "Inthecut",
+      "url": "https://open.spotify.com/track/5kMJJgZUFjY2jA0usqjpYt"
     },
     {
       "album": {
@@ -5864,7 +5930,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 157418,
       "name": "righteous",
       "url": "https://open.spotify.com/track/6x2H5tGDwJmieCxIBn84bP"
@@ -6418,7 +6484,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 217499,
       "name": "Slhick Tawlk - Jazz Mix",
       "url": "https://open.spotify.com/track/0FdY14Ht681lBOo0QElRxB"

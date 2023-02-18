@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 178039,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X"
@@ -2659,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l"
+      },
+      "artists": [
+        {
+          "name": "Holen",
+          "url": "https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL"
+    },
+    {
+      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T"
       },
@@ -3234,6 +3252,32 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
+    },
+    {
+      "album": {
+        "name": "Guesses",
+        "url": "https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        },
+        {
+          "name": "Andrew A",
+          "url": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Guesses",
+      "url": "https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB"
     },
     {
       "album": {
@@ -6632,7 +6676,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 216750,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd"

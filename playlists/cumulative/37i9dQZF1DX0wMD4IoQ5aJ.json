@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf"
+      },
+      "artists": [
+        {
+          "name": "Sonopad",
+          "url": "https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210531,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY"
+    },
+    {
+      "album": {
         "name": "Moment EP",
         "url": "https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt"
       },

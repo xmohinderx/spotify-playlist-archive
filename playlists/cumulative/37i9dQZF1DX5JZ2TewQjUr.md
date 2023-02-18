@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lewsz
 
-422 songs - 1 day 0 hr 3 min
+423 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [這裡等](https://open.spotify.com/track/0VTnMjE4Z91i4M3s9Wymkb) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [這裡等](https://open.spotify.com/album/1q4NFC4B3Z6fHIaR7Mr1Qv) | 3:30 | 2022-11-17 |  |
 | [過去過不去](https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [過去過不去](https://open.spotify.com/album/1t0MnE7H8ycpzZzgwZCn27) | 4:37 | 2022-08-11 | 2022-11-04 |
 | [重獲自信](https://open.spotify.com/track/1VucFdXeTVlq7E3tuQqP9i) | [LikHang](https://open.spotify.com/artist/1CjN9kt3l99SnJEyaspKIh) | [重獲自信](https://open.spotify.com/album/4x0KW73otW6TBS3CwO9FAm) | 4:55 | 2022-09-22 | 2023-01-06 |
+| [開朗咗 Fantastic](https://open.spotify.com/track/7M4QQtHG0KtgJBXOBbI4Np) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [開朗咗 Fantastic](https://open.spotify.com/album/1aScUtpMgve7K6bTtOU4f1) | 2:23 | 2023-02-16 |  |
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2022-10-06 | 2023-02-03 |
 | [離開的感覺](https://open.spotify.com/track/2bzbEJY3xfGkFJdy509uRP) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [離開的感覺](https://open.spotify.com/album/3w8OUJKYhA2AAPhltni2QG) | 3:30 | 2022-10-27 | 2023-02-03 |
 | [雪白的愛](https://open.spotify.com/track/3gIemVYnj4E5tLWIrGf7Sw) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [雪白的愛](https://open.spotify.com/album/1qboE3FINCTo5AJvJeD76A) | 3:22 | 2023-02-16 |  |

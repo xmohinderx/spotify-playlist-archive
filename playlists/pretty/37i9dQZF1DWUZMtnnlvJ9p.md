@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,774 likes - 147 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,389 likes - 147 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 146 | [Who's Laughing Now](https://open.spotify.com/track/1Pmp486RrLRkaEkE3HFHXP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 |
 | 147 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 
-Snapshot ID: `MTY3NjQ3MzMyMCwwMDAwMDAwMGZjNzY0M2ZkM2VkNmRiOWEwZWU2YmQ4YTBkZTcxM2E4`
+Snapshot ID: `MTY3NjQ3MzMyMCwwMDAwMDAwMDAzMWVkMGJjY2JhZTM4YTgxZTQ2NjdmN2FiMTU4ZmM1`

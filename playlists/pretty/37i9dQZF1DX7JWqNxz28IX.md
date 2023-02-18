@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain](/playlists/plain/37i9dQZF1DX7JWqNxz28IX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JWqNxz28IX)
 
-### [ragazzo triste: San Valentino Edition](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
+### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> per un San Valentino col cuore così 💔  \(in cover, zeta\)
+> un cuore così 💔  \(in cover, zeta\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,060 likes - 132 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,068 likes - 132 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 131 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 132 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 
-Snapshot ID: `MTY3NjMxODQ1NSwwMDAwMDAwMGEwZjM4ZDEzMDhkMDQ2M2IzMTM0NTJlZGEzODVkZmEy`
+Snapshot ID: `MTY3NjYyNTUzNSwwMDAwMDAwMGM5OGRlZThjZTM3NjYyMjU0NGVhZmI2ODk4NzEzZTNj`

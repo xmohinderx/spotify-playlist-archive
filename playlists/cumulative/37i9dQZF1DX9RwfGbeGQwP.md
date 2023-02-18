@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,123 songs - 1 day 18 hr 22 min
+1,126 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Harrow Road](https://open.spotify.com/track/3ICTYy5UmT97BwlkYJIBeq) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Harrow Road](https://open.spotify.com/album/75Cs9EhJYlFxx8hETSBkdk) | 2:36 | 2022-01-27 | 2022-05-20 |
 | [Haunted](https://open.spotify.com/track/33kb802hgB653XzBrmS9Rs) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW) | [Haunted](https://open.spotify.com/album/0X9gf6EPXpVaiLoUUa3Q3Y) | 3:19 | 2022-11-11 | 2022-11-26 |
 | [Haunted](https://open.spotify.com/track/75oiUOkLJaaIZVVAVxPasf) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW) | [Haunted](https://open.spotify.com/album/7omlA971sE6j1KJlcKI3Yk) | 3:19 | 2022-05-13 | 2022-11-20 |
+| [have u ever](https://open.spotify.com/track/2AAoaN6bnREdznndvohdSw) | [snarewallet](https://open.spotify.com/artist/0oqkXt30H4WWfXLYxYWn0G) | [have u ever](https://open.spotify.com/album/1iMSdxwawP1tkc9DifLXrf) | 1:54 | 2023-02-17 |  |
 | [Hawaiian Organ Donor](https://open.spotify.com/track/707PZGDkSagq6qmceovsLp) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:24 | 2022-01-27 | 2022-09-17 |
 | [Hazy Days](https://open.spotify.com/track/5a4yFujtkeeVN3xHP0unSB) | [Ekolon](https://open.spotify.com/artist/5eRacV1s1AkqWd8Fo8inSW) | [Hazy Days](https://open.spotify.com/album/48lKvWCTFcwosC8FRuWbYh) | 1:37 | 2022-01-27 | 2022-05-27 |
 | [Heart and Soul](https://open.spotify.com/track/1RwLPjdu2GkzBRHjMCthWV) | [2 Liter](https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM) | [Heart and Soul](https://open.spotify.com/album/6X8g2gaZHBwRO5gH7Pn39x) | 2:01 | 2022-01-27 | 2022-05-27 |
@@ -903,6 +904,7 @@
 | [Sometimes](https://open.spotify.com/track/7JfyU9wSgLEHobFGJpcQfN) | [nijapear](https://open.spotify.com/artist/0YbktpIZIhXGoRFFzWLayC) | [Sometimes](https://open.spotify.com/album/79GvfGjbjDzk6oFaxbgJVn) | 2:37 | 2022-10-28 | 2022-12-17 |
 | [Sometimes It Rains In My Living Room](https://open.spotify.com/track/0vrXkAFL5bMYVSgScDnTav) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sometimes It Rains In My Living Room](https://open.spotify.com/album/36Cm5KUuuHKPMZso6jZahs) | 3:29 | 2022-01-27 | 2022-05-20 |
 | [Sooner or Later](https://open.spotify.com/track/0pW1v6ir7yz4Aq1E91dZ04) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Firefall](https://open.spotify.com/album/35oDUdivSJxiojGmhdIcPo) | 2:08 | 2022-01-27 | 2022-09-09 |
+| [Soul Ghaterings](https://open.spotify.com/track/2dysxhiq58BpAlFIUYd0aj) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:24 | 2023-02-17 |  |
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2022-01-27 | 2022-06-10 |
 | [Soul Single Serenade](https://open.spotify.com/track/3PLYtvrUO5s2nzzx12DNxX) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:27 | 2022-01-27 | 2022-07-08 |
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-01-27 | 2022-05-27 |
@@ -1102,6 +1104,7 @@
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2022-11-26 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-01-27 | 2022-10-29 |
 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 | 2022-01-27 | 2022-06-10 |
+| [Windows Down Please](https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Windows Down Please](https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA) | 2:03 | 2023-02-17 |  |
 | [windowsill.](https://open.spotify.com/track/6g8WlgW1divhDIY4arP8t3) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [windowsill.](https://open.spotify.com/album/6GGkqL4vnSG0qJIHSpxfrM) | 2:14 | 2022-04-15 | 2022-11-12 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-01-27 | 2022-09-03 |
 | [Wisdoms](https://open.spotify.com/track/7knt6DCTc2JhUBQLkJVzDM) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Wisdoms](https://open.spotify.com/album/3Re1laNJonephU9EOKp992) | 1:57 | 2022-04-08 | 2022-10-15 |

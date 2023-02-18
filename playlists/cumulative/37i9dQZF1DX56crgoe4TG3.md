@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-188 songs - 12 hr 0 min
+189 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 | 2021-08-20 | 2022-07-29 |
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-08-20 |  |
 | [Feelin' Good Again](https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:31 | 2022-08-09 |  |
+| [Fields Of Gold](https://open.spotify.com/track/4buQZSZOZeyEwDFXsrGBCM) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Fields Of Gold](https://open.spotify.com/album/2Ik9BowAsjPPahUwRODcw3) | 3:30 | 2023-02-17 |  |
 | [Float On](https://open.spotify.com/track/1MQGtGT7te6yAQMVKvvRbs) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [John Tucker Must Die](https://open.spotify.com/album/4RvZcbxP0bgCfo5PrMaN4x) | 4:01 | 2021-08-20 | 2022-07-29 |
 | [Float On](https://open.spotify.com/track/3mGB1bpKzXqFAELigaTBxk) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [John Tucker Must Die \(Music From The Motion Picture\)](https://open.spotify.com/album/7BjfZEpQGqsFcDnlH8n4lr) | 4:01 | 2022-05-27 |  |
 | [For The Turnstiles](https://open.spotify.com/track/7kpGyXljXAINZnybcsNRkn) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/7vmiUDLIp6w1s4NYDAWjej) | 4:26 | 2022-05-27 |  |

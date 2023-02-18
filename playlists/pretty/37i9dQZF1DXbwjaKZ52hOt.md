@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,943 likes - 185 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,971 likes - 185 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 93 | [Der Glumph](https://open.spotify.com/track/7zfa0NZCwts3QzmysV2tqj) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs and Nursery Rhymes from Play School](https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs) | 1:32 |
 | 94 | [Clap Your Hands](https://open.spotify.com/track/0QAN2I3VggUp43foMTzKOn) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:30 |
 | 95 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/3kKx3f1UUkul5qsuFyAmwv) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:07 |
-| 96 | [Teddy Bears Picnic](https://open.spotify.com/track/51OolYPI1CYgToZcsxm8xT) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:35 |
+| 96 | [Teddy Bears Picnic](https://open.spotify.com/track/4XAtEqt8UJS9yM6jvVFbiC) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:35 |
 | 97 | [If You're Happy and You Know It](https://open.spotify.com/track/5VCVZBhLpLRoDqtkcXZN6m) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:20 |
 | 98 | [How Much Is That Doggie in the Window](https://open.spotify.com/track/3Nx0XVHbUrGDD9MEVWo7QV) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 2:29 |
 | 99 | [The Ant and the Grasshopper](https://open.spotify.com/track/5o0oIgZ4BcBlqMTywVegI9) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 7](https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN) | 2:36 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 184 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:10 |
 | 185 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:42 |
 
-Snapshot ID: `MTY3NjAyMzIwMCwwMDAwMDAwMDY4Mjc3ZmE5Yzk1ZmE1Mjg2NjdkYTkyZjMwNGYwYWI4`
+Snapshot ID: `MTY3NjAyMzIwMCwwMDAwMDAwMDEzMDk2YWZlY2MyYjhjODM3OGEzY2E4YWUxMDcyYjEy`

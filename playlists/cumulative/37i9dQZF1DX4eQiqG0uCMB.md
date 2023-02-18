@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-172 songs - 8 hr 52 min
+173 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dance Body Breaker](https://open.spotify.com/track/3zzY2bdhZ7bld7kLK8ujk3) | [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Dance Body Breaker](https://open.spotify.com/album/1PI6Zu5jeS6XfktW8gXubq) | 2:06 | 2022-06-16 | 2022-07-28 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-06-09 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-06-09 | 2023-02-17 |
-| [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 |  |
+| [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-02-18 |
 | [Dreams](https://open.spotify.com/track/4rbmoqtKWALCrCUYPFZCyz) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Boy Spyce](https://open.spotify.com/album/5lsk9UPtpMStsuVJCZgtin) | 3:13 | 2022-06-09 | 2022-07-27 |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 |  |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-03 |  |
@@ -110,6 +110,7 @@
 | [Marathorn](https://open.spotify.com/track/2vrCbDTFRAYLWrKtSjTQ4T) | [Xlim Jay](https://open.spotify.com/artist/1BaLw8i2rIUW1kTQKAEPIn), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Marathorn](https://open.spotify.com/album/24LqIweNLRL8T6gDx9ibuk) | 3:25 | 2022-06-09 | 2022-07-28 |
 | [Medicine](https://open.spotify.com/track/5KD0JO8AHXZ9MFByI6SHqA) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Love or the Word \(EP\)](https://open.spotify.com/album/38mdA7Tdg3GF3MFxz2IQSM) | 2:39 | 2022-06-09 | 2022-08-05 |
 | [Miniskirt](https://open.spotify.com/track/5W2JnzMTTGEIpXDzP0EcPe) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/5BzGiOWRTSHoSseuc4yWxs) | 2:45 | 2022-06-09 | 2022-07-29 |
+| [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-27 |  |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |
 | [Mood](https://open.spotify.com/track/7MO1rDXtbbgpgRlIREIqWo) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [A Fierce Piano](https://open.spotify.com/album/7sXmc7pbCD9VXXC3QFzmM9) | 6:10 | 2022-07-05 | 2022-07-22 |
 | [More](https://open.spotify.com/track/40KU1IqyqXKwYnLKdMxOl6) | [Teeto](https://open.spotify.com/artist/7ymel9KpuAAHusHyDil3rT), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Moon](https://open.spotify.com/artist/4bc2Fc6nmXwFOllgMxpl3M) | [Culture of Honour](https://open.spotify.com/album/1wYPyjlnTdhRa66UNS8wfA) | 3:13 | 2022-07-07 | 2022-07-23 |

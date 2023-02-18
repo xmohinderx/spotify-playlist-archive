@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-118 songs - 6 hr 9 min
+119 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Daft Punk](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 4:08 | 2021-12-24 |  |
 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 | 2022-12-09 |  |
 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 | 2021-12-24 |  |
-| [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 | 2021-12-24 |  |
+| [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 | 2021-12-24 | 2023-02-18 |
 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 | 2021-12-24 |  |
 | [Don't Stop The Music](https://open.spotify.com/track/0WnM1mNuXRR9sjVbk6WeAJ) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [2010s Happy For Kids](https://open.spotify.com/album/2BOfcIDlSA1zDivcDUCFPx) | 3:04 | 2021-12-24 | 2022-11-14 |
 | [Don't Stop The Music](https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:04 | 2021-12-24 |  |
@@ -98,6 +98,7 @@
 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 | 2021-12-24 |  |
 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 | 2021-12-24 |  |
 | [Sing for Myself](https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [Sing for Myself](https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d) | 2:07 | 2022-12-09 |  |
+| [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 | 2022-12-09 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 | 2021-12-24 |  |
 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 | 2021-12-24 |  |
 | [Stacey's Mom](https://open.spotify.com/track/32IpXBKVD4ED5jIy9o9Uvs) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/2ZrrNlU7Ckl9uB4YKGHhMW) | 3:21 | 2021-12-24 | 2022-07-29 |

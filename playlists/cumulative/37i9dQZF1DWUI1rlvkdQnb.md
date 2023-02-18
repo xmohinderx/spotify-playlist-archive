@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-158 songs - 8 hr 27 min
+159 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Aurora](https://open.spotify.com/track/4NpJcnYkIb7H8SU0ZX39uZ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Labyrinth](https://open.spotify.com/album/7kDDMsSrGUGfHa5cCx4Oes) | 2:50 | 2021-12-10 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2021-12-10 |  |
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
-| [Blue Horizon](https://open.spotify.com/track/40TIxgymbbZsANsfvMRFvC) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:48 | 2021-12-10 |  |
+| [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 | 2023-02-17 |  |
+| [Blue Horizon](https://open.spotify.com/track/40TIxgymbbZsANsfvMRFvC) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:48 | 2021-12-10 | 2023-02-18 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-10 |  |
 | [Callisto](https://open.spotify.com/track/7o4AVqj9WYHeLsh2MKrx3N) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Callisto](https://open.spotify.com/album/0sXa6aFkcLQftp8F5CIicF) | 3:02 | 2021-12-10 |  |
 | [Cassie](https://open.spotify.com/track/3AJAKCETcSZ4QGpehqvySl) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Cassie](https://open.spotify.com/album/5dJjrW2grnoec37fXIFhsQ) | 3:27 | 2021-12-10 |  |

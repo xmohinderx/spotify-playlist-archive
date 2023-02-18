@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "I Feel The Love",
+        "url": "https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "I Feel The Love",
+      "url": "https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg"
+    },
+    {
+      "album": {
         "name": "I Never Like It When You Leave",
         "url": "https://open.spotify.com/album/0Q84Iiq3eoEpJ1DedX64x9"
       },

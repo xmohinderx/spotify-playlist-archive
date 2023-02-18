@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT"
+    },
+    {
+      "album": {
         "name": "Blue Lagoon",
         "url": "https://open.spotify.com/album/7eJ4LCFtQiBgMY3dQrSU6O"
       },
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 159750,
       "name": "Unto Nothing",
       "url": "https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1"

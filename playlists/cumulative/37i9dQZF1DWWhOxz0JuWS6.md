@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-514 songs - 1 day 13 hr 12 min
+515 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Million Miles Away](https://open.spotify.com/track/4jF4kZArkVKvvYXOlplMtA) | [The Plimsouls](https://open.spotify.com/artist/7BnikuGfXRWkGLJCWS1y9P) | [Everywhere At Once](https://open.spotify.com/album/5YoVN6VXerpo6aIS5lZ6Ur) | 3:35 | 2022-03-28 | 2022-07-21 |
 | [A Million To One](https://open.spotify.com/track/3Z7AIA7ZjItaRZvkE2Kxs2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:11 | 2020-12-08 | 2022-07-25 |
 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 | 2020-12-08 | 2022-07-27 |
+| [A Night like This \- 2006 Remaster](https://open.spotify.com/track/7cKCz7gG84i1XLvDeM3ByT) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 4:16 | 2022-11-17 |  |
 | [A Rush and a Push and the Land Is Ours \- 2011 Remaster](https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:03 | 2020-12-08 |  |
 | [Abacab \- 2007 Digital Remaster](https://open.spotify.com/track/3QDR1x6MUqRL9eRiuKwBCc) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab](https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD) | 6:56 | 2020-12-08 | 2022-07-29 |
 | [Addicted To That Rush \- Remastered Version](https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:46 | 2020-12-08 | 2022-07-28 |
@@ -210,7 +211,7 @@
 | [In The Dark \- Remastered 2010](https://open.spotify.com/track/2dgjjOdz8qnGXLos9xbNNV) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No \(Remastered 2010\)](https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt) | 4:10 | 2020-12-08 |  |
 | [Insider](https://open.spotify.com/track/379z9NZoC8nHBGFZyHKYp4) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises \(Reissue Remastered\)](https://open.spotify.com/album/5GFz7ZNmdtuFZIhUljI2YX) | 4:20 | 2020-12-08 | 2022-07-28 |
 | [Into The Heart \- Remastered 2008](https://open.spotify.com/track/5WZ4VotOZwDGuSBUYTp3mA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:27 | 2020-12-08 | 2022-06-16 |
-| [Invincible](https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Seven The Hard Way](https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb) | 4:28 | 2020-12-08 |  |
+| [Invincible](https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Seven The Hard Way](https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb) | 4:28 | 2020-12-08 | 2023-02-18 |
 | [Invisible Sun](https://open.spotify.com/track/5u8Dwz4h41DDOKfeFfexMR) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:44 | 2020-12-08 |  |
 | [Is This The World We Created...? \- Remastered 2011](https://open.spotify.com/track/78BjB6GC1JPt4LgA8O0sys) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 2:14 | 2020-12-08 | 2022-07-21 |
 | [Isolation \- 2007 Remaster](https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 2:55 | 2020-12-08 |  |

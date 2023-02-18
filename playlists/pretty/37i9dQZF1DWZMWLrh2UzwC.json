@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: lullaboy",
-  "num_followers": 60474,
+  "num_followers": 60489,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2MzIwMCwwMDAwMDAwMDkzNzRiMTk5ODFkYzE3OGMyMGI3MGRlZTI5MWE5ZThj",
+  "snapshot_id": "MTY3NjYwMDQzNSwwMDAwMDAwMDFkMzA2ZDY3MjgyMDQxYWI2NTdmZDBmNWYwNjEyNjFk",
   "tracks": [
     {
       "added_at": "2023-02-16 16:00:00",
@@ -605,6 +605,26 @@
       "url": "https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN"
     },
     {
+      "added_at": "2023-02-17 02:15:48",
+      "album": {
+        "name": "4 Me (feat. Kali Uchis)",
+        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
+    },
+    {
       "added_at": "2023-02-16 16:00:00",
       "album": {
         "name": "Remind Me to Forget You",
@@ -623,7 +643,7 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "Dancing All Alone",
+        "name": "DANCING ALL ALONE",
         "url": "https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg"
       },
       "artists": [
@@ -633,7 +653,7 @@
         }
       ],
       "duration_ms": 171601,
-      "name": "Dancing All Alone",
+      "name": "DANCING ALL ALONE",
       "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
     },
     {
@@ -919,6 +939,22 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
+        "name": "Prologue : Love",
+        "url": "https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2yqXymIotLIx9BCuRIAWFU"
       },
@@ -971,6 +1007,22 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
+        "name": "Highteen",
+        "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Highteen",
+      "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
         "name": "ASSEMBLE",
         "url": "https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5"
       },
@@ -1007,7 +1059,7 @@
     {
       "added_at": "2023-02-16 16:00:00",
       "album": {
-        "name": "WHERE DOES SASQUATCH LIVE, Pt. 1",
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
         "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
       },
       "artists": [
@@ -1035,6 +1087,22 @@
       "duration_ms": 252700,
       "name": "where we go is home",
       "url": "https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/06JOwUA8ImUujy1weYHTVr"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "duration_ms": 246718,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/6A7bJ0GCI8iEFuZaUaxjtQ"
     },
     {
       "added_at": "2023-02-16 16:00:00",
@@ -1183,6 +1251,26 @@
       "duration_ms": 195509,
       "name": "Flowers & Chocolate",
       "url": "https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5"
+    },
+    {
+      "added_at": "2023-02-17 02:20:35",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0RZyf468UuyZWx3QzQpph5"
+      },
+      "artists": [
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "S\u00e9b Mont",
+          "url": "https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3s9waxSk5YHC8e0rmoPzB2"
     },
     {
       "added_at": "2023-02-16 16:00:00",
@@ -1355,6 +1443,22 @@
       "duration_ms": 204503,
       "name": "Face in the Crowd",
       "url": "https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl"
+    },
+    {
+      "added_at": "2023-02-16 16:00:00",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w"
     },
     {
       "added_at": "2023-02-16 16:00:00",

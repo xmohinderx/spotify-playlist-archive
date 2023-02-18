@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,782 likes - 110 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,870 likes - 110 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 9 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 |
 | 10 | [Auriga](https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y) | [Boris Wilde](https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE) | [Clusters](https://open.spotify.com/album/1y0KC5V5fkivO8IH323prK) | 2:58 |
 | 11 | [Daybreak](https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Daybreak](https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih) | 2:54 |
-| 12 | [Fragrantia](https://open.spotify.com/track/5JPOfUFWdUW5Vq7gxs8oG2) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Fragrantia](https://open.spotify.com/album/1TuMH1fRQzOmM45LUMIZAc) | 2:31 |
-| 13 | [Laten gaan](https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Laten gaan](https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6) | 3:28 |
-| 14 | [Crystal Grid, Pt\. 1](https://open.spotify.com/track/0tRgzV9zTGDG51NWCDI9li) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Reiki Healing](https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu) | 3:24 |
+| 12 | [Healing Sun](https://open.spotify.com/track/71Fs3eUdUvsUdBK0r2qERV) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Healing Sun](https://open.spotify.com/album/4Im2u0xbcI5VJIZvnD3x1B) | 2:42 |
+| 13 | [Fragrantia](https://open.spotify.com/track/5JPOfUFWdUW5Vq7gxs8oG2) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Fragrantia](https://open.spotify.com/album/1TuMH1fRQzOmM45LUMIZAc) | 2:31 |
+| 14 | [Laten gaan](https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Laten gaan](https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6) | 3:28 |
 | 15 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 |
 | 16 | [Seventh Heaven](https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 3:14 |
 | 17 | [Stratosphere](https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 109 | [Atlas](https://open.spotify.com/track/7Ld82Xo4cv71JmVpevFAHO) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Atlas](https://open.spotify.com/album/454YxMcqipagvCU1scUyz2) | 2:54 |
 | 110 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 |
 
-Snapshot ID: `MTY3NTk2MTg2MSwwMDAwMDAwMGMzYzVkZTgyMjBlYTUwZTcwMTljY2UxMjY1NzVjOTIy`
+Snapshot ID: `MTY3NjY0NzA0NSwwMDAwMDAwMGMwMTM4OWUzZmM4MTY0YmExOGVlZjNjNWI2OWQyZjc4`

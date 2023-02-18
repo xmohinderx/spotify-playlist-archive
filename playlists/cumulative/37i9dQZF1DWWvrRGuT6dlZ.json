@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover:  Dominic Chin, aeriqah. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Johnson. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -700,6 +700,24 @@
       "duration_ms": 168670,
       "name": "Break A Promise",
       "url": "https://open.spotify.com/track/0JHjFRWuv3tft4kkhlBrLo"
+    },
+    {
+      "album": {
+        "name": "BREAK OUT",
+        "url": "https://open.spotify.com/album/0zhMDV36ReMbwonYKZFgFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Yong",
+          "url": "https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "BREAK OUT",
+      "url": "https://open.spotify.com/track/097H2uNtcKIgggGHmaRTAj"
     },
     {
       "album": {
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 189333,
       "name": "don't lie",
       "url": "https://open.spotify.com/track/3JBENVU2gOASI9dFC2upk1"
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "In My Pocket",
+        "url": "https://open.spotify.com/album/5VeN5Vkc6HCFgfCgiKyDAr"
+      },
+      "artists": [
+        {
+          "name": "Dansen John",
+          "url": "https://open.spotify.com/artist/6RXevTw2pt1Q7eKvNkeSjc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198870,
+      "name": "In My Pocket",
+      "url": "https://open.spotify.com/track/1yEGDwwmcjKsJ6HSkMbLpi"
+    },
+    {
+      "album": {
         "name": "insomaniac",
         "url": "https://open.spotify.com/album/2zlHmXYXkQwPdEigti7vPE"
       },
@@ -2906,6 +2942,28 @@
       "duration_ms": 222040,
       "name": "insomaniac",
       "url": "https://open.spotify.com/track/1In2ojHhE3MrhlCg8Dk4BP"
+    },
+    {
+      "album": {
+        "name": "Interval Of Us",
+        "url": "https://open.spotify.com/album/7nnHI4d4RB5fj7ItJr5f5v"
+      },
+      "artists": [
+        {
+          "name": "Johnson",
+          "url": "https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb"
+        },
+        {
+          "name": "Silver Lim",
+          "url": "https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Interval Of Us",
+      "url": "https://open.spotify.com/track/7LUPtdG13VibC6od6CCnGj"
     },
     {
       "album": {
@@ -5095,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "SLIDE",
+        "url": "https://open.spotify.com/album/7ASEKgcGL4UUFArYgUXiXk"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "SLIDE",
+      "url": "https://open.spotify.com/track/3mxTCFQ5GCAvhkFBt1lJPb"
+    },
+    {
+      "album": {
         "name": "Slingshots",
         "url": "https://open.spotify.com/album/2wTMhdrkdGxDT9deaVgaFq"
       },
@@ -5168,6 +5244,24 @@
       "duration_ms": 208000,
       "name": "Social Disaster",
       "url": "https://open.spotify.com/track/4HH0dKxiIjkrVzhB8Tcc6M"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/4HQhioGsFrghbRy8ajT6Sj"
+      },
+      "artists": [
+        {
+          "name": "Afee",
+          "url": "https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0RUfi1QfMXMnGQGcX3FgOJ"
     },
     {
       "album": {
@@ -5256,6 +5350,24 @@
       "duration_ms": 200384,
       "name": "stargazing",
       "url": "https://open.spotify.com/track/1occWjMLEm4VilPWFq8zjN"
+    },
+    {
+      "album": {
+        "name": "starlight",
+        "url": "https://open.spotify.com/album/70HCFgMlYYWy9VeE8kwGVA"
+      },
+      "artists": [
+        {
+          "name": "byn",
+          "url": "https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238107,
+      "name": "starlight",
+      "url": "https://open.spotify.com/track/0K71GoHZHZU9Tn9pwf0pbH"
     },
     {
       "album": {
@@ -5390,6 +5502,24 @@
       "duration_ms": 150035,
       "name": "SUNSET CHASER (with PFTD) - Radio Edit",
       "url": "https://open.spotify.com/track/73iFppQnSxTicoooPXXbmW"
+    },
+    {
+      "album": {
+        "name": "Superhuman",
+        "url": "https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227018,
+      "name": "Superhuman",
+      "url": "https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB"
     },
     {
       "album": {
@@ -5599,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Drench",
+        "url": "https://open.spotify.com/album/55FhvfGFbND8HAbe0B0EtR"
+      },
+      "artists": [
+        {
+          "name": "Heady Eves",
+          "url": "https://open.spotify.com/artist/4Sme4edA0CsHJTNJvtfBjU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242910,
+      "name": "The Lights Have Gone Down",
+      "url": "https://open.spotify.com/track/1R0bl70zBoKukkB0qUnJZ1"
+    },
+    {
+      "album": {
         "name": "the moon",
         "url": "https://open.spotify.com/album/34seKNYvo6iJFzVddkKJCw"
       },
@@ -5794,6 +5942,28 @@
       "duration_ms": 128554,
       "name": "Tokyu Hands Shinjuku 7F",
       "url": "https://open.spotify.com/track/7MACq9SlKI1IY6imiwOsoR"
+    },
+    {
+      "album": {
+        "name": "Too Many Times",
+        "url": "https://open.spotify.com/album/5WsyPULWLBoiepNu2hMgv8"
+      },
+      "artists": [
+        {
+          "name": "ANN\u00c9",
+          "url": "https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf"
+        },
+        {
+          "name": "Virgo's Child",
+          "url": "https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177521,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/2IwtpJlL47MrqPMgqiXUga"
     },
     {
       "album": {
@@ -6642,6 +6812,24 @@
       "duration_ms": 165746,
       "name": "You",
       "url": "https://open.spotify.com/track/7ld1fc0UPmTDi7KMkmUCdn"
+    },
+    {
+      "album": {
+        "name": "LOVERGIRL",
+        "url": "https://open.spotify.com/album/1Eivm2c1chCBMHG2OcTjWd"
+      },
+      "artists": [
+        {
+          "name": "ALICIA DC",
+          "url": "https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/6aBVnDNG502Sh5rJRqLxmD"
     },
     {
       "album": {

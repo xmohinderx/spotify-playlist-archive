@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,468 likes - 124 songs - 12 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,571 likes - 124 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Izegbe](https://open.spotify.com/track/6ljQPw3QcfwNishetIByR6) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Izegbe](https://open.spotify.com/album/7tdtrRYNSdkl4P8pWw0ZhP) | 2:31 |
 | 2 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
-| 3 | [Baglami](https://open.spotify.com/track/159mYyAervSmRxUdyEaOdq) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/4EK46NYAw0L0GQ8z1MjmRr) | 5:30 |
+| 3 | [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 |
 | 4 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 |
 | 5 | [Thousand And Two Nights \- Paso Doble Remix](https://open.spotify.com/track/2WSTSLildq9gO9mK6sNTgp) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Dikla Hackmon](https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj), [Paso Doble](https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp) | [Thousand And Two Nights](https://open.spotify.com/album/67EAgGAHyrOdf3QKhkpJHv) | 3:44 |
 | 6 | [Waves & Wavs](https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:28 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 123 | [Ardha Nari Feat\. Sazin](https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h), [Sazin](https://open.spotify.com/artist/7tdcJ2v8H2RG2LCCuQ4gy0) | [Ardha Nari Feat\. Sazin](https://open.spotify.com/album/15uPuwya3uoWhTISJiFQQ0) | 6:02 |
 | 124 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 |
 
-Snapshot ID: `MTY3NTUwNjIwNCwwMDAwMDAwMDcyYmJjYjVmMmFlYmRlNGRjZjkyMmRjOWUxNDA3Nzk2`
+Snapshot ID: `MTY3NTUwNjIwNCwwMDAwMDAwMGJmMTdkNjc3YTRkYmU0MWQ2OGU4NmEyMzZhNWNmNDlk`

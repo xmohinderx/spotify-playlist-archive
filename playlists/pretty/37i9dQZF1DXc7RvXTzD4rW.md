@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 緒方恵美 \(Megumi Ogata\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,677 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,691 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 10 | [flower](https://open.spotify.com/track/7F2ElpBUHRNJdVsPGFUfer) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [flower](https://open.spotify.com/album/36HyrkBpXHLFLWUkErDT1L) | 3:30 |
 | 11 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 |
 | 12 | [Invincible Love](https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Invincible Love](https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W) | 3:54 |
-| 13 | [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 |
+| 13 | [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 |
 | 14 | [But My Life More My Choice](https://open.spotify.com/track/1Jo233eMpitC6mjiWOjf6t) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [fruitful spring](https://open.spotify.com/album/4pXEaekMG4wN2fVw5Sr3l2) | 4:38 |
 | 15 | [sugar](https://open.spotify.com/track/2675zqM1O6irmmtUWamczG) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [sugar](https://open.spotify.com/album/2ZE4s8OFq6hrU2rBgn9nxs) | 3:58 |
 | 16 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 |

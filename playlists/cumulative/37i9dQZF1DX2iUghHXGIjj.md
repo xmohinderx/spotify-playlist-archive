@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-156 songs - 9 hr 47 min
+157 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
 | [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 | 2020-08-11 | 2022-06-18 |
 | [Pay Day](https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o) | [The Blues Preachers](https://open.spotify.com/artist/3ikhKlxQA5V5LcZEos15Zb) | [Dry Long So](https://open.spotify.com/album/2St0nFT4MkzzFhTsFLI7nS) | 4:10 | 2020-08-11 |  |
+| [Plaquemine](https://open.spotify.com/track/56M0BOuK6FO44wShNMFEbh) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Plaquemine](https://open.spotify.com/album/5kp6Tqyvjk3JIAtO3s4d4N) | 4:00 | 2023-02-17 |  |
 | [Play With Your Poodle](https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Harmonica Blues](https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj) | 3:39 | 2020-08-11 | 2022-11-13 |
 | [Play With Your Poodle](https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Blowin' Harp Blues](https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx) | 3:39 | 2020-08-11 | 2022-07-29 |
 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 | 2020-08-11 |  |
@@ -149,7 +150,7 @@
 | [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 | 2022-07-29 |
 | [The World Can Be So Cold](https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s) | 3:26 | 2021-05-21 | 2022-11-13 |
 | [Thumb A Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb A Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |
-| [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 |  |
+| [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 | 2023-02-18 |
 | [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 | 2022-05-07 |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2020-08-11 |  |
 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 | 2021-12-17 |  |

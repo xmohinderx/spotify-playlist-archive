@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU ?",
+        "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225643,
+      "name": "Is it you ?",
+      "url": "https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt"
+    },
+    {
+      "album": {
         "name": "Is It You?",
         "url": "https://open.spotify.com/album/7FQJ6skjOegWinYI7hXEIK"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 225643,
       "name": "Is It You?",
       "url": "https://open.spotify.com/track/60TTmB7hjehojy4YPIv5mR"
@@ -720,7 +738,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179579,
-      "name": "Is This Real Love? (feat. Lucky Daye)",
+      "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
     },
     {

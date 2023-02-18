@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 14253,
+  "num_followers": 14327,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMDQ0NWJmNGM2YTdkNTRmZTI3N2Q4NDk2MjhjMWNkNjQ2",
+  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMGFiODkwMGUwMjNjNTUxMmNiNTYxNmQzZDRjZTgzNTQ5",
   "tracks": [
     {
       "added_at": "2023-01-02 05:53:41",
@@ -683,6 +683,50 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
+        "name": "B.A.R.S, Vol. 1",
+        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
+        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
+      },
+      "artists": [
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "DNA (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
         "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
         "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
       },
@@ -731,50 +775,6 @@
       "duration_ms": 316000,
       "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
       "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "B.A.R.S, Vol. 1",
-        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
-        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
-      },
-      "artists": [
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "DNA (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "POST IT",
         "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 226989,
       "name": "POST IT (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 0",
-        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "RECEIPTS (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 0",
+        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "RECEIPTS (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
         "name": "Scene Stealers",
         "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
       },
@@ -1971,26 +1991,6 @@
       "duration_ms": 322806,
       "name": "Who You - Remix",
       "url": "https://open.spotify.com/track/2ByIPJqORZEkOGrNbTgnCj"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2162,22 +2162,6 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
           "name": "GASHI",
@@ -2191,6 +2175,22 @@
       "duration_ms": 231360,
       "name": "FSU (feat. GASHI & Rich The Kid)",
       "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
     },
     {
       "added_at": "2023-01-02 05:53:41",

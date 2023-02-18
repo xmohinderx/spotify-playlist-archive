@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2Ys5YqubjcDVuLK3NvmKVS"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208043,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3YTYELOB3uKmJAJZRHmg7o"
+    },
+    {
+      "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y"
       },
@@ -3852,6 +3870,24 @@
       "duration_ms": 185962,
       "name": "Ready for Me",
       "url": "https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2"
+    },
+    {
+      "album": {
+        "name": "Real Good",
+        "url": "https://open.spotify.com/album/4ohTe605nVMKNPeDZfxihB"
+      },
+      "artists": [
+        {
+          "name": "Outasight",
+          "url": "https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199669,
+      "name": "Real Good",
+      "url": "https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu"
     },
     {
       "album": {
@@ -4704,7 +4740,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 326413,
       "name": "Thousand Knives - Thundercat Remodel",
       "url": "https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N"
@@ -5270,7 +5306,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 317173,
       "name": "YeahYeahYeah",
       "url": "https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi"

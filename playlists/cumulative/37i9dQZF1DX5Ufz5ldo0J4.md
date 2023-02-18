@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-279 songs - 13 hr 5 min
+280 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Scared To Lose Someone](https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Scared To Lose Someone](https://open.spotify.com/album/3jrXoHU10DsH3EFAuIK9Bo) | 2:13 | 2021-12-10 | 2022-08-13 |
 | [Scarlet](https://open.spotify.com/track/2cIZnj2au400srT96TbOUO) | [Antonella Schiavone](https://open.spotify.com/artist/66UPdA7Hmxuf3JpXWWxh4s) | [Scarlet](https://open.spotify.com/album/5xlxpmwsMshrHl8BP5gYDe) | 1:42 | 2021-12-10 |  |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2021-12-10 |  |
-| [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 | 2021-12-10 |  |
+| [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 | 2021-12-10 | 2023-02-18 |
 | [Serenity](https://open.spotify.com/track/3hRHtzo5i6J7rKK0g6iite) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Serenity](https://open.spotify.com/album/3PzVxjrkJDlSO4t9OXMhw2) | 2:47 | 2021-12-10 | 2022-08-13 |
 | [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2021-12-10 |  |
 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 | 2022-12-09 |  |
@@ -227,6 +227,7 @@
 | [Somnolence](https://open.spotify.com/track/42l68t0uutO6GH5xGEJLuO) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Somnolence](https://open.spotify.com/album/2I22kCuVqwkvnJ2sfO1huh) | 4:07 | 2021-12-10 | 2022-08-13 |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-10 |  |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2021-12-10 | 2022-10-15 |
+| [Sotto Voce](https://open.spotify.com/track/3dv8YMh744oqhm2NJomPO3) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Sotto Voce](https://open.spotify.com/album/7Gc84qTZJJmHNFVdjsBgRP) | 2:42 | 2023-02-17 |  |
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-12-10 |  |
 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 | 2022-09-13 |  |
 | [Stated Intent](https://open.spotify.com/track/21RmYoBNHh9RwEE2n19lrf) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Stated Intent](https://open.spotify.com/album/09gL5fyZzCWtt6ss56XxV5) | 2:33 | 2021-12-10 |  |

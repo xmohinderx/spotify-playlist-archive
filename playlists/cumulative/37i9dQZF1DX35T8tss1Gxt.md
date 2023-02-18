@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-383 songs - 23 hr 19 min
+384 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,10 +247,11 @@
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/0q22YqinZnV4mehuz0QiU3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/48e9qQcXnEsaiib4LUSk1P) | 4:33 | 2022-04-01 | 2022-04-20 |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-06-25 |  |
 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 | 2023-01-20 |  |
-| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 |  |
+| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 | 2023-02-18 |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2022-06-25 |  |
 | [Not Gon’ Do](https://open.spotify.com/track/0RGuN1UxbbBKimDw9l9AIv) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2022-02-19 | 2022-06-26 |
+| [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-01-20 |  |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-25 | 2023-02-15 |
 | [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-06-25 |  |
 | [Nothing Else](https://open.spotify.com/track/0bflIQnvaGK5USahQuvohu) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Nothing Else](https://open.spotify.com/album/673Mfe5edcp9Syyx7nMtu7) | 3:03 | 2022-03-05 | 2022-04-05 |

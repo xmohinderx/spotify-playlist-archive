@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 162000,
       "name": "Destroy Me (Sped Up)",
       "url": "https://open.spotify.com/track/0GO2QdhAjnXV4XqwzkWc76"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 259047,
       "name": "Falling Over - Sped Up Version",
       "url": "https://open.spotify.com/track/30Rgny4iqvfxJKixVKQld2"
@@ -1046,6 +1046,24 @@
       "duration_ms": 164718,
       "name": "girls like me don't cry (sped up)",
       "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176286,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
     },
     {
       "album": {
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 118129,
       "name": "people pleaser - higher & faster",
       "url": "https://open.spotify.com/track/4ujYFnZw9B8lUQG4W305HP"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 286368,
       "name": "Swing Lynn - Sped Up Version",
       "url": "https://open.spotify.com/track/0ru1ATGEAwgtSylajGg8yV"
@@ -2864,6 +2882,10 @@
         {
           "name": "Stephen Dawes",
           "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
         }
       ],
       "date_added": "2023-02-09",
@@ -3158,7 +3180,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 214734,
       "name": "Where Do We Go From Here? - sped up",
       "url": "https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8"

@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-108 songs - 16 hr 11 min
+110 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Keiko's Birthday March \- Live at Pookie's Pub, 1967](https://open.spotify.com/track/3MSUAw9uYQ85vsJqrnh6WW) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Keiko's Birthday March \(Live at Pookie's Pub, 1967\)](https://open.spotify.com/album/7h87oqgzri0jSb7eLTO3ow) | 21:12 | 2022-10-07 |  |
 | [Köln, January 24, 1975, Pt\. I \- Live](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 26:01 | 2021-11-12 |  |
 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 | 2022-04-08 |  |
+| [Like Someone in Love \- Live](https://open.spotify.com/track/67yA02XHhn3dPDAvOFHW3T) | [Shirley Scott](https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI), [George Coleman](https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH) | [Like Someone in Love \(Live\)](https://open.spotify.com/album/0GpQfoLtICBmlFHvgcIpRH) | 9:55 | 2023-02-17 |  |
 | [Love Is For Real \- Live in New York City, February 8, 1975](https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Love Is For Real \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/6YrBa9ZMQN2DkvvQAFaxFM) | 4:41 | 2022-02-18 |  |
 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 | 2021-11-12 |  |
 | [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 | 2022-09-16 |  |
@@ -73,6 +74,7 @@
 | [Okonkole' Y Trompa \- Live in Japan 1982](https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Twins Live In Japan 1982](https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG) | 6:55 | 2021-11-12 | 2022-07-29 |
 | [Okonkole' Y Trompa \- Remastered](https://open.spotify.com/track/6P03MjTK2iTrkVBrGf1Qtd) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Smooth Jazz Hits](https://open.spotify.com/album/3PmD3OrZ0yYdvyslH6VkUz) | 7:04 | 2021-11-12 |  |
 | [Oleo \- Live](https://open.spotify.com/track/3Y1FeOnRQhsAEZlrJX9p7i) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Oleo \(Live\)](https://open.spotify.com/album/4s2gCzpD7CRhgQM5I8qaW0) | 19:08 | 2022-02-18 |  |
+| [Olha Maria \- Live](https://open.spotify.com/track/3mLcWV0tQYmkF8B9fc2Y3P) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Got the Keys to the Kingdom: Live at the Village Vanguard](https://open.spotify.com/album/1Sr2wuciDyzeCvQXYaZDeE) | 6:22 | 2023-02-17 |  |
 | [Once In A While \(Live\)](https://open.spotify.com/track/5LCWRVUkzLxujuQ5w7pLPL) | [Art Blakey Quintet](https://open.spotify.com/artist/180iCL28IiUTkC6epvZfYI) | [A Night At Birdland](https://open.spotify.com/album/6r7judxVxuABrzdTYhNQCr) | 5:18 | 2021-11-12 |  |
 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 | 2021-11-12 |  |
 | [Out 'N' In \- live](https://open.spotify.com/track/77QDXNb6mor0iUdD3F9vcx) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Rudy Van Gelder](https://open.spotify.com/artist/0XMh2eSb9EmhFxqIKcFzKx) | [Joe Henderson In Japan](https://open.spotify.com/album/5aDmGHhMGNNGLtWz5WK67Q) | 9:05 | 2021-11-12 |  |

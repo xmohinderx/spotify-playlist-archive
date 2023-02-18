@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-653 songs - 1 day 11 hr 30 min
+655 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 | 2022-09-15 |
 | [Multicolore](https://open.spotify.com/track/6KEQoLLr2kXLFKjiAFcxlW) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Multicolore](https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS) | 2:04 | 2022-08-05 | 2022-09-07 |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |
+| [My Mind \(with Charlie Kim\)](https://open.spotify.com/track/6KUZphPDNp0owWVfO5waBK) | [Outr3ach](https://open.spotify.com/artist/5Fxm01Q3h4d0JsKnVHnawz), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [My Mind \(with Charlie Kim\)](https://open.spotify.com/album/6iWqZQkEZPXS5Yfxo1NCBL) | 4:16 | 2023-02-17 |  |
 | [MYSELF AGAIN](https://open.spotify.com/track/3W71reebo9HFakaEpmcPS4) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [MYSELF AGAIN](https://open.spotify.com/album/3cn5Z5LRrC0omDyqj1t9Of) | 5:01 | 2023-01-10 |  |
 | [Neck And Neck \- DNMO Remix](https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Northern Lights \(Remixes\)](https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe) | 3:02 | 2022-11-22 |  |
 | [Need You Back](https://open.spotify.com/track/1KwIrJg96RHokyebJ0cn5i) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [ben haydn](https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB) | [Need You Back](https://open.spotify.com/album/6bgSbajtMejBA4yHlbb8HA) | 2:27 | 2022-09-09 | 2022-10-22 |
@@ -557,6 +558,7 @@
 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 | 2022-12-16 | 2022-12-27 |
 | [Tempest](https://open.spotify.com/track/0JjN5GDWzFt6ZY8izlci3m) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Tempest](https://open.spotify.com/album/7aHBpzvI962YQf7JmMVpa2) | 2:12 | 2022-08-12 | 2022-09-07 |
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-17 | 2022-06-18 |
+| [That Feeling](https://open.spotify.com/track/69bRYnIDPZM8IUmBLFVq2u) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [That Feeling](https://open.spotify.com/album/28DQ29Hukx9FU5C7GdY4Ta) | 2:46 | 2023-02-17 |  |
 | [The Action](https://open.spotify.com/track/40jqRY00ZBurt1HqDxUOt3) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [The Action](https://open.spotify.com/album/0jq2WhY16lMP0B5xljkjZQ) | 3:13 | 2022-01-24 | 2022-09-15 |
 | [The End](https://open.spotify.com/track/2L0uVaHo60hPJXGPxmovHr) | [2 Man Embassy](https://open.spotify.com/artist/6lVxahKP9JvYmOX1jpvny4), [Perrin Xthona](https://open.spotify.com/artist/1bNx6UhsCYSNuoIeL9LcnD) | [Concepts](https://open.spotify.com/album/67ojsQXZr0nf7MQbMEZ0O2) | 3:28 | 2022-01-14 | 2022-02-17 |
 | [The End](https://open.spotify.com/track/60IvFaGJdmdKYFhShP2FqU) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ) | [Last Breath](https://open.spotify.com/album/2w3GxWgv89jwAaprkVjbEp) | 3:22 | 2022-09-30 | 2022-10-29 |

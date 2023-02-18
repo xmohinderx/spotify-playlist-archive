@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
-  "num_followers": 333913,
+  "num_followers": 334033,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMDE1NzJhZTIyY2FhMTUwNDBmNjhkZTZlZWZhNTg5ZTI5",
+  "snapshot_id": "MTY3NTczMzc3NywwMDAwMDAwMDk5MjRiMDYxZTA4ZGZhZTU0ODliNmQxY2I5YzI5NThl",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
-      },
-      "artists": [
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Lisboa",
-      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
+      },
+      "artists": [
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -613,6 +613,26 @@
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
+      "added_at": "2023-02-18 00:31:31",
+      "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "O Caderno",
@@ -651,6 +671,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -667,42 +703,6 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2023-02-17 01:01:00",
-      "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
     },
     {
-      "added_at": "2023-02-17 01:01:00",
+      "added_at": "2023-02-18 00:31:31",
       "album": {
         "name": "J\u00e1 ouviu falar de amor?",
         "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Habilidades Extraordin\u00e1rias",
-        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 273974,
-      "name": "Habilidades Extraordin\u00e1rias",
-      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Jasmim Parte 1",
         "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 199693,
       "name": "Jasmim Parte 1",
       "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Habilidades Extraordin\u00e1rias",
+        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 273974,
+      "name": "Habilidades Extraordin\u00e1rias",
+      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1289,43 +1289,7 @@
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
     },
     {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Dorme Pretinho",
-        "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
-      },
-      "artists": [
-        {
-          "name": "Lia de Itamarac\u00e1",
-          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
-        }
-      ],
-      "duration_ms": 197117,
-      "name": "Dorme Pretinho",
-      "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
-    },
-    {
-      "added_at": "2023-02-17 01:01:00",
-      "album": {
-        "name": "Distantes e T\u00e3o Pr\u00f3ximos",
-        "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
-      },
-      "artists": [
-        {
-          "name": "Laksmi",
-          "url": "https://open.spotify.com/artist/3DJqwmpsNYr9AGzhwGWIX9"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 226292,
-      "name": "Distantes e T\u00e3o Pr\u00f3ximos",
-      "url": "https://open.spotify.com/track/6he0uxYZ7NmlEAW8B9LGux"
-    },
-    {
-      "added_at": "2023-02-17 01:01:00",
+      "added_at": "2023-02-18 00:31:31",
       "album": {
         "name": "Solid\u00f5es",
         "url": "https://open.spotify.com/album/5KSBEMVST0zTeiBadYWcsG"
@@ -1343,6 +1307,42 @@
       "duration_ms": 139137,
       "name": "Solid\u00f5es",
       "url": "https://open.spotify.com/track/68yYJHwo574Ok3PRHHRxMZ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Dorme Pretinho",
+        "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
+      },
+      "artists": [
+        {
+          "name": "Lia de Itamarac\u00e1",
+          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+        }
+      ],
+      "duration_ms": 197117,
+      "name": "Dorme Pretinho",
+      "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
+    },
+    {
+      "added_at": "2023-02-18 00:31:31",
+      "album": {
+        "name": "Distantes e T\u00e3o Pr\u00f3ximos",
+        "url": "https://open.spotify.com/album/5LGJDRzc7vqYrgIr5sX4mu"
+      },
+      "artists": [
+        {
+          "name": "Laksmi",
+          "url": "https://open.spotify.com/artist/3DJqwmpsNYr9AGzhwGWIX9"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 226292,
+      "name": "Distantes e T\u00e3o Pr\u00f3ximos",
+      "url": "https://open.spotify.com/track/6he0uxYZ7NmlEAW8B9LGux"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Nossos Planos",
+        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 176968,
+      "name": "Nossos Planos",
+      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Meu",
         "url": "https://open.spotify.com/album/0qKsUMabSYKb7SxdDymMU7"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 241696,
       "name": "Meu",
       "url": "https://open.spotify.com/track/2Koa7RU0dFe641DJfMHHdd"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Nossos Planos",
-        "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 176968,
-      "name": "Nossos Planos",
-      "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1645,7 +1645,7 @@
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
-      "added_at": "2023-02-17 01:01:00",
+      "added_at": "2023-02-18 00:31:31",
       "album": {
         "name": "Bom Parto",
         "url": "https://open.spotify.com/album/3ZwcCK5QY3nxCuJzfoWRcF"
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "T\u00f4",
         "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 247802,
       "name": "Coment\u00e1rios a Respeito de Belchior",
       "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1741,7 +1741,7 @@
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
-      "added_at": "2023-02-17 01:01:00",
+      "added_at": "2023-02-18 00:31:31",
       "album": {
         "name": "Ana Ca\u00f1as Canta Belchior (Ao Vivo)",
         "url": "https://open.spotify.com/album/7naJtp1Bw4VdDR8VdzkEzv"
@@ -1829,6 +1829,22 @@
       "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
     },
     {
+      "added_at": "2023-02-18 00:31:31",
+      "album": {
+        "name": "\u00c1gua do Mar",
+        "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mann",
+          "url": "https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj"
+        }
+      ],
+      "duration_ms": 198835,
+      "name": "\u00c1gua do Mar",
+      "url": "https://open.spotify.com/track/2Ot7t6rZPchQV8HFTrHoFI"
+    },
+    {
       "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Control Z",
@@ -1847,22 +1863,6 @@
       "duration_ms": 205601,
       "name": "Control Z",
       "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
-    },
-    {
-      "added_at": "2023-02-17 01:01:00",
-      "album": {
-        "name": "\u00c1gua do Mar",
-        "url": "https://open.spotify.com/album/4RcMaq46LgicjlmqXPAd23"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mann",
-          "url": "https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj"
-        }
-      ],
-      "duration_ms": 198835,
-      "name": "\u00c1gua do Mar",
-      "url": "https://open.spotify.com/track/2Ot7t6rZPchQV8HFTrHoFI"
     },
     {
       "added_at": "2023-01-20 03:00:00",

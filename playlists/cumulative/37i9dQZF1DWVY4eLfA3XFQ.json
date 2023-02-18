@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring HoneyLuv. ",
+  "description": "Tech house technicians, featuring Bruno Furlan. ",
   "name": "Operator",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 161251,
       "name": "All The Night",
       "url": "https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 205440,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/2b1WYx8VpODBylDvI1AT3T"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 135238,
       "name": "Cuando Vengas",
       "url": "https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ"
@@ -7910,7 +7910,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 190714,
       "name": "KLK",
       "url": "https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg"
@@ -9416,10 +9416,28 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 161801,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi"
+    },
+    {
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "album": {
@@ -11109,6 +11127,24 @@
     },
     {
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1LZqOEEoHgd2knaJMvJhZP"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/0weVuJD157TzuE2GPRUekB"
+    },
+    {
+      "album": {
         "name": "On & On (Kevin McKay Remix)",
         "url": "https://open.spotify.com/album/0Loqru4GwLUyDo0t26CaPp"
       },
@@ -11618,6 +11654,32 @@
       "duration_ms": 168501,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+    },
+    {
+      "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130123,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
       "album": {
@@ -12252,7 +12314,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 186999,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE"
@@ -14174,7 +14236,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 281250,
       "name": "Sombrero Sam - Radio Edit",
       "url": "https://open.spotify.com/track/3SoElzvGzQoWSn5i0sIS2u"
@@ -15434,7 +15496,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 207096,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk"
@@ -16264,7 +16326,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 126774,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj"

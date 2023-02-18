@@ -1,13 +1,33 @@
 {
   "description": "The best of Latin blues. Cover: Carlos Santana",
-  "num_followers": 12749,
+  "num_followers": 12761,
   "original_name": "Latin Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDg0MGRlNzVhNTYxMjkxZjBmODRjNDM0YTRhY2E1NTgz",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGY4NWE3YzI0YzFkZjRlNjRhNzA2OTIzMjc2ZjY5ZTE3",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Sucio y Desprolijo",
+        "url": "https://open.spotify.com/album/1b2aq9eJwiPZPlUOJz8bgU"
+      },
+      "artists": [
+        {
+          "name": "La Mississippi",
+          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
+        },
+        {
+          "name": "Vargas Blues Band",
+          "url": "https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn"
+        }
+      ],
+      "duration_ms": 392771,
+      "name": "Sucio y Desprolijo",
+      "url": "https://open.spotify.com/track/0T6gj3F46FYqRUGKPyYpSj"
+    },
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {

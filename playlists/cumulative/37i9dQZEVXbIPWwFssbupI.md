@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,176 songs - 2 day 14 hr 45 min
+1,178 songs - 2 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Galerie](https://open.spotify.com/track/2hsEYpnAtMH7CbZJajUU5C) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Galerie](https://open.spotify.com/album/3wzW6OkUdpj8RFn8UCCNF3) | 2:45 | 2021-11-12 | 2021-11-14 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2021-08-29 | 2022-05-22 |
-| [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 |  |
+| [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 | 2023-02-18 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-11-25 | 2022-11-27 |
 | [Genkidama](https://open.spotify.com/track/7hV7y1AX4BgZeYs9y4iyY0) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant \(V2\)](https://open.spotify.com/album/1HLF2j5BJVKy5o0OpAq6fI) | 3:04 | 2022-11-26 | 2022-12-20 |
@@ -805,6 +805,7 @@
 | [One Shot](https://open.spotify.com/track/6BDSvCRulPkbZoDIawWTq4) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:13 | 2021-10-17 | 2021-10-22 |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2021-08-05 | 2021-08-08 |
 | [Onizuka](https://open.spotify.com/track/4GCIYE1x1TWJCChPkpy9by) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Dans la légende](https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE) | 4:12 | 2022-05-06 | 2022-06-12 |
+| [Opaque](https://open.spotify.com/track/0xiMdJVrFh8Al0dRowFu76) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Opaque](https://open.spotify.com/album/4SKv02b5MRQOrbjbDXgdqG) | 3:34 | 2023-02-17 |  |
 | [Ouais Boy](https://open.spotify.com/track/5RMphWDtZtcHHt6AW0ggol) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:39 | 2022-06-11 | 2022-06-14 |
 | [Ouais Ouais \(feat\. Hamza\)](https://open.spotify.com/track/1pGALYFcP57BOFtaqRDG7a) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:24 | 2021-09-19 | 2021-09-26 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
@@ -854,6 +855,7 @@
 | [Pistolet 45](https://open.spotify.com/track/28sz0xiDFDcEXHdVjnv1ZJ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:28 | 2022-12-10 | 2022-12-12 |
 | [Placebo](https://open.spotify.com/track/17jlkHSNHFu1zUuu8QZyOW) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Imany Deluxe](https://open.spotify.com/album/2kxLG2zY19L7YWG5iWLewv) | 3:10 | 2022-11-15 | 2023-01-07 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2021-11-28 | 2021-12-05 |
+| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-17 |  |
 | [Plaza Athénée](https://open.spotify.com/track/3zfX77h21GrlhsiOuYnZNC) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Plaza Athénée](https://open.spotify.com/album/7oWPHRsf07z12mpqB029Gc) | 2:28 | 2021-05-30 | 2021-06-04 |
 | [Plein les poches](https://open.spotify.com/track/6uAL5MbQ6bOBOrgqf05FK6) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:45 | 2021-03-27 | 2021-04-11 |
 | [PLU$$$](https://open.spotify.com/track/5VfuiPIiEWVa7c8Nw0B9rL) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:21 | 2022-03-20 | 2022-03-24 |
@@ -980,7 +982,7 @@
 | [Seven Nation Army](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Seven Nation Army](https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV) | 2:53 | 2021-06-18 | 2021-07-18 |
 | [Sex \(Interlude\)](https://open.spotify.com/track/78XZ8m1aqtiFXyHTV4aRRb) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Voulez\-vous coucher avec moi](https://open.spotify.com/album/0U9XYTYWK68OPNuO9UJwjM) | 1:50 | 2022-03-01 | 2022-03-12 |
 | [Señorita](https://open.spotify.com/track/0pRLi4RAWK1ZglN3UmwvnU) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/3IIykrRD1Kqw521QJC0USe) | 3:23 | 2021-06-23 | 2021-06-26 |
-| [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-15 |  |
+| [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-15 | 2023-02-18 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2022-09-11 | 2023-01-02 |
 | [Shining Light](https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:37 | 2022-11-20 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-04-24 |

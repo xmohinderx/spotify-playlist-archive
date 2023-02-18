@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Skrillex.
 
-336 songs - 18 hr 49 min
+337 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Brooklyn '95](https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV) | [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Brooklyn '95](https://open.spotify.com/album/4I0I1NAlhZOkrMUtEeficA) | 3:37 | 2021-08-06 | 2023-02-11 |
 | [Burn](https://open.spotify.com/track/2ejYIN0aROGGouYo3SIxtt) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Under the Light of a Dying Moon](https://open.spotify.com/album/0nVBHam69xP8JKcnduelr4) | 4:04 | 2021-08-06 | 2022-04-20 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-11-26 |  |
+| [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-16 |  |
 | [Chakra](https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [All Glows](https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q) | 4:08 | 2021-08-06 | 2023-02-11 |
 | [Chandelier \(camoufly Remix\)](https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Chandelier \(camoufly Remix\)](https://open.spotify.com/album/61Kux9RkSUm0LXx09IqRIZ) | 2:34 | 2021-09-24 | 2022-07-25 |
 | [Chemical \(feat\. Ahsha & Lemay\) \- Hex Cougar Remix](https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD), [Ahsha](https://open.spotify.com/artist/318Hgipp6taFiCWfOcNOq2), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Fallout \(The Remixes\)](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY) | 3:56 | 2021-08-06 | 2023-02-04 |
@@ -279,7 +280,7 @@
 | [Sun Fall Down](https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sun Fall Down](https://open.spotify.com/album/4Xuvi6KBxr2Flnb5ZspUf4) | 2:22 | 2021-08-06 |  |
 | [Sunburn \- Reimagined](https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Sunburn \(Reimagined\)](https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW) | 4:07 | 2021-08-06 | 2023-02-11 |
 | [Sunrise](https://open.spotify.com/track/6YiN3NPoIN35zCRJ17C7v0) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K) | [Sunrise](https://open.spotify.com/album/6vVcYDuLnPxT7OfXK4Xa2l) | 2:59 | 2022-03-18 | 2022-04-20 |
-| [Sunsets With You](https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sunsets With You](https://open.spotify.com/album/6a3OAugRshmqyRyDZ6FVgP) | 3:48 | 2021-08-06 |  |
+| [Sunsets With You](https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sunsets With You](https://open.spotify.com/album/6a3OAugRshmqyRyDZ6FVgP) | 3:48 | 2021-08-06 | 2023-02-18 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2021-08-06 |  |
 | [Sylph Fossil](https://open.spotify.com/track/7mjqpvqJx68FS35V33fzoy) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Sylph Fossil](https://open.spotify.com/album/5YMnVaqdzECERamDHuI8JQ) | 5:30 | 2021-08-06 | 2022-04-21 |
 | [Synth Grass](https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [Synth Grass](https://open.spotify.com/album/40C56PM2hPldlAxI8zSsSS) | 3:04 | 2021-08-06 | 2023-02-04 |

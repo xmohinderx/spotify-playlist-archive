@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Almost True",
+        "url": "https://open.spotify.com/album/1sAr27DfSgZwLSSv2G0byK"
+      },
+      "artists": [
+        {
+          "name": "Janet Evra",
+          "url": "https://open.spotify.com/artist/0NTdVSX455k116Wpsv7Kl1"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180094,
+      "name": "Almost True",
+      "url": "https://open.spotify.com/track/4w52RAqrs2KipmS8b2PByU"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK"
       },
@@ -682,6 +704,28 @@
       "duration_ms": 146797,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/5fnjz2gnBth73KZE7wbyUX"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/0iFfWrk8r0RbucOIso5pbu"
+      },
+      "artists": [
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        },
+        {
+          "name": "Alexander Claffy",
+          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319040,
+      "name": "Are You Experienced",
+      "url": "https://open.spotify.com/track/4SWiB0euITeK3LQg4DTgQM"
     },
     {
       "album": {
@@ -1952,7 +1996,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 138706,
       "name": "Comment Allez Vous",
       "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
@@ -5169,6 +5213,32 @@
     },
     {
       "album": {
+        "name": "It's Only a Paper Moon",
+        "url": "https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p"
+      },
+      "artists": [
+        {
+          "name": "Claire Martin",
+          "url": "https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh"
+        },
+        {
+          "name": "Scott Dunn",
+          "url": "https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265706,
+      "name": "It's Only a Paper Moon",
+      "url": "https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI"
+    },
+    {
+      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo"
       },
@@ -5292,7 +5362,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 385367,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/1IfT79sqApOwi1AgEqJAKm"
@@ -6700,7 +6770,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 104998,
       "name": "My Parade",
       "url": "https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5"
@@ -7800,7 +7870,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 284186,
       "name": "Send For Me",
       "url": "https://open.spotify.com/track/0XgKeg2rv7UFkqWlepL0XO"
@@ -7946,6 +8016,24 @@
       "duration_ms": 261614,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/4h81nhqJF8r4Fx6DXSecYF"
+    },
+    {
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "album": {
@@ -8736,6 +8824,28 @@
       "duration_ms": 224320,
       "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
+    },
+    {
+      "album": {
+        "name": "Tea For Two",
+        "url": "https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20"
+      },
+      "artists": [
+        {
+          "name": "Hailey Brinnel",
+          "url": "https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d"
+        },
+        {
+          "name": "Terell Stafford",
+          "url": "https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W"
     },
     {
       "album": {
@@ -9844,7 +9954,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 190515,
       "name": "Try! - Edit",
       "url": "https://open.spotify.com/track/2qhqdtCPrspEhe0mw6gXbA"

@@ -1,13 +1,29 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 102526,
+  "num_followers": 102654,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwODgwMCwwMDAwMDAwMDI1MDg4MDljOWQ5NTlmODgxYmI2YmU2ODJhNDc5NzBl",
+  "snapshot_id": "MTY3NjY1NjgxNiwwMDAwMDAwMDFmMjk5OWFmYzg0MTAyNmE1OWNjZDIxMmIxMzdmYzY5",
   "tracks": [
+    {
+      "added_at": "2023-02-17 18:00:16",
+      "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Su Majestad La Eternidad",
+      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
+    },
     {
       "added_at": "2022-01-28 15:52:04",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Est\u00e1s Dormida",
+        "url": "https://open.spotify.com/album/0z9NFb3G6T8O35iubt1hAo"
+      },
+      "artists": [
+        {
+          "name": "Rock And Lovers",
+          "url": "https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Est\u00e1s Dormida",
+      "url": "https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -301,22 +333,6 @@
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
-      "added_at": "2022-09-28 23:12:04",
-      "album": {
-        "name": "Flotador",
-        "url": "https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6"
-      },
-      "artists": [
-        {
-          "name": "Los Flakos",
-          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
-        }
-      ],
-      "duration_ms": 197077,
-      "name": "Luciana",
-      "url": "https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs"
-    },
-    {
       "added_at": "2022-03-28 23:13:25",
       "album": {
         "name": "Inevitable",
@@ -413,22 +429,6 @@
       "url": "https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98"
     },
     {
-      "added_at": "2022-09-28 23:12:04",
-      "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 305413,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR"
-    },
-    {
       "added_at": "2022-01-28 15:52:04",
       "album": {
         "name": "Defecto Perfecto",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
     },
     {
-      "added_at": "2022-03-11 04:12:13",
-      "album": {
-        "name": "Vuelve a Querer",
-        "url": "https://open.spotify.com/album/5ePVvhh7X6TpFuYhXQaODp"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 237108,
-      "name": "Vuelve a Querer",
-      "url": "https://open.spotify.com/track/1WxGvAfNFESFwjrBpSEk7I"
-    },
-    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Haw\u00e1i (Post-Punk)",
@@ -491,22 +475,6 @@
       "duration_ms": 208702,
       "name": "Haw\u00e1i (Post-Punk)",
       "url": "https://open.spotify.com/track/6QuHQ5AVWQwuO4Xssh7yz7"
-    },
-    {
-      "added_at": "2022-03-11 04:52:53",
-      "album": {
-        "name": "Tauro Con Leo",
-        "url": "https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Tauro Con Leo",
-      "url": "https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3"
     },
     {
       "added_at": "2022-01-28 15:52:04",
@@ -721,22 +689,6 @@
       "url": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
     },
     {
-      "added_at": "2022-11-25 00:42:25",
-      "album": {
-        "name": "Orbitando",
-        "url": "https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL"
-      },
-      "artists": [
-        {
-          "name": "Neptuna",
-          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
-        }
-      ],
-      "duration_ms": 327500,
-      "name": "Vor\u00e1gine",
-      "url": "https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ"
-    },
-    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Amador",
@@ -869,38 +821,6 @@
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
     },
     {
-      "added_at": "2022-03-11 04:16:08",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
-    },
-    {
-      "added_at": "2022-04-26 01:32:23",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Alma En Fuego",
@@ -915,22 +835,6 @@
       "duration_ms": 257240,
       "name": "Como Un Sol",
       "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
-    },
-    {
-      "added_at": "2022-04-26 02:05:51",
-      "album": {
-        "name": "Sobre Natural",
-        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Sobre Natural",
-      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
     },
     {
       "added_at": "2022-01-28 15:52:04",
@@ -1409,22 +1313,6 @@
       "url": "https://open.spotify.com/track/187MoZm4r1N74DjImP9v3x"
     },
     {
-      "added_at": "2022-08-13 00:27:41",
-      "album": {
-        "name": "Como Quiero Que Me Quieras",
-        "url": "https://open.spotify.com/album/3xTH9gNXwR0KJgkEKEP7Si"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "Como Quiero Que Me Quieras",
-      "url": "https://open.spotify.com/track/71NIlviM9agiffcoqAVKE1"
-    },
-    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Murasaki",
@@ -1495,22 +1383,6 @@
       "duration_ms": 234866,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
-    },
-    {
-      "added_at": "2022-08-13 00:23:30",
-      "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS"
     },
     {
       "added_at": "2022-04-26 02:05:51",
@@ -1707,22 +1579,6 @@
       "duration_ms": 157391,
       "name": "Alucinante",
       "url": "https://open.spotify.com/track/7gkw2rnb9fr0jFibCEjeTK"
-    },
-    {
-      "added_at": "2022-01-28 15:52:04",
-      "album": {
-        "name": "Ciclo Vol. I",
-        "url": "https://open.spotify.com/album/3yFhGVb5lE3KHRg4jHUoIh"
-      },
-      "artists": [
-        {
-          "name": "URSS Bajo el \u00c1rbol",
-          "url": "https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Ignis",
-      "url": "https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx"
     },
     {
       "added_at": "2022-01-28 15:52:04",

@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: Dende. Updates every Wednesday.",
-  "num_followers": 185356,
+  "num_followers": 185452,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDA1NywwMDAwMDAwMDJjYTQ4OWYwNWJkZjZjNzM3ZWFkNWVhNGFiMjA0NTQy",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDg0NjdjNTkyMWM1MGRiM2QwOTQ5OWIwMzk5NDMxOTZj",
   "tracks": [
     {
       "added_at": "2023-02-15 18:00:57",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Home Stu freestyle",
+        "url": "https://open.spotify.com/album/0gl7m5QowpJCwO9Hg9SFgl"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 150055,
+      "name": "Home Stu freestyle",
+      "url": "https://open.spotify.com/track/2xSRynRiyPQW37j55OjvSb"
+    },
+    {
       "added_at": "2023-02-15 18:00:57",
       "album": {
         "name": "Holy Matrimony",
@@ -59,6 +75,42 @@
       "duration_ms": 212891,
       "name": "Holy Matrimony",
       "url": "https://open.spotify.com/track/7epsNaprQlgiZKNJeUwvKk"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/1YzZ7Ixf0uQrQ3xWcZf9S5"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 209590,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/5fHomLj0NEDhtQyfnkxTAG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-02-15 18:00:57",

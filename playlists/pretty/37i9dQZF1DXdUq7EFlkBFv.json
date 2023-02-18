@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 4410,
+  "num_followers": 4440,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGNhOTcwMDgyMTdjOTc2NzI1MjAzZDFlYTg0OWU4YjU0",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGIzYzc1OTRhMGUzYmQyYTM4YWFmMTA4N2Q2NjJiODA3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Relentless (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
+      },
+      "artists": [
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Relentless (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 165924,
       "name": "Movie",
       "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Relentless (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
-      },
-      "artists": [
-        {
-          "name": "Booka600",
-          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Relentless (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
     },
     {
       "added_at": "2022-10-01 16:17:17",

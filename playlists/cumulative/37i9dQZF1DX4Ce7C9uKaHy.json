@@ -1710,10 +1710,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-18",
       "duration_ms": 117240,
       "name": "Please Don't Say Goodbye",
       "url": "https://open.spotify.com/track/72zJx1CWNTbD78Ziu0UGjk"
+    },
+    {
+      "album": {
+        "name": "Luminaries",
+        "url": "https://open.spotify.com/album/0v0sVgY6YqzCgztknGMYIJ"
+      },
+      "artists": [
+        {
+          "name": "Kohai",
+          "url": "https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117240,
+      "name": "Please Dont Say Goodbye",
+      "url": "https://open.spotify.com/track/16krYiXZGkxkEeQkTdqZYw"
     },
     {
       "album": {

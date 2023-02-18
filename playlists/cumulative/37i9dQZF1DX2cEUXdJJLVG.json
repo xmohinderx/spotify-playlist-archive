@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn"
+      },
+      "artists": [
+        {
+          "name": "City Park",
+          "url": "https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
       },

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-522 songs - 1 day 9 hr 30 min
+524 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2021-11-10 |  |
 | [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2021-06-23 | 2021-08-25 |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-05-13 | 2021-10-16 |
+| [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 | 2023-02-17 |  |
 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 | 2021-06-23 |  |
 | [Cloudy Day](https://open.spotify.com/track/13teDpR5PDCELyacIqneXd) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Cloudy Day](https://open.spotify.com/album/68vJq1SyBGQUPqNAyxdct3) | 2:37 | 2021-07-09 | 2022-04-15 |
 | [Coara](https://open.spotify.com/track/1T8MbIsGETrnZjOYZq1LXk) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Rooftops](https://open.spotify.com/album/56PAoGMrDmfqE4Iiwa6VB4) | 5:00 | 2020-10-20\* | 2021-01-07 |
@@ -301,6 +302,7 @@
 | [Mr\. Goodvibe](https://open.spotify.com/track/7HMbw6XMm4dnsVJPiGyS1o) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Mr\. Goodvibe](https://open.spotify.com/album/44qkl7E15I7pKULRecEAkx) | 4:28 | 2021-02-12 | 2021-03-25 |
 | [My Watch Is Digital \(Deep Version\) \- Original Mix](https://open.spotify.com/track/6ALxGymp4mxtE4WuVh6543) | [Janno Kekkonen](https://open.spotify.com/artist/5J46iQK8M0siZjmWtIDEX3) | [My Watch Is Digital](https://open.spotify.com/album/0Iw9gj1P5b81uXZOQ2Nd6s) | 7:31 | 2020-12-24 | 2021-03-25 |
 | [Natural High](https://open.spotify.com/track/0yxyUSZkaQUtIMPoFRo93R) | [Second Act](https://open.spotify.com/artist/7vf7XkMalUVtZK11FcOvU1) | [Natural High](https://open.spotify.com/album/5j7iIwdKPce2lPRAdmlmVS) | 7:16 | 2020-10-20\* | 2020-12-24 |
+| [Neon Love](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Neon Love](https://open.spotify.com/album/0QCuvZuYN0e13rpWQlOlbd) | 2:50 | 2023-02-17 |  |
 | [Neptunus](https://open.spotify.com/track/6lXmtXT47uFZ4CQndLQWnO) | [Joel Forsberg](https://open.spotify.com/artist/5L3kqpAo1Qmae2kEmBRU8R) | [Neptunus](https://open.spotify.com/album/4yrK6AaPtUWPAcrwT7fAyh) | 6:43 | 2021-02-24 | 2021-03-25 |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2020-10-20\* | 2021-03-25 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-23 | 2021-10-16 |

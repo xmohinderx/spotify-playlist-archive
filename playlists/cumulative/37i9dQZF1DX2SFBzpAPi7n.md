@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Won Tae Rim\(원태림\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dvwn\(다운\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-455 songs - 1 day 4 hr 3 min
+456 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [embraces 23 \(a shitty love song\)](https://open.spotify.com/track/4TZ3i7Ygmz1CwMpRX7FP0s) | [Asian Boys, Crying](https://open.spotify.com/artist/7v4aEnk9ERqYtpyGWsq28R) | [embraces 23 \(a shitty love song\)](https://open.spotify.com/album/3yX7O3n5VurkIJfTlJ5paf) | 4:30 | 2022-07-08 | 2022-07-22 |
 | [Empty](https://open.spotify.com/track/7s8nB4MpDIzwOdQZCOnDid) | [Simple Pages](https://open.spotify.com/artist/6XrO8Asxs9JhvyqGevLbFe) | [Empty](https://open.spotify.com/album/3fASRh16bMr1G12LqAGC3F) | 3:48 | 2022-07-04 | 2022-07-09 |
 | [End of Spring](https://open.spotify.com/track/6iYlLt7gqJh8g8MDZR0Vmz) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:29 | 2022-04-12 | 2022-07-14 |
-| [Eternity](https://open.spotify.com/track/2upOuHQqds86ZoMr8ctv7I) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Eternity](https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1) | 3:19 | 2023-02-10 |  |
+| [Eternity](https://open.spotify.com/track/2upOuHQqds86ZoMr8ctv7I) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Eternity](https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1) | 3:19 | 2023-02-10 | 2023-02-18 |
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
@@ -152,6 +152,7 @@
 | [Hey Buddy](https://open.spotify.com/track/3M8wH1NBH8dwXtPA15a8kf) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Hey Buddy](https://open.spotify.com/album/2HDFYIbqGYdkTNEl0gPrn3) | 2:47 | 2022-06-13 | 2022-06-19 |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-04-21 | 2022-07-28 |
 | [High Teen Star 하이틴 스타](https://open.spotify.com/track/0h82aIPBXFlt7zHIgDslkP) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [High Teen Star 하이틴 스타](https://open.spotify.com/album/6Cyv09QDAHZkvyd6ThE0YE) | 2:57 | 2022-05-24 | 2022-05-26 |
+| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 |  |
 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 | 2022-08-18 | 2022-09-06 |
 | [Highway](https://open.spotify.com/track/6g90q5OxuYT6FY5POVLbII) | [Boyz\_moon](https://open.spotify.com/artist/5aAxIm2TceztaZpbQnrxtB) | [22.5 Night&Day](https://open.spotify.com/album/4GurrYb465ebuulUNrGOP4) | 3:10 | 2022-04-22 | 2022-05-12 |
 | [Highway](https://open.spotify.com/track/3HuvkpFoG2ZjIbJ5l7XDYW) | [Macguffin](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [Highway](https://open.spotify.com/album/2KDtUanUM8jVd9jeIzYZGk) | 4:14 | 2022-04-12 | 2022-07-29 |

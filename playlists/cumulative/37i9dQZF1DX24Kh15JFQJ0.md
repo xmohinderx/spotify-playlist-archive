@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-173 songs - 10 hr 6 min
+174 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Strawberry Wine \- 2021 Version](https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Did I Shave My Legs For This? \(25th Anniversary Edition\)](https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL) | 5:19 | 2021-11-05 |  |
 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 | 2022-09-02 |  |
 | [Take It to the Bank](https://open.spotify.com/track/4bP7A6zIgLqCr6c99dktyv) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [All American Texan](https://open.spotify.com/album/0lQ8btmxplIW9B8vVGHOti) | 5:15 | 2021-10-15 |  |
+| [Tennessee Is A Great State Of Mine](https://open.spotify.com/track/6GbKzazubOXElqLC1wNFU3) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Tennessee Is A Great State Of Mine](https://open.spotify.com/album/65BnbeywsIzrzfkgmGeGl7) | 2:54 | 2023-02-17 |  |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
 | [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 | 2023-01-28 |
 | [The Highway](https://open.spotify.com/track/2bjsDs1YVpwRPXDbf5UpXZ) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/3DMTMBOqY8QrlV0TJP6moQ) | 3:29 | 2023-01-20 |  |
