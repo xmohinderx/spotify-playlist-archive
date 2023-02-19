@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,743 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,761 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 93 | [Ma chérie](https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ma chérie](https://open.spotify.com/album/1ImQaimhAPnEMnvpetjoFm) | 2:55 |
 | 94 | [YOU AIN’T SH\*T](https://open.spotify.com/track/11C6oogsCUq1RCmyvffWG3) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [WHO HURT YOU?](https://open.spotify.com/album/3RkQPZmpvcKewczRQVBofy) | 2:30 |
 | 95 | [Silhouettes](https://open.spotify.com/track/1YJViEPVKRE1NBHDZIlK0K) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Silhouettes](https://open.spotify.com/album/5fGo8a8P4IOOiZajwcBIuG) | 4:43 |
-| 96 | [Still](https://open.spotify.com/track/7a1JIO7l9uXFgQbhFveIwN) | [Mattis](https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK), [Joel](https://open.spotify.com/artist/6VWPDIlZoObODXxhUvu0S1) | [Still](https://open.spotify.com/album/657kfB5ri4lJpTYQ3zf5B9) | 3:22 |
+| 96 | [Still](https://open.spotify.com/track/7a1JIO7l9uXFgQbhFveIwN) | [Mattis](https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK), [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Still](https://open.spotify.com/album/657kfB5ri4lJpTYQ3zf5B9) | 3:22 |
 | 97 | [toxic/fake news](https://open.spotify.com/track/50wkx9cseZ3hcyn1r14suX) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [toxic/fake news](https://open.spotify.com/album/7FdazFfWzlvarLVxT5RIO7) | 2:37 |
 | 98 | [Frysen](https://open.spotify.com/track/0slNolzpvcVfK1wsjj1G6C) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Frysen](https://open.spotify.com/album/5ecDxpto1rL2SnFwqWOYtg) | 1:57 |
 | 99 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |

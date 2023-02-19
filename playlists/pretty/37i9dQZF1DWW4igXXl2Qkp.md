@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Wizz Havinn
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,843 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,893 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 8 | [Not Done](https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Not Done](https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC) | 2:36 |
 | 9 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 | 10 | [AL Roker](https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [AL Roker](https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr) | 1:40 |
-| 11 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [Official Breezy](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
+| 11 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
 | 12 | [Trust Fund](https://open.spotify.com/track/5qUHj7OWz9kkViP6DaELEc) | [Llainwire](https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA) | [Trust Fund](https://open.spotify.com/album/51iB1U1CKjjelyP3ZE8oje) | 1:41 |
 | 13 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 14 | [My Way](https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW) | [NDO Dee](https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ) | [My Way](https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras) | 1:48 |

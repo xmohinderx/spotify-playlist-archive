@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,535 likes - 85 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,582 likes - 85 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 55 | [One \- PARIS Remix](https://open.spotify.com/track/5nlFzzKbPXZ77b2RB2FtSQ) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Eternal Existence Remixes](https://open.spotify.com/album/4tPD6a1BZzueQOHsXxfIcS) | 7:14 |
 | 56 | [Quadrant Dub II](https://open.spotify.com/track/3YMuK4hHy4Q7Y3NhKjaCd4) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Quadrant Dub](https://open.spotify.com/album/42nhTxeaxPiqdi6VHBz08f) | 20:56 |
 | 57 | [All That She Really Wants](https://open.spotify.com/track/5pQ3yKsIUGe3xDFutIK3Je) | [Fountain Child](https://open.spotify.com/artist/1UifhAK78Uo7DBcS57RmxA) | [When Our Horizons Merge](https://open.spotify.com/album/6HSULkIknpMBfLNPTgSXoM) | 4:03 |
-| 58 | [Giving Up \- Extended Version](https://open.spotify.com/track/2hOLCovzbfRlAEj9hweFa0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 4:36 |
+| 58 | [Giving Up \- Extended Version](https://open.spotify.com/track/2hOLCovzbfRlAEj9hweFa0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 4:36 |
 | 59 | [Runaway](https://open.spotify.com/track/2tpo3LmvFDctdhKvG8IH9L) | [Dark Arts Club](https://open.spotify.com/artist/278NquiotF0KMM4TcoaPyA), [Shania](https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG) | [Runaway](https://open.spotify.com/album/51kW1uoiG0SKKkLooLseel) | 4:39 |
 | 60 | [Kamo Eagle](https://open.spotify.com/track/16wKyXIEp0cQjLmxXifA8k) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/4NbXqLwluwiNPhWMCZdYXq) | 6:51 |
 | 61 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |

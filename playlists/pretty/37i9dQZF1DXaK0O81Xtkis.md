@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,212 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,218 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 10 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 |
 | 11 | [Can't Get Enough](https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Can't Get Enough](https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ) | 3:26 |
 | 12 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 |
-| 13 | [Waste Your Time](https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7) | 3:01 |
+| 13 | [Waste Your Time](https://open.spotify.com/track/1OYWoqq19KO8IhXpQ4HTys) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/3FOX9TnBKrJDTmvrRusZWk) | 3:01 |
 | 14 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 |
 | 15 | [Gold Rush](https://open.spotify.com/track/14hZlv0RnqQGFAhLdEJpWR) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Gold Rush](https://open.spotify.com/album/6SV9jJwVtwhTg6sHClkXqi) | 2:36 |
 | 16 | [ANOTHER REASON](https://open.spotify.com/track/0zAOoupjXIJjoS6YX85wg9) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [ANOTHER REASON](https://open.spotify.com/album/39QDXQ4KXhQpu0wtnGJO4N) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 79 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 |
 | 80 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDc4NjYzYjQwYTIzMGMyNTAwYjhmNmQ3OTZjNTZiZDIx`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDdhNjY2MjJmZTNjMTM3OGZlOTc2MTJhZmIwNTEzMDcy`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6nc9KYeHHP.md) - [plain]
 
 > The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 16 songs - 58 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 16 songs - 58 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rio \- Mixed](https://open.spotify.com/track/6YtCwzd0oMkZ5ZLZAX86wd) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Rio \(Mixed\)](https://open.spotify.com/album/11wKv1b4BfQtVZA3u54tQt) | 6:43 |
-| 2 | [Essenza \- Mixed](https://open.spotify.com/track/1byCTTthjJefJqTexfW87T) | [Andy Bros](https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj) | [Essenza \(Mixed\)](https://open.spotify.com/album/2KuPn7RxeM1cjpQXz7ULv0) | 3:52 |
+| 2 | [Essenza \- Mixed](https://open.spotify.com/track/0p4k5BsW4v8jzp6zFmqd6w) | [Andy Bros](https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj) | [Essenza \(Mixed\)](https://open.spotify.com/album/4wYFsyL1zMMVzntzWLvNMT) | 3:52 |
 | 3 | [Denovo \- Mixed](https://open.spotify.com/track/5PMN4rS3Wacd137lp8MrE5) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Denovo \(Mixed\)](https://open.spotify.com/album/7qXQTUlLnlcb7hdbmGY7BJ) | 5:55 |
 | 4 | [Transit \- Extended Mix \- Mixed](https://open.spotify.com/track/0vAkwqBfPgaxMDabSkoGj2) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Transit \- Extended Mix \(Mixed\)](https://open.spotify.com/album/3rPBLn5oszUN1ep5QY8A6X) | 2:36 |
 | 5 | [Close Your Eyes \- Spotify Singles \- Mixed](https://open.spotify.com/track/1PnF5e1zjT02YSktTeSLZT) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Close Your Eyes \- Spotify Singles \(Mixed\)](https://open.spotify.com/album/1d9DdtynXjLzp0Z6IcrcPi) | 1:34 |
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6nc9KYeHHP.md) - [plain]
 | 15 | [Rhythm Is A Mystery \- Harry Romero Remix \- Mixed](https://open.spotify.com/track/27rQaNvO0HmH3WGlhO2pS4) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Bobbi Depasois](https://open.spotify.com/artist/32Rz0w4lU6OgXucbf5CYJA), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Rhythm Is A Mystery \- Harry Romero Remix \(Mixed\)](https://open.spotify.com/album/7JQP3F2CgWfbN6vo1BwA7Q) | 4:08 |
 | 16 | [All In A Dream \- Extended Mix \- Mixed](https://open.spotify.com/track/6bPdrG7oA8aRDt7BesExDk) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All In A Dream \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2CPvmt3xxtf2mk2BMCwzcf) | 4:30 |
 
-Snapshot ID: `MTY1OTA2MTc3MCwwMDAwMDAwMDNhZjY3ZjM5MDliMjkxMzY3YjcxYTY0ODM4NmYxZWY5`
+Snapshot ID: `MTY1OTA2MTc3MCwwMDAwMDAwMGE0YzdmZDcxZjM2Mjg1NTExOWUwMmVhNmZlOGM2MjQx`

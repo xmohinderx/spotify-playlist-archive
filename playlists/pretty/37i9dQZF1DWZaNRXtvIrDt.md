@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Pretty Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,378 likes - 70 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,385 likes - 70 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 56 | [In The Balance](https://open.spotify.com/track/1QCCuMxbBgvcAR9KuN4n1q) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [In The Balance](https://open.spotify.com/album/7vL0WlFxuztuXUl0hTcMFG) | 3:06 |
 | 57 | [Everything We Stand For](https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [The Sound of Supercharged](https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw) | 5:31 |
 | 58 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 |
-| 59 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 59 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 60 | [Pure Puma](https://open.spotify.com/track/6rKWRfzVmSkW4EyuuwjQsy) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Pure Puma](https://open.spotify.com/album/59IfvGrW8KSsw0wNHAYGL0) | 4:21 |
 | 61 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 |
 | 62 | [Cyber](https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd) | [Echomatics](https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0) | [Move On](https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB) | 5:08 |

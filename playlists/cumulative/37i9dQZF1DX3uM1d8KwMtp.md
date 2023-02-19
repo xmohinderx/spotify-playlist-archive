@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-88 songs - 9 hr 21 min
+89 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Ya Rababa](https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Toufic Hatem](https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH) | [Ya Rababa](https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe) | 5:48 | 2022-12-02 |  |
 | [Yeke Yeke](https://open.spotify.com/track/7LjswiwJTEq6wXKqf8Yb05) | [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Yeke Yeke](https://open.spotify.com/album/1jxV6S1BJMXHH3OltagbjH) | 6:03 | 2022-08-24 | 2022-10-14 |
 | [Your Voice](https://open.spotify.com/track/1PdrKQaDMQNS02ICL8DYe1) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Your Voice](https://open.spotify.com/album/13czSpTI2okjVxVQxnTpK2) | 5:55 | 2022-09-12 |  |
-| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2023-02-03 |  |
+| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2023-02-03 | 2023-02-19 |
+| [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-03 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

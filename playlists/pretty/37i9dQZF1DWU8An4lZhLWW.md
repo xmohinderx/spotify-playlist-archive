@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 33 | [New Avengers \- Avengers: Age of Ultron](https://open.spotify.com/track/1fNwvHEncsLvhwEKmzlO6S) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP) | 3:09 |
 | 34 | [Marvel Studios Fanfare \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 0:30 |
 | 35 | [Theme \(from "Spider Man"\) \[Original Television Series\]](https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Homecoming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1) | 0:39 |
-| 36 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 |
+| 36 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 |
 | 37 | [Civil War](https://open.spotify.com/track/5UUZRLyBE80HsJWmnLM7A4) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: Civil War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo) | 4:25 |
 | 38 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 |
 | 39 | [Task Force X](https://open.spotify.com/track/5cbLjpz9mPdlWzukPaxn6N) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Suicide Squad \(Original Motion Picture Score\)](https://open.spotify.com/album/54ELeWTUyq31j9N9rVo3BM) | 4:53 |

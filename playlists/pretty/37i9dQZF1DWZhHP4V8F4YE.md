@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 11 | [Tholakele](https://open.spotify.com/track/26pSSuwELDV4ikeaPXlQUK) | [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [King P](https://open.spotify.com/artist/7lZJ33PMoiILkDF6GbtABV), [Augusto Mawts](https://open.spotify.com/artist/3SYdUW99Si1khPTDsqAfak), [Bazy](https://open.spotify.com/artist/7jqE9IDEirWQ51l4X7B4pA), [Lil Kay](https://open.spotify.com/artist/6mlSAtVgaNvYQdQDRcbAN4) | [Tholakele](https://open.spotify.com/album/0iX9NozhaNwK863W4jRDOo) | 6:08 |
 | 12 | [Yah Yah Yah](https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf) | [Officixl Rsa](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv), [Mid9t](https://open.spotify.com/artist/0QIXdhRqhubzc9fgjYlvLa), [Benzoo](https://open.spotify.com/artist/7oMxieZqbSWpmWeVv4QaVg), [De\-papzo](https://open.spotify.com/artist/5HHyxRfKVky4jPQxZvLsdz), [Papiino SA](https://open.spotify.com/artist/7DlWn0sWkaYRmqusFRRorO) | [Yah Yah Yah](https://open.spotify.com/album/049CUiOwm0c2upULQptlDb) | 7:09 |
 | 13 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 |
-| 14 | [I Will Pray](https://open.spotify.com/track/4XPNSUGJft8KJ40wVEtHb5) | [Ebuka Song](https://open.spotify.com/artist/23kxAjAjy5w1uG6LifycD8) | [I Will Pray](https://open.spotify.com/album/2WmYG1nAJKgRY6Vvyq46Lf) | 2:50 |
+| 14 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 |
 | 15 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 16 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 |
 | 17 | [Okalumu Mma](https://open.spotify.com/track/7GLRqZ6OsEYqSNzTm8EmjE) | [2weird](https://open.spotify.com/artist/1bLMyEwun62Eqb2JSaKP6G) | [Letter To Small Sleeky In Heaven](https://open.spotify.com/album/52qOc5I4l86zPk3xjWvoZB) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 |
 | 50 | [As'Buyi](https://open.spotify.com/track/664758AecJTVoRYG9WtMMm) | [Sundé](https://open.spotify.com/artist/60kr2EOKIQC7t0KaK5KXvc), [ColKaze](https://open.spotify.com/artist/6BwaUlIzPKTS7LBXYBUub0) | [As'Buyi](https://open.spotify.com/album/3YXyhlW4X9nAUcqxHtsAXW) | 7:48 |
 
-Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDhiNmYxOTFhYWY3ZWMyY2Q2YTMzMDNhMWU0MWY4NzYy`
+Snapshot ID: `MTY3NjM4ODgxMCwwMDAwMDAwMDg4ZGNkOTFjMmZlZGE2OWU5ZTJjOWMzMDgzZDY5YjIw`

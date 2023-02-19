@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: LIT Killah
 
-161 songs - 8 hr 27 min
+162 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [KUNG FU](https://open.spotify.com/track/4vEa6UHHIWz2Zjn58OzYDa) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [KUNG FU](https://open.spotify.com/album/23y2x6h8FGIO6oXx44fVq9) | 2:57 | 2023-01-27 |  |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-06-06 |  |
 | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh) | 2:50 | 2022-03-22 | 2022-04-29 |
-| [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 | 2022-06-23 |  |
+| [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 | 2022-06-23 | 2023-02-19 |
+| [La Tarde](https://open.spotify.com/track/7iMbt608G8Ez3SgusVoaYx) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/3sVeCZYLHgTt7mcVyVWgb2) | 3:01 | 2023-01-27 |  |
 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-25 |  |
 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-07-14 |  |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-03-22 | 2022-04-29 |

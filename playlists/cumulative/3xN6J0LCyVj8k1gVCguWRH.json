@@ -13949,6 +13949,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2gU01HfudOWI5mSEn9ScYk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Filgueiras",
+          "url": "https://open.spotify.com/artist/281ikHaYt7YeM1Em2besIw"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264081,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6LPuLDchQqhsDV4fbo5lCR"
+    },
+    {
+      "album": {
         "name": "Rough and Rowdy Ways",
         "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
       },

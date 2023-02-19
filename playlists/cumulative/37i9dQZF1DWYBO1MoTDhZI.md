@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-531 songs - 1 day 4 hr 48 min
+532 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,8 @@
 | [Warm Fire Lightning \(Flip\)](https://open.spotify.com/track/447cuOH8DHy18QtQHzcbgc) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Satellite Mode](https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij) | [Warm Fire Lightning \(Flip\)](https://open.spotify.com/album/0ZTPTUa79TCxkaK0BJXZiG) | 3:31 | 2019-09-05\* | 2020-09-18 |
 | [Warpaint](https://open.spotify.com/track/2QIvCZTFVnky13XShl1zWJ) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Warpaint](https://open.spotify.com/album/4C5dMvS50J3Oo2k6kyREM2) | 3:33 | 2019-09-05\* | 2021-08-28 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-03-28 | 2022-07-09 |
-| [Waste Your Time](https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7) | 3:01 | 2023-02-10 |  |
+| [Waste Your Time](https://open.spotify.com/track/1OYWoqq19KO8IhXpQ4HTys) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/3FOX9TnBKrJDTmvrRusZWk) | 3:01 | 2023-02-17 |  |
+| [Waste Your Time](https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7) | 3:01 | 2023-02-10 | 2023-02-19 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-04-19 | 2022-10-22 |
 | [Wave of You](https://open.spotify.com/track/0KfNomDfIkM7suIHb105Oi) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:33 | 2021-07-01 | 2021-10-05 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 |  |

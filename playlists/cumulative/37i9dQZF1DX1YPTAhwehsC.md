@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Bizzy Banks
 
-535 songs - 1 day 0 hr 24 min
+536 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [BACH TO BACH \(with Dave East\)](https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [BACH TO BACH](https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0) | 2:54 | 2022-09-23 | 2023-01-14 |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-14 | 2022-02-05 |
 | [Back Out The Knocks](https://open.spotify.com/track/2vB9wFBldFEBvGPWwYmjrY) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [JIIGYONJIIGY](https://open.spotify.com/album/6aXSWYzTacSWV7mtK4Qexc) | 2:08 | 2023-01-13 |  |
-| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [Official Breezy](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-01-20 |  |
+| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-01-20 |  |
 | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/3uTd2Vf1GiVLsxFfzzeSim) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 3:27 | 2022-07-22 | 2022-11-05 |
 | [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-01-08 |
 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 | 2022-11-04 | 2022-12-17 |
@@ -512,6 +512,7 @@
 | [Wash The Dishes](https://open.spotify.com/track/2ijOqX5vRDWSEcOAkRFnIM) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Last Remnants](https://open.spotify.com/album/2I5gEMVij8Z6mEJlItaTrt) | 2:28 | 2022-10-28 | 2023-01-07 |
 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 | 2022-09-02 | 2022-11-12 |
 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 |  |
+| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-18 |  |
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2022-12-09 |  |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2021-12-24 | 2022-03-12 |
 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 | 2022-08-05 | 2022-11-05 |

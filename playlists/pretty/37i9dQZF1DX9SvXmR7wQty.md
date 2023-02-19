@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Marie\-Mai, FouKi, Hamza et Olivier Dion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,007 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,016 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 2 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
 | 3 | [Sadio](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 | 4 | [Toujours un temps](https://open.spotify.com/track/44uTD4MVRTCoIkDHe1LOGg) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Toujours un temps](https://open.spotify.com/album/2V2r1dYB8vujiyb8PHcnWW) | 2:46 |
-| 5 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 |
+| 5 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 |
 | 6 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 |
 | 7 | [Cowboy](https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:21 |
 | 8 | [Codéine 19](https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Fallait Pas](https://open.spotify.com/track/3bA5hwXnmbf7ZfleTkQ4cn) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Fallait Pas](https://open.spotify.com/album/1zsDuNgLg4YdM4jAIHYquP) | 2:52 |
 | 50 | [Soleil des loups](https://open.spotify.com/track/6gkRmf7ppfbNNTXpXSYhwp) | [Beau Nectar](https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH), [Marie\-Clo](https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7), [éemi](https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P) | [Soleil des loups](https://open.spotify.com/album/2FwQG8y5MlKSTWayPmqTzG) | 3:22 |
 
-Snapshot ID: `MTY3NjY2MDU2MCwwMDAwMDAwMGQxYjM3Yjc3NmM0Yzc3NTNiMGQyZjMyMjU2YmFmMjNi`
+Snapshot ID: `MTY3NjY2MDU2MCwwMDAwMDAwMGM1ZGI2YThlOTQ3NzViMGYwZDBmNTc4ODdhMjY0YTgy`

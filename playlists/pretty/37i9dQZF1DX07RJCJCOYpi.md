@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: LIT Killah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,877 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,864 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 48 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
 | 49 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 |
 | 50 | [Stay With Me](https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Stay With Me](https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl) | 3:04 |
-| 51 | [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 |
+| 51 | [La Tarde](https://open.spotify.com/track/7iMbt608G8Ez3SgusVoaYx) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/3sVeCZYLHgTt7mcVyVWgb2) | 3:01 |
 | 52 | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/track/32igAB8n9KMEQkz6jEs5yq) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Iwaro](https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts) | 3:37 |
 | 53 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 |
 | 54 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 79 | [Flex](https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 4:00 |
 | 80 | [Cucu](https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Cucu](https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd) | 3:05 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGQ0NzhlMGM5ZGQwOGE4MGE1NjAzOTIxNzVkMWI1OWRi`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGM1OTY4NDQ3YjYwYjg3YjQxOTRhNjM1NTM0MWI1NDJl`

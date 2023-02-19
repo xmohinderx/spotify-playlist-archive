@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -4659,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
+      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -8186,6 +8204,24 @@
       "duration_ms": 193963,
       "name": "No.2 (with parkjiyoon)",
       "url": "https://open.spotify.com/track/5ky45fGKbzGYilDewlBD6Z"
+    },
+    {
+      "album": {
+        "name": "nobody believes in you, you lost again and again and again",
+        "url": "https://open.spotify.com/album/1sz0dRKsgLmGtmkNGqramz"
+      },
+      "artists": [
+        {
+          "name": "Tirakiss",
+          "url": "https://open.spotify.com/artist/2fyt0Q0BzCypPg07Fi6I8N"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60081,
+      "name": "nobody believes in you, you lost again and again and again",
+      "url": "https://open.spotify.com/track/6xjRfN85FaVkJMcXkqPyhJ"
     },
     {
       "album": {

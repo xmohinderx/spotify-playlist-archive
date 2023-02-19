@@ -4,7 +4,7 @@
 
 > In loving memory of Marie Fredriksson.
 
-77 songs - 5 hr 7 min
+80 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Good Karma](https://open.spotify.com/track/7B0cmoe2K9vOTaYZP8AWP8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:19 | 2020-10-01 |  |
 | [Habla El Corazón \(Listen to Your Heart\)](https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 5:11 | 2020-10-01 |  |
 | [How Do You Do!](https://open.spotify.com/track/2D7GRdSAcRkBsDtXsnjh1v) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:09 | 2022-05-05 | 2022-11-13 |
-| [How Do You Do!](https://open.spotify.com/track/3BK8mbUFbBZ3mI5HE4eqCR) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:09 | 2022-05-05 |  |
+| [How Do You Do!](https://open.spotify.com/track/3BK8mbUFbBZ3mI5HE4eqCR) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:09 | 2022-05-05 | 2023-02-19 |
 | [How Do You Do!](https://open.spotify.com/track/3rfOs6Miteal5wQUdFx8w1) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 3:09 | 2020-10-01 | 2022-07-29 |
+| [How Do You Do!](https://open.spotify.com/track/4Hn14NabX651eOOzsLL8Uc) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 3:09 | 2022-05-05 |  |
 | [It Just Happens](https://open.spotify.com/track/2C2zQXyclwXTaZMJ5OFsmM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:46 | 2020-10-01 |  |
 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 | 2020-10-01 |  |
 | [It's Possible \- Version One Radio Edit](https://open.spotify.com/track/3SFFxUve1VZf8FNQTCrmxT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It's Possible](https://open.spotify.com/album/2vQKf3N26prloq9dQ5Tpai) | 2:34 | 2020-10-01 |  |
@@ -41,9 +42,9 @@
 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 | 2020-10-01 | 2022-07-29 |
 | [Lover Lover Lover](https://open.spotify.com/track/0zM1qpdxZXFw8P64Kxpzfh) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:59 | 2020-10-01 |  |
 | [Milk and Toast and Honey](https://open.spotify.com/track/5zKyU6CL3L0QA2J4jcBzRM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 4:04 | 2020-10-01 |  |
-| [Never Is A Long Time](https://open.spotify.com/track/1Bj9M4ODqlvhQT42tarhbe) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 3:45 | 2022-05-05 | 2022-11-13 |
+| [Never Is A Long Time](https://open.spotify.com/track/1Bj9M4ODqlvhQT42tarhbe) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 3:45 | 2022-05-05 |  |
 | [Never Is A Long Time](https://open.spotify.com/track/1IXnv4cO6Ux36cusZZrk35) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 3:45 | 2020-10-01 | 2022-07-29 |
-| [Never Is A Long Time](https://open.spotify.com/track/2yGYbjVEnivRH6KN87yu5W) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:45 | 2022-05-05 |  |
+| [Never Is A Long Time](https://open.spotify.com/track/2yGYbjVEnivRH6KN87yu5W) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:45 | 2022-05-05 | 2023-02-19 |
 | [No Se Si Es Amor \(It Must Have Been Love\)](https://open.spotify.com/track/1kAJFyicakML1Bjd3Tqt1B) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:42 | 2020-10-01 |  |
 | [Opportunity Nox](https://open.spotify.com/track/7qEX3cgvAK1dULKCnSuKIO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 2:58 | 2020-10-01 |  |
 | [Paint](https://open.spotify.com/track/1Ukp8zQgZL03ZwVhiMtYzo) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:30 | 2020-10-01 | 2022-07-29 |
@@ -59,7 +60,8 @@
 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3GOgvkh0JfVo17FBiPUe87) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School Revisited](https://open.spotify.com/album/1UFaRYryIZM1T3Dxgu2fEt) | 3:34 | 2022-05-05 |  |
 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3nxqafow5BCurvyPaVzH1q) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School](https://open.spotify.com/album/6BcDgENhbFI6CHX2rNnS98) | 3:34 | 2020-10-01 | 2022-07-29 |
 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/5MyqtugXD2gTCDXKVGHM5c) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:34 | 2022-05-05 | 2022-11-14 |
-| [Silver Blue](https://open.spotify.com/track/18TTA9AhwSqIh5WAlwVDXK) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:06 | 2022-05-05 |  |
+| [Silver Blue](https://open.spotify.com/track/18TTA9AhwSqIh5WAlwVDXK) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:06 | 2022-05-05 | 2023-02-19 |
+| [Silver Blue](https://open.spotify.com/track/5Yhiht4kRxSJHgaWt7L5HD) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 4:06 | 2022-05-05 |  |
 | [Silver Blue](https://open.spotify.com/track/7IvJlX1B8GBopPaVORMfBw) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:06 | 2020-10-01 | 2022-07-29 |
 | [Sleeping in My Car \- Single Version](https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:34 | 2020-10-01 |  |
 | [Some Other Summer](https://open.spotify.com/track/6YkGISbmio8Lr5D5NSg3e2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:08 | 2020-10-01 |  |
@@ -71,7 +73,8 @@
 | [The Look](https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:57 | 2022-05-05 |  |
 | [The Look](https://open.spotify.com/track/7akWKDSf4k0Q0AHGoG91hu) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:57 | 2022-05-05 | 2022-11-13 |
 | [The Rain](https://open.spotify.com/track/0pSv1DbIvg3ifHrEuEGdYW) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:49 | 2020-10-01 | 2022-07-29 |
-| [The Rain](https://open.spotify.com/track/52MEUtRBkwR4mjVuU7Rzmo) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:49 | 2022-05-05 |  |
+| [The Rain](https://open.spotify.com/track/52MEUtRBkwR4mjVuU7Rzmo) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:49 | 2022-05-05 | 2023-02-19 |
+| [The Rain](https://open.spotify.com/track/5AvTVvH1XV3y46pgBbAdit) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 4:49 | 2022-05-05 |  |
 | [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:26 | 2020-10-01 |  |
 | [This One](https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:11 | 2020-10-01 |  |
 | [Turn of the Tide](https://open.spotify.com/track/6QsZWMB6zW0DyxNEe8Fc1r) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 4:10 | 2020-10-01 |  |

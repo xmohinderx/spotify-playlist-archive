@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-352 songs - 19 hr 59 min
+353 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [This Moment](https://open.spotify.com/track/5N2HumJKAELVA5fCzvKL0Q) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [This Moment](https://open.spotify.com/album/0i49LwOl5ZKvIBdMh1Kouf) | 3:02 | 2021-05-14 | 2022-07-29 |
 | [Those Days Are Gone](https://open.spotify.com/track/3lca4MeFGxOtgePnb168n3) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl) | [Those Days Are Gone](https://open.spotify.com/album/1ZKAMOLSajYmjRH4ZHCsKK) | 5:04 | 2020-12-08 | 2022-03-26 |
 | [Til' The End](https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI) | [Dupont Brass](https://open.spotify.com/artist/0k65PL08B1OYc76Wlh2hjT) | [Til' The End](https://open.spotify.com/album/1pTYH3a3ZhOWjKWnLrNLC8) | 4:13 | 2020-11-13 | 2022-03-23 |
-| [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 |  |
+| [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |
+| [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-11 | 2023-02-18 |
 | [Tonight](https://open.spotify.com/track/7eKt06H4E9atyWYWmdo7x7) | [Shira Elias](https://open.spotify.com/artist/7oFLqsm4xnhxx9IWS56rKQ) | [Goods the EP](https://open.spotify.com/album/5KVRW2jFTfNdSvW3qPJiyi) | 4:21 | 2021-04-30 | 2022-07-10 |
 | [Too Late](https://open.spotify.com/track/1bN0y9b42huS3Z5UjXXCYN) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Too Late](https://open.spotify.com/album/1FPWduEdg0n8iu5P43zIG3) | 3:28 | 2021-08-13 | 2022-07-28 |

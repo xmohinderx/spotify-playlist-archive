@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Bizzy Banks",
-  "num_followers": 436367,
+  "num_followers": 436466,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDQzOWMwNzc0MGQyMmRhZjRkZTFmMDM0ODBiOTQ3OTYw",
+  "snapshot_id": "MTY3NjY4NjE5OCwwMDAwMDAwMDc0NmQ1NzIyZDFhN2NlY2FlMzdjYjA0MGIxZDQ3YjJi",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -207,6 +207,30 @@
       "duration_ms": 121518,
       "name": "Missiles (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3sL4yIVyLxti0g4Q4KjOHd"
+    },
+    {
+      "added_at": "2023-02-18 02:09:58",
+      "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -544,7 +568,7 @@
       },
       "artists": [
         {
-          "name": "Official Breezy",
+          "name": "BreezyLYN",
           "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
         }
       ],

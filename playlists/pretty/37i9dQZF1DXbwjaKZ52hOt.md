@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,971 likes - 185 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,986 likes - 185 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 41 | [Where Is Thumbkin?](https://open.spotify.com/track/0aW9vnLHiq8UPa6kug942C) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 3: Rockin' with Robby](https://open.spotify.com/album/3YF2ZHfHQIyvMc8eEJ6jBH) | 1:37 |
 | 42 | [Pat\-a\-Cake](https://open.spotify.com/track/4o1E1Hd9szuIUyLKeRG0iU) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes 2](https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4) | 1:09 |
 | 43 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/0fwtBKg98AemijgyaN3xgI) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:16 |
-| 44 | [Ring a Ring A Roses](https://open.spotify.com/track/4AcS6deJXo0cRGMQvWxR8e) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:12 |
+| 44 | [Ring a Ring A Roses](https://open.spotify.com/track/13OVhfsEwEWZNE9pm5OhiN) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:12 |
 | 45 | [Hush Little Baby](https://open.spotify.com/track/09XpPlP8V2SMZ81Qyos9jL) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 2](https://open.spotify.com/album/74OOs3qPkQtCIRR74kmRlh) | 2:14 |
 | 46 | [Home on the Range](https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 2:56 |
 | 47 | [Alice the Camel](https://open.spotify.com/track/5T3lK7MInJBhzfxbP8ut4W) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon Vol.2](https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk) | 1:32 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 150 | [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:58 |
 | 151 | [Did You Ever See a Lassie?](https://open.spotify.com/track/3QIiTl4pJMrcjVnbu2jS5P) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 2:17 |
 | 152 | [Old Woman Who Lived In a Shoe](https://open.spotify.com/track/0S22p30QRkbohImgqvfX6u) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:30 |
-| 153 | [Hey Diddle Diddle](https://open.spotify.com/track/1BppTkk0yGdM6tveLhlIMO) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:29 |
+| 153 | [Hey Diddle Diddle](https://open.spotify.com/track/0NqHM8WCs7xn25VlRxvopC) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:29 |
 | 154 | [There's a Hole in My Bucket](https://open.spotify.com/track/00cGnKPcpjJbWevOA7ipzk) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 2:02 |
 | 155 | [Little Tommy Tucker \- 2014 Version](https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:51 |
 | 156 | [Old MacDonald](https://open.spotify.com/track/6oVVyZjBrHwafZO43XAc45) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN) | 5:56 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 184 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:10 |
 | 185 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:42 |
 
-Snapshot ID: `MTY3NjAyMzIwMCwwMDAwMDAwMDEzMDk2YWZlY2MyYjhjODM3OGEzY2E4YWUxMDcyYjEy`
+Snapshot ID: `MTY3NjAyMzIwMCwwMDAwMDAwMDg1MjE2NTAyY2M4OGM4NDJhOGY5NjFiYjVmZGY0N2Ez`

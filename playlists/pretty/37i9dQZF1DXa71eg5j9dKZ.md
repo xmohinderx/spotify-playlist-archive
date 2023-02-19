@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: SHERELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,885 likes - 124 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,910 likes - 124 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 24 | [Shorty](https://open.spotify.com/track/4wwZS4a7MR2DZIRjq8G5lD) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Shorty](https://open.spotify.com/album/2gxPIKRsVy27zkAPZ4QbZS) | 3:28 |
 | 25 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
 | 26 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
-| 27 | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:55 |
+| 27 | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:40 |
 | 28 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 29 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 30 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 114 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 |
 | 115 | [Fembot Fashion](https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU) | [Fembot Fashion](https://open.spotify.com/album/1VxBZzFSS3333QGfdZ82IT) | 4:48 |
 | 116 | [Gaze At Me](https://open.spotify.com/track/4HjFcknvaFWQNP9rJQngIz) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Gaze At Me](https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6) | 4:48 |
-| 117 | [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 |
+| 117 | [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 |
 | 118 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 119 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 |
 | 120 | [Take Your Time](https://open.spotify.com/track/5D898hh48b15X198JU0DVC) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Take Your Time](https://open.spotify.com/album/33cA6byk0CpaeqecpKzyvw) | 3:16 |

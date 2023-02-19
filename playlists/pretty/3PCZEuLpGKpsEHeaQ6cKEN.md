@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Cedric Gervais
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 284,973 likes - 151 songs - 7 hr 56 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 284,965 likes - 151 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 126 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 127 | [Better Things](https://open.spotify.com/track/54C72WBiGX5leus7p8y418) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [Better Things](https://open.spotify.com/album/1LYnqAYDUa6vsj8IwraI9J) | 2:45 |
 | 128 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
-| 129 | [Rescue Me](https://open.spotify.com/track/1Igtc3dRDZmOBMUPyvZKVa) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 4:27 |
+| 129 | [Rescue Me](https://open.spotify.com/track/1Igtc3dRDZmOBMUPyvZKVa) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 4:27 |
 | 130 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/1r8Y3er5sLDfD9rVFRhhyz) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Hold Me Close \(Vintage Culture Remix\)](https://open.spotify.com/album/4yhwVlnIOdgGmhmbaaCROg) | 3:47 |
 | 131 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 |
 | 132 | [Automatic](https://open.spotify.com/track/6PwJwgie50PSJYiABLgBQb) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 2:44 |

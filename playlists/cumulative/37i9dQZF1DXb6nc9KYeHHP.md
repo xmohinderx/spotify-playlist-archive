@@ -4,7 +4,7 @@
 
 > The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-16 songs - 58 min 19 sec
+17 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Denovo \- Mixed](https://open.spotify.com/track/5PMN4rS3Wacd137lp8MrE5) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Denovo \(Mixed\)](https://open.spotify.com/album/7qXQTUlLnlcb7hdbmGY7BJ) | 5:55 | 2022-07-13 |  |
 | [Discotheque \(Totally Enormous Extinct Dinosaurs Remix\) \- Mixed](https://open.spotify.com/track/6XZPux9ynHPWbnT9JdbQHX) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Discotheque \(Totally Enormous Extinct Dinosaurs Remix\) \[Mixed\]](https://open.spotify.com/album/76M92ux4H3ZXBBf5rl1cVM) | 3:51 | 2022-07-13 |  |
 | [Earn It \- Mixed](https://open.spotify.com/track/4RyRq61JtM3N0hCHw5ATc0) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Earn It \(Mixed\)](https://open.spotify.com/album/57cNLw0IhDxd2jPs4EIH32) | 2:04 | 2022-07-13 |  |
-| [Essenza \- Mixed](https://open.spotify.com/track/1byCTTthjJefJqTexfW87T) | [Andy Bros](https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj) | [Essenza \(Mixed\)](https://open.spotify.com/album/2KuPn7RxeM1cjpQXz7ULv0) | 3:52 | 2022-07-13 |  |
+| [Essenza \- Mixed](https://open.spotify.com/track/0p4k5BsW4v8jzp6zFmqd6w) | [Andy Bros](https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj) | [Essenza \(Mixed\)](https://open.spotify.com/album/4wYFsyL1zMMVzntzWLvNMT) | 3:52 | 2022-07-13 |  |
+| [Essenza \- Mixed](https://open.spotify.com/track/1byCTTthjJefJqTexfW87T) | [Andy Bros](https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj) | [Essenza \(Mixed\)](https://open.spotify.com/album/2KuPn7RxeM1cjpQXz7ULv0) | 3:52 | 2022-07-13 | 2023-02-19 |
 | [I Love to Watch You Dance \(Club Fever Part\. 3\) \- Mixed](https://open.spotify.com/track/5lAZtAI8XTPnVLQ8BL6jpJ) | [Kolombo](https://open.spotify.com/artist/4nZBJZHavxcUzGeK2k6fL9), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Love to Watch You Dance \(Club Fever Part\. 3\) \[Mixed\]](https://open.spotify.com/album/2TItKIKmdnV5V1exMdJjTn) | 2:47 | 2022-07-13 |  |
 | [Inspiratu \- Mixed](https://open.spotify.com/track/2914dKV1at5QUfbzoU0Tja) | [Vita V](https://open.spotify.com/artist/4sZ8Q4ttXnmJWvTObw964P) | [Inspiratu \(Mixed\)](https://open.spotify.com/album/3rgJHiq1x2uZwUSftSXeBq) | 4:39 | 2022-07-13 |  |
 | [Rhythm Is A Mystery \- Harry Romero Remix \- Mixed](https://open.spotify.com/track/27rQaNvO0HmH3WGlhO2pS4) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Bobbi Depasois](https://open.spotify.com/artist/32Rz0w4lU6OgXucbf5CYJA), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Rhythm Is A Mystery \- Harry Romero Remix \(Mixed\)](https://open.spotify.com/album/7JQP3F2CgWfbN6vo1BwA7Q) | 4:08 | 2022-07-13 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 ### [Southern Crosses](https://open.spotify.com/playlist/37i9dQZF1DXd3akpXniJCe)
 
-> Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
+> Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,572 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,602 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MTUyMzg4NzQxMCwwMDAwMDAwMDU3MWRmZmFkNjUxN2QyNDVkYTlmMzNmZTdiYWNkM2Zj`
+Snapshot ID: `MTY3NjcwMDM1MiwwMDAwMDAwMDhjYWIzMjk5ZmMyYjBiZjJjZWVlZjg0NzI3ZDhkZGY5`

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-171 songs - 9 hr 26 min
+172 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 | 2021-12-10 | 2022-07-29 |
 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 | 2021-12-10 |  |
 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 | 2021-12-10 |  |
-| [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-07-22 |  |
+| [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-07-22 | 2023-02-19 |
+| [All Clear](https://open.spotify.com/track/5VRDbvm8OaLHqMu7D9lvw5) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:44 | 2023-02-13 |  |
 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 | 2021-12-10 | 2022-07-29 |
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2021-12-10 | 2023-01-04 |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-10 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Kx5 \(Kaskade, deadmau5\) and Sofi Tukker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,811 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,979 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 88 | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/track/0yZnMCqDkrPVry2nuan3Iz) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/album/6mwA5K6zhb8Zo9O4eFHfpm) | 3:22 |
 | 89 | [Cascade](https://open.spotify.com/track/1foNkayAQyc7VcymZvtH4S) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Cascade](https://open.spotify.com/album/5Xxa4gQ9cyXb96clxOs6uX) | 3:08 |
 | 90 | [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 |
-| 91 | [Pa'Onde Vamos \(feat\. Rayo\)](https://open.spotify.com/track/5mOwvA7MywQmmXwNjdyoc9) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Rayo](https://open.spotify.com/artist/4W0Wo9wq1pqkYrjszT8Q8a) | [Pa'Onde Vamos \(feat\. Rayo\)](https://open.spotify.com/album/4WwmlVmdZpJrOi4bVawujz) | 3:07 |
+| 91 | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/track/5mOwvA7MywQmmXwNjdyoc9) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Rayo Musica](https://open.spotify.com/artist/3zvFWdnryOC5aUkN0XDbwz) | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/album/4WwmlVmdZpJrOi4bVawujz) | 3:07 |
 | 92 | [Don’t Let Me See \- Original Mix Edit](https://open.spotify.com/track/6KOJYBa3biAAheONrVbpvK) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Ray T](https://open.spotify.com/artist/16qLezAXthtabM2KemEN5Q) | [Don't Let Me See](https://open.spotify.com/album/6MYMSmvMJA2HNKjTo9tDWw) | 3:55 |
 | 93 | [Think Big Bitch](https://open.spotify.com/track/2eD6gGqDZ6fBvQyVUOGFrn) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Think Big Bitch](https://open.spotify.com/album/6aSExWApsQwQ2MdwpnUmVs) | 5:39 |
 | 94 | [LOUI3](https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [LOUI3](https://open.spotify.com/album/4HYjJOasl2gNC0Dwyah4o8) | 2:47 |

@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-143 songs - 5 hr 32 min
+144 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,12 @@
 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 | 2022-12-09 |  |
 | [just friends](https://open.spotify.com/track/1MprIFeBCp6gqiexinWCjZ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/6zpKJ0jCROglQiV9ir7pcr) | 2:52 | 2022-12-09 |  |
 | [just friends](https://open.spotify.com/track/5Mn3siu0XehRb9kTEPqotX) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/16Plc6F8ZjKVlaqEkbCKfr) | 2:52 | 2022-09-09 | 2022-12-16 |
+| [Kya Mujhe Pyaar Hai](https://open.spotify.com/track/1JBWN68JZOrEexpXQgwgNy) | [Hani Yadav](https://open.spotify.com/artist/5iyABbvYD8iPKjNRCYG3z3), [Mk Mehra](https://open.spotify.com/artist/3mNRVByc2ZFXpBdQm2wPDa) | [Kya Mujhe Pyaar Hai](https://open.spotify.com/album/4yJrdqmbhE0PFRIJqpSK4O) | 2:33 | 2023-01-18 |  |
 | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/76mGXrB0IiySJaDVePVFB4) | [Dj Vicky Belgaum](https://open.spotify.com/artist/6siFtgDx2JelAyqUsn1JmY) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/2Mx02ZYosQ9v6Fuhfrj1ci) | 3:04 | 2022-09-23 | 2022-10-04 |
 | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/3GJTFYJKyOBuJoWpsfowXe) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/63tA1oIiubxZf1qHKWSQ1V) | 3:39 | 2022-09-09 | 2022-11-19 |
 | [Kya Mujhe Pyaar Hai \- LoFi Flip](https://open.spotify.com/track/4t2xJQmcdjW9YKjIWvWVSi) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \- LoFi Flip](https://open.spotify.com/album/4k3fslSFG7fzltxfCXKzjd) | 3:39 | 2023-01-18 | 2023-02-01 |
 | [Kya Mujhe Pyaar Hai \- Lofi Flip](https://open.spotify.com/track/3Bh3NOzgOPlgJwpGz8P8Dt) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(Lofi Flip\)](https://open.spotify.com/album/5O4fKxZIYBPoIpBPeNGwyO) | 3:39 | 2022-11-11 |  |
-| [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 |  |
+| [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 | 2023-02-19 |
 | [Laaree Chootee](https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO), [Tejas R.H](https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J) | [Laaree Chootee](https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG) | 2:10 | 2022-09-09 |  |
 | [late nights](https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [late nights](https://open.spotify.com/album/3D5cqKAqlXUtVnX4hATADb) | 2:08 | 2022-09-09 |  |
 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mashup](https://open.spotify.com/track/0E2G8f6X9JOUZV7gGzjJjt) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mashup\)](https://open.spotify.com/album/74bHFaG2mbDFNGmqPwOOfB) | 2:59 | 2023-01-18 |  |

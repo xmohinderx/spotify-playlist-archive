@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Los Dynamite en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,207 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,225 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 13 | [Te busqué \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/7aTr5pLgDf1DxeZYZjbxwy) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Te busqué \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/4RSyhG70BwjpUYMpM86OSF) | 6:25 |
 | 14 | [El Corazón Se Te Cerró](https://open.spotify.com/track/5QQ9BimGOGfwhhw84z8bIp) | [Goa](https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh) | [El Diablo También Llora](https://open.spotify.com/album/1etL8XO3ERNDSra8BbGtK7) | 3:33 |
 | 15 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
-| 16 | [Gente Descente](https://open.spotify.com/track/6abwnFtkBR1a6ngvHe5UWz) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Salvaje](https://open.spotify.com/album/7hPfZgGh5lqqSPIyfFtipA) | 3:34 |
+| 16 | [Gente Decente](https://open.spotify.com/track/6abwnFtkBR1a6ngvHe5UWz) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Salvaje](https://open.spotify.com/album/7hPfZgGh5lqqSPIyfFtipA) | 3:34 |
 | 17 | [Sucio y Desprolijo](https://open.spotify.com/track/0T6gj3F46FYqRUGKPyYpSj) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Sucio y Desprolijo](https://open.spotify.com/album/1b2aq9eJwiPZPlUOJz8bgU) | 6:32 |
 | 18 | [Creo que me he perdido algo](https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Creo que me he perdido algo](https://open.spotify.com/album/0NeBPZBBV8okNyKrn6O8ic) | 4:39 |
 | 19 | [Pedagogía](https://open.spotify.com/track/7bEW2XZcaNO3d64q0pir8C) | [Los DelTonos](https://open.spotify.com/artist/0ep7WDZsYAGAQPnpwe7dWt) | [Pedagogía](https://open.spotify.com/album/0xIVPW9ovVVTvjMBmC8vbJ) | 3:47 |

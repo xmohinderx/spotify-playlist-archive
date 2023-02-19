@@ -2,7 +2,7 @@
 
 ### [Songs of Glory](https://open.spotify.com/playlist/37i9dQZF1DWVlWpJblBvap)
 
-> Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
+> Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
 148 songs - 13 hr 40 min
 

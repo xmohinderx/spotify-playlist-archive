@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Nia Archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014,718 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,746 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 62 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 |
 | 63 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 |
 | 64 | [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 |
-| 65 | [I Love Me](https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [I Love Me](https://open.spotify.com/album/4MwQFH45LvWQUdFQbT1cIF) | 3:25 |
+| 65 | [I Love Me \(with Wh0\)](https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [I Love Me](https://open.spotify.com/album/4MwQFH45LvWQUdFQbT1cIF) | 3:25 |
 | 66 | [We Give Thee Honor](https://open.spotify.com/track/0ZNail0sBLDyANc8rboHhs) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/40wa0Bn4YAM1uPCt0CqVsp) | 3:11 |
 | 67 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
 | 68 | [Reminiscent](https://open.spotify.com/track/0JnqWFbx7jc9HLvtxZPjLT) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Reminiscent](https://open.spotify.com/album/2bpMCulrk1nNXiOKzgherl) | 4:27 |
-| 69 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 69 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 70 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 |
 | 71 | [Nothing In Common](https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Nothing In Common](https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39) | 3:00 |
 | 72 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 |

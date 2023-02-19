@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2X1bTq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2X1bTq)
 
-### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
+### [This Is U2 \(3\)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,183 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,524 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Iris \(Hold Me Close\)](https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS) | 5:19 |
 | 50 | [Kite](https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:24 |
 
-Snapshot ID: `Mjc5NDM5NDcsMDAwMDAwMDBmYWEzMGM1NjgzZjY0YTM3MjYwYmE5ZDVjMTdmODAyYg==`
+Snapshot ID: `Mjc5NDU5NjgsMDAwMDAwMDBhNmUyMmVlMDZmOTE0MzBkMWQxOWRkNTU2ODk4YzliOA==`

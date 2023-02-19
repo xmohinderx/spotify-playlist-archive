@@ -4,7 +4,7 @@
 
 > Les dernières nouveautés francophones avec Marie\-Mai, FouKi, Hamza et Olivier Dion.
 
-1,596 songs - 3 day 13 hr 56 min
+1,597 songs - 3 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,8 @@
 | [Encore](https://open.spotify.com/track/409KxStjBn0Iz1hSnBKRB0) | [Papagroove](https://open.spotify.com/artist/1GqYLGpfT909cmQ3HK4zL2) | [Encore](https://open.spotify.com/album/5XDexeVBs0ez0PZVOP2wnn) | 3:35 | 2022-01-14 | 2022-01-29 |
 | [Encore ben amoureux](https://open.spotify.com/track/0iIigb9wBXhyi197evZtvc) | [La Braise](https://open.spotify.com/artist/2rTU2KGZ4wyFZ2L8zXwlz4) | [Encore ben amoureux](https://open.spotify.com/album/4Xw8JlSme5o3LYJIDx5JqC) | 2:34 | 2022-06-03 | 2022-06-11 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-25 | 2022-12-10 |
-| [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 |  |
+| [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 | 2023-02-19 |
+| [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-17 |  |
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-09 |
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2023-01-06 | 2023-01-21 |
 | [Enfantôme \- Radio edit](https://open.spotify.com/track/49PUrNvfMIGLKQlWeuyhoH) | [Feu la nuit](https://open.spotify.com/artist/68zfHjuBHS2StJIhmlr0iZ) | [Feu la nuit](https://open.spotify.com/album/6sSau2uCJFQd9ShExnfxXB) | 2:46 | 2022-10-28 | 2022-11-12 |

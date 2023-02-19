@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5610\)
+## Playlists \(5611\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -408,6 +408,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [All the Aloha: Native Hawaii](/playlists/pretty/37i9dQZF1DWY0N3eAirRjZ.md)
 - [All\-Nighter](/playlists/pretty/37i9dQZF1DX692WcMwL2yW.md)
 - [Alma](/playlists/pretty/37i9dQZF1DXcAPgsGLgd43.md)
+- [Alma Libre](/playlists/pretty/37i9dQZF1DWU5RJFUyAPLw.md)
 - [Alone Again](/playlists/pretty/37i9dQZF1DWX83CujKHHOn.md)
 - [Alone on Christmas](/playlists/pretty/37i9dQZF1DXbgPVq1ydgmS.md)
 - [Alongamento](/playlists/pretty/37i9dQZF1DX7FiQUm1UvSn.md)
@@ -4725,8 +4726,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Trentemøller](/playlists/pretty/37i9dQZF1DX4cEqBpR9k1C.md)
 - [This Is Trivium](/playlists/pretty/37i9dQZF1DZ06evO1cr4xG.md)
 - [This Is Turnstile](/playlists/pretty/37i9dQZF1DZ06evO1o0v8Q.md)
-- [This Is U2](/playlists/pretty/37i9dQZF1DZ06evO2X1bTq.md)
 - [This Is U2 \(2\)](/playlists/pretty/37i9dQZF1DX8kI525v95Yu.md)
+- [This Is U2 \(3\)](/playlists/pretty/37i9dQZF1DZ06evO2X1bTq.md)
 - [This Is UVERworld](/playlists/pretty/37i9dQZF1DZ06evO3KBMI1.md)
 - [This Is Ulices Chaidez](/playlists/pretty/37i9dQZF1DZ06evO3a8KAu.md)
 - [This Is Uptown Records](/playlists/pretty/37i9dQZF1DX7zDoGkCTwrF.md)

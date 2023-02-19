@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 861032,
+  "num_followers": 861526,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDI4ODI2Zjk2NGMwMmY5ZmI1M2I5MTU1OWY3OWZiMmFi",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDkyZjM3YjQzMWE4MDQ2YTkwOWNkZjYyYTcxNzU4ZTBi",
   "tracks": [
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Find Out",
-        "url": "https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 148544,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Verbs (feat. Steve Lacy)",
         "url": "https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB"
       },
@@ -1779,6 +1763,26 @@
       "duration_ms": 240856,
       "name": "L\u0103V\u012dND\u016dR",
       "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Cover art by Hasworld",
+          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
+        }
+      ],
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
     }
   ],
   "unique_name": "Lowkey",

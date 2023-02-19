@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,922 likes - 147 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,019 likes - 147 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 10 | [My Life Is on Inisherin](https://open.spotify.com/track/11kh0ybfoTNvuRp7eckI5R) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 3:46 |
 | 11 | [The Academy](https://open.spotify.com/track/5Dwz3DfVfFpMgGTHyx3x1m) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Pale Blue Eye \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4hHNqYHgntpzJuR10punUt) | 2:27 |
 | 12 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
-| 13 | [Zen \- Grogu and Dust Bunnies](https://open.spotify.com/track/2junXTf8UTWYmwZcDN7z6q) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Zen \- Grogu and Dust Bunnies](https://open.spotify.com/album/5al4iA7bzURivvXOgm0w2d) | 2:30 |
+| 13 | [Zen \- Grogu and Dust Bunnies](https://open.spotify.com/track/2junXTf8UTWYmwZcDN7z6q) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Zen \- Grogu and Dust Bunnies](https://open.spotify.com/album/5al4iA7bzURivvXOgm0w2d) | 2:30 |
 | 14 | [Hafið Syngur](https://open.spotify.com/track/0YlVDvuitCxLRUlVVSOF5u) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [First Love 初恋 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4Bj0rkPhXtDYpcB7yaqLzI) | 3:40 |
 | 15 | [FOREST RUN](https://open.spotify.com/track/2hPZ0UcecOjTmovBvldFcN) | [Nima Fakhrara](https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi) | [Sick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HDZk8avM5DrfnfPt7MfSi) | 2:29 |
 | 16 | [The Kingdom of Dreams \(Main Title Theme\)](https://open.spotify.com/track/7z5VsNMFFsAufyFUhC0UDo) | [David Buckley](https://open.spotify.com/artist/4XPIcwAIeDGi8lNDSbnGaT) | [The Sandman: Season 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4wHeGUGaQcDQLKcNxuVyDu) | 2:14 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 59 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
 | 60 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 |
 | 61 | [Aurora](https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0anuS0gAUcyLl9426vSdrU) | 2:57 |
-| 62 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 |
+| 62 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 |
 | 63 | [Gun Barrel \- From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/2ycHXNy1oD6Syz0pGZzVq7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Gun Barrel \(From ''No Time To Die'' Soundtrack\)](https://open.spotify.com/album/535DREkoMfHdM80zjUJnWL) | 0:55 |
 | 64 | [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/0Go1pDClKbn8J3wW4kEIxL) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Catherine Called Birdy \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB) | 1:55 |
 | 65 | [Ms\. Marvel Suite \- From "Ms\. Marvel"](https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel Suite \(From "Ms\. Marvel"\)](https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV) | 4:29 |

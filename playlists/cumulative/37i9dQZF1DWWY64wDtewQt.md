@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-427 songs - 16 hr 51 min
+428 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Born to Fly](https://open.spotify.com/track/4o0g3KtUbz0nxSmH93RggE) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Born to Fly](https://open.spotify.com/album/7wexoMstoDoA7fGuifYBbK) | 2:52 | 2022-06-17 | 2022-09-24 |
 | [Bounce](https://open.spotify.com/track/4LMVzEFDbxZhQc3iqy0YnL) | [Ihaveonechance](https://open.spotify.com/artist/1STAy1JvQQyNmcykEIh9rM), [Hies](https://open.spotify.com/artist/409aFAfrx44WjovOlThFIm) | [Bounce](https://open.spotify.com/album/4THmSdpu4Zs9fz7Nt5cqyC) | 2:11 | 2021-05-12 | 2022-05-14 |
 | [BRAINSHOT](https://open.spotify.com/track/6nek5FDzB20pQGfa6uaftr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [BRAINSHOT](https://open.spotify.com/album/2lL1KqNM1RvtLKdS6W3ieg) | 3:20 | 2022-07-22 | 2022-10-01 |
-| [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 | 2023-02-04 |  |
+| [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 | 2023-02-04 | 2023-02-19 |
+| [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 | 2023-02-04 |  |
 | [Break Off](https://open.spotify.com/track/6XPPKm74soYRwfXT12ne0q) | [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Break Off](https://open.spotify.com/album/1X8zE032NzH07gte7U05Yl) | 2:27 | 2022-11-18 |  |
 | [BREAKDOWN](https://open.spotify.com/track/49koCgN91HKGyBjYWwIQic) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [BREAKDOWN](https://open.spotify.com/album/5JbAm1Q2xoIn3JMF9t1jhz) | 2:26 | 2022-01-06 | 2022-09-03 |
 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 | 2022-11-18 |  |

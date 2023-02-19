@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 屁孩 Ryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,183 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,190 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 34 | [WHAT YOU TRYNA DO](https://open.spotify.com/track/6CikUnzb21HuxwIxFsBiel) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [WHAT YOU TRYNA DO](https://open.spotify.com/album/7m2w81M1TMq1cCUugRzUob) | 3:52 |
 | 35 | [跟你對話](https://open.spotify.com/track/6au1VUVBbpkzvdbZ9m8gIG) | [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [跟你對話](https://open.spotify.com/album/5MgUD99Gdq0q3f52vwAlEx) | 4:05 |
 | 36 | [Turn Off the Light](https://open.spotify.com/track/4zLguzjnEzq3WcH6mJkcWR) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [SPREAD](https://open.spotify.com/album/0Z6AHQ6ZIm8vEhwgoUNRWt) | 2:56 |
-| 37 | [Fantasy](https://open.spotify.com/track/1AlVZGi4E2eXTW6Gx9MgCP) | [Howsun](https://open.spotify.com/artist/1DM0LnRUVhKiR4N5GrrA7p), [Datboirg](https://open.spotify.com/artist/45XiNDpEDyAPZCyZV52qxE), [Theemokids](https://open.spotify.com/artist/53UiofemDVWHC0ZdyaTziK) | [Fantasy](https://open.spotify.com/album/3WdN2dSCQRekQ3e6K9PPtH) | 3:11 |
+| 37 | [Fantasy](https://open.spotify.com/track/1AlVZGi4E2eXTW6Gx9MgCP) | [Howsun](https://open.spotify.com/artist/1DM0LnRUVhKiR4N5GrrA7p), [Datboirg](https://open.spotify.com/artist/45XiNDpEDyAPZCyZV52qxE), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [Fantasy](https://open.spotify.com/album/3WdN2dSCQRekQ3e6K9PPtH) | 3:11 |
 | 38 | [萬家燈火](https://open.spotify.com/track/3P78Tea2rsiItM9HnIBL3N) | [Jayden T](https://open.spotify.com/artist/1QJdKypAIxPbGrP2ISGNsP) | [萬家燈火](https://open.spotify.com/album/4HzYJ511FCnJomKNvDufuX) | 2:51 |
 | 39 | [法國麵包](https://open.spotify.com/track/6V6acy5yCCgJ8BPkJwpLnx) | [E\-R!CH](https://open.spotify.com/artist/0pzBHzC3K5m5HHGMQu7qcW) | [法國麵包](https://open.spotify.com/album/60pjJr3ZAWVcFQ3sS70ycT) | 3:17 |
 | 40 | [Drowning](https://open.spotify.com/track/1XXvo0XLQqEnIb0fjEr0C8) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Drowning](https://open.spotify.com/album/6tC3xfxVub5WUYcWlO7PG3) | 2:36 |

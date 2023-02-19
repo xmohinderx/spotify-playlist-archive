@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Space92
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,267 likes - 76 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,412 likes - 76 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

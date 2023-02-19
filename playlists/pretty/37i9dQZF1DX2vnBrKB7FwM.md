@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,215 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,231 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 19 | [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 |
 | 20 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
 | 21 | [Parchesito de Andén](https://open.spotify.com/track/426jhs83bwjf3Pl3kP6MUt) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Parchesito de Andén](https://open.spotify.com/album/5doCyysFrS57uEz6WemNA6) | 2:54 |
-| 22 | [Emancipación](https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb) | 3:54 |
+| 22 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 |
 | 23 | [Trampa](https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Trampa](https://open.spotify.com/album/3MhfOgqJ1ivusF4YDSjXeM) | 3:30 |
 | 24 | [Música de Antes](https://open.spotify.com/track/5m0f6moj6xtoTHPrMLbQ9Q) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [La Calle Sabe Mi Nombre](https://open.spotify.com/album/193Of86pX3Ni6Ud0y9bpzk) | 2:19 |
 | 25 | [Aranjuez](https://open.spotify.com/track/0OM7yGXYagXOjIvChYKCRU) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/08AatdGir521ngEN6fHGmR) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMDUwNDFkMzA1YmM3NWJkY2Q1MjRiZTI2NzA1ZjQ1M2Vl`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGEyYjNkOGI2NzJkZDMxZDg3N2NmZTNhNjhlN2E2ZTg4`

@@ -156,7 +156,7 @@
     {
       "album": {
         "name": "Essenza (Mixed)",
-        "url": "https://open.spotify.com/album/2KuPn7RxeM1cjpQXz7ULv0"
+        "url": "https://open.spotify.com/album/4wYFsyL1zMMVzntzWLvNMT"
       },
       "artists": [
         {
@@ -167,6 +167,24 @@
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Essenza - Mixed",
+      "url": "https://open.spotify.com/track/0p4k5BsW4v8jzp6zFmqd6w"
+    },
+    {
+      "album": {
+        "name": "Essenza (Mixed)",
+        "url": "https://open.spotify.com/album/2KuPn7RxeM1cjpQXz7ULv0"
+      },
+      "artists": [
+        {
+          "name": "Andy Bros",
+          "url": "https://open.spotify.com/artist/0IqCqFDl6mgrx51AsrTxBj"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
       "duration_ms": 232000,
       "name": "Essenza - Mixed",
       "url": "https://open.spotify.com/track/1byCTTthjJefJqTexfW87T"

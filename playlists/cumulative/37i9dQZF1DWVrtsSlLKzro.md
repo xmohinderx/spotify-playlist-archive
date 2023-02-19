@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-258 songs - 15 hr 37 min
+259 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Silhouette](https://open.spotify.com/track/45EJrENg8Aa72uLX22JxY7) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Conscience](https://open.spotify.com/album/5lGLktcDudhrCwCNLxni6Q) | 5:01 | 2022-12-02 |  |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-12-03 |  |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2021-12-03 | 2022-02-12 |
-| [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 |  |
+| [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 | 2023-02-17 |  |
+| [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2023-02-19 |
 | [Somebody](https://open.spotify.com/track/71zdPpuyAVQm7OcXZ4o6Nv) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Somebody](https://open.spotify.com/album/3tR79dbLbfQZ1Z0nmX9MMc) | 3:10 | 2021-12-03 | 2022-02-12 |
 | [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-05-06 |  |
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 |  |

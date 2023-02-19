@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-258 songs - 16 hr 5 min
+259 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-08-26 | 2022-10-02 |
 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 | 2022-02-25 | 2022-03-21 |
 | [How Far](https://open.spotify.com/track/01puXiVg4t7vhENFH58R6b) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/2AF8BmjE2SRLOUAeV57ofY) | 3:07 | 2022-04-29 | 2022-05-14 |
-| [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 | 2022-05-28 |  |
+| [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 | 2022-05-28 | 2023-02-19 |
+| [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 | 2022-10-01 |  |
 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 | 2022-02-25 |  |
 | [I Am Yours \(Acoustic\)](https://open.spotify.com/track/1UVTNCocUvpEH68QRh30Bu) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [I Am Yours \(Acoustic\)](https://open.spotify.com/album/4TBo79eud1BYeXuOCRiSeK) | 4:27 | 2022-02-25 | 2022-06-25 |
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-25 | 2022-06-25 |

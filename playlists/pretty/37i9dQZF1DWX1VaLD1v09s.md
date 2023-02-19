@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,859 likes - 150 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,954 likes - 150 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [When I Survey \(The Wondrous Cross\) \- Live](https://open.spotify.com/track/3OHj3fzeyn0854r7Xl6MMH) | [Kathryn Scott](https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt) | [Satisfy \(Live\)](https://open.spotify.com/album/5hFzKLzolMNHxndo0gkf9J) | 3:57 |
 | 150 | [Even Unto Death](https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 4:38 |
 
-Snapshot ID: `MTY1MDE3NDY2OCwwMDAwMDAwMGEzNGYzNDkzOWY2MGYzZGJmZGZmYzM0Y2M4ODViNDJm`
+Snapshot ID: `MTY3NjY5OTY5OSwwMDAwMDAwMDVmMmUzMjVlZDUzYjkwNTI3NjY5ZjFhMDZlMTM2NTMy`

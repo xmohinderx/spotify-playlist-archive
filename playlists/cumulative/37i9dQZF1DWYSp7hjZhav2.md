@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-82 songs - 8 hr 6 min
+84 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Estera](https://open.spotify.com/track/0HhiJrRsrK1o11pZli16pH) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Liberator](https://open.spotify.com/album/63qZOHZGH28mY9HCYFYuks) | 6:39 | 2022-10-05 |  |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-15 |  |
 | [Exhilaration \- Shall Ocin Remix](https://open.spotify.com/track/2Hslrcg7tm6YRP4f7ohSHG) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 7:42 | 2022-10-05 |  |
-| [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 | 2022-10-05 |  |
+| [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 | 2022-10-05 | 2023-02-19 |
+| [Fallen Enemies](https://open.spotify.com/track/5VLPGOWU3zcKbOeG0wDYEM) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/3DevhUgrKtw53hNSxJhgkY) | 4:19 | 2023-02-15 |  |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-02-15 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2023-02-15 |  |
 | [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 | 2022-10-05 |  |
@@ -89,6 +90,7 @@
 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 | 2022-10-05 |  |
 | [XX](https://open.spotify.com/track/60LXnlFE4YaX7BsLcfGx2b) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Animal Picnic](https://open.spotify.com/artist/7eMjH8sGNTqZycmrO1P9WD) | [Siamese Anthology V \(Part 1/4\)](https://open.spotify.com/album/0Cw9XUYmI4pBLi1MNOwd2O) | 5:44 | 2023-02-15 |  |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-10-05 |  |
-| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2023-02-15 |  |
+| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2023-02-15 | 2023-02-19 |
+| [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-15 |  |
 
 \*This playlist was first scraped on 2022-10-08. Prior content cannot be recovered.

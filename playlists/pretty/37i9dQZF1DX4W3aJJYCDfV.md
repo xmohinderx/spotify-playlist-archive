@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Niall Horan \(pictured\), P!nk, beabadoobee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,479 likes - 133 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,542 likes - 133 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 73 | [I Feel Like Dancing](https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Feel Like Dancing](https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR) | 3:38 |
 | 74 | [Trapstar](https://open.spotify.com/track/6T0u3Q5QdpNOahp4WoGIU6) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Trapstar](https://open.spotify.com/album/1tZRu16WkZXlLkGRfnqLzc) | 2:44 |
 | 75 | [Deep Routed](https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Deep Routed](https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD) | 3:46 |
-| 76 | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:55 |
+| 76 | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light \(feat\. Antony Szmierek\)](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:40 |
 | 77 | [Mercy](https://open.spotify.com/track/6uBFMj3Qofh9UxnUNhckQF) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Mercy](https://open.spotify.com/album/5vL1bGfTAFxG4EfMtVqehk) | 4:06 |
 | 78 | [Dawncolored Horse](https://open.spotify.com/track/3InAiW7SMYPaO3roqeGVY5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Dawncolored Horse](https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN) | 4:04 |
 | 79 | [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 |

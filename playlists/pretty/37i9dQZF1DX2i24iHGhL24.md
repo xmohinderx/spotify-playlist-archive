@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,707 likes - 153 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,868 likes - 153 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

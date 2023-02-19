@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-1,879 songs - 4 day 9 hr 46 min
+1,880 songs - 4 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,8 @@
 | [Fight Like Ida B & Marsha P](https://open.spotify.com/track/6j8Gt38Q03oMTSXr8O8WCR) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Fight Like Ida B & Marsha P](https://open.spotify.com/album/7jWVBbk9N8mVPOrD50aZAX) | 3:07 | 2020-06-18 | 2020-11-21 |
 | [Find A Way](https://open.spotify.com/track/22bt49l5GxoUkSzivRk3bw) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Find A Way](https://open.spotify.com/album/4qJBhN6QGGU9fm2OEOVyeE) | 3:49 | 2020-05-29 | 2020-07-18 |
 | [Find It](https://open.spotify.com/track/2z2akz47l8Eeri9gmFx46d) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/1L9yCNvMeREkOXyLPzxP0b) | 6:17 | 2021-07-02 | 2021-11-06 |
-| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-13 | 2022-07-23 |
 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 | 2021-09-10 | 2022-02-12 |
 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 | 2020-07-10 | 2020-12-11 |

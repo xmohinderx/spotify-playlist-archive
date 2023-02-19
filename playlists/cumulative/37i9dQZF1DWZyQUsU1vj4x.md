@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-161 songs - 9 hr 58 min
+162 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-01-27 |  |
 | [With Roses](https://open.spotify.com/track/20e1FXXYbzoa34ENMSClEk) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/2TkdZYaMtFX4xGq4vvnAfk) | 3:31 | 2019-10-31 | 2022-07-29 |
 | [With Roses](https://open.spotify.com/track/7mFndwzSz1tL9hQJe8VcoB) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/1pyXvUn0xwcdO8FLCh9Vte) | 3:31 | 2022-01-27 |  |
-| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-12 |  |
+| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-12 | 2023-02-19 |
+| [Words](https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Waking Up](https://open.spotify.com/album/5740DSdBXecq02r5WpIigM) | 5:25 | 2022-12-12 |  |
 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 | 2019-10-31 |  |
 | [You](https://open.spotify.com/track/463QkaYcFvcfAeHnKNPuRr) | [Lizzie Weber](https://open.spotify.com/artist/4ccrRYqGDvMVvKhI4TKim7) | [You](https://open.spotify.com/album/6rrDTUVgBXzrKINnr49e4e) | 3:03 | 2019-10-31 |  |
 | [You And I](https://open.spotify.com/track/5qoD9i5DqtUWKaxyW29Yt7) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [You And I](https://open.spotify.com/album/7k8UcNo3eeGLfzXUwUNjPO) | 3:45 | 2019-10-31 |  |

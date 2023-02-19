@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-120 songs - 9 hr 17 min
+121 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/0QicMFiH82PB8oTPH7sGuy) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Live in London \(Live\)](https://open.spotify.com/album/4gM5z3V8hh4I5qnMpzbbde) | 3:30 | 2018-08-02 |  |
 | [I'll Keep It With Mine](https://open.spotify.com/track/1QIEPuMvIJP5zJPLgwPL88) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/48F2kUB0xFkajs3zKUEzHv) | 3:17 | 2018-08-02 | 2022-07-29 |
 | [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2018-08-02 |  |
-| [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2018-08-02 |  |
+| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2018-08-02 |  |
+| [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2018-08-02 | 2023-02-19 |
 | [If You've Gotta Go, Go Now \- Bonus Track](https://open.spotify.com/track/51jy98I9q9Nk1xyA0W4ZBg) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Subterranean Homesick Blues: A Tribute to Bob Dylan's 'Bringing It All Back Home'](https://open.spotify.com/album/6BpBxbGy2JgkkxiVoLDQg4) | 3:45 | 2018-08-02 |  |
 | [It Ain't Me Babe](https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 3:03 | 2018-02-08 |  |
 | [It's All Over Now, Baby Blue \(feat\. Van Morrison\)](https://open.spotify.com/track/6p0PlK8KoSERN4LX0bIq9u) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 3:47 | 2018-08-02 |  |

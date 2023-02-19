@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 
 > Listen to family\-favorite tunes from the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586 likes - 90 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599 likes - 90 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 | 56 | [Drive A Truck](https://open.spotify.com/track/7oU2YzIPEW05DjLaxvIKK8) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Vehicles](https://open.spotify.com/album/0X9qtKbjrUJ7XYgjLRzitn) | 0:55 |
 | 57 | [Teacher](https://open.spotify.com/track/6ifb9na1jDs0Aae9KWZDps) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2) | 1:00 |
 | 58 | [ABC Jamboree \- The Song!](https://open.spotify.com/track/6JkKOxf0tGJse0I0GJxvCc) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [ABC Jamboree \- The Song!](https://open.spotify.com/album/07iAkoSHA5P0eiNoVzeKtY) | 1:38 |
-| 59 | [Triangles](https://open.spotify.com/track/6t6mbHaTrsrROqAZFXo8Nb) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:03 |
+| 59 | [Triangles](https://open.spotify.com/track/1uDOHinqS3YShFL7qdzlfS) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj) | 1:03 |
 | 60 | [Ba Ba Baboon](https://open.spotify.com/track/02oMHNnlc9Mge4BO5v2E0C) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:00 |
 | 61 | [Brain, Brain, Brain](https://open.spotify.com/track/0g5KJMZtMzH4n1dR2lwtRv) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Body Songs](https://open.spotify.com/album/3Jt4cQygbo1EeTm3kD2tnz) | 0:58 |
 | 62 | [Why Do I Have to Brush My Teeth?](https://open.spotify.com/track/0kkbCs2aUJ7OIABlBQX0A4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask the StoryBots: Season 1 \(Music from the Original Series\)](https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv) | 1:16 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 | 82 | [Dee Doodily Doo](https://open.spotify.com/track/2EMTaAjG1WGtEZUxk8ZfRH) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots ABC Jamboree](https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY) | 0:55 |
 | 83 | [Cow](https://open.spotify.com/track/2iCCve95J9Z9EGXZgDTU7N) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Barnyard Animals](https://open.spotify.com/album/5qxXmpj7TfUX1D9mkP3ygi) | 1:12 |
 | 84 | [Architect](https://open.spotify.com/track/1pszqZcDjYt65oZyl9LORF) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2) | 1:03 |
-| 85 | [Look For Purple](https://open.spotify.com/track/3XKze0nfGgpACLZzFcnzd4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:02 |
+| 85 | [Look For Purple](https://open.spotify.com/track/1wTqSyN2Y9ApTcqWRLGqV4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD) | 1:02 |
 | 86 | [The Number 2](https://open.spotify.com/track/28hTx4hrYU0Cl8QDwKuSqD) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Number Songs](https://open.spotify.com/album/1wNZQEwIVWzjouUxU45In5) | 1:05 |
 | 87 | [Try Y](https://open.spotify.com/track/28LvxDBGw0GC2JbzuJjfd1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots ABC Jamboree](https://open.spotify.com/album/5khyvMa8VpRVtuYGqS6BvY) | 1:02 |
 | 88 | [Pterodactylus](https://open.spotify.com/track/1jXlu02dqoOe1R67ro4uGe) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots: Answer Time \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM) | 1:05 |
 | 89 | [Pig](https://open.spotify.com/track/0abDbH4c5CfzCpdAjGIEiq) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Barnyard Animals](https://open.spotify.com/album/5qxXmpj7TfUX1D9mkP3ygi) | 1:20 |
 | 90 | [Venom](https://open.spotify.com/track/5DcheD8GmT0baBYQN9omga) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots: Answer Time \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM) | 0:51 |
 
-Snapshot ID: `MTY2OTAyNjE3OSwwMDAwMDAwMDM3ZGZlMjVhOGI2MGUyODBlOWQ2YjBhYWQ5NTFkYWVh`
+Snapshot ID: `MTY2OTAyNjE3OSwwMDAwMDAwMDE2MGRhNGQ5Y2VhYTNhOTJjZDU4MWY0ZDFkZWE2MjM2`

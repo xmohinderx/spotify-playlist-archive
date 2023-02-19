@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,133 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,248 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 3 | [Conquer Your Mind \- APEX 2023 OST](https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Conquer Your Mind \(APEX 2023 OST\)](https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp) | 4:27 |
 | 4 | [Stronger Now](https://open.spotify.com/track/7eUJkgq11AkHNicCVqtiSv) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Stronger Now](https://open.spotify.com/album/1sAN460wLoupfyeDQroxCC) | 3:04 |
 | 5 | [Phat Brahms \- Coone Remix 2.0](https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Phat Brahms \(Coone Remix 2.0\)](https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw) | 2:59 |
-| 6 | [We're Alive](https://open.spotify.com/track/0p1Yq8Y84qdZwr1A90p3a4) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [Hayes](https://open.spotify.com/artist/16Vse8KhXRmKnrHq9YGIsk) | [We're Alive](https://open.spotify.com/album/1pT2Z235zvs1CTudhTKezq) | 3:12 |
+| 6 | [We're Alive](https://open.spotify.com/track/0p1Yq8Y84qdZwr1A90p3a4) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [Hayes](https://open.spotify.com/artist/3Kt54LmUUFohHUBMQyeJnp) | [We're Alive](https://open.spotify.com/album/1pT2Z235zvs1CTudhTKezq) | 3:12 |
 | 7 | [Synergy \(Reverze Anthem 2023\)](https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Synergy \(Reverze Anthem 2023\)](https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr) | 4:48 |
 | 8 | [Live It Up](https://open.spotify.com/track/5ouMOJteIfXL10TlfXHeWw) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Live It Up](https://open.spotify.com/album/75hlXBtKOaV0GssyMaROgw) | 3:36 |
 | 9 | [I'm Me](https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [I'm Me](https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5) | 2:51 |

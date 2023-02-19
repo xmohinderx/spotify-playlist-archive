@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Zack Dyer, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,886 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,935 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 42 | [Cali](https://open.spotify.com/track/4HImF9Ti5AjY4F3YkIGAXV) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [Cali](https://open.spotify.com/album/7zOVXchqMxvPegINjkqg0z) | 4:07 |
 | 43 | [Right On](https://open.spotify.com/track/0GEU44sGN2a7KftRLG5han) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Right On](https://open.spotify.com/album/3vbnXptGbmLTZotjrrFjfu) | 3:05 |
 | 44 | [Like The Weather](https://open.spotify.com/track/3pocYUCyqUGbiD6Jj2GHgS) | [David Payne](https://open.spotify.com/artist/1n5SEVlJG9VCnWJdTSnMAI), [TwangerOfTheDay](https://open.spotify.com/artist/3En68hEEZ7DHWlMS6VTpSd) | [Like The Weather](https://open.spotify.com/album/1EJx2sihUcBXmWD6x4xmVl) | 3:52 |
-| 45 | [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 |
+| 45 | [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 |
 | 46 | [Married Alone](https://open.spotify.com/track/6GC1BXs46oPRAZL6amCMQL) | [Hannah Blaylock](https://open.spotify.com/artist/1ut8dBk3OWNJfktav1k3D1), [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Married Alone](https://open.spotify.com/album/4JorQ9fWUYGZJDgbVQdJpF) | 3:52 |
 | 47 | [Grew Up On It](https://open.spotify.com/track/0UyQpADQetej2NHaysUDo2) | [Melissa Livingstone](https://open.spotify.com/artist/4g9kvG3h1g9Y8EIAnuzzTY) | [Grew Up On It](https://open.spotify.com/album/3e1ZMEdS1PEHtV67w13IJF) | 2:58 |
 | 48 | [Made You Look](https://open.spotify.com/track/3yZs7z9HcuOdSYjwwyXAuG) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Made U Look](https://open.spotify.com/album/7hFt1c2ykUSUX1MM6MYlrH) | 2:45 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 106 | [Whiskey Over Ice](https://open.spotify.com/track/40l3hHo13OeWAK9j44coP3) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Whiskey Over Ice](https://open.spotify.com/album/62vwEapLmOCJYlGFebORoB) | 3:24 |
 | 107 | [Beer Back](https://open.spotify.com/track/5l9B4K1TvjZcZVTXo4ROr8) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Beer Back](https://open.spotify.com/album/3kd0PTutSBqWLglP3evh8U) | 2:31 |
 
-Snapshot ID: `MTY3NjQ3NzEwOSwwMDAwMDAwMDA1OGY5Yzk3ZWZjNGQ5NGZkNjFlZWU2MDM5ZDQyMzM1`
+Snapshot ID: `MTY3NjQ3NzEwOSwwMDAwMDAwMDY1ZjQ5YjU1YjdhODE0Yzk2ZGU5ZDZkM2IxOGNlMDFl`

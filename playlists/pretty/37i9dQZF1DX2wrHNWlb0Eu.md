@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > 10 เพลงรักที่คนฟังมากที่สุดและเพลงสำหรับคนคลั่งรักอยู่ในเพลย์ลิสต์นี้แล้ว!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,235 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,403 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

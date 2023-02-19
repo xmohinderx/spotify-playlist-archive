@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-303 songs - 8 hr 58 min
+305 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3xFOkAI6aNreOFejqwvv28) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 1:58 | 2022-02-25 | 2022-07-29 |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:58 | 2022-02-25 |  |
 | [Heads And Shoulders](https://open.spotify.com/track/5zKmMcCzVbvgdoFK99M2sd) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 0:50 | 2022-02-25 | 2022-07-29 |
-| [Hey Diddle Diddle](https://open.spotify.com/track/1BppTkk0yGdM6tveLhlIMO) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:29 | 2023-01-27 |  |
+| [Hey Diddle Diddle](https://open.spotify.com/track/0NqHM8WCs7xn25VlRxvopC) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:29 | 2023-02-10 |  |
+| [Hey Diddle Diddle](https://open.spotify.com/track/1BppTkk0yGdM6tveLhlIMO) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:29 | 2023-01-27 | 2023-02-19 |
 | [Hey Diddle Diddle](https://open.spotify.com/track/7dzeZcPuTdlRWEEJQkg3BD) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/0hm7XSyKA0yBFi9hxpnnsY) | 2:29 | 2022-02-25 | 2023-02-10 |
 | [Hey, Diddle Diddle](https://open.spotify.com/track/1sSMv5XabOSte6jQF2wos5) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:14 | 2022-02-25 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2JNbQJlHx8mw8go8dXEHed) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [School Break Songs for Children](https://open.spotify.com/album/295c1i1TEITqNwJNwuU6PS) | 1:15 | 2022-02-25 | 2022-11-14 |
@@ -211,7 +212,8 @@
 | [Rain Rain Go Away](https://open.spotify.com/track/7zdM6jtOOsjRugZqTakpEs) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs Sing Along \- 50 Toddler Nursery Rhymes](https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp) | 0:47 | 2022-02-25 |  |
 | [Rain, Rain Go Away](https://open.spotify.com/track/2TjBSzU6Z9Hm0dmDf64RpF) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 2:15 | 2022-02-25 |  |
 | [Ring a Ring A Roses](https://open.spotify.com/track/0TjKqcbo49g4OlBbG2QqfX) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/0hm7XSyKA0yBFi9hxpnnsY) | 2:12 | 2022-02-25 | 2023-02-10 |
-| [Ring a Ring A Roses](https://open.spotify.com/track/4AcS6deJXo0cRGMQvWxR8e) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:12 | 2023-01-27 |  |
+| [Ring a Ring A Roses](https://open.spotify.com/track/13OVhfsEwEWZNE9pm5OhiN) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk) | 2:12 | 2023-02-10 |  |
+| [Ring a Ring A Roses](https://open.spotify.com/track/4AcS6deJXo0cRGMQvWxR8e) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:12 | 2023-01-27 | 2023-02-19 |
 | [Ring Around the Rosy](https://open.spotify.com/track/3LRICCIlx05my3iFtjsNfr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:08 | 2022-02-25 | 2022-11-13 |
 | [Ring Around the Rosy](https://open.spotify.com/track/3hN8QrmVJwzhCvKs3lRxYH) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 7](https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN) | 2:08 | 2022-02-25 |  |
 | [Ring Around the Rosy](https://open.spotify.com/track/6xI0MhqGvOsAyz0XAuPO7O) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 7](https://open.spotify.com/album/3pc3MsIiD1QaWblWJmWkXH) | 2:08 | 2022-02-25 | 2022-07-29 |

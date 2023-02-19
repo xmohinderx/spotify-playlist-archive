@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-186 songs - 11 hr 58 min
+187 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 |  |
 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 | 2022-08-13 |
 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2022-07-05 |  |
-| [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-12-02 |  |
+| [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2023-02-17 |  |
+| [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-12-02 | 2023-02-19 |
 | [Wish The Love Never Died](https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:01 | 2022-10-30 |  |
 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 | 2022-10-30 | 2022-11-14 |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-13 | 2022-11-03 |

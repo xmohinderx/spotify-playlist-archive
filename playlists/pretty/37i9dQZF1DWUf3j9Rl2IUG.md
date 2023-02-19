@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=HpcPKFgZTCGB17\-R5wcMMA"> BNXN </a> , <a href="https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=hMNNbEARRbqf15dmv5CSwA"> Kizz Daniel</a>  and <a href="https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx?si=6vGX5Gp2QSupxDiqFCD7Jw"> Seyi Vibez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,772 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,862 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

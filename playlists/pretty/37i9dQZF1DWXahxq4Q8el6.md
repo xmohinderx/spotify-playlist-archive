@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,338 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,475 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 15 | [The Theory of Everything](https://open.spotify.com/track/5fJD7wh9yoSTpl9d5rgl7l) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:08 |
 | 16 | [The Last Bus](https://open.spotify.com/track/3EL2tGbkBSyRvoLwo8stEe) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 3:33 |
 | 17 | [Main Titles from the HBO Miniseries Band of Brothers \- Instrumental](https://open.spotify.com/track/1LcNtS9B22LgIHxd9gTGcV) | [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Band of Brothers \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6KAFJmF0fCCTnUnFvPP6m6) | 2:24 |
-| 18 | [The Mandalorian \- Orchestral Version](https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 7 \(Original Score\)](https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki) | 2:20 |
+| 18 | [The Mandalorian \- Orchestral Version](https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 7 \(Original Score\)](https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki) | 2:20 |
 | 19 | [Mr\. Moustafa](https://open.spotify.com/track/1uNhvxpkPrNHUNfeclo6xD) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Grand Budapest Hotel \(Original Soundtrack\)](https://open.spotify.com/album/6IV7472Hni7A1ENilCManS) | 3:03 |
 | 20 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
 | 21 | [Raiders March](https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5) | 5:05 |

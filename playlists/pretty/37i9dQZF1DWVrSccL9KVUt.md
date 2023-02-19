@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,995 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,109 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 65 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 |
 | 66 | [You Have My Yes \(feat\. Naomi Raine\)](https://open.spotify.com/track/4Jq4Iru3LBhVE5uzmzpFv8) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 5:18 |
 | 67 | [My Weapon](https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [My Weapon](https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5) | 4:21 |
-| 68 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 |
+| 68 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/3bGce0Swt1wEfOLZkCLFLI) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:02 |
 | 69 | [Surrounds Me \- Live](https://open.spotify.com/track/6iN9sMVuodvL5sihElq083) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Mi\-kaisha Rose](https://open.spotify.com/artist/2U2ol5NQFCm5zI9NefWhCK) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 3:39 |
-| 70 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 |
+| 70 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/3bGce0Swt1wEfOLZkCLFLI) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:02 |
 | 71 | [I am.](https://open.spotify.com/track/0f1EG0vU7ITLcrUIb4c8i2) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Anna Hallsten](https://open.spotify.com/artist/6zQKXJzMR5NpKu780OifpX) | [I am.](https://open.spotify.com/album/38WJHd6yErC643zGc1mAdF) | 3:51 |
 | 72 | [Faithful \(Paradoxology\)](https://open.spotify.com/track/7xOOHNV0eB6lmVmpnkR6TJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Paradoxology](https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk) | 5:49 |
 | 73 | [Reconcile](https://open.spotify.com/track/3biY5EDhRUiS2uwtgJBmGC) | [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Reconcile](https://open.spotify.com/album/2NNll0RnOsuenozVas8dOs) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
 | 80 | [Know You \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/38Oqk3geeK0GAYA7dxxUZ9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 4:49 |
 
-Snapshot ID: `MTY0Njc5NzMxNSwwMDAwMDAwMGEwZjM3YmY5OThiNjJjY2E1YzVmNzJjODA2ZWUxZmJl`
+Snapshot ID: `MTY0Njc5NzMxNSwwMDAwMDAwMDVjMzhmOTVmODcxNzBlOTAwMDQyZTBjNDVhOGIzZTAz`

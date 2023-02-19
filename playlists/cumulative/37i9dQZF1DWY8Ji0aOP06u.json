@@ -78,6 +78,28 @@
     {
       "album": {
         "name": "Keep It Stronger (Mixed)",
+        "url": "https://open.spotify.com/album/1dQludCW9f0xPa7uwNEjED"
+      },
+      "artists": [
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        },
+        {
+          "name": "Phunkadelica",
+          "url": "https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Keep It Stronger - Mixed",
+      "url": "https://open.spotify.com/track/3j9yGHoyopOAatYNMEbaLx"
+    },
+    {
+      "album": {
+        "name": "Keep It Stronger (Mixed)",
         "url": "https://open.spotify.com/album/5JFOjmcflZ1qszwMgDVgbT"
       },
       "artists": [
@@ -92,7 +114,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 354000,
       "name": "Keep It Stronger - Mixed",
       "url": "https://open.spotify.com/track/4ab8DIbc23Bu26uyU0aBT3"

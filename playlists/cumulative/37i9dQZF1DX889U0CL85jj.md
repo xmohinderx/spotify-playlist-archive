@@ -4,7 +4,7 @@
 
 > Just chill.
 
-445 songs - 1 day 1 hr 37 min
+446 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Feel These Heavy Times](https://open.spotify.com/track/7Gu3Wb76kCzZKJWr6wd8sG) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Out Of My Mind](https://open.spotify.com/album/2lx0CfU8V4rhDOCWI9sx5L) | 3:49 | 2022-06-10 | 2022-08-06 |
 | [Figment Of My Mind](https://open.spotify.com/track/04Uu1ZEM2WtDV7yBZA2jYi) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Figment Of My Mind](https://open.spotify.com/album/6ZB64rGLoKtqza4PmWFGf3) | 3:35 | 2020-06-12 | 2022-07-29 |
 | [Figment Of My Mind](https://open.spotify.com/track/3eZS4TyX2KMvD621AD9MqY) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:35 | 2022-06-10 | 2022-09-03 |
-| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [Flavour](https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Flavour](https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD) | 3:14 | 2022-09-16 | 2022-11-08 |
 | [Flaws](https://open.spotify.com/track/2fORroOyzQE1tlljfDYzwI) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Flaws](https://open.spotify.com/album/1fjLGWXbaN4icCvBD7McNo) | 2:57 | 2020-04-14 | 2022-01-22 |
 | [Fleur Blanche](https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb) | [Örsten](https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI) | [Cutworks](https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW) | 4:12 | 2021-02-27 |  |

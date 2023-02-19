@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Latto ft\. LU KALA, Bebe Rexha, Lana Del Rey, and Feist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,172 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,242 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [People Are Vomit](https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [People Are Vomit](https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o) | 2:52 |
 | 75 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 |
 | 76 | [When The Storm Has Passed](https://open.spotify.com/track/6MQwPbHoKiyfyX1kF32Hch) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [When The Storm Has Passed b/w Moonlight, Stay Above](https://open.spotify.com/album/3nkAY6doVQ6cI4uLvB9pro) | 4:39 |
-| 77 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 |
+| 77 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 |
 | 78 | [Tonight](https://open.spotify.com/track/5SBNMriy9hxF4I8iyooBGx) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Tonight](https://open.spotify.com/album/7m0Zgwi0sWjmoYro76oxvj) | 2:48 |
 | 79 | [Bubbly](https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bubbly](https://open.spotify.com/album/3Ow42KfNDAWbBmCIZ7YK5E) | 2:40 |
 | 80 | [Angelcover](https://open.spotify.com/track/2OMmR7z317VmvoVAP2dq2i) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Angelcover](https://open.spotify.com/album/0p4PQzcnWzvXRUQZE5CnED) | 3:30 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 93 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 |
 | 94 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 |
 | 95 | [One Bird Calling](https://open.spotify.com/track/4GzJ0pIpiIl3lkVVEL4ZLq) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Vivian Line](https://open.spotify.com/album/3qExxjkLMrU0YGKUCXKqAe) | 2:15 |
-| 96 | [curious.](https://open.spotify.com/track/1DhRogUArFKO6DOcqdk692) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [curious.](https://open.spotify.com/album/1hIe6IH9Uiy58WKLMo3DPO) | 3:23 |
+| 96 | [curious.](https://open.spotify.com/track/1DhRogUArFKO6DOcqdk692) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [curious.](https://open.spotify.com/album/1hIe6IH9Uiy58WKLMo3DPO) | 3:33 |
 | 97 | [& She Drinks Tea Just for the Company](https://open.spotify.com/track/3pUvMtgoYRVHeVmE47x8ZM) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Warm Terracotta](https://open.spotify.com/album/06e1jBee1AK8hFoAjiuWTf) | 3:54 |
 | 98 | [Blunt In The Booth](https://open.spotify.com/track/4J8rNSczhYlPDs9SkdO3OB) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [NEO TYO](https://open.spotify.com/album/2pynaoriHDmMqLitlpMLvy) | 2:33 |
 | 99 | [bad news](https://open.spotify.com/track/1f4Q6SAZx9seHAYGU38vPZ) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [bad news](https://open.spotify.com/album/16LXA5pulF6pQpCuMSnmXD) | 2:17 |
 | 100 | [Singularity](https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3) | 3:10 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDIyM2NjZWZkNjZjZGUyODViMDMzZTczNmJmNjY0ZGQ4`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDNlNmQ1ZjRmZDBjODQ5YjQyMmEyYzFkMWRmYzFiNjRm`

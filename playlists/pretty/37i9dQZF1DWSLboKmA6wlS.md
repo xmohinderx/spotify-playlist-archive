@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Yes Indeed\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,481 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,486 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 12 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 13 | [ยอมแพ้ \(Enough\)](https://open.spotify.com/track/1SxVMaBpGAFnxBAuTxz8xq) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [ยอมแพ้ \(Enough\)](https://open.spotify.com/album/649lQSJTgM0Jg4VnTTpZnc) | 3:36 |
 | 14 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |
-| 15 | [แฟนแฟร์](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 |
+| 15 | [แฟนแฟร์ \- Dreamy](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 |
 | 16 | [เฟื่อน \(Spectrum\)](https://open.spotify.com/track/2KUjzr5waaefeog3hfMjSh) | [Nine](https://open.spotify.com/artist/49UULaSQTVE7oWxxhh90RK) | [เฟื่อน \(Spectrum\)](https://open.spotify.com/album/2nDDvbmOU1MOBUbJbMbwQ8) | 3:25 |
 | 17 | [เบื่อแล้วหน้าจอ](https://open.spotify.com/track/1wNVqgLZDTQcdDc692AFlT) | [FAHH](https://open.spotify.com/artist/7xZab6yCnWWbiNApjy4aEI) | [เบื่อแล้วหน้าจอ](https://open.spotify.com/album/1Dz9mtjCEDG7rqubWale3H) | 3:01 |
 | 18 | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/track/6tmtyHkCoThebRebVExgiv) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/album/2H9WfFr1lQh9z09tOp8dFs) | 3:41 |

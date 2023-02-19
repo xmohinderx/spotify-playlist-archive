@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Miss Monique
 
-396 songs - 1 day 7 hr 17 min
+397 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [You & Me](https://open.spotify.com/track/5FHaHD7FMSPgOvYhuVgae2) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [You & Me](https://open.spotify.com/album/451gAJbsqc71BlBePvKdS3) | 4:31 | 2022-08-18 |  |
 | [You Run](https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:54 | 2022-08-18 |  |
 | [Yula](https://open.spotify.com/track/0NL6PYY0tDszmywyDGeZsf) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Yula](https://open.spotify.com/album/6WzqN2vZHWPXxges3fm62r) | 6:52 | 2023-01-26 |  |
-| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-12-27 |  |
+| [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-12-27 | 2023-02-19 |
+| [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-16 |  |
 | [Zone 1 \(24 Hours\)](https://open.spotify.com/track/0WBT2NT0p99t8c77aJGQUp) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: F1 Racer & Locked In \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 5:26 | 2022-10-07 | 2022-10-28 |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-01 | 2022-11-25 |
 

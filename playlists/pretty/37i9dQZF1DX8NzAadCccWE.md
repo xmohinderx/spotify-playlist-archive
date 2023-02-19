@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,216 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,224 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 16 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 17 | [Gotta Get Next To You](https://open.spotify.com/track/1iJOElQSNhYnRQodGskkpZ) | [Jahganaut](https://open.spotify.com/artist/2HKBekvUHr8v5xjwZxAJiU), [Duburban](https://open.spotify.com/artist/5dfoxEspcJqpy1zc3N4EKV) | [Myor Massiv 09](https://open.spotify.com/album/67gQRa3dcHNOC1A6jPvs74) | 5:51 |
 | 18 | [Next 2 You \(Sinistarr Remix\)](https://open.spotify.com/track/4XxdTq6KyoZ65qD7NcMCqV) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 3:13 |
-| 19 | [Cars Fo Women](https://open.spotify.com/track/2yCgHttntJJkhkSg6nUFgc) | [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom, Vol\. 1](https://open.spotify.com/album/53eW63TwjQd00HCefxYijM) | 4:02 |
+| 19 | [Cars Fo Women](https://open.spotify.com/track/3FnG3qsK4uZl2bFVmgmG4D) | [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ) | [Ghettoboom Vol\. 1](https://open.spotify.com/album/0Vd22Fw9dPM1kEqhv8nP8s) | 4:02 |
 | 20 | [Eastern Temple](https://open.spotify.com/track/0CtxqarPgqReREt99HqGr5) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Eastern Temple](https://open.spotify.com/album/5RFU6Eq6StbGB06X9WjQqc) | 5:47 |
 | 21 | [Cover Me \- Dillinja Mix](https://open.spotify.com/track/0Ue1ej0YkXfVdYf7Q99aN1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Dillinja](https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk) | [Telegram](https://open.spotify.com/album/2dFflKqTqqV1m9kyB6CAPE) | 6:22 |
 | 22 | [She Can Dance Alone Anytime](https://open.spotify.com/track/640w6Ae8wboc5oaEPFDCWS) | [DJ これからの緊急災害](https://open.spotify.com/artist/21JvpQxHFjIw2kTpjO6fJt) | [Black Kawasaki](https://open.spotify.com/album/65diBIxNqvW0nqxiYUpdwT) | 4:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 59 | [Goes Around](https://open.spotify.com/track/5a4Y4TnykqvnKOnKv78Of1) | [Desired State](https://open.spotify.com/artist/0RTQBPcao3QGythpPmZrgQ) | [Goes Around / Here and Now](https://open.spotify.com/album/2BFf0lXitRqKcE3puBHKa3) | 6:52 |
 | 60 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MTY3MDg2NDU1NywwMDAwMDAwMDY0ZTM1NDQ1ZTcyNTFkY2JjZGVkYjZkNmM4OTFlOTNi`
+Snapshot ID: `MTY3MDg2NDU1NywwMDAwMDAwMGJmNWNkYWJkNzIyNTlkNGM4ZjQyMTMzOTBjZGYzMWUx`

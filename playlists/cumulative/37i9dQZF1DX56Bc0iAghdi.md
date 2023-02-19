@@ -2,7 +2,7 @@
 
 ### [Spirit](https://open.spotify.com/playlist/37i9dQZF1DX56Bc0iAghdi)
 
-> Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Local Sound
+> Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
 71 songs - 4 hr 20 min
 

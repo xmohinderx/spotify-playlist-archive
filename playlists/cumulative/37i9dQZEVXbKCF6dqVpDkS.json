@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188220,
+      "name": "7 Meijer",
+      "url": "https://open.spotify.com/track/4LoIThAc1Yz4wuXzBqFSgq"
+    },
+    {
+      "album": {
         "name": "Grote Versnelling",
         "url": "https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof"
       },
@@ -402,6 +420,28 @@
       "duration_ms": 187505,
       "name": "80M",
       "url": "https://open.spotify.com/track/4FpBSvi4rr4TrWcV3DtUhU"
+    },
+    {
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180496,
+      "name": "90 Gouden Platen",
+      "url": "https://open.spotify.com/track/0qkMaGeIDtTCkERQPkNGtg"
     },
     {
       "album": {
@@ -642,7 +682,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
@@ -762,6 +802,28 @@
       "duration_ms": 183631,
       "name": "Airmax BW",
       "url": "https://open.spotify.com/track/2UhWINPqByHkdf0nsQnjJO"
+    },
+    {
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Al Die Dagen",
+      "url": "https://open.spotify.com/track/5n68xr1csCewpCX1WC3lLI"
     },
     {
       "album": {
@@ -1368,7 +1430,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1498,7 +1560,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
@@ -1590,7 +1652,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -1912,7 +1974,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
@@ -2296,7 +2358,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 142857,
       "name": "Blind Op Zoek (Trapagas)",
       "url": "https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy"
@@ -2676,7 +2738,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 171226,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/3KZlVBckUXU3qCmi0h0VHf"
@@ -2774,7 +2836,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 141552,
       "name": "Bushokje",
       "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
@@ -3032,7 +3094,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -4281,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156996,
+      "name": "Discman",
+      "url": "https://open.spotify.com/track/4QzFi1nG4Gp5uxZMQgVkw2"
+    },
+    {
+      "album": {
         "name": "Discoteque",
         "url": "https://open.spotify.com/album/1OfWh8e9R7tOmrX4pGlDBe"
       },
@@ -4730,6 +4810,24 @@
       "duration_ms": 156631,
       "name": "Dragon Roll",
       "url": "https://open.spotify.com/track/4TZviWQs1JqGS03Mja0bNB"
+    },
+    {
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126619,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/5sqsmUROEMRQsF7FZlwgcc"
     },
     {
       "album": {
@@ -5722,7 +5820,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 162974,
       "name": "Ff Ademen Jij",
       "url": "https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG"
@@ -5929,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Flexxen Al Een Tijdje",
+      "url": "https://open.spotify.com/track/3sOa0x0k4hPlg9kJ9ZGFxh"
+    },
+    {
+      "album": {
         "name": "Music (Songs From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
@@ -6046,6 +6162,24 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "album": {
+        "name": "Fouten",
+        "url": "https://open.spotify.com/album/4AaB3JTIbVeijQvKwQGBYS"
+      },
+      "artists": [
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140589,
+      "name": "Fouten",
+      "url": "https://open.spotify.com/track/4SzYinwZbEpvrkVFS4YGHz"
     },
     {
       "album": {
@@ -6745,6 +6879,28 @@
     },
     {
       "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "MocroManiac",
+          "url": "https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145032,
+      "name": "Goudmijntje",
+      "url": "https://open.spotify.com/track/04PX7kBFHiCaRv7XzHv0qW"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -7057,6 +7213,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -7094,6 +7268,28 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0ip26EgYHgwRS9uIAstPsf"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171939,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/22moXPW7F65VIdchtVKvdB"
     },
     {
       "album": {
@@ -9429,6 +9625,28 @@
     },
     {
       "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173060,
+      "name": "Khadiya",
+      "url": "https://open.spotify.com/track/6CQqRYxhbmqOgOiE5obuQH"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
@@ -10944,7 +11162,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 181915,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6"
@@ -11108,7 +11326,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -11460,7 +11678,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
@@ -14340,7 +14558,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 166776,
       "name": "Ride Or Die 2",
       "url": "https://open.spotify.com/track/4TT0EXjO9vF3rsYY9fcrV8"
@@ -14438,6 +14656,32 @@
       "duration_ms": 269986,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1z2HAz6JcwfGHKMSgKEA3D"
+    },
+    {
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "Rovers",
+      "url": "https://open.spotify.com/track/51lsijGggecx26FK6yLKkR"
     },
     {
       "album": {
@@ -14950,6 +15194,32 @@
       "duration_ms": 198394,
       "name": "Schaduw",
       "url": "https://open.spotify.com/track/1hYUqHaKoxI9KRhWIU36LM"
+    },
+    {
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139214,
+      "name": "Scootertijd",
+      "url": "https://open.spotify.com/track/7AzYfYR24g3dFRrIxKHMGF"
     },
     {
       "album": {
@@ -15710,7 +15980,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -16750,7 +17020,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
@@ -17646,7 +17916,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 172931,
       "name": "Voor Het Kiezen",
       "url": "https://open.spotify.com/track/2VaDHtANHv7L2Z1ZWcKgU0"

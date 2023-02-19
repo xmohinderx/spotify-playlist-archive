@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-457 songs - 1 day 13 hr 2 min
+458 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Bussgun](https://open.spotify.com/track/6QTt0s3yawVTlQXhpPzkTB) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN), [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Visceral Minds 2](https://open.spotify.com/album/2bODZL5o8jcjfprFYtkaTw) | 3:33 | 2022-01-07 | 2022-02-19 |
 | [B£E \- aya Wavefold](https://open.spotify.com/track/47CXMS5mAERppoCxdK7bGH) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [Blackhaine](https://open.spotify.com/artist/5YUsQAApp3PLKOyhdyKPw5), [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [B£E \(aya Wavefold\)](https://open.spotify.com/album/0baiyt3lJLUE1kLJalEi4T) | 2:28 | 2022-09-23 | 2022-12-13 |
 | [C\-C\-Come On](https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [C\-C\-Come On](https://open.spotify.com/album/1RZIuaEENRWBqVRDKtyHuW) | 3:39 | 2022-12-12 |  |
-| [Cars Fo Women](https://open.spotify.com/track/2yCgHttntJJkhkSg6nUFgc) | [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom, Vol\. 1](https://open.spotify.com/album/53eW63TwjQd00HCefxYijM) | 4:02 | 2022-12-12 |  |
+| [Cars Fo Women](https://open.spotify.com/track/3FnG3qsK4uZl2bFVmgmG4D) | [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ) | [Ghettoboom Vol\. 1](https://open.spotify.com/album/0Vd22Fw9dPM1kEqhv8nP8s) | 4:02 | 2022-12-12 |  |
+| [Cars Fo Women](https://open.spotify.com/track/2yCgHttntJJkhkSg6nUFgc) | [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom, Vol\. 1](https://open.spotify.com/album/53eW63TwjQd00HCefxYijM) | 4:02 | 2022-12-12 | 2023-02-19 |
 | [Cellular Phone](https://open.spotify.com/track/5tjPyDBp9kY6HDRCxfdcz1) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Ragga Ragga Ragga 4](https://open.spotify.com/album/4ph1mJiKE4QfGBbU1JDP4o) | 3:20 | 2022-02-18 | 2022-03-01 |
 | [Cerebral Atrophy](https://open.spotify.com/track/39o5GELUj1f1gBBXf6CfBW) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture Vol 2](https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy) | 5:23 | 2022-06-17 | 2022-09-24 |
 | [Champion Sound](https://open.spotify.com/track/5HUlait8F98NnmUy8PoKA2) | [Q\-Project](https://open.spotify.com/artist/7mQbqurgWLowz9iumqdV3E) | [30 Years Of Rage](https://open.spotify.com/album/23jTvoFSWLKhfS8BWIm12x) | 6:12 | 2022-09-23 | 2022-11-22 |

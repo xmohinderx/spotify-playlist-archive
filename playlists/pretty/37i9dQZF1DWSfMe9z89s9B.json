@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Kelela",
-  "num_followers": 1336627,
+  "num_followers": 1336854,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2MzU1OCwwMDAwMDAwMDE3MDI5NzVlMGU2OGM4YmVlMzNhYWYyNjNmZmU3OWM3",
+  "snapshot_id": "MTY3NjY2MzU1OCwwMDAwMDAwMDc2ZjhlYmQ2NWYyMTM1OTFiNzg4Y2QwNDU5NjlmYTYx",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/4jooqGSJoluFI6TttmEhLq"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Find Out",
-        "url": "https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 148544,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd"
-    },
-    {
       "added_at": "2022-07-22 04:15:47",
       "album": {
         "name": "Suspension of Disbelief",
@@ -1397,22 +1381,6 @@
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Wild Animals",
-        "url": "https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Wild Animals",
-      "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
-    },
-    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "wood tip",
@@ -1723,6 +1691,38 @@
       "duration_ms": 196056,
       "name": "best",
       "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "lemon sorbet",
+        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
+      },
+      "artists": [
+        {
+          "name": "SASH",
+          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "lemon sorbet",
+      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea"
+      },
+      "artists": [
+        {
+          "name": "Amber-Simone",
+          "url": "https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV"
+        }
+      ],
+      "duration_ms": 174819,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa"
     }
   ],
   "unique_name": "Alternative R&B",

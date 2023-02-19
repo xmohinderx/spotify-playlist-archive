@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,289 likes - 113 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,301 likes - 113 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 9 | [Butterfly](https://open.spotify.com/track/2PgfMrrprDO5kwwfpPzfvm) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 4:15 |
 | 10 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 |
 | 11 | [PTT \(Paint The Town\)](https://open.spotify.com/track/0MEJznR74sW0mnSnkbiQia) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 4:14 |
-| 12 | [Not Friends \(ALAWN REMIX\)](https://open.spotify.com/track/4JMSZR1HhsOyMm8JwXdYPX) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Ryan S\. Jhun](https://open.spotify.com/artist/5pP0osrgA5jtAv6t8EpoUf) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 4:31 |
-| 13 | [Not Friends \(TIDO REMIX\)](https://open.spotify.com/track/2GH8QibZN3lChxaIYjPdSw) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Ryan S\. Jhun](https://open.spotify.com/artist/5pP0osrgA5jtAv6t8EpoUf) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:31 |
-| 14 | [Not Friends \(ORBIT REMIX\)](https://open.spotify.com/track/3nSd7w3aOfhAoGxVZuUY7X) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Ryan S\. Jhun](https://open.spotify.com/artist/5pP0osrgA5jtAv6t8EpoUf) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:28 |
-| 15 | [Not Friends ORIGINAL MIX](https://open.spotify.com/track/0T6MBcbl5Y6stcLWorNQQ2) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Ryan S\. Jhun](https://open.spotify.com/artist/5pP0osrgA5jtAv6t8EpoUf) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:15 |
-| 16 | [Not Friends \(Sung by HeeJin, Kim Lip, JinSoul, Yves\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0kgNAZLjWVm7YSnrmoBLa3) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Ryan S\. Jhun](https://open.spotify.com/artist/5pP0osrgA5jtAv6t8EpoUf) | [MAXIS BY RYAN JHUN PT\. 2](https://open.spotify.com/album/6u9spPEgty1M6cagydhqKV) | 3:15 |
+| 12 | [Not Friends \(ALAWN REMIX\)](https://open.spotify.com/track/4JMSZR1HhsOyMm8JwXdYPX) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 4:31 |
+| 13 | [Not Friends \(TIDO REMIX\)](https://open.spotify.com/track/2GH8QibZN3lChxaIYjPdSw) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:31 |
+| 14 | [Not Friends \(ORBIT REMIX\)](https://open.spotify.com/track/3nSd7w3aOfhAoGxVZuUY7X) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:28 |
+| 15 | [Not Friends ORIGINAL MIX](https://open.spotify.com/track/0T6MBcbl5Y6stcLWorNQQ2) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Not Friends Special Edition](https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH) | 3:15 |
+| 16 | [Not Friends \(Sung by HeeJin, Kim Lip, JinSoul, Yves\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0kgNAZLjWVm7YSnrmoBLa3) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [MAXIS BY RYAN JHUN PT\. 2](https://open.spotify.com/album/6u9spPEgty1M6cagydhqKV) | 3:15 |
 | 17 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 |
 | 18 | [&](https://open.spotify.com/track/4eEI7fEoKgZyoUgq48tsjd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 1:19 |
 | 19 | [WOW](https://open.spotify.com/track/4ZsSeCSgARNHlLa69ejGzz) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 2:58 |

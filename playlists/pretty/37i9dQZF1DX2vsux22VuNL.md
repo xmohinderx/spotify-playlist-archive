@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,076 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,342 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 24 | [Ela tem o dom](https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Ela tem o dom](https://open.spotify.com/album/1DBboPgk2gX2Iz2Sc76VT7) | 2:22 |
 | 25 | [Uma Linda Mulher \- Acústico](https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Irineu Barsé](https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf) | [Acústico Cancún](https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso) | 3:32 |
 | 26 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
-| 27 | [Vem Pra Cá](https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Vem Pra Cá](https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF) | 3:53 |
+| 27 | [Vem Pra Cá](https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Vem Pra Cá](https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF) | 3:53 |
 | 28 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 29 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 |
 | 30 | [Domingo](https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Domingo](https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli) | 2:38 |

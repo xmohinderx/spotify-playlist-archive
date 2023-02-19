@@ -4,7 +4,7 @@
 
 > Listen to family\-favorite tunes from the hit series.
 
-161 songs - 3 hr 7 min
+163 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Long U, Short U](https://open.spotify.com/track/2Kz0bx1MZAwMQdTxBgOCMj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:06 | 2022-08-02 |  |
 | [Long U, Short U](https://open.spotify.com/track/508v2rlhoEKX3DuYtmrIDp) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:06 | 2022-08-02 | 2022-11-17 |
 | [Look For Purple](https://open.spotify.com/track/0B87MO9qlSwJhQxbp6fOgj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG) | 1:02 | 2022-08-02 | 2023-02-08 |
-| [Look For Purple](https://open.spotify.com/track/3XKze0nfGgpACLZzFcnzd4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:02 | 2022-11-21 |  |
+| [Look For Purple](https://open.spotify.com/track/1wTqSyN2Y9ApTcqWRLGqV4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD) | 1:02 | 2022-11-21 |  |
+| [Look For Purple](https://open.spotify.com/track/3XKze0nfGgpACLZzFcnzd4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:02 | 2022-11-21 | 2023-02-19 |
 | [Multiplication](https://open.spotify.com/track/0HRMukxAb6irMigitU0aTR) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots: Answer Time \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM) | 1:15 | 2022-11-21 |  |
 | [Ocean](https://open.spotify.com/track/2w7xULmVl7ole0VdEbEAlp) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots: Answer Time \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM) | 1:08 | 2022-11-21 |  |
 | [PH Song](https://open.spotify.com/track/3lmzChu8fzHzJ3AXrk2rJ1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:03 | 2022-08-02 |  |
@@ -146,7 +147,8 @@
 | [Tiger In The Jungle](https://open.spotify.com/track/4TMV38Td4NVLWXvGmBc5vk) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:03 | 2022-11-21 |  |
 | [Time To Shine \(Moon\)](https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:38 | 2022-08-02 | 2023-02-08 |
 | [Time To Shine \(Moon\)](https://open.spotify.com/track/1GmeXKzGJaoar5gUi81heH) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/5hULlmYvCpjL0BxkkI573z) | 1:38 | 2022-11-21 |  |
-| [Triangles](https://open.spotify.com/track/6t6mbHaTrsrROqAZFXo8Nb) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:03 | 2022-08-02 |  |
+| [Triangles](https://open.spotify.com/track/1uDOHinqS3YShFL7qdzlfS) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj) | 1:03 | 2022-11-21 |  |
+| [Triangles](https://open.spotify.com/track/6t6mbHaTrsrROqAZFXo8Nb) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:03 | 2022-08-02 | 2023-02-19 |
 | [Triceratops](https://open.spotify.com/track/3YByapIh6SR6jZakRrseOP) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:16 | 2022-08-02 | 2023-02-08 |
 | [Triceratops](https://open.spotify.com/track/5qAmriO0HhYCjn9VGJcJQ4) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj) | 1:16 | 2022-11-21 |  |
 | [Triceratops](https://open.spotify.com/track/7vqsNHrPTzpMsQfsoXgfRs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:17 | 2022-11-21 | 2023-02-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,109 likes - 69 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,276 likes - 69 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 15 | [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 |
 | 16 | [Blue Violet](https://open.spotify.com/track/1vFamdetUBxidfNQmOd2vk) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Portrait with Firewood](https://open.spotify.com/album/3ngcrybWz1fUixAjS1ggl3) | 8:40 |
 | 17 | [In Mindibu \(Rival Consoles Remix\)](https://open.spotify.com/track/7nhWztlK9Vz43i1qNTziIP) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [In Mindibu \(Rival Consoles Remix\)](https://open.spotify.com/album/0stYiuIK0yCOR8mewUW3oC) | 4:26 |
-| 18 | [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 |
+| 18 | [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 |
 | 19 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 20 | [Invisible](https://open.spotify.com/track/10iQCHZpqN5VRylGhdr2oe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft](https://open.spotify.com/album/2IeXuOg0uD7WDR7RsCsMOI) | 5:09 |
 | 21 | [Kiss \- Colyn & Konstantin Sibold Remix](https://open.spotify.com/track/6GgbPOVOGcem6CtVbCcR5o) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Kiss \(Remixes\)](https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x) | 6:54 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 24 | [Sixth Dimension \- Original Mix](https://open.spotify.com/track/3XYeV9fGkgqRAP5itt4idN) | [Paride Saraceni](https://open.spotify.com/artist/4QoLfjVJzb5qdQaXQFxlri) | [Uncaged](https://open.spotify.com/album/6t44782ZfajOL57wgcmgyl) | 6:17 |
 | 25 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 |
 | 26 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
-| 27 | [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 |
+| 27 | [Fallen Enemies](https://open.spotify.com/track/5VLPGOWU3zcKbOeG0wDYEM) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/3DevhUgrKtw53hNSxJhgkY) | 4:19 |
 | 28 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 |
 | 29 | [Exhilaration \- Shall Ocin Remix](https://open.spotify.com/track/2Hslrcg7tm6YRP4f7ohSHG) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 7:42 |
 | 30 | [Estera](https://open.spotify.com/track/0HhiJrRsrK1o11pZli16pH) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Liberator](https://open.spotify.com/album/63qZOHZGH28mY9HCYFYuks) | 6:39 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 68 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 69 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MTY3NjQ5MzEzOSwwMDAwMDAwMDE5MTUxNTdhMGI0ZTcwODA1MWRkMDgxMzQ2MDhjMzIz`
+Snapshot ID: `MTY3NjQ5MzEzOSwwMDAwMDAwMGE5ODhhMjIxMmJkZTM5YjE0YWM0OGE0MjhkMzUxMGM4`

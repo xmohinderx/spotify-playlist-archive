@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-467 songs - 1 day 2 hr 23 min
+468 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [SOMETHING TO PROVE](https://open.spotify.com/track/6w2ApsjOjzr0mBNVp2INPa) | [Show Hustle](https://open.spotify.com/artist/5jhytxAupfWWuxCJt5xrAl), [Moha The B](https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco) | [SOMETHING TO PROVE](https://open.spotify.com/album/2LzskkbNkpnJz1kfBqT5gD) | 2:53 | 2022-12-09 | 2023-01-26 |
 | [Somos Más](https://open.spotify.com/track/2bXhtAzbrxN2FVACSXe0DZ) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [Somos Más](https://open.spotify.com/album/6dn0UFnLCVSUhEdRGzqWYy) | 3:57 | 2022-03-09 | 2022-05-14 |
 | [Sprite](https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu) | [Mauco](https://open.spotify.com/artist/3OzESUg9or4TuPNimZD3XC), [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Elijah King](https://open.spotify.com/artist/4pdqUuVL0DtPf06XU0YkMr) | [Sprite](https://open.spotify.com/album/372LsHUhSFHSI0aPxHUxyX) | 3:37 | 2022-03-09 | 2022-10-08 |
-| [Standard](https://open.spotify.com/track/6NL2Lo67Xd7Zdnke6eWqa7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:31 | 2022-12-09 |  |
+| [Standard](https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:31 | 2023-02-09 |  |
+| [Standard](https://open.spotify.com/track/6NL2Lo67Xd7Zdnke6eWqa7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:31 | 2022-12-09 | 2023-02-19 |
 | [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-13 | 2022-10-08 |
 | [Stripper X](https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:38 | 2022-05-13 | 2023-01-26 |
 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 | 2022-01-06 | 2022-01-20 |

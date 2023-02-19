@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Mae Stephens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,347 likes - 150 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,437 likes - 150 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

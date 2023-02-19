@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,371 likes - 103 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,577 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 45 | [Rewind](https://open.spotify.com/track/3n10o2TMQManm9fYQ1jcoV) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Rewind](https://open.spotify.com/album/3JpABmjFijcxbinWPWv0vK) | 3:06 |
 | 46 | [Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
 | 47 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 |
-| 48 | [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 |
+| 48 | [All Clear](https://open.spotify.com/track/5VRDbvm8OaLHqMu7D9lvw5) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:44 |
 | 49 | [la chute \(piano\)](https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [la chute \(piano\)](https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho) | 3:07 |
 | 50 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 |
 | 51 | [a gift](https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 2:59 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 102 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 |
 | 103 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |
 
-Snapshot ID: `MTY3NjI4NTM3MSwwMDAwMDAwMDk1ZjUxOTdmN2I1NWViOGRhMDRjYmQyNWIwZGI0MTBi`
+Snapshot ID: `MTY3NjI4NTM3MSwwMDAwMDAwMDZlMmFjYjVjNTgwYzFkNTI4YmZkNTRiY2EzNDBmYjY2`

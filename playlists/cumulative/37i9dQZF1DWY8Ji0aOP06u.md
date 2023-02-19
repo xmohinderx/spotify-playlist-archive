@@ -4,7 +4,7 @@
 
 > Nordic underground pioneer <a href="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
 
-11 songs - 1 hr 0 min
+12 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Evade \- Mixed](https://open.spotify.com/track/6NnVYLFIJQOS65TwOQCo4S) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Evade \(Mixed\)](https://open.spotify.com/album/68kRVSlTieGk4vG73w5WmW) | 3:08 | 2022-03-01 |  |
 | [Galheera \- Original Mix \- Mixed](https://open.spotify.com/track/7vQvXCt2ODMa18lNekf6G7) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Galheera \- Original Mix \(Mixed\)](https://open.spotify.com/album/4U3ZXofukd4sR17WNI6HeI) | 7:37 | 2022-03-01 |  |
 | [Her Smile \- Mixed](https://open.spotify.com/track/4KQlhU5Afo6WIvoXYNdSSz) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Her Smile \(Mixed\)](https://open.spotify.com/album/0TqIQ6z3EQzNUmcfptFz6o) | 4:10 | 2022-03-01 |  |
-| [Keep It Stronger \- Mixed](https://open.spotify.com/track/4ab8DIbc23Bu26uyU0aBT3) | [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Keep It Stronger \(Mixed\)](https://open.spotify.com/album/5JFOjmcflZ1qszwMgDVgbT) | 5:54 | 2022-03-01 |  |
+| [Keep It Stronger \- Mixed](https://open.spotify.com/track/3j9yGHoyopOAatYNMEbaLx) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj) | [Keep It Stronger \(Mixed\)](https://open.spotify.com/album/1dQludCW9f0xPa7uwNEjED) | 5:54 | 2022-03-01 |  |
+| [Keep It Stronger \- Mixed](https://open.spotify.com/track/4ab8DIbc23Bu26uyU0aBT3) | [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Keep It Stronger \(Mixed\)](https://open.spotify.com/album/5JFOjmcflZ1qszwMgDVgbT) | 5:54 | 2022-03-01 | 2023-02-19 |
 | [Kept Within \- Mixed](https://open.spotify.com/track/60JTNLaijhiyfJLUDyNu83) | [Aril Brikha](https://open.spotify.com/artist/3zWrv3ns5knPAVMR30hxxO) | [Kept Within \(Mixed\)](https://open.spotify.com/album/6v6XSeEG4Djp6uYKtiXljh) | 6:51 | 2022-03-01 |  |
 | [Memnon \- Mixed](https://open.spotify.com/track/53QVvXeipN0NrUoS0d3TaJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Memnon \(Mixed\)](https://open.spotify.com/album/2EAGSNAqqmTiMnBqtbYwv3) | 5:53 | 2022-03-01 |  |
 | [No Flash \- Mixed](https://open.spotify.com/track/0FrrQjD2hUknDdjX7MSWYF) | [Darlyn Vlys](https://open.spotify.com/artist/0dpGnP2FznqTc0Ql0E8t2P), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [No Flash \(Mixed\)](https://open.spotify.com/album/1ZwOauAaFMtRUeruCuxN50) | 4:56 | 2022-03-01 |  |

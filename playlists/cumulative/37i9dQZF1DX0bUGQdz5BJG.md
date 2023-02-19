@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-1,091 songs - 2 day 10 hr 20 min
+1,092 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Beers In It](https://open.spotify.com/track/3RgujXKloXw5ST2aKmSHHZ) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Beers In It](https://open.spotify.com/album/19ypgDTLia9odLCVsFYtHk) | 2:41 | 2022-05-27 | 2022-09-03 |
 | [Before I Loved You](https://open.spotify.com/track/0MIc8FKP8fE0v5AgyIWH56) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Before I Loved You](https://open.spotify.com/album/3HexnvFFBbddWfNwuw2kye) | 2:28 | 2021-12-31 | 2022-02-26 |
 | [Before You](https://open.spotify.com/track/5nPt2lxfI2Q3IIU6Fry25R) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Before You](https://open.spotify.com/album/2Xz8ZyFxGzRTepW9ph2RiB) | 2:52 | 2022-07-29 | 2022-09-10 |
-| [Bench Seat](https://open.spotify.com/track/1f8cDVxSt4P6vfP8VvYhJ4) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Songs From I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/0cWOT0ztkGUKJNb0M9nJfM) | 4:02 | 2023-01-27 |  |
+| [Bench Seat](https://open.spotify.com/track/1f8cDVxSt4P6vfP8VvYhJ4) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Songs From I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/0cWOT0ztkGUKJNb0M9nJfM) | 4:02 | 2023-01-27 | 2023-02-19 |
+| [Bench Seat](https://open.spotify.com/track/74SH9FrC7nDtf8sxAaMYEI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 4:02 | 2023-02-17 |  |
 | [Best Beers Yet](https://open.spotify.com/track/2sEukXOcdmR1g4q2tBxdQf) | [Matt Freedman](https://open.spotify.com/artist/5umTrwJc1kCpROdrQUQkNK) | [Best Beers Yet](https://open.spotify.com/album/3nvTJNfI8qhZYJrvAVFrd3) | 3:26 | 2022-10-28 |  |
 | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/album/1GsUZtyhgT2Ho1CcGufHZO) | 4:00 | 2022-02-18 | 2022-05-14 |
 | [Best Revenge](https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Best Revenge](https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV) | 3:18 | 2022-02-18 | 2022-03-18 |

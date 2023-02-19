@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Aqua Regia",
+        "url": "https://open.spotify.com/album/2SJaa2gUbnyk66sNqB5Y5p"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236020,
+      "name": "Aqua Regia",
+      "url": "https://open.spotify.com/track/5VwEIEUmwHZpXMHxMHxlJp"
+    },
+    {
+      "album": {
         "name": "Cheat Codes",
         "url": "https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy"
       },
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4864,7 +4882,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -5936,7 +5954,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 174146,
       "name": "Even When I\u2019m Not With You",
       "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
@@ -8237,6 +8255,24 @@
     },
     {
       "album": {
+        "name": "cult",
+        "url": "https://open.spotify.com/album/4aVHPrgGN1zUvwGcYXWlYM"
+      },
+      "artists": [
+        {
+          "name": "alfie",
+          "url": "https://open.spotify.com/artist/1Kl40HiUzK9QI76ZSTSSaD"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176927,
+      "name": "hardy boys",
+      "url": "https://open.spotify.com/track/0OUtEvkyUJBvt0eSjiuW1K"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
@@ -10248,7 +10284,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 162985,
       "name": "It's a Beautiful Day (Reprise)",
       "url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d"
@@ -16585,6 +16621,24 @@
     },
     {
       "album": {
+        "name": "rockhardt",
+        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "rockhardt",
+      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+    },
+    {
+      "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
@@ -22346,7 +22400,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 203688,
       "name": "What You Say?",
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"

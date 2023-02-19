@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,193 likes - 155 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,526 likes - 155 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,11 +157,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 147 | [Super Human](https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Super Human](https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf) | 4:06 |
 | 148 | [My Last Song](https://open.spotify.com/track/3JCduk0tXQFjJBzo7qsj5e) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [My Last Song](https://open.spotify.com/album/7udkEjMPP76tjv8RL1zl2q) | 2:35 |
 | 149 | [Bad For Me \- 49th & Main Remix](https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY), [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Bad For Me \(49th & Main Remix\)](https://open.spotify.com/album/5eg2sHsFBcTbHeXsazb8p2) | 2:50 |
-| 150 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 |
-| 151 | [Alone](https://open.spotify.com/track/7Mle7Hl4xLcbaSOTNvKDrg) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5C0QX3dIaId5XpyL5nxh2h) | 2:51 |
-| 152 | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/track/7cLFofGRp0FrGmehccM9wl) | [Falling North](https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/album/4NE83xhCpPvURshrn08BWC) | 3:35 |
-| 153 | [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 |
-| 154 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
-| 155 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 |
+| 150 | [Alone](https://open.spotify.com/track/7Mle7Hl4xLcbaSOTNvKDrg) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5C0QX3dIaId5XpyL5nxh2h) | 2:51 |
+| 151 | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/track/7cLFofGRp0FrGmehccM9wl) | [Falling North](https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/album/4NE83xhCpPvURshrn08BWC) | 3:35 |
+| 152 | [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 |
+| 153 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
+| 154 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 |
+| 155 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDljZThiZmIzMTFhMzBlMmYxMzdjNDIyMGI5MWU1YmRk`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDRlMmM5ODJiYjE0MTJlZWMzMTAzZDg3Njc1ZGE4NjVl`

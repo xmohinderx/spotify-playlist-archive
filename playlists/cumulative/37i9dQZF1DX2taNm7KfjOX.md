@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-463 songs - 1 day 5 hr 3 min
+464 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [Without a Face](https://open.spotify.com/track/5AE8JSskG5qY6ZlZ0JvKHC) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Passerby](https://open.spotify.com/album/3YMi92E4Jwp6mKfdtI8gex) | 3:44 | 2022-04-13 | 2022-04-21 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-10-22 |  |
 | [Wolves](https://open.spotify.com/track/33q6BHmiBzHVGkaFAXoRHu) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Wolves](https://open.spotify.com/album/32EpdWxYe2Rmzz6Ci95F3G) | 3:09 | 2022-04-13 | 2022-04-19 |
-| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-13 |  |
+| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-13 | 2023-02-19 |
+| [Words](https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Waking Up](https://open.spotify.com/album/5740DSdBXecq02r5WpIigM) | 5:25 | 2023-02-17 |  |
 | [Worship the Sun](https://open.spotify.com/track/3Seg3sd8Hm9YLA80TuCrvg) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Worship the Sun](https://open.spotify.com/album/4B8BE4Ktea24OMTx9opETR) | 4:09 | 2021-11-19 | 2022-07-28 |
 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 | 2022-10-14 |  |
 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 | 2021-10-22 |  |

@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-106 songs - 4 hr 50 min
+107 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |
 | [High Diver](https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 3:42 | 2022-06-01 | 2022-10-09 |
 | [Hot Pants](https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:52 | 2022-05-29 |  |
-| [In The Clouds](https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 5:29 | 2022-05-29 |  |
+| [In The Clouds](https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 5:29 | 2022-05-29 | 2023-02-19 |
 | [Laura](https://open.spotify.com/track/1xm6n05NR02rGfhPXdbmS2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Laura](https://open.spotify.com/album/7nG2Idce7vm6pBdxp2eEA1) | 4:00 | 2022-06-12 |  |
 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 | 2022-05-29 | 2023-02-17 |
 | [Lounging at Dave's](https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Adam Mills](https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 1:57 | 2022-08-17 |  |
@@ -92,6 +92,7 @@
 | [Sky Train](https://open.spotify.com/track/6YwVCVgTqnoCvcJyDGSxC8) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 2:33 | 2022-05-29 |  |
 | [Soft Throttle](https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Luke Vibert's Nuggets 3](https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK) | 2:59 | 2022-05-29 |  |
 | [Soul Organ Impromptu](https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:57 | 2022-05-31 |  |
+| [Speed Run](https://open.spotify.com/track/0glHvRJiMtJkli6pVUxglI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:26 | 2023-02-18 |  |
 | [Speed Speed Speed](https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 1:17 | 2022-08-29 |  |
 | [Speed Speed Speed](https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:17 | 2022-05-31 | 2022-08-23 |
 | [Sportsworld](https://open.spotify.com/track/44YEssSEcZpd8ajr9XON8z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Highlights](https://open.spotify.com/album/53lRdtLiHz3eDyVi5OXhCk) | 1:53 | 2022-11-11 | 2022-11-17 |

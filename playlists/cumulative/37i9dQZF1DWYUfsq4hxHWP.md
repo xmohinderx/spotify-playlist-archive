@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Zack Dyer, Artwork: Fanélie Muselier
 
-1,249 songs - 2 day 20 hr 15 min
+1,250 songs - 2 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,8 @@
 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-17 | 2022-09-29 |
 | [Get It Girl](https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Get It Girl](https://open.spotify.com/album/4YMLdLyEfY41B8PlFBUFQ5) | 3:19 | 2022-01-12 | 2022-01-20 |
 | [Get Me off \(Your Mind\)](https://open.spotify.com/track/1J79OgedZE6zfQislW89Sj) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Get Me off \(Your Mind\)](https://open.spotify.com/album/0g6WNdFgNiLAFnO1Hfppf4) | 2:54 | 2022-06-29 | 2022-07-28 |
-| [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 | 2023-02-01 |  |
+| [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 | 2023-02-15 |  |
+| [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 | 2023-02-01 | 2023-02-19 |
 | [Getaway](https://open.spotify.com/track/0Fm7DsAwJdEco1Oe4wUwCM) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j), [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Getaway](https://open.spotify.com/album/0Q8SD4uic12Unpy5ALhUse) | 2:24 | 2022-06-08 | 2022-07-21 |
 | [Getaway Car](https://open.spotify.com/track/28cjYUKmctVIA7wcg9QTCa) | [Flatland Revival](https://open.spotify.com/artist/1uG5PUWUIocAg5fRc7ojsD) | [Getaway Car](https://open.spotify.com/album/0uRPVlaGEjOCNrW8hO2PAP) | 3:21 | 2022-01-12 | 2022-01-27 |
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-16 | 2022-03-31 |

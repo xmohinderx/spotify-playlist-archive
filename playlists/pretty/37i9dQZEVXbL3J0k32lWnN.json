@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 195349,
+  "num_followers": 195368,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI5OTQ0MzU3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMwMDYwMTI1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "For Altid",
         "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
@@ -41,7 +41,27 @@
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "All In (feat. Lamin)",
+        "url": "https://open.spotify.com/album/5YaoLpCckKTrxe1CDfrI8h"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 176430,
+      "name": "All In (feat. Lamin)",
+      "url": "https://open.spotify.com/track/5PIiJ3kodpPftCM6alodDE"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Sp\u00f8rgsm\u00e5l (feat. Gilli & Lamin)",
         "url": "https://open.spotify.com/album/1ZIMkrh5gM972Y2eSZP4W7"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/3lCI7M5mWqRCehrT7qiEI8"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Lidt Endnu (Medina x D1MA)",
         "url": "https://open.spotify.com/album/0IudkxHfRwub8ugNwr3UzN"
@@ -101,23 +121,7 @@
       "url": "https://open.spotify.com/track/0QiwUoiD9DZ6VGF5qgf6yg"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 158957,
-      "name": "Tro P\u00e5 K\u00e6rlighed",
-      "url": "https://open.spotify.com/track/6UMdjOGgEJE1khAnrGJk2k"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -141,23 +145,23 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "L\u00c6NGE LEVE",
-        "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
       },
       "artists": [
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         }
       ],
-      "duration_ms": 184435,
-      "name": "L\u00e6nge Leve",
-      "url": "https://open.spotify.com/track/12YCYHtGcwm9kbSmbcWB4f"
+      "duration_ms": 158957,
+      "name": "Tro P\u00e5 K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/6UMdjOGgEJE1khAnrGJk2k"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -173,23 +177,7 @@
       "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "I Dette Sekund",
-      "url": "https://open.spotify.com/track/6CXEE50UwavPX2ExFa26EY"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -209,43 +197,23 @@
       "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "name": "L\u00c6NGE LEVE",
+        "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+      "duration_ms": 184435,
+      "name": "L\u00e6nge Leve",
+      "url": "https://open.spotify.com/track/12YCYHtGcwm9kbSmbcWB4f"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Hjalmer",
-          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
-        }
-      ],
-      "duration_ms": 167850,
-      "name": "Frie Fugle (feat. Hjalmer)",
-      "url": "https://open.spotify.com/track/0OHnyBb5ybSWlNpGrCvDLa"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
@@ -261,7 +229,7 @@
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
@@ -270,18 +238,50 @@
         {
           "name": "Gobs",
           "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 159012,
-      "name": "Flytter Bjerge (feat. Branco)",
-      "url": "https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP"
+      "duration_ms": 170393,
+      "name": "I Dette Sekund",
+      "url": "https://open.spotify.com/track/6CXEE50UwavPX2ExFa26EY"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Elo Elo",
         "url": "https://open.spotify.com/album/0x7BDbNbdoXcFcsHrd3lft"
@@ -309,7 +309,27 @@
       "url": "https://open.spotify.com/track/3i0kzCSbAY2kDX2xiJdRLE"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 167850,
+      "name": "Frie Fugle (feat. Hjalmer)",
+      "url": "https://open.spotify.com/track/0OHnyBb5ybSWlNpGrCvDLa"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
@@ -329,27 +349,7 @@
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 153856,
-      "name": "Endnu En Krig (feat. Lasse Skriver)",
-      "url": "https://open.spotify.com/track/4vmpWGyqItUCOwFlJLjyw1"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7JqI6lxV0zDu8wIUYegsGE"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -385,95 +385,27 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         },
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 159012,
+      "name": "Flytter Bjerge (feat. Branco)",
+      "url": "https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Infinity Action: Kult & B-sider",
-        "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 201479,
-      "name": "Og Du Blev Til En Hvid Fugl",
-      "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -493,7 +425,111 @@
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "Infinity Action: Kult & B-sider",
+        "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 201479,
+      "name": "Og Du Blev Til En Hvid Fugl",
+      "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 153856,
+      "name": "Endnu En Krig (feat. Lasse Skriver)",
+      "url": "https://open.spotify.com/track/4vmpWGyqItUCOwFlJLjyw1"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "Sut",
+        "url": "https://open.spotify.com/album/2hps5XjwPVH1fFi8UBeDW8"
+      },
+      "artists": [
+        {
+          "name": "Ude Af Kontrol",
+          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+        }
+      ],
+      "duration_ms": 93787,
+      "name": "Sut",
+      "url": "https://open.spotify.com/track/3AlyvahmhKPbi1vMnalfXe"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Ferrari (D1MA Remix)",
         "url": "https://open.spotify.com/album/5i0B1JwfduRTWXo34U0yoJ"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/7tleRLLNqW5yH7846TguuZ"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "L\u00c6NGE LEVE",
         "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/0eTCdGJVebRb5e6PXR73D9"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
@@ -549,23 +585,23 @@
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Sut",
-        "url": "https://open.spotify.com/album/2hps5XjwPVH1fFi8UBeDW8"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
       },
       "artists": [
         {
-          "name": "Ude Af Kontrol",
-          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 93787,
-      "name": "Sut",
-      "url": "https://open.spotify.com/track/3AlyvahmhKPbi1vMnalfXe"
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -581,43 +617,7 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Danser Med Piger",
-        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
-      },
-      "artists": [
-        {
-          "name": "Danser Med Piger",
-          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "Danser Med Piger",
-      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
@@ -637,55 +637,23 @@
       "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "L\u00c6NGE LEVE",
-        "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 202915,
-      "name": "Snubler",
-      "url": "https://open.spotify.com/track/6oNgurLd0pCnLMWPOxt5Es"
+      "duration_ms": 221811,
+      "name": "Feberdr\u00f8mmer Xx Dubai",
+      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "The Hardest Love",
-        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -705,23 +673,23 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+        "name": "Danser Med Piger",
+        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+          "name": "Danser Med Piger",
+          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
         }
       ],
-      "duration_ms": 221811,
-      "name": "Feberdr\u00f8mmer Xx Dubai",
-      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
+      "duration_ms": 168849,
+      "name": "Danser Med Piger",
+      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -737,7 +705,23 @@
       "url": "https://open.spotify.com/track/7DzV3IBvCHicokoiUCpWda"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "L\u00c6NGE LEVE",
+        "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 202915,
+      "name": "Snubler",
+      "url": "https://open.spotify.com/track/6oNgurLd0pCnLMWPOxt5Es"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -753,23 +737,7 @@
       "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Terrier",
         "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
@@ -785,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -805,55 +773,75 @@
       "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+        "name": "The Hardest Love",
+        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 148301,
-      "name": "Sig Det Igen",
-      "url": "https://open.spotify.com/track/2hWfh8N03w8gRnSMJZyuiO"
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
       "album": {
         "name": "Hurtige H\u00e6nder (Acoustic Version - Moyo Live P3)",
         "url": "https://open.spotify.com/album/0beTs4tB8Tgp8cg4FqCEqR"
@@ -869,36 +857,52 @@
       "url": "https://open.spotify.com/track/3D0VPp6nCN9dsyUjFv2BvP"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Solen Op",
-        "url": "https://open.spotify.com/album/7sHCxQKeu6O7D54wXnvBVm"
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
       "artists": [
         {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 144577,
-      "name": "Solen Op",
-      "url": "https://open.spotify.com/track/3riJzTjTvRcuvUfG7q7x25"
+      "duration_ms": 266040,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2023-02-17 10:19:17",
+      "added_at": "2023-02-18 18:28:45",
       "album": {
-        "name": "Breaking My Heart",
-        "url": "https://open.spotify.com/album/4F56jP5yIlOGBCL8NJBizD"
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
       "artists": [
         {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 163471,
-      "name": "Breaking My Heart",
-      "url": "https://open.spotify.com/track/0Bz7sidJkrYTnEQoYSxU0C"
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-02-18 18:28:45",
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 148301,
+      "name": "Sig Det Igen",
+      "url": "https://open.spotify.com/track/2hWfh8N03w8gRnSMJZyuiO"
     }
   ],
   "unique_name": "Top 50 - Denmark",

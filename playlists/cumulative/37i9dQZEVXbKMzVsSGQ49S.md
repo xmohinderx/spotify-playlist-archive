@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,170 songs - 2 day 16 hr 44 min
+1,172 songs - 2 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Amplified](https://open.spotify.com/track/4WeXbnhN2jQ5izKOJX0Pfv) | [DJ Muscleboy](https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f), [Manswess](https://open.spotify.com/artist/3ZCQVTHTAg68IJ5hWRgh9X) | [Amplified](https://open.spotify.com/album/1KYVClcOUd1Lg8s8NBKuBg) | 2:48 | 2022-04-16 | 2022-04-19 |
 | [Andartak](https://open.spotify.com/track/1OGIkusuJHgRoWFpTUhv8c) | [Auður](https://open.spotify.com/artist/21SqAOtuXFpwygK1GNxjTm) | [Venus](https://open.spotify.com/album/5Q0aWHu3M6alND61tb9N7i) | 3:14 | 2021-04-04 | 2021-04-10 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-18 |  |
-| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 |  |
+| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-02-19 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-20 |
 | [aquamane](https://open.spotify.com/track/3VA7BEtDVG4XY2oktou6gJ) | [Lil Binni](https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3) | [þjóðþekktur einstaklingur í valdastöðu](https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P) | 1:20 | 2022-04-21 | 2022-04-25 |
 | [Arabian Horse](https://open.spotify.com/track/5ZJgQ3KB4rKAQGKh7Otsvt) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ) | [Arabian Horse](https://open.spotify.com/album/5JGQvGVSdOozrA7CA0NHNS) | 6:08 | 2022-03-20 | 2022-03-22 |
@@ -400,6 +400,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-16 |
 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2022-08-09 | 2022-09-24 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-04-28 | 2023-01-03 |
+| [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 |  |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-16 |
 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 | 2022-04-30 | 2022-05-02 |
 | [Heimskir](https://open.spotify.com/track/6TqB22tmNwfM3danwIFMtY) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [S4W](https://open.spotify.com/album/4so3RjKERHvgCTk4uyJsMb) | 2:31 | 2021-10-31 | 2021-11-02 |
@@ -450,7 +451,7 @@
 | [Hátíð í bæ](https://open.spotify.com/track/2EGgDjfNyCskVU0YArzB2D) | [Egill Ólafsson](https://open.spotify.com/artist/4EYftd8N7pujRjEkIxAZbE) | [100 íslensk jólalög](https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y) | 2:03 | 2021-11-28 | 2022-12-26 |
 | [Hækkum í botn](https://open.spotify.com/track/0LU4WGvqi88j2RjDhhN6Dm) | [SUNCITY](https://open.spotify.com/artist/0jhE3Qa31oY3hroTyEuvUG), [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Söngvakeppnin 2022](https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi) | 2:58 | 2022-03-06 | 2022-03-16 |
 | [Húðinni](https://open.spotify.com/track/6pMBJKE2xWplyWtj8wdfYZ) | [Birgir Hákon](https://open.spotify.com/artist/29G2YTqyNXysziWEYJMh8K) | [Húðinni](https://open.spotify.com/album/1CNEGPjwQqs2FzOdTPJ6Im) | 2:09 | 2021-04-04 | 2021-04-09 |
-| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 | 2023-02-19 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-28 | 2023-02-15 |
 | [I Am What I Am](https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3) | [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [I Am What I Am](https://open.spotify.com/album/2IXU4jYEgRFMJiOsdLM2Pw) | 3:02 | 2022-05-12 | 2022-05-15 |
 | [I Cannot Be \(A Sadder Song\) \(with Gunna\)](https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:49 | 2022-06-04 | 2022-06-06 |
@@ -738,6 +739,7 @@
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-12 | 2021-10-04 |
 | [Ofboðslega frægur](https://open.spotify.com/track/203uQ5u5ZLiNC4g5zSG0vR) | [Stuðmenn](https://open.spotify.com/artist/25ekuoCP29jHKzH4PEGun6) | [Hve glöð er vor æska](https://open.spotify.com/album/3agKb7TJIFcsQ5V8n4uTUq) | 4:11 | 2022-07-30 | 2022-08-03 |
 | [Ofboðslega frægur](https://open.spotify.com/track/7us0EfoX0SIndotw8lngrf) | [Stuðmenn](https://open.spotify.com/artist/25ekuoCP29jHKzH4PEGun6) | [Hve glöð er vor æska](https://open.spotify.com/album/6c6atdY6is7LiCxDXBqLjZ) | 4:11 | 2021-08-02 | 2021-08-04 |
+| [OFBOÐSLEGA FRÆGUR \(REMIX\)](https://open.spotify.com/track/2VxleO73FjjPe888M7SiQv) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [OFBOÐSLEGA FRÆGUR \(REMIX\)](https://open.spotify.com/album/2B9cf0gTZFw2isv58Pf3mM) | 2:36 | 2023-02-18 |  |
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2021-03-27\* | 2021-03-29 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-10-06 |
 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 | 2021-10-06 | 2021-10-17 |

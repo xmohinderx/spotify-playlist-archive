@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-102 songs - 6 hr 58 min
+103 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [5 Pieces, Op\. 75, "the Trees": No\. 5 Granen \(the Spruce\)](https://open.spotify.com/track/4fU1mpvaRbTqRXZN6JNlRj) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/2Ba4pAgqmtEda6HGoGl7JZ) | 3:38 | 2022-02-04 | 2022-07-29 |
 | [5 Pieces, Op\. 75, "The Trees": No\. 5 Granen \(The Spruce\)](https://open.spotify.com/track/5gA69lYP3nCULBTdL3quJO) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2) | 3:38 | 2022-05-03 |  |
 | [5 Pieces, Op\. 75, "The Trees": No\. 5 Granen \(The Spruce\)](https://open.spotify.com/track/7y8PdsPwiGPKIVAYp0z6Or) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/09K0JVO5wFbT63DSkwXw4j) | 3:38 | 2022-10-14 | 2022-11-14 |
-| [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-05-03 |  |
+| [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-05-03 | 2023-02-19 |
+| [All Clear](https://open.spotify.com/track/5VRDbvm8OaLHqMu7D9lvw5) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:44 | 2023-01-09 |  |
 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 | 2022-02-04 | 2022-07-29 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 |  |
 | [Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Filarmonica della Scala](https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq) | 3:14 | 2022-02-04 |  |

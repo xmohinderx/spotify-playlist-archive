@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,353 likes - 150 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,374 likes - 150 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,630 likes - 134 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,731 likes - 134 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

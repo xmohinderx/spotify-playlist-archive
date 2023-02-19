@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Eifi
 
-379 songs - 20 hr 38 min
+380 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Hyperion](https://open.spotify.com/track/1tbRdvVTxR6vifFMQnNuuB) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O) | [Hyperion](https://open.spotify.com/album/684ohrwWRvdJmAY690jV2i) | 3:13 | 2022-08-27 | 2022-09-24 |
 | [I Don't Wanna Marry My Cousin](https://open.spotify.com/track/420NRFnA2zP71jwXV7IvFR) | [Gemini Djs](https://open.spotify.com/artist/1e30oBGxwexD9USjlRzbJy) | [I Don't Wanna Marry My Cousin](https://open.spotify.com/album/3vGVP1qi0xP4EnYhET0iPf) | 2:44 | 2022-08-27 | 2022-09-24 |
 | [I GOT](https://open.spotify.com/track/0yNA35paVnZseB7kpp3iO7) | [Hassan.](https://open.spotify.com/artist/6dxicpXbkI5BGxvrNjjaoD), [Ali Mustafa](https://open.spotify.com/artist/0NiK69KvCF6g9enPy7T3Tp), [MirzaMadeIt](https://open.spotify.com/artist/6d9IaLldPA07e9kAPHfSnK) | [I GOT](https://open.spotify.com/album/7lQpz3FGYCSpgisChhgmPu) | 3:08 | 2022-10-26 | 2022-11-18 |
-| [I was thinking about you last night](https://open.spotify.com/track/1ToeOoA1YAb63wtI8v1Ti0) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b) | [I was thinking about you last night](https://open.spotify.com/album/4EV6Iuw5RvD6DRQiQYfOEz) | 2:20 | 2023-01-10 |  |
+| [I was thinking about you last night](https://open.spotify.com/track/1ToeOoA1YAb63wtI8v1Ti0) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b) | [I was thinking about you last night](https://open.spotify.com/album/4EV6Iuw5RvD6DRQiQYfOEz) | 2:20 | 2023-01-10 | 2023-02-19 |
 | [Ik Mulaqat Hui](https://open.spotify.com/track/3Y72uWevS6g2t4YwBWVdk9) | [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk) | [Dahr](https://open.spotify.com/album/7kQSYeUQY7NEquVaW8yXNS) | 4:42 | 2022-11-30 | 2023-01-11 |
 | [IMPASSIONED](https://open.spotify.com/track/3bfvZAO5cn3KDWOiebfjFz) | [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E), [MRKLE](https://open.spotify.com/artist/18op6e1fVPmSj6796DOeSA) | [IMPASSIONED](https://open.spotify.com/album/11a4aE94KGPAwNMR6IwfZe) | 3:35 | 2022-11-17 | 2022-12-01 |
 | [INFINITY](https://open.spotify.com/track/7GwYAo3v1ugRhUNe9T70Vk) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [INFINITY](https://open.spotify.com/album/6OHslSAHF2yoyXN6tCCYmH) | 4:04 | 2022-11-17 | 2022-12-01 |
@@ -349,6 +349,7 @@
 | [The Nikkah Song](https://open.spotify.com/track/5DlQkMvrMpxOHik7hoSx2m) | [Faisal Wadood](https://open.spotify.com/artist/5m4QU1DZCVqWwJqj4ZdxWa) | [The Nikkah Song](https://open.spotify.com/album/4V9iEy9WXOkOcnvoxyZMA3) | 4:10 | 2022-11-17 |  |
 | [The Sheedi Offering](https://open.spotify.com/track/4CFggcnvPHD2dLYPbb95Rw) | [Zohaib Kazi](https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci), [Babu Bhai Sheedi Group](https://open.spotify.com/artist/306LpWooBrZk8v1IqcdXXy) | [The Sheedi Offering](https://open.spotify.com/album/1H8ry1HQYXs0CfCuGevz5L) | 3:12 | 2023-01-25 | 2023-02-14 |
 | [Theek Hai](https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Theek Hai](https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183) | 2:22 | 2022-11-30 | 2023-01-11 |
+| [Thinking about you](https://open.spotify.com/track/13lsSMQm0xyWiOc2kCvADx) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b) | [Thinking about you](https://open.spotify.com/album/2ELlnYULZUEOuaziblhOoT) | 2:20 | 2023-02-13 |  |
 | [Thora Sa](https://open.spotify.com/track/5t4hDU47hspfdtTAbOE92O) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Thora Sa](https://open.spotify.com/album/4zEwitalRn8Qo81ataTLNa) | 2:40 | 2023-02-13 |  |
 | [Time](https://open.spotify.com/track/2mhMU5Q0oMpQCf90wuGYiT) | [Aisha Ijlal](https://open.spotify.com/artist/2It0rhAgCkWyxdzaSbfz0e), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Turaab](https://open.spotify.com/artist/64Or1q5UDgq189fmuBe42s) | [Time](https://open.spotify.com/album/2NlOs2BIqS0JJbgWqv1nyf) | 3:00 | 2022-08-27 | 2023-01-11 |
 | [To the Bank](https://open.spotify.com/track/3NbIe4vSrWLezlaKpazdht) | [Alo Wala](https://open.spotify.com/artist/4mYDn1R8xbWE4WhRPlr1IG) | [To the Bank](https://open.spotify.com/album/1hjhpscWm204Rr9cUAWIsO) | 3:33 | 2022-08-27 | 2022-09-24 |

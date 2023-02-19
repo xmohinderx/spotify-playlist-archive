@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/3vfWb8888rKXodLlqnRGoa"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198236,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/7f0PsfE1Dbk7PPRVu6knrQ"
+    },
+    {
+      "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
       },
@@ -7000,7 +7018,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 173278,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/1tLF8UaFMkT28AUCOO2ccd"
@@ -12058,7 +12076,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 218733,
       "name": "Lasciami",
       "url": "https://open.spotify.com/track/6bJxP5gopwdVifrLIu17ox"
@@ -14678,7 +14696,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 165216,
       "name": "MONDAY (feat. Shiva & Michelangelo)",
       "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
@@ -16354,6 +16372,24 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/3vfWb8888rKXodLlqnRGoa"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174153,
+      "name": "Nuvole in testa",
+      "url": "https://open.spotify.com/track/2A90SdsgdKkx16nztUIluL"
     },
     {
       "album": {
@@ -21156,7 +21192,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 197928,
       "name": "Stupido",
       "url": "https://open.spotify.com/track/13dP6ARCbC6jB8y6eCCCSD"
@@ -22667,6 +22703,24 @@
     },
     {
       "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/3vfWb8888rKXodLlqnRGoa"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195578,
+      "name": "Tutto diventa normale",
+      "url": "https://open.spotify.com/track/5C9X3OICVNaD0HnuoIRChN"
+    },
+    {
+      "album": {
         "name": "T\u00e9l\u00e9phone",
         "url": "https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt"
       },
@@ -23392,7 +23446,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Vieni nel mio cuore",
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"

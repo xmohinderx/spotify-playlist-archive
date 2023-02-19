@@ -616,10 +616,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 259660,
       "name": "Fallen Enemies",
       "url": "https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2"
+    },
+    {
+      "album": {
+        "name": "Fallen Enemies EP",
+        "url": "https://open.spotify.com/album/3DevhUgrKtw53hNSxJhgkY"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259660,
+      "name": "Fallen Enemies",
+      "url": "https://open.spotify.com/track/5VLPGOWU3zcKbOeG0wDYEM"
     },
     {
       "album": {
@@ -1698,10 +1716,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 381720,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l"
+    },
+    {
+      "album": {
+        "name": "Yumi EP",
+        "url": "https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381720,
+      "name": "Yumi",
+      "url": "https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYSp7hjZhav2"

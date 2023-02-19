@@ -4,7 +4,7 @@
 
 > New music from Latto ft\. LU KALA, Bebe Rexha, Lana Del Rey, and Feist.
 
-5,851 songs - 12 day 23 hr 58 min
+5,852 songs - 13 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,7 +1141,7 @@
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-29 | 2022-08-06 |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-10 | 2023-02-18 |
 | [CURBS](https://open.spotify.com/track/2yWq1VUkJut0ExfZbzy4vF) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:05 | 2022-07-29 | 2022-08-06 |
-| [curious.](https://open.spotify.com/track/1DhRogUArFKO6DOcqdk692) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [curious.](https://open.spotify.com/album/1hIe6IH9Uiy58WKLMo3DPO) | 3:23 | 2023-02-17 |  |
+| [curious.](https://open.spotify.com/track/1DhRogUArFKO6DOcqdk692) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [curious.](https://open.spotify.com/album/1hIe6IH9Uiy58WKLMo3DPO) | 3:33 | 2023-02-17 |  |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-09 | 2022-09-17 |
 | [Currents](https://open.spotify.com/track/4wZlPWevkIrsHo4Wr5oIRt) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Currents](https://open.spotify.com/album/3VHNsnpYi781v0AVA1716L) | 4:43 | 2022-09-09 | 2022-09-17 |
 | [Cut Deep](https://open.spotify.com/track/2Y2nvGDYoKXihBx5KBIugX) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 2:56 | 2022-08-26 | 2022-09-03 |
@@ -1531,7 +1531,8 @@
 | [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 | 2022-04-09 |
 | [En la madrugada](https://open.spotify.com/track/6bkPr33ArJGrdraHQ7VneR) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Destello de estrellas](https://open.spotify.com/album/6Maqkjar4EPcryagfZB7Ju) | 3:34 | 2022-05-27 | 2022-06-04 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-25 | 2022-12-03 |
-| [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 |  |
+| [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 | 2023-02-19 |
+| [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-17 |  |
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [End It](https://open.spotify.com/track/6xUwKT1nmDl56q98hoE5mV) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [End It](https://open.spotify.com/album/0OtzN5CIeoUyeS4O160PNg) | 3:16 | 2022-06-24 | 2022-07-02 |
 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 | 2022-09-16 | 2022-09-24 |

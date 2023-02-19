@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,538 likes - 146 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,604 likes - 146 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 80 | [By Now](https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [By Now](https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4) | 3:20 |
 | 81 | [Runnin into a Heartbreak](https://open.spotify.com/track/39ZE2ZW3wsWltorHX83NdT) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [Little Miss](https://open.spotify.com/album/3bUlRlYn6QN7sOgUp6CF2o) | 3:25 |
 | 82 | [Teenage Dixie](https://open.spotify.com/track/6wnnwyj7qwd1ry2CH2LjEP) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/16ieiOh4bGfXzs6gA8peRQ) | 3:02 |
-| 83 | [Bench Seat](https://open.spotify.com/track/1f8cDVxSt4P6vfP8VvYhJ4) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Songs From I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/0cWOT0ztkGUKJNb0M9nJfM) | 4:02 |
+| 83 | [Bench Seat](https://open.spotify.com/track/74SH9FrC7nDtf8sxAaMYEI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 4:02 |
 | 84 | [Hating Everything She Tries On](https://open.spotify.com/track/5KrsNsqaygJcwLSZm8fBcy) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:45 |
 | 85 | [Her](https://open.spotify.com/track/0DxQMXqaPwr0sEhLJJLycH) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Her](https://open.spotify.com/album/7I2c6Y3Gmbwq4uFcUH4Dv4) | 3:25 |
 | 86 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 145 | [a hundred years old](https://open.spotify.com/track/1c65uHCpB1cJNh4wvlZTrB) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 3:56 |
 | 146 | [My Daddy's Fault](https://open.spotify.com/track/6vfLH8g7hYsaMh6mrQr5i6) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [My Daddy's Fault](https://open.spotify.com/album/0mt0MreNvLGTQNoM8yqbli) | 3:19 |
 
-Snapshot ID: `MTY3NjYxMjg2MywwMDAwMDAwMDRmNzVjOWZiMjViNmU5ODMzZjc4MmRhOTE2NDE3ZjY0`
+Snapshot ID: `MTY3NjYxMjg2MywwMDAwMDAwMDY5NjdlZmNiNGQ1MGUzZWU4NGUyYzg3M2E5MjAyNGM2`

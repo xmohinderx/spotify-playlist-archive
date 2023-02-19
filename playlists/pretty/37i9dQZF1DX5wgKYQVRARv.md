@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Ne Obliviscaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,225 likes - 199 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,336 likes - 199 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

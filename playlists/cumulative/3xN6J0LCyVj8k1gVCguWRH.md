@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,017 songs - 4 day 20 hr 4 min
+2,018 songs - 4 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Good Without Ya](https://open.spotify.com/track/4n1hwoBhUP4SHlW0OngOLu) | [Thea Lissi](https://open.spotify.com/artist/0c4tBcwo6GwaXAKyabYIaj) | [Good Without Ya](https://open.spotify.com/album/5GBvAaHGaLxxnlF1zJe9Zl) | 3:17 | 2022-09-16 | 2022-10-04 |
 | [Goodbadguy](https://open.spotify.com/track/3mHo8GToqWCZwV2PPPRIPU) | [Gherdty](https://open.spotify.com/artist/2Sh6z8gLlh7rgBg3FAEpcz) | [Feels](https://open.spotify.com/album/68cJz6ckoDcAcTmy0Ovxad) | 2:51 | 2020-03-12 | 2020-04-04 |
 | [Goodbye](https://open.spotify.com/track/56701XZPg7gZvU2mAfepoB) | [Itai.](https://open.spotify.com/artist/0fYwyLfpDRVYX4Xcututuz) | [Goodbye](https://open.spotify.com/album/5EmuZA6thsknIzaLd4t3wz) | 3:01 | 2020-05-10 | 2020-05-24 |
+| [Goodbye](https://open.spotify.com/track/6LPuLDchQqhsDV4fbo5lCR) | [Rachel Filgueiras](https://open.spotify.com/artist/281ikHaYt7YeM1Em2besIw) | [Goodbye](https://open.spotify.com/album/2gU01HfudOWI5mSEn9ScYk) | 4:24 | 2023-02-19 |  |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2020-08-20 | 2023-02-12 |
 | [GOODTIME](https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [GOODTIME](https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP) | 2:13 | 2022-09-02 | 2022-09-18 |
 | [Gostar do Mundo](https://open.spotify.com/track/2j60V272qgAufKU7Y89gHL) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/5pH4N97k9zZmHAc3ketHcT) | 2:21 | 2022-11-04 | 2022-11-27 |

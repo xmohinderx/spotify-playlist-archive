@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,479 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,032 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 3 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
 | 4 | [Ai Ai Ai \- Felguk & Cat Dealers Remix](https://open.spotify.com/track/56yFJewuZr1kKfYu2O35nx) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Ai Ai Ai \(Felguk & Cat Dealers Remix\)](https://open.spotify.com/album/6dxLUe2QiX8NyhJNjcOeoB) | 3:20 |
 | 5 | [Freedom](https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Freedom](https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4) | 3:18 |
-| 6 | [Rap Do Silva \(Remix\)](https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Koltens](https://open.spotify.com/artist/2lqXWnRGW8WoC241cZ2uV2), [Bob Rum](https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r) | [Rap Do Silva \(Remix\)](https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7) | 2:20 |
+| 6 | [Rap Do Silva \(Remix\)](https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [KOLTENS](https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE), [Bob Rum](https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r) | [Rap Do Silva \(Remix\)](https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7) | 2:20 |
 | 7 | [Ocean](https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Ocean](https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs) | 2:54 |
 | 8 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
 | 9 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |

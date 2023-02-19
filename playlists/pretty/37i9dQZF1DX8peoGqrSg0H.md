@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,497 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,635 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 7 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
 | 8 | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/track/1fd0ICmxYdKSlfk9bXmJpx) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/album/0aVxWnktRdNsyQiqir7Gxx) | 3:26 |
 | 9 | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 |
-| 10 | [แฟนแฟร์](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 |
+| 10 | [แฟนแฟร์ \- Dreamy](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 |
 | 11 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
 | 12 | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ) | 3:36 |
 | 13 | [สิ่งมหัศจรรย์ที่ไม่มีรูปแบบ \(Unidentified Wonder\)](https://open.spotify.com/track/6Y0JFB2V1spM9fKRsXWn07) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [สิ่งมหัศจรรย์ที่ไม่มีรูปแบบ \(Unidentified Wonder\)](https://open.spotify.com/album/3QLkXLzews4QBigdlowr9L) | 3:48 |

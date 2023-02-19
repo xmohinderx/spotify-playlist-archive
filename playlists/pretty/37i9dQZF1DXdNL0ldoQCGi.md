@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,679 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,061 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 21 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 | 22 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 |
 | 23 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 |
-| 24 | [Maloqueiro](https://open.spotify.com/track/2YShSMbfqvkqzvHRDtSHUU) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [dj kotim](https://open.spotify.com/artist/04kyllBVjNifP3pegkVX1g) | [Maloqueiro](https://open.spotify.com/album/7GyE4rLSIVuvEUzYBUlGZJ) | 3:52 |
+| 24 | [Maloqueiro](https://open.spotify.com/track/2YShSMbfqvkqzvHRDtSHUU) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Maloqueiro](https://open.spotify.com/album/7GyE4rLSIVuvEUzYBUlGZJ) | 3:52 |
 | 25 | [Olha Se Você Não Me Ama](https://open.spotify.com/track/2oT3ecoWW6LaEfL4t9JjCP) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Olha Se Você Não Me Ama](https://open.spotify.com/album/6osqEvjiTzb4tTfiEljaUs) | 4:30 |
 | 26 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/7CIj5SFTB6WPJrYjLZN5bp) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo Em Fortaleza](https://open.spotify.com/album/6FpXbrHwBDgDOpFXvNGn7d) | 2:58 |
 | 27 | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/track/6tW23l5oRR8XyYJsF5si9G) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/album/3ROWMQ6yXBXYGz2fCCuvse) | 2:40 |

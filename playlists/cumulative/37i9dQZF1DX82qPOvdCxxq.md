@@ -2,7 +2,7 @@
 
 ### [Faith Finds](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
+> Go deep in discovery for great new songs of faith and inspiration\. Cover:  Abby Robertson
 
 57 songs - 4 hr 17 min
 

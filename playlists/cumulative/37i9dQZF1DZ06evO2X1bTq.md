@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2X1bTq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2X1bTq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2X1bTq)
 
-### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
+### [This Is U2 \(3\)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
 > This is U2\. The essential tracks, all in one playlist.
 

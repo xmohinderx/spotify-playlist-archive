@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "StoryBots Color Songs",
+        "url": "https://open.spotify.com/album/5r4TOR3XNEAqj1Efaso9hD"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62349,
+      "name": "Look For Purple",
+      "url": "https://open.spotify.com/track/1wTqSyN2Y9ApTcqWRLGqV4"
+    },
+    {
+      "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 62500,
       "name": "Look For Purple",
       "url": "https://open.spotify.com/track/3XKze0nfGgpACLZzFcnzd4"
@@ -2494,6 +2512,24 @@
     {
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63250,
+      "name": "Triangles",
+      "url": "https://open.spotify.com/track/1uDOHinqS3YShFL7qdzlfS"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
       },
       "artists": [
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 63500,
       "name": "Triangles",
       "url": "https://open.spotify.com/track/6t6mbHaTrsrROqAZFXo8Nb"

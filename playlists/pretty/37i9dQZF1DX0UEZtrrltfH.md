@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,106 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,153 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 54 | [FTS \- Original Mix](https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [FTS](https://open.spotify.com/album/0rXON439n3w0JaRaugKasV) | 5:29 |
 | 55 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 56 | [Tokyo Drift](https://open.spotify.com/track/3DJnEIP8U824ZVEBOgOpqG) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Uninvited](https://open.spotify.com/album/1j1JRQgSgUCTrXSSOd0kIK) | 3:04 |
-| 57 | [5th New Century \- Instrumental version](https://open.spotify.com/track/6xY8dWstE3rFzi3kknT8hH) | [Philipp Gorbachev](https://open.spotify.com/artist/6eY2REoBPKZ4CnJD0sFdfP) | [Unlock The Box](https://open.spotify.com/album/29phuOIOOWD6LOUW7WdbXa) | 6:03 |
+| 57 | [5th New Century \- Instrumental version](https://open.spotify.com/track/0mtwnPLAY9yg3CRu259DSe) | [Philipp Gorbachev](https://open.spotify.com/artist/6eY2REoBPKZ4CnJD0sFdfP) | [Unlock the Box](https://open.spotify.com/album/0Xv2BgEN4fJvaJybA1pnJ1) | 6:03 |
 | 58 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
 | 59 | [On Da Block](https://open.spotify.com/track/7GBzYvWAITt7DDYyR1L3jG) | [StacEmp](https://open.spotify.com/artist/3d4rK6MigFRFYMKWGQhA58) | [Steel City Dance Discs Volume 16](https://open.spotify.com/album/6QH8oOcYmyhA9PKjpaLrPS) | 6:52 |
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDllNzgzZDFiOTBmMzY3M2UxYjYxNDc5NTc0OGNkY2Q3`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGQxMGQyZWM4MmZjMTI1ZThmOTVjZTRiZmZjYzYxZTBi`

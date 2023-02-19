@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Costa Ventura",
+        "url": "https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W"
+      },
+      "artists": [
+        {
+          "name": "Dr. Trit\u00f3n",
+          "url": "https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221170,
+      "name": "Costa Ventura",
+      "url": "https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV"
+    },
+    {
+      "album": {
         "name": "Jet Set",
         "url": "https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NDM1MDAsMDAwMDAwMDA5MjZhZTEyYjFkNjQ2OTlkNTE0M2ZjYTE1ZDZlNGU2Mg==",
+  "snapshot_id": "Mjc5NDM1MDAsMDAwMDAwMDBhMmEyMTJmYjJiY2U5YWI4ZTBlOWJjNDhkNGM4YzhmMw==",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tell Everyone",
-        "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tell Everyone",
-      "url": "https://open.spotify.com/track/2URpmILVPQ3tUe4g0DATNk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Lovesong",
         "url": "https://open.spotify.com/album/3PceYgXOI6BnaxPAYoCGd4"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 117500,
       "name": "The Good ,Bad, and Ugly",
       "url": "https://open.spotify.com/track/1bCTelTgpZc6cwtwInOYNR"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Tell Everyone",
+        "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tell Everyone",
+      "url": "https://open.spotify.com/track/2URpmILVPQ3tUe4g0DATNk"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -380,9 +380,77 @@
           "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 264161,
-      "name": "Song 02 (Paralyzed) - Demo 2018",
-      "url": "https://open.spotify.com/track/1AOqt8dL9UqsipSOHAZdV2"
+      "duration_ms": 381843,
+      "name": "Song 10 (S2N) - Demo 2018",
+      "url": "https://open.spotify.com/track/08OSm1Ccq0PHXVoiAtLBon"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Deep Focus",
+        "url": "https://open.spotify.com/album/61yNWzit8KGbJJFRC6QoNd"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Realms",
+          "url": "https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj"
+        },
+        {
+          "name": "LoFi Bear",
+          "url": "https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE"
+        }
+      ],
+      "duration_ms": 116382,
+      "name": "Deep Focus",
+      "url": "https://open.spotify.com/track/24dd7WJxHdaGSIcDF4MKMo"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "LET'S RIDE! (Drift Phonk)",
+        "url": "https://open.spotify.com/album/5sWR92Se8bqmaQlh0dS7Ut"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "duration_ms": 147778,
+      "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
+      "url": "https://open.spotify.com/track/0nzM2EjruLiTFWnCIGimFk"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -403,18 +471,38 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ"
+        "name": "2002",
+        "url": "https://open.spotify.com/album/1zAVgTm4FHv0QYhrgtqHBy"
       },
       "artists": [
         {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
+        },
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
         }
       ],
-      "duration_ms": 262925,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0"
+      "duration_ms": 186120,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/3Ea8cCWHFBWy8XaDRO7fK7"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Spirit Quest",
+        "url": "https://open.spotify.com/album/08Kl8NLPtlHbl3JedIKNt8"
+      },
+      "artists": [
+        {
+          "name": "Chillquest",
+          "url": "https://open.spotify.com/artist/4Qwl3eBreNvEdZE5DUjyMB"
+        }
+      ],
+      "duration_ms": 126185,
+      "name": "Spirit Quest",
+      "url": "https://open.spotify.com/track/2aleGe2cz1wrawOKLrH0pC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -459,26 +547,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Gorge '98",
         "url": "https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3"
       },
@@ -491,26 +559,6 @@
       "duration_ms": 593404,
       "name": "Tube - Live",
       "url": "https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "the ordinary is ordinary because it ordinarily repeats",
-        "url": "https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 377999,
-      "name": "the ordinary is ordinary because it ordinarily repeats",
-      "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -547,46 +595,6 @@
       "duration_ms": 512008,
       "name": "Meta Glass (NikNak Remix)",
       "url": "https://open.spotify.com/track/3Lde16rrCL5XTjfCn4HNP2"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/085spaeyduQQLIrmscsang"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Tia Simone",
-          "url": "https://open.spotify.com/artist/1e1HmU6K8SdfUMIjYO73ke"
-        }
-      ],
-      "duration_ms": 317567,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/5UxdkER4n3H6BMBYsVDJyT"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "To What End",
-        "url": "https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Toine Jameson",
-          "url": "https://open.spotify.com/artist/5Sql9pzSHGCzUJUXvtZCcK"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Bartenders (feat. Toine Jameson)",
-      "url": "https://open.spotify.com/track/0127mZaKLNesIX582WB4R1"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

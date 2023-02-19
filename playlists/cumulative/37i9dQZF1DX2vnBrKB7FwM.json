@@ -602,6 +602,24 @@
     {
       "album": {
         "name": "Emancipaci\u00f3n",
+        "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234056,
+      "name": "Emancipaci\u00f3n",
+      "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"
+    },
+    {
+      "album": {
+        "name": "Emancipaci\u00f3n",
         "url": "https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb"
       },
       "artists": [
@@ -612,7 +630,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-19",
       "duration_ms": 234056,
       "name": "Emancipaci\u00f3n",
       "url": "https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK"

@@ -4,7 +4,7 @@
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-124 songs - 10 hr 24 min
+125 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:42 | 2022-03-09 | 2022-11-14 |
 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 | 2021-03-02 | 2022-03-10 |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/6h4WLS1E83VT3vplRJgroK) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/album/73dd5jycwxSTN1XZ1dZQfd) | 3:02 | 2021-03-02 | 2022-07-29 |
-| [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-03-09 |  |
+| [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/3bGce0Swt1wEfOLZkCLFLI) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:02 | 2022-03-09 |  |
+| [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-03-09 | 2023-02-19 |
 | [Into the Sea \(It's Gonna Be OK\)](https://open.spotify.com/track/7CTcOkPGQEIes8BCF6Fpwk) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Into the Sea](https://open.spotify.com/album/5vWgeeiPDvpZHE04Ofaikg) | 3:02 | 2021-03-02 | 2022-07-29 |
 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 | 2021-03-02 | 2022-03-10 |
 | [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 | 2022-03-09 |  |

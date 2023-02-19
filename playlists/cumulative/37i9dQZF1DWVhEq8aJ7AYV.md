@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-226 songs - 11 hr 12 min
+227 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Conspiración Gangster](https://open.spotify.com/track/1a9Zj3gMi35ue2IEK7Y6JJ) | [Los Granujas](https://open.spotify.com/artist/2CRPNRXkUHbH0m3UY75GGT) | [Psiconauta](https://open.spotify.com/album/5inj7YxYGtzjAkQIfxy6TN) | 2:52 | 2021-09-03 | 2022-07-25 |
 | [Contra las Cuerdas](https://open.spotify.com/track/4tMP5TYwnosRe9OAXJLMtX) | [Los Mambo Jambo](https://open.spotify.com/artist/4k1oj4XphotyHhFeQ4tWld) | [Contra las Cuerdas](https://open.spotify.com/album/47lO1gjjv8DcNyyUs08Ze6) | 2:48 | 2021-09-03 | 2022-07-29 |
 | [Corralera del veneno](https://open.spotify.com/track/2m53ucPyOfQ7NHHXAfVcF9) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2018](https://open.spotify.com/album/7zLxRzZnE5Lkk8K9mtNogL) | 2:14 | 2021-09-03 | 2022-07-29 |
+| [Costa Ventura](https://open.spotify.com/track/6GYggbJfsWS37wTzs9sdaV) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Costa Ventura](https://open.spotify.com/album/3H3HevJCx1bRHJe4RFLg7W) | 3:41 | 2023-02-17 |  |
 | [Crime Scene](https://open.spotify.com/track/22G5ONHY2sCfNGLySQVDx0) | [Los Straitjacket](https://open.spotify.com/artist/5kZHM1iLvRuruP7dNAR8ak) | [Jet Set](https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w) | 2:34 | 2021-09-03 | 2022-07-13 |
 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 | 2021-09-03 |  |
 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 | 2021-09-03 |  |

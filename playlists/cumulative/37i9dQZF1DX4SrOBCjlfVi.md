@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Polo G, Latto and more\. Cover: Don Toliver
 
-2,299 songs - 4 day 11 hr 17 min
+2,300 songs - 4 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1316,7 +1316,7 @@
 | [Move Em](https://open.spotify.com/track/53sHnylvna8fZ87A1PleQF) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [Move Em](https://open.spotify.com/album/1FDkz3BOWMyftZVSK78c3k) | 2:20 | 2022-04-15 | 2022-04-23 |
 | [moved to miami \(feat\. Lil Baby\)](https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:42 | 2021-12-24 | 2022-01-15 |
 | [Moving Too Fast \(feat\. Young Nudy\)](https://open.spotify.com/track/3uEaaD4pE9PxF9enTVd609) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 3:32 | 2022-09-02 | 2022-09-10 |
-| [Mozart](https://open.spotify.com/track/0seH2vqSpBl0pVG5wMKCK8) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Mozart](https://open.spotify.com/album/0CGELKukZuFlEqnpdPS8Ke) | 2:12 | 2023-02-17 |  |
+| [Mozart](https://open.spotify.com/track/0seH2vqSpBl0pVG5wMKCK8) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Mozart](https://open.spotify.com/album/0CGELKukZuFlEqnpdPS8Ke) | 2:17 | 2023-02-17 |  |
 | [MR MEMPHIS MASSACRE](https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 2:51 | 2022-10-28 | 2022-11-05 |
 | [Mr\. CBFW \(feat\. G Herbo\)](https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Drill Season](https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf) | 2:43 | 2022-11-11 | 2022-11-19 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 | 2023-01-21 |
@@ -2202,6 +2202,7 @@
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-03 | 2022-06-18 |
 | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1vehZ3FrmhbxX5oh9ZdO0c) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/3pnZdrOF3JXq5ZTXsT09AW) | 3:44 | 2022-07-15 | 2022-08-06 |
 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 | 2023-01-06 |
+| [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-18 |  |
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2022-12-09 | 2022-12-17 |
 | [WAVE](https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [WAVE](https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF) | 2:10 | 2022-10-21 | 2022-10-29 |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2021-12-24 | 2022-01-22 |

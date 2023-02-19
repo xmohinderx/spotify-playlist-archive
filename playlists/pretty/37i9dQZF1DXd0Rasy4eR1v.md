@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Eifi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 89 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 89 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 18 | [Me vs Me](https://open.spotify.com/track/2ASTwug6F84lmYcASaB8YH) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [Me vs Me](https://open.spotify.com/album/5w14dfgjzLRKpVTbqnI2TY) | 2:29 |
 | 19 | [Ghar](https://open.spotify.com/track/0rn3TehofSCzQD9S0lTwds) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Ghar](https://open.spotify.com/album/2Zb0zcml1ICCSQvlBQBBpn) | 3:13 |
 | 20 | [Home To You](https://open.spotify.com/track/4yHVWv4jjKXYFiqh60AJE7) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Home To You](https://open.spotify.com/album/6vlkEcuH9XKREnSyXeU9WO) | 2:23 |
-| 21 | [I was thinking about you last night](https://open.spotify.com/track/1ToeOoA1YAb63wtI8v1Ti0) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b) | [I was thinking about you last night](https://open.spotify.com/album/4EV6Iuw5RvD6DRQiQYfOEz) | 2:20 |
+| 21 | [Thinking about you](https://open.spotify.com/track/13lsSMQm0xyWiOc2kCvADx) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b) | [Thinking about you](https://open.spotify.com/album/2ELlnYULZUEOuaziblhOoT) | 2:20 |
 | 22 | [La Makani](https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [La Makani](https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs) | 4:32 |
 | 23 | [Dil Na Lanvee](https://open.spotify.com/track/40Uqtakcro5MbrLBQVwv22) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Dil Na Lanvee](https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh) | 2:32 |
 | 24 | [Chor Jaane De](https://open.spotify.com/track/1JEZkpteozoccUQPIlswvf) | [Hammad Nadeem](https://open.spotify.com/artist/5VqjHYEOJkjgHabo2v4d73), [HAIDER](https://open.spotify.com/artist/5gET2xSxA2BxghUknqTTyy), [FAEK](https://open.spotify.com/artist/2gHFfQUX6RRaJaJJnh5xRf) | [Chor Jaane De](https://open.spotify.com/album/287NZJCiVHKoIibRx8fbtL) | 3:27 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 88 | [Piya](https://open.spotify.com/track/3NMt80oryb67S2u2siw0Wm) | [Danish Faruqi](https://open.spotify.com/artist/4QhWLeCCm0gxHSs8iccOMe), [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Falling Into Place](https://open.spotify.com/album/6DPpPM97ENwbWiXk9Ns5Jp) | 2:46 |
 | 89 | [Mehr un Wafa \- Remastered](https://open.spotify.com/track/1juvkpXpGEaMYdIFUTuKgu) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Mehr un Wafa \(Remastered\)](https://open.spotify.com/album/1Bgm5o5r3ILglPtEQmFLDN) | 3:03 |
 
-Snapshot ID: `MTY3NjI3NDAzNSwwMDAwMDAwMDEzMjRjNTJiNGI4ODE4NGI4NmE5YTM2YTM2ZTgwYTRm`
+Snapshot ID: `MTY3NjI3NDAzNSwwMDAwMDAwMDczMTdkOTRkMTk4NTJjZTZlNjdkZmE5MmVhYTRmYjhk`

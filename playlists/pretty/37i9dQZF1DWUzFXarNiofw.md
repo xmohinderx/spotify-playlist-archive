@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SPINALL & Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,259 likes - 126 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,473 likes - 126 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 99 | [Closure](https://open.spotify.com/track/7LtlYlVrSuM54aKxa0FxDZ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Closure \(Remix\)](https://open.spotify.com/album/0Sg1F7YdSv1ApoTBpzcvSM) | 3:56 |
 | 100 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 |
 | 101 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 |
-| 102 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 |
+| 102 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 |
 | 103 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 |
 | 104 | [Better Than Him](https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 3:49 |
 | 105 | [Balance \- Acoustic](https://open.spotify.com/track/5HKMiIppgDnjR0aBnASQpO) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:21 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 125 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
 | 126 | [Tell Me](https://open.spotify.com/track/627yvru8268y11clOwn3f4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Tell Me](https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c) | 3:24 |
 
-Snapshot ID: `MTY3NjY1MjcyMiwwMDAwMDAwMDM3YjAyOWRiYWQ0NTM1OTgyYjk3ZmJkNTg1ZTRlZmI5`
+Snapshot ID: `MTY3NjY1MjcyMiwwMDAwMDAwMGFkYjQ1MDhhZTA2ODE3YmFkMjI2N2RjNmJmMDA1YjM3`
