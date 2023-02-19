@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5611\)
+## Playlists \(5612\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -3155,6 +3155,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Planetary Soul](/playlists/pretty/37i9dQZF1DWWvTQHhm7Jtf.md)
 - [Plant Care](/playlists/pretty/37i9dQZF1DXd4CYaMhciae.md)
 - [Plants & Chill](/playlists/pretty/37i9dQZF1DWVEcEOoB3Uwy.md)
+- [Played by Kidnap](/playlists/pretty/3BBOHHtAWM7qqVZE1JDd0Y.md)
 - [Plugged In](/playlists/pretty/4hQEzUCJ0DCAgeDhWLUZhS.md)
 - [Pluggfokus](/playlists/pretty/37i9dQZF1DX6DtDmlyZ4X7.md)
 - [Plus Ultra](/playlists/pretty/37i9dQZF1DX14EWeH2Pwf3.md)
